@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 38662; Civ. No. 41878"
+decided: "1978-08-15"
+citations: ["83 Cal. App. 3d 814"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GENE KAY, Plaintiff and Appellant, v. PACIFIC TELEPHONE AND TELEGRAPH COMPANY et al., Defendants and Respondents. GENE KAY, Plaintiff and Respondent, v. PACIFIC TELEPHONE AND TELEGRAPH COMPANY et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/83/cases/0814-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990068
+cites_cases: ["109 A.L.R. 1327", "120 Cal.Rptr. 865", "123 Cal.Rptr. 804", "127 Cal.Rptr. 737", "134 Cal.App.2d 361", "138 Cal.Rptr. 293", "14 Cal.3d 150", "19 Cal.3d 395", "285 P.2d 704", "301 U.S. 495", "423 U.S. 1069", "423 U.S. 887", "46 L.Ed.2d 118", "47 L.Ed.2d 80", "51 Cal.App.3d 40", "534 P.2d 705", "55 Cal.App.3d 840", "563 P.2d 849", "96 S.Ct. 181", "96 S.Ct. 851"]
+---
+
+# Kay v. Pacific Telephone & Telegraph Co.
+
+## Majority (CHRISTIAN, J.)
+
+Opinion
+CHRISTIAN, J.
+Gene Kay appeals from an order denying a preliminary injunction to restrain continuation of allegedly unlawful exemptions from a telephone users tax imposed by an ordinance of the City and County of San Francisco. While Kay’s appeal was pending, the cause was tried upon stipulated facts; the court rendered judgment determining that it was a denial of equal protection for the ordinance to tax intrastate use of telephone service without also taxing interstate use of such service. The judgment directed the city to amend the ordinance “to eliminate the exemption for interstate . . . services, or . . . repeal [the] ordinance entirely, ...” The court awarded fees to counsel for plaintiff of “five percent (5%) of the amounts collected from reaching interstate telephone communications services during each of the first five (5) calendar years after the tax first is imposed, . . .” The court estimated that the fee would amount to approximately $750,000. The city and Pacific Telephone and Telegraph Company have appealed from the judgment.
+The stipulation of facts upon which the cause was submitted for decision establishes that Kay is a resident and property owner of the City and County of San Francisco, and subscribes to telephone service at his residence. Because Kay’s telephone is located in San Francisco, he is subject to the city’s telephone users tax for intrastate calls.
+It is not clear on what basis the court certified the case as a class action; telephone subscribers constituting members of the designated class (whom the court did not require to be notified of the pendency of the action) appear to have no community of interest in the position taken by Kay; if he prevails and the ordinance is amended to extend the tax to interstate telephone service, the consequence will be adverse to the interests of the members of the class in that interstate calls of members of the class, which are exempt under the present terms of the ordinance, will be taxed. But the parties have not substantially challenged the validity of class representation, and we deem it appropriate to review the judgment on the merits.
+The city and Pacific Telephone correctly point out that an attack upon a tax classification based upon a claim that equal protection has been violated is a most difficult enterprise. “[I]t has long been the rule that tax classifications carry a presumption of constitutionality which can be overcome only by the most explicit demonstration that the classification fosters hostile and oppressive discrimination against particular persons or groups.” (Arp v. Workers’ Comp. Appeals Bd. (1977) 19 Cal.3d 395, 403 [138 Cal.Rptr. 293, 563 P.2d 849].) The burden of making that showing rests upon the party who challenges the classification. (Ganschow v. Ganschow (1975) 14 Cal.3d 150, 158 [120 Cal.Rptr. 865, 534 P.2d 705], app. dism. 423 U.S. 887 [46 L.Ed.2d 118, 96 S.Ct. 181].) Here, Kay entirely failed to show that “hostile and oppressive discrimination” resulted from the legislative decision of the board of supervisors to exempt from taxation interstate service provided to telephone subscribers within the city. On the contrary, the record contains strong indications that the classification had a rational relationship to a reasonable municipal purpose. (Cf. Helton v. City of Long Beach (1976) 55 Cal.App.3d 840 [127 Cal.Rptr. 737].) The administrative burden of making arrangements to tax interstate calls was not shown by Kay to be negligible. Thus, that factor is by itself sufficient to justify the exemption. (See City of San Jose v. Donohue (1975) 51 Cal.App.3d 40, 45 [123 Cal.Rptr. 804], app. dism. 423 U.S. 1069 [47 L.Ed.2d 80, 96 S.Ct. 851].) There is a substantial possibility that taxation of interstate calls would be permissible under the commerce clause of the Constitution of the United States only if subjected to some scheme of apportionment. (See City of Oceanside v. Pacific Tel. & Tel. Co. (1955) 134 Cal.App.2d 361 [285 P.2d 704].) Reasonable fear of constitutional restrictions, or desire to avoid a reasonably apprehended constitutional confrontation with another governmental jurisdiction, is a lawful basis for classification of transactions in an excise tax enactment. (Carmichael v. Southern Coal Co. (1936) 301 U.S. 495, 513 [81 L.Ed. 1245, 1255, 57 S.Ct. 868, 109 A.L.R. 1327].)
+Because the stipulated facts establish as a matter of law that the court should have rendered judgment of dismissal, there is no occasion for retrial upon reversal.
+The order denying preliminary injunction is affirmed.
+The judgment is reversed with directions to render judgment of dismissal.
+Caldecott, P. J., and Rattigan, J., concurred.
+The petition of the respondent in No. 41878 for a hearing by the Supreme Court was denied October 12, 1978. Bird, C. J., was of the opinion that the petition should be granted.
+Section 703 of the Municipal Code of the City and County of San Francisco: “(a) There is hereby imposed a tax upon every person, other than a telephone corporation, using intrastate telephone communication services in the City and County. The tax imposed by this section shall be at the rate of five percent (5%) of the charges made for such services, including minimum charges for services, and shall be paid by the person paying for such services.”
+United States Constitution, article I, section 8, clause 3.
