@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 3821"
 decided: "1922-07-19"
-citations: ["58 Cal. App. 563", "58 Cal. App. 792"]
+citations: ["58 Cal. App. 563"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["POLK McPHERSON, Respondent, v. J. C. WALLING et al., Appellants."]
 source_url: "https://static.case.law/cal-app/58/cases/0563-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2083417
-cites_cases: ["100 Pac. 877", "137 Pac. 1078", "15 A. L. R. 401", "150 Cal. 701", "160 Pac. 21", "179 Pac. 203", "180 Cal. 32", "209 Pac. 209", "23 Cal. App. 245", "31 Cal. App. 567", "89 Pac. 1093", "9 Cal. App. 718"]
+cites_cases: ["100 Pac. 877", "137 Pac. 1078", "15 A. L. R. 401", "150 Cal. 701", "160 Pac. 21", "179 Pac. 203", "180 Cal. 32", "23 Cal. App. 245", "31 Cal. App. 567", "89 Pac. 1093", "9 Cal. App. 718"]
 ---
 
 # McPherson v. Walling
