@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3492"
+decided: "1920-07-20"
+citations: ["48 Cal. App. 586"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAN FRANCISCO-OAKLAND TERMINAL RAILWAYS et al., Petitioners, v. SUPERIOR COURT OF ALAMEDA COUNTY et al., Respondents."]
+source_url: "https://static.case.law/cal-app/48/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2067619
+cites_cases: ["114 Pac. 978", "118 Pac. 550", "159 Cal. 474", "17 Cal. App. 93"]
+---
+
+# San Francisco-Oakland Terminal Railways v. Superior Court
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+This is an original proceeding in mandate to require the superior court to set aside its order dismissing petitioner’s appeal from a judgment adverse to it rendered in the justice’s court in an action entitled Rinke v. San Francisco-Oakland Terminal Rys. etc., and to direct the lower court to proceed with the trial of the action. The petition as first filed was designated as one in certiorari. A demurrer was interposed upon the ground that mandamus and not certiorari was the proper remedy. This demurrer was sustained on the authority of Golden Gate Tile Co. v. Superior Court, 159 Cal. 474, [114 Pac. 978] and Widrin v. Superior Court, 17 Cal. App. 93, [118 Pac. 550], An alternative writ of mandate was ordered issued on the authority .of the case first cited and upon the return day respondent rested upon its general demurrer which put in issue the question whether the superior court had properly dismissed the appeal because,, the surety had not justified in the manner prescribed by law. The argument of respondent is that the provisions of section 1057a of the Code of Civil Procedure, relating to the justification of corporate surety upon a bond on appeal from a judgment rendered in a justice’s court, are mandatory and exclusive.
+The admitted facts alleged in the petition are: When the appeal was taken from the judgment rendered in the justice’s court appellant within due time filed a cost and stay bond giving a foreign surety company as surety thereon. Exception was taken to the sufficiency of the surety, and in due time and after proper notice a hearing was had thereon before the justice of the peace. At the hearing the agent and attorney in fact of the surety company appeared personally before the justice of the peace and gave such testimony as to the financial standing of the company as to satisfy the justice that it was sufficient. He accordingly indorsed his approval of the bond as given. It does not appear that the competency of the agent to so justify was ever questioned, and no objection was or is now made to the sufficiency of the surety; but the sole ground upon which the superior court granted the motion to dismiss the appeal was that the provisions of section 1057a of the Code of Civil Procedure were not strictly complied with.
+Briefly, this section enumerates what may be accepted by the court as conclusive evidence of the sufficiency of the surety. One of the matters mentioned in the section as evidence to prove that fact is a financial statement of the assets and liabilities of the corporation sworn to by the president and attested by the secretary. It is admitted that such a statement was not presented to the justice in this case, but in lieu th.ereof a financial statement was offered, sworn to by the attorney in fact of the corporation, who testified that he was thoroughly familiar with the facts contained therein. The section of the code expressly provides that, when its provisions are complied with, the court must accept the surety as sufficient. Its effect, therefore, is merely to make certain evidence conclusive upon the court for that purpose. It does not attempt to change the ordinary rules of evidence, and, accordingly, if the surety does not elect to make proof of its sufficiency in the manner'""therein permitted, it may justify by any competent evidence proving that fact the same as other sureties may do.
+Furthermore, the justice of the peace having in the exercise of his jurisdiction approved the sufficiency of the sureties, the objection that he did so upon improper or insufficient evidence raises a question of error and not of jurisdiction. The order approving the bond was final until set aside by some appropriate procedure. The superior court may dismiss an appeal if the sureties do not justify before the justice or judge within the time prescribed, upon notice to the adverse party. (Sec. 978a, Code Civ. Proe.) But where, after due notice and hearing within the time prescribed, the justice finds as a matter of fact that the sureties are sufficient and accordingly approves the bond, the superior court is without power to dismiss the appeal on motion based solely on the ground that the evidence heard by the justice was insufficient.
+The conclusion follows that the respondent was without jurisdiction to dismiss the appeal, and for the reasons heretofore given it is hereby ordered that a writ of mandate issue out of this court commanding him to set aside said order and proceed with the trial of the action.
+Brittain, J., and Langdon, P. J., concurred.
