@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B086706"
+decided: "1995-07-18"
+citations: ["36 Cal. App. 4th 1105"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OLIVER TRUJILLO, a Minor, etc., Plaintiff and Appellant, v. G.A. ENTERPRISES, INC., et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/36/cases/1105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4884025
+cites_cases: ["16 Cal.App.4th 421", "162 Cal.App.3d 193", "20 Cal.Rptr.2d 97", "208 Cal.Rptr. 384", "210 Cal.App.3d 243", "232 Cal.Rptr. 528", "25 Cal.Rptr.2d 137", "258 Cal.Rptr. 343", "42 Cal.3d 1051", "6 Cal.4th 666", "728 P.2d 1163", "863 P.2d 207"]
+---
+
+# Trujillo v. G.A. Enterprises Inc.
+
+## Majority (GILBERT, J.)
+
+Opinion
+GILBERT, J.
+A fast-food restaurant hires a security guard to protect its patrons. Some youths threaten a patron of the restaurant in the presence of the security guard. A fight ensues in which the patron is injured.
+Under such circumstances there is a duty on the part of the restaurant to protect its patron and there is a triable issue of fact as to whether the security guard acted reasonably. The injured patron need not prove the restaurant had notice of prior similar acts.
+Oliver Trujillo, by his guardian ad litem, Maria Carreno, (Trujillo) appeals from the summary judgment granted to Victoria Court Management and G.A. Enterprises, Inc., which does business as McDonald’s Restaurant (McDonald’s). Trujillo was attacked inside a McDonald’s restaurant. We reverse the summary judgment.
+Facts
+One afternoon, Trujillo and a friend walked to the McDonald’s restaurant in Victoria Court on State Street in Santa Barbara. As they walked, they noticed a group of kids “hanging out” in front of McConnell’s Ice Cream shop near McDonald’s. It was not, unusual for kids, panhandlers and others to be milling about on the sidewalk in the area, and Victoria Court Management had a security guard on duty at the site.
+As the pair approached the entrance to McDonald’s, Trujillo heard one of the kids say, “Hey, that’s the one.” Trujillo did not think they were talking about him. But as soon as he entered McDonald’s, a group of kids approached him. The security guard followed the group and also entered McDonald’s. One of the kids said, “Hey, you, come here.” He asked Trujillo whether he had jumped his cousin. Trujillo said “No. I don’t know your cousin.”
+A girl took a swing at Trujillo. The nearby security guard grabbed her and took her away to the telephones outside McDonald’s. Another youth, Joseph Dorland, displayed a large knife. He and the other kids started hitting Trujillo. The security guard did not return until after the fight ended. Trujillo was injured in the melee. Afterwards, the security guard called the police. Trujillo filed this suit.
+In pertinent part, the first amended complaint alleged that when the group followed Trujillo into McDonald’s, “a security guard working as an agent of defendant Victoria Court Management . . . appeared at the scene for the purpose of preventing any trouble.” The guard left the scene and failed to fulfill his duty “of preventing any trouble.” Trujillo alleged that respondents “failed and refused to hire competent and adequate security despite their knowledge ... of the crime problems existing on and in the immediate area surrounding the premises.”
+According to the suit, Victoria Court Management managed, controlled and supervised the property. In that capacity, it controlled and had direct responsibility and management “over those who did supervise and operate such premises.” The suit alleged that each of the defendants acted within the course and scope of their agency and with the express and implied permission and consent of the other defendants as agent of the others “in doing the things alleged herein . . . .” The suit alleged that respondents “had a duty ... to exercise due care for the safety, health and protection of the plaintiff.”
+Respondents moved for summary judgment. In granting the motion, the trial court determined that respondents owed no duty to prevent the third party criminal attack because it was unforeseeable. Respondents had no notice of prior similar incidents occurring on the premises. The trial court stated that even if respondents had a duty, Trujillo failed to show a causal relationship to a breach of that duty. This appeal ensued.
+Discussion
+“On review of a summary judgment in favor of the defendant, we review the record de novo to determine whether the defendant has conclusively negated a necessary element of the plaintiff’s case or demonstrated that under no hypothesis is there a material issue of fact that requires the process of trial.” (Ann M. v. Pacific Plaza Shopping Center (1993) 6 Cal.4th 666, 673-674 [25 Cal.Rptr.2d 137, 863 P.2d 207].)
+“The general rule of negligence law in California is that a defendant is liable whenever his failure to act in a reasonable manner contributes to causing the plaintiff’s injury. [Citations.]” (Marois v. Royal Investigation & Patrol, Inc. (1984) 162 Cal.App.3d 193, 199 [208 Cal.Rptr. 384].) A vandal hit Marois while he was standing next to the drive-up window on the premises of a fast-food restaurant which was patrolled by security guards who had just heard of nearby vandalism. The appellate court reversed the nonsuit granted defendants.
+The Marois court explained that “the relationship between a business and its customers is a special one requiring the business ‘to take affirmative action to control the wrongful [conduct] of third persons which threaten invitees where [it] has reasonable cause to anticipate such acts and the probability of injury resulting therefrom. [Citation.]” (Marois v. Royal Investigation & Patrol, Inc., supra, 162 Cal.App.3d at p. 199, italics added.) “By contracting with the business to provide security services, the security guard creates a special relationship between himself and the business’s customers. This relationship, in and of itself, is sufficient to impose on the guard the obligation to act affirmatively to protect customers while they are on the business premises. [Citations.]” (Ibid.) “[A] security guard hired by the business should be liable to an injured customer where the guard fails to act as would a reasonable security guard under similar circumstances and that failure causes . . . injury.” (ibid.) The business which hires the security guard may be liable for its failure to hire a competent security guard. (Ibid.; see Balard v. Bassman Event Security, Inc. (1989) 210 Cal.App.3d 243, 247 [258 Cal.Rptr. 343].)
+Here, the security guard saw the group of youths surround Trujillo in McDonald's. He was present when threats to Trujillo were made. Although he did remove the girl who took a swing at Trujillo, the security guard did not extricate Trujillo from the threatening situation, tell the threatening group to leave, immediately call the police or return quickly to quell the disturbance. Whether the security guard acted reasonably under the circumstances and whether his acts were a substantial factor in causing Trujillo’s injuries are questions of fact to be resolved by trial, not summary judgment. (See Marois v. Royal Investigation & Patrol, Inc., supra, 162 Cal.App.3d at p. 202; see Pool v. City of Oakland (1986) 42 Cal.3d 1051, 1063-1065 [232 Cal.Rptr. 528, 728 P.2d 1163]; cf. Ann M. v. Pacific Plaza Shopping Center, supra, 6 Cal.4th 666; Nola M. v. University of Southern California (1993) 16 Cal.App.4th 421 [20 Cal.Rptr.2d 97], which concerned whether there was a duty to provide security to prevent rape in a shopping center or on a college campus.)
+The judgment is reversed. Costs to appellants.
+Stone (S. J.), P. J., and Yegan, J., concurred.
+Dorland is not a party to this appeal.
