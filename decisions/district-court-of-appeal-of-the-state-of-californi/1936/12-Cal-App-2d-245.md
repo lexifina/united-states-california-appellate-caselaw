@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2816"
+decided: "1936-03-02"
+citations: ["12 Cal. App. 2d 245"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. HARLEY HEDDENS et al., Defendants; W. G. BROWN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/12/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2265497
+cites_cases: ["140 Cal. App. 389", "185 Pac. 881", "203 Cal. 703", "225 Pac. 464", "260 Pac. 321", "265 Pac. 914", "35 Pac. (2d) 645", "43 Cal. App. 638", "65 Cal. App. 704", "86 Cal. App. 130"]
+---
+
+# People v. Heddens
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+Defendant W. G. Brown and his codeiendant, Harley Heddens, were convicted by a jury of the offense designated by section 274 of the Penal Code. Defendant W. G. Brown appeals, contending that the facts alleged in the indictment do not constitute a public offense. The indictment is in the words of the statute, substantially conforming to the requirements of the law, and is therefore súfficient.
+The criticism of the instruction complained of in the appeal is without merit.
+The failure of the court to give any instructions on the subject of accomplices, or the testimony of accomplices, is also urged as one of the grounds of appeal. Appellant and defendant had asked for no instructions on this subject. It is the law that it is not the duty of the court to give instructions upon specific points developed through the evidence introduced at the trial, unless such instructions are requested by the party desiring them, and such is the argument presented by respondent in reply to appellant’s contention. This rule does not apply to the ease at bar. The record reveals that the principal witnesses, if not the only witnesses, involving the defendant Brown in the offense were accomplices, and the only evidence offered by the prosecution tending to corroborate the accomplices was the evidence of defendant Brown’s declarations, which declarations included a denial of guilt. The evidence against the codefendant Heddens was overwhelming and the jury, in ignorance of the law with respect to the necessity of corroborating accomplices and the manner in which such accomplices must be corroborated, might easily have been led astray, and therefore, to insure a fair trial under the law, should have been instructed on this subject.
+So far as the defendant Brown was concerned, this question was vital, and was of the gist of the action.
+It is the duty of the court in criminal cases to give of its own motion instructions on the general principles of law pertinent to such cases, even though they are not proposed or presented in writing by the parties themselves. (People v. Scofield, 203 Cal. 703 [265 Pac. 914]; People v. Bill, 140 Cal. App. 389 [35 Pac. (2d) 645]; People v. Peck, 43 Cal. App. 638 [185 Pac. 881]; People v. Wagner, 65 Cal. App. 704 [225 Pac. 464].)
+Under the circumstances presented in the instant case, failure of the trial court to so instruct the jury was prejudicial error.
+The judgment and the order denying the motion for a new trial are reversed and cause remanded. The appeal from the order denying the motion to vacate and set aside the verdict of the jury is not appealable and is therefore dismissed.
+York, J., concurred.
+
+## Concurrence (HOUSER, P. J., Concurring.)
+
+HOUSER, P. J., Concurring.
+I concur. As is stressed in the main opinion herein, although generally speaking, on the trial of an action, in the absence of a request so to do by a party thereto, a failure upon the part of the trial court to give to the jury a proper instruction upon some pertinent, but not necessarily a determinative, legal principle, will not in itself constitute a reversible error, when from the nature of a criminal action and in consideration of the evidence adduced on its hearing, the particular and controlling circumstances that surround the commission of the alleged offense clearly and unmistakably indicate that a given instruction is not only proper and essential, but as well that it is vital in its effect,— it is the bounden duty of the trial court of its own motion to thoroughly instruct the jury with reference to such point of law.
+It is true that, as disclosed by certain legal precedents to which respondent herein has directed the attention of this court, a view of the law obtains that would appear to be at variance with the rule that is so uniformly declared in the authorities to which attention has been directed in the main opinion herein. Particularly is that situation apparent on an examination of the opinion in the case of People v. Olds, 86 Cal. App. 130 [260 Pac. 321]. But as this court now understands the law, the declaration in that case of the legal principle that because the defendant in that action did not request. that an instruction be given to the jury respecting the necessity of corroboration of testimony that was given by an accomplice,, on appeal from the judgment the appellant was in no position to complain, was too broad, if not inaccurate. An inspection of the appellant’s brief in the cited ease shows that the point was neither thoroughly nor even seriously presented ;—less than one page in the printed brief and but one authority (that was not particularly pertinent to the inquiry), having been devoted to a consideration of the subject. But, in addition to that situation, as is shown not only by the record therein, but as well as appears in the body of the opinion, the testimony that was given by the accomplice of the defendant was fully corroborated by three independent eyewitnesses to the commission of the offense. It is obvious that, assuming the reliability of the testimony that was given by such witnesses, as far as concerned the defendant in the cited case, no miscarriage of justice could have resulted from the failure of the trial court of its own motion to give to the jury an instruction regarding the necessity of corroborating the testimony that was given by the accomplice. Nor is it improbable that the lack of a serious presentation of the point involved, coupled with a consideration of the corroboratory evidence, and the conviction in the “mind” of the appellate court that the defendant had been given a fair trial and that justice had been done in the premises, constituted the incentive for the too broad declaration of the law to which reference has been had.
+As is stated in the main opinion herein, “Under the circumstances presented in the instant case, failure of the trial court to so instruct the jury was prejudicial error”. Such a situation did not obtain in the Olds case and, in the light of the record in that case, no prejudice resulted of the nature that would have warranted a reversal. The judgment therein, in any event, should, and probably would, have been affirmed by virtue of the mandate of section 4% of article VI, of the Constitution.
