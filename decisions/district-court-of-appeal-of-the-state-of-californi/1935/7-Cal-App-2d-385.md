@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9989"
+decided: "1935-06-04"
+citations: ["7 Cal. App. 2d 385"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. D. F. ELLERMAN, Appellant, v. PACIFIC ELECTRIC RAILWAY COMPANY (a Corporation) et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/7/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2220583
+cites_cases: ["13 Pac. (2d) 915", "13 Pac. (2d) 918", "189 Cal. 746", "192 Cal. 357", "210 Pac. 259", "216 Cal. 197", "216 Cal. 205", "219 Pac. 992"]
+---
+
+# Ellerman v. Pacific Electric Railway Co.
+
+## Majority (STEPHENS, P. J.)
+
+STEPHENS, P. J.
+Upon petition for rehearing our attention has been called to some inaccuracies in the statement of facts, and in correcting them we have concluded to enlarge somewhat upon our reasons for affirming the judgment. The former opinion is therefore stricken and the following substituted in its stead.
+Plaintiff brought suit for damages against defendants. When all of the evidence at the trial was in, defendants made and the court granted a motion for a directed verdict. The jury accordingly rendered its verdict in favor of defendants and this appeal is from the judgment entered thereon.
+There is but one ultimate question in the case: Was there evidence sufficient to raise an issue as to the last clear chance of defendants to avoid the collision causing the injuries? Negligence is a necessary element in the doctrine of the last clear chance. (Young v. Southern Pacific Co., 189 Cal. 746 [210 Pac. 259].)
+The accident happened in open country, although within the city limits of Santa Monica. An interurban electric railroad motor passenger car was traveling 30 to 45 miles per hour on its own right of way. Most of the witnesses estimate its speed at 35 miles per hour. An expert for plaintiff testified that the car could stop within 115 or 120 feet at a speed of 25 miles per hour, within 200 or 210 feet going 35 miles per hour and within 250 or 260 feet at 40 miles per hour. When the electric car was about 350 feet from a well-traveled boulevard crossing at grade, appellant’s sedan-type automobile was something like 400 feet from and approaching the crossing at a rate of 30 to 50 miles per hour. Plaintiff himself says he was traveling about 30 miles per hour. All of these speeds and distances are estimates of witnesses who saw the events from different places. The automobile driver, appellant, was driving with all windows completely closed, but his vision was clear and no obstruction shut off the view of the track for several hundred feet. He knew of the railroad but had never observed a passenger car being operated over it, and did not on this occasion observe the car at all. He had seen freight cars operated thereon. Nothing was the matter with his automobile. As the two vehicles approached the crossing with little if any change of speed (some witnesses say the automobile slackened and then accelerated speed shortly before attempting to cross) the motorman observed the automobile and blew his whistle a block away, blowing one long blast that continued up to the time of the collision which resulted. When within 15 or 20 feet of the crossing the motorman applied his emergency brakes, but the left front of his car hit the left rear of the automobile, badly wrecking it and throwing it about 60 feet. There is no doubt as to the serious injury to appellant.
+Was the motorman negligent? The following is quoted with our approval from respondents’ brief: “It is held ... in this state that a motorman or engineer approaching a crossing such as the one in this case has the right to assume and act upon the assumption that any person approaching such crossing is in possession of his faculties of sight and hearing, and that he will use these faculties and will look and listen and see and hear the car if it can be seen or heard, and will stop before reaching the track, and that no duty devolves upon the motorman or engineer, under such circumstances, to slow down or stop his car or train until he concludes, in the exercise of ordinary care, that such person so approaching the crossing will not perform his duty to stop and let the car go by.” (See Billig v. Southern Pacific Co., 192 Cal. 357, 363 [219 Pac. 992]; Young v. Southern Pacific Co., supra.) If there is any negligence in this case attributable to the motorman, then every interurban train approaching a grade crossing has to be kept under the same control as an automobile; and if an automobile happens to be approaching at a good clip, the motorman must not proceed to cross until he is satisfied the driver of the automobile will not attempt to “beat him to it”. We do not think this is the law.
+As to last clear chance, we find no evidence, and we have read the transcript in full, that the motorman could see, in time to prevent a collision, that the circumstances were such that the auto driver was in a dangerous position and likely would not extricate himself. We agree with the trial judge that the evidence could not support a verdict for plaintiff and that he did the proper thing when he instructed the jury to find for defendants. We think both Birdner v. Union Oil Co. of California, 216 Cal. 197 [13 Pac. (2d) 915], and Center v. Yellow Cab Co. of Los Angeles, 216 Cal. 205 [13 Pac. (2d) 918], relied upon by appellant, are in accord herewith.
+The judgment is affirmed.
+Grail, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on July 3, 1935, and the foregoing opinion then rendered thereon, and an application by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on August 2, 1935.
