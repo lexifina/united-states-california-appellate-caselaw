@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3585"
+decided: "1921-11-21"
+citations: ["55 Cal. App. 277"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MIKE ALECHOFF, etc., Respondent, v. M. K. EDWARDS, Appellant."]
+source_url: "https://static.case.law/cal-app/55/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2070241
+cites_cases: ["15 Pac. 16", "73 Cal. 394"]
+---
+
+# Alechoff v. Edwards
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+Action for dissolution of partnership and for an accounting. Complaint filed January 6, 1919. The partnership came into existence on the twentieth day of September, 1918, under an agreement whereby it was provided that the partnership should continue during the mutual agreement of the parties. After a trial of the issues presented other than the facts involved in the accounting, the court, on August 30, 1919, entered an interlocutory decree. From the facts stated in the interlocutory decree, it appears that the partnership business continued until December 27, 1918, at which time the defendant, in violation of the terms and conditions of the partnership agreement, took exclusive possession, adversely to ¿he plaintiff, of the partnership business and property, including all the proceeds and profits thereof since the beginning of the partnership, and converted the same to his own use. The interlocutory decree declared that the plaintiff is entitled to a dissolution of the partnership and to an accounting; that the assets of the business be sold and the net proceeds, as shown by the accounting, be equally divided between plaintiff and the defendant. A referee was appointed to take the accounting and to report what upon the balance of the account should appear to be due from either party to the other.
+A final judgment was entered November 15, 1920, in favor of the plaintiff and against the defendant for the sum of $1,405.73. In, this final judgment it is stated that the order of reference was made by consent of the parties; that the referee took the evidence and stated an account and duly filed his report to the court. A hearing was duly had upon said report and the exceptions thereto. On motion of the plaintiff, duly presented and argued, the court approved the account “up to the entry of said interlocutory judgment and wherein and whereby it was found that the plaintiff was entitled to judgment against the defendant for the sum of $1,405.73.” Judgment was entered accordingly. From the judgment so entered the defendant appeals. The appeal is presented upon the judgment-roll alone.
+Appellant’s sole point on appeal is that the trial court was not warranted, in the face of the pleadings and evidence, in taking an account up to the date of filing the interlocutory decree and in attempting to decree a dissolution of the partnership when a dissolution had legally been had prior to the filing of the action; that the court erroneously compelled the defendant to account for the income of “Ms business” for the period running from the time when defendant contends that a dissolution took place to the date of the interlocutory decree. This claim is based upon the fact that, in addition to the facts hereinbefore stated, the complaint alleged and the answer admitted that “the plaintiff no longer agrees or desires to continue the said partnership, and has so informed the defendant. ’ ’ From this it is argued that the partnership must have been terminated prior to the commencement of this action (Civ. Code, sec. 2451), and therefore could not be dissolved by judgment of the court on account of misconduct of the defendant, as provided for in case of such misconduct. (Civ. Code, sec. 2452, subd. 2.)
+So far as the evidence is concerned, there is none before the court. Since the court found that the business was carried on by the parties together until December 27, 1918, it is manifest that the plaintiff’s attempted withdrawal of Ms consent to the further continuance of the partnership did not occur earlier than that date. At 'all times after that date the defendant took and held exclusive possession of the partnership business and property. No facts are presented from which we can infer that it makes any difference whether the court dissolved the partnersMp, or determined that it was dissolved on December 27, 1918. In either event, since the defendant assumed to act in liquidation of the affairs of the partnership, he should not be permitted to escape a complete accounting. “A court of equity will not make an incomplete settlement of accounts, but will go on and adjust the whole matter, even if it involves items accruing after the commencement of the suit.” (Roberts v. Eldred, 73 Cal. 394 [15 Pac. 16]. ) In the absence of any evidence to the contrary, we roust assume that the" referee’s report was limited to the subject matter described in the order of reference, to wit, the items necessary to an accounting and settlement of the copartnership business, and did not attempt to include business or property of the defendant exclusive of such partnership affairs.
+The judgment is affirmed.
+Shaw, J., and James, J., concurred.
