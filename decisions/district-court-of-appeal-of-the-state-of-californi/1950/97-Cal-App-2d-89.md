@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14303"
+decided: "1950-04-21"
+citations: ["97 Cal. App. 2d 89"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELBERT V. SWAYZE, Respondent, v. JANE J. SWAYZE, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/97/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2279055
+---
+
+# Swayze v. Swayze
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+Plaintiff Elbert Swayze brought this action against his former wife Jane Swayze to recover from her an automobile or its value alleged to be owned by Elbert. Jane denied that the automobile belonged to Elbert and cross-complained to recover from him a diamond ring, which she alleged he had given her and then taken back, and for salary allegedly due her from her husband for services performed while working for him as a beauty operator during their marriage. Judgment was rendered for Elbert on all causes of action, and Jane appeals.
+The appeal presents nothing more than an attack on findings supported by evidence or by reasonable inferences from that evidence. This being so, this court has no power to interfere with the judgment.
+The parties were married in June of 1948, separated in September of that year, and divorced December 13, 1948. Elbert testified that he purchased the automobile in question in 1940 as a birthday present for his first wife; that title was taken in their joint names, and that after her death the automobile was registered in his name; that he had possession of the car from 1940 until January 4, 1949, when Jane, without his consent, took the car from his place of employment where it was parked; that sometime during his marriage to Jane he signed the back of the ownership certificate, but that he had no recollection of doing so; that Jane used the car during their marriage, but that there was no delivery of possession of the automobile to her. He unequivocally testified that at no time did he make or intend to make a gift of the car to her. He also stated that during the divorce proceedings Jane apologized to him for sending in the pink slip to re-register the car in her name, stating that she did so on the advice of her attorney.
+Jane testified that during September, 1948, Elbert wanted to buy a new car and give it to her, but that she demurred because she felt that they could not afford it; that on September 13,1948, Elbert endorsed the certificate and gave it to her; that this occurred on a Monday morning after he had a “bad” week end during which he had abused her; that he signed the slip over to her to soothe her feelings; that she registered the car in her name on October 26, 1948, on the advice of her attorney.
+This summary of the evidence demonstrates that the finding that no gift was made is supported. While the possession of the endorsed pink slip by Jane, and her testimony, would have supported a finding in her favor, the court was not bound to believe her testimony. There had been a divorce proceeding a short time before. The parties were married but a short time. Upon the separation, Elbert kept the ear in his possession. While Elbert could not explain the possession of the endorsed certificate by his wife," he did testify that he did not make a gift of the car to her. The trial judge, who saw and heard these witnesses, wás entitled to decide who was telling the truth. He elected to believe Elbert and to disbelieve Jane. We have no power to disturb that finding.
+The finding of the trial court adverse to Jane on her cause of action to recover the diamond ring is also supported. The ring was a man’s ring that admittedly had been in Elbert’s family for many years. Jane testified that Elbert gave her the ring shortly after they were married, and that she had had it made smaller to fit her finger. She also testified that the ring was given to her as “sort of a gift and an engagement ring,” and that one Saturday, sometime after the gift had been made, Elbert, who she claimed was drunk at the time, pulled the ring off her finger and never returned it. Jane’s brother testified that in Elbert’s presence Ms sister showed him the ring and stated that “Bert gave me” the ring.
+Elbert testified that the ring customarily was kept in a shoe bag hanging on the closet door; that his wife seldom wore it; that one day during their marriage, after Jane had been nagging him about his first wife, he got mad and took the ring from the shoe bag and told Jane: “ ‘Well, until you are entitled to this ring you are not going to have it.’ And I took it and put it away and she asked me about it afterwards and I told her the same thing over again.” He also testified that he hid the ring in a love seat, and that, when he so testified in the divorce proceedings, Jane broke into his then home and removed this article of furniture; that he has not seen the ring since he hid it in the love seat; that when he removed the ring from the shoe bag he had been drinking. Jane admitted removing the love seat, denied breaking into the residence, claimed the love seat was her property, and testified that she, her mother and attorney “tore that love seat apart but it wasn’t there.” It is too clear to require further comment that the trial court’s finding that Jane was not entitled to a judgment against Elbert in reference to the ring is amply supported. Again the evidence would have supported a finding either way, and, that being so, this court has no power to interfere.
+No question is raised on this appeal about that portion of the judgment denying recovery to Jane on the claim for salary.
+The judgment appealed from is affirmed.
+Bray, J., and Schottky, J. pro tern., concurred.
