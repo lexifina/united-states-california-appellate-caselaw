@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1766"
+decided: "1918-07-12"
+citations: ["37 Cal. App. 770"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BAPTISTA ALSAGA, Appellant, v. CHARLES F. HART, Respondent."]
+source_url: "https://static.case.law/cal-app/37/cases/0770-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2034596
+---
+
+# Alsaga v. Hart
+
+## Majority (HART, J.)
+
+HART, J.
+The action here is in claim and delivery. Judgment passed for the defendant and the plaintiff appeals therefrom, on the judgment-roll alone.
+The complaint is based on a transaction between the plaintiff and one J. F. Swan in which the former sold to the latter eight head of horses “at an agreed price of $510,” of which amount Swan paid the plaintiff $150 in money, “leaving a balance of $360,” for the satisfaction of which the said Swan “agreed to sell and deliver to plaintiff on the last day of April, 1917, six head of cows, but instead of delivering said cows to plaintiff as so agreed, J. F. Swan sold said cows to one Charles F. Hart, who now has the possession of all of said cows and wrongfully withholds the possession of all said cows, against the consent of plaintiff. ’ ’ Then follow the usual allegations in an action in claim and delivery that the plaintiff demanded of the defendant, Hart, possession of said cows, and that the defendant still “unlawfully withholds and detains said cows from the possession of this plaintiff, to his damage in the sum of $360.” The prayer is for the recovery of the possession of said cows, or, in case delivery of such possession cannot be had, for the recovery of the above-mentioned sum, together with $150 as damages and for costs of suit.
+The complaint is unverified and the issues as to the ownership and the right of possession of the cows were made by a general denial of the averments of the complaint.
+The court found that the plaintiff and Swan entered into the transaction and agreement as alleged in the complaint, but that the cows were thereafter sold by Swan to the defendant, Hart, “who now has the possession of said cows,” and that the defendant is the owner of said cows and is entitled to the possession thereof. Judgment followed as above indicated.
+The appellant argues, in support of this appeal, that the transaction between the plaintiff and Swan involved an executed contract—that is, that it constituted an agreement by which Swan sold to the plaintiff the six head of cows in dispute. The complaint, however, pleads no such an agreement between the plaintiff and Swan. “An executed contract is one, the object of which is fully performed. All others are executory.” (Civ. Code, sec. 1661.) And “title is trans-' ferred by an executory agreement for the sale or exchange of personal property only when the buyer has accepted the thing, or when the seller has completed it, prepared it for delivery, and offered it to the buyer, with intent to transfer the title thereto, in the manner prescribed by the chapter upon offer of performance.” (Civ. Code, sec. 1141; see, also, sec. 1140, Civ. Code, as to when the title to personal property passes.)
+The contract pleaded involves nothing more than an agreement .by Swan to sell and deliver the cows to the plaintiff. In other words, according to the contract pleaded by plaintiff, Swan merely obligated himself to sell the cows to the plaintiff at some future time. There was no agreement of sale, but only an agreement to sell. So far as Swan was concerned, it was purely an executory contract, his part of the same being still unperformed. No title passed, no possession was given or offered, and no present transfer agreed upon and the particular property identified. If the plaintiff has any right of action at all growing out of the transaction, it would be against Swan for the breach thereof and not against the defendant. It is not expressly charged, nor even impliedly, so far as the defendant is concerned, that there was fraud as against the plaintiff in the transaction between Swan and the defendant. Indeed, so far as said transaction is explained by the complaint, the defendant was a purchaser of the cows in good faith and for a valuable consideration.
+But, supposing that what was intended to be alleged in the complaint was that Swan by the agreement had transferred to the plaintiff the title to the cows in question but had postponed delivery of the possession thereof to a future time, and that thus a completed sale had been effected, still the judgment on the record before us cannot be disturbed. The court found that the agreement between the plaintiff and the defendant was precisely as it was made to appear on the face of the complaint—that is to say, that the said Swan, as a part of the consideration for the horses sold to him by plaintiff, “agreed to sell and deliver to plaintiff on the last day of April, 1917, six head of cows, ’ ’ etc. As above shown, the appeal here is on the judgment-roll alone, there being no record of the evidence before us. The presumption is, therefore, that the evidence justified and supports said finding—that is, that the agreement between Swan and the plaintiff, as the complaint alleges, was one by which Swan agreed to sell at a future time the cattle to the plaintiff and, therefore, not one whereby an absolute sale of the cows was effected. Moreover, so far as we can know from the record, the cows sold to the defendant may not be the same cows which Swan agreed to sell and deliver to the plaintiff.
+The appellant has cited a number of cases which we have found, upon examination, do not support his position upon the record in this case. It is not necessary to review those cases herein. The appeal here is absolutely destitute of merit.
+The judgment is affirmed.
+Chipman, P. J., and Burnett, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on September 10, 1918.
