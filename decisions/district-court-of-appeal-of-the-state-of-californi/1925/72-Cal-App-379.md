@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5039"
+decided: "1925-04-22"
+citations: ["72 Cal. App. 379"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARL H. BURG, Appellant, v. HENRY A. HARRIS, Respondent."]
+source_url: "https://static.case.law/cal-app/72/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2222363
+cites_cases: ["185 Cal. 678", "198 Pac. 398"]
+---
+
+# Burg v. Harris
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Plaintiff commenced this action in unlawful detainer to recover possession of premises held by defendant under a written lease. The cause was tried before the court and judgment went for the defendant. Plaintiff appeals from the judgment on a record prepared under section 953a of the Code of Civil Procedure.
+The facts material to the appeal are that on December 1, 1920, plaintiff’s predecessor leased the premises to the defendant for a period of five years through a written lease signed by both parties which contained the following condition: “It is further agreed that if the parties of the first part make an actual sale of the above described property, then the party of the second part will vacate the premises, if a demand is made on him, due notice having been given him ninety (90) days in advance and the parties of the first part agree to pay to the party of the second part the sum of Five Hundred Dollars ($500) if the property is sold before Dec. 1st, 1923, provided the party of the second part is asked to vacate. Providing, however, that this lease shall not determine before May 1st, 1922.”
+Acting upon the terms of this portion, of the lease the plaintiff, who had purchased the property after the lease was executed, gave notice to the defendant on January 7, 1924, that the lease would terminate ninety days thereafter and demanded possession of the premises at that time. The defendant refused to vacate and the statutory three days’ notice was given after the expiration of the ninety-day period and prior to the commencement of this action. The complaint was founded upon the theory that the tenancy terminated on the expiration of the ninety-day period— April 6,, 1924—and that the occupancy of the defendant thereafter was without right.
+The trial court made just three findings of fact: First, that for more than one year prior to the date of the trial the plaintiff had been the owner of the premises (a matter which was admitted in the pleadings); second, that the allegation in the complaint that defendant’s tenancy ceased on April 6, 1924, was untrue, and that all the denials of defendant’s answer were true. As the answer is in the same form, merely denying “that on the sixth day of April, 1924, the tenancy of defendant . . . ceased, ” it is a negative pregnant in keeping with the finding; third, that at no time “during the tenancy of the defendant” has plaintiff offered to pay to defendant $500, or any other sum, for defendant’s removal from the premises—a matter which was not in issue.
+On this appeal the appellant argues that the second and third findings are not supported by the evidence, but we are satisfied that the graver error is that the findings do not support the judgment. The finding in the form of the denials of the answer that the tenancy did not cease on April 8, 1924, is not a finding that it had not ceased at some other time, and, therefore, does not negative the allegations of the complaint as to the wrongful occupancy.
+The third finding so far as it is limited to a definite “offer” of $500 is supported by the evidence, though as to this there is a direct conflict in the testimony of the various witnesses. But the uncontroverted evidence is that the respondent refused to vacate the premises on payment of that sum and the showing was conclusive that no offer or tender would have been accepted by him. Such being the case, the appellant was entitled to a finding that any tender or offer to pay the respondent this sum of $500 would have been futile. This fact alone was sufficient to excuse a tender if one was necessary. (Hoppin v. Munsey, 185 Cal. 678, 685 [198 Pac. 398, 401].) In the latter case the supreme court said: “A tender is not necessary where the conduct or declarations of the vendee are such as to show that it would be unavailing. ‘It is a maxim that the law does not require a man to do a vain and fruitless thing, so it has been held that a strict and formal tender is not necessary where it appears that if made it would have been vain and fruitless.’ ”
+We have said that the appellant was entitled to a finding excusing a tender, but this is so only on the theory that a tender was necessary. But we are satisfied that under the peculiar terms of the lease no tender was necessary at the time the notice to vacate was given. The lessee agreed to vacate the premises if a sale was made and “if a demand is made on him, due notice having been given him ninety (90) days in advance, and the parties of the first part agreed to pay to the party of the second part the sum of five hundred dollars ($500) if the property is sold before December 1st, 1923,” and the lessee is asked to vacate. There is nothing in this contract which requires either the payment or the tender of the $500 when the notice to vacate is given. The only reasonable interpretation of the clause is that the owner would pay when the lessee vacated the premises. As the lessee refused to vacate, and so notified the owner when the notice was given, it would have been an idle act for the owner to have either paid or tendered the sum which was due only on the surrender of the premises, particularly when the rental for the premises would continue to become due from the lessee for each succeeding month.
+Judgment reversed.
+Langdon, P. J., and Preston, J., pro tem., concurred.
