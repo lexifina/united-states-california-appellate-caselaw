@@ -1,0 +1,51 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 36573"
+decided: "1971-02-22"
+citations: ["15 Cal. App. 3d 436"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARGONAUT INSURANCE COMPANY, Petitioner, v. WORKMEN'S COMPENSATION APPEALS BOARD and RICHARD LOPEZ, Respondents."]
+source_url: "https://static.case.law/cal-app-3d/15/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4417521
+cites_cases: ["126 Cal.App.2d 554", "16 Cal.Rptr. 359", "216 Cal.App.2d 204", "235 Cal.App.2d 207", "252 Cal.App.2d 327", "27 Cal.Rptr. 702", "272 P.2d 818", "28 Cal.App.2d 682", "30 Cal.Rptr. 685", "365 P.2d 415", "377 P.2d 902", "45 Cal.Rptr. 178", "56 Cal.2d 681", "59 Cal.2d 45", "60 Cal.Rptr. 442", "83 P.2d 295"]
+---
+
+# Argonaut Insurance v. Workmen's Compensation Appeals Board
+
+## Majority (FLEMING, J.)
+
+Opinion
+FLEMING, J.
+Workmen’s compensation. An employer’s insurer contests an award of workmen’s compensation to respondent Lopez based on a finding of ÍIV2 percent permanent disability resulting from a low-back injury in February 1969.
+Prior to this award Lopez, a roofer, had been awarded compensatibn in September 1968 for previous low-back injuries from which he sustained permanent disability of 25 percent (adjusted for age and occupation to 31V2 percent). On Lopez’s current application for compensation for low-back injury the Workmen’s Compensation Appeals Board again rated his permanent disability at 25 percent (adjusted for age and occupation to 33 percent). It then allocated a portion of that permanent disability to the most recent injury and awarded him compensation for that injury based on a finding of ÍIV2 percent permanent disability.
+When a person covered by workmen’s compensation suffers permanent injury as a result of two accidents the law requires an apportionment of compensation for the permanent injury between the two accidents. Labor Code section 4750 provides: “An employee who is suffering from a previous permanent disability or physical impairment and sustains permanent injury thereafter shall not receive from the employer compensation for the later injury in excess of the compensation allowed for such injury when considered by itself and not in conjunction with or in relation to the previous disability or impairment.
+“The employer shall not be hable for compensation to such an employee for the combined disability, but only for that portion due to the later injury as though no prior disability or impairment had existed.”
+Under this section permanent disability must be apportioned between two injuries producing the disability. However, the board awarded Lopez IIV2 percent permanent disability without regard to its prior awards or findings. After his first injuries the board found Lopez had sustained permanent low-back disability of 25 percent (eliminating adjustments for age, etc.) and awarded him compensation for that amount of permanent disability. After his most recent injury, hereinafter called the second injury, the board again found that Lopez suffered from permanent low-back disability of 25 percent (eliminating adjustments for age, etc.). Logically, therefore, the board’s finding indicated that with respect to permanent low-back disability Lopez was no worse off after the second injury than he had been after the first and that his disability from the second injury had only been of temporary duration. Nevertheless, the board did not follow the logic of its finding, but instead awarded Lopez compensation for an additional IIV2 percent permanent disability. Manifestly, the finding of the board in its present form is inconsistent with the requirement of the statute, for if Lopez suffered from the same amount of permanent low-back disability both before and after his second injury then he did not incur additional permanent disability as a consequence of his second injury and did not become entitled to additional compensation. (State Comp. Ins. Fund v. Industrial Acc. Com., 59 Cal.2d 45 [27 Cal.Rptr. 702, 377 P.2d 902]; State Comp. Ins. Fund v. Industrial Acc. Com., 56 Cal.2d 681 [16 Cal.Rptr. 359, 365 P.2d 415]; Gardner v. Industrial Acc. Com., 28 Cal.App.2d 682 [83 P.2d 295].) Under the terms of the board’s finding no portion of his permanent disability should have been allocated to the second injury since the amount of his permanent disability had not increased.
+Respondents do not contest the thrust of this reasoning, but instead approach the issue tangentially and ask us to infer a finding by the board that Lopez had partially recovered from his earlier permanent disability by the time of his second injury, and that the effect of his second injury had been to cancel this recovery and set him back to his earlier degree of permanent disability. Respondents point out that rehabilitation is an important objective of the statutory scheme for workmen’s compensation, and, if an injured employee recovers and thereafter is again injured, he is entitled to compensation for the injury to his rehabilitated condition, not limited in amount by the terms of a former award. (National Auto & Cas. Co. v. Industrial Acc. Com., 216 Cal.App.2d 204 [30 Cal.Rptr. 685]; Pacific Gas & Elec. Co. v. Industrial Acc. Com., 126 Cal.App.2d 554 [272 P.2d 818].) Respondents ask us to infer that between September 1968 (or perhaps April 1968, the date of his prior medical examination) and February 1969 (the date of the second injury) Lopez’s condition of permanent low-back disability had improved from 25 percent disability to about 13% percent disability. It is, of course, possible that something of this sort occurred. But rehabilitation, like injury, is a fact, and if as a result of its occurrence the degree of permanent disability is affected, the board should make a specific finding on the subject. We think the board is required to make a finding on each major element which affects the amount of a compensation award and is prohibited from entering an award based on assumption or speculation. And if here the board were to find that rehabilitation should be taken into account in determining the amount of the award, the parties would be entitled to present evidence and argument on the matter. Nor is the issue one of concern solely to the parties themselves. Lopez’s past, present, and future employers and compensation carriers, as well as the Subsequent Injuries Fund, may each have an interest in such a finding.
+A rational application of workmen’s compensation law requires compensation orders to be based on findings of fact which are supported by evidence. In the comparable case of State Comp. Ins. Fund v. Industrial Acc. Com., 59 Cal.2d 45, 56 [27 Cal.Rptr. 702, 377 P.2d 902], the board entered an award based on a rating of 26 percent permanent disability, which followed an earlier award also based on a rating of 26 percent permanent disability, but the board made no determination of the total amount of permanent disability nor did it allocate disability between injuries. The court concluded that the two disabilities overlapped and that an apportionment of disability between injuries was required. About findings by implication the court said: “It can, of course, be argued that if the injuries sustained in the first accident heal or improve, then there will remain at least a 26 percent disability caused by the subsequent injury for which no compensation has been paid. This may be so. But this is a factor that should be found as a fact, based on evidence. It was not here found.” (See also Truck Ins. Exch. v. Industrial Acc. Com., 235 Cal.App.2d 207 [45 Cal.Rptr. 178].) So here, findings on recovery and improvement are required if recovery and improvement are relied upon by the board to furnish a rational basis for apportionment of permanent disability pursuant to Labor Code section 4750.
+The only other basis on which to sustain the award would be for us to assume that the board found Lopez had a greater amount of permanent low-back disability than the 25 percent (before adjustment) used by the board’s rating specialist in calculating a disability rating, i.e. to assume that the extent of permanent disability amounted to 25 percent (before adjustment) plus IIV2 percent. But such an assumption would sanctify a procedure directly contrary to the requirements for notice and hearing on prospective awards set out in the Workmen’s Compensation Act. (Lab. Code, §§ 5313, 5315, 5803, 5815, 5900, 5903.) Under the law petitioner is clearly entitled to the benefit of a specific finding on the amount of permanent disability relied on by the board to support its award, a finding which petitioner would be entitled to controvert through legal process. (Fidelity & Cas. Co. v. Workmen’s Comp. App. Bd., 252 Cal.App.2d 327 [60 Cal.Rptr. 442].) Nor in this cause are we dealing merely with a matter of form and procedure, for the record contains substantial evidence to controvert a finding of increased permanent disability, including evidence that after his second injury Lopez continued to work as a roofer, continued to handle 80-pound loads, and continued to put in a greater number of hours than those worked by an average roofer.
+The award is annulled, and the cause is remanded to the Workmen’s Compensation Appeals Board for further proceedings consistent with this opinion.
+Herndon, Acting P. J., and Compton, J., concurred.
+Lopez’s employer reported the following hours worked by Lopez during the 12 months which followed his second injury:
+Date Employer Total Hours
+1969
+March Eberhart Roofing Company — 118 hrs.
+Pioneer Roof Company — 33 hrs. 151
+April Eberhart Roofing Company 14916
+May Eberhart Roofing Company 160
+June Eberhart Roofing Company . 17016
+July Eberhart Roofing Company — 37
+Owens Roofing Company — 111 148
+August Owens Roofing Company 116
+September H. C. Brandt Roofing Co. — 24
+Eberhart Roofing Company — 11716
+Owens Roofing Corppany — 36 1771/2
+October Eberhart Roofing Company 163/2
+November Eberhart Roofing Company 120
+December Eberhart Roofing Company 1731/2
+1970
+January Eberhart Roofing Company 107
+February Eberhart Roofing Company 122
