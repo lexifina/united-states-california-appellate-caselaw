@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3135"
+decided: "1920-05-20"
+citations: ["47 Cal. App. 605"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALMEDA BRESEE HYMAN, Respondent, v. KARL STERN COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/47/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065710
+---
+
+# Hyman v. Karl Stern Co.
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Plaintiff brought this action to recover on two counts for amounts of salary alleged, to be unpaid to her by the defendant corporation. Judgment was in her favor, and defendant has appealed.
+It was shown in evidence that, about the 1st of April, 1917, Karl Stern, who was then conducting a business similar to that which was and theretofore had been engaged in by the plaintiff, proposed to the plaintiff that she consolidate her business with that of Stern. The terms of consolidation were agreed upon and the defendant corporation was formed and shares issued in the proportion of ten to Stern and one to plaintiff. Some few shares were placed in the hands of an employee for the purpose of making a third director. Stern characterized himself as the manager of the concern. By-laws were adopted, among which was one containing the provision that salaries of the officers and employees should be fixed by the board of directors. It does not appear that the directors formally acted under that provision. As a part of the arrangement between the plaintiff and Stern, the matter of salaries to be drawn by each of them was considered and it was agreed that Stern should receive fifty dollars per week and the plaintiff twenty-five dollars. However, according to the plaintiff’s testimony, Stern said that as the business needed capital he and the plaintiff should not draw the full amount of their salary at the start, and, agreeing to that suggestion, plaintiff for the first year drew but fifteen dollars per week. At the end of the first year a meeting of the stockholders was held and an advance of two dollars and fifty cents per week was allowed on account of the salary to be paid to the plaintiff. Plaintiff, from April 1 to August 10, 1918, drew seventeen dollars and fifty cents per week. At the latter date she ceased to render any services and later brought this action. In her complaint she claimed the right to recover the unpaid ten dollars per week for the first year’s work and twelve dollars and fifty cents per week for that period of time from April 1, 1918, to August 10th of the same year.
+The first contention of appellant is that the condition of the by-law declaring that the directors should fix the salaries of officers and employees was not complied with, and that any arrangement entered into between Stern and the plaintiff as to salaries to be. paid was invalid. We think there is no merit in this contention. If the two persons who owned and controlled the corporation to all substantial effect agreed upon the salaries to he paid, where the corporate form was adopted only as a convenient agency for the handling of the business, such an agreement, we think, was valid and binding. Plaintiff testified that Stern and she “were the only ones concerned”; and further, that when she suggested that some minutes be made on the books of the corporation setting forth the amount of salaries, Stern replied that it was not necessary and that his attorney had so advised him. The association of the two individuals constituted practically a partnership, the corporate organization being a mere agency to be used in conducting the business. As to whether the agreement to pay the added compensation had been made as alleged and testified to by the plaintiff was for the trial court to determine, as the evidence was conflicting on that point. There was'ample evidence to sustain the finding that such agreement had been made. However, the amount for which the court gave judgment is in excess of the amount shown by the evidence to be due the plaintiff. This condition no doubt arose through error in preparing the findings, but it necessitates a reversal of the judgment, as we cannot here direct an amendment of findings of fact. The court’s findings followed the allegations of the complaint, particularly as to the second cause of action, which covered the period of service between April 1, 1918, and the tenth day of August, 1918. The complaint alleged that between those dates plaintiff received only fifteen dollars per week, when her own testimony showed that she received seventeen dollars and fifty cents. Hence the findings are not sustained by the evidence and the amount of the judgment, under the facts, should be reduced.
+For the reason given, the judgment is reversed.
+Conrey, P. J., and Shaw, J., concurred.
