@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 684"
+decided: "1950-01-18"
+citations: ["95 Cal. App. 2d 631"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOSEPH R. MILLER, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/95/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257287
+cites_cases: ["126 P.2d 923", "131 Cal.App. 605", "137 Cal.App. 339", "21 P.2d 968", "22 Cal.App.2d 143", "250 P. 698", "26 Cal.App.2d 213", "30 P.2d 565", "52 Cal.App.2d 685", "70 P.2d 955", "79 Cal.App. 682", "79 P.2d 148"]
+---
+
+# People v. Miller
+
+## Majority (MUSSELL, J.)
+
+MUSSELL, J.
+The defendant was accused in three counts in an information filed by the district attorney of the county of San Bernardino of the crime of burglary of a phone booth. He was tried by the court without a jury and found guilty of burglary in the second degree. The sole contention of the defendant is that the evidence was insufficient to show that the structure in question could be burglarized.
+The evidence produced by the prosecution was that the California Water and Telephone Company maintained a phone booth at Angel Cafe, Morongo Valley, in San Bernardino County. The structure was fastened directly to the cafe building and was a standard telephone booth containing a pay telephone. The booth contained an alarm in the phone box to notify the company of attempted thievery of the money therefrom, and aniline dye in dry powder form was placed in the coin box and sprinkled on the money therein. The effect of the dye, when coming in contact with the skin, is to produce a purple discoloration difficult to wash off.
+The defendant drove up to the cafe, opened the door of the telephone booth and with a large hammer broke the coin box and took the money therefrom. Shortly thereafter the defendant was apprehended and at the time of his arrest, his hands and clothing were found to be discolored with the aniline dye. The arresting officers also found the same purple discoloration on the hammer and a coin found in defendant’s possession.
+The defendant admitted breaking into the telephone booth and removing the money on the dates specified in the three counts of the information and the sufficiency of the evidence to sustain a conviction is attacked on the sole ground that a telephone booth is not a building within the meaning of Penal Code, section 459, which section provides:
+“Every person who enters any house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building, tent, vessel, railroad car, trailer coach as rlp.firip.rl by the Vehicle Code, vehicle as defined by said code when the doors of such vehicle are locked, aircraft as defined by the Harbors- and Navigation Code, mine, or any underground portion thereof, with intent to commit grand or petit larceny or any felony is guilty of burglary.”
+The information charged that the defendant wilfully, unlawfully and feloniously entered a “phone booth,” occupied by the California Water and Telephone Company, and a demurrer was filed thereto, after which it was stipulated by the district attorney, the defendant and his counsel that the information be amended more particularly describing the telephone booth in the following language;
+“The phone booth being a structure having a square roof and a square floor with a distance of 74" between them. Between three of the corresponding edges of the floor and roof run solid walls. For purposes of terminology, the two of these three walls that face each other shall be referred to as the side walls, the third wall, which is connected to both of the side walls, shall be referred to as the back wall. To the exposed edge of one side wall, that is the edge that is attached neither to the roof, the floor nor the back wall, is attached a board. The width of this board runs parallel to the back wall, its thickness runs parallel to the side walls and its length runs from the floor to the ceiling. This board projects at right angles from the side wall to which it is attached toward the opposite side wall. Onto the exposed edge of this board that projects toward the opposite wall is hung a door. To the exposed edge of the opposite side wall is attached a similar board in a similar manner. Without the door, there is an aperture between these two boards and between the roof and floor which is 74" x 23". The inside distance between the side walls is 27". The inside distance between the floor and roof is 74". The door is hinged in the middle. When closed it completely fills the 74" x 23" aperture. When open its two sections fold together and lie against one of the side walls. When the door is fully open the aperture is 74" x 21%".”
+“The phone booth being outside of the building of the Angel Cafe and so placed that the back wall of the phone booth is against a side wall of the building of the Angel Cafe.”
+The booth as described in the amended information is a building or a structure within the terms of section 459 of the Penal Code.
+In People v. Burley, 26 Cal.App.2d 213, 214 [79 P.2d 148], the court, when considering whether a popcorn stand, 8 feet wide, 10 feet long and 7 feet high, with four walls and a roof, was a building or a structure within the terms of section 459 of the Penal Code, said:
+a house, in the sense of the statute in question herein, is held to be ‘any structure which has walls on all sides and is covered by a roof (People v. Buyle, 22 Cal.App.2d 143 [70 P.2d 955]; People v. Franco, 79 Cal.App. 682 [250 P. 698]; People v. Jackson, 131 Cal.App. 605 [21 P.2d 968], and a building could well be described in the same manner.”
+An examination of the description added by the amendment to the information shows that the structure in the instant case had walls on all four sides, a roof and a floor. Three walls are solid and on the fourth side there was a door with a small width of board from floor to roof between the edges of the door and the side walls. The fact that the fourth wall consisted for the most part of a glass door does not exclude it from the classification of a wall within the meaning of the code section.
+The phone booth satisfies another definition of a building as noted in People v. Buyle, 22 Cal.App.2d 143, 149 [70 P.2d 955], where it is said that a building has been defined as “a structure which has capacity to contain, and is designed for the habitation of, man or animals, or the sheltering of property. ’ ’
+The defendant appealed herein from the judgment and from the order denying his motion for a new trial. He attempted to appeal from the order overruling the demurrer, from the order denying his motion of arrest of judgment and from the whole record. There is no appeal by defendant from an order overruling the demurrer, from an order denying motion in arrest of judgment nor from the whole record. (Pen. Code, § 1237; 4 Cal.Jur. 10-Yr.Supp. [1943 Rev.] 900, 902; People v. Battilana, 52 Cal.App.2d 685, 698 [126 P.2d 923]; People v. Wortman, 137 Cal.App. 339, 341 [30 P.2d 565].)
+The judgment and the order denying the motion for a new trial are affirmed and the attempted appeal from the other orders is dismissed.
+Griffin, Acting P. J., concurred.
+A petition for a rehearing was denied January 27, 1950.
