@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7422"
+decided: "1948-01-29"
+citations: ["83 Cal. App. 2d 431"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of VERA L. CRISLER, Deceased. LENA KING NELSON, Appellant, v. ROLLIN P. RODOLPH, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/83/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4434359
+cites_cases: ["101 Cal.App. 49", "107 P.2d 36", "119 P.2d 333", "121 P.2d 734", "140 Cal. 414", "16 Cal.2d 563", "16 Cal.App.2d 231", "17 Cal.2d 309", "19 Cal.2d 534", "19 Cal.2d 72", "281 P. 108", "60 P.2d 525", "61 P.2d 976", "73 P. 1070", "74 P. 441"]
+---
+
+# Nelson v. Rodolph
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+This is an appeal from an order denying the petition of Lena K. Nelson to dismiss the proceedings in the above named estate on the sole ground of lack of jurisdiction of the probate court for the alleged reason that at the time of her death the decedent was not a resident of the State of California but resided at Klamath Falls, Oregon. By the terms of her will and the codicils thereto respondent Rodolph was named as executor and trustee; however, if at such time decedent was a resident of Klamath Falls, Oregon, then one Dola N. Clemens of that city was named to act in such capacity.
+The verified petition of respondent for letters testamentary which was filed in Sacramento County on December 7, 1945, recites that decedent died on November 20, 1945, at Klamath Falls, Oregon, at which time she was a resident of Sacramento County and left property therein, and that by the terms of her will and codicils thereto he was named as executor thereof. The names, ages, relationships and residences of the heirs of decedent so far as known to petitioner were set forth as were the names, ages and residences of all legatees and devisees who were named in said will and codicils thereto.
+The order admitting the will to probate recites that after “due proof being made that notice has been regularly given according to law of the time and place of hearing said petition, and no person appearing to contest the said petition, the court proceeds to hear the testimony and thereupon finds the facts alleged in the said petition to be true, that the above named deceased died on November 20, 1945, and at the time of her death was a resident of Sacramento County, State of California. ’ ’ No appeal was taken from this order. On February 18, 1947, more than one year after the issuance of letters as above stated, appellant, who is named in said will as a beneficiary of the trust estate created therein, filed her petition to dismiss the proceedings. Neither proof, offer of proof nor contention was, or has been made that appellant failed to receive actual notice of the filing of the petition for letters or that she had no opportunity to attend or was prevented from attending the hearing or contest the same.
+The only basis for the petition to dismiss is that when decedent died she was a resident of the State of Oregon, and as stated in appellant’s brief, therefore “there was fraud when Rollin P. Rodolph, the Executor, represented to the Court that the deceased died a resident of Sacramento County, California.” In support of her motion appellant filed affidavits of various persons wherein the affiants stated that decedent was a resident of Oregon.
+Appellant’s one and one-quarter page argument as set forth in her opening brief (no reply brief having been filed) contains no citation of authority whatever and consists merely of the quotation of section 302 of the Probate Code, a statement that the executor’s representation that decedent was a resident of California was not true, that the only reason for raising any question here is that the will directs the appointment of another if the decedent was a resident of Oregon when she died, and lastly, a reiteration that Rodolph perpetrated a fraud on the court. Stated otherwise, appellant’s position simply amounts to a contention that as Rodolph represented to the court that decedent was a resident of California and as appellant asserts that decedent was a resident of Oregon, therefore Rodolph was guilty of fraud and the probate should be revoked.
+Obviously, the value, if any, of such a brief is indeed insignificant. Nevertheless we hesitate to designate the appeal as sham and frivolous as respondent contends, for what may appear to one person to be within that category may appear to be a valid legal question to another. However, in light of the showing made by appellant, it cannot be denied that if the appeal is meritorious it is but one degree removed from that which is not.
+Section 302 of the Probate Code reads as follows:
+“In the absence of fraud in its procurement, an order of the superior court granting letters, when it becomes final, is a conclusive determination of the jurisdiction of the court (except when based upon the erroneous assumption of death), and cannot be collaterally attacked.” (See Estate of Robinson, 19 Cal.2d 534 [121 P.2d 734]; Estate of Estrem, 16 Cal.2d 563 [107 P.2d 36].)
+In conformity with the code section above quoted, the courts of this state have held that the finding of the probate court on the question of residence and jurisdiction is conclusive, except on appeal, and cannot be collaterally attacked. (Estate of Latour, 140 Cal. 414 [73 P. 1070, 74 P. 441] ; Estate of Robinson, 19 Cal.2d 534 [121 P.2d 734]; Holabird v. Superior Court, 101 Cal.App. 49 [281 P. 108].)
+It is also settled that the fraud referred to in Probate Code, section 302, is extrinsic. (Estate of Robinson, supra.) A mere conflict between what is shown by the petition for letters and the order admitting the will, and what is charged by appellant in her petition or stated in the affidavits accompanying the same, quite obviously is not such a showing of extrinsic fraud.
+Finally it may be stated that even though it could be said that Rodolph’s testimony was perjured or that he misinformed the court, such acts or statements do not constitute extrinsic fraud but are intrinsic. Extrinsic fraud has been defined as that which has prevented a contestant from presenting his case to the court and does not apply to matter actually presented and considered. (Zaremba v. Woods, 17 Cal.2d 309 [61 P.2d 976]; O. A. Graybeal Co. v. Cook, 16 Cal.App.2d 231 [60 P.2d 525]; Hammett v. Britton, 19 Cal.2d 72 [119 P.2d 333] ; Estate of Robinson, supra.) It must be admitted that the facts and circumstances of the present case do not come within such definition.
+The order appealed from is affirmed.
+Thompson, J., concurred.
+A petition for a rehearing was denied February 28, 1948, and appellant’s petition for a hearing by the Supreme Court was denied March 25, 1948.
