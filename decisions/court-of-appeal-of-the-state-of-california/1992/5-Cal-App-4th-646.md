@@ -1,0 +1,51 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "F014377"
+decided: "1992-04-14"
+citations: ["5 Cal. App. 4th 646"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. TERRY ALLEN COLEMAN, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/5/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2312281
+cites_cases: ["104 Cal.Rptr. 425", "120 Cal.Rptr. 881", "14 Cal.3d 122", "201 Cal.Rptr. 319", "226 Cal.App.3d 1207", "229 Cal.App.3d 1282", "254 Cal.Rptr. 257", "262 Cal.Rptr. 195", "277 Cal.Rptr. 382", "280 Cal.Rptr. 584", "35 Cal.3d 824", "47 Cal.3d 746", "49 Cal.3d 615", "501 P.2d 1145", "534 P.2d 721", "678 P.2d 894", "765 P.2d 419", "778 P.2d 549", "8 Cal.3d 192"]
+---
+
+# People v. Coleman
+
+## Majority (BEST, P. J.)
+
+Opinion
+BEST, P. J.
+Defendant was charged with first degree murder (Pen. Code, § 187) with special circumstance allegations that the murder was committed while defendant was engaged in committing the crimes of robbery and kidnapping (§ 190.2, subd. (a)(17)). Defendant was also charged with robbery (§ 211), kidnapping to commit robbery (§ 209, subd. (b)), and burglary (§ 459).
+The jury found defendant guilty of second degree murder, first degree robbery, kidnapping for robbery, and first degree burglary. We affirm.
+Statement of Facts
+On the evening of December 16, 1987, defendant and three companions, Clifford Knight, David Knight, and Mike Tex, were at the Hard Times Tavern. When the bar closed at midnight, the group left together, taking a six-pack of beer with them.
+At approximately 1 a.m. on December 17, Johnny Smith, who was staying at the South Fork Motel, was awakened by someone pounding on the door of the room next to his. Herman Cube, a Southern California Edison employee, was staying in that room. Mr. Smith heard the intruders beating and choking Mr. Cube and repeatedly asking him for his keys. Mr. Cube had a Chevy S-10 Blazer, which belonged to his employer, parked in front of his room. One of the intruders also threatened “to send [Mr. Cube] back to China to his ancestors.”
+After about 15 minutes of a “continuous beating,” defendant and one of his companions went outside and defendant opened the driver’s door of the Blazer. Meanwhile, the beating of Mr. Cube continued in the motel room. A few minutes later, defendant and his companion went back to the motel room. Someone then said “ ‘Mike, lay off the guy, let’s go, we got the keys.’ ”
+Defendant entered the driver’s side of the Blazer again. Two others immediately followed defendant, holding Mr. Cube, and shoved Mr. Cube into the back seat. Defendant then drove off up the hill. As soon as defendant left, Mr. Smith ran across the street to the Hard Times Tavern and called the sheriff.
+While the sheriff’s deputies were at the motel gathering information, the Blazer was seen coming back down the hill. Thereafter, a highspeed chase ensued over 13 miles of winding, narrow roads.
+The chase was over when the Blazer turned onto a dirt road and stopped where the road ended. Four people then jumped out of the Blazer and ran. Defendant and Clifford Knight were apprehended at that time. David Knight and Michael Tex were arrested later.
+At the time of his arrest, defendant appeared to have been drinking, but did not seem highly intoxicated. There was what appeared to be blood on defendant’s shoes and pants. During the booking process, defendant threw the keys to Mr. Cube’s personal automobile and the motel room key into a garbage can.
+Mr. Cube’s body was found approximately three miles from South Fork. Although Mr. Cube had been severely beaten, the cause of death was blood loss from a deep, long neck wound which could have been inflicted by a saw found in the Blazer. Large amounts of blood were found in the Blazer and in the motel room. Defendant’s fingerprints were found on the Blazer key and on the motel room door. Bloody shoeprints consistent with the shoes defendant was wearing were also found in the motel room. However, no prints matching defendant’s shoes were found near the body.
+Discussion
+I. The crime of kidnapping for robbery will support a second degree felony-murder conviction.
+The jury was instructed on second degree felony murder as follows:
+“The unlawful killing of a human being whether intentional, unintentional or accidental which occurs during or as the direct causal result of the commission of the crime of kidnapping to commit robbery or kidnapping is murder of the second degree when the perpetrator had the specific intent to commit such crime.” The jury found defendant guilty of kidnapping to commit robbery. Defendant argues this offense does not satisfy the “high probability of death” standard required to support a second degree felony-murder conviction.
+The second degree felony-murder doctrine is not based on a statutory definition. (People v. Patterson (1989) 49 Cal.3d 615, 620 [262 Cal.Rptr. 195, 778 P.2d 549].) Rather, the doctrine was defined by the California Supreme Court as “ ‘A homicide that is a direct causal result of the commission of a felony inherently dangerous to human life (other than the six felonies enumerated in Pen. Code, § 189). . . .’ ” (Ibid.) Further, in determining whether a felony is “inherently dangerous,” the court must look to the elements of the felony in the abstract, not to the particular facts of the case. (Id. at pp. 620-621.)
+In People v. Burroughs (1984) 35 Cal.3d 824 [201 Cal.Rptr. 319, 678 P.2d 894], the court described an inherently dangerous felony as one which “cannot be committed without creating a substantial risk that someone will be killed.” (Id. at p. 833.) However, the court subsequently adopted a new standard in People v. Patterson, supra. Now, an inherently dangerous felony is defined as “an offense carrying ‘a high probability’ that death will result.” (49 Cal.3d at p. 627.)
+The issue of whether kidnapping for robbery meets this recently adopted standard of inherent dangerousness has not yet been decided. In People v. Ordonez (1991) 226 Cal.App.3d 1207, 1225 [277 Cal.Rptr. 382], the court stated “We have no doubt that kidnapping for ransom, extortion or reward satisfies the Patterson standard.” Noting that throughout history kidnapping has been considered among the most heinous of crimes, the court concluded that kidnapping for ransom has features which heighten the danger to the victim, even though it does not require asportation. (Id. at pp. 1225, 1228.) “‘In the ransom situation, “forcible control is necessary to effect secret confinement; the offense requires a protracted concealment; the confinement becomes more difficult to maintain when the kidnapper’s flight ultimately becomes necessary; and the victim’s release grows increasingly dangerous with the passage of time.” ’ ” (Id. at p. 1228.)
+In People v. Pearch (1991) 229 Cal.App.3d 1282 [280 Cal.Rptr. 584], Division One of the Fourth Appellate District held that simple kidnapping is an inherently dangerous felony under the Patterson standard. (Id. at p. 1299.) The court noted that “the crime of kidnapping is fraught with violence— either the actual use of physical force or the threat of physical harm. ‘ “[F]orcible removal” of one person by another . . . constitutes the essence of kidnapping [citations] . . . .’” (Id. at p. 1297.)
+In this case, the jury was instructed that either simple kidnapping or kidnapping for purposes of robbery could support a second degree murder conviction. However, the jury found defendant guilty of kidnapping for purposes of robbery. Thus, we need not decide whether the Pearch court correctly determined that simple kidnapping is an inherently dangerous felony. Rather, we need only be concerned with whether kidnapping for purposes of robbery is an inherently dangerous felony. (Cf. People v. Garrison (1989) 47 Cal.3d 746, 778-779 [254 Cal.Rptr. 257, 765 P.2d 419].)
+Section 209, subdivision (b) provides: “Any person who kidnaps or carries away any individual to commit robbery shall be punished by imprisonment in the state prison for life with possibility of parole.” In contrast, the crime of simple kidnapping is punishable by imprisonment in the state prison for three, five or eight years. (§ 208, subd. (a).) Further, first degree robbery is punishable by imprisonment for three, four or six years. (§ 213.) Thus, the penalty for kidnapping for robbery is considerably more onerous than that for the lesser offenses combined.
+The California Supreme Court has concluded the intent of the Legislature in adding kidnapping for robbery to the aggravated kidnap scheme was “to impose harsher criminal sanctions to deter the carrying away of persons during the commission of a robbery in a manner which substantially increases the risk that someone will suffer grave bodily or psychic injury or even death.” (People v. Laursen (1972) 8 Cal.3d 192, 198 [104 Cal.Rptr. 425, 501 P.2d 1145].) In fact, a conviction of kidnapping for purposes of robbery requires that the movements “(1) are not merely incidental to the commission of the robbery and (2) substantially increase the risk of harm beyond that inherent in the crime of robbery.” (In re Earley (1975) 14 Cal.3d 122, 127 [120 Cal.Rptr. 881, 534 P.2d 721].) Thus, the offense, viewed in the abstract, cannot be committed unless the movement places the victim in a position which is dangerous to human life. Consequently, the commission of kidnapping for robbery creates a high probability that death will result. Kidnapping for robbery, therefore, is an inherently dangerous felony which can support a conviction of second degree felony murder.
+II.-IV.
+Disposition
+The judgment is affirmed.
+Vartabedian, J„ and Buckley, J., concurred.
+A petition for a rehearing was denied May 12, 1992, and appellant’s petition for review by the Supreme Court was denied July 8, 1992.
+All statutory references are to the Penal Code unless otherwise noted.
+Section 189 was amended by initiative measure (Prop. 115) approved June 5, 1990, after commission of the acts at issue here, to include kidnapping or attempted kidnapping as a basis for first degree felony murder.
+See footnote, ante, page 646.
