@@ -1,0 +1,46 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 16311"
+decided: "1970-03-03"
+citations: ["5 Cal. App. 3d 15"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JUAN GARCIA GARCIA, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/5/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4382400
+cites_cases: ["104 P.2d 778", "15 Cal.2d 678", "152 P.2d 533", "16 A.L.R. 967", "161 P.2d 278", "190 P. 486", "197 P.2d 216", "236 Cal.App.2d 817", "242 Cal.App.2d 862", "243 Cal.App.2d 340", "29 P. 240", "401 P.2d 938", "44 Cal.Rptr. 330", "46 Cal.Rptr. 362", "47 Cal.App. 346", "51 Cal. Rptr. 111", "52 Cal.Rptr. 508", "62 Cal.2d 737", "66 Cal.App.2d 491", "70 Cal.App.2d 470", "87 Cal.App.2d 550", "93 Cal. 564"]
+---
+
+# People v. Garcia
+
+## Majority (KAUS, P. J.)
+
+Opinion
+KAUS, P. J.
+Defendant was charged by information with one count of burglary (Pen. Code, § 459), one count of receiving stolen property (Pen. Code, § 496), one count of mayhem (Pen. Code, § 203) and one count of assault with a deadly weapon (Pen. Code, § 245). A prior felony conviction was also charged.
+Defendant pleaded not guilty and denied the prior conviction. A motion under section 1538.5 of the Penal Code was denied. Jury trial was waived. Defendant was found guilty of counts III (Pen. Code, § 203) and IV (Pen. Code, § 245) and not guilty of counts I (Pen. Code, § 459) and II (Pen. Code, § 496). The clerk’s transcript states that the alleged prior conviction was found not true, but the reporter’s transcript is silent as to any disposition of the prior felony charge.
+Motion for new trial as to count III was denied, as was probation. Defendant was committed to the Youth Authority. This appeal followed:
+Facts
+George Kuusisto and Russ Veccia, accompanied by two girls, left a party in Venice about 3 a.m., September 1, 1968, and returned to Kuusisto’s car. On the way there, they passed another car parked in the middle of the street with its lights out, several car lengths behind Kuusisto’s. Veccia noticed a stereo tape deck on its hood. When Kuusisto unlocked his own car he noticed his stereo tape deck was missing from under his dashboard.
+Kuusisto and Veccia returned to the car they had just passed. Four persons, including defendant, were in the car. Kuusisto made known the loss of his tape deck and declared his intention to “check out” the car. He opened the front door and saw his tape deck on the front seat. He took it and placed it on the floor of his own car. He was about to enter his own car when he was jumped by two men, one of whom he identified as defendant. Each of the two assailants was armed with two objects, which looked like knives or clubs. The best description Kuusisto could give of the manner in which defendant was armed was that he had a dark bar about a foot long in one hand and a small knife, about 6 inches long, in the other.
+Kuusisto’s ear was sliced open and his head cut behind the ear. It required 17 stitches to close the wounds. Kuusisto could not say whether the wounds were inflicted by defendant or by his companion, who, Kuusisto believed, was also armed with a knife.
+Veccia was also attacked. He identified defendant as one of his assailants. He testified that defendant struck him with an object he described as a pipe or rubber hose, about 11 inches long.
+Veccia estimated that a total of five to seven men were fighting with him and Kuusisto. Kuusisto thought there were only four. Eventually Kuusisto and Veccia escaped from their assailants in Kuusisto’s car.
+Contentions on Appeal
+On appeal defendant contends: that there was no proof of specific intent to commit mayhem; that there was insufficient evidence to establish defendant as the perpetrator of the mayhem; and that there was insufficient evidence to sustain the conviction for assault with a deadly weapon. We have examined these contentions and find them without merit.
+Specific Intent
+Defendant concedes that a long line of cases has held that proof of specific intent is not required to sustain a conviction for mayhem. (People v. Wright, 93 Cal. 564, 566-567 [29 P. 240]; People v. McWilliams, 87 Cal.App.2d 550 [197 P.2d 216]; People v. Long, 70 Cal.App.2d 470 [161 P.2d 278]; People v. Crooms, 66 Cal.App.2d 491, 499 [152 P.2d 533]; People v. Nunes, 47 Cal.App. 346, 349 [190 P. 486].) He argues, however, that language in People v. Sears, 62 Cal.2d 737 [44 Cal.Rptr. 330, 401 P.2d 938], casts doubt on the continuing vitality of this rule. Sears involved a conviction for felony murder based upon the underlying offense of mayhem. The defendant relies upon the following language in that case: “We recognize that some decisions have held that a specific intent to inflict the injuries proscribed in Penal Code section 203 does not constitute a requisite for a conviction of mayhem. . . .
+“Even assuming the propriety of the above holdings, a distinction may be drawn between the showing of intent necessary to support a conviction of felony murder mayhem and the showing of intent necessary to uphold a conviction of mayhem. . . .” (62 Cal. 2d at pp. 744-745. Italics added.)
+Defendant argues that the fact that the court in Sears merely chose to “assume” the propriety of cases finding specific intent unnecessary for mayhem, rather than to reassert the propriety of such a rule, indicates that the court will not follow it in the future or, at the least, that it wishes to reexamine the rule. This is, of course, a purely conjectural argument, refuted by People v. Vigil, 242 Cal.App.2d 862, 864-865 [51 Cal. Rptr. 111], a case decided after Sears in which the court again held that specific intent is not required for conviction of mayhem. The Supreme Court denied a hearing. Under these circumstances we cannot speculate as to why the court employed the language it did in its dictum in Sears, but can only continue to apply the existing rule as enunciated by the cases.
+Evidence of Disfigurement
+Section 203 of the Penal Code defines mayhem as an act which “deprives a human being of a member of his body, or disables, disfigures, or renders it useless, or cuts or disables the tongue, or puts out an eye, or slits the nose, ear, or lip. . . .” (Italics added.) Defendant contends that under this statute a mere cutting of the ear is insufficient absent a resulting visible disfigurement. The People are willing to concede that disfigurement is required under the statute, despite an absence of California case law on the issue. They argue, however, that the trial court observed the victim and that it must be assumed, on appeal, to have determined that disfigurement was present. This argument is bolstered strongly by the fact that the issue of disfigurement was never raised by defendant below. It was not cited as a ground for granting defendant’s motion for a new trial on the mayhem count. Nor has the defendant preserved an appellate record from which we might make an independent determination of whether the victim did sustain visible disfigurement. Under these circumstances we will not assume error. (People v. Wheeler, 243 Cal.App.2d 340, 342, fn. 1 [52 Cal.Rptr. 508].)
+Identity of Defendant
+Defendant contends that Kuusisto’s inability to identify him as the one who inflicted the wound precludes his conviction for mayhem. Defendant need not have been the one who actually caused the wound, in order for the conviction to be affirmed. It can also be sustained if he was an aider and abettor of the actual assailant. (Pen. Code, § 31.)
+Kuusisto testified that defendant and one other man attacked him and that both men were armed with knives. Under these circumstances there can be no question that defendant could have been found to be at least an aider and abettor of the mayhem committed on Kuusisto. (People v. Butts, 236 Cal.App.2d 817, 835-837 [46 Cal.Rptr. 362].)
+Insufficiency of Evidence of Assault With a Deadly Weapon
+Defendant contends that the evidence was insufficient to sustain the conviction for assault with a deadly weapon because Veccia admitted he pushed or threw three people before he himself was struck, and that defendant, therefore, merely acted in self-defense. There is no evidence, however, that defendant was one of those people. Nor is there anything in the record to indicate a relationship between defendant and those people which would warrant a finding that he was justified in going to their assistance. The issue of self-defense was not even alluded to at trial. Finally, there is sufficient evidence in the record, to sustain a finding that defendant exceeded any right he may have had to act in his own — or anyone else’s— defense by employing excessive force. On appeal the court must infer the existence of any fact which would sustain the decision of the trial court where the record permits such inference. (People v. Newland, 15 Cal.2d 678, 681 [104 P.2d 778].)
+The judgment is affirmed.
+Stephens, J., and Reppy, J., concurred.
+Both parties cite 16 A.L.R. 967 for a collection of cases interpreting similar statutes in other states and requiring a showing of disfigurement.
