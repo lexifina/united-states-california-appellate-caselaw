@@ -1,0 +1,47 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B055532"
+decided: "1992-01-08"
+citations: ["2 Cal. App. 4th 556"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEFFREY A. PITTMAN, Plaintiff and Appellant, v. LILY v. CANHAM, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/2/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2304361
+cites_cases: ["1 Cal.3d 50", "183 Cal.Rptr. 508", "192 P.2d 24", "246 P.2d 632", "31 Cal.3d 637", "39 Cal.2d 253", "459 P.2d 925", "646 P.2d 179", "81 Cal.Rptr. 373", "85 Cal.App.2d 77"]
+---
+
+# Pittman v. Canham
+
+## Majority (GILBERT, J.)
+
+Opinion
+GILBERT, J.
+When is a contract no longer a contract? When it contains concurrent conditions and neither party tenders timely performance. Unlike love or taxes, concurrent conditions do not last forever.
+We hold that where a contract creates concurrent conditions and neither party tenders timely performance, both parties are discharged. We affirm the judgment.
+Facts
+Jeffrey A. Pittman was a licensed real estate broker. In 1987 he contacted Lily V. Canham, then 85 years old, to purchase a parcel of property she owned in San Luis Obispo County. After many telephone calls to Canham between May and November 1987, she agreed to sell a 56-acre parcel to Pittman for $250,000.
+Pittman drafted the contract dated November 24, 1987, and deposited $1,000 in escrow. The contract called for a further deposit of $24,000 in cash, with the balance of the purchase price to be paid by a note secured by a deed of trust on the property. Closing of escrow was to be within 30 days. The contract provided that “[t]ime is of the essence. All modification or extensions shall be in writing signed by the parties.”
+The parties executed escrow instructions that provided: “lime is of the essence of these instructions. If this escrow is not in condition to close by the Time Limit Date of December 24, 1987 and written demand for cancellation is received by you from any principal to this escrow after said date, you shall act in accordance with [other provisions of the instructions]. . . . [SO If no demand for cancellation is made, you will proceed to close this escrow when the principals have complied with the escrow instructions.” Paragraph 2 of section 4 of the instructions provided, however, that the instructions were not intended to amend, modify or supersede the contract.
+About the second week of December Canham gave a signed copy of the escrow instructions to Pittman for delivery to escrow. With the instructions, Canham included a signed deed to the property. The escrow company pointed out, however, that the deed had not been notarized. When Pittman contacted Canham, she told him she would have it notarized at an escrow company near her home.
+The December 24 closing date came and went. Canham had not tendered a notarized deed nor had Pittman tendered $24,000, a promissory note or deed of trust.
+By March 1988, Canham had been contacted by another broker who wanted to list the property. On March 21 she told Pittman she wanted $10,000 per acre. Pittman embarked on an effort to find out what a fair price for the property was.
+In May 1988, Canham told Pittman that she had entered into a contract with other purchasers to buy the property for $600,000. Pittman wrote a letter demanding that she perform on his contract, but she sold the property to the other buyers.
+Pittman sued Canham for breach of contract. At trial he attributed the difference in the $250,000 he offered Canham and the $600,000 sales price six months later to an escalating real estate market.
+At the end of Pittman’s case, Canham moved for a judgment of nonsuit. (Code Civ. Proc., § 581c.) A ruling on the motion was reserved, however, until all the evidence was presented. After the presentation of the evidence, the court granted the motion on the ground that time was of the essence of the contract and neither party tendered performance. The court also gave a statement of decision in which it found that Pittman and not Canham was responsible for the delay in performance, that Canham had not waived time for performance, and that Pittman defaulted when he failed to tender the purchase money, note and deed of trust by December 24, 1987.
+Discussion
+Pittman contends the trial court erred in finding he was in default for failing to tender the purchase money note and deed of trust. He concedes that the result reached by the trial court would be proper if his performance had been a condition precedent, but he points out that here the contract provision requiring Canham to deliver a recordable deed into escrow and the provision requiring him to deposit money, a note and a deed of trust are concurrent conditions. Pittman claims that unlike the failure to perform a condition precedent, the failure of both parties to perform concurrent conditions does not automatically terminate the contract, but that one party must tender performance before the other party is in default. (Citing Chan v. Title Ins. & Trust Co. (1952) 39 Cal.2d 253 [246 P.2d 632]; Rubin v. Fuchs (1969) 1 Cal.3d 50 [81 Cal.Rptr. 373, 459 P.2d 925]; 1 Miller & Starr, Cal. Real Estate (2d ed. 1989) § 1:135, p. 488.)
+Concurrent conditions are conditions precedent which are mutually dependent, and the only important difference between a concurrent condition and a condition precedent is that the condition precedent must be performed before another duty arises, whereas a tender of performance is sufficient in the case of a concurrent condition. (1 Witkin, Summary of Cal. Law (9th ed. 1987) Contracts, § 737, pp. 667-668.)
+Contrary to Pittman’s assertion, the failure of both parties to perform concurrent conditions does not leave the contract open for an indefinite period so that either party can tender performance at his leisure. The failure of both parties to perform concurrent conditions during the time for performance results in a discharge of both parties’ duty to perform. Thus, where the parties have made time the essence of the contract, at the expiration of time without tender by either party, both parties are discharged. (3A Corbin on Contracts (1960) § 663, p. 181.) Here, because time was made the essence of the contract, the failure of both parties to tender performance by December 24, 1987, discharged both from performing. Neither party can hold the other in default and no cause of action to enforce the contract arises. (See Pitt v. Mallalieu (1948) 85 Cal.App.2d 77, 81 [192 P.2d 24].)
+Pittman relies on the portion of the escrow instructions that states: “Time is of the essence of these instructions. ... If this escrow is not in condition to close by the Time Limit Date of December 24, 1987 and . . . [i]f no demand for cancellation is made, you will proceed to close this escrow when the principals have complied with the escrow instructions.” He claims this provision shows that time was not truly of the essence in this transaction.
+But it is difficult to see how a paragraph that begins with the words “[t]ime is of the essence” could reasonably be construed as meaning time is not truly of the essence. The provision relied on by Pittman merely instructs the escrow holder not to cancel escrow on its own initiative, but to close escrow should the parties voluntarily and notwithstanding discharge mutually decide to perform. As we read the paragraph, it does not purport to give a party the unilateral right to demand performance after the time for performance has passed. Such a construction would render meaningless the parties’ agreement that time is of the essence.
+We appreciate the reluctance of a buyer to act first by placing money into escrow. But in a contract with concurrent conditions, the buyer and seller cannot keep saying to one another, “No, you first.” Ultimately, in such a case, the buyer seeking enforcement comes in second; he loses.
+Chan v. Title Ins. & Trust Co., supra, 39 Cal .2d 253, is of no help to Pittman. There, the court found no default because time for performance had been waived. (Id., at p. 256.) Here, the trial court held that there has been no waiver, and there is nothing in the record that requires us to disturb that finding.
+Nor is Pittman aided by Rubin v. Fuchs, supra, 1 Cal.3d 50. There, buyer promised to deposit cash and a purchase money deed of trust before the date set for close of escrow. Seller promised to record a tract map prior to that date. Recordation of the tract map would supply the legal description for the deed of trust. Seller, however, did not record the tract map, and buyer could therefore not deposit a deed of trust.
+Our Supreme Court held that seller could not rescind for buyer’s failure to perform because seller’s performance was necessarily precedent to performance by the buyer. (Rubin v. Fuchs, supra, 1 Cal.3d 50,54.) Here there was no impediment to Pittman’s tender of performance.
+Canham requests sanctions for a frivolous appeal. But sanctions should be used most sparingly to deter only the most egregious conduct. (In re Marriage of Flaherty (1982) 31 Cal.3d 637, 651 [183 Cal.Rptr. 508, 646 P.2d 179].) This appeal does not qualify for sanctions.
+The judgment is affirmed. Costs are awarded to Canham.
+Stone (S. J.), P. J., and Yegan, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied March 25, 1992.
