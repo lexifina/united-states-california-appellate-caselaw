@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 913"
+decided: "1922-10-23"
+citations: ["59 Cal. App. 444"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent v. ROLAND O. HUNTER, Appellant."]
+source_url: "https://static.case.law/cal-app/59/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2085915
+cites_cases: ["12 L. R. A. (N. S.) 199", "142 Cal. 484", "76 Pac. 232"]
+---
+
+# People v. Hunter
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Defendant was convicted of the crime of burglary in the second degree. His motion for a new trial was denied and he was sentenced to be imprisoned in the state prison. He appeals from the judgment and from an order denying his motion for a new trial.
+The principal contention made by the appellant is that the evidence was insufficient to justify the verdict. The facts, as the evidence offered by the prosecution disclosed them to be, are as follows: Mrs. Nettie Connelly, on the 29th of April, 1922, left her home about 4:30 in the afternoon, after closing and locking the doors of the house. She returned between 9 and 9:30 P. M. the same evening. She then found that one of the locked doors had been opened and the house ransacked. Among other articles taken was a suitcase and a suit of clothes. About 8:45 P. M. on the day mentioned defendant appeared at a loan or pawnbroker’s establishment with the suitcase and the suit of clothes and offered them for sale. The pawnbroker agreed to pay $10 for the merchandise, which money he delivered to the defendant, who gave his name as Albright. While conducting negotiations for the purchase of the articles, the proprietor notified the police of the offer being made to him, and by the time he had concluded his transaction with the defendant, two officers were waiting to intercept the latter. Upon being arrested defendant told the familiar story of having received the articles from another person, believing them to be honestly possessed by the" one from whom they were received. He particularized in his statement to the officers by saying that he had received them from Jack Albright, who was his father; that it had been prearranged that he was to meet the father at a particular address after selling the suitcase and clothes for him. Upon the officers going with him to the place named they found that the number did not correspond to the character of the place that appellant had indicated and they then proceeded. to several other addresses. They were unable then or thereafter to find the person whom appellant had described as his “father.” At a later time, the officers testified, appellant retracted the statement as to Albright being his father and said that his father’s name was Hunter, and that Hunter had died in the Philippines. At the trial appellant gave testimony and admitted that he was known under at least three different names, to wit, as Roland Hunter, Johnny Cavanaugh, and R. O. Cashin. He admitted that he had previously been sentenced to the lone Reformatory after conviction for robbery. The testimony and statements made by the appellant in his attempt to account for the possession of the stolen goods were of such character as to in themselves afford evidence of guilt, and the case in its facts is brought clearly within the ruling made in People v. Lang, 142 Cal. 484 [76 Pac. 232]. What is said in the opinion rendered in that ease furnishes ample support to the respondent’s position here.
+We find no error in the giving or the refusing to give any of the instructions which were considered by the trial judge. All of the matters included in several proposed instructions offered by the defendant were sufficiently covered in the charge as it was given by the court to the jury. The trial judge did not transgress the rule that the court shall not instruct the jury as to matters' of fact or the weight of the evidence. On the contrary, the judge used terms which advised the jury that the court did not, nor did it intend to, express any opinion as to defendant’s guilt or as to the weight of evidence, or the inferences which the jury should draw therefrom. Referring to the matter of the possession of the stolen property, the court definitely told the jury that the mere possession of such property, unexplained by the defendant, was not sufficient to justify a conviction. The jury was advised properly that such possession was “a circumstance which taken in connection with other testimony is to determine the question of guilt,” and that “there must be in addition to proof of possession of property stolen from the premises described in evidence, proof of corroborating circumstances tending of themselves to establish guilt.” Under the instructions referred to, the court clearly left to the jury the whole matter of determining the weight to be given to all of the evidence.
+The record in this case discloses nothing which indicates that the defendant was in anywise deprived of his right to a fair trial, or that by his conviction a miscarriage of justice has resulted.
+The judgment and order are affirmed.
+Conrey, P. J., and Shaw, J., concurred.
