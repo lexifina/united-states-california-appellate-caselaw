@@ -1,0 +1,44 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 35768"
+decided: "1970-05-29"
+citations: ["8 Cal. App. 3d 392"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT HEATH SWAN, Petitioner, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent; THE PEOPLE, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/8/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6036998
+cites_cases: ["1 Cal.3d 404", "21 Cal.Rptr. 552", "371 P.2d 288", "389 U.S. 347", "458 P.2d 713", "462 P.2d 1", "57 Cal.2d 602", "71 Cal.2d 1096", "80 Cal.Rptr. 633", "82 Cal.Rptr. 473"]
+---
+
+# Swan v. Superior Court
+
+## Majority (ALARCON, J.)
+
+Opinion
+ALARCON, J.
+Robert Heath Swan petitions for a writ of prohibition or mandate to require the Superior Court of Los Angeles County to vacate its order denying his motion to suppress the evidence obtained as a result of the entry of his premises on April 24,. 1968.
+Factual Background
+On April 14, 1968, a fire occurred at the petitioner’s residence located at 426 North Mirada, West Covina, California. Battalion Chief Ora M. Short of the West Covina Fire Department testified that when he first observed the residence the flames were “coming through the front door under the eaves of the building, and to the rear; they had gone through the patio cover, and would be extending approximately ten feet above the patio cover.” The upper half of the front door was burned off. On the same date, after the fire was knocked down, the witness entered the residence. He observed heavy fire damage “in the living room, dining room area” and high heat damage in the kitchen, hallway, and front entrance hall, and heavy smoke damage in the hall and the three bedrooms in the north portion of the house. A couch in the living room was completely burned. Fire Captain D. C. Andrus of the City of West Covina testified that he is assigned to the investigation of fires to determine if they were the result of arson. Captain Andrus entered the petitioner’s residence at 9 a.m. on April 14, 1968, to conduct an investigation as to the cause of the fire. Captain Andrus determined that the fire was incendiary in origin and so notified the West Covina Police Department.
+On April 24, 1968, Captain Andrus, a West Covina police officer, and Sergeant Carlberg of the Los Angeles County sheriff’s office went to the residence to continue the arson investigation. The residence was entered; the officers did not have a search warrant. Photographs were taken of the fire damage inside the residence. It was stipulated at the hearing pursuant to section 1538.5 of the Penal Code that Sergeant Carlberg formed the opinion that the fire was incendiary in nature and was the product of arson based upon his examination of the inside of the premises on April 24, 1968.
+Evelyn Siber, the owner of the property, testified that after the fire she went to the house every day. She kept some of her personal effects in the house after the fire. The house was not open to the public nor abandoned after April 14, 1968. The premises were boarded up to keep people out.
+The petitioner testified that he resided at the premises at the time of the fire but did not reside there after April 14, 1968. Some of his personal effects were left at the location after the fire. The premises were not abandoned by him. The front door was boarded up by his son-in-law to secure the premises.
+At the hearing before the trial court pursuant to Penal Code section 1538.5 the petitioner sought the suppression of the testimony of Sergeant E. Carlberg concerning his observations made on April 24, 1968, within the petitioner’s residence as well as the photographs of the interior of the building obtained on the same date.
+In denying the petitioner’s motion to suppress, the trial court made the following observations in support of its ruling:
+“I think that in the evidence I have heard, the building was gutted by the fire and no one was living there, and it had been boarded up, true, but nobody’s individual, personal privacy was intruded upon, and there is nothing here that offends the privacy or the right to privacy that anybody has.
+“But in this particular case they gathered not only that nobody lived there, but no one habitated the place. He had left. The wife had separated, and no one was living there, and there was nobody there.
+“I distinguish it from a place where people are not in at the time, since they have a right to have the home free from intrusion, even when they are not there.
+“They may be away to a movie or entertainment, and they should have the protection, but when they are not living there and the place is gutted and boarded up, I see no offensive behavior.”
+Problem
+The petitioner contends that the gutted building entered on April 24 1968, was within the protection of the Fourth Amendment. Therefore all photographs and observations made on that date within the residence must be suppressed.
+The people argue that the Fourth Amendment does not apply to a vacant building so damaged by fire that it is uninhabitable.
+Discussion
+The trial court found that the house was gutted and no one was living on the premises at the time of the entry and search. The court did not find that the house was uninhabitable. However, it can be reasonably inferred from the court’s finding that the house was gutted, that it was no longer habitable, since the verb “gut” when used in connection with a building fire means “to destroy totally the inside of” (Webster’s Third New Internat. Diet.). However, the court did not find that the building had been abandoned. The uncontradicted evidence before the court was that the building was not abandoned. On April 24, 1968, it still contained personal effects and had been boarded up to keep the public out.
+The test to be used in determining whether a place is a constitutionally protected area within the meaning of the Fourth Amendment is set forth in People v. Edwards (1969) 71 Cal.2d 1096, at page 1100 [80 Cal.Rptr. 633, 458 P.2d 713]: “webelieve that an appropriate test is whether the person has exhibited a reasonable expectation of privacy, and, if so, whether that expectation has been violated by unreasonable governmental intrusion.” In the instant matter the owner of the dwelling house clearly demonstrated her expectation of privacy as to the interior of the house and its contents by boarding up the doorways, which were damaged by the fire. That expectation was violated by the intrusion of the police on April 24, 1968.
+Searches conducted by governmental officers without a warrant are per se unreasonable under the Fourth Amendment unless convincing proof is presented of the existence of one of the exceptions to the exclusionary rule. (Katz v. United States (1967) 389 U.S. 347, 357 [19 L.Ed.2d 576, 585, 88 S.Ct. 507]; People v. Edwards (1969) supra, 71 Cal.2d 1096, 1105.) The People have failed to present evidence to justify the entry of premises without a search warrant. There was no evidence of consent or that the search was incident to a lawful arrest. The entry was not made under emergency circumstances but in furtherance of a routine police investigation 10 days after the alleged crime was committed. At the time of the entry the officers had probable cause to believe that the premises contained evidence which might assist in the prosecution of the petitioner based on the observations and the opinion of the arson expert who viewed the interior of the premises on April 14, 1968. However, probable cause to believe that a search will reveal incriminating evidence does not justify a search without a warrant not incident to a lawful arrest. (See People v. McGrew (1969) 1 Cal.3d 404, 409 [82 Cal.Rptr. 473, 462 P.2d 1].) The requirement for a search warrant is not limited to the search of a habitable dwelling house. The Fourth Amendment also protects against the search of the contents of other closed objects. (See People v. McGrew, supra, at pp. 409-410.)
+The trial court erred in denying the petitioner’s motion to suppress. Let a peremptory writ of mandate issue directing the respondent superior court to suppress the photographs and the testimony concerning the observations of the prosecution witnesses obtained as a result of the April 24, 1968 entry of the petitioner’s residence at 426 North Mirada, West Covina, California.
+Files, P.J., and Jefferson, J., concurred.
+Assigned by the Chairman of the Judicial Council.
+An observation by a governmental agent made as the result of an illegal entry is inadmissible although no physical evidence is seized. (Bielicki v. Superior Court (1962) 57 Cal.2d 602, 605 [21 Cal.Rptr. 552, 371 P.2d 288].)
