@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 544"
+decided: "1909-04-07"
+citations: ["10 Cal. App. 372"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. LINTOTT, Respondent, v. SAN FRANCISCO CONSTRUCTION COMPANY, a Corporation, Appellant."]
+source_url: "https://static.case.law/cal-app/10/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4655241
+---
+
+# Lintott v. San Francisco Construction Co.
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This case is here for review on an appeal from the judgment in favor of plaintiff, and from an order denying defendant’s motion for a new trial.
+The action is to recover damages for injuries to certain horses, the property of plaintiff. In August, 1905, the plaintiff, in answer to an advertisement of John McQueston, an employment agent, stating that horses were desired for work upon the Ocean Shore Railway in Santa Cruz county, called upon McQueston, and as the result of the interview twenty-two head of horses belonging to plaintiff were put to work plowing, grading and scraping on the roadbed of said railroad, plaintiff to receive a given price per day for each horse. The complaint alleges that, by reason of the carelessness and negligence of defendant, one of the horses was killed, another severely injured; that, by reason of the failure of the defendant to keep its contract to properly shelter the horses, two of them became sick and died, and that the others were injured in health and rendered less fit to work.
+The jury brought in a verdict for the full amount demanded in the complaint.
+Defendant asserts that there is no evidence that the horses were hired by it, but, on the contrary, shows that they were hired “by another distinct company—or person.”
+McQueston was called as a witness, and testified: “I got Lintott to come over here and rent his horses to the construction company. I made arrangements for him to go to work up here at the Ocean Shore road for the San Francisco Construction Company. Livingston was the man I engaged them for. The San Francisco Construction Company paid me for anything I did for them, everything in a lump. I did work for them. They paid me by check. ... I got a check from the San Francisco Construction Company for it. ... I hired other horses for this company besides those from Mr. Lintott. . . . The San Francisco Construction Company paid me. I was paid for the work I did in hiring these horses by check (indicating the form of check). . . . Q. By the San Francisco Construction Company? A. By that company, signed like that.”
+The plaintiff himself testified: “I went to what was known as the San Francisco Construction Co.’s camp. There I met a man named Livingston. Livingston wanted to give me a contract on a piece of the road. I told him I didn’t want to take it. I stated to him that I was going to rent the horses, or had rented them, to the S. F. Construction Company. I told him that I had made arrangements with McQueston.”
+For the work his horses did there plaintiff was paid by time checks, at the bottom of which there was a form of receipt reading as follows: “Received payment from the San Francisco Construction Company in full of all demands to date.” The time checks also provided that when countersigned by Livingston, and receipted by the payee, they would be paid by any San Francisco bank. They were so countersigned by Livingston, and were cashed by the Bank of Santa Cruz County.
+A witness, Dean, testified: “I"went to work for the San Francisco Construction Company. Livingston employed me to go to work there. It was my understanding that the San Francisco Construction Company employed Livingston—of course, I don’t know. I was paid by check. Livingston’s name was on the check.” '
+Livingston, on behalf of the -defendant, testified that he was superintendent of the construction work at the time when plaintiff’s horses were working on the Ocean Shore Railway, but that he was employed by the United Construction Company. In his cross-examination he also said: “I don’t know who graded after the San Francisco Construction Company quit grading. I don’t know; I was not there.”
+A. J. Raisch, secretary of the defendant, testified on its behalf that the defendant had a contract to do some of the work for the Ocean Shore road, but it was assigned immediately to the United Contracting Company. Some of the members of the defendant corporation, including Raisch, are also members of the United Contracting Company. He further testified that the defendant did none of the work on the contract; that while he, as secretary of the defendant, was familiar with all the details of its affairs, he did not know "Livingston, whose name, as superintendent of the defendant, was printed on ‘‘millions of time checks.” He explained that the time checks of the defendant company were loaned to the United Contracting Company.
+In rebuttal, Fred M. Fairchild, superintendent of construction for the Ocean Shore Railway, testified that the United Contracting Company did no work there to his knowledge, but that the defendant company received payment from the Ocean Shore Railway Company for work done on the road, and that he believed Livingston was the superintendent of the work and represented the defendant company.
+The employment agent McQueston told plaintiff that he was acting for the defendant. The plaintiff, pursuant to arrangements with McQuest'on, visited what was known-—so he said— as the San Francisco Construction Company’s camp. There he met Livingston, and after some negotiations the horses were rented. Livingston himself, on cross-examination, admitted that defendant had done some grading, and thus contradicted the testimony of Raisch to the effect that defendant had done none of that work. Besides all this, Livingston’s name and the name of the defendant company were printed on the time checks given to men who were employed there. There are three corporations mentioned in the record in connection with this work—the defendant, the Warren Company and the Union Contracting Company. Four of the five directors of the defendant are directors of the Warren Company, and two of them are also members of the Union Contracting Company. The jury, in arriving at their verdict, must have discredited the testimony of Raiseh, to the effect that defendant assigned the contract immediately to the Union Contracting Company. It is plain that there was evidence to sustain the view that the horses were hired by the defendant, so we think further discussion of the point is unnecessary.
+Other points are urged by the defendant, but are devoid of merit, and need not be noticed in detail.
+The judgment and order are affirmed.
+Cooper, P. J., and Hall, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on June 3, 1909.
