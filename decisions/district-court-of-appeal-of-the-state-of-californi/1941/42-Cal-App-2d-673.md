@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11556"
+decided: "1941-01-29"
+citations: ["42 Cal. App. 2d 673"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK S. GENUSER, Appellant, v. THE OCEAN ACCIDENT AND GUARANTEE CORPORATION, LIMITED (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app-2d/42/cases/0673-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4553473
+---
+
+# Genuser v. Ocean Accident & Guarantee Corp.
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+Plaintiff sued for reformation of a policy of insurance. The. trial court sustained a demurrer to plaintiff’s amended complaint and thereafter entered judgment in favor of defendant. Plaintiff appeals from said judgment. On November 6, 1937, defendant issued a policy of automobile insurance to plaintiff describing the automobile therein as a 1933 Ford automobile coupe bearing motor number 18-447073. Plaintiff sought by this action to have said policy reformed upon the ground of mistake claiming that said automobile should have been described in the policy as a 1934 de luxe Ford coupe bearing motor number 18-075524.
+Section 3399 of the Civil Code provides, “When, through fraud or a mutual mistake of the parties, or a mistake of one party, which the other at the time knew or suspected, a written contract does not truly express the intention of the parties, it may be revised, on the application of a party aggrieved, so as to express that intention ... ”,
+Plaintiff alleged numerous facts purporting to show how the mistake occurred and further alleged as follows:
+“That it was the intention of the plaintiff and defendant, The Ocean Accident and Guarantee Corporation, Limited, to insure the plaintiff from liability caused by accident, as aforesaid, arising out of the use, ownership and maintenance of an automobile owned by plaintiff and in which he had an insurable interest, to wit, a 1934 de luxe Ford coupe, motor number 18-075524, and not to insure the plaintiff from liability in connection with the use, ownership and maintenance of any automobile not owned or operated by him or in which or the use of which he had no insurable interest. That through the mistake of plaintiff, known to defendant, a policy of insurance was issued upon an automobile which the plaintiff did not own or was not operating or in which he had no insurable interest. That each of plaintiff and said defendant, The Ocean Accident and Guarantee Corporation, Limited, intended and agreed that the legal consequences of their acts should be the indemnification of plaintiff against loss and damage from bodily injury and injury to or destruction of property caused by accident in the amounts hereinabove specified, arising out of the ownership, maintenance or use of an automobile which plaintiff then owned, to wit, a deluxe Ford coupe automobile, year model 1934, engine number 18-075524.”
+The demurrer of defendant was both general and special and it was apparently directed largely at certain allegations of the complaint other than those above quoted. Said demurrer was directed particularly at those allegations of the complaint relating to the dealings of plaintiff with Widenham Company when ordering the insurance and at those allegations relating to the relationship of said Widenham Company to the parties. The first two headings of defendant’s brief read “Widenham Company was not the agent of defendant” and “Widenham Company was the agent of appellant”. The complaint alleged otherwise. The third heading in defendant’s brief is directed to the point that the knowledge of a mere soliciting agent is not the knowledge of the insurance company. While there appears to be some dispute between the parties as to the exact nature of the agency, if any, and as to the question of whether the knowledge of the alleged agent was knowledge chargeable to defendant, we are nevertheless of the opinion that the allegations above quoted, if proved upon the trial, would be sufficient to warrant the granting of a decree reforming the policy and that said allegations were sufficient to withstand defendant’s attack by general and special demurrer. These allegations cover the alleged intention and agreement of plaintiff and defendant to have the insurance policy describe the 1934, rather than the 1933 automobile and they further cover the issuance of the policy describing the 1933 automobile through an alleged mistake of plaintiff which was known to defendant. We are not now concerned with any possible difficulties which may arise in the proof of the quoted allegations or with the possible difficulties which may arise in the decision of incidental legal questions upon the trial of the cause. The inquiry here, in the light of the grounds specified in defendant’s demurrer, is confined to a consideration of whether the amended complaint stated sufficient facts with sufficient certainty to entitle plaintiff to have the demurrer overruled and to have the cause proceed to trial. Our reading of the amended complaint leads us to the conclusion that it does.
+The judgment is reversed with directions to the trial court to overrule the demurrer.
+Nourse, P. J., and Sturtevant, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied March 28, 1941. Spence, J., pro tem., took no part in the consideration or decision of this matter.
