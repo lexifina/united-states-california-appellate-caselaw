@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2950"
+decided: "1919-07-24"
+citations: ["42 Cal. App. 382"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. R. WILLIAMS, as Superintendent of Banks, etc., Appellant, v. L. J. CARVER et al., Respondents."]
+source_url: "https://static.case.law/cal-app/42/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044553
+cites_cases: ["154 Pac. 472", "171 Cal. 658"]
+---
+
+# Williams v. Carver
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+This is an appeal on the part of the plaintiff from a judgment in favor of the defendants upon the pleadings.
+The following is a history of the ease: Prior to the institution of this action, the plaintiff herein, in his official capacity of superintendent of banks of the state of California, had commenced an action against all of the defendants herein, with the exception of the Kern Valley Bank, having for its purpose the collection from each of said defendants of an amount alleged to be due upon their individual liability as stockholders of the said Kern Valley Bank, arising under the terms of the state constitution, and of section 322 of the Civil Code. That former action was in due course tried and thereafter appealed by the plaintiff therein to the supreme court. Upon said trial and appeal the defendants in that action successfully assailed the constitutionality of that portion of the banking act which purported to authorize the plaintiff therein, in his said official capacity, to institute and prosecute said action. During the time when said cause .was still pending upon appeal, the said legislature undertook to amend the banking act under which said action had been begun, the said amendment consisting of a more express declaration of the power of the superintendent of banks to institute and prosecute actions of that character, the said amendment being evidently intended to eliminate the ground of objection which had been urged in said action to the effect that the superintendent of banks under the terms of the act prior to said amendment possessed no such power. (See Stats. 1913, pp. 136-192.) After the taking effect of said amendment to the banking act (Stats. 1909, p. 87), but before the decision of the supreme court in the former suit, the plaintiff instituted the present action against the same defendants with the addition of the Kern Valley Bank. Thereafter, the supreme court handed down its decision in the said former action, which is reported in 171 Cal. 658, [154 Pac. 472], to which reference is made for a more particular statement of the facts, set forth in the identical language in the complaints in each of said actions. Upon the handing down of said decision by the supreme court, the defendants herein moved the trial court in which this action was pending for a judgment in their favor upon the pleadings, upon the ground that the said decision constituted the law of the ease, and that by the terms thereof the objection which was therein successfully urged to the banking act as it existed before the said amendment thereof applied equally to its amendment, the said objection being that the title, both of said act and of the amendment thereof, did not sufficiently embrace such powers as the superintendent of banks was attempting to exercise in each of said actions. The trial court sustained the contention of the defendants, as urged in said motion, and rendered judgment in their favor upon the pleadings, from which judgment the plaintiff has prosecuted this appeal.
+We do not deem it necessary to further review the history and identity of these two cases, nor to go further into this discussion than to quote the closing language of the decision of the supreme court in the case of Williams v. Carver, supra, wherein the learned justice writing the opinion uses the following words:
+“Moreover, if the provision be construed as authorizing the superintendent of banks to enforce the constitutional liability of stockholders to the creditors, then it is void as being obnoxious to the provisions of section 24, article IV, of the constitution, which provides that every act shall embrace but one subject, which shall be expressed in its title. As stated, the subject of the legislation, as shown by its title, is to ‘define and regulate the business of banking.’ The constitutional liability of the stockholders of a corporation to its creditors and the enforcement of such liability is no part of the business of banking. Hence, the subject of the legislation, if its purpose be to deprive the creditor of the right to enforce such liability and confer upon the superintendent of banks the power to act for and on behalf of the creditor in the collection thereof, is not embraced in the title.”
+We are of the opinion that the foregoing language of the supreme court in the former actions constitutes the law of the case, and, as such, is binding both upon the trial court and upon this tribunal. The mere fact that the Kern Valley Bank has been added to the list of defendants in this action does not militate against this conclusion, since the Kern Valley Bank cannot be said to be a necessary party to the determination of the issues involved in either case.
+The judgment is therefore affirmed.
+Waste, P. J., and Bardin, J., pro tem., concurred.
