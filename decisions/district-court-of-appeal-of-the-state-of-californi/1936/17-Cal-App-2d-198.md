@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10281"
+decided: "1936-10-22"
+citations: ["17 Cal. App. 2d 198"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY FRYE, a Minor, etc., et al., Petitioners, v. THE SUPERIOR COURT OF THE CITY AND COUNTY OF SAN FRANCISCO, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/17/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2273278
+cites_cases: ["117 Cal. App. 450", "12 Pac. (2d) 1", "138 Cal. App. 672", "196 Cal. 677", "215 Cal. 531", "239 Pac. 317", "32 Pac. (2d) 1110", "4 Pac. (2d) 158"]
+---
+
+# Frye v. Superior Court
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+This is an original application for a writ of prohibition to restrain the respondent court from executing its order made on June 18, 1936, and from making any other orders affecting two minor children. The petitioners herein are Mary Frye, the maternal grant-aunt of said minors, and Neil Speer and Jaqueline Speer, the said minors, for whom said Mary Frye was appointed guardian ad litem for the purpose of this proceeding.
+Said minors, who are of the ages of 12 and 10 years, respectively, are the illegitimate children of Hazel Speer Kavanaugh, deceased. It is alleged in the petition that each of said minors had a different father but that the paternity of said minors has never been judicially determined. At some time after the birth of said minors, their mother married Jack Kavanaugh, a Canadian citizen. Two other children were born of this union. During their married. life, these parties lived for a time in Canada and for a time in California. Eventually said Jack Kavanaugh obtained a final decree of divorce from the mother of said minors but at the time of the death of said mother, the parties were nevertheless living together again. The Kavanaugh children have since been living in Canada with the parents of said Jack Kavanaugh, to wit: Mr. and Mrs. Thomas Kavanaugh.
+The two illegitimate children involved in this proceeding were never adopted by said Jack Kavanaugh, although they lived with him and their mother during the married life of said parties. After the death of their mother, said children were declared wards of the juvenile court in 1935 upon petition of the Children’s Agency in San Francisco. Thereafter Jack Kavanaugh represented to the juvenile court that his parents, Mr. and Mrs. Thomas Kavanaugh, who were caring for the two legitimate half-brothers of these children at their home in Nova Scotia, were willing to assume the care of these two illegitimate children and raise them with the Kavanaugh children. The report of the referee was received by the juvenile court showing that there was no suitable home available to said children among their numerous relatives in California, practically all of whom have been or are themselves wards of the juvenile court. It further showed that the Kavanaugh home in Nova Scotia was a suitable home for said children.
+Said report and the recommendations contained therein were approved by the juvenile court and an order was made directing that said children be placed in custody of a suitable person to be appointed by the court for transportation to Boston, Massachusetts, said children to be there placed in the custody of Mr. and Mrs. Thomas Kavanaugh. This is the order of June 18, 1936, at which this proceeding is directed. The respondent court has made return herein both by demurrer and answer.
+We refrain from discussing certain points raised by the parties for the reason that we are of the opinion that the application for a writ of prohibition should be denied as petitioners have pursued the wrong remedy. Section 23 of the Juvenile Court Act (Deering’s Gen. Laws, 1931, Act 3966, p. 2110) provides: “Every judgment or decree of a juvenile court assuming jurisdiction and declaring any person to be a ward of the juvenile court or a person free from the custody and control of his parents may be appealed from in the same manner as any final judgment, and any subsequent order may be appealed from as from an order after judgment; but no such order or judgment shall be stayed by such appeal, unless suitable provision is made for the maintenance, care and custody of such person pending the appeal, to be approved by an order of the said juvenile court. Such appeal shall have precedence in the court to which the appeal is taken over all other cases.” The foregoing section gives the right of appeal from the order under attack and it affirmatively appears that a notice of appeal has been filed.
+It is fundamental that the remedy of prohibition should be strictly confined to those cases where there is no “plain, speedy and adequate remedy at law”. (Code Civ. Proc., sec. 1103; Amos v. Superior Court, 196 Cal. 677 [239 Pac. 317]; Leach v. Superior Court, 215 Cal. 531 [12 Pac. (2d) 1]; Struck v. Superior Court, 138 Cal. App. 672 [32 Pac. (2d) 1110]; August Belmont & Co. v. Superior Court, 117 Cal. App. 450 [4 Pac. (2d) 158]; 21 Cal. Jur. 584, sec. 5.) The question of whether the remedy by appeal is plain, speedy and adequate is a question of fact depending upon the circumstances in the particular case and the determination of that question rests largely within the discretion of the court to which the application is made. (21 Cal. Jur. 586.)
+We are of the opinion that the remedy by appeal is plain, speedy and adequate in the present case. Petitioners have merely made an allegation to the contrary but have made no showing to sustain that allegation. Under the circumstances before us, said allegation appears to be unfounded.
+Nothing that has been said should be construed to imply that we find any error in the order under attack. We refrain from passing upon that question as we believe that the petition herein should be denied upon the grounds above stated.
+The alternative writ is discharged and the petition for a peremptory writ of prohibition is denied.
+Nourse, P. J., and Sturtevant, J., concurred.
