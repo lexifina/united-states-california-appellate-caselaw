@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13677"
+decided: "1942-09-29"
+citations: ["54 Cal. App. 2d 590"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of NELLIE A. MUNSON, Deceased. HOWARD G. HALL, as Executor, etc., et al., Respondents, v. HARRY C. STERRETT et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/54/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2380966
+cites_cases: ["108 P. (2d) 893", "17 Cal. (2d) 1", "182 Cal. 752", "184 Cal. 63", "190 Pac. 17", "193 Pac. 581", "197 Cal. 276", "199 Cal. 661", "240 Pac. 498", "250 Pac. 657"]
+---
+
+# Hall v. Sterrett
+
+## Majority (GOULD, J. pro tem.)
+
+GOULD, J. pro tem.
+By a will and codicils thereto admitted to probate September 30, 1940, Mrs. Nellie A. Munson devised an estate thereafter appraised at $38,549.09. After numerous specific bequests to friends, relatives and organizations, the will, dated March 23, 1940, contains the following provisions pertinent to this appeal:
+“I leave . . . [various stocks, bonds and bank accounts therein enumerated] all the foregoing for a University Permanent Scholarship Fund to be known as the ‘Munson (O. F.) Memorial Scholarship Fund, left in his memory by his wife, Nellie A. Munson. ’ The interest from this fund is to be applied annually on a University Scholarship. The Student is to be chosen by a Committee composed of the Worshipful Master of Wilshire Masonic A. F. & A. M. No. 445; Worthy Patron; Worthy Matron; and an Elementary Teacher from the Wilshire Chapter No. 329 O. E. S. of Los Angeles in cooperation with the City Supt. of Los Angeles City Schools. This student must be one who is deserving and capable and who would not be able to go without some assistance. This Committee is to remain intact and the Elementary Teacher is to be chosen by the committee each year.”
+The first codicil provides as follows:
+‘ ‘ Codicil. In case of my passing or being rendered physically incapable I desire Mr. H. G. Hall to have a conference with Dr. Gordon Sproul of Univ. of Calif., and arrange to have my Scholarship money placed in the hands of the Board of Regents of Univ. of Calif. The interest after my passing for this is to be used for Scholarship or Scholarships. I would like for my before stated Committee be given preference in selection of one candidate or more should there be perfect cooperation. Signed: Nellie A. Munson Mar. 26, 1940.”
+The second codicil reads as follows:
+“Codicil. By Univ. of Calif. I mean U. C. L. A. Nellie A. Munson April 1, 1940. ’ ’
+When the executor in his petition for distribution asked that there be distributed to the Regents of the University of California the property described in the above quoted portions of the will, amounting to a total appraised valuation of $31,-388.29, objections were filed by a surviving brother and sister, heirs-at-law of said deceased and entitled to share in the distribution of said portion of the estate if the bequest for the “scholarship fund” failed. Upon trial the court ruled against objectors and they appeal.
+As has been repeatedly held by the Supreme Court of this state (Estate of Lawrence, 17 Cal. (2d) 1 [108 P. (2d) 893] ; Estate of Wilson, 184 Cal. 63 [193 Pac. 581] ; Estate of Phelps, 182 Cal. 752 [190 Pac. 17]), the paramount rule in the construction of wills is that the intention of the testator must be given effect as far as possible. This intention is to be gathered from the language of the will, and ambiguity in language may be aided by extrinsic facts to help determine the testator’s intention. But at all times such intention is of supreme importance, and all other rules of construction must yield to it.
+In the instant case it would seem obvious from a reading of the testament under consideration that it was the plain intent of deceased to create a scholarship fund in memory of her deceased husband, and that such fund was to be placed in the hands of the governing authority of the University of California. The assets and funds to create and constitute such fund were set forth in detail and a committee was named to select students to enjoy the scholastic benefits of decedent’s generosity. There is no need to seek aid outside the plain and unambiguous words of the will itself to interpret its meaning. The only interpretation of the will to make it operative, which is an end to be sought in the interpretation of wills (Estate of McCurdy, 197 Cal. 276 [240 Pac. 498]), is the one adopted by the trial court here—distributing the portion of the estate, as denominated by deceased, to “The Regents of the University of California. ’ ’ Such is the authorized corporate name of the University of California as designated by article IX, section 9, of the California State Constitution; and by the same authority, as well as by codal provision (Pol. Code, § 1415, subd. 7), the regents in their corporate capacity are authorized to receive property by devise and (Pol. Code, § 1395) to establish scholarships founded by private benefaction.
+Nor can appellants defeat the testamentary intent of deceased by reliance upon section 41 of the Probate Code, which limits charitable devises and legacies to a share not in excess collectively of one-third of a decedent’s estate. The will in this instance was dated March 23,1940, and the codicils March 26, 1940, and April 1, 1940. The testatrix died September 1, 1940. If the devise to the University of California was to a “charitable or benevolent society or corporation,” as appellants contend, it would be limited to one-third of the estate and the excess would pass to appellants and other heirs-at-law. Such contention must, however, be resolved against appellants. Section 42 of the Probate Code provides that devises “to or for the use or benefit of the State ... or to any educational institution which is exempt from taxation ... or for the use or benefit of any such educational institution . . .,” are excepted from the provisions of section 41, upon which appellants rely. Not only is the disputed devise by testatrix in this instance plainly valid by the provisions of the Probate Code hereinabove cited, but the matter has been settled by a pronouncement of the Supreme Court in Estate of Purington, 199 Cal. 661 [250 Pac. 657], where the court squarely held that a very similar bequest to the Regents of the University of California came within the exception to the statute and was therefore valid.
+By the plain provisions of the will, fortified by constitutional and statutory law, the distribution ordered by the lower court herein must be confirmed.
+Decree and order affirmed.
+Moore, P. J., and Wood (W. J.), J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied November 27, 1942.
