@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13375"
+decided: "1947-09-26"
+citations: ["81 Cal. App. 2d 592"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHESTER A. COPLEY, Appellant, v. H. T. EADE, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/81/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4437246
+cites_cases: ["18 P. 2d 58", "201 P. 952", "217 Cal. 258", "268 P. 465", "5 Cal.2d 356", "54 Cal.App. 102", "54 P.2d 698", "92 Cal.App. 393"]
+---
+
+# Copley v. Eade
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+Plaintiff is the record title owner of the south one-half and defendant is the record title owner of the north one-half of Section three of Township 20 South in Monterey County. According to the official plat the south one-half contains 320 acres while the north one-half contains but 304 acres. An old cattle fence had been maintained for many years running across the section which the plaintiff claims to represent the dividing line between the two holdings. Surveys having been made it was disclosed that, if the fence were accepted as the dividing line, plaintiff would hold more than 320 acres and defendant would have but 254.8 acres. Plaintiff commenced this action to quiet title and to enjoin the construction of a new fence on the line of the new surveys. Defendant had judgment fixing the boundary line in accordance with the survey and finding that each was the owner of the acreage corresponding to the record title and the official' assessments for tax purposes.
+Appellant's contention is not that the old fence followed the true half section line according to any survey, but that the fence became the boundary line by acquiescence or implied agreement. This presents a plain question of fact. There is no evidence of agreement or acquiescence other than the conceded fact that the parties pastured their stock up to the fence from a time as early as 1910. Contra is the evidence that both parties, and their predecessors, treated the fence as a cattle guard only, that both parties, and their predecessors, recognized and publicly stated that they were in doubt as to the true boundary line, and both agreed that a survey ought to be made to determine the boundary between their respective holdings.
+The essence of the doctrine of a boundary being fixed by acquiescence is the implied agreement between the parties that a fence or other structure represents the true boundary and that the acquiescence of the parties, or their failure to object, supports an inference of such agreement. Essentially, the doctrine is a mixture of implied agreement and estoppel. (See Board of Trustees v. Miller, 54 Cal.App. 102, 105 [201 P. 952]; Vowinckel v. N. Clark & Sons, 217 Cal. 258, 260 [18 P. 2d 58]; Roberts v. Brae, 5 Cal.2d 356, 359 [54 P.2d 698]; 8 Am.Jur. pp. 802, 806.)
+But it is settled law that, to give rise to such an inference, the fence or monument must have been accepted or acquiesced in “as a boundary line,” and not “as a barrier.” (Roberts v. Brae, supra, 360; Phelan v. Drescher, 92 Cal.App. 393, 397 [268 P. 465].)
+During the trial the able trial judge made a personal inspection of the fence and the premises surrounding it. At the conclusion of the trial he filed an opinion which clearly states the reasons for the subsequent judgment. We quote in part:
+“Now, there are certain fundamental principles that must be kept in mind. The plaintiff in this cause has the burden of proof and must prove his case by the preponderance of the evidence, so that his evidence, when weighed with the defendant’s evidence, has the more convincing force and from which it results that the greater probability is in the plaintiff’s favor. If the evidence is equally balanced the decision must go to the defendant.
+“After considering all the evidence, the Court finds that the true boundary line between the land of the respective parties is as established by and as stated by Mr. Boling on the witness stand.
+“There is no question but that the fence was allowed to remain in its present position for over 34 years after the defendant acquired the north half of the Section. On the witness stand he testified to conversations with plaintiff’s predecessor in interest, which if true, were admissions against interest and of itself would establish that the fence was known by the parties not to be on the true line and was built and maintained where it was by the plaintiff and his predecessor in interest at the place on the line and for the reasons stated by the defendant in his brief. As the defendant was a party in interest and the person making the alleged statements was dead, the Court viewed his testimony with great caution, but after viewing the fence, its location and direction, and the manner in which the defendant testified, the Court can not say that it was not true. On the other hand, the Court feels that the greater probability is that it is true, and it is corroborated by the direction of the fence, its deviations and the contour of the ground over which it is built. It clearly appears that if it had been constructed along the true line, it would have been constructed in parts over very difficult terrain on which to construct a fence. That is particularly true of the westerly end of the fence. The land is rough grazing land in the hills and some pretty high and rugged hills at that. It was of little value at the time the fence was constructed and is not of great value even now. In fact, the Court feels it is hardly worth more than the value of the attorneys’ fees reasonably earned by the counsel in this case.
+“There is no question but that long acquiescence in a boundary fence line is presumptive evidence of an agreement that the fence was constructed on what the parties thought was the true line and constituted an agreed boundary line, arising out of an uncertainty, but the Court can not say that presumption was not overcome by the evidence of Bade and the physical facts.”
+The case was fairly tried and no claim of error is made on the appeal. It presents the single question whether the evidence supports the findings. On this question the facts and the conflicts have been recited and there is no need of repetition. They bring the case squarely within the citation from Roberts v. Brae, supra.
+Judgment affirmed.
+Goodell, J., and Dooling, J., concurred.
