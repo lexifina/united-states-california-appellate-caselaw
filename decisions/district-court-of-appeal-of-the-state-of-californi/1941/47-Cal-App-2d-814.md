@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6699"
+decided: "1941-11-19"
+citations: ["47 Cal. App. 2d 814"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O. W. WALLACE, Respondent, v. GEORGE FRED OTIS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/47/cases/0814-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038904
+cites_cases: ["201 Cal. 87", "255 Pac. 827"]
+---
+
+# Wallace v. Otis
+
+## Majority (TUTTLE, J.)
+
+TUTTLE, J.
+This action was brought to recover damages arising out of fraudulent representations alleged to have been made in respect to the location of the boundary line between the adjoining lots of the parties. Findings were made in favor of plaintiff, and he was awarded damages in the sum of $600. It was also adjudged that plaintiff was the owner of a strip of land lying between said lots. The appeal is from the judgment.
+It is contended that the findings and judgment are not within the issues. A judgment which exceeds the issues litigated is coram non judice and void. (Baar v. Smith, 201 Cal. 87 [255 Pac. 827].) The complaint here alleged ownership of a lot in Tuba City to be in plaintiff; that defendant, who owned the adjoining lot, in 1923, falsely represented to plaintiff that a survey showed the dividing line between the lots of the parties to be along the west wall of a building which defendant proposed to construct upon his property; that as a matter of fact the true line, according to the calls of plaintiff’s deed, was some six feet east of said line; that relying upon said representations, plaintiff consented to the erection of a concrete building along said proposed line; that thereafter plaintiff discovered the location of the true boundary line. Damages in the sum of $3500 was asked. The answer sets up several special defenses. The first is an agreement between the parties which reads as follows :
+“This agreement made and entered into by and between George Fred Otis and W. O. Wallis, both of Tuba City, California, this 24th day of August, 1923,
+‘ ‘ Witnesseth:
+“It being to their mutual benefit, they have agreed to build a party wall on the line between their respective properties on the south side of Bridge Street.
+“George Fred Otis is to furnish all of the labor and material and pay for the said wall. Said wall is to be a 8" stone tile wall extending center of wall on the property line 70 feet back from Bridge Street, in Tuba City, Calif.,
+“Also, it is agreed that on completion of said wall W. 0. Wallis agrees to pay one-half of the expense of making of wall which amounts to $296.00. Also W. 0. Wallis has the right of joining to said wall with a building at any time.
+“Signed: Geo. Feed Otis “Signed: O. W. Wallace.’’
+The other defenses are laches, estoppel and statute of limitations.
+Plaintiff and defendant are the owners of adjoining lots, whose northern frontage is on Bridge Street, which runs east and west. There are several lots in the block, to the west of their properties. The lot on the extreme west has its westerly line on Plumas Street. The angle of the intersection of said streets, at the northwest corner of the block is 94 degrees, 19 minutes. 'In 1923, and for some time prior thereto, the side lines of the several lots were parallel to Plumas Street. That is, the owners had always considered that their side lines were thus located. Each of said lines was therefore not at right angles to Bridge Street, but met the line of said street at an angle of 94 degrees, 19 minutes. On the other hand, the deeds of each lot owner called for side lines at right angles to Bridge Street. Upon discovery of this situation, several of the lot owners adjusted their side lines by mutual consent to conform to their deeds. Plaintiff and defendant had not followed this course. Such was the situation in 1923, when defendant commenced construction of a concrete building on the west line of his lot, this being the old boundary line which ran at an angle of 94 degrees, 19 minutes to the south line of Bridge Street. A surveyor was then employed by both parties to run the west side line which, according to the deeds, would intersect the southerly line of Bridge Street at a right angle. As a result, the parties entered into the agreement mentioned above.
+It would thus appear that the only issue was in respect to the strip of land which is covered by the concrete building of defendant. This is only a portion of the triangular strip along the entire west side line, existing as a result of changing the angle at the south line of Bridge Street. The entire strip runs from a point at the front of the lots 132 feet to the rear line, where the base of the triangle is 10.02 feet in length. The building runs back some 70 feet, and thus covers only a portion of the triangular area. The pleadings do not indicate any controversy whatever over the rear portion of such area. Upon the latter portion of the lot a building was erected many years ago, and it was there in 1923, standing practically on the line of the said concrete building which was erected by defendant in 1923 on the front of defendant’s lot.
+The court made no findings upon the issue of fraud, the sole basis for the action. It found that, as to the portion of the lot covered by the concrete building, plaintiff’s cause of action was barred by section 337, subdivision 2 of the Code of Civil Procedure. As to the remainder of the triangular strip, the court found that while defendant was in possession thereof from 1923 to 1938, such possession was by consent of plaintiff, and that consent was withdrawn in the latter year, and defendant was therefore a trespasser, and that plaintiff had been damaged in the sum of $600.
+It appears that while plaintiff’s cause of action was predicated upon fraud alone, judgment was rendered upon the theory and assumption that the action was one to recover damage for trespass. Turning to the testimony, we find that the substance of plaintiff’s own testimony and that of his wife was that the location of the true line between their lots was misrepresented by defendant.
+We find nothing in the pleadings or in the remainder of the record which would indicate that the issues determined by the findings were ever litigated. It therefore follows that the judgment is void.
+If it be conceded that the issues determined were presented in any manner, the judgment would have to be reversed for the reason that there is no evidence to sustain a finding that plaintiff ever consented to possession by defendant of any portion of the whole triangular area. Such is the contention of appellant, and our attention has not been called to any evidence of that character. On the other hand, there is evidence that the line of the new building was considered by both parties to have been the boundary between the two lots. The agreement relating to the party wall, executed in 1923, recites that such wall is on the line between their respective properties on the south side of Bridge Street. If it was on the line, the only reasonable inference to be drawn is that they referred to the entire west line of defendants property, and not merely to the portion of the line covered by the new building.
+The judgment is reversed.
+Thompson, Acting P. J., concurred.
