@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 572"
+decided: "1915-04-30"
+citations: ["27 Cal. App. 297"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. GEORGE WILLIAMS, Appellant."]
+source_url: "https://static.case.law/cal-app/27/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4456378
+cites_cases: ["124 Cal. 551", "45 L. R. A. 783", "57 Pac. 470"]
+---
+
+# People v. Williams
+
+## Majority (THE COURT.)
+
+THE COURT.
+The defendant in this case was charged with the crime of murder. Upon his trial he was convicted of murder in the second degree and sentenced to twenty years in the state prison. The appeal is from the judgment and from an order denying a new trial.
+The sufficiency of the evidence to support the verdict and judgment is not challenged. It should be noted, however, that the evidence shows that a bullet fired from a pistol in the hand of the defendant, entered the body of the deceased “right above the collar bone . . . ; took a downward and inward course, penetrated the body of the third dorsal vertebra; . . . cut half the cord and embedded in the spinal canal.” The immediate effect of the wound was partial paralysis of the body of the deceased, and an operation for the removal of the bullet was found necessary. The location of the wound, and the course and effect of the bullet, in all probability would have caused death even if septicemia had not set in. While the death of the deceased was attributed to two causes, viz., the shock of the wound and the shock of the operation, nevertheless the former was asserted to be the primary cause, and the latter is only an immaterial contributing factor. Under these circumstances it was immaterial to know, and therefore the trial court rightfully refused to permit the defendant to show, whether or not the deceased would have survived the shock of the wound in the absence of naturally resulting complications. (People v. Lewis, 124 Cal. 551, [45 L. R. A. 783, 57 Pac. 470].)
+The wife of the defendant was called and sworn as a witness in his behalf. Complaint is made of the ruling sustaining an objection to a question propounded to her which called for a conversation between her and the deceased, had shortly before the commission of the homicide. Conceding that the testimony sought to be elicited by the question was admissible, still the error, if any, in the ruling complained of was rendered harmless by the fact that the witness was subsequently permitted to narrate the conversation called for by the question objected to. The witness not only narrated the conversation, but she told in detail of the conduct of the deceased toward her, and of his threats to kill her husband, the defendant, in the event of the latter interfering with the illicit sexual intercourse which had been carried on between the witness and the deceased. All that the defendant desired to show in that behalf was ultimately established in evidence by the testimony of the witness notwithstanding that several objections to that line of testimony had been previously sustained. This being so, we are not seriously impressed with the complaint that the defendant was not permitted in aid of his defense of self-defense to show threats of the deceased which it was claimed had been communicated to the defendant prior to the commission of the homicide.
+Upon cross-examination this witness was asked if she had been in the detention home. The question was answered without objection in the affirmative. In the absence of an objection the defendant will not now be heard to complain of the admission of this testimony. True the question immediately following, “Were you in the detention home upon your husband’s complaint ... ?” was objected to; but the latter question was withdrawn as soon as the objection was made; and as a matter of course the objection to the latter question cannot now be resorted to as a valid objection to the first question.
+Upon cross-examination of this witness an objection by the defendant to the question, “You had trouble with your husband on the 31st of August last . . . and left his room ? ’ ’ was overruled. There was no error in the ruling. The witness upon her examination in chief had testified that she had had trouble with her husband, the defendant,- and had left his room on or about the thirty-first day of August. The question objected to did no more than call for the repetition in evidence of this fact, and in any event it was legitimate cross-examination.
+The trial court in effect sustained an objection to the question as to whether or not the witness had, with the knowledge of the defendant, associated with other men than the deceased. Without directly ruling upon the objection interposed the court indicated that the objection was well taken, and without receiving an answer or pursuing the question further the district attorney continued his cross-examination along other lines. The result was equivalent to a formal ruling sustaining the objection, and therefore the defendant has no just cause for complaint, in this particular.
+The defendant requested, and the court refused, to charge the jury that it was the duty of the jury “to resolve all of the evidence in this case upon a theory or hypothesis consistent with the intentions of the defendant. ...” Obviously the requested instruction did not state the law, and therefore it was rightfully refused.
+There was no error in refusing the defendant’s requested instruction relating to the law of self-defense and the right of the defendant to act upon communicated threats. In so far as the requested instruction correctly stated the law, it was covered by the charge of the court.
+The judgment and order appealed from are affirmed.
