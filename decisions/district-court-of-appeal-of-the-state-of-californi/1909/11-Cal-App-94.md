@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 629"
+decided: "1909-07-21"
+citations: ["11 Cal. App. 94"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. C. LONG, Appellant, v. AMERICAN SURETY COMPANY, Respondent."]
+source_url: "https://static.case.law/cal-app/11/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4648252
+cites_cases: ["139 Cal. 30", "146 Cal. 443", "32 Pac. 878", "72 Pac. 359", "80 Pac. 694", "98 Cal. 120"]
+---
+
+# Long v. American Surety Co.
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Motion to dismiss an appeal for failure to file points and authorities.
+The court, under a misapprehension of the facts disclosed by the record heretofore, made an order denying the motion.
+The appeal is from an order of the trial court denying plaintiff’s motion for a new trial.
+The transcript was filed on October 22, 1908 (not November 21st, as stated by appellant’s affidavit). On November 18th, pursuant to stipulation filed, this court made an order granting appellant thirty days’ additional time within which to file his points and authorities. This extension of time expired on December 21st, and, so far as disclosed by the record, no further stipulation was filed herein, and no order made further extending the time.
+On April 1, 1909, appellant not having filed his points and authorities, respondent served notice on his attorney that it would, on April 26, 1909, move the court for an order dismissing the appeal upon the ground of appellant’s failure to file such points and authorities within the time prescribed by the rules therefor, which notice of motion was filed in this court on April 7th. Thereafter, on April 24th, appellant delivered to the clerk of this court his points and authorities, which, however, were not filed, owing to the time therefor having elapsed. It thus appears that the points and authorities were not presented for filing until the expiration of a period of more than four months after the expiration of the time for filing the same.
+At the hearing of the motion, appellant’s attorney presented affidavits of himself and his stenographer, from which it appears that on February 1, 1909, he applied to T. F. Allen, respondent’s attorney, for a stipulation extending the time within which he might file his points and authorities; that Allen refused to make any stipulation granting further extension of time for such purpose, but stated to appellant’s attorney that he would not take advantage of appellant’s failure to file his brief in time, and would not move to dismiss “the appeal on the ground of the appellant’s failure to comply with the provisions of rule 4” of the supreme court governing this court. (This rule has no application whatever to the ease.) .It is further averred that owing to pressure of other professional engagements during the period extending from the time of filing said transcript to April 1st, affiant did not have time to prepare appellant’s points and authorities, the preparation of which required three or four days’ careful labor. It is also averred that appellant had stipulations from respondent extending the time to February 1, 1909. No such stipulations were filed, however, and no order made by this court based thereon extending the time as required by subdivision 5 of rule II, nor were such stipulations presented upon the hearing. It appears, therefore, that more that a month elapsed after appellant’s default before application was even made on February 1st for a further extension of time, at which time appellant had no existing right to file points and authorities, and that respondent refused to grant the same. Conceding, but not holding, that an affidavit of an oral statement made under such circumstances to the effect that the respondent would not take advantage of such default might be considered in opposition to a motion to dismiss, and accepting this statement at its full value, it could not be construed as effective in extending the time beyond a reasonable time. Appellant took no step in the matter until the lapse of nearly three months, and after service and filing of notice of motion to dismiss. Under the rules, thirty days is regarded as a reasonable period within which to file points and authorities, yet in this ease appellant is claiming more than four months, without any showing that can be regarded as an excuse for his default. Buie II of this court provides that appellant shall file his points and authorities thirty days after the transcript is filed, and by subdivision 5 of said rule it is provided that “the time above limited for filing points and authorities shall not be extended except by order of the court upon stipulation of the parties, or an affidavit showing good cause therefor.” Bule Y provides if “appellant’s points and authorities be not filed within the time prescribed, the appeal may be dismissed on motion, upon notice given.” In order that the court may control its calendars and dispose of its business in an orderly and convenient manner, a compliance with these rules must be exacted from litigants. No hardship can result therefrom, for the rules themselves provide for the granting of further time to perform the acts required upon a proper showing. (Shain v. People’s Lumber Co., 98 Cal. 120, [32 Pac. 878]; McCabe v. Healey, 139 Cal. 30, [72 Pac. 359]; Coats v. Coats, 146 Cal. 443, [80 Pac. 694].)
+No showing is made which even tends to excuse this long-continued default, and it is respondent’s right to have the rule for dismissal of the appeal enforced. (McCabe v. Healey, 139 Cal. 30, [72 Pac. 359].)
+The order heretofore made is, therefore, vacated and set aside; and for the foregoing reasons it is now ordered that respondent’s motion be granted and the appeal be dismissed.
+Allen, P. J., and Taggart, J., concurred.
