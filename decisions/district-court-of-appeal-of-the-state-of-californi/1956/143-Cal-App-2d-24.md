@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 21243"
 decided: "1956-07-10"
-citations: ["143 Cal. App. 2d 24", "143 Cal. App. 2d 35", "143 Cal. App. 2d 41"]
+citations: ["143 Cal. App. 2d 24"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["CITY OF LONG BEACH, Plaintiff and Appellant, v. CLYDE ALLEN, Defendan
 source_url: "https://static.case.law/cal-app-2d/143/cases/0024-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2176930
-cites_cases: ["106 Cal.App.2d Supp. 833", "120 Cal.App.2d 770", "126 Cal.App.2d 414", "139 Cal.App.2d 282", "15 P.2d 156", "156 P.2d 737", "163 P.2d 865", "216 Cal. 546", "236 P.2d 236", "25 Cal.2d 930", "262 P.2d 91", "263 P.2d 833", "27 Cal.2d 343", "272 P.2d 875", "287 P.2d 765", "293 P.2d 1", "293 P.2d 839", "30 A.L.R.2d 347", "41 Cal.2d 698", "45 Cal.2d 128", "46 Cal.2d 182", "56 P.2d 237", "6 Cal.2d 64"]
+cites_cases: ["126 Cal.App.2d 414", "139 Cal.App.2d 282", "15 P.2d 156", "156 P.2d 737", "216 Cal. 546", "25 Cal.2d 930", "263 P.2d 833", "272 P.2d 875", "287 P.2d 765", "293 P.2d 1", "293 P.2d 839", "41 Cal.2d 698", "45 Cal.2d 128", "46 Cal.2d 182", "56 P.2d 237", "6 Cal.2d 64"]
 ---
 
 # City of Long Beach v. Allen
