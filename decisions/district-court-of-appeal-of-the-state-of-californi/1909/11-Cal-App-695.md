@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 645"
 decided: "1909-11-10"
-citations: ["11 Cal. App. 695", "11 Cal. App. 701"]
+citations: ["11 Cal. App. 695"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["SAN FRANCISCO SULPHUR COMPANY, a Corporation, Respondent, v. AETNA IN
 source_url: "https://static.case.law/cal-app/11/cases/0695-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4650181
-cites_cases: ["1 Pac. 487", "104 Cal. 30", "106 Pac. 111", "109 Cal. 29", "123 Cal. 240", "124 Cal. 664", "126 App. Div. 48", "139 Cal. 410", "146 Cal. 777", "17 Pac. 925", "18 R. I. 309", "22 Pac. 327", "25 Am. St. Rep. 151", "27 Atl. 216", "27 Pac. 527", "32 Cal. 145", "33 Pac. 650", "36 Am. St. Rep. 156", "37 Pac. 775", "41 Pac. 1024", "55 Pac. 804", "57 Pac. 572", "6 Wash. 302", "64 Cal. 405", "66 Fed. 253", "73 Pac. 156", "75 Cal. 633", "80 Cal. 611", "81 Pac. 115", "82 N. Y. 115", "90 Cal. 532"]
+cites_cases: ["1 Pac. 487", "104 Cal. 30", "109 Cal. 29", "123 Cal. 240", "124 Cal. 664", "126 App. Div. 48", "139 Cal. 410", "146 Cal. 777", "17 Pac. 925", "18 R. I. 309", "22 Pac. 327", "25 Am. St. Rep. 151", "27 Atl. 216", "27 Pac. 527", "32 Cal. 145", "33 Pac. 650", "36 Am. St. Rep. 156", "37 Pac. 775", "41 Pac. 1024", "55 Pac. 804", "57 Pac. 572", "6 Wash. 302", "64 Cal. 405", "66 Fed. 253", "73 Pac. 156", "75 Cal. 633", "80 Cal. 611", "81 Pac. 115", "82 N. Y. 115", "90 Cal. 532"]
 ---
 
 # San Francisco Sulphur Co. v. Aetna Indemnity Co.
