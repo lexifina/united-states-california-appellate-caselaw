@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7268"
+decided: "1930-02-17"
+citations: ["104 Cal. App. 95"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SYDNEY T. SMITH, Administrator, etc., Respondent, v. WALTER E. MINGRAMM et al., Defendants; WILINA MINGRAMM, Appellant."]
+source_url: "https://static.case.law/cal-app/104/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2123621
+cites_cases: ["103 Am. St. Rep. 102", "136 Pac. 538", "144 Cal. 501", "22 Cal. App. 770", "77 Pac. 1109"]
+---
+
+# Smith v. Mingramm
+
+## Majority (NOURSE, Acting P. J.)
+
+NOURSE, Acting P. J.
+This is an appeal from an order of the Superior Court directing the commissioner appointed by the court to execute a deed to the purchaser of certain real property at a sale under a decree of foreclosure of two mortgages. The appeal is presented on a typewritten transcript.
+The appellant joined with her husband in the execution of a mortgage on the property on April 11, 1913. The defendants Otto and Minna Paehmayr on April 11, 1921, executed a second mortgage on the same property in favor of Thomas W. Miller, the alien property custodian. On January 22, 1926, this mortgage was duly assigned by the custodian to Walter E. Mingramm. In this suit for foreclosure of the first mortgage Walter É. Mingramm was joined as a party defendant and then came forward as a cross-plaintiff seeking foreclosure of the mortgage thus assigned to him. Issue being joined, the trial court made its decree ordering the foreclosure of both mortgages in favor of these respective plaintiffs. A commissioner was duly appointed, who made the sale to the respondent Hooper, to whom certificate of sale was duly issued.
+Before the expiration of one year from the date of the sale an attorney claiming to represent Mrs. Mingramm paid to the commissioner an amount sufficient to redeem the property from execution sale. This sum the commissioner tendered to the purchaser at the sale, who refused to accept it. After the expiration of the year the court directed the commissioner to execute a deed to the purchaser and such deed was executed and delivered. It is from this order that the appeal is taken on behalf of Mrs. Mingramm.
+The respondent, the purchaser at the commissioner’s sale, urges in support of the order that appellant is not a party entitled to redeem. He also has moved to dismiss the appeal on the ground that the appellant is not a “party” aggrieved by the order and also on the ground that the order having been fully executed the questions raised are moot.
+The appellant was joined as a party defendant, but the cause was dismissed as to her and she was not thereafter a party to the proceeding. The attorney appearing for her on this appeal filed an affidavit in the court below stating that he appeared for her, but the court, after a hearing upon oral and documentary evidence, recited in its order that this attorney appeared for the court commissioner. The appellant is a resident of Holland and has not in person or by letter of any character made any appearance in the proceedings except as may have been done in the manner above noted.
+The right of appeal is limited to a “party aggrieved.” (Sec. 938, Code Civ. Proc.) One who has not been made a party to a cause may make himself a party by moving to set aside the judgment or order complained of, or by otherwise submitting himself to the jurisdiction of the court. (Elliott v. Superior Court, 144 Cal. 501, 506 [103 Am. St. Rep. 102, 77 Pac. 1109]; Postal etc. Co. v. Superior Court, 22 Cal. App. 770, 773 [136 Pac. 538].)
+If we are bound by the recitals in the order of the trial court it must be apparent that the appellant has not submitted to the jurisdiction of the court in any manner and that she is not therefore a party entitled to appeal from the order. It would also seem that the entire controversy over the order is moot because the deed has been executed and delivered and the order is now functus oficio. But the record is in such condition that we do not deem it proper to grant the motion to dismiss on either ground.
+On the merits .the issue is plainly stated by both parties to be whether the appellant is a party entitled to redeem under the provisions of section 2903 of the Civil Code. This section reads in part: “Every person, having an interest in property subject to a lien, has the right to redeem it from the lien, at any time after the claim is due, and before his right of redemption is foreclosed. . . .” Manifestly, anyone claiming the benefits of this section must, at the very outset, show that he is a “person having an interest in the property.” If any such showing was made it does not appear in the record. The trial court found that no redemption was made during the legal period. This finding was made after a hearing upon both oral and documentary evidence and what this evidence tended to prove we have no method of knowing except through the recitals of the order. The record is designated as the clerk’s transcript of papers on file in his office. Among these papers are certain affidavits. If they were read or used at the hearing the record does not so disclose. At the end of this record appears the certification of the trial judge that the record is true and correct. This is what is required of the trial judge in the settlement of the reporter’s transcript under section 953a of the Code of Civil Procedure. But, if we were to treat the record as being both a clerk’s and a reporter’s transcript within the meaning of that section, we cannot escape the conclusion that the appellant has failed to show error. We must presume, in support of the order, that the trial court had before it sufficient evidence to sustain its finding, and that this may have included positive evidence showing that appellant had no interest. On the other hand, if no evidence was taken, the result is the same. The burden was on appellant to show that she was a person entitled to redeem. If she failed to make the showing she cannot now claim error. If she made the showing she should have it in the record.
+The motion to dismiss is denied.
+The order is affirmed.
+Sturtevant, J., and Dooling, J., pro tem., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on March 19, 1930, and a petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on April 17, 1930.
+All the Justices present concurred.
