@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 826"
+decided: "1910-10-07"
+citations: ["14 Cal. App. 338"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. H. KEIFER, Respondent, v. R. H. MYERS, Appellant."]
+source_url: "https://static.case.law/cal-app/14/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4586562
+cites_cases: ["13 Cal. 125", "136 Cal. 519", "137 Cal. 71", "5 Cal. App. 668", "55 Cal. 106", "69 Pac. 146", "69 Pac. 844", "91 Pac. 163"]
+---
+
+# Keifer v. Myers
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+This was an equitable action wherein plaintiff sought a decree adjudging him the owner of certain shares of the capital stock of a laundry company. The issue presented was as to the character of the transfer to defendant of such shares. The trial court found the transaction to be a pledge of the shares, and not an absolute sale, and plaintiff was decreed appropriate relief.
+The principal question involved herein was before this court upon a former appeal from a judgment of nonsuit. (Keifer v. Myers, 5 Cal. App. 668, [91 Pac. 163].) Upon that appeal, as upon this, the written agreements entered into between the parties with reference to the transfer and indorsement of the certificates of stock were before this court, and this court construed such agreements, and determined that upon their face the same were clearly intended to be and were agreements relating to a pledge. That construction of the agreements and the legal effect which should be given the same has become the law of the case. We cannot, therefore, upon this appeal, consider appellant’s contention that the same should be construed or held otherwise.
+There remains, however, another question presented by the record, and that is as to the action of the trial court in sustaining an objection to evidence offered by defendant of conversations between the parties leading up to and culminating in the execution of the agreements as indicating the effect which the parties intended should be given thereto; the question propounded being: “State all the facts leading up to and attending the making of the contract between yourself and Mr. Heifer relating to the transfer to you of one hundred and ninety-eight shares of stock of the Sanitary Laundry Company owned by Mr. Keifer; what was said and done by each of you?” Appellant insists that the equitable rule long established, and as followed by our supreme court in Pierce v. Robinson, 13 Cal. 125, and numerous other cases, is applicable to a case of the character here presented. The rule in the Pierce case, as in all cases which have come under our observation, wherein the right to prove by parol facts tending to establish a contract different from that expressed by the language of the instrument, is confined to those cases where an equity is sought to be shown superior to the terms of the instrument, which equity a court of chancery will enforce by annulling or reforming the instrument, or limiting its operation, or enjoining its use. Under this rule, deeds may be shown to be mortgages, and other instruments purporting to grant absolute rights may be shown to have been intended to possess some limited character. But the right to defeat an expressed equity by destructive parol proof is not comprehended within the rule. In our opinion, the written agreement of pledge cannot be shown by parol to be an agreement of absolute sale, no more than a mortgage, which is but a lien, may by parol be shown to have been intended as a grant of the property described. That in eases of the nature here presented evidence is not admissible dehors the instrument to establish a character different from that expressed by the language employed. Whatever rights exist in eases analogous to the one under consideration, if the instrument, through fraud or mistake, does not express the real agreement, must be worked out through a reformation of the contract under appropriate pleadings and subject to the rules and sufficiency of the evidence in actions of that character. (Gardner v. California Guarantee Co., 137 Cal. 71, [69 Pac. 844].) We think the court did not err in its fixation of the amount requisite to redemption from the pledge. A tender of the amount due under a pledge has the effect of performance of all incidents of the obligation at the date of the tender. (Civ. Code, sec. 1504.) The refusal of defendant to accept the tender based upon a disavowal of a pledge and a claim of absolute ownership renders subsequent payments by the pledgee as voluntary in their character. “No man can be a debtor for money paid unless it was at his request.” (Curtis v. Parks, 55 Cal. 106; Huddleston v. Washington, 136 Cal. 519, [69 Pac. 146].)
+We have examined the other specifications of error, all of which relate to rulings upon the admissibility of evidence, and those specifications not covered by the principles herein-before declared are not of a character which would warrant a reversal of the judgment.
+Judgment affirmed.
+Shaw, J., and James, J., concurred.
+A petition for a rehearing of this cause was denied by the district court of appeal on November 5,1910, and a petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 5, 1910.
