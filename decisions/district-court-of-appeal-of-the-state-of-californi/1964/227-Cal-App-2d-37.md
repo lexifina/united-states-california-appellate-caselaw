@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 8945"
+decided: "1964-05-01"
+citations: ["227 Cal. App. 2d 37"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re MELVIN PETER JOHNSON, a Person coming under the Juvenile Court Law. THE PEOPLE, Plaintiff and Respondent, v. MELVIN PETER JOHNSON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/227/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2138559
+cites_cases: ["121 Cal.App.2d 140", "136 Cal.App.2d 741", "153 Cal.App.2d 138", "183 P.2d 282", "194 Cal. 320", "228 P. 467", "262 P.2d 656", "289 P.2d 303", "299 P.2d 875", "313 P.2d 968", "46 Cal.2d 891", "81 Cal.App.2d 205"]
+---
+
+# People v. Johnson
+
+## Majority (SHINN, P. J.)
+
+SHINN, P. J.
+Melvin Peter Johnson, a minor, was arrested for purse snatching, grand theft under Penal Code section 487, subdivision 2. The matter was referred to the probation office, and a petition was then filed in the juvenile court alleging that Melvin Johnson had violated a penal statute. Appellant denied the allegations of the petition, a hearing was held, and the court found the petition to be true, made said minor a ward of the court under Welfare and Institutions Code section 602, and committed him to the California Youth Authority. Appeal is taken from the judgment. An appeal is noticed from denial of a motion to vacate the order upon the ground of new evidence.
+The facts in this ease are not relevant to any issue and will be stated only briefly. On November 21, 1962, one Rose Lee Johnson was on her way home from shopping in Watts with her two children at about 8:35 at night. After crossing the street at Grape and 102d she noticed two men standing on the corner. As she started to pass them they moved to either side of her and one of them grabbed her purse. She dropped her packages, there was a scufflle, the purse strap broke and the two young men ran off, one of them with the purse. Rose Lee Johnson saw appellant about two weeks after the incident, on her way shopping, and again when she identified him at the police station.
+Upon questioning by the police, appellant claimed that he had been with friends from 2:30 in the afternoon until 10 or 11 at night. He also offered to reimburse the victim, Rosa Lee Johnson, if that would clear up the matter, but did not admit any participation in the crime. Appellant’s mother, grandmother, two sisters and a friend of the family all testified that appellant was at home having dinner and watching television on the day and at the time in question.
+The only question presented on the appeal relates to the quantum of proof used by the trial court to determine whether appellant had committed the crime. The court commented: “We start of course, with the law in Juvenile Court, that the burden of establishing the act is not the criminal burden of beyond a reasonable doubt, but by the preponderance of the evidence.” Appellant contends that this is an incorrect measure of proof for proving a crime, and that as used it violated appellant’s rights under the California and the United States Constitutions.
+Section 602 of the Welfare and Institutions Code provides that “Any person under the age of 21 years who violates any law of this State ... is within the jurisdiction of the juvenile court, which may adjudge such person to be a ward of the court.” And section 701 of the code provides, in relevant parts, that “At the hearing, the court shall first consider only the question whether the minor is a person described by sections 600, 601, or 602, and for this purpose ... a preponderance of evidence, legally admissible in the trial of criminal cases, must be adduced to support a finding that the minor is a person described by section 602. ...” (Italics added.) Appellant contends that section 701 only relates to establishing jurisdiction of the juvenile court and that when jurisdiction is established the commission of the crime must be proved under the “reasonable doubt” rule of Penal Code section 1096. This contention is specious. Proof of commission of the crime is what establishes jurisdiction.
+Section 701 is merely a procedural statute for making a judicial finding of fact that the minor is a person described by sections 600, 601 or 602. If the court finds that the minor has committed the alleged crime this is only a finding which vests jurisdiction in the juvenile court under section 602 and the court may then make the minor a ward of the court. The proceeding is civil in nature and not a criminal prosecution. The finding is not a conviction nor is the order adjudging the minor a ward or committing him to the Youth Authority a sentence. (Welf. & Inst. Code, § 503; In re Dargo, 81 Cal.App.2d 205, 207 [183 P.2d 282]; In re Schubert, 153 Cal.App.2d 138, 141 [313 P.2d 968]; People v. Fifield, 136 Cal.App.2d 741 [289 P.2d 303].)
+There is not merit in appellant’s contention that application of a preponderance of evidence rule rather than a reasonable doubt test is a violation of due process and equal protection because it allows the commitment of a minor upon a quantum of evidence which is less than would be required for the conviction of an adult charged with commission of the same crime. This contention is without merit and is based upon a misconception of the laws relating to proceedings in the juvenile courts.
+“The rationale of all of the decisions on the subject in this state is that because a proceeding before the juvenile court is not a criminal proceeding the constitutional and statutory rights given to persons charged with crime are not applicable to such proceedings. ’ ’ (People v. Fifield, supra, 136 Cal.App.2d 741, 743; see, also, In re Dargo, supra, 81 Cal.App.2d 205; In re Daedler, 194 Cal. 320 [228 P. 467] ; People v. Silverstein, 121 Cal.App.2d 140 [262 P.2d 656]; People v. Dotson, 46 Cal.2d 891 [299 P.2d 875].)
+No constitutional rights of the appellant have been infringed by the use of the preponderance of evidence test to determine the truth of the allegation that he had committed a crime.
+There is no discussion by appellant of the denial of the motion to vacate the judgment. Therefore, the order is affirmed.
+The judgment is affirmed.
+Ford, J., and Files, J., concurred.
