@@ -1,0 +1,76 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 8344"
+decided: "1976-07-12"
+citations: ["59 Cal. App. 3d 998"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ALVIN THOMAS RICE, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/59/cases/0998-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4487513
+cites_cases: ["1 Cal.Rptr. 330", "10 Cal.Rptr. 823", "104 Cal.Rptr. 363", "11 A.L.R.3d 1307", "12 Cal.Rptr. 748", "129 Cal.App.2d 47", "13 Cal.App.3d 912", "150 P.2d 892", "151 Cal.App.2d 660", "191 Cal.App.2d 296", "21 Cal.App.3d 10", "234 Cal.App.2d 136", "24 Cal.2d 611", "268 Cal.App.2d 231", "274 Cal.App.2d 770", "276 P.2d 177", "28 Cal.App.3d 36", "312 P.2d 70", "347 P.2d 674", "359 P.2d 255", "36 Cal.Rptr. 327", "388 P.2d 359", "44 Cal.Rptr. 165", "440 P.2d 939", "450 P.2d 591", "53 Cal.2d 266", "55 Cal.2d 282", "60 Cal.2d 694", "68 Cal.2d 639", "68 Cal.Rptr. 459", "71 Cal.2d 66", "73 Cal.Rptr. 844", "75 Cal.Rptr. 199", "79 Cal.Rptr. 240", "92 Cal.Rptr. 82", "98 Cal.Rptr. 249"]
+---
+
+# People v. Rice
+
+## Majority (EVANS, J.)
+
+Opinion
+EVANS, J.
+After a trial by juiy, defendant was found guilty of possession of heroin (Health & Saf. Code, § 11350), possession of amphetamines (Health & Saf. Code, § 11377), and possession of a sawed-off shotgun (Pen. Code, § 12020).
+Facts
+On May 19, 1974, defendant was arrested at his place of residence for an offense unrelated to the charges from which he appeals. At the time of his arrest, Pam Blosser and Jackie Johnson resided with defendant. While defendant was confined in the county jail, a search warrant was issued, authorizing a search of his residence. The search was carried out by Sheriff Detectives O’Neal, Robinson, Kelley and Magers and Parole Officer Dean. The officers knocked on the door of defendant’s home; Pam Blosser (subsequently identified as defendant’s girl friend) responded. The officers identified themselves, exhibited the search warrant, and were permitted to enter the house and conduct the search.
+In the defendant’s bedroom, at that time shared with Pam, the officers found a large home-constructed water bed. A search of the bed frame disclosed hollowed-out compartments in which the officers found a loaded .12 gauge sawed-off shotgun, .72 grams of heroin, a loaded M-l banana clip, and 4.05 grams of pintobarb, a barbituate. The bed compartments also produced various items of narcotic paraphernalia and a container of methedrine, an amphetamine.
+Defendant, testifying in his own behalf, asserted that he did not place any of the contraband in the frame, nor did he authorize any other persons to do so. He stated that he did not have shotguns in his home at the time of his arrest although he used them for hunting. He also testified that shortly before his arrest, he observed a pill vial in Jackie Johnson’s possession, similar to the one found in the bed-frame compartment, and that he had previously observed Jackie inject speed.
+On appeal, defendant contends that the trial court erred: (1) by improperly instructing the jury; and (2) in refusing to admit in evidence a transcript of testimony given by a witness in a former trial.
+Jury Instructions
+In undertaking a review of the instructions given and refused, we first examine the nature of the crimes charged. Defendant was charged with possession of narcotics and a sawed-off shotgun.
+The elements of possession are well established and were succinctly set forth in People v. Valerio (1970) 13 Cal.App.3d 912 [92 Cal.Rptr. 82], The court at page 921 stated: “It is, of course, well established that to convict an accused of possession of marijuana it must be proved that he had knowledge of its presence, that he had knowledge of its character and that he had either actual or constructive possession of a tisable quantity thereof. (People v. Francis, 71 Cal.2d 66, 71-72 [75 Cal.Rptr. 199, 450 P.2d 591]; People v. Groom, supra, 60 Cal.2d 694, 696 [36 Cal.Rptr. 327, 388 P.2d 359]; People v. Redrick, supra, 55 Cal.2d 282, 285 [10 Cal.Rptr. 823, 359 P.2d 255].) It is necessaiy to a finding of either actual or constructive possesion that the accused had the right to exercise dominion and control over the contraband or at least that he had the right to exercise dominion and control over the place where it was found. (People v. Francis, supra; People v. Groom, supra.) Conviction is not precluded, however, if the defendant’s right to exercise dominion and control over the place where the contraband was located is shared with another. (People v. Francis, supra, at p. 71; People v. Jackson, 191 Cal.App.2d 296, 302 [12 Cal.Rptr. 748].)” (See also People v. Showers (1968) 68 Cal.2d 639, 643-644 [68 Cal.Rptr. 459, 440 P.2d 939]; People v. Coleman (1972) 28 Cal.App.3d 36, 45 [104 Cal.Rptr. 363]; People v. Robarge (1957) 151 Cal.App.2d 660, 668 [312 P.2d 70].) The fact of possession may be established by circumstantial evidence and any reasonable inferences drawn therefrom, It is also well settled that exclusive possession or control is not necessary. (People v. Estrada (1965) 234 Cal.App.2d 136, 155 [44 Cal.Rptr. 165, 11 A.L.R.3d 1307].)
+Although Pam and two others had keys to defendant’s house, the premises were nonetheless in his possession and control on the day of his arrest. Only Pam shared defendant’s bedroom. There is no direct evidence that the others having access to the house had knowledge of the secret storage area.
+The defendant admitted constructing the water bed frame with the concealed compartments within which the contraband was found; he admitted using shotguns for hunting purposes and having in his possession live shotgun shells. From these facts, inferences of knowledge and possession of the contraband may be drawn.
+On the elements of the charges, the court submitted to the jury CALJIC Nos. 12.00 and 12.35.
+In addition to those instructions, the defendant requested and the court gave the following instruction: “The fact that the defendant is unable to produce evidence that the restricted dangerous drugs belonged to someone else is not evidence that the drugs belonged to him.” (People v. Antista (1954) 129 Cal.App.2d 47 [276 P.2d 177].)
+Defendant submitted the following instruction which was refused: “Evidence is insufficient to support a finding of possession if:
+“1. There is no evidence to show the presence of the contraband prior to the defendant’s leaving his residence; and
+“2. There was a user, or users, of the narcotics in the residence at the time it was found; and
+“3. There is no other fact or circumstance of an incriminating nature.”
+This refusal is asserted by defendant as reversible error. We disagree. The rejected instruction may best be described as argumentative. It embodies recitals of fact drawn from the evidence in such a manner as to constitute argument to the jury in the guise of a statement of law. Such an instruction is entirely improper. (See Witkin, Cal. Criminal Procedure (1963) Trial, § 477, p. 484.)
+Instructions on eveiy aspect of the case must be given, and should be clear, concise and simple in order to avoid misleading the jury or in any way overemphasizing either party’s theory. (Guerra v. Handlery Hotels, Inc. (1959) 53 Cal.2d 266 [1 Cal.Rptr. 330, 347 P.2d 674]; People v. Rhodes (1971) 21 Cal.App.3d 10 [98 Cal.Rptr. 249].)
+The trial court properly instructed the jury on the question of possession (fns. 1 and 2, ante, pp. 1003-1004) and knowledge of the presence of the contraband. The instruction requested and refused was properly rejected.
+Former Testimony
+Defendant contends the trial court’s ruling barring use of testimony given by Jackie Johnson in a prior criminal proceeding was error.
+\
+In People v. Fisk, a prior and unrelated case conducted in a different county, Jackie Johnson had been granted immunity and testified for the prosecution as a percipient witness to the murder of her husband. In an attempt to impeach her credibility by attacking her ability to perceive the events surrounding the killing, the defense in the Fisk case elicited from her on cross-examination the fact that on the evening of the killing, she was under the influence of narcotics, having earlier injected speed; that she was a narcotics addict and had possession of’ narcotics and the needed paraphernalia for its use. Defendant Rice sought to introduce this testimony in the, present proceeding, contending it was relevant on the question of his knowledge, possession and control of the discovered items.
+Former testimony given by a witness may be utilized in a later trial as an exception to the hearsay rule, and since the adoption of the Evidence Code on January 1, 1967, such testimony has been admissible in criminal cases. (People v. Nieto (1968) 268 Cal.App.2d 231, 235-236 [73 Cal.Rptr. 844].) The first requisite to the use of the former testimony, that the witness must be unavailable for trial, was not in dispute.
+However, one of two other criteria must be satisfied before such former testimony may be utilized.
+Evidence Code section 1291, subdivision (a)(1), requires that the former testimony be offered against a person who offered it in his own behalf. Johnson testified at the request of the District Attorney of Yolo County as a witness to a murder, after first receiving a grant of immunity from criminal prosecution. Her testimony was offered by the People as a percipient witness to the killing. The trial in which her testimony was given did not involve the question of defendant Rice’s possession of heroin, amphetamines, or a sawed-off shotgun. The testimony sought to be used by the defendant herein was elicited on cross-examination by defendant in the Yolo County proceeding; it questioned the witness’ ability to perceive. The People in the Yolo County trial did not offer that testimony in their behalf. We therefore have no difficulty in concluding that such former testimony offered in this proceeding was not “offered against a person who offered it in evidence in. his own behalf.”
+Alternatively, section 1291, subdivision (a)(2), requires that the party against whom the former testimony, is offered have been a party to the prior proceeding with the opportunity to cross-examine the declarant with an interest and motive similar to that which he has in the present case. Such requirement is designed to make certain that the cross-examination in the first trial may serve as well in the second. (Werner v. State Bar (1944) 24 Cal.2d 611 [150 P.2d 892].)
+Quite apart from the lack of any opportunity to cross-examine the witness, the “People” as a party to the Yolo County proceeding did not have the opportunity to examine the unavailable witness with the same interest and motive as the “.People” in the instant Sacramento County proceeding. The interest of the “People” in the instant proceeding is to establish the elements of possession of heroin, amphetamines, and a sawed-off shotgun. The People in the Fisk trial sought to establish that the crime of murder, had been committed by the defendant Fisk; since Johnson’s testimony assisted in satisfying the People’s burden, it would have been counterproductive to the People’s interest to impeach her credibility by showing her association with illicit drugs.
+Finally, defendant contends the former testimony should be admissible as an admission against interest.
+Although Johnson was unavailable as a witness, her former testimony does not qualify as a declaration against interest. It was elicited under a grant of immunity and could not have subjected her to criminal liability. (People v. Rodriquez (1969) 274 Cal.App.2d 770 [79 Cal.Rptr. 240].)
+The judgment is affirmed.
+Puglia, P. J., and Paras, J., concurred.
+CALJIC No. 12.00:
+“Every person who unlawfully possesses any controlled substance, such as heroin or methamphetamine,is guilty of a crime.
+“To constitute the illegal possession of a controlled substance, it must be established:
+“1. That the defendant exercised control or had the right to exercise control over the controlled substance;
+“2. That the defendant had knowledge of its presence;
+“3. That the defendant had knowledge of its nature as a controlled substance; and
+“4. That the substance was in an amount sufficient to be used as a controlled substance.
+“(Two or more persons may have joint illegal possession of a controlled substance if each has the right of control thereof and each has knowledge of its presence and of its nature as a controlled substance.)”
+CALJIC No. 12.35:
+“Every person who has in his possession any instrument or weapon of the kind commonly known as a blackjack, slungshot, billy, sandclub, sandbag, sawed-off shotgun, or metal knuckles, is guilty of a crime.
+“(A 'sawed-off shotgun" means a shotgun having a barrel or barrels of less than 18 inches in length, or a rifle having a barrel or barrels of less than 16 inches in length, or any weapon made from a riflle or shotgun (whether by alteration, modification or otherwise) if such weapon as modified has an overall length of less than 26 inches.)
+“It is not necessary to constitute the offense charged against the defendant that the weapon be concealed upon his person or be capable of such concealment or that it be carried upon his person.
+“To constitute possession of a weapon, it must be established:
+“1. That the defendant exercised control or had the right to exercise control over the weapon; and
+“2. That the defendant had knowledge of the presence of the weapon.
+“(Two or more persons may have joint posession of a weapon if each has the right of control of the weapon and each has knowledge of its presence.)”
+The record does not contain the transcript offered or excerpts from if. We refer only to counsel’s comments made in his offer of proof.
+Evidence Code section 1291 provides in pertinent part:
+“(a) Evidence of former testimony is not made inadmissible by the hearsay rule if the declarant is unavailable as a witness and:
+“(1) The former testimony is offered against a person who offered it in his own behalf on the former occasion or against the successor in interest of such person; or
+“(2) The party against whom the former testimony is offered was a party to the action or proceeding in which the testimony was given and had the right and opportunity to cross-examine the declarant with an interest and motive similar to that which he has at the hearing." (Italics added.)
+Evidence Code section 1230 provides: “Declarations against interest. Evidence of a statement by a declarant having sufficient knowledge of the subject is not made inadmissible by the hearsay rule if the declarant is unavailable as a witness and the statement, when made, was so far contrary to the declarant’s pecuniary or proprietary interest, or so far subjected him to the risk of civil or criminal liability, or so far tended to render invalid a claim by him against another, or created such a risk of making him an object of hatred, ridicule, or social disgrace in the community, that a reasonable man in his position would not have made the statement unless he believed it to be true.”
