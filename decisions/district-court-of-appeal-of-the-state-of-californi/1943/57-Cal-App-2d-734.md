@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13983"
+decided: "1943-03-22"
+citations: ["57 Cal. App. 2d 734"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEDELL ENGINEERING COMPANY (a Corporation), Appellant, v. MAX ROUSE et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/57/cases/0734-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4427333
+cites_cases: ["10 Cal.2d 671", "104 P.2d 30", "106 Cal. 623", "110 Cal.App. 201", "110 Cal.App. 265", "112 P. 891", "118 Cal. App. 53", "119 Cal.App. 678", "120 Cal. 147", "126 Cal. 628", "129 P. 804", "133 Cal.App. 184", "139 Cal.App. 143", "15 Cal.2d 573", "152 Cal. 772", "159 Cal. 172", "166 P. 332", "175 Cal. 594", "182 Cal. 538", "189 P. 440", "20 Cal.App. 555", "205 Cal. 484", "207 P. 1040", "23 P.2d 762", "271 P. 744", "294 P. 13", "294 P. 61", "33 P.2d 430", "4 Cal.App.2d 373", "4 P.2d 618", "40 P. 12", "40 P.2d 920", "52 P. 300", "58 Cal.App. 51", "59 P. 122", "59 P.2d 974", "7 Cal.2d 144", "7 P.2d 325", "76 P.2d 503", "93 P. 1018"]
+---
+
+# Bedell Engineering Co. v. Rouse
+
+## Majority (DRAPEAU, J. pro tem.)
+
+DRAPEAU, J. pro tem.
+Appeal from judgment after demurrer to first amended complaint was sustained without leave to amend, and motion to file a second amended complaint was denied.
+Allegations in the complaint essential to this opinion are: (a) That the plaintiff was the owner of certain personal property; that a verbal agreement was made with the defendants as auctioneers to sell the same, but that to enable the defendants as such auctioneers to sell the property a written agreement of purchase and sale was entered into between them, which expressed a purchase price of $3,600. (b) That the defendants represented that the goods could not in any event be sold at auction for more than $3,600. (c) That they made the following statements: “We want you to get every dollar out of this merchandise that you can; we don't want to make any money off of you; if your stock would bring more than $4,000, we would tell you so; we don’t want to make in any event more than ten per cent (10%) of the amount of the sale ...” (d) That the property was sold at auction by the defendants for $10,553.04, which the defendants kept, to the damage of plaintiff.
+The complaint alleges a contract of purchase and sale which would bar plaintiff’s demand for damages, unless plaintiff’s consent to the making of the contract was obtained by fraud. The alleged representation of value and the statements above quoted (together with other usual and essential elements of fraud to be found in the complaint) are sufficient to raise the issue of fraud.
+It has been said that fraud vitiates every transaction. (12 Cal.Jur. 721.) But when the contract is completely executed, as in the instant case, it is voidable, and the injured party’s remedy is an action for damages. (City of Oakland v. California Const. Co., 15 Cal.2d 573 [104 P.2d 30] at 577.) Therefore, the amended complaint and the proposed second amended complaint stated a cause of action good against general demurrer. The plaintiff is entitled to his day in court, which includes framing the issues as between it and the defendants, and an opportunity to prove the allegations of the complaint.
+The rule to be applied to test the sufficiency of the allegations of misrepresentation in the amended complaint, and in the proposed second amended complaint, is to be found in Willson v. Municipal Bond Co., 7 Cal.2d 144 [59 P.2d 974], at page 150.
+“The determination as to whether a particular statement is an expression of opinion or an affirmation of a fact is often difficult, and frequently is dependent upon the facts and circumstances existing at the time the statement is made. Under some circumstances, statements as to value of property are deemed to be mere expressions of opinion. (Gleason v. McPherson, 175 Cal. 594 [166 P. 332]; Lee v. McClelland, 120 Cal. 147 [52 P. 300] ; Craig v. Wade, 159 Cal. 172 [112 P. 891] ; Barbour v. Flick, 126 Cal. 628 [59 P. 122]; Coleman v. Dawson, 110 Cal.App. 201 [294 P. 13] ; Pease v. Thornburg, 118 Cal. App. 53 [4 P.2d 618] ; Lion v. McClory, 106 Cal. 623 [40 P. 12]), while under other circumstances, such statements are held to be affirmations of fact. (Crandall v. Parks, 152 Cal. 772 [93 P. 1018] ; Herdan v. Hanson, 182 Cal. 538 [189 P. 440] ; Neff v. Engler, 205 Cal. 484 [271 P. 744]; Williams v. Myers, 110 Cal.App. 265 [294 P. 61] ; Winkler v. Jerrue, 20 Cal.App. 555 [129 P. 804] ; Stumpf v. Lawrence, 4 Cal.App.2d 373 [40 P.2d 920].) These and many other cases that could be cited hold that when a statement as to value is made as a positive affirmation of a fact, and is intended as such by the party making it, and such statement is false and is known to be false by the person making it, and such statement is relied upon by the person to whom it is made, then such false statement is actionable. The cases also indicate that where there is a reasonable doubt as to whether a particular statement is an expression of opinion or the affirmation of a fact, the determination rests with the trier of the facts. (Vah Dah Dunshee v. Boadway, 119 Cal.App. 678 [7 P.2d 325]; McKeever v. Locke-Paddon Co., 58 Cal.App. 51 [207 P. 1040]; McElligott v. Freeland, 139 Cal.App. 143 [33 P.2d 430] ; Hayward v. Widmann, 133 Cal.App. 184 [23 P.2d 762].)”
+In addition to the representation as to value, the declarations quoted from the complaint express a promise by the defendants to the plaintiff. The complaint alleges that the promise was made with no intention to perform the same; and the complaint alleges that the promise was not performed. A promise made without ány intention of performing it constitutes fraud. (Union F. M. v. Southern Cal. F. M., 10 Cal.2d 671 at 676 [76 P.2d 503].)
+The judgment is reversed.
+York, P. J., and White, J., concurred.
+Respondents’ petition for a hearing by the Supreme Court was denied May 20, 1943.
