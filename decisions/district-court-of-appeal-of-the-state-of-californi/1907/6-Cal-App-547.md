@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 365"
+decided: "1907-10-03"
+citations: ["6 Cal. App. 547"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES NICHOLSON and A. McKINLEY, Copartners, as NICHOLSON & CO., Respondents, v. AUBURN GOLD MINING AND MILLING COMPANY, Appellant."]
+source_url: "https://static.case.law/cal-app/6/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963963
+cites_cases: ["101 Cal. 89", "111 Cal. 133", "26 Pac. 597", "28 Pac. 61", "35 Pac. 431", "43 Pac. 525", "64 Cal. 73", "67 Cal. 635", "8 Pac. 444", "88 Cal. 600"]
+---
+
+# Nicholson v. Auburn Gold Mining & Milling Co.
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Action for the value of certain goods, wares and merchandise. A general demurrer was overruled and defendant answered, averring, among other things, that plaintiffs should not be permitted to maintain this action because they are a partnership transacting business in this state under a designation not showing the names of the persons interested as partners, as required by sections 2466 and 2468 of the Civil Code. The complaint was filed November 7, 1905. The first publication of the certificate of copartnership was on November 4, 1905, and was repeated thereafter November 11th, 18th, 25th, and December 2d. The certificate was filed with the county clerk November 7, 1905. The answer, pleading the statute in abatement, was filed December 19, 1905. Plaintiff had judgment, from which and from the order denying its motion for a new trial defendant .appeals.
+The statute reads as follows: “Persons doing business as partners contrary to the provisions of this article shall not maintain any action . .. until they have first filed the certificate and made the publication herein required.” The failure to file the required certificate is matter of defense and must be set up .in the answer by way of abatement. (Byers v. Bourret, 64 Cal. 73, [28 Pac. 61]; Sweeney v. Stanford, 67 Cal. 635, [8 Pac. 444]; Carlock v. Cagnacci, 88 Cal. 600, [26 Pac. 597] ; Cook v. Fowler, 101 Cal. 89, [35 Pac. 431].) In the first of the above cases it was also said: “The commencement of the action is a part of maintaining it. In this case it was incumbent on the plaintiff to have shown that the certificate has been filed, and published once a week for four successive weeks before the commencement of the action.” The facts in that case were that the trial of the issue was on December 15,1882, and on the same day findings were filed and a judgment rendered for plaintiffs, but that the certificate of partnership was not filed with the clerk until December 7, 1882, and the publication thereof had been made once only before the trial. A' similar provision to that in section 2468 is found in section 299 of the same code, which provides that “any corporation failing to comply with the provisions of this section (i. e., as to filing its articles of incorporation) shall not maintain or defend any action . . . until such articles . . . shall be filed,” etc. In California Sav. & L. Soc. v. Harris, 111 Cal. 133, 138, [43 Pac. 525], section 299 was pleaded in abatement of the suit. It was there shown that matter in abatement of the plaintiff’s action must exist at the time of filing the plea, and that pleas of this character are not favored and are to be strictly construed. There is no substantial difference in the provisions of the two sections, and, it seems to us, they should have uniform application. In the ease just cited the court said: “The defense which is authorized by section 299 does not confer any right upon the defendant, and is authorized for the purpose of enforcing a compliance by the plaintiff with a statutory requirement. It is limited by its terms ‘until’ such compliance has been had, and when its object is effected, its terms prescribing a penalty should be strictly construed and in favor of the corporation.” Referring to Byers v. Bourret, supra, it is shown that to maintain an action is not the same as to commence an action; that ‘‘the verb ‘maintain’ in pleading has a distinct technical signification. It signifies to support what has already been brought into existence. (Moon v. Durden, 2 Ex. 30.)” It is then pointed out that the expression in Byers v. Bourret, 64 Cal. 73, [28 Pac. 61], to the effect that the provision of section 2468 must be complied with before the commencement of the action, was not involved in the case then before the court, as it clearly was not.
+In the present case the plea in abatement was not interposed until after the publication had been completed, while in Byers v. Bourret the publication was not completed until after the trial of the case and judgment entered therein. Furthermore, we think the statute was sufficiently complied with, though the publication was not completed before the commencement of the action.
+The judgment and order are affirmed.
+Hart, J., and Burnett, J., concurred.
