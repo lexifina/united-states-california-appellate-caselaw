@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2782"
+decided: "1941-08-14"
+citations: ["46 Cal. App. 2d 504"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Griffin, J., and Mundo, J., pro tem., concurred."]
+parties: ["J. W. STOUGH, Respondent, v. B. HANSON, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/46/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4486397
+cites_cases: ["256 Pac. 618", "8 Cal. App. 384", "83 Cal. App. 249", "97 Pac. 163"]
+---
+
+# Stough v. Hanson
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+-This is an action for specific performance and to compel the conveyance of certain real property upon the payment of the purchase price in accordance with the terms of an option agreement.
+On July 13, 1938, the defendant gave the plaintiff a written option agreeing to sell this land, subject to a lease to a named oil company, at any time within sixty days from date for $2500, payable in cash. The plaintiff wrote his “acceptance” on the option and recorded it on July 16, 1938. A day or two after the execution and delivery of the option the defendant informed the plaintiff he wished to cancel the option as his family did not want him to sell the land. The plaintiff refused to cancel the option and so informed the defendant. Shortly thereafter the defendant served upon the plaintiff a written notice of rescission, upon the grounds that the consideration had failed and that the consent of the defendant to the option had been given by mistake. Before the expiration of the sixty days the plaintiff notified the defendant of his desire to exercise the option, offered to pay him the purchase price in cash, and demanded a deed subject to the lease described in the option. In this action, which followed, the court found in all respects in favor of the plaintiff and entered judgment in his favor, and the defendant has appealed therefrom.
+The appellant’s first point is that there was no communication of the acceptance by the respondent to the appellant. This is based upon the fact that the acceptance written at the bottom of the option by the respondent was not called to the attention of the appellant. Apparently this was done in order to enable the respondent to record the instrument and whether this was then called to the attention of the appellant is not materia] here. Before the expiration of the option period the appellant was notified of the respondent’s acceptance and of his desire to exercise the option, with a demand for a deed and an offer to pay the money.
+It is next contended that the contract was not just or reasonable and that the consideration to be paid for the land was inadequate. The purchase price named in the option was $2500. The present contention is based upon the fact that in a second cause of action for damages, which was dismissed, the respondent alleged that at that time he considered the land worth $102,500. This pleading was filed about seven months after the date of the option and the respondent testified that he then believed the land was worth that amount. Several witnesses testified that at the time the option was signed $2500 was a fair and reasonable price for the property. There is also evidence that it was worth no more at the time of the trial. It does appear that about the time the option was signed oil was discovered a few miles away, and the appellant testified that when he heard about this oil excitement he concluded that he had made a bad bargain. It further appears that two oil wells had been brought in, one of which was nine miles from the property in question and the other three and one-half miles away. The court’s finding that $2500 was a fair, adequate and reasonable price for the land at the time the option was signed is fully sustained by the evidence.
+It is next urged that the notice of rescission given by the appellant to the respondent was sufficient. It appears, and the court found, that $1 had been paid by the respondent for the option and neither by the notice of rescission nor otherwise did the appellant return or offer to return the amount so paid to the respondent. Moreover, it is well settled that an option given for a consideration, however small, is irrevocable and cannot be terminated, without the consent of the other party, during the time named in the option. (Marsh v. Lott, 8 Cal. App. 384 [97 Pac. 163]; Chrisman v. Southern Cal. Edison Co., 83 Cal. App. 249 [256 Pac. 618].)
+The last point raised is that the contract sued upon is so uncertain in its terms that specific performance should not have been decreed. It is argued that it cannot be told from the instrument what sort of a conveyance the appellant is obligated to execute and deliver or when such a conveyance is to be given. It is also argued that it cannot be told from the face of the instrument what are the terms of the outstanding lease to which the conveyance was to be subject. The option clearly provides that the appellant is to “sell and convey” the laud in question to the respondent or his assigns “at any time within 60 days from date hereof.” This, with the subsequent exercise of the option clearly and definitely fixes the time of performance, and the agreement to convey land sufficiently indicates what sort of a conveyance is required. The option provided that the land was to be conveyed subject to a lease to a named oil company and the respondent demanded a conveyance subject to that lease. "We are not here concerned with what were the terms of that lease, and no uncertainty in the agreement appears which is in any way material to anything now before us.
+The judgment is affirmed.
+Griffin, J., and Mundo, J., pro tem., concurred.
