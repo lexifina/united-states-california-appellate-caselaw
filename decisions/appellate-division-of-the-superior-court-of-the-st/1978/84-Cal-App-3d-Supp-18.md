@@ -1,0 +1,36 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Crim. A. No. 16039"
+decided: "1978-08-01"
+citations: ["84 Cal. App. 3d Supp. 18"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JOSEPH JONATHAN LONDON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/84/cases/Supp. 18-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035130
+cites_cases: ["17 Cal.Rptr. 385", "197 Cal.App.2d 397"]
+---
+
+# People v. London
+
+## Majority (COLE, P. J.)
+
+Opinion
+COLE, P. J.
+We hold here that a U-turn in a business district may not lawfully be made from a two-way left-turn lane. Hence we affirm defendant’s conviction of that offense.
+It is undisputed that while driving in a business district defendant entered into a two-way left-turn lane, slowed, made a U-tum and proceeded to a parking space at the curb. He was convicted of violating Vehicle Code section 22102 (all section references in this opinion being to sections of the Vehicle Code unless otherwise noted) which generally prohibit such turns.
+First, we should refer to the statutory treatment of two-way left-turn lanes. They are provided for by section 21460.5. As presently in effect, subdivision (b) of that section requires that such lanes “be designated by distinctive roadway markings consisting of either parallel dashed double yellow lines on each side of the lane, or parallel double lines, interior line dashed and exterior line solid, on each side of the lane.” With respect to use of a two-way left-turn lane subdivision (a) of section 21460.5 defines that lane as one “near the center of the highway set aside for use by vehicles making left turns in both .directions from or into the highway.” Subdivision (c) of this section reads “A vehicle shall not be driven in a designated two-way left-tum lane except when preparing for or making a left turn from or into a highway or when preparing for or making a U-tum when otherwise permitted by law. A left turn shall not be made from any other lane where a two-way left-tum lane has been designated.” (Italics supplied.) Finally, subdivision (d) states “This section shall not prohibit driving across a two-way left-turn lane.”
+Defendant’s claim that he did not violate the law is based on the second of two exceptions found in section 22102. That section states “No person in a business district shall make a U-tum, except at an intersection, or on a divided highway where an opening has been provided in accordance with Section 21651.”
+Defendant’s sole contention is that his turn was legal because it was made on a divided highway where the prescribed opening was provided. The “opening” upon which defendant relies, however, is merely the .dashed yellow lines which marked the two-way left-turn lane used by him. These markings are not those contemplated by section 21651.
+Our tour of the Vehicle Code must then lead us to section 21651. Its full text is reproduced in the margin. Note that it applies to “any highway which has been divided into two or more roadways.” The highway upon which defendant was driving was not a highway divided in that fashion. This is so because the highway was not “divided into two or more roadways.” The term “roadway” is also defined by the Vehicle Code. Section 530, mercifully the last section of that code which we have to tour in this opinion, defines “roadway” as “that portion of a highway improved, designed, or ordinarily used for vehicular travel.” The term does not refer to that portion only of a highway upon which vehicles travel in the same direction. (Fultz v. Griffin (1961) 197 Cal.App.2d 397, 401 [17 Cal.Rptr. 385].) We judicially note (Evid. Code, § 459) that at the location of the offense charged, traffic on each side of the two-way left-turn lane travels in only one direction—westbound on the north side of the two-way left-turn lane and eastbound on the south side.
+We thus conclude that a U-tum from a two-way left-turn lane in a business district is not “otherwise permitted by law” (§ 21460.5).
+The judgment is affirmed.
+Bigelow, J., and Ibáñez, J., concurred.
+After January 1, 1980, the section will require such lanes to be designated only by parallel double yellow lines with the interior line dashed and the exterior line solid, on each side of the lane. The section also permits raised pavement markers to be used to-simulate the painted lines prescribed in the section.
+Sections 235 and 665.5, respectively, define “business district” and “U-turn.”
+Section 21651. “It is unlawful to drive any vehicle upon any highway which has been divided into two or more roadways by means of intermittent barriers or by means of a dividing section of not less than two feet in width either unpaved or delineated by curbs, lines, or other markings on the roadway except to the right of the barrier or dividing section, or to drive any vehicle over, upon, or across the dividing section, or to make any left turn or semicircular or U-turn on any such divided highway, except through an opening in the barrier designated and intended by public authorities for the use of vehicles or through a plainly marked opening in the dividing section.”
+The statement on appeal, prepared by defendant and certified by the trial court, says that defendant “hereby admits the facts testified to by Plaintiff's witness [police officer] that Defendant’s vehicle, while upon a divided highway in a business district entered a Center Double Left-hand Turn Lane. . . .” The term “divided highway” is not defined in the Vehicle Code, except insofar as section 21651 may be deemed to be a definition. As pointed out in the text, the highway upon which defendant was driving was not a divided highway within the meaning of that section. The exception to section 22102 upon which defendant relies is limited to divided highways where openings have been provided in accordance, with section 21651. We regard the offhand statement quoted above in the statement on appeal to be merely an inapt legal description, and not an uncontradicted fact which binds us on appeal;
+While appellant has filed opposition to our taking of judicial notice, the opposition is not based on any dispute as to the facts noticed but rather to the circumstance that the statement on appeal refers to the highway as a divided highway. We have answered that contention m footnote 4, ante, and overrule the objection to judicial notice.
+We need not decide here whether, given the requirement of section 21460.5 that a two-way left-turn lane be located “near the center of the highway” such a lane could ever exist where traffic on each side of it flows in two directions. If that situation does prevail anywhere, and it is hard to conceive that it does, then a U-tum would arguably be permissible, albeit hazardous. Our reading of section 21460.5 does not render null the provision of subdivision (c) allowing a U-turn from a two-way left-tum lane “when otherwise permitted by law.” Such a turn, for instance, would be legal if made in a residence district in compliance with the requirements of section 22103.
