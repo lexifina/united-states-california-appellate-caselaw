@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 13474"
 decided: "1942-06-02"
-citations: ["52 Cal. App. 2d 447", "52 Cal. App. 2d 449"]
+citations: ["52 Cal. App. 2d 447"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["ARCHIBALD J. HAMILTON, Respondent, v. MARGARET B. CARPENTER et al., A
 source_url: "https://static.case.law/cal-app-2d/52/cases/0447-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4649010
-cites_cases: ["105 Cal. App. 391", "11 Pac. 820", "127 Cal. 162", "15 Cal. (2d) 130", "17 Cal. 626", "193 Pac. 797", "287 Pac. 523", "311 U. S. 656", "312 U. S. 705", "49 Cal. App. 554", "51 Cal. 552", "59 Pac. 832", "6 Cal. 47", "61 S. Ct. 10", "61 S. Ct. 825", "65 Am. Dec. 475", "70 Cal. 296", "85 L. Ed. 1138", "85 L. Ed. 420", "98 P. (2d) 1027"]
+cites_cases: ["105 Cal. App. 391", "11 Pac. 820", "127 Cal. 162", "15 Cal. (2d) 130", "17 Cal. 626", "287 Pac. 523", "311 U. S. 656", "312 U. S. 705", "51 Cal. 552", "59 Pac. 832", "6 Cal. 47", "61 S. Ct. 10", "61 S. Ct. 825", "65 Am. Dec. 475", "70 Cal. 296", "85 L. Ed. 1138", "85 L. Ed. 420", "98 P. (2d) 1027"]
 ---
 
 # Hamilton v. Carpenter
