@@ -1,0 +1,34 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "H011646"
+decided: "1995-02-14"
+citations: ["32 Cal. App. 4th 311"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. DARRELL BODELY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/32/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2406123
+cites_cases: ["103 Cal.Rptr. 431", "150 Cal.Rptr. 515", "209 Cal.Rptr. 328", "210 Cal. 245", "248 Cal.Rptr. 568", "282 Cal.Rptr. 450", "290 P. 881", "31 Cal.Rptr.2d 128", "37 Cal.3d 731", "45 Cal.3d 984", "500 P.2d 7", "53 Cal.3d 1158", "58 A.L.R.3d 832", "64 A.L.R.4th 723", "691 P.2d 994", "7 Cal.3d 812", "7 Cal.4th 1027", "755 P.2d 1017", "811 P.2d 742", "86 Cal.App.3d 618", "874 P.2d 903"]
+---
+
+# People v. Bodely
+
+## Majority (MIHARA, J.)
+
+Opinion
+MIHARA, J.
+The question presented by this case is whether a killing which occurs during the perpetrator’s flight from a burglary occurs “in the perpetration” of the burglary and therefore is felony murder. We conclude that such a killing is felony murder and affirm the judgment.
+Facts
+Defendant entered a supermarket, grabbed $75 out of a cash register and ran. Several supermarket employees pursued him. He ran out of the supermarket into the parking lot and got into his car. Joseph Andre, who was in the parking lot at the time, joined in the chase. Andre ran in front of defendant’s car and put his hands on the hood as if to stop the car. Andre then went to the driver’s side window of defendant’s car, put his arm inside the car and told defendant to stop. Defendant drove away, jerking the car sharply to the left. Defendant’s car hit Andre, knocking Andre onto the hood of the car. Andre then fell off of the hood and struck the back of his head on the pavement. This impact resulted in Andre’s death. Defendant sped up and drove away. Defendant was convicted of first degree murder (Pen. Code, § 189), burglary and an unrelated robbery and committed to state prison. On appeal, he challenges only the murder conviction.
+Analysis
+“All murder . . . which is committed in the perpetration of, or attempt to perpetrate . . . burglary ... is murder of the first degree.” (Pen. Code, § 189.) Defendant claims that Andre’s death did not occur “in the perpetration of . . . burglary” because defendant had already left the burglarized structure when he caused Andre’s death. Defendant concedes that felony-murder liability continues throughout the flight of a perpetrator from the scene of a robbery until the perpetrator reaches a place of temporary safety. However, he claims that the perpetration of burglary “is over” when the burglar leaves the structure, because burglary, unlike robbery, does not require the perpetrator to asport any loot. Hence, in defendant’s view, the flight of the perpetrator from a burglary is not part of the perpetration of the offense. The only authority on point is People v. Fuller (1978) 86 Cal.App.3d 618 [150 Cal.Rptr. 515], which resolved this precise issue against defendant. (Id. at pp. 623-624.) Defendant asks us not to follow Fuller.
+The Attorney General asks us to follow Fuller and hold that the perpetration of a felony does not end for purposes of felony-murder liability until the perpetrator has “reached a place of temporary safety.” Numerous California Supreme Court decisions hold that the perpetration of a robbery continues, for felony-murder liability purposes, so long as the robbers are in flight from the scene of the crime and have not reached a place of temporary safety. (People v. Boss (1930) 210 Cal. 245, 250-251 [290 P. 881]; People v. Salas (1972) 7 Cal.3d 812, 823 [103 Cal.Rptr. 431, 500 P.2d 7, 58 A.L.R.3d 832].) While this so-called “escape rule” was originally justified by an analysis based on when the crime of robbery was “complete,” the California Supreme Court has more recently explained that the duration of felony-murder liability is not determined by considering whether the felony itself has been completed. Instead, “the homicide is committed in the perpetration of the felony if the killing and the felony are parts of one continuous transaction.” (People v. Ainsworth (1988) 45 Cal.3d 984, 1016 [248 Cal.Rptr. 568, 755 P.2d 1017], italics added.)
+If we apply this “one continuous transaction” analysis, no rationale supports limiting the escape rule exclusively to robbery. The perpetrator’s immediate escape from the scene of a crime is no less a part of the same continuous transaction which includes the crime when the crime is burglary than when the crime is robbery. Burglary and robbery, like many other crimes, are generally technically “complete” for purposes of criminal liability prior to the escape of the perpetrator. However, “the escape rule serves the legitimate public policy considerations of deterrence and culpability” by extending felony-murder liability beyond the technical completion of the crime. (People v. Cooper (1991) 53 Cal.3d 1158, 1167 [282 Cal.Rptr. 450, 811 P.2d 742].) While the California Supreme Court has never actually decided the precise issue raised here, its various statements on this subject reflect that the escape rule is not limited to the crime of robbery. In People v. Bigelow (1984) 37 Cal.3d 731 [209 Cal.Rptr. 328, 691 P.2d 994, 64 A.L.R.4th 723], the California Supreme Court explained that “the test used in felony-murder cases to determine when a killing is so closely related to an underlying felony as to justify an enhanced punishment for the killing” is that “. . . the crime continues until the criminal has reached a place of temporary safety.” (Id. at p. 753.) In People v. Cooper, supra, 53 Cal.3d 1158, the California Supreme Court mentioned that “. . . the potential of felony-murder liability of burglars continues through the escape until the peipetrators reach a place of temporary safety” and cited Fuller for this proposition. (Id. at p. 1169, italics added.) The California Supreme Court again referenced Fuller for the same proposition in People v. Montoya (1994) 7 Cal.4th 1027 [31 Cal.Rptr.2d 128, 874 P.2d 903], (Id. at p. 1045, fn. 9.)
+Since the application of the escape rule to burglary is consistent with the “one continuous transaction” test, we conclude that felony-murder liability continues during the escape of a burglar from the scene of the burglary until the burglar reaches a place of temporary safety.
+Conclusion
+The judgment is affirmed.
+Cottle, P. J., and Wunderlich, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied May 10, 1995.
+Defendant’s robbery conviction arose out of a similar incident a few days after this burglary. That conviction is not at issue on appeal.
