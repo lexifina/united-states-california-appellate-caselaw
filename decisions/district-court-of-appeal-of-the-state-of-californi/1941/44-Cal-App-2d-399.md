@@ -1,0 +1,49 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11563"
+decided: "1941-04-23"
+citations: ["44 Cal. App. 2d 399"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DEL REY REALTY COMPANY (a Corporation), Appellant, v. CHARLES W. FOURL, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/44/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4560781
+cites_cases: ["236 Pac. 968", "242 Pac. 90", "64 Pac. (2d) 1081", "72 Cal. App. 249", "74 Cal. App. 765", "8 Cal. (2d) 211"]
+---
+
+# Del Rey Realty Co. v. Fourl
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+Plaintiff, as assignee of certain rights of the Adriatic Corporation under an instrument dated September 7, 1934, sought an accounting and a judgment for money claimed to be due from defendant under the terms of said instrument. Defendant filed an answer and also a cross-complaint seeking the rescission of said instrument and the restoration of moneys paid thereunder. The trial court entered its judgment denying plaintiff relief under the complaint and denying defendant any relief under the cross-complaint. Plaintiff appeals from the portion of the judgment denying plaintiff relief under the complaint.
+There appears to be no dispute concerning the material facts. In 1934, B. C. McCabe had certain dealings with defendant and it was agreed between them that in the event that McCabe obtained for defendant from a certain lessor an oil sublease on certain premises, defendant would give said McCabe a 10 per cent interest in the proceeds of the oil produced thereunder. McCabe obtained said sublease for defendant and, as compensation for said services, defendant executed and delivered to McCabe the instrument in question. This instrument was prepared by McCabe and was made in favor of Adriatic Corporation at McCabe’s request. It is conceded by the parties that for the purposes of this ease, McCabe and the Adriatic Corporation are “one and the same”. Said instrument read as follows:
+“This agreement, made and entered into this 7th day of September, 1934, by and between Charles W. Fourl, hereinafter called First Party, and Adriatic Corporation, a California Corporation, hereinafter called Second Party;
+“WITNESSETH:
+“Whereas, on or about the 28th day of June, 1934, an oil and gas sublease was duly entered into between Herndon Development Company, Ltd., a sublessor and the first party herein as sublessee covering the following described property, to wit (Description of property); and
+“Whereas, the Adriatic Corporation, second party, herein rendered valuable services to the first party in connection with the securing of said sublease; and
+“Whereas, at said time it was agreed that said second party should have a portion of the interest secured by the first party arising out of said sublease;
+“Now, therefore, in consideration of the sum of One Dollar ($1.00) in hand paid to the first party by the second party, receipt of which is hereby acknowledged, and for other good and valuable considerations, it is agreed as follows :
+“1. That the first party does hereby assign, transfer and convey unto second party an undivided ten (10%) percent participating interest in and to the proceeds from the sale of all oil, gas and other hydrocarbon substances produced, saved and sold from the above described premises.
+“2. That the second party shall not participate in the proceeds from the first well now being drilled upon said premises, or in any well that may thereafter be drilled, until the first party has received back from the sale of oil and/or gas the total amount expended by him to drill said well or wells and place the same upon production.
+“3, The second party’s interest shall be subject to its pro rata part of the necessary operating expenses of said lease including cleaning, deepening and/or redrilling, and shall bear the proportionate part of all necessary overhead.
+“In witness whereof the parties hereto have hereunto affixed their signatures the day and year first above written.
+“Chas. W. Fowl
+“First Party
+“Adriatic Corporation
+“By W. M. Franklin
+“V. P.
+“Second Party”
+It is conceded that when said services were performed by McCabe for an agreed compensation, neither said McCabe nor Adriatic Corporation was licensed to perform such services. It is further conceded that the performance of said services by an unlicensed person was prohibited by law and that the payment of compensation to an unlicensed person for the performance of such services was likewise prohibited by law.
+Defendant drilled two wells under said sublease and produced large quantities of oil. In 1936, Adriatic Corporation assigned to plaintiff “all royalty due and payable to the Adriatic Corporation prior to April 1st which remains unpaid.” Defendant had made certain payments but thereafter refused demands for an accounting made by plaintiff and McCabe. Thereupon this action was brought.
+The trial court found among other things that neither Mc-Cabe nor Adriatic Corporation “had any broker’s license or any license from the Real Estate Commissioner of the State of California, as provided by the California Real Estate Act” and concluded that plaintiff was not entitled to recover upon the complaint and that defendant was not entitled to recover on the cross-complaint. In other words, the trial court left the parties where it found them because it concluded that each of the parties was seeking affirmative relief on an alleged cause of action arising out of an illegal transaction.
+The parties seem agreed that if this were an ordinary action upon an executory contract for the recovery of compensation by an unlicensed person, neither Adriatic Corporation nor plaintiff, as the assignee of said corporation, could recover compensation for the services performed. (Wise v. Radis, 74 Cal. App. 765 [242 Pac. 90]; Firpo v. Murphy, 72 Cal. App. 249 [236 Pac. 968].) Plaintiff takes the position, however, that the illegal agreement was executed bs' the execution and delivery of the instrument dated September 7, 1934, and that the defense of illegality was therefore not available to defendant. Defendant, on the other hand, takes the position that the illegal agreement was executory rather than executed and that in any event the defense of illegality was available to defendant even if the illegal agreement may be said to have been executed by the execution and delivery of the instrument dated September 7, 1934.
+Numerous authorities have been cited by both parties but we find none directly in point. The general rules relating to the effect of illegality have been frequently discussed and have been applied under varying circumstances. (6 Cal. Jur. 148 et seq., and cases cited; see, also, 17 C. J. S. 656 et seq.; 12 Am. Jur. 713 et seq.) The reason underlying said rules is stated in 6 California Jurisprudence, page 153, as follows: “The rule as to the nonenforceability of illegal contracts is not based upon any consideration for the party against whom the relief is sought, and who may be benefited by the refusal of the court to grant the same, but upon consideration of sound public policy. It is not for the sake of a party, but for the sake of the law itself, that a court refuses to be made use of for the enforcement of illegal contracts and leaves the parties where it finds them.”
+It does not appear necessary in this case to discuss the exact nature of the interests created by the instrument dated September 7, 1934. It has been said with respect to such assignments in Schiffman v. Richfield Oil Co., 8 Cal. (2d) 211 [64 Pac. (2d) 1081], “Such assignments by reason of the unique and specialized nature of the interests involved must to a certain extent be sui generis.” Nor does it appear necessary to discuss the question of whether the original agreement, which was admittedly illegal, may be' said to have become an executed agreement upon the execution and delivery of said instrument dated September 7, 1934, for the question of whether an illegal agreement has become an executed agreement or remains executory is not necessarily controlling here.
+As we view the situation in the present case, the following are the controlling considerations. The original agreement for the performance of services by an unlicensed person and for the payment of compensation for such services was illegal. The terms of said agreement were carried into the instrument dated September 7, 1934, which instrument left certain obligations to be performed in the future. This action was brought for the enforcement of an alleged obligation of the defendant under said instrument. The obligation which plaintiff was seeking to enforce was not an obligation which arose independently of the terms of the original illegal agreement (see 6 Cal. Jur. 160) but was an obligation which arose out of the terms thereof as carried into the instrument of September 7, 1934. Under these circumstances, the action was, in substance and effect, an action to enforce the terms of the original illegal agreement and we are of the opinion that the defense of illegality would have been available to defendant as against plaintiff’s assignor and we are further of the opinion that said defense was available to defendant as against plaintiff. (Firpo v. Murphy, 72 Cal. App. 249 [236 Pac. 968].)
+Under the settled rules relating to the effect of illegality, we believe that the trial court correctly determined that the parties should be left where it found them and correctly denied relief to either party.
+The portion of the judgment from which the appeal was taken is affirmed.
+Nourse, P. J., and Sturtevant, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied June 19, 1941.
