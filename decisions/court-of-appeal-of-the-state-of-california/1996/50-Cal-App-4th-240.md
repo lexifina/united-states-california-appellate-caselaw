@@ -1,0 +1,50 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "D021129"
+decided: "1996-10-01"
+citations: ["50 Cal. App. 4th 240"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDDIE L. HEAD, Plaintiff and Appellant, v. CIVIL SERVICE COMMISSION OF SAN DIEGO COUNTY et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/50/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4673355
+cites_cases: ["124 Cal.Rptr. 14", "140 P.2d 657", "146 Cal.App.3d 879", "147 A.L.R. 1028", "15 Cal.3d 194", "166 Cal.App.3d 975", "194 Cal.Rptr. 540", "212 Cal.Rptr. 733", "22 Cal.2d 287", "229 Cal.App.3d 1130", "280 Cal.Rptr. 535", "539 P.2d 774"]
+---
+
+# Head v. Civil Service Commission
+
+## Majority (PATE, J.)
+
+Opinion
+PATE, J.
+Plaintiff Eddie L. Head, a San Diego County Deputy Marshal, appeals a judgment denying his petition for a writ of mandate requiring defendants San Diego County Civil Service Commission, the County of San Diego and Michael Sgobba, San Diego County Marshal (collectively the County), to provide Head an administrative appeal of Sgobba’s decision to remove him from the position of field training officer. He contends he is entitled to appeal his removal to the civil service commission under the County’s civil service rules. We agree and, accordingly, reverse the judgment.
+Factual and Procedural Background
+Head is employed by the County of San Diego as a deputy marshal. In September 1992 Head was assigned to the position of field training officer. Head was paid a “premium” of $30 over his regular salary each pay period as compensation for the additional duties he performed as a field training officer.
+On April 26, 1993, Sgobba issued Head a “Notice of Intention to Remove From Training Officer Position” and a “Proposed Order of Removal From Training Officer Position.” These documents notified Head that Sgobba intended to remove him from his position as a field training officer for deficient performance, and that he had until May 4,1993, to respond to the proposed removal.
+On May 4, 1993, Head attended a “Skelly hearing” to address the charge of deficient performance and the proposed removal. The Skelly hearing consisted of a meeting between Head, Captain John Schmidt, Assistant Marshal Lesley Connor, and Head’s employee representative. At that meeting, Head told Connor his supervisors had not informed him of any significant problems with his performance as a field training officer. After the meeting, Connor met with Head’s supervisors, who told Connor they had counseled Head regarding his performance and informed him of his mistakes.
+On May 6,1993, Sgobba issued an order removing Head from his position as field training officer effective the next day. On May 21, 1993, Head served the San Diego County Civil Service Commission (the Commission) with a written request for an appeal hearing under County of San Diego Civil Service Rules, rule VII, section 7.4. The Commission denied Head’s request for an appeal, concluding his removal from the field training officer position was not appealable under the civil service rules because he was not removed from his position of deputy marshal and his standard deputy marshal compensation was not affected.
+Head then filed a petition for writ of mandate in superior court seeking an administrative appeal to either the Commission, or the county marshal. The court denied Head’s petition and entered judgment accordingly.
+Discussion
+I.
+Head’s Entitlement to an Appeal to the Commission
+“Generally, the same rules of construction and interpretation which apply to statutes govern the construction and interpretation of rules and regulations of administrative agencies. [Citation.]” (Cal. Drive-In Restaurant Assn. v. Clark (1943) 22 Cal.2d 287, 292 [140 P.2d 657, 147 A.L.R. 1028].) Thus, “. . . the interpretation of civil service rules is purely a question of law." (American Federation of State etc. Employees v. County of Los Angeles (1983) 146 Cal.App.3d 879, 884 [194 Cal.Rptr. 540].) It is a well-settled rule of statutory construction that “[i]f the statutory language is unambiguous, legislative intent is determined from the plain meaning of the language itself.” (Botello v. Shell Oil Co. (1991) 229 Cal.App.3d 1130, 1135 [280 Cal.Rptr. 535].)
+Rule VII, section 7.4 provides, in pertinent part: “An employee who has completed the required probationary period, who is removed, suspended or reduced in rank or compensation, may . . . appeal in writing to the Civil Service Commission from such order.” Head was both “removed” from the position of field training officer and reduced in compensation.
+The term “removal” is not defined in the glossary section of the rules. In its responding brief the County states, “A removal is the involuntary termination of an appointment and the removal of an employee from a position.” However, this is the definition in the rules of the term “dismissal." (Rule XVII, § 17.1.1.) Rule VII, section 7.4 specifies removal, not dismissal, as an appealable action. Applying the plain meaning of the word “remove” in construing rule VII, section 7.4, we can only conclude Head was “removed” from the position of field training officer.
+Even assuming Head was not “removed” within the meaning of rule VII, section 7.4, he certainly was “reduced in compensation.” Citing San Diego County Ordinance No. 6967 (New Series), section 1.4.8, (hereafter Ordinance section 1.4.8) the County contends a reduction in compensation is only effected when an employee’s compensation is reduced to the next lowest step. However, the County mischaracterizes Ordinance section 1.4.8, which provides, in pertinent part: “As discipline, an appointing authority may . . . order that the compensation of an employee be reduced to the next lowest step . . . .” Ordinance section 1.4.8 does not purport to define “compensation” or the phrase “reduction in compensation;” it merely authorizes an appointing authority to reduce compensation as a form of discipline. Nothing in Ordinance section 1.4.8 suggests a disciplinary reduction of an employee’s compensation to the next lowest step is the only way an employee’s compensation may be reduced. Nor does rule VII, section 7.4 limit appeals of reductions in compensation to reductions imposed under Ordinance section 1.4.8.
+“Compensation” is defined in the civil service rules as “[a]ny salary, wage, fee, allowances, or all other forms of valuable consideration including benefits earned or paid to an employee by reason of service in a position.” (Rule 17.1.1, italics added.) The $30 premium Head received was valuable consideration paid to him by reason of his service in the position of field training officer. As such, it constituted “compensation” as that term is defined in the rules. Accordingly, Head’s compensation was reduced when he was removed from the field training officer position and no longer received the premium pay for that position. Reductions in compensation are appealable to the Commission under rule VII, section 7.4 without qualification.
+In short, Head is entitled to appeal his removal from the position of field training officer to the Commission, because under the plain meaning of the language of rule VII, section 7.4, he was both “removed” and “reduced in compensation.”
+II.
+Attorney Fees and Back Pay
+Head contends he is entitled to attorney fees and back pay. In accordance with established appellate practice, we remand the case to permit the trial court to make findings and rule on these issues, as it has not yet done so. (McManigal v. City of Seal Beach (1985) 166 Cal.App.3d 975, 982 [212 Cal.Rptr. 733].)
+Disposition
+The judgment is reversed and remanded for further proceedings consistent with this opinion. Plaintiff shall recover his costs on appeal.
+Kremer, P. J., and Work, J., concurred.
+A petition for a rehearing was denied October 21, 1996.
+Judge of the San Diego Superior Court, assigned by the Chief Justice pursuant to article VI, section 6 of the California Constitution.
+Because we conclude Head is entitled to appeal his removal to the commission under the civil service rules, we do not address his contentions that (1) under Government Code section 3304, a provision of the Public Safety Officers’ Procedural Bill of Rights Act (Gov. Code, §§ 3300-3311), he is entitled to an administrative appeal of his removal from the position of field training officer, and (2) his pre-removal hearing did not satisfy the administrative appeal requirement of Government Code section 3304.
+In Skelly v. State Personnel Bd. (1975) 15 Cal.3d 194, 206 [124 Cal.Rptr. 14, 539 P.2d 774], the California Supreme Court held that a civil service employee who attains the status of “permanent employee” has a property interest in continued employment which is protected by due process. Thus, before a decision to terminate such employment becomes effective, the employee is entitled to certain pre-removal safeguards, including “notice of the proposed action, the reasons therefor, a copy of the charges and materials upon which the action is based, and the right to respond, either orally or in writing, to the authority initially imposing discipline.” (Id. at p. 215.)
+A11 rule references are to the San Diego County Civil Service Rules.
+The rules define “position” as “[a] group of continuing duties and responsibilities assigned by an appointing authority and requiring the full-time or part-time employment of one individual.” (Rule XVII, § 17.1.1.) Clearly, the job of a field training officer falls within this definition of “position.” We note Sgobba’s removal order informed Head he was being “removed from [his] position as a Field Training Officer . . . .” (Italics added.)
+The Commission’s reluctance to hear appeals of removals from temporary assignments involving only loss of premium pay is understandable. However, the appropriate way to preclude such appeals is to amend the rules to clearly exclude such matters from the Commission’s appellate jurisdiction.
