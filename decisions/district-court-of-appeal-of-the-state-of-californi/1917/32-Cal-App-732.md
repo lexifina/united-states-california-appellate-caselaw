@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2222"
+decided: "1917-02-07"
+citations: ["32 Cal. App. 732"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. P. ABALAS, Respondent, v. CONSOLIDATED CONSTRUCTION COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/32/cases/0732-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2022535
+cites_cases: ["158 Pac. 181", "172 Cal. 663", "21 Pac. 362", "78 Cal. 490"]
+---
+
+# Abalas v. Consolidated Construction Co.
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Appeal from a judgment in favor of the plaintiff and from an order denying to defendant a new trial.
+The plaintiff suffered personal injuries while at work for the defendant in digging a trench for the laying of sewer-pipe. He alleged in his complaint that he was employed by the defendant and earning $2.25 per day as a common laborer at the time he suffered his injuries, and that he was at work in the performance of his duty at the bottom of the trench, which was about fifty-five feet deep, when defendant’s foreman negligently caused brick to be placed near the opening and immediately above where the plaintiff was at work; that one of the brick being dislodged fell and struck the plaintiff on the head. This allegation followed: “That by reason of the negligence and carelessness of defendant as hereinbefore set out plaintiff was hurt in his health, strength, and activity, and received a profound shock to his nervous system and received a fracture of the skull, and plaintiff is informed and believes and upon such information and belief states that the injury to his head is permanent and that he will never regain his former health, strength, and activity, and that plaintiff has lost much time and expended much for medicines and treatment and employment of physicians.” The prayer attached to the complaint asked for judgment in the sum of twenty thousand dollars. The judgment as entered upon the verdict of the jury was for the sum of two thousand dollars. No demurrer was made to the complaint. But two points are presented as ground for the contention that the judgment and order should be reversed, to wit: 1. That the complaint did not state facts sufficient to constitute a cause of action. 2. That the court erred in instructing the jury on the matter of the amount of damages which might be assessed. It is contended that as the specific amount of damages suffered is not alleged in the body of the complaint, no cause of action was stated which would entitle plaintiff to any recovery. As already noted, the complaint did contain an allegation describing in general terms the injuries suffered (and there was no special demurrer interposed), and the complaint concluded with a prayer for a specific amount of damages. It has been held that a plaintiff in such a ease need not allege particularly the amount of damage he has suffered, and that a complaint which contains a statement of such amount in the prayer only sufficiently states a cause of action, (Riser v. Walton, 78 Cal. 490, [21 Pac. 362]; Tucker v. Cooper, 172 Cal. 663, [158 Pac. 181].) The court instructed the jury as to the measure of damages, and stated that the elements entering into damage were, first, “such sum as will compensate him for the expenses he has paid or incurred in caring for and nursing him during the period that he was disabled by the injury, not exceeding the amount alleged in the complaint.” After enumerating other elements, such as the value of time and impaired power to earn money in the future and for pain suffered, the court advised the jury as follows: “The first two of these elements are the subjects of direct proof, and are to be determined by the jury on the evidence they have before them.” It is the contention of appellant that it was neither pleaded nor proved that there had been any money paid or expense incurred for care and nursing. We must assume that the jury included in their computation no sum for any matter which had not been proved before them; the court expressly told them that the first two elements defined were the subjects of proof and to be determined upon the evidence. Had the defendant demurred specially to the complaint, plaintiff would have been required to particularize the amount expended for nursing; but in the absence of such a demurrer and under the authorities which are cited above, the complaint undoubtedly was sufficient to entitle plaintiff to introduce evidence to prove the amount expended or incurred on the several accounts. However, assuming that there was no evidence sufficient to authorize any allowance on account of nursing or medical charges, still, as has been stated, it must be assumed that the jury gave heed to the instruction of the court and included no allowance on any account not fully established by the evidence.
+No other errors are pointed to as supporting the claims of appellant.
+The judgment and order are affirmed.
+Conrey, P. J., and Shaw, J., concurred.
