@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 12967"
 decided: "1941-05-07"
-citations: ["44 Cal. App. 2d 933", "44 Cal. App. 2d 711"]
+citations: ["44 Cal. App. 2d 933"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
