@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3309"
+decided: "1940-03-05"
+citations: ["37 Cal. App. 2d 627"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOSEPH NEWMAN et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/37/cases/0627-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2282980
+---
+
+# People v. Newman
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+Appellants were accused by information of violating subdivision 4 of section 337a of the Penal Code, which declares it to be a felony to record or register bets or wagers upon the result of any trial of speed of man or beast. A jury trial was duly waived and the issue was submitted, by stipulation, upon the transcript of the testimony adduced at the preliminary hearing.
+The defendants were adjudged guilty, whereupon defendant Newman was sentenced to imprisonment in the county jail for the term of one year, and the defendant Martin was sentenced to imprisonment in the county jail for the term of six months.
+The appeal is from the judgments, and from the order denying appellants’ motions for a new trial. It is urged on appeal that the evidence is insufficient to sustain the judgment.
+Certain testimony which reveals the facts is set forth for reasons which will hereinafter appear.
+The witness Ginder testified as follows: “Q. You are a police officer, city of Los Angeles? A. Yes sir. Q. And your name is F. Ginder? A. Yes sir, that is right. Q. What division of the police do you serve in? A. Central vice. Q. Did you see these defendants on September 8, 1939? A. Yes, sir. Q. Where ? A. On Winston Street just west of Wall, on the south side of the street. Q. Is that a place in the city and county of Los Angeles ? A. Yes, sir. Q. You say they were in the street? A. On the sidewalk, yes sir. Q. On the sidewalk. Were they in front of any number there? A. In front of a garage, I don’t recall the number. Q. What did you see the defendants doing? A. There was quite a group of men gathered around in front of this garage, and the defendants were both circulating around through these people on the sidewalk and taking money from some of them, making notes in notebooks and giving change. Q. You saw that? A. Yes, sir. Q. Now did you observe any particular kind of a notebook in the possession of either one of the defendants ? A. The defendant Martin was making notes on scratch paper that was already torn out of the notebook, paper about four inches long and two inches wide, ruled paper, and as I approached Martin a man walked up to him and handed him a dollar bill, and he made a notation on a piece of scratch paper and received some change and walked away. As I got a little closer another man approached Martin and said ‘I want to bet fifty cents to win’, but I did not get the name of the horse. He made another notation on that same piece of scratch paper and gave this man fifty cents change from a dollar bill. Then he handed this piece of scratch paper to the codefendant Newman. Q. What did you see Newman do with it, if anything ? A. He then went into the garage which they were standing in front of. Q. Did you see him approach a telephone ? A. No sir, I did not.”
+The witness Wilkinson testified as follows: “Q. You are a police officer, city of Los Angeles ? A. I am. Q. What division of the police do you work in? A. Central vice. Q. Did you see these defendants on September 8, 1939? A. I did. Q. Where ? A. On Winston Street just west of Wall. Q. That is a place in the city and county of Los Angeles ? A. Yes, sir. Q. Did you go down there with Officer Hinder ? A. I did. Q. And you were working with him at that place? A. Yes sir. Q. What did you see the defendant Newman and the defendant Martin doing there ? A. Well, there was a group of men scattered along the sidewalk there with betting markers or scratch sheets and race forms, and Newman and Martin were circulating around among them, money would pass hands and change would be made, and I saw ■ Martin pass Newman some slips of paper. Q. What color were'they? A. They were white sheets of paper. Q. I will show you some slips of white paper and ask you if that is the paper you saw Martin pass to Newman? A. That kind of paper, yes. Q. Did that paper afterwards come into your possession ? A. Officer Armstrong. Q. You saw him get possession of that? A. Yes sir. Q. Were these papers passed to the defendant Newman in one bunch or at several different times? A. Different times. Q. And all of the paper that you saw pass had the appearance of this paper? A. Yes sir. Q. Did you see the defendant Newman write anything on this paper? A. No sir. Q. Did you hear anything else at this place between the defendant Martin and the defendant Newman? A. No sir— I heard no conversation. Q. You did not? A. No sir.”
+The foregoing is the only evidence of the corpus delicti. It should be noted that that portion of the testimony of Officer Hinder, namely, “but I did not get the name of the horse”, is a conclusion and is not evidence.
+The defendants were then and there arrested. Upon arrest, slips of paper with notations thereon were found in their possession and, as well, what is described as a “scratch sheet”. The “scratch sheet” referred to was an issue of the “National Scratch Sheet” which, as a matter of common knowledge, is a publication that can be purchased at any news stand.
+The respondent seeks to support the judgment with evidence of conversations and of statements made by the defendants after their arrest.
+With regard to the slips of paper found in the possession of the defendants, Officer Hinder testified as follows: “Q. Can you identify any of those Slips as one of the slips Martin was marking on? A. Your Honor, the only way I can identify is that the defendant Martin later on told me that this was the slip I saw him write on.”
+From the foregoing it is evident that the corpus delicti was not established and hence the evidence with regard to conversations and statements was inadmissible and cannot be considered in support of the judgment. Objections to the introduction of such evidence were made at the trial and overruled. The evidence falls far short of being sufficient to prove the corpus delicti.
+For the foregoing reasons the judgments and the order denying the motions for a new trial are, and each of them is, reversed.
+York, P. J., and White, J., concurred.
