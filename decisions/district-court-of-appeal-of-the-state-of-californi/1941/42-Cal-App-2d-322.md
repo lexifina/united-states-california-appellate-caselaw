@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11541"
+decided: "1941-01-07"
+citations: ["42 Cal. App. 2d 322"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT C. BURNS, Appellant, v. BERTRAM W. DOWNS, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/42/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4550905
+cites_cases: ["13 Cal. App. (2d) 440", "202 Pac. 938", "55 Cal. App. 134", "56 Pac. (2d) 1289", "67 Cal. 143", "7 Pac. 413"]
+---
+
+# Burns v. Downs
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+From an order setting aside a default of the defendant the plaintiff has. appealed. He makes one point which is that he sued an association and also the members thereof and that his judgment was regular and it was error to set it aside. The defendant controverts the point. The record is, in brief, as follows:
+The title of the complaint was: “Robert G. Burns, Plaintiff, v. Bertram W. Downs, also known as B. W. Downs; B. W. Downs and Paul L. Van Brunt, doing business as Westeraft Laboratories; B. W. Downs doing business as Western Aircraft Manufacturing Company and John G. Canfield, John Doe, Jane Doe, One Doe, Black & White, a co-partnership, Blue Company, a corporation, Defendants.” Paragraphs I and II thereof were as follows:
+“That B. W. Downs and Paul Van Brunt are doing business under the fictitious name and style of Westeraft Laboratories, and that such fictitious name has been registered with the county clerk of Los Angeles county as required by law; that B. W. Downs is doing business under the fictitious name of Western Aircraft Manufacturing Company, that such fictitious name has been registered with the county clerk of Los Angeles county as required by law.
+“That the defendants, John Doe, Jane Doe, One Doe, as individuals and Black and White, a co-partnership, doing business under the fictitious firm name and style of Black Company, and Blue Company, a corporation, are sued herein under the fictitious names because their true names are unknown to the plaintiff and that when the true names are ascertained plaintiff asks leave of court to substitute such true names for the fictitious names. ’ ’
+With the complaint he served a summons which designated the defendants in the same words as recited in the title of his complaint. The complaint and summons were served in Los Angeles on April 22, 1938, on “Bertram W. Downs, doing-business as Westeraft Laboratories.” On the same date the plaintiff delivered to “Bertram W. Downs, also known as B. W. Downs” a copy of the complaint and summons. On May 3, 1938, Bertram W. Downs filed a demurrer. On May 25, 1938, the plaintiff filed a request that the default of “B. W. Downs doing business as Westeraft Laboratories” be entered. On June 2, 1938, the trial judge caused to be entered a default judgment against B. W. Downs and Paul L. Van Brunt doing business as Westcraft Laboratories. ’ ’ On June 5, 1938, B. W. Downs served notice that on June 8, 1938, he would move to set aside the default judgment entered June 2, 1938. In his notice he recited that his- motion would be based “ . . . upon this notice and the records, papers, and' files in this ease, including the affidavits of Frank D. Gatlin filed herewith.” Said affidavits recite the facts we have above set forth. The plaintiff filed the affidavit of Frank Freytag which does not controvert any one of the facts above set forth. He also filed the affidavit of Fred C. Glawe which does not controvert any one of said facts. He also filed the affidavit of Charles J. Wendland, his attorney, which does not controvert any one of said facts. However it recites, “That at no time was an appearance ever made in the action by Westcraft Laboratories, defendant herein. On June 8,1938, the plaintiff dismissed the action as to B. W. Downs. On June 9, 1938, the trial court granted the motion of Bertram W. Downs to set aside the default judgment. It is from that order that this appeal was taken.
+The plaintiff contends he followed the provisions of section 388 of the Code of Civil Procedure and that he had sued an association, Westcraft Laboratories, and that he also had sued Bertram W. Downs and the other individuals named in the title to his complaint. That contention may not be sustained. Neither in the title nor in the body of the complaint was Westcraft Laboratories named as a defendant. B. W. Downs was named as a defendant and was served with summons.
+But, relying on the fact that he had dismissed the action as to B. W. Downs, the plaintiff contends (1) the trial court had no jurisdiction to set aside the judgment; (2) the motion was not made by the proper parties; and (3) that the demurrer of one party cannot inure to the benefit of another party. The vice in each of those contentions is the assumption that an association, Westcraft Laboratories, was a party to the action. The defendant B. W. Downs claims it was not. It was not named as a defendant in the complaint, nor in the summons, nor in the judgment which was set aside. Fairly construed the judgment roll purported to set forth a judgment against B. W. Downs and Paul L. Van Brunt, but not against Westcraft Laboratories. (Nicholls v. Anders, 13 Cal. App. (2d) 440, 443 [56 Pac. (2d) 1289].)
+The plaintiff asserts that he alleged the existence of an association of two or more persons transacting business under a common name. He did not expressly do so nor was such the substance or effect of his complaint. (Davidson v. Knox, 67 Cal. 143 [7 Pac. 413] ; Billings v. Finn, 55 Cal. App. 134, 136 [202 Pac. 938].)
+Still claiming that in his complaint he sued Westcraft Laboratories, plaintiff asserts he served his summons on it. But, as we have shown above, the allegations of his complaint did not charge Westcraft Laboratories as a defendant and plaintiff could not make Westcraft Laboratories a defendant by having his process server deliver a copy of the summons and complaint to B. W. Downs and stating to him that such papers were for the Westcraft Laboratories.
+Again the plaintiff contends the allegations of the complaint support the judgment. That is true, but a judgment against B. W. Downs, the party who moved to have it set aside.
+Finally it is said that lack of a partnership or common name in the caption of the summons and complaint cannot nullify the judgment. No such. question is involved. The question before us presents an attack on the entire absence of material allegations in the body of the plaintiff’s complaint, not merely words in the caption.
+We find no error in the record. The order appealed from is affirmed.
+Nourse, P. J., and Spence, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied on March 7, 1941.
