@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B105664"
+decided: "1997-06-18"
+citations: ["56 Cal. App. 4th 230"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re CODY S., a Person Coming Under the Juvenile Court Law. LOS ANGELES COUNTY DEPARTMENT OF CHILDREN AND FAMILY SERVICES, Plaintiff and Respondent, v. RHONDA P., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/56/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1126460
+---
+
+# Los Angeles County Department of Children & Family Services v. Rhonda P.
+
+## Majority (EPSTEIN, Acting P. J.)
+
+Opinion
+EPSTEIN, Acting P. J.
+In this appeal, mother Rhonda P. challenges the juvenile court order terminating her parental rights. Her sole contention on appeal is that the court was not provided with adequate information and hence was unable to consider the minor’s wishes regarding placement. We conclude that the department of children and family services (DCFS) provided sufficient information and affirm the order.
+Factual and Procedural Summary
+Appellant is the mother of Cody S., bom February 1, 1992. When Cody was two years old, he witnessed his father’s murder. On February 16, 1995, Cody was declared a dependent child (Welf. & Inst. Code, § 300, subds. (b) and (j); all undesignated statutory references are to this code) based on sustained allegations that his home was in a filthy and unsanitary condition, and that his brother was a dependent child suitably placed in foster care. Appellant was ordered to participate in parenting and grief counseling, and conjoint counseling with Cody.
+At the six-month judicial review, the court continued jurisdiction over Cody, and continued the reunification services plan. At the 12-month judicial review, the court continued jurisdiction, terminated reunification services, and set the matter for a hearing pursuant to section 366.26.
+Appellant challenged this order by writ petition, whifch was ultimately denied. (In re Cody S. (May 10, 1996) B099366 [nonpub. opn.].) Appellant also sought a change of order pursuant to section 388. That petition was denied on May 16, 1996.
+At the section 366.26 hearing on September 9, 1996, the court terminated parental rights. This is an appeal from that order.
+Discussion
+Appellant claims the order terminating parental rights must be reversed because DCFS failed to provide the court with information regarding Cody’s wishes as required under section 366.21, subdivision (i)(5) (hereafter section 366.21(i)(5)), thereby precluding the court from giving adequate consideration to Cody’s wishes. Section 366.21 (i)(5) requires preparation of an adoption assessment prior to a section 366.26 hearing, which “shall include” information addressing “The relationship of the minor to any identified prospective adoptive parent or guardian, the duration and character of the relationship, the motivation for seeking adoption or guardianship, and a statement from the minor concerning placement and the adoption or guardianship, unless the minor’s age or physical, emotion, or other condition precludes his or her meaningful response, and if so, a description of the condition." (§ 366.21 (i)(5), italics added.)
+In this case, the adoption assessment did not include a statement from Cody. Instead, the report stated: “Cody, age 4 years, is too young to make a meaningful statement about adoption.” Appellant argues this cannot be a valid basis to excuse compliance with the requirement of obtaining a statement where the child is age four or older. She relies on section 317, subdivision (e), which provides: “In any case in which the minor is four years of age or older, counsel [for the minor] shall interview the minor to determine the minor’s wishes and to assess the minor’s well-being, and shall advise the court of the minor’s wishes.” According to appellant, if the Legislature considers a four-year-old mature enough to be interviewed by counsel, then DCFS could not use the fact that Cody was only four years old as an excuse for failing to obtain his statement regarding adoption. We decline to graft the specific age requirement of section 317 onto section 366.21 (i)(5).
+Prior to its amendment in 1993, section 366.21(i)(5) required DCFS to include a statement from the minor “if the minor is 10 years of age or older.” In amending the statute, the Legislature expanded the opportunity for children of any age to express their feelings to the court regarding proposed placement, adoption, or guardianship. (Com. Analysis Statement of Assem. Com. on Judiciary, Sen. Bill No. 426 (July 7, 1993).) Rather than simply lower the age at which a statement must be obtained, the Legislature deleted the specific age requirement, instead requiring the statement “unless the minor’s age or physical, emotional, or other condition precludes his or her meaningful response.” By this choice, the Legislature rejected a purely chronological requirement in favor of a formulation which recognizes that children vary in their ability to provide a meaningful statement based on several different factors. There is no ambiguity in that formulation.
+What is required under section 366.21 (i)(5) is a statement from the minor concerning placement, adoption or guardianship, or an explanation as to why the child’s physical, emotional or other condition precludes the child from making a meaningful statement on that subject. In this case, the explanation was that Cody was too young to provide a meaningful statement about adoption. The record bears that out.
+Cody was four years, three months old at the time the initial assessment report was prepared, and four years, seven months old at the time of the section 366.26 hearing. At the hearing, the children’s social worker (CSW) testified that she had discussed adoption with Cody, although she had not specifically explained that he would not see appellant anymore if he were adopted. According to the CSW, Cody’s foster mother had many books on adoption and what it means to be adopted. The foster mother had been reading these books regularly to Cody, “[a]nd he’s beginning to get an understanding of adoption and he seemed to relay that back to me.” This evidence indicates that at the time of the hearing, four-year-old Cody had not yet grasped the full implications of adoption, and therefore would not be able to provide a meaningful statement about it to the CSW.
+The court was provided with other information regarding Cody’s wishes. In the September 1996 progress report, the CSW reported on the development of Cody’s relationship with his prospective adoptive parents: “It does appear that at this time, Cody considers Mr. and Mrs. K. to be special friends with whom he would like to live; however, it is important that he also begin to see them in their parental roles.” The report continued: “CSW has met with Cody on several occassions, and he has expressed a desire to live with Mr. and Mrs. K. In fact, [szc] he continually asks them when he can move into their house.”
+While Cody’s age and lack of understanding of adoption may have precluded him from making a meaningful statement about adoption, his wishes about placement were adequately reflected in the reports submitted to the trial court for the section 366.26 hearing.
+Disposition
+The order terminating parental rights is affirmed.
+Hastings, J., and Baron, J., concurred.
