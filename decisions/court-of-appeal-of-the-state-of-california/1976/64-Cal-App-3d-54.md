@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 36244"
+decided: "1976-10-25"
+citations: ["64 Cal. App. 3d 54"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN F. SCROGINGS et al., Plaintiffs and Respondents, v. GEORGE KOVATCH, as Planning Director, etc., et al., Defendants and Appellants; LELAND S. MURPHY, SR., Real Party in Interest and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/64/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040931
+cites_cases: ["11 Cal.App.3d 768", "132 Cal.App.2d 30", "2 Cal.3d 976", "257 Cal.App.2d 292", "281 P.2d 316", "43 A.L.R.3d 880", "471 P.2d 983", "64 Cal.Rptr. 537", "88 Cal.Rptr. 183", "90 Cal.Rptr. 88"]
+---
+
+# Scrogings v. Kovatch
+
+## Majority (CHRISTIAN, J.)
+
+Opinion
+CHRISTIAN, J.
+On the petition of respondents John and Anita Scrogings, the trial court granted a peremptory writ of mandamus ordering George Kovatch, Sonoma County Planning Director, the Board of Zoning Adjustments of Sonoma County and the Board of Supervisors of Sonoma County to issue a zoning clearance to respondents so that a building permit might be issued for construction of a single-family residence on an unimproved lot owned by respondents. The appeal from the judgment has been taken by the county and by Leland S. Murphy, Sr., an owner of land in the affected area, who was permitted to intervene in the action.
+Respondents’ lot is located in the Russian River Meadow subdivision in Sonoma County, an area developed by appellant Murphy in 1960 and 1961. It was required by the Sonoma County Planning Commission, as a condition to its approval of the subdivision map, that the document bear on its face an endorsement specifying that no lot was to be resubdivided “until such time as public sewers are available.” The final map, recorded on April 5, 1961, bore the required endorsement.
+In 1963, Selberg acquired from Murphy, a lot within the subdivision; the deed to Selberg did not contain the required restrictions. Respondents purchased the lot on April 18, 1968. Again, the deed did not refer to the restriction set out on the face of the map.
+In 1966, the Sonoma County Board of Supervisors adopted an ordinance regulating “lot splits” within subdivisions in Sonoma County. Thereafter, pursuant to that ordinance, respondents applied to the Sonoma County Planning Department for a lot split permit, seeking permission to divide their property into two lots. The permit was issued, with the approval of the engineering advisory committee as provided by the ordinance.
+When appellant Murphy learned that a permit had been issued for the proposed lot split, he informed the planning commission that there would be a violation of the prohibition against resubdividing prior to the installation of a public sewer system. Deputy County Counsel James P. Botz informed Murphy that he had advised the planning director that the lot split permit did not constitute permission by the County of Sonoma to violate conditions established by the final subdivision map. A copy of Botz’ letter was mailed to Lee O. Torr III, a member of the Sonoma County Planning Commission, who had acted as respondents’ agent in obtaining the permit.
+Respondents took no action to contest the position taken by the county. Instead, during April 1971, respondents sold the portion of their original lot on which stood their home. In August of that year, they applied for a building permit to build another residence on the unimproved portion of the lot retained by them. Because the planning commission declined to issue its clearance, the permit was not issued.
+After resorting, without success, to administrative remedies, respondents instituted the present action; upon undisputed facts the court granted a writ as prayed.
+The trial court was persuaded by respondents’ principal argument that in denying their application for a building permit, the county was merely seeking to enforce a private equitable servitude which was ineffective as to respondents because the restriction which had been intended by the planning commission had not actually been included in any deed in the chain of title. Appellants contend that the restriction set out on the face of the final subdivision map, prohibiting further lot division until the installation of a public sewer, and the commission’s refusal of a zoning clearance reflected a valid exercise of the county’s police power. That contention is sound.
+When the final subdivision map was recorded, Sonoma County Ordinance No. 277 governed the county’s approval of subdivision maps in accordance with the Subdivision Map Act (then Bus. & Prof. Code, § 11500 et seq.). Sections of the ordinance authorized the planning commission to condition its approval of any map upon such factors as proper lot size and adequate sewage disposal. (Sonoma County Ordinance No. 277, §§ 2.3,4.1(d)(1), 4.2(g)(2).) Thus, the planning commission was required to take measures to protect the public health, safety and welfare, and the condition attached to its approval of the final subdivision map, prohibiting the creation of new lots in the absence of a public sewer system, was itself valid as a regulation adopted in a proper exercise of the police power. The failure of the subdivider to include appropriate restrictions in the deeds which he issued prevented the creation of an equitable servitude (Orinda Homeowners Committee v. Board of Supervisors (1970) 11 Cal.App.3d 768, 777 [90 Cal.Rptr. 88, 43 A.L.R.3d 880]; Ross v. Harootunian (1967) 257 Cal.App.2d 292, 295-296 [64 Cal.Rptr. 537]; Murry v. Lovell (1955) 132 Cal.App.2d 30, 32-33 [281 P.2d 316]). But creation of an equitable servitude is not the only means available to secure restrictions on land use necessary to protect public health: another method is for a public agency, such as a planning commission, duly empowered by ordinance, to withhold its consent where a development is attempted in violation of a lawful regulation.
+Sale or lease of subdivided land without compliance with the Subdivision Map Act is unlawful (§ 11538). Provision is made for the avoidance by the buyer of a sale of property made in violation of the act. (§ 11540.) Criminal sanctions may be imposed against the subdivider (§ 11541) and the county or municipality may seek other legal, equitable or summary remedies against the subdivider. (§ 11542.) The act does not require an innocent purchaser to suffer for a violation by his grantor. (E.g., Keizer v. Adams (1970) 2 Cal.3d 976, 980 [88 Cal.Rptr. 183, 471 P.2d 983].)
+Appellant Murphy sold the subject lot to respondents’ predecessor in title in violation of a lawfully imposed condition in that he failed to insert in the deed the required restrictions. Respondents purchased their lot without notice of the violation. Although the restriction cannot be enforced against respondents as an equitable servitude, the general police power of the county, exercised through the planning commission, is not vitiated by Murphy’s action.
+The judgment is reversed with directions to render judgment for appellants.
+Caldecott, P. J., and Emerson, J., concurred.
+A petition for a rehearing was denied November 19, 1976.
+California Constitution, article XI, section 7.
+Effective March 1, 1975, the Subdivision Map Act was recodified as Government Code section 66410 et seq. References herein are to the former Business and Professions Code sections applicable to this litigation.
+Retired judge of the superior court sitting under appointment by the Chairman of the Judicial Council.
