@@ -1,0 +1,29 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Crim. A. No. 17229"
+decided: "1979-08-09"
+citations: ["97 Cal. App. 3d Supp. 6"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JAMES WRIGHT LEFTWICH, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/97/cases/Supp. 6-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035047
+cites_cases: ["10 Cal.3d 72", "109 Cal.Rptr. 785", "115 Cal.Rptr. 495", "141 Cal.Rptr. 16", "143 Cal.Rptr. 478", "211 P.2d 575", "219 Cal. 410", "27 P.2d 73", "34 Cal.2d 459", "40 Cal.App.3d 893", "514 P.2d 97", "73 Cal.App.3d Supp. 1", "77 Cal.App.3d 227"]
+---
+
+# People v. Leftwich
+
+## Majority (COLE, P. J.)
+
+Opinion
+COLE, P. J.
+We issued an order to show cause why the appeal should not be dismissed because of failure to file the notice of appeal in the time required by rule 182, California Rules of Court. That rule requires a notice of appeal from a judgment of the municipal court in a criminal case to be filed with the clerk of that court within 30 days of the judgment. The rule further states that “Whenever a notice of appeal is received after the expiration of the period prescribed for filing such notice, the clerk of the court, or the judge if there be no clerk, shall mark it ‘Received (date) but not filed’ and advise the party seeking to file the notice that it was received but not filed because the period for filing had elapsed.”
+In this case, judgment was rendered on February 7, 1979. On March 30, 1979, appellant filed a notice of motion “to allow filing of a notice of appeal” in the municipal court. The motion was accompanied by a declaration of counsel for appellant which stated that throughout the proceedings in the municipal court it was made clear that the matter would be appealed. Counsel stated that due to inadvertent miscalendaring on his part the “application for appeal” was not sent in until March 26, 1979. He also stated that appellant had not been advised nor informed of his right to appeal within the 30-day period, that appellant made a timely request of counsel to file the notice of appeal and that counsel took no steps to inform appellant how to file it and did not secure other counsel for him but, instead, promised appellant that he (declaring counsel) would file the notice of appeal. The declaration concludes with counsel’s statement that he knew his client relied on the promise. The trial court granted the motion.
+A trial court simply is without power to grant such relief. That is the express holding of People v. Lewis (1933) 219 Cal. 410, 414 [27 P.2d 73], and of People v. Behrmann (1949) 34 Cal.2d 459, 461-462 [211 P.2d 575], which relies upon the Lewis case. It is true that decisions later in time, e.g;, People v. Riley (1977) 73 Cal.App.3d Supp. 1 [141 Cal.Rptr. 16] and the Supreme Court and Court of Appeal decisions cited therein, have established or applied certain judicially recognized exceptions to the seemingly absolute language of some of the earlier cases, including Lewis, which language, taken at literal value, would seem to preclude any ground of relief from late filing of a notice of appeal. But those exceptions do not detract from the holdings of Lewis and Behrmann that the trial court cannot grant such relief.
+The notice of appeal ordered to be filed by the municipal court was, then, ineffective. Appellant urges, in effect, that in this event we should not dismiss the appeal but should instead treat the motion for relief as having been filed here. He points out that this court would have to grant relief upon the later filing of a motion to that effect in this court and that it would be a matter of judicial economy not to dismiss the appeal. We agree.
+The People urge that the facts stated in the declaration of trial counsel are insufficient to allow relief. We disagree. We do not have the situation in In re Benoit (1973) 10 Cal.3d 72 [109 Cal.Rptr. 785, 514 P.2d 97], relied upon by the People, where the court cautioned that while a defendant might be entitled to relief where an attorney has failed to file a promised notice of appeal, in view of the 60 days granted to appeal from a superior court judgment and the fact that a defendant has been advised of appeal rights under rule 250, such a defendant must display diligence in order to be entitled to relief. (10 Cal.3d at pp. 88-89.) Here the time for appeal is only 30 days and there is no rule for municipal courts comparable to rule 250, although we remain of the strong view that there should be, People v. Baltor (1978) 77 Cal.App.3d 227 [143 Cal.Rptr. 478] notwithstanding. Nor is there any indication that the trial court in fact advised appellant of those rights. Indeed, the declaration is to the contrary.
+The People expressly state that they do not contest any allegations of fact made by appellant or his counsel.
+We cannot distinguish the facts in this matter, which we have recited above, from those facing the courts in In re Hernandez (1974) 40 Cal.App.3d 893 [115 Cal.Rptr. 495], and People v. Riley, supra, 73 Cal.App.3d Supp. 1. In the interest of judicial economy we adopt the suggestion in appellant’s brief that we not dismiss the appeal and we treat this proceeding as a motion to allow the late filing of the notice of appeal. We grant the motion. The clerk of the municipal court is directed to file the notice of appeal ineffectively filed previously herein and to proceed to allow appellant to perfect a record on appeal within the times contemplated by the rules on appeal, computed from the new filing date including any extensions allowable by rule 186 if applied foj and granted. The order to show cause is discharged.
+Dowds, J., and Saeta, J., concurred.
