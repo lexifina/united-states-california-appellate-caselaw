@@ -1,0 +1,37 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "101304"
+decided: "1940-11-25"
+citations: ["41 Cal. App. 2d Supp. 965"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. WILLIAM HALE THOMPSON, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/41/cases/Supp. 965-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040526
+cites_cases: ["100 Cal. App. 600", "105 Pac. (2d) 657", "277 Pac. 747", "280 Pac. 691", "66 Pac. (2d) 430", "8 Cal. (2d) 463", "98 Cal. App. 702"]
+---
+
+# People v. Thompson
+
+## Majority (THE COURT.)
+
+THE COURT.
+The defendant was convicted of a violation of section 505, subdivision (b) of the Vehicle Code after a trial by the court and appeals from the judgment of conviction.
+The first specification of error is the failure of the court to adequately advise the defendant regarding his right to counsel and that if he was unable to employ counsel the court would assign counsel to defend him. The statement on appeal discloses that at the time of the arraignment the defendant was asked by the court whether or not he had counsel or desired to obtain counsel. Defendant was not told that counsel would be assigned to him if he was unable to employ an attorney, nor was defendant asked regarding his inability to employ one. Defendant stated that he did not desire counsel. In view of this statement of the defendant we know of no statutory or constitutional provision requiring the court to impose counsel upon him. The fight to be represented by counsel was one for him to enjoy or waive, as he desired.
+The second specification of error is the action of the court in proceeding to trial of the cause without a proper or effective waiver of a trial by jury, as required by article I, section 7 of the Constitution of California, and sections 1130 and 1435 of the Penal Code. In this connection the statement on appeal shows that the defendant was asked whether he pleaded guilty or not guilty. He then entered his plea of not guilty, whereupon he was asked by the court whether he desired a trial by jury or by the court. ' His right to a trial by jury was explained to him. He then stated that he was satisfied to be tried by the court and that he waived a jury trial. At no time during the proceedings was there present any public prosecutor or counsel for the people.
+Section 7 of article I of the California Constitution provides, inter alia, that
+“A trial by jury may be waived in all criminal cases by the consent of both parties expressed in open court by defendant and his counsel ...”
+Political Code, section 4153, in enumerating the duties of the District Attorney, provides, among other things:
+‘ ‘ The District Attorney is the public prosecutor and must; (1) attend the courts, and conduct, on behalf of the people all prosecutions for public offenses. ...”
+Penal Code, section 1130, provides:
+“If the District Attorney fails to attend the trial, the court must appoint some attorney at law to perform the duties of the District Attorney on such trial.”
+Penal Code, section 1435, provides:
+“A trial by jury may be waived by the consent of both parties expressed in open court and entered in the docket. 7 7
+This section is, by Penal Code, Part 2, Title XI, made specifically applicable to proceedings in justice’s courts.
+We are of the opinion that under the foregoing provisions of law, in misdemeanor cases at least, the provisions requiring the presence of the district attorney are for the benefit of the people, and any error in relation thereto cannot be urged by the defendant. It does not seem to us that a defendant, himself willing to waive a jury, can be deemed to be prejudiced by the failure of a prosecuting attorney to be present or join in such waiver.
+We have already seen that counsel may be waived by a defendant. In a waiver of a jury he and his counsel, if he have one, must concur. It seems to us, however, that his right to waive counsel carries with it the implication that if he chooses to have none, he alone may do for himself that which he and his counsel together might do. There is nothing in People v. Garcia, 98 Cal. App. 702 [277 Pac. 747], or in People v. Spinato, 100 Cal. App. 600 [280 Pac. 691], cited by defendant, which militates against these views. The subject was before this court in People v. Slocum, Superior Court records of San Diego County, No. 95059, and we there reached the same conclusions that we have here expressed. What we have said respecting the second specification of error also disposes of the third, namely, the failure of any public prosecutor to be present during the proceedings.
+While, however, for the reasons stated, the contentions embraced in the defendant’s first three specifications of error appear to us to be without substance, it is otherwise with the fourth specification, namely, that the evidence is insufficient to sustain the judgment. There is no dispute that passengers in the defendant’s car were injured in the accident under investigation. We do not doubt that the defendant’s conduct in weaving back and forth while on a grade, from one traffic lane to the other, taken together with the physical facts disclosed in the evidence, particularly the appearance and length of the skid marks on the road and the place where his automobile came to rest made out a prima facie case of negligence and possibly of gross negligence on his part. It was open to the defendant, of course, to show that what happened was attributable to mechanical defects in his automobile or other circumstances beyond his control. The explanation which he attempted was met by other testimony which produced a conflict. This conflict the trial court resolved against the defendant. We must, therefore, for the purpose of the present decision, assume' that he was guilty of negligence, and may for the sake of the argument assume that it amounted to gross negligence. This, however, is not enough to warrant conviction of the violation of section 505, subdivision (b) of the Vehicle Code. It was held in the recent case of People v. McNutt, 40 Cal. App. (2d) (Supp.) 835 [105 Pac. (2d) 657], that there is no substantial difference between “wilful misconduct”, as used in section 407 of the Vehicle Code, which renders a driver liable for injuries to his guest, and “reckless driving” as defined in section 505 of said code and that decisions construing the term “wilful misconduct”, may be applied to the statutory provision prohibiting “reckless driving”; and that negligence, even though gross, is not “wilful misconduct” and falls short of constituting “reckless driving.” Without elaborating upon the comprehensive discussion in the opinion in that case, we content ourselves with saying that we agree with the views there expressed.
+In the instant case there is nothing to show that the defendant was guilty of 1 ‘ deliberate, intentional or wanton conduct in doing or omitting to perform acts, with knowledge or appreciation of the fact on the part of the culpable person that danger” was “likely to result therefrom” which is the test of the existence or nonexistence of “wilful misconduct” as laid down in Parsons v. Fuller, 8 Cal. (2d) 463, 468 [66 Pac. (2d) 430], In these circumstances he was not shown to be guilty of “reckless driving.”
+Judgment reversed.
