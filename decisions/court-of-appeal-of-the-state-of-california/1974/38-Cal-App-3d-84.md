@@ -1,0 +1,45 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 40970"
+decided: "1974-03-26"
+citations: ["38 Cal. App. 3d 84"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BESSIE D. DRENNEN, as Executrix, etc., et al., Plaintiffs and Appellants, v. COUNTY OF VENTURA, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/38/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4468660
+cites_cases: ["10 Cal.3d 385", "103 P. 927", "110 Cal.Rptr. 489", "126 Cal. 135", "132 Cal.App.2d 114", "142 P.2d 289", "156 Cal. 211", "211 P.2d 624", "218 Cal.App.2d 205", "23 Cal.2d 68", "243 Cal.App.2d 737", "245 Cal.App.2d 425", "270 Cal.App.2d 434", "281 P.2d 894", "32 Cal.Rptr. 318", "328 U.S. 256", "48 A.L.R.2d 1455", "515 P.2d 585", "52 Cal.Rptr. 613", "53 Cal.Rptr. 923", "58 P. 442", "66 S.Ct. 10621", "75 Cal.Rptr. 673", "84 F.2d 755", "94 Cal.App.2d 525"]
+---
+
+# Drennen v. County of Ventura
+
+## Majority (COBEY, Acting P. J.)
+
+Opinion
+COBEY, Acting P. J.
+Plaintiffs, Bessie D. Drennen et al., appeal from a judgment for defendant, County of Ventura, in their inverse condemnation action. The judgment was rendered after trial to the court of the county’s special defense that the owners of the Santa Susana Airport (the Chester L. Fosters) had acquired a specified prescriptive avigation easement over certain land of plaintiffs lying next to the airport and within the normal landing corridor to the airport’s sole runway. This occurred before the county on January 1, 1969, took over operation of the airport and then paved the runway.
+The airport is located on approximately 20½ acres in eastern Ventura County at Simi, California. It has been owned by the Fosters since 1944. They operated it themselves (except for six years in the 1950s) as a public airport for small private planes. Plaintiffs’ affected land, which the family has owned since 1945, has always been unoccupied and unused. It has been held only as a speculative investment. By reason of the terrain and the prevailing winds in the immediate area of the airport there has been, generally speaking, but one zone of approach to the airport. Aircraft approach the airport in this zone on a three degree glide path with engines throttled back to idle. The runway is less than the minimum length that is now generally required.
+Plaintiffs contend generally that: (1) an avigation easement may not be acquired by prescription; (2) there is no substantial evidence to support certain of the material findings of fact from which the trial court concluded that the Fosters had acquired an avigation easement prescriptively; (3) the prescriptive easement is not sufficiently specified; (4) trial costs, in any event, should have been awarded plaintiffs rather than defendant.
+We tend to disagree with plaintiffs’ contention that in this state an avigation easement may not be acquired by prescription, but, assuming that one may be so acquired, we hold here that such acquisition did not occur in this case. In this state a prescriptive easement in the land of another is acquired only by means of an actionable invasion of the rights of the other in his land for the requisite period under the requisite conditions. (See Bathgate v. Irvine, 126 Cal. 135, 141 [58 P. 442]; City of L. A. v. City of Glendale, 23 Cal.2d 68, 79 [142 P.2d 289]; Reinsch v. City of Los Angeles, 243 Cal.App.2d 737, 745-746 [52 Cal.Rptr. 613]; Witkin, Summary of Cal. Law (8th ed. 1973) Real Property, §367, p. 2062.) The ownership of the airspace above the lands of this state is vested in the several owners of the lands below, but this ownership is subject to the statutory right of overflight. (Pub. Util. Code, § 21402; Civ. Code, § 659.) This statutory right of overflight may be described as follows: Flight in aircraft over the land of another is lawful unless at altitudes below those prescribed by federal authority,3 or unless so conducted as to be imminently dangerous to persons or property lawfully on the land. (Pub. Util. Code, § 21403.) This statutory right of flight in aircraft includes the right of safe access to public airports. This latter right embraces the right of a flight within the zone of approach of any public airport without restriction or hazard. (Pub. Util. Code, § 21403, supra, subd. (c).)
+There is no evidence in the record before us, generally speaking, that flights of aircraft over plaintiffs’ land during the claimed prescriptive period (1964-1969) were either made unlawfully or outside the one zone of approach to the Santa Susana Airport. Thus, it would appear that all of these flights were at least qualifiedly privileged, although necessarily made at quite low levels above plaintiffs’ land.
+According to the Restatement Second of Torts, supra, section 159, subdivision (2), comment (k), flight by aircraft in the airspace above the land of another is a trespass if, but only if, both entry into the immediate reaches of the airspace next to the land is involved and the entry interferes substantially with the owner’s actual use and enjoyment of his land. This proposition is generally in accord with existing California law. (See Pacific Gas & E. Co. v. Peterson, 270 Cal.App.2d 434, 437-438 [75 Cal.Rptr. 673]; Sneed v. County of Riverside, 218 Cal.App.2d 205, 210 [32 Cal.Rptr. 318].)
+It is obvious from the record in this case that with respect to certain of plaintiffs’ land the first consideration for trespass by flight of aircraft was satisfied. It is equally obvious that the second condition was not, because during the five years plaintiffs did not actually use the overflown land.
+Accordingly, under the foregoing circumstances, the overflight of aircraft during the claimed prescriptive period manifestly did not interfere substantially with plaintiffs’ actual use and enjoyment of their land since there was no such use and enjoyment. Therefore, the overflights did not invade plaintiffs’ rights in their land. This being so, no prescriptive easement to overfly plaintiffs’ land was acquired.
+There is no need to discuss plaintiffs’ remaining contentions except to point out that as their action is one in inverse condemnation they were entitled to their trial costs. (City of Los Angeles v. Ricards, 10 Cal.3d 385, 391 [110 Cal.Rptr. 489, 515 P.2d 585].)
+The judgment is reversed.
+Loring, J., concurred.
+The prescriptive avigation easement specified by the trial court is a conical corridor of airspace varying from 75 feet in width and 5 feet in height at the edge nearest the runway to 150 feet in width and 50 feet in height at the far end of the corridor.
+We see no reason why an avigation easement may not be acquired by prescription in this state. Restatement Second of Torts, section 159 (1965), hereafter discussed, indicates to the contrary. We do not decide the point however. The rejection by the courts of this state of the English doctrine of ancient lights (see Katcher v. Home S. & L. Assn., 245 Cal.App.2d 425, 429-430 [53 Cal.Rptr. 923]) is not dispositive of the point. Neither is the 1936 decision of the United States Circuit Court of Appeals for the Ninth Circuit (Hinman v. Pacific Air Transport, 84 F.2d 755) involving two approaches to the present Burbank commercial airport. That which may be acquired by the exercise of the power of eminent domain, directly or inversely (see Code Civ. Proc., §§ 1239.2, 1239.3, 1239.4; United States v. Causby (1946) 328 U.S. 256, 264-267 [90 L.Ed. 1206, 1212-1213, 66 S.Ct. 10621) should likewise be subject to acquisition by prescription.
+We note in this connection that 49 United States Code section 1301, subdivision (24), includes within “navigable airspace" “airspace needed to insure safety in takeoff and landing of aircraft” and that 49 United States Code section 1304 recognizes and declares on behalf of all citizens of the United States “a public right of freedom of transit through the navigable airspace of the United States.”
+This subdivision replaced section 194 of the Restatement of Torts (1934) (Rest. 2d Torts, app. 159, p. 166) quoted and discussed in Strother v. Pacific Gas & Elec. Co., 94 Cal.App.2d 525, 535 [211 P.2d 624], Former section 159 was relied on in La Com v. Pacific Gas & Electric Co., 132 Cal.App.2d 114, 116 [281 P.2d 894, 48 A.L.R.2d 1455],
+Stated another way, a use of another’s land is not adverse to the owner’s use of that land where the owner makes no use of the land during the claimed prescriptive period. (Brookshire Oil Co. v. Casmalia etc. Co., 156 Cal. 211, 218 [103 P. 927].)
+Assigned by the Chairman of the Judicial Council.
+
+## Concurrence (ALLPORT, J.)
+
+ALLPORT, J.
+I concur in the judgment.
+Assuming without deciding that an avigation easement may be acquired by prescription in this state, the evidence in the instant case fails to establish that one was ever acquired by the Fosters.
+A petition for a rehearing was denied April 23, 1974, and respondent’s petition for a hearing by the Supreme Court was denied May 22, 1974.
