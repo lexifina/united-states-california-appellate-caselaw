@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5837"
+decided: "1927-11-21"
+citations: ["87 Cal. App. 80"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of LATHAM H. BRIGHTMAN, Deceased. WALTER J. DESMOND et al., Respondents, v. MARY C. BRIGHTMAN, as Executrix, etc., Appellant."]
+source_url: "https://static.case.law/cal-app/87/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2098949
+cites_cases: ["110 Cal. 470", "131 Cal. 415", "188 Cal. 536", "206 Pac. 42", "42 Pac. 978", "63 Pac. 838"]
+---
+
+# Desmond v. Brightman
+
+## Majority (THOMPSON, J.)
+
+THOMPSON, J.
+This appeal is from an order allowing the sum of $4,000 to the respondents, $1,000 of which had already been paid, as attorneys’ fees for extraordinary services. The facts are briefly: That appellant is the widow of decedent and the sole legatee under and executrix of the last will and testament of deceased, except that $4,000 was willed to the daughters of deceased by a former marriage; that after the admission to probate of the will a contest was filed by Clarence E. Brightman, a son of the deceased by a former marriage, in which the contestant alleged unsoundness of mind on the part of the testator and undue influence exerted upon the testator by appellant as grounds for the revocation of the order admitting the will to probate, and also averred that by reason of undue influence by appellant upon deceased and with a preconceived plan to defraud the heirs of the deceased, she had through a course of years secured to be placed in her name property belonging to deceased, of great value. The estate which was inventoried amounted at appraised values to the sum of $23,240. Respondents prepared and filed a demurrer and motion to strike, and upon argument the demurrer was sustained. An amended contest was filed to which respondents also interposed a demurrer and motion to strike. The demurrer to the count on undue influence was sustained without leave to amend and an answer was prepared, served, and filed responsive to the count alleging unsoundness of mind. On March 2, 1925, when the case was called for trial and respondents were ready to proceed, with their witnesses in court, the contest was dismissed. While it appears from the evidence that Mrs. Brightman was possessed of considerable property, title to which might have been open to attack had the will been set aside and which she was bound to inherit, if in fact it belonged to the estate, if the will stood, yet we are of the opinion that this is beside the question. If services were rendered to Mrs. Brightman in this respect it was to her individually and not to the estate. It also appears, however, and this bears upon the question at issue,, that in addition to the work done and already recited, counsel examined large amounts of correspondence, traced the accumulation of the property and the family relations for years and whether the deceased had any delusion concerning the relation of the sons to him; conducted a search of the precedent law applicable to the ease and held many conferences. Two witnesses testified that the value of the services in their opinion was $25,000 and that of this sum the value of the services rendered to the estate was $5,000.
+Counsel for appellant argue that the court should not have taken into consideration the amount of property standing in the name of Mary C. Brightman, title to which was indirectly protected against possible litigation by the defense to the contest. However, it does not appear that the court did consider this element. In fact, in addition to the presumption which we must indulge in favor of the order in this respect, the evidence of the two witnesses that $25,000 was a reasonable fee for the services rendered of which $5,000 was a reasonable charge against the estate would seem to indicate that the distinction was well in the mind of counsel and the trial judge. The fee allowed for the services rendered is considerably less than that testified to by the witnesses. It does not appear to have been arbitrarily assessed, nor does it appear after a consideration of the character of the effort put forth that there was an abuse of discretion by the trial court in arriving at the amount. As conceded by appellant, the rule is that “The order of the lower court as to attorneys’ fees will not be interfered with except in case of a plain abuse of discretion’’ (Freese v. Pennie, 110 Cal. 470 [42 Pac. 978]; Estate of Adams, 131 Cal. 415, 418 [63 Pac. 838]. See, also, Estate of Buffill, 188 Cal. 536 [206 Pac. 42]).
+Order affirmed.
+Works, P. J., and Collier, J., pro tem., concurred.
