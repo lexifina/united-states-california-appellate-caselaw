@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2383"
+decided: "1940-08-05"
+citations: ["40 Cal. App. 2d 317"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARLOTTA B. SCOTT, Appellant, v. LAZARD LIPPMAN et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/40/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2359332
+cites_cases: ["6 Cal. App. 431", "92 Pac. 331"]
+---
+
+# Scott v. Lippman
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+This is an appeal from an order granting a motion for a change of place of trial and transferring the action to the Municipal Court of Los Angeles, where the individual defendant resides and where the corporate defendant has its principal place of business.
+The purpose of the action is to recover $1350 for one-half the cost of a party wall erected under an agreement between the plaintiff and a predecessor of the defendants.
+The complaint, which was filed on March 7, 1939, alleges that in 1920, and pursuant to the terms of this agreement, the plaintiff erected a building with its eastern wall on the dividing line between a lot owned by her and a lot owned by the other party to the contract; that in 1936 the defendants erected a building on the other lot and in connection therewith anchored joists in said wall and have continuously since thus made use of said wall; that the contract provided that the plaintiff should own said entire wall and that the other party should not use said wall unless and until she should pay the plaintiff the sum of $1350; that this amount has not been paid to the plaintiff; and that the defendants will continue to use said wall to the damage of the plaintiff in the sum of $1350 unless restrained therefrom. The prayer is for an order enjoining the defendants from using said wall unless and until they have paid $1350 and for further relief.
+The agreement in question, which is attached to and made a part of the complaint, provides that this plaintiff shall have the right to build a wall along the line between the two lots, the wall to be 18 inches thick and half of it to be on each side of the line. This plaintiff agrees that the other party shall have the right at any time to use the wall and to “sink joists into said party wall and make said wall a part of said building” provided the other party shall have paid one-half of the cost of the wall, which amount is fixed at $1350. The other party agrees to pay that amount when said party “uses any or a part of said party wall”. We can find nothing in this contract which provides that this plaintiff shall “own said entire wall”.
+The plaintiff’s main contention is that this action involves the possession of real estate and is controlled by section 392 of the Code of Civil Procedure. As shown by the complaint nine inches of this wall stood upon the land owned and controlled by the defendants. While it is alleged that in the year 1936 they “sank and anchored joists or beams in said eastern wall” it in no way appears that these joists or beams extended over the line and into that part of the wall which rested upon the plaintiff’s lot, so no question of possession in connection with that lot is raised. The contract gave the plaintiff the right to place one-half of the wall upon the defendants’ property. This has been done, the plaintiff’s use of the wall has not been interfered with, no one is trying to take away such possession as she had or to compel her to move the wall, and no question of possession, with respect to the nine inches of defendants’ land which is occupied by the wall, is involved.
+The plaintiff further contends that this action also involves the right of an owner of real property to prevent an encroachment or trespass thereon and that to this end an injunction was sought. It is difficult to see just what trespass upon real property is meant. Certainly there was no trespass on plaintiff’s lot and plaintiff’s only right with respect to defendants' lot is to be allowed to place a wall on nine inches thereof. This right has not been interfered with and any rights which plaintiff here has can hardly be said to arise from a trespass upon the defendants’ real property. While the prayer of the complaint asks for an injunction, there are no allegations which would support such relief. The plaintiff maintains that under the contract, the defendants had no right to anchor joists in this wall or use the same until after the agreed amount had been paid. If it be assumed that a right to an injunction ever existed, it was waived when the plaintiff not only permitted the respondents to use the wall before the payment was made but permitted this use to continue for a period of approximately three years before the action was brought. (Anaheim O. F. Hall Assn. v. Mitchell, 6 Cal. App. 431 [92 Pac. 331].) In that case, under similar circumstances, the court said: “The action does not fall within the provisions of section 392, Code of Civil Procedure. It does not affect the real property upon which the wall is located, or any estate or interest therein. . . . Being clearly a personal action, wherein a money judgment is sought, appellant was entitled to a trial thereof in the county wherein she resided at the time of the commencement of the action.”
+The contract in question makes no provision as to where the $1350 is to be paid in the event it should ever become payable and the complaint fails to allege any facts which bring the action within section 392 of the Code of Civil Procedure. It rather clearly appears that the action is one to recover a personal judgment for $1350, and no error appears in connection with the order made.
+The order appealed from is affirmed.
+Griffin, J., concurred.
