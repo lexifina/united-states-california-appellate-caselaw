@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 29707"
+decided: "1971-07-26"
+citations: ["18 Cal. App. 3d 907"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVID ALAN DE CONTI et al., Petitioners, v. THE SUPERIOR COURT OF SANTA CLARA COUNTY, Respondent; THE PEOPLE, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/18/cases/0907-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4404543
+cites_cases: ["14 Cal. App.3d 57", "2 Cal.App. 3d 433", "390 U.S. 234", "424 P.2d 704", "442 P.2d 665", "446 P.2d 521", "57 Cal.Rptr. 152", "66 Cal.2d 184", "69 Cal. 2d 51", "69 Cal.2d 550", "69 Cal.Rptr. 585", "72 Cal.Rptr. 641", "82 Cal.Rptr. 711", "92 Cal.Rptr. 91"]
+---
+
+# De Conti v. Superior Court
+
+## Majority (ELKINGTON, J.)
+
+Opinion
+ELKINGTON, J.
+On these mandate proceedings petitioners De Conti
+and Parlante seek to set aside an order denying a Penal Code section 1538.5 motion to suppress certain evidence. The issue is whether substantial evidence supported the superior court’s conclusion that a police officer reasonably and in good faith believed a landlord’s agent had authority to consent to his entry into a rented garage.
+Following the substantial evidence rule we set forth the evidence with reasonable inferences derivable therefrom, as it reasonably tends to support the superior court’s decision. (See People v. Stout, 66 Cal.2d 184, 192 [57 Cal.Rptr. 152, 424 P.2d 704]; Bergeron v. Superior Court, 2 Cal.App. 3d 433, 436 [82 Cal.Rptr. 711].)
+One Jim Guthrie was the tenant on a month-to-month basis of a residence with a detached garage. He had been given permission to have “one couple living there” but instead other occupants, the petitioners, were brought in. Guthrie himself was in the habit of leaving for several weeks at a time. The rent being delinquent, the landlord’s agent decided to go “down there to ask them to move.” Apparently expecting trouble, before doing so she called the sheriff’s office. Officer Timmons was sent to assist her. The two first went to the house; the agent entered but found nobody there. They then “proceeded to the area of the garage” where they found the garage door closed but unlocked. She said, “I want to know what is in there. You think I can open it?” The officer replied, “I don’t care,” whereupon she opened the door. Standing before the open door the officer saw a tool box within the garage. Thinking it might be “the one taken from the Haven Nursery where [he] had just taken a burglary report,” he asked the landlord’s agent if he could look at it. She said, “Fine, look at it.” He walked in but “He didn’t move the box. He looked at it, got a number off it or a name.” He then said he believed it to be the stolen tool box “but he wanted to double check with the owner.” Checking with the owner the officer learned that it was in fact the stolen tool box. Thereafter the petitioners were arrested in the course of which search of an automobile disclosed more stolen property. It is this property and the stolen tool box that constitute the evidence which was the subject of petitioner’s unsuccessful motion to suppress.
+Petitioners contend that the officer’s entry of the garage and observation of the tool box were constitutionally improper, and that the tool box and the later discovered stolen property were the “fruit of [that] poisonous tree.”
+Since the officer upon entering the garage made no search but simply observed the tool box which was in plain sight, his conduct in taking a closer look at it was not improper. (People v. Marshall, 69 Cal. 2d 51, 56 [69 Cal.Rptr. 585, 442 P.2d 665].) However, since the law requires that the tool box must have been “in the plain view of an officer who has a right to be in the position to have that view” (Harris v. United. States, 390 U.S. 234, 236 [19 L.Ed.2d 1067, 1069, 88 S.Ct. 992]), we therefore turn our inquiry toward whether the officer’s entry of the garage gave Fourth Amendment offense.
+Justification of this official entry depends upon the application of the rule which was reiterated in People v. Hill, 69 Cal.2d 550, 554-555 [72 Cal.Rptr. 641, 446 P.2d 521], in this manner: “Although sometimes criticized, the rule that a search is not unreasonable if made with the consent of a third party whom the police reasonably and in good faith believe has authority to consent to their search has been regularly reaffirmed. [Citations.]” The good faith of the officer seems not to be here questioned. The remaining question is whether he could reasonably believe that the landlord’s agent had authority to consent to the entry into the garage.
+We bear in.mind that the officer was not on the premises for any purpose of search or investigation. He had simply responded to the request of a citizen who believed she needed protection. He had, a few moments before, seen the landlord’s agent open the door of the house where petitioners lived and then enter. He had been advised that the rent was unpaid and petitioners were subject to eviction. As said in People v. Jackson, 14 Cal. App.3d 57, 68 [92 Cal.Rptr. 91], “Policemen are not required to be experts in the law of landlord and tenant.” Under the circumstances the officer could reasonably have concluded that the agent had authority to enter, an authority which the record before the superior court, and now before us, in no way denies or impúgns. With such a reasonable belief in her authority it was likewise reasonable for the officer to conclude- that she could also consent to his entry of the related detached building, the garage. From this view of the evidence, which we find reasonable, it is concluded that the trial judge properly found that the officer reasonably and in good faith believed the landlord, through his agent, had authority to consent to his entry of the garage. The application for a writ of mandate must accordingly be denied.
+Petitioners emphasize in their argument that the agent’s question of the officer, “You think I can open it?” demonstrates a lack of authority to give the questioned consent. The remark of the agent is equally consistent with a desire to avoid trouble with the occupants placed in the premises by Guthrie without the landlord’s authorization, which was the agent’s reason for calling the officer.
+The petition for writ of mandate is denied; the alternative writ is discharged.
+Molinari, P. J., and Sims, J., concurred.
