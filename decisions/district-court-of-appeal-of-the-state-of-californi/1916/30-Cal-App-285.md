@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 619"
+decided: "1916-04-24"
+citations: ["30 Cal. App. 285"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. WILLIAM L. CHERRY, Appellant."]
+source_url: "https://static.case.law/cal-app/30/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2018250
+---
+
+# People v. Cherry
+
+## Majority (THE COURT.)
+
+THE COURT.
+The defendant in the court below and appellant herein was tried and convicted on a charge of robbery. On the twenty-ninth day of June, 1915, the prosecuting witness, Herman Hirsch, met Mrs. Hazel Cherry, the wife of the appellant herein, in the city of Oakland, who invited him to visit her home. A few days thereafter the defendant did- so, and, after being there a short time, was induced by Mrs. Cherry to enter her bedroom. Mrs. Cherry seated herself upon the bed, and upon her invitation Hirsch did likewise, when- almost immediately the defendant rushed in, revolver in hand, and after threatening to send Hirsch “over the road for ten years, ’ ’ took from him- a watch and one hundred dollars. The defendant, however, almost immediately returned the watch, and then ordered Hirsch to leave the house.
+At the trial the defendant’s wife was a witness in his behalf, and, upon the argument of the cause to the jury, the district attorney during the course of his remarks, said: “Take into consideration the interest which the defendant’s wife has in this case, keeping in mind all the time that she is under arrest at the present time and out on bail.” Counsel for the defendant concedes that the jury must have known that the defendant’s wife was jointly charged with him in the crime for which the defendant was on trial; the evidence in the record shows that she was a party thereto; and while it may not show that she was at the time of the trial under arrest and out on bail, still we are unable to perceive how the comment of the prosecuting officer could have prejudicially affected the rights of the defendant.
+One of the contentions of the appellant is that the trial judge coerced the jury into finding a verdict. This point has no more merit than the one just discussed. After the jury had been deliberating upon their verdict during several hours, the judge caused them to be brought into court, and upon inquiry learned how they stood numerically, and that in the opinion of some members of the jury no verdict in all probability would be reached. Before again retiring, the foreman of the jury apparently attempted to learn how the court would regard a recommendation for probation, intimating that if the jury were satisfied that the court would be governed by such a recommendation a verdict in all probability would be quickly reached, whereupon the court stated: “All you have to do is to find a verdict; you take the law as given you by the court, and apply the facts of the case to the law; and after you have reached a conclusion, while the court would be glad of any recommendation which you have to make, the court could not promise you that it would follow your recommendation. ... If you have arrived at a conclusion as to the facts, it is your duty, irrespective of what punishment would follow, to find the facts and report them to the court.” Ultimately the jury brought in a verdict of guilty of robbery, requesting the court to place the defendant on probation. Upon the reading of the verdict and recommendation, the court provoked a colloquy, during which for a time it looked very much as if some of the jurors would say that they had voted for a verdict of guilty, believing and understanding that the court would be bound by their recommendation as to probation; but nothing the court had said justified any such understanding; and before finally dismissing the jury he took pains to learn that they understood and intended that the recommendation attached to their verdict carried no binding force on the court.
+In this same connection, viz., the appellant’s contention that the jury were coerced into their verdict, it is true that the court did, in urging the jury to reach a verdict, refer to the time consumed in the trial and the large expense incurred therein; but there is nothing in the record which warrants the assertion that the, jury were unduly urged or at all coerced into rendering their verdict against the defendant. The court said nothing to indicate what the verdict should be. Its remarks were fair and guarded, and were made for the commendable purpose of having the jury labor honestly and faithfully to arrive at a verdict if possible, and thus terminate the litigation. This did not constitute error.
+The judgment and order denying defendant’s motion for a new trial are affirmed.
