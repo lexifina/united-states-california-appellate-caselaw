@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2406"
+decided: "1918-04-10"
+citations: ["36 Cal. App. 748"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHERMAN HARDING, Respondent, v. F. H. DAM et al., Appellants."]
+source_url: "https://static.case.law/cal-app/36/cases/0748-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4451107
+---
+
+# Harding v. Dam
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This is an appeal by defendants from an order refusing to vacate a sale of mortgaged premises and a deficiency judgment, and to recall a certificate of sale and an execution, in a foreclosure suit.
+Prior to April 29, 1916, a judgment of foreclosure had been entered against the defendants, and on that date defendant F. H. Dam, contemplating an appeal, and being himself an attorney, wrote to Richard Belcher, attorney for the plaintiff, advising him of his intention to take an appeal from such judgment, and added: “I expect to file my stay bond at the same time that I file my notice of appeal, and in the meantime to bring on a hearing to fix the amount of the stay bond. My understanding is that it was verbally stipulated between us that execution pending the foregoing proceedings will be stayed.”
+This letter was answered by Belcher on May 1, 1916, as follows: “I am in receipt of yours of the 29th, inclosing a copy of order extending time and notice requesting the preparation of transcript of the record. It would be useless of course for me to advertise a sale while- these matters were pending, and I shall not do so.”
+On this same day, May 1st, Dam, evidently not having received this reply to his letter of April 29th, wrote Belcher as follows: “From our verbal understanding in court on the day of the hearing of a motion for a new trial I have been assuming that there is no notice of sale now running in the case of Harding v. Dam, but it just occurs to me that I had better ascertain definitely if such is the fact. If notice of sale is now being published please wire me tomorrow, at my expense, the name of the newspaper and date noticed for the sale, and also please mail me a printed slip containing copy of the notice.” To this letter no reply was deemed necessary, nor was any made, and at the time no notice of sale was being published. Thereafter, on June 2, 1916, upon notice and hearing the court fixed the amount of the undertaking staying execution at two thousand dollars. Twenty-eight days later, on June 30th, no undertaking having been filed by the defendants, the commissioner theretofore appointed by the court commenced the publication of notice of sale, and made a sale of the property on the twenty-fifth day of July, 1916. Plaintiff was the only bidder at the sale, and purchased the property for the sum of nine thousand five hundred dollars. This being two thousand dollars less than the amount of the judgment against the defendants, a deficiency judgment for two thousand dollars was entered at once, whereupon execution was issued and levied upon certain property belonging to the defendants. On August 3d the defendants filed an undertaking on appeal in the amount specified by the court in its order of June 2d. Thereafter, on the fourteenth day of August, 1916, defendants filed an application to set aside the sale of the mortgaged premises and the deficiency judgment, and to recall the certificate of sale and execution. This application was heard, and on the fourteenth day of September the court made an order staying the execution of the judgment, but denying the motion to set aside the sale of the mortgaged premises and the deficiency judgment.
+On this appeal the defendants contend that under the facts narrated they were lulled into a sense of false security by the letter from Belcher, and that the plaintiff bought, the property at a grossly inadequate price.
+Assuming that the application was properly made, it appears plain from the correspondence referred to, we think, that all that Belcher agreed to do at the most was to refrain from proceeding with a sale of the property pending the taking by defendants of the necessary steps to perfect their appeal and the fixing by the court of the amount of a stay bond. Therefore, when, twenty-eight days after the amount of the stay bond had been fixed by the court, no such bond had been filed, and the indebtedness upon which the suit was brought having accumulated during a period of twelve years, during which time no payment by defendants of any kind had been made, the latter were entirely without grounds for anticipating that the plaintiff would voluntarily and without request extend any further courtesy. However that may be, it is certain that plaintiff proceeded strictly within his rights, and the situation of defendants is due entirely to their own inadvertence.
+With respect to the claimed inadequacy of price for which the property was sold, it is true that their contention in this behalf is sustained by the testimony of one of their witnesses; but it is clear that the court did not follow the opinion of this witness, but upon consideration of the facts appearing in the case, among which was the pertinent one that upon a public, advertised sale of the property it brought only the sum of nine thousand five hundred dollars, reached the conclusion that this price was fair and adequate. Its conclusion in this regard is based upon ample evidence, and with it we have no power or disposition 'to interfere.
+The order is affirmed.
+Zook, J., pro tern., and Beasly, J., pro tem., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court June 6, 1918.
