@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3995"
+decided: "1962-01-10"
+citations: ["199 Cal. App. 2d 44"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ROBERT HOOD, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/199/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2315057
+cites_cases: ["108 Cal.App.2d 84", "114 P.2d 11", "13 Cal.Rptr. 472", "157 Cal.App.2d 151", "192 Cal.App.2d 679", "237 P.2d 1", "238 P.2d 158", "268 P.2d 705", "320 P.2d 542", "38 Cal.2d 34", "42 Cal.2d 550", "45 Cal.App.2d 297"]
+---
+
+# People v. Hood
+
+## Majority (TOBRINER, J.)
+
+TOBRINER, J.
+Convicted after trial by jury of the felonies of assault with intent to commit rape (Pen. Code, § 220) and oral copulation (Pen. Code, § 288a) by force and against the victim’s will, appellant now urges an alleged insufficiency of the evidence to sustain the verdict as well as errors in the court’s instructions. Appellant gives us no specific references to the transcript to show in what respects such failure matures. We see no advantage in a detailed narration of the sordid circumstances of the crimes; we shall point out briefly that the evidence amply upholds the verdict and that the court properly instructed, and did not mislead, the jury.
+The attack occurred during the early morning hours of November 15, 1960, when the victim, a 19-year-old girl, a member of the Women’s Army Corps on leave in San Francisco, waited at the Greyhound Depot for her bus. On the pretext of making a phone call for him, appellant induced the girl to accompany him to a ladies lounge on the third floor of the depot. There he threatened to gratify his sexual desires by intercourse; he exposed himself; he tried to force her to copulate orally; he lay upon his victim and attempted intercourse ; he orally copulated the girl’s vagina. In the course of this abhorrent conduct appellant struck the girl; he threatened her with a knife; she resisted, scratching him and screaming. At the end of the episode appellant offered her $20, which she refused; she ran down the stairs, frightened and hysterical.
+Scratches on appellant’s face and stains of semen on the girl’s clothing, the man’s trousers, the couch where the attack occurred and on the floor of the lounge serve as evidentiarycorroboration of the criminal conduct. Appellant neither testified nor offered any evidence on his own behalf.
+The above uncontradicted evidence clearly sustains the verdict. It demonstrates beyond doubt the commission of the charged crimes (People v. Nye (1951) 38 Cal.2d 34, 37 [237 P.2d 1]; People v. Harris (1951) 108 Cal.App.2d 84, 88 [238 P.2d 158]), and depicts a situation far more extreme than that of appellant’s single citation of People v. Mullen (1941) 45 Cal.App.2d 297 [114 P.2d 11]. Moreover, to the extent that the latter case impels proof that the offender must indicate a resolve to use all of his force to commit rape notwithstanding all possible resistance it is no longer followed. (People v. House (1958) 157 Cal.App.2d 151, 155-156 [320 P.2d 542].)
+Appellant’s contentions as to the instructions are equally insubstantial. While, as appellant suggests, “ ‘It is incumbent upon a court in a criminal case to instruct the jury of its own motion, charging them fully and fairly upon the law relating to the facts of the ease’ ” (People v. Baker (1954) 42 Cal.2d 550, 576 [268 P.2d 705]), appellant does not show in what respects the court failed to instruct the jury fully and fairly. (See People v. De Shore (1961) 192 Cal.App.2d 679, 680-681 [13 Cal.Rptr. 472].) Appellant points to no prejudicial error which emanated from failure so to instruct the jury. The record shows neither a request for an instruction that was refused nor an objection to an instruction that was given. Our own study of the instructions demonstrates no error.
+Appellant likewise contends that “ [a]s a whole the instructions given were misleading and confusing to the jury, [and] therefore left the jury uninstructed on the law of the ease.” We find no basis for any such a conclusion. Apparently, however, appellant rests the contention upon the fact that the court later “attempted clarification” of the instructions. The clarification followed a note sent by the foreman of the jury to the court, which read: ‘ ‘ Can I with some doubt in the lady’s testimony be correct in finding the . . . [appellant] guilty on the evidence produced in court, even though I believe there may have been some previous agreement between the both [sic] parties, and I believe the evidence is incomplete to prove her contention? Can I give a guilty verdiet on the evidence produced in court, even though I believe him innocent for other reasons ? ’ ’ The court recalled the jury and explained in further detail, and properly, the meaning of reasonable doubt and its application in a criminal case, stating that the jury should decide the case on the evidence and should not convict on mere surmise or conjecture. Certainly the court’s admonitions were in order.
+Appellant finally contends that the court, when re-instructing the jury after the inquiry by the foreman, “unduly singled out and gave undue prominence [to] the . . . [appellant’s] failure to testify. ...” The reference to the failure to testify, however, constituted but one of many of such reinstructions and was not, in fact, singled out from the others. Appellant made no complaint as to this lately claimed error until after the verdict. The record discloses neither error nor prejudice in this regard.
+We afSrm the judgment and the order denying new trial.
+Bray, P. J., and Sullivan, J., concurred.
