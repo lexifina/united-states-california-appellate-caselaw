@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3205"
+decided: "1919-11-01"
+citations: ["44 Cal. App. 61"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NORTHERN REDWOOD LUMBER COMPANY (a Corporation), Petitioner, v. INDUSTRIAL ACCIDENT COMMISSION et al., Respondents."]
+source_url: "https://static.case.law/cal-app/44/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057649
+cites_cases: ["170 Pac. 625", "177 Cal. 289"]
+---
+
+# Northern Redwood Lumber Co. v. Industrial Accident Commission
+
+## Majority (THE COURT.)
+
+THE COURT.
+The facts of the case are these: Albert C. Lay, an employee of the Northern Redwood Lumber Company, the petitioner herein, was killed while in course of such employment on February 24, 1916. An application for an award was filed by the parents of the deceased on March 10, 1916, against the said employer, no reference being made in the application to the existence of any insurance carrier. The employer filed its answer on March 21, 1916, raising certain issues but not setting up the fact of its insurance. On March 27, 1916, however, the California Casualty Company, which was at the time of said casualty the insurer of the Northern Redwood Lumber Company, 'filed its appearance and answer in the case in its capacity as such insurer, and was thereupon joined as a party defendant. The matter went to hearing before the commission, and its award was entered June 13, 1916, in favor of the applicants and against both the employer and its insurer. No petition for rehearing was filed and nothing further was done in the proceeding except that the insurer made for some period of time the payments which were provided for in said award. On June 30, 1919, three years after the making of said award, the employer made an informal request of the commission for relief from liability upon the award under the provisions of section 30(e) of the Workmen’s Compensation Act (Stats. 1917, p. 859). This informal petition having been denied, a formal petition for such relief was filed, which was also denied, whereupon the "Northern Redwood Lumber Company filed its petition herein for a writ of review as to said last-named order.
+The claim of the petitioner herein is that under the provisions of said section 30(e) of the Workmen’s Compensation Act it was entitled at any time after the entry of said award to present its petition to the commission for release from liability under the terms of said section of the act, and that the commission, upon the showing required to be made under said section, was bound to enter its order for such relief, and had no jurisdiction to make or enter any other order having the effect of denying the right of the petitioner to such relief.
+On the other hand, the respondents herein contend that under section 20(d) of the Workmen’s Compensation Act the commission has no jurisdiction or power to alter or amend in any way a decision or award which has been made by it after the period provided for a petition for rehearing has expired, except that, under the terms of said section 20(d) of said act, it is given continuing jurisdiction to alter or amend its award during a period of 245 weeks from the date of the injury upon the proof or showing of facts occurring after the making of said award and within said last-named period, and that the application of the employer herein for an order altering or amending the award of the commission so as to exclude it from its terms as a judgment debtor thereunder, not having been based upon any new facts occurring since the making of said award, did not bring the case within the limited jurisdiction of the commission as provided in said last-named section.
+We are of the opinion that this contention on the part of the respondents herein must be sustained upon the authority of Georgia Casualty Co. v. Industrial Acc. Com., 177 Cal. 289, [170 Pac. 625], in which case it was held by the supreme court that the jurisdiction of the commission over its awards expired when it denied an application for rehearing thereon, or when the time to make such application had passed, except for the continuing jurisdiction of the commission to alter or amend its awards under section 20(d) of the act, which was confined to cases where the application was predicated upon new facts occurring since the making of the award. In the instant case there are no new facts arising since the making of the award in question upon which the petitioner’s application could be predicated. It was entitled to be relieved of liability under the provisions of section 30(e) of the act at the time it presented its answer before the commission and at the time a hearing was had thereon. It made no such claim at that time nor for a period of more than three years thereafter and after the time for a rehearing had long since expired. The application which the petitioner herein finally made was in effect for an order altering and amending the commission’s judgment and award; and under the authority of the case above cited we are constrained to hold that the commission had no jurisdiction to make the required order.
+It follows that the application herein must be denied. It is so ordered.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 29, 1919.
+All the Justices concurred.
