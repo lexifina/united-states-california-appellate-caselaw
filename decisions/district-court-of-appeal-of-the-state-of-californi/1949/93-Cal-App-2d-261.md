@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 805"
+decided: "1949-08-08"
+citations: ["93 Cal. App. 2d 261"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. IGNACIO REBOLLEDO, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/93/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253383
+cites_cases: ["10 Cal.App.2d 310", "101 P.2d 750", "154 P. 34", "155 P.2d 819", "167 P.2d 243", "176 P.2d 390", "182 P.2d 576", "187 P.2d 741", "194 Cal. 1", "227 P. 156", "25 Cal.2d 848", "28 Cal.App. 766", "31 Cal.2d 184", "38 Cal.App.2d 598", "52 P.2d 251", "73 Cal.App.2d 697", "77 Cal.App.2d 783", "80 Cal.App.2d 745"]
+---
+
+# People v. Rebolledo
+
+## Majority (MUSSELL, J.)
+
+MUSSELL, J.
+Appellant was duly arraigned before a magistrate on charges of violation of section 288 of the Penal Code, and rape accomplished with a girl 10 years of age. At the time of his arraignment an interpreter was present, the complaint was read to appellant, he gave his true name and was informed of his legal rights. The preliminary hearing was set for and held two weeks later, at which time an interpreter was sworn to interpret and did interpret the testimony of some of the witnesses.
+The evidence produced at the preliminary hearing shows that Ramona Tafoola, the prosecutrix, was walking home from school when appellant told her to get into his truck and he would take her home. He drove to some trees where he struck the girl and she lost consciousness. When she recovered some of her clothes had been removed, her dress was bloody and she was injured internally. Soon after the occurrence appellant was caught by Ramona’s grandfather, Pedro, and he told Pedro that he was guilty of attacking the girl. A medical examination disclosed internal lacerations and other injuries.
+Upon this evidence appellant was held to answer for a violation of section 288 of the Penal Code. An information was filed in the superior court charging him with statutory rape and a violation of section 288 of the Penal Code. A motion to set aside the information was denied and appellant was tried and convicted before a jury. He appeals from the judgment and order denying the motion to set aside the information and does not here urge error as to anything occurring at the trial but claims that the judgment should be set aside on the grounds that at the preliminary hearing he was committed without reasonable or probable cause that he had committed a public offense; that he was not advised of the charges against him, of his right to counsel, and of his right to cross-examine witnesses, and finally, he contends that the committing magistrate failed to appoint an interpreter in his behalf.
+It is quite apparent that there was ample evidence at the preliminary hearing from which the magistrate could and did determine that there was reasonable and probable cause that appellant had committed a violation of section 288 of the Penal Code. (People v. McRae, 31 Cal.2d 184, 187 [187 P.2d 741].) In fact it is not here contended by appellant that he did not commit the offense charged or that the verdict of the jury was contrary to the evidence.
+The contention of appellant that he was not advised of charges against him, of his right to counsel and to cross-examine witnesses, is without merit. The record shows that at the arraignment the complaint was read to him through an interpreter and he was informed of his legal rights. It is presumed that when the magistrate advised appellant of his “legal rights” at the arraignment, that he also advised him of his right to the aid of counsel in every stage of the proceedings (Pen. Code, § 858) ; that he was entitled to produce witnesses on his own behalf and to be confronted with the witnesses against him in the presence of the court. (Pen. Code, § 686; Code Civ. Proc., § 1963, subd. 15.) It was not necessary that appellant be represented by counsel at the preliminary examination (People v. Campos, 10 Cal.App.2d 310, 320 [52 P.2d 251]; People v. Greene, 80 Cal.App.2d 745, 748 [182 P.2d 576]), however, he had been advised of that right and was given ample opportunity to secure the services of an attorney if he so desired.
+At the conclusion of the testimony at the preliminary hearing appellant was asked through an interpreter if he wished to testify in his own behalf and his reply was that he would wait until an attorney was appointed.
+Appellant’s final contention that the committing magistrate failed to appoint an interpreter in his behalf is likewise without merit. The record shows that an interpreter was present and sworn, both at the arraignment and the preliminary hearing, and it is not shown that the interpreter failed to perforin his duty. The record indicates that appellant understood what was being said at the preliminary hearing and there is no evidence that he desired at the time to be more fully informed as to his rights. After the testimony at the preliminary examination, he was asked if he had anything to say. Through the interpreter he answered that he was guilty, but not of the act of which he was accused. This answer indicates that he understood the testimony.
+The matter of the appointment of an interpreter is discretionary with the court. (In re Steve, 73 Cal.App.2d 697, 714 [167 P.2d 243].) In the instant case the interpreter was sworn, performed his duty, and was available to defendant at the arraignment and the preliminary hearing.
+As was said in People v. Hinshaw, 194 Cal. 1, 11 [227 P. 156]:
+“A preliminary examination and commitment by a magistrate is required before an information can be filed, and an examination by a grand jury before an indictment, not so much to protect the liberties of the citizen as to protect them from being prosecuted upon slight evidence or mere suspicion, or at the instigation of private malice.”
+In the instant case a trial was had before a jury resulting in the conviction of appellant and no error is claimed to have occurred during the proceedings in the trial. It does not appear that appellant was deprived of any substantial right by reason of the fact that he was not represented at the preliminary hearing by counsel and did not cross-examine the witnesses called by the prosecution. (People v. Turner, 28 Cal.App. 766, 769 [154 P. 34]; People v. Ratterman, 38 Cal.App.2d 598, 601 [101 P.2d 750]; People v. Kelso, 25 Cal.2d 848, 852, 853 [155 P.2d 819].)
+The order denying the motion to set aside the information is not an appealable order but is reviewable on appeal from a judgment of conviction. (Nelson v. Superior Court, 77 Cal.App.2d 783, 784 [176 P.2d 390].)
+The appeal from the order is dismissed and the judgment is affirmed.
+Barnard, P. J., concurred.
