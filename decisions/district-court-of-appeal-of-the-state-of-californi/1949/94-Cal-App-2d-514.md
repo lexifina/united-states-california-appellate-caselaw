@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 17031"
+decided: "1949-11-07"
+citations: ["94 Cal. App. 2d 514"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOULEY BURCHAM, Respondent, v. GENE CAPRIO, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/94/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2255416
+cites_cases: ["107 Cal.App. 325", "190 Cal. 348", "194 Cal. 243", "212 P. 204", "228 P. 25", "290 P. 613"]
+---
+
+# Burcham v. Caprio
+
+## Majority (WILSON, J.)
+
+WILSON, J.
+Appeal by defendant from a judgment in favor of plaintiff.
+Plaintiff is a merchandise broker and defendant is a manufacturer and packer of pickles and relishes. In 1945 and 1946 plaintiff acted as a merchandise broker selling defendant’s products on commission. There was a written contract between the parties whereby defendant agreed to pay plaintiff a commission of 5 per cent on the value of sales made by the latter. The rate of commission was changed by oral agreement from time to time covering individual sales, varying from 6 to 10 per cent. Plaintiff brought this action to recover a balance unpaid for commissions extending over a considerable period of time. Defendant answered denying the material allegations of the complaint and pleaded a counterclaim for damages arising out of alleged negligence on the part of plaintiff concerning the sale of two carloads of pickles and relishes.
+The facts relating to plaintiff’s alleged negligence are as follows: One Frank J. Foley, a merchandise broker of Minneapolis, Minnesota, while in plaintiff’s office in Los Angeles, saw sample jars of defendant’s pickles and relishes; he told plaintiff that Nash-Finch Company of Minneapolis would buy such products if they were up to the standard of the samples which Foley examined; Foley communicated with the vice-president of Nash-Finch Company and was authorized to buy a carload of pickles; Foley placed the order with plaintiff who relayed it to defendant; the latter shipped a carload of pickles to Nash-Finch Company and before the same was delivered that company authorized Foley to secure two additional cars of defendant’s pickles, the same to be according to the specifications that had applied to the first carload; pursuant to such instruction Foley ordered two carloads of pickles from plaintiff and the latter delivered a sales memorandum to defendant covering the order.
+After the latter order had been given Nash-Finch Company began receiving complaints concerning the first carload of pickles and an officer of the company directed Foley to cancel the order for the additional two carloads. Foley sent the order of cancellation to plaintiff and he delivered it to defendant. Defendant accepted the cancellation without protest. Defendant sold the pickles but at a price much less than he would have received under the Nash-Finch Company’s order. Defendant’s claim for damages against plaintiff is based on allegations in his answer and counterclaim that plaintiff fraudulently represented to defendant that the former had sold defendant’s merchandise to Nash-Finch Company; that he had not sold merchandise as represented by him, and that plaintiff wrongfully cancelled the sale of the merchandise without authorization from defendant and wrongfully accepted the cancellation from the purchaser. There is nothing in the record to show any bad faith or fraud on the part of plaintiff. He received the order from Foley who in turn had been authorized by Nash-Fineh Company to place the order. The evidence does not bear out defendant’s allegation that plaintiff had not sold the merchandise but on the other hand shows positively that the sale had been made to Nash-Fineh Company. Nor is the allegation that plaintiff wrongfully cancelled the sale sustained by the evidence. The fact is that plaintiff did not cancel the sale but merely transmitted the cancellation which NashFineh had given to Foley who in turn transmitted it to plaintiff.
+Furthermore the evidence shows that Nash-Fineh Company was justified in cancelling the order for the two carloads of merchandise. Foley testified that while he was in plaintiff’s office in Los Angeles he examined samples of defendant’s pickles and found that they were well cured, crisp, firm and uniform in size. The evidence shows that when the first carload was received by Nash-Fineh it was found that the pickles were not according to sample, were not well cured, “tasted like raw cucumbers,” were not uniform in size and were of ‘ ‘very inferior quality.’’
+Because of the poor quality of the merchandise sent in the first carload Nash-Fineh Company cancelled the order for the other two carloads. There is nothing in the record to negate the evidence that the first shipment was of inferior quality, hence Nash-Fineh Company was justified in cancelling the second order. Furthermore, when defendant received notice of the cancellation he made no protest and accepted it with the statement, “Well, that’s just one of those things, Clyde. We will sell them somewhere else. ’ ’
+Defendant contends that ever since the commencement of his business transactions with plaintiff the contract for commission has been in writing which provided for a 5 per cent commission, and that the amount for which judgment was awarded to plaintiff is excessive for the reason that some of the commissions were for amounts in excess of 5 per cent.
+The evidence is to the effect that the rate of commissions varied with the different sales; that at the time the sales were made defendant made no objection to the additional commissions ; that defendant and plaintiff’s bookkeeper together computed the commissions, and that the percentages were written down and agreed upon between defendant and plaintiff’s sales manager.
+The oral agreements made by the parties for individual sales were not modifications or alterations of the written agreement but were new agreements concerning each separate sale superseding the written contract. (McClure v. Alberti, 190 Cal. 348, 350 [212 P. 204] ; Klein Norton Co. v. Cohen, 107 Cal.App. 325, 331 [290 P. 613]; Treadwell v. Nickel, 194 Cal. 243, 258 [228 P. 25].)
+Judgment affirmed.
+Moore, P. J., and McComb, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied January 4,1950.
