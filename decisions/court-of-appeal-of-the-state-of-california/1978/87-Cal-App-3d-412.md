@@ -1,0 +1,46 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 52738"
+decided: "1978-12-18"
+citations: ["87 Cal. App. 3d 412"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARYLIN MANSDORF, Plaintiff and Appellant, v. CALIFORNIA PHYSICIANS’ SERVICE, INC., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/87/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1994226
+cites_cases: ["119 Cal.App.2d 156", "119 Cal.Rptr. 130", "129 Cal.Rptr. 489", "137 Cal.Rptr. 441", "260 P.2d 156", "44 Cal.App.3d 999", "58 Cal.App.3d 1", "68 Cal.App.3d 811"]
+---
+
+# Mansdorf v. California Physicians' Service, Inc.
+
+## Majority (KINGSLEY, Acting P. J.)
+
+Opinion
+KINGSLEY, Acting P. J.
+Plaintiff appeals from a judgment of dismissal entered after an order sustaining a demurrer to her complaint. We reverse the judgment.
+Plaintiff was a subscriber to a health service plan operated by defendant. The policy issued to her contained an arbitration clause reading as follows:
+“In the event of a dispute between the Subscriber and Blue Shield, with respect to any of the terms, conditions, or benefits of this Agreement, the dispute shall be settled as follows:
+“(1) A dispute concerning the therapeutic justification for any services rendered to the Subscriber shall be resolved by the decision of the appropriate review committee of that medical society which is a component society of the California Medical Association for the geographical area in which such services were provided, or, in the event that such services were provided outside of the State of California, then by such component society in the area where the Subscriber resides or last resided in the State of California.
+“All such disputes shall be settled in this manner before any arbitration proceeding under paragraph (2) below is undertaken by or against Blue Shield.
+“(2) All other disputes, including disputes with respect to the decisions of the medical society reached by such society in accordance with the provisions of Paragraph (1) above, shall be resolved as follows: the Subscriber, by written notice to Blue Shield, shall request that an arbitration proceeding be initiated for the settlement of such disputes in accordance with the Rules of the American Arbitration Association. It is also agreed that judgment upon any award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
+“All such disputes shall be settled in this manner before any action at law is taken by or against Blue Shield.”
+She was injured in an accident and incurred charges for medical bills, hospitalization and nurses’ services. She submitted a claim for those expenses to defendant, which rejected them. Plaintiff then proceeded to arbitration as provided in the policy, receiving an award in her favor in the amount of $7,142. According to her complaint in the present.action, defendant paid to her only $6,999, withholding $125 as her share of the arbitration costs. She then filed the present action alleging bad faith on the part of defendant in refusing to pay her claim or to settle it for a reduced amount. A general demurrer to that complaint was sustained; plaintiff elected to stand on her complaint and the action was dismissed. This appeal followed.
+I
+The complaint before us is long and prolix. Arguably it is subject to attack by special demurrer or motions to strike. However, those defects, if any, are not before us on an appeal after an order that sustained a general demurrer.
+II
+In support of its demurrer, defendant filed a declaration by its counsel that, in effect, denies some of the allegations of the complaint. In a letter to this court dated June 20, 1978, defendant tenders a series of letters which it claims support one of those denials. Both the declaration and the letter are improper for any consideration by us. In an attack by general demurrer, in a trial court, and in this court, the allegations of the complaint must be taken as true and a court may not take notice of facts outside those pleaded, except for facts judicially noticed. None of the matters contained either in the declaration or in the letter are subject to judicial notice. The request that we consider the letter of June 20th is denied.
+III
+The basis for the order sustaining the demurrer, and the ground on which that order is sought to be sustained here, is the contention that plaintiff’s present claim could, and should, have been litigated at the arbitration hearing and, therefore, plaintiff is barred by the doctrine of res judicata. We conclude that, except as to the matter of arbitration costs, that contention is unfounded. However, the fact that the minor item could, and should, have been resolved by an application by plaintiff to enforce the award (which she contends did not impose those costs on her), is not a basis for sustaining a demurrer to a complaint that claims other and more serious damage.
+IV
+The trial court relied, and defendant here relies, primarily on the case of Rios v. Allstate Ins. Co. (1977) 68 Cal.App.3d 811 [137 Cal.Rptr. 441]. That case does not support defendant. While the complaint in that case contained some allegations similar to those before us, the appellate court construed the gravamen of that complaint to be a claim that the defendant there had procured an arbitration award in its favor by what amounted to intrinsic fraud, and held that that conduct could, and should, have been raised by a proceeding under section 1286.2 of the Code of Civil Procedure to vacate the award. Here, plaintiff does not seek to attack the award, but accepts it; her claim here is based on grounds entirely different from that in Rios.
+V
+The actual thrust of defendant’s position is not that section 1286.2 was available to plaintiff, but that she could, and should, have raised before the arbitrator her contention that defendant dealt with her in bad faith in delaying payment and refusing a settlement offer, thus forcing her to go to arbitration with resulting costs and damages. We agree, as defendant argues, that in cases where an insured may sue directly on the policy to enforce a claim under it, such a plaintiff may, and must, join in that action at law, any claim for damages for breach of the implied covenant of good faith. But a rule that requires a litigant to raise, in one action, before a tribunal with jurisdiction to pass on them, all of his claims against a defendant, does not apply to a proceeding before a tribunal which has no jurisdiction over some of those claims.
+Contrary to the contention of defendant, we conclude that, under the arbitration clause before us, the arbitrator had no jurisdiction to consider the present claim that defendant acted in bad faith in its dealings with plaintiff.
+While arbitration is, as defendant argues, a favored mode for the settlement of disputes, arbitration is a matter of contract and an arbitrator may consider only such disputes as are covered by the arbitration clause or by a superseding submission agreement. (Pacific Inv. Co. v. Townsend (1976) 58 Cal.App.3d 1 [129 Cal.Rptr. 489].)
+The arbitration clause herein involved (and we are cited to no other agreement to submit) required arbitration only of “disputes with respect to any of the terms, conditions or benefits of this agreement.” That clause is clearly more limited than the arbitration agreement involved in the cases cited by defendant. In Crofoot v. Blair Holdings Corp. (1953) 119 Cal.App.2d 156 [260 P.2d 156], the parties, after a complicated series of lawsuits, agreed to arbitrate “all issues existing between them and raised by any pleadings served by any of them in any of said actions, other than superseded pleadings, prior to March 10, 1950.” The holding was that such a wide submission agreement brought before the arbitrator all of the matters in dispute between the parties. We are presented here with no such a wide submission. In Berman v. Dean, Witter & Co. Inc. (1975) 44 Cal.App.3d 999 [119 Cal.Rptr. 130], the arbitration agreement covered “any controversy . . . arising out of or relating to this contract.” (Italics added.) The court there held that such a broad arbitration clause covered a dispute over alleged misconduct by the broker involved and was not limited to more limited disputes.
+VI
+Plaintiff points to the final paragraph of the arbitration clause here before us, reading: “All such disputes shall be settled in this matter before any action at law is taken by or against” the defendant. We can construe that provision only as meaning that the disputes, such as were here arbitrated, must be disposed of and eliminated prior to actions at law on disputes not included within the opening language of the arbitration provision. Plaintiff has complied with that requirement. She has arbitrated, and has accepted an award, dealing with the only dispute to which the arbitration provision applies; she now, as the provision itself contemplates, seeks to settle another, and quite different dispute, not involving the terms, conditions or benefits of the agreement.
+The judgment is reversed.
+Jefferson (Bernard), J., and Alarcon, J., concurred.
