@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11597"
+decided: "1941-01-07"
+citations: ["42 Cal. App. 2d 326"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUIS ETS-HOKIN et al., Petitioners, v. APPELLATE DEPARTMENT OF THE SUPERIOR COURT OF THE CITY AND COUNTY OF SAN FRANCISCO et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/42/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4552891
+cites_cases: ["131 Cal. 639", "201 Pac. 961", "54 Cal. App. 285", "63 Pac. 1017", "82 Am. St. Rep. 400"]
+---
+
+# Ets-Hokin v. Appellate Department
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+This is an original proceeding in certiorari in which the petitioners seek the annulment of the proceedings of the respondent court on a certain appeal from a judgment of the municipal court.
+In a replevin action in the municipal court, petitioners herein obtained a judgment against Trebor Corporation for the recovery of possession of certain personal property or the sum of $325 in case delivery thereof could not be had, together with $50 damages and costs. Trebor Corporation took an appeal to the respondent court, which court reversed the judgment and thereafter denied a petition for a rehearing.
+The respondent court filed its opinion which read in part: “Respondents’ contention that the judgment has been satisfied is without merit on this appeal. There is nothing in the record on appeal which discloses this to be a fact, but counsel for appellant admitted in the oral argument that the judgment had been paid involuntarily and after a writ of execution had been issued. We have no way of determining this question in the record. If the payment was voluntary the appeal would be dismissed upon motion, if involuntary the motion to dismiss would be denied.” (Italics ours.)
+In the petition herein, petitioners purported to set forth said portion of the opinion but in doing so they misquoted said opinion. The word “voluntarily” was substituted for the word “involuntarily”. This court ordered the writ to issue but when the return was filed, the error in the petition became apparent. As indicated in the opinion of the respondent court, the record on appeal from the municipal court did not disclose to the respondent court that there had been any satisfaction of judgment, voluntary or involuntary. No motion to dismiss the appeal was made and the issue of whether there had been a voluntary or involuntary satisfaction of the judgment was never presented to the respondent court. All that was before the respondent court was the admission of appellant made on oral argument that the judgment had been paid involuntarily. Petitioners now seek to have the proceedings of the respondent court annulled upon the theory that the appellant had voluntarily paid the judgment ; that such payment had terminated the litigation; and that the respondent court thereafter was without jurisdiction to hear and determine the appeal.
+We find nothing to justify this court in holding that the respondent court was without jurisdiction. The satisfaction of a judgment does not in all cases terminate the litigation and deprive an appellant of his right of appeal. (Levin v. Saroff, 54 Cal. App. 285 [201 Pac. 961] ; Warner Bros. Co. v. Freud, 131 Cal. 639, 646 [63 Pac. 1017, 82 Am. St. Rep. 400].) And if it is claimed that there has been a satisfaction of judgment under such circumstances as to deprive an appellant of his right of appeal, the issue should be presented by way of a motion to dismiss the appeal in the appellate tribunal in which the appeal is pending. If no such motion is made, we do not believe that any other court would be justified in holding, in a proceeding in certiorari, that such appellate tribunal was without jurisdiction to hear and determine the appeal.
+Petitioners make the further contention that the respondent court was not legally constituted at the time of hearing said appeal. Reference is made to sections 77a and 77b of the Code of Civil Procedure providing for a department to be known as the “Appellate department of the superior court” to consist of “three judges . . . one of whom shall be designated by the chairman of the judicial council as the presiding judge . . . ”. In this connection, petitioners state that there were but two judges participating on the appeal, and that neither of said two judges was a judge designated by the chairman of the judicial council as the presiding judge. We find no merit in petitioners’ contention. Said section 77b provides that1 ‘ The presence of two judges of such department shall be necessary to transact any business . . . ” thereb)'- implying that the presence of two judges is sufficient for that purpose. The portion of said section which provides that the presiding judge “may convene the court at any time” does not prevent the convening of the court by an acting presiding judge during the absence of the regularly designated presiding judge.
+Finally petitioners contend that they were deprived of the right to argue their petition for rehearing. They point to Rule 7 of the rules prescribed by the judicial council for procedure in the appellate departments of the superior court. It is a sufficient answer to this contention to state that if it be assumed that the petition for rehearing was not placed upon the calendar for hearing, this was at most a mere irregularity in the procedure which did not affect the jurisdiction of the court.
+The judgment of the respondent court reversing the judgment of the municipal court and the order of the respondent court denying a rehearing are affirmed.
+Nourse, P. J., and Sturtevant, J., concurred.
