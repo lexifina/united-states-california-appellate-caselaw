@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5133"
+decided: "1926-02-19"
+citations: ["76 Cal. App. 565"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. H. COOMBS, Petitioner, v. INDUSTRIAL ACCIDENT COMMISSION and OLIVER J. MUSLAND, Respondents."]
+source_url: "https://static.case.law/cal-app/76/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2242489
+cites_cases: ["163 Pac. 341", "170 Pac. 823", "171 Pac. 954", "177 Cal. 738", "196 Cal. 593", "233 Pac. 392", "238 Pac. 662", "32 Cal. App. 502", "70 Cal. App. 495"]
+---
+
+# Coombs v. Industrial Accident Commission
+
+## Majority (YORK, J.)
+
+YORK, J.
+The only questions raised in support of the allegations of the petition for a writ of review herein are questions that involve the sufficiency of the evidence to sustain the findings. We cannot, of course, consider the affidavits in re the stipulation made at the hearing before the referee, as the record of this matter before us cannot be so made up or so changed.
+The evidence of the claimant was that he was not injured in a ball game as several witnesses have stated that he had told them. He denied having ever stated this. He further testified that he first noticed the injury to his knee but a few days before he quit work; that it was a gradual swelling, not the result of a sudden injury but rather the effect of kneeling and putting more weight on the injured knee than on the other, necessarily caused, he stated, by the position he had to assume in the process of finishing cement work, which was the work which he was employed by the employer to do. This constituted a compensable injury. (Subd. 4 of section 3 of the Workmen’s Compensation, Insurance and Safety Act of 1917, as amended, Stats. 1919, p. 911; Deering’s Gen. Laws, 1923 ed., Act 4749.)
+In Walker v. Industrial Acc. Com., 177 Cal. 738 [L. R. A. 1918F, 212, 171 Pac. 954], the supreme court says: “Our authority, with respect to the commission’s conclusions on questions of fact, goes no further than to permit the annulment of an award where the commission’s finding of a fact is without any evidence whatever to support it. Where there is a conflict in the testimony, or where opposing inferences may reasonably be drawn, the commission is the final arbiter.” In the case of Southern Pacific Co. v. Industrial Acc. Com., 177 Cal., page 380 [170 Pac. 823], the supreme court says: “This court, in reviewing awards of the commission, is not acting as a court of appeal. It has no power to weigh the effect of positive evidence. It must assume that the commission believed all the evidence given which tends to sustain the award made. Likewise the court has no power to annul an award because the findings are inconsistent.”
+In quoting from Dr. Hagan’s certificate of September 17, 1925, the petitioner herein omits from each reference to the same the word ‘ apparently, ’ ’ and makes such statement out as an unequivocal statement of positive fact. Quoting from the brief of respondent Industrial Accident Commission, page 15, we adopt the following: “The findings of fact of April 7, 1925, state that the employer was liable for the medical expense, the amount to be determined by supplemental proceedings. The award omits allowance of medical expenses for this reason. The award therefore is not subject to annulment. Whether a finding of fact can be annulled where the award is not involved is doubtful, as Sec. 67, referring to review by the courts, provides only for review of orders, rules, regulations, decisions and awards, and not findings of fact which are expressly made not subject to review.
+“ Furthermore, in the petition for rehearing filed by Coombs with respondent Commission, no contention is made of error with respect to the finding of medical expense. The illegality was therefore waived and cannot now be raised. (Savercool’s case, Great Western Power Co. v. Industrial Acc. Com., 196 Cal. 593 [238 Pac. 662]; section 64(c), Workmen’s Compensation Act.)
+“ On May 26, 1925, respondent Commission made a supplemental award for medical expense. No petition for rehearing has been filed by petitioner challenging this order, and the supplemental award would seem therefore to have become final (Sec. 64(c), 65(a)).”
+The record shows that the following stipulation was entered into in the presence of the parties: “1. That at said time the actual daily earnings of the employee were $6, for employment six days a week, and that the average weekly earnings may be computed upon that basis.”
+As to the third proposition raised by the petitioner, the question is covered by the case of Moore Shipbuilding Co. v. Industrial Acc. Com., 70 Cal. App. 495 [233 Pac. 392, 393], There is no evidence in this matter to show any fact as to any part or portion of the injury suffered by respondent Musland having occurred or having been contributed to by any prior employment. The only evidence which we have is the evidence of Musland as to the fact that he first noticed the injury coming on a few days before he quit his employment. As a matter of fact the petitioner herein contends that the injury occurred on the day after he quit his employment, in a ball game, which would probably of itself dispose of any such contention. Therefore it would have been beyond the power of the Commission to make any award to be distributed in proportion among any other employers and for whom the applicant may have theretofore worked. As to the length of time that Musland worked there was a conflict as to that, but the total period under any way of figuring was more than ten days, as claimed in the third paragraph of petitioner’s points and authorities.
+As to the question of the Commission losing jurisdiction for failing to make the award within thirty days, we hold that section 20(a) of the Compensation Act is directory only.
+On writ of review the record of the proceedings in the lower tribunal must be ascertained wholly from the record as shown by the return to the writ, except that in a proper case an amended or supplementary return might be required. (Bryant v. Board of Supervisors, 32 Cal. App. 502 [163 Pac. 341].)
+As there are sufficient facts in evidence, or shown by the stipulation, to sustain each and every one of the findings of the Commission, the award is affirmed.
+Conrey, P. J., and Houser, J., concurred.
