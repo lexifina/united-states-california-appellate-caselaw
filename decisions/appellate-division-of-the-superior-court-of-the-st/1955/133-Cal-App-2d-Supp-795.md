@@ -1,0 +1,29 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 8696"
+decided: "1955-05-24"
+citations: ["133 Cal. App. 2d Supp. 795"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH O. DARCY, Appellant, v. H. E. MURRAY COMPANY (a Partnership), Respondent."]
+source_url: "https://static.case.law/cal-app-2d/133/cases/Supp. 795-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035380
+cites_cases: ["152 P.2d 1003", "155 A.L.R. 1319", "169 P.2d 633", "202 P.2d 569", "25 Cal.2d 1", "28 Cal.2d 276", "90 Cal.App.2d 52"]
+---
+
+# Darcy v. H. E. Murray Co.
+
+## Majority (BISHOP, J.)
+
+BISHOP, J.
+Had the plaintiff demanded findings of fact, it is possible that he would now find himself in a position to contend that the basis for the adverse judgment was the trial court’s conclusion that the plaintiff was properly discharged because of his preparation for his future activities. (We are inclined to the view that the plaintiff had a right to look ahead and take action by way of preparation.) Findings were not requested, however, and assuming, as we should (Estate of Rule (1944), 25 Cal.2d 1, 10 [152 P.2d 1003, 155 A.L.R. 1319]), that the trial court reached every conclusion, essential to the judgment, that is supported by the evidence, we find a basis for the judgment other than plaintiff’s preparations to be defendant’s rival.
+The plaintiff sought judgment for a month’s wages (etc.) that he had been prevented from earning, although he alleged himself to be ready, willing and able to do so. “The case was tried on the theory,” we read in the settled statement on appeal, “that the pleadings establish a prima facie case entitling plaintiff ... to recover.” The issues to be tried, on this theory, must have been the defenses. We find it alleged in the answer that the contract of employment “provided, among other things, that plaintiff would devote his entire time and energy to the furtherance of the business of defendant ...” Strangely enough, this was not followed by an allegation that the plaintiff had not devoted his entire time and energy to defendant’s business, but evidence .was received, apparently without objection, that for a period of three months prior to his discharge the plaintiff had been absent from his duties on many occasions, the defendant not knowing his whereabouts nor how to get in touch with him. The plaintiff offered (and should have been permitted) to prove that he was never absent because of his preparations to go into his own business, but he neither disproved nor attempted to deny that he had frequently been absent from his duties, nor did he offer any explanation of his absences (and the error noted was not prejudicial). We have here a ground for discharging plaintiff that is both tenable and comes within the reason given him, “that he was engaging in activities which interfered with [his] ability to work and perform his services for [the defendant].” True, this ground is not clearly set forth in defendant’s answer as a reason for his discharge, yet the foundation was laid for it, as we have noted, and it is not a material variance, as defined in section 469, Code of Civil Procedure. (See Genger v. Albers (1949), 90 Cal.App.2d 52, 55 [202 P.2d 569].) Moreover, not having been raised at the trial, any possible claim of variance has been waived. (Colbert v. Colbert (1946), 28 Cal.2d 276, 281 [169 P.2d 633].)
+The judgment is affirmed.
+Shaw, P. J., concurred.
+
+## Dissent (SWAIN, J.)
+
+SWAIN, J.
+I dissent. The majority opinion affirms the judgment on the ground that plaintiff was absent from work at unspecified times in September, October and November, 1953, without explanation, and that this supports an implied finding that he was discharged for that reason. The record does show (Settled Statement, pp. 1, 2, 20 et seq.) that during September, October and November, 1953, appellant was absent from his duties on many occasions without explaining his absence. However, it does not show that this was a cause of his discharge. The answer alleges only two grounds for the discharge, (1) “that plaintiff was negotiating for the purchase and, in fact, completed the purchase of a plumbing business, which business was in competition with defendant’s business” (Par. II of Second Defense), and (2) that plaintiff “secured information of a confidential nature belonging to defendant for the purpose of using said information when plaintiff was engaged in the operation of his own business” (Par. V of Second Defense). Nowhere does the answer allege that plaintiff was discharged because of unexplained absences in September, October and November. Furthermore, the evidence does show the true cause of discharge, viz. (Settled Statement, pp. 1, 3, 16 et seq.), that defendant learned on November 27, 1953, of plaintiff’s contemplated purchase of the competing business and “. . . on the 28th day of November, 1953, respondent notified appellant that his services were no longer needed or desired because of the fact that he was engaging in activities which interfered with appellant’s ability to work and perform his services for respondent.” Those activities were, obviously, the ones just discovered; absence is not an activity. There is no evidence to support the alleged second ground of defense that plaintiff was discharged because he had secured confidential information. There is evidence (Settled Statement, pp. 1, 2, 27 et seq.) that -“appellant moved from respondents’ place of business a large brief case, the contents of which were not disclosed to respondents” but there is no evidence that the suitcase contained confidential information. The court’s error, in holding that mere negotiations for purchasing the competing business was ground for discharge, was prejudicial. I would reverse the judgment.
