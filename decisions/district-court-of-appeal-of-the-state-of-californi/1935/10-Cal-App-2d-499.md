@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5247"
+decided: "1935-12-05"
+citations: ["10 Cal. App. 2d 499"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. C. LOEGERING, Appellant, v. ALBERT E. BOSSEN et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/10/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269365
+cites_cases: ["51 Pac. (2d) 167"]
+---
+
+# Loegering v. Bossen
+
+## Majority (MAXEY, J., pro tem.)
+
+MAXEY, J., pro tem.
+Plaintiff was engaged in the hog business near Sacramento, California, and in May, 1927, purchased a contract from Robert Barberro (sometimes known as “Smokey” Barberro), to the garbage or swill business in Marysville, California. Shortly thereafter, and in June, 1927, plaintiff entered into negotiations with Arthur Gorwood, a real estate broker in the city of Marysville, for the purchase of certain real property owned by defendants in Yuba County, California. Gorwood was admittedly the agent of defendants in the transaction.
+Gorwood showed plaintiff several parcels of land, including the 35-acre tract which is the subject of this action. This land was somewhat peculiarly situated, and the physical characteristics thereof suited plaintiff’s purpose as a hog ranch. The agent informed the plaintiff that the price per acre of said tract was $250. Plaintiff then requested a reduction in price as to a portion of the land, and this request was acceded to by the defendants. An agreement of sale and purchase was entered into between the parties on June 20, 1927. The plaintiff moved onto the premises and improved them by the erection of a house, outbuildings, sheds and cor! rals. He further improved the land by leveling a portion thereof and planting crops thereon.
+On July 17,1927, plaintiff returned to Gorwood’s office and entered into a contract to purchase ten additional acres adjoining the 35-acre tract originally purchased by him. Plaintiff paid the interest due upon both contracts and also paid the taxes on both pieces of property until on or about July 1, 1935. On or about the latter date plaintiff offered to return the 10-acre tract to defendants in consideration of the release of liability under the contract of purchase and sale of said 10-acre tract. This proposal was accepted by defendants.
+Plaintiff had made some payments on the principal due under the terms of the original contract, but was in arrears in such payment in October, 1932. Plaintiff at that time requested defendants to modify the said original contract and release him from liability thereunder by excluding all of the land excepting 12 acres thereof upon which his buildings were located, and further requested the defendants to accept the sum of $1,000 as the entire purchase price of said 12 acres. This proposal was rejected by defendants, and upon plaintiff’s failure to pay the amount due under the contract, defendants commenced a suit in ejectment against plaintiff which resulted in his being removed from the premises.
+Thereafter plaintiff sought to enter into another contract, with defendants for the purchase of said land, or that defendants lease said land to plaintiff, and, upon defendants’ refusal so to do, plaintiff commenced this action for damages for alleged fraud and misrepresentation made by Gorwood as the agent of defendants in the sale of the land in June, 1927. The cause was tried by the court without a jury, and, from a judgment in favor of defendants, plaintiff has appealed.
+Defendants have affirmatively pleaded laches and the statute of limitations, in addition to a general and categorical denial of the allegations of the complaint. Plaintiff relied upon certain statements of the agent made on or immediately prior to the making of the contract which are alleged to be fraudulent, and certain alleged fraudulent concealments with reference to the quality and quantity of the land. The learned trial court found that no fraudulent representations nor concealments were made by defendants’ agents at the time of, or immediately prior to the execution of the contract of sale and purchase.
+Appellant contends by this appeal that the evidence is insufficient to support the findings of the trial court.
+There is a direct conflict in the testimony relative to the statements, representations and actions of the agent Gorwood, at or immediately prior to making the contract between plaintiff and defendants. Where such a question is raised, it is our duty to examine the record to see if there is any substantial evidence to support the findings of the trial court. In the instant case, the trial court was justified in reaching its conclusion; there is ample evidence in the record to support its findings and decision. (Melvin v. Mortgage Guarantee Co., ante, p. 69 [51 Pac. (2d) 167].)
+The plaintiff entered upon this property in 1927; lived on the land for five years; worked and farmed the land for that period of time; was in contact with defendants and their agent constantly during all these years, and had ample time to ascertain the truth or falsity of any statement made concerning the land, yet he sat idly by and did absolutely nothing with reference to his alleged claim for damages until defendants had ejected him for failure to comply with his contract. No complaint, either verbal or written, was ever made to defendants; no demand was ever made upon them; no suggestion of any dissatisfaction until after plaintiff had been dispossessed of the land and premises. One cannot be permitted under such circumstances to come into court and after such a delay, maintain an action for damages for fraud that could have been and would have been discovered previously had any such a fraud existed. Plaintiff has slept on any rights he might have had in not raising his present objection at an earlier date. One who resides upon land, cultivates and improves the same land for a period of five years, cannot then, upon failure to comply with his contract of purchase, claim damages for alleged fraudulent representations and concealment.
+The judgment is affirmed.
+Pullen, P. J., and Thompson, J., concurred.
