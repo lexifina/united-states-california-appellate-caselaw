@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 48543"
+decided: "1977-05-31"
+citations: ["70 Cal. App. 3d 260"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FERMIN LUJAN, Plaintiff and Appellant, v. ROBERT P. GORDON et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/70/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4706804
+cites_cases: ["108 Conn. 40", "118 Cal.Rptr. 184", "12 Idaho 299", "128 Cal.Rptr. 19", "13 Cal.3d 43", "13 S.W. 87", "142 A. 391", "16 Cal.3d 432", "18 Cal. 83", "199 Cal. 15", "239 Ala. 396", "247 P. 894", "529 P.2d 608", "546 P.2d 307", "65 A.L.R.3d 878", "99 Mo. 559"]
+---
+
+# Lujan v. Gordon
+
+## Majority (FILES, P. J.)
+
+Opinion
+FILES, P. J.
+This case raises the issue whether an action for malicious prosecution may be maintained against a person who had no part in the commencement of the action, but who participated in it at a later time. Although the cases in point are sparse, they indicate that liability may be imposed against such a person.
+The appeal is from an order dismissing the action as. to two defendants only, after their general demurrer to the second amended complaint had been sustained with leave to amend, and plaintiff declined to amend. The complaint alleges in effect that on December 14, 1965, an attorney named Jacoves maliciously and without probable cause brought civil action number C 874533, on behalf of Fiore against the party who is plaintiff here, which action terminated in favor of the latter on December 3, 1974. It is also alleged that on June 28, 1973, defendants Gordon, Lipstone and Jacoves were members of a law firm and at all times thereafter “defendant Ira Jacoves acted as the agent of Gordon,' Lipstone & Jacoves with respect to the matters alleged herein, and within the course and scope of his agency.”
+It is not disputed that the allegations of the complaint state a cause of action against Jacoves and Fiore. (See Bertero v. National General Corp. (1974) 13 Cal.3d 43, 50 [118 Cal.Rptr. 184, 529 P.2d 608, 65 A.L.R.3d 878].)
+The allegation that Jacoves acted as the agent of Gordon and Lipstone is a statement of ultimate fact which is sufficient to charge Gordon and Lipstone with whatever Jacoves did after June 28, 1973. (See Skopp v. Weaver (1976) 16 Cal.3d 432, 437 [128 Cal.Rptr. 19, 546 P.2d 307].)
+Defendants assert that the superior court took judicial notice of its file in the action of Fiore v. Lujan, case number C 874533, and they ask this court to do the same to establish that as a matter of law Jacoves and Fiore were not agents of Gordon and Lipstone. What defendants rely upon is that file number C 874533 shows the complaint was filed by Jacoves alone as attorney for Fiore, and there is no substitution of attorneys as required by Code of Civil Procedure sections 284 and 285 substituting the firm of Gordon, Lipstone. & Jacoves in place of Jacoves. The file does contain a number of documents filed on behalf of Fiore carrying above the caption the name of “Law Offices Gordon, Lipstone & Jacoves” as “attorneys for plaintiff.” Whether Jaco ves was in fact the agent of Gordon and Lipstone is a matter which cannot be determined as a matter of law simply by looking at the pápers in the court file.
+We therefore turn to the question whether the alleged participation of Gordon and Lipstone commencing June 28, 1973, may subject them to any liability.
+Dreux v. Domec (1861) 18 Cal. 83, was an appeal from a judgment for damages against three defendants who allegedly had instigated the prosecution of plaintiff upon a false charge of assault to murder. The answer alleged that the defendants did not prosecute plaintiff any farther than to give testimony before the grand jury and the court in obedience to subpoenas. The statement of facts indicates that two of the defendants had appeared before a justice of the peace and sworn to a complaint against the plaintiff, but there is no mention of any evidence that the third defendant, Carmel, had anything to do with the prosecution except that he had been paid by one of the others to testify, and he had testified. The trial court instructed the jurors in effect that if they believed from the evidence that the defendants, knowing of the plaintiff’s innocence, had falsely testified against him before the committing magistrate, the grand jury and the trial court, a verdict might be returned against defendants notwithstanding that they were under subpoena.
+The opinion of the Supreme Court approved the instructions and affirmed the judgment. Although the opinion does not discuss any distinction between the two who swore to the original complaint and the third who supported it by testimony, the effect of the approved instruction was to impose liability upon one who had not taken part until after the commencement of the prosecution.
+Courts of other states which have passed upon the issue have held that a person who aids and abets a malicious prosecution after someone else has commenced it may be held liable. (See Laney v. Glidden Co. (1940) 239 Ala. 396 [194 So. 849]; Fusario v. Cavallaro (1928) 108 Conn. 40 [142 A. 391]; Russell v. Chamberlain (1906) 12 Idaho 299 [85 P. 926]; Finley v. St. Louis Refrigerator Co. (1890) 99 Mo. 559 [13 S.W. 87].)
+There can be no doubt that the continuation of a malicious prosecution beyond the initial act of instigation may inflict additional damage upon the victim, as the Supreme Court noted in Ray Wong v. Earle C. Anthony, Inc. (1926) 199 Cal. 15 [247 P. 894], In that case the plaintiff alleged that the defendant had maliciously caused a criminal complaint to be filed in Sacramento Coiinty, resulting in his being arrested and jailed in San Joaquin County. The issue on appeal was “where . . . liability arises” for venue purposes under what was then article XII, section 16, of the state Constitution. The defendant’s contention was that it was the instituting of the criminal proceeding which controlled. The court rejected that view, stating at pages 18 and 19; “The term ‘prosecution’ is sufficiently comprehensive to include every step in an action from its commencement to its final determination. . .. Since the defendant is liable, if at all, for the damage caused by every step regularly taken in the prosecution of the plaintiff, it is liable for the injury naturally resulting from the arrest and imprisonment of plaintiff in San Joaquin County. That liability, which is a part of the cause of action, arose in San Joaquin County.”
+There does not appear to be any good reason not to impose liability upon a person who inflicts harm by aiding or abetting a malicious prosecution which someone else has instituted. Indeed, the obvious justice of the principle may weU explain why appellate courts have so rarely been called upon to discuss it.
+The judgment is reversed.
+Dunn, J., and Jefferson (Bernard), J., concurred.
+A petition for a rehearing was denied June 14, 1977.
