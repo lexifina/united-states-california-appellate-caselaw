@@ -1,0 +1,59 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B047921"
+decided: "1990-06-11"
+citations: ["221 Cal. App. 3d 79"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED SERVICES AUTOMOBILE ASSOCIATION, Petitioner, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent; ELEANOR ANN COMPTON, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/221/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6036246
+cites_cases: ["108 Cal.Rptr. 581", "134 Cal.Rptr. 318", "161 P.2d 449", "191 Cal.App.3d 1465", "236 Cal.Rptr. 703", "26 Cal.2d 809", "32 Cal.App.3d 947", "64 Cal.App.3d 252"]
+---
+
+# United Services Automobile Ass'n v. Superior Court
+
+## Majority (KLEIN, P. J.)
+
+Opinion
+KLEIN, P. J.
+Defendant and petitioner United Services Automobile Association (US A A) seeks a writ of mandate directing the respondent superior court to enter a declaratory judgment in its favor on plaintiff and real party in interest Eleanor Ann Compton’s (Compton) action to enforce an insurance policy provision for trial de novo following an underinsured motorist arbitration.
+The issue presented is whether an insurance policy provision for trial de novo after an underinsured motorist arbitration conflicts with statute and violates public policy.
+Because such provision conflicts with statute it is unenforceable, irrespective of whether it is the insurer or insured which is seeking trial de novo. We therefore direct the issuance of a writ of mandate.
+Factual And Procedural Background
+Compton was insured by USAA under an automobile policy which included $300,000 in underinsured motorist coverage. The policy period was February 22, 1987, to August 22, 1987. On July 6, 1987, Compton was involved in an automobile accident. An underinsured motorist arbitration was held and on July 11, 1989, the arbitrator found damages in the amount of $100,000, less $15,000 received from the opposing motorist, for a net award of $85,000. On July 27, 1989, pursuant to the policy, Compton filed a demand for trial de novo, by jury.
+On May 6, 1987, during the policy period and two months before the accident, Division One of the Fourth District filed its opinion in Chrisman v. Superior Court (1987) 191 Cal.App.3d 1465 [236 Cal.Rptr. 703]. It held a policy provision allowing for trial de novo after an underinsured motorist arbitration was invalid on the ground it conflicted with Insurance Code section 11580.2, subdivision (f), which requires arbitration of underinsured motorist claims. (Id., at pp. 1468-1469.)
+As a consequence, USAA contended the $85,000 arbitration was binding and final. Compton then brought the subject declaratory relief action, seeking a declaration that the trial de novo provision in the policy was valid. Relying on Chrisman, USAA filed a motion for judgment on the pleadings.
+The matter was heard on November 30, 1989, and submitted. On December 4, 1989, the respondent court denied USAA’s motion for judgment on the pleadings. The minute order states: “I am persuaded by plaintiffs argument that the purpose of Section 11580.2 . . . is to protect the insured from being taken advantage of by the carrier, [fl] It was not designed to shield the carrier when the plaintiff asserts rights expressly and voluntarily granted in the policy and for which the insured has paid an additional premium.”
+USAA then brought the instant petition for writ of mandate. We issued an alternative writ.
+Contentions
+USAA contends: (1) the de novo provision is void and unenforceable because underinsured motorist claims must be resolved by binding arbitration; and (2) a void and unenforceable provision of an insurance policy cannot be unilaterally applied against an insurer.
+Discussion
+1. Provision for trial de novo following underinsured motorist arbitration unenforceable by either party.
+Section 11580.2, subdivision (a) requires that a policy of bodily injury liability insurance contain a provision for uninsured motorist coverage, unless the provision is waived as provided in the section.
+Subdivision (f) of section 11580.2 states: “The policy or an endorsement added thereto shall provide that the determination as to whether the insured shall be legally entitled to recover damages, and if so entitled, the amount thereof, shall be made by agreement between the insured and the insurer or, in the event of disagreement, by arbitration.”
+Based on section 11580.2, subdivision (f), Chrisman, supra, 191 Cal.App.3d at pages 1468-1469, held invalid a policy provision for trial de novo following an underinsured motorist arbitration on the ground such provision contravened the statute.
+Chrisman rejected the insurer’s argument that the de novo clause was equally advantageous to both the insured and the insurer, finding “the potential advantage to an insured who has obtained an arbitration award in excess of minimum insurance requirements appears remote compared to its utility to the insurer.” (Chrisman, supra, 191 Cal.App.3d at p. 1469.) Chrisman thus echoed the opinion of Eisler, who observed that if such clauses were upheld, insurers would readily move for trial de novo whenever an insured obtained an award in excess of the $15,000/$30,000 limits required under the Financial Responsibility Law. (Veh. Code, § 16430; 1 Eisler, Cal. Uninsured Motorist Law (4th ed. 1989) § 1.80, p. 1-52.)
+In holding the de novo clause unenforceable, Chrisman reasoned an arbitration award may be vacated only on the limited grounds specified in Code of Civil Procedure section 1286.2, and further, that trial de novo “thwarts the statutory benefits of finality and avoidance of costly time consuming judicial involvement in attempting to recover benefits from one’s own insurer.” (Chrisman, supra, 191 Cal.App.3d at p. 1469.)
+Thus, while in Chrisman it happened to be the insurer which was seeking trial de novo, the respondent court erred in finding that distinction to be a meaningful one. Chrisman’s rationale, which is based on the limited grounds for reviewing an arbitration award and on the statutory benefits of expeditiously resolving an underinsured motorist claim, precludes enforcement of such policy provisions for trial de novo irrespective of the identity of the party seeking to relitigate the matter.
+2. Compton’s remaining arguments.
+Compton argues that section 11580.2 provides a mandatory minimum level of uninsured motorist coverage which every policy must contain by law, but the statute cannot be read to allow only the minimum coverage and no more. It therefore follows, according to Compton, that while section 11580.2 requires at a minimum that the policy provide for arbitration, the statute cannot be read to bar a policy providing for an additional right of trial de novo.
+It is settled that a policy may grant benefits to an insured in excess of the coverage which is required by section 11580.2. (Lumberman’s Mut. Cas. Co. v. Wyman (1976) 64 Cal.App.3d 252, 257 [134 Cal.Rptr. 318]; McKinney v. Farmers Ins. Exch. (1973) 32 Cal.App.3d 947, 949 [108 Cal.Rptr. 581].) In this regard, Lumberman’s discussed an exclusion of coverage in the event of a settlement or judgment without the insurer’s consent. (Lumberman’s, supra, at pp. 257-259.) Similarly, McKinney dealt with an exclusion of coverage for an insured while occupying an owned vehicle, unless the occupied vehicle were an insured vehicle. (McKinney, supra, at pp. 948-949.)
+Here, however, the issue is not one of scope of coverage under the policy, but rather, a procedural question as to whether trial de novo may be had. Accordingly, the above authorities do not support Compton’s argument that the instant de novo clause was simply a policy benefit in excess of the mínimums dictated by section 11580.2..
+Compton also contends that at the time she purchased the policy she believed she had a right to trial de novo, while US A A was aware of Chris-man and intended to invoke that decision at some later time to evade a provision which it had included in the policy. Compton’s argument that US A A acted in bad faith flies in the face of the record. As indicated, the instant policy was issued on February 22, 1987, over two months prior to the filing of Chrisman on May 6, 1987. (Chrisman, supra, 191 Cal.App.3d at p. 1465.) It is doubtful US A A could have been so prescient as to anticipate Chrisman’s holding at the time it issued said policy.
+a. No grounds for leave to amend.
+Lastly, Compton requests that if this court is inclined to issue a writ, it would be inappropriate to direct the respondent court to enter judgment on the pleadings without leave to amend because this is USAA’s initial attack on the pleading. While this may be USAA’s first challenge to Compton’s allegations, the operative pleading is a first amended complaint. Further, the defect in the pleading has been called to Compton’s attention from the outset (see MacIsaac v. Pozzo (1945) 26 Cal.2d 809, 816 [161 P.2d 449]), because the validity of the de novo clause always has been the pivotal issue.
+Compton submits leave to amend is in order for the additional reason that the named insured under the policy is Bryan Compton, an Alabama resident, which raises an issue as to the possible applicability of Alabama law.
+US A A responds that Compton has failed to indicate any reason why Alabama law should apply or that Alabama law differs from that of California.
+Our review of the exhibits discloses Compton asked USAA to admit (1) it entered into the policy for a 1984 Honda Civic which was to be “principally garaged” in Playa Del Rey, California, and (2) it had no evidence to support a contention the vehicle was “principally garaged” outside California. Further, the subject policy provides said Honda is “principally garaged” in Playa Del Rey.
+Section 11580.2, subdivision (a)(1) states it applies to any motor vehicle “principally garaged in this state.” We therefore reject Compton’s contention she is entitled to leave to amend due to the possible applicability of Alabama law.
+Disposition
+The alternative writ having served its purpose is discharged. Let a writ of mandate issue directing the respondent court to grant USAA’s motion for judgment on the pleadings without leave to amend.
+Danielson, J., and Pounders, J., concurred.
+The petition of real party in interest for review by the Supreme Court was denied September 27, 1990. Mosk, J., and Broussard, J., were of the opinion that the petition should be granted.
+Part C of the policy, pertaining to uninsured motorists coverage, provided in relevant part: “Arbitration [f[] If we and a covered person do not agree: [f|] 1. Whether that person is legally entitled to recover damages under this Part; or [fj] 2. As to the amount of damages; [11] either party may make a written demand for arbitration. . . . [ffl . . . [[]]. . . A decision agreed to by two of the [three] arbitrators will be binding as to: [][] 1. Whether the covered person is legally entitled to recover damages; and [fl] 2. The amount of damages. This applies only if the amount does not exceed the minimum limit for bodily injury liability specified by the financial responsibility law of the state in which your covered auto is principally garaged. If the amount exceeds that limit, either party may demand the right to a trial. This demand must be made within 60 days of the arbitrator’s decision. If this demand is not made, the amount of damages agreed to by the arbitrators will be binding.” (Italics added.)
+All statutory references are to the Insurance Code unless otherwise specified.
+Due to the insufficiency of the briefs, we decline to reach the constitutionality of statutory compulsory binding arbitration.
+Assigned by the Chairperson of the Judicial Council.
