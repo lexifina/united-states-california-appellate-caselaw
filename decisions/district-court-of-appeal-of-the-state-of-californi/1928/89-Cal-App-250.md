@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5002"
+decided: "1928-02-14"
+citations: ["89 Cal. App. 250"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PACIFIC READY-CUT HOMES, INC. (a Corporation), Appellant, v. E. P. BRACHT, Respondent."]
+source_url: "https://static.case.law/cal-app/89/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116530
+cites_cases: ["113 Cal. 692", "115 Pac. 59", "121 Pac. 298", "15 Cal. App. 347", "17 Cal. App. 657", "45 Pac. 985"]
+---
+
+# Pacific Ready-Cut Homes, Inc. v. Bracht
+
+## Majority (HAHN, J., pro tem.)
+
+HAHN, J., pro tem.
+The case which gives rise to this appeal is one wherein the appellant as plaintiff filed an action in the superior court in and for the county of Los Angeles, to recover judgment on a check for the sum of $657, which cheek, it was alleged, was issued and for a valuable consideration delivered to the plaintiff by the defendant and respondent. The complaint sets forth the usual allegations of presentation and dishonor of the check by the bank on which it was drawn, and the subsequent demand upon the maker for payment, and his refusal to make payment.
+The answer admits the execution and delivery of the cheek as also the demand and refusal of payment, but denies that the cheek was given for a valuable consideration. The answer contains in addition in paragraph IY the following allegations:
+“And further answering the complaint of plaintiff, defendant alleges that on or about the 10th day of September, 1923, at the City and County of Los Angeles, State of California, the said plaintiff made, executed and delivered to this defendant its contract in writing, wherein and whereby said plaintiff agreed to sell and deliver to said defendant a ready-cut house, according to the plans and specifications set forth in said contract, for the sum of Six Hundred and Fifty-seven Dollars ($657.00) ; that thereafter, to-wit, on or about the 11th day of September, 1923, said contract was by mutual consent cancelled, and the said plaintiff agreed with said defendant to make, execute and deliver to him a contract for the delivery to defendant of another house of the same model, but complete in every detail; that said plaintiff, its agents, servants and employees were informed by said defendant at the time of said agreement to purchase said ready-cut house, that he was a postal employee, and that he had made application for his leave of absence, to begin at a certain date, and that the erection of said house was to take place during his leave of absence; that at the request and under the instructions of said plaintiff, its agents, servants and employees, he went to the office of said plaintiff on several occasions to complete the sale and purchase of this new house, but said plaintiff failed and refused to keep appointments made with said defendant for such a length of time that it was impossible thereafter to procure said ready-cut house in time for its erection during this defendant’s leave of absence, and said defendant thereupon informed said plaintiff that, by reason of the fact that he could not get delivery of said house, he could not accept the same.”
+Findings and judgment went for the defendant, from which the plaintiff prosecutes this appeal.
+Appellant in urging a reversal of the judgment contends that the following findings are not supported by the evidence in the case: (a) “Said contract was, by mutual consent, cancelled.” (b) “There was no consideration for said check.” (c) “That said plaintiff agreed with said defendant to make, execute and deliver to him a contract for delivery of another house of the same model, but complete in every detail. ... It was impossible to procure said ready-cut house during defendant’s leave of absence.”
+An examination of the record discloses a singular situation with regard to the pleadings, in that there is no allegation in either complaint or answer that the check sued on and set forth in the complaint had any connection with the contract referred to in the said answer; nor is there anything in the findings to indicate that the check was given in fulfillment of defendant’s obligations under the contract.
+However, it clearly appears from the record that the case was tried by the court and litigants upon the theory that the pleadings were sufficient to raise the issues which the findings attempt to cover; nor do counsel in their briefs make a point of these missing allegations from the pleadings, or the lacking connection in the court’s findings. We will therefore consider the points raised upon the theory that the pleadings conform to the evidence and the findings cover the material issues.
+The evidence without conflict shows that the check sued on was in fact given by defendant to plaintiff in payment of the sum agreed upon in the contract as the price defendant was to pay for the ready-cut house plaintiff contracted to manufacture and deliver to him. Upon the question of the cancellation of the contract by mutual agreement, there is marked conflict in the evidence. However, there is sufficient evidence in the record to support this finding, as well as the finding that the parties agreed to execute a new contract which was never consummated.
+Connecting the check with the contract, it would necessarily follow that with a cancellation of the contract by mutual agreement, the consideration for the check wholly’ failed.
+Prom such facts the conclusion would necessarily follow that there was no consideration for the check.
+Respondent occupies his entire brief with citations to support his contention that plaintiff has mistaken his remedy in suing on the check; and urges that the cause of action, if any plaintiff has against the defendant, is a suit for damages for breach of agreement to buy personal property under section 3311 of the Civil Code.
+We cannot agree with the respondent in this contention. While the check on its face is an order drawn upon a third party to pay to the payee or indorsee of the check the amount declared on its face, the law makes it an agreement on the part of the maker to pay the amount of the check to the payee or indorsee, if the bank upon which the check is drawn refuses payment. This, of course, presumed a valuable consideration. (John M. C. Marble Co. v. Merchants’ Nat. Bank, 15 Cal. App. 347 [115 Pac. 59]; Bank of Venice v. Clapp, 17 Cal. App. 657 [121 Pac. 298]; Equitable Nat. Bank v. Griffin & Shelley Co., 113 Cal. 692 [45 Pac. 985].)
+If the situation required, we are of the opinion that this court has authority under section 956a of the Code of Civil Procedure (Stats. 1927, p. 583), to remand the case to the trial court to cause such amended pleadings to be filed and findings drawn as would correctly support the judgment. This would seem to place undue emphasis on the form rather than the substance.
+The judgment is affirmed.
+Houser, Acting P. J., and York, J., concurred.
