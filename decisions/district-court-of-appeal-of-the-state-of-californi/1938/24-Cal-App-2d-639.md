@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1591"
+decided: "1938-01-31"
+citations: ["24 Cal. App. 2d 639"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. CLIFFORD J. DWYER, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/24/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310068
+cites_cases: ["12 Cal. App. (2d) 525", "206 Cal. 480", "22 Pac. 592", "275 Pac. 219", "55 Pac. (2d) 915", "56 Pac. (2d) 560", "81 Cal. 209"]
+---
+
+# People v. Dwyer
+
+## Majority (THOMPSON, J.)
+
+THOMPSON, J.
+The defendant has appealed from a judgment of conviction of two counts of an information charging him with separate burglaries. He was also charged with three prior convictions of felonies, to each of which he pleaded guilty. The jury found him guilty of burglary of the second degree under both counts of the information. Judgment of conviction was accordingly rendered. The defendant, through his counsel, gave notice of appeal in open court, but failed to file with the clerk his application for transcription of the testimony and proceedings of trial, designating the grounds of appeal and the points relied upon, as required by rule II, section 7, of the Rules for the Supreme Court and District Courts of Appeal.
+In spite of the omission to conform to the requirements of rule II, section 7, supra, since the appellant appears without counsel, in proper person, we have examined the record on its merits.
+The appellant contends that the information fails to state facts constituting the offenses of burglary because it is not alleged the defendant entered the buildings with the “felonious or burglarious” intent of committing a theft of property. It is also asserted the evidence fails to support the verdicts or judgment; that the court erred in receiving expert testimony regarding the footprints of the defendant in a deposit of slaked lime; that the court erred in restricting the testimony offered by the defendant, and that the court erred in failing to submit to the jury forms of verdicts based on the theory of burglary of the first degree since under section 1157 of the Penal Code the jury is required to fix the degree of the crime involved.
+The separate counts of the information sufficiently charge the defendant in the language of section 459 of the Penal Code with the crime of burglary by alleging that at specific dates he entered the designated buildings “with the intent to commit theft therein”. It was not necessary to allege in the information that the defendant either “burglariously” or “feloniously” entered the building with the intent to commit larceny or theft. (People v. Rogers, 81 Cal. 209 [22 Pac. 592] ; 9 C. J., p. 1053, secs. 94, 95; People v. Myers, 206 Cal. 480 [275 Pac. 219].) Section 490a of the Penal Code authorizes the substitution in the information of the word “theft” for that of “larceny” which appears in the definition of burglary in section 459 of that code. (People v. Myers, supra.)
+There is an abundance of evidence to support the verdicts and judgment of convictions of burglary of the second degree which were rendered.
+The court did not err in receiving evidence of the witness Welch, a deputy sheriff, who testified that he found footprints in soft slaked lime beneath the window through which the defendant entered the building. Lime tracks were found on the floor inside the building, and also upon the soles of a pair of shoes which the defendant admitted belonged to him. These shoes were received in evidence and appeared to have been half-soled. The witness testified that he obtained plaster-paris casts of the footprints which he found in the lime beneath the window. These casts were received in evidence without objection. Upon objection the witness was not permitted to testify that the line across the plaster-paris cast indicated that the shoes which made the footprints had been half-soled. The shoes and the plaster-casts were exhibited to the jurors for their own conclusion in that regard. That was not expert testimony. Any non-expert witness was competent to examine the plaster-casts and the corresponding soles of the shoes and draw the conclusion that the line which appeared on the bottom of the plaster-cast was caused by the half-soles of the shoes which produced the footprints.
+It does not appear that the defendant was restricted in his examination. He was merely precluded from making lengthy statements which were incompetent and not responsive to the questions propounded. He now asserts he desired to explain the presence of lime on the soles of his shoes. We are pointed to no record indicating that competent evidence was excluded or to any offer to prove that the lime which appeared on the soles of his shoes was obtained at a place other than the vicinity of the building which he was charged with burglarizing. The witness was permitted to make lengthy statements which consume many pages in the transcript which have little or no pertinency to the issues of the case. His examination was given undue latitude. There is no merit in the contention that his evidence was unduly restricted.
+We find no error in the instructions which were given to the jury. We are pointed to no instruction which was given, and find none in the record, regarding the effect of expert testimony. The jury was very fully and fairly instructed upon every essential element of the crimes with which the defendant was charged.
+The court did not err in failing to submit to the jury forms of verdicts predicated on the theory of burglary of the first degree. The respective attorneys stipulated in open court that the record contained no evidence of burglary of the first degree. There is no evidence in the record which would support verdicts of burglary of the first degree. The defendant may not complain of verdicts which are supported by the evidence which are more favorable to him than he deserves. (People v. Novo, 12 Cal. App. (2d) 525 [55 Pac. (2d) 915, 56 Pac. (2d) 560].) The jury specifically found that the defendant was “guilty of burglary of the second degree” as to each count of the information.
+That finding sufficiently conforms to the requirements of section 1157 of the Penal Code.
+The judgment is affirmed.
+Pullen, P. J., and Plummer, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on March 2, 1938.
