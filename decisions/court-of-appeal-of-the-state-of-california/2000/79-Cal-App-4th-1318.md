@@ -1,0 +1,48 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "H019474"
+decided: "2000-04-18"
+citations: ["79 Cal. App. 4th 1318"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAROLD GRIFFITH, Plaintiff and Appellant, v. COUNTY OF SANTA CRUZ, Defendant and Respondent; JOHN HUTCHINSON, Intervener and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/79/cases/1318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131851
+cites_cases: ["142 Cal.App.3d 362", "142 Cal.App.3d 72", "190 Cal.Rptr. 866", "191 Cal.Rptr. 47", "20 Cal.Rptr.2d 638", "5 Cal.4th 580", "853 P.2d 1093"]
+---
+
+# Griffith v. County of Santa Cruz
+
+## Majority (PREMO, J.)
+
+Opinion
+PREMO, J.
+Following an administrative ruling that he had violated defendant County of Santa Cruz’s rent control ordinance by eliminating garbage service without a commensurate reduction in rent, plaintiff Harold Griffith challenged the decision via a petition for a writ of mandate. The first amended petition urges that the ordinance is preempted by or is inconsistent with state law provisions prohibiting commercial rent control and regulating mobilehome parks. The trial court disagreed. On appeal, plaintiff reiterates his arguments. We disagree and affirm the judgment.
+Background
+Plaintiff owns the Willows Resort, a 45-site residential community having a few permanent cabins and a mix of mobilehome, recreational-vehicle, and travel-trailer sites. Seventeen to 20 sites constitute a discrete subset of the resort: they are mobilehome or recreational-vehicle sites that are occupied by persons who have been residents for a continuous nine months or more.
+Plaintiff eliminated central garbage collection service and advised the residents to obtain individual service. But he did not offer a rent reduction to compensate. Several residents of the subset, including intervener John Hutchinson, challenged the decision not to compensate as a violation of defendant’s rent control ordinance.
+Defendant’s rent control ordinance is known as the Mobilehome Rent Adjustment Ordinance. It defines “mobilehome” to include a “recreational vehicle” occupied by residents who have continually resided in a recreational vehicle park or mobilehome park for nine months or more.
+The hearing officer agreed with the residents and ordered plaintiff to reduce rents to the subset tenants by $11.60 per month.
+Discussion
+The Legislature has banned commercial rent control while affirmatively declaring its intent that the ban “shall not apply or be interpreted to apply to local rental controls on residential real property.” (Civ. Code, § 1954.25.) The statute excludes “Any space or dwelling unit in any mobile-home park, as defined in Section 18214 of the Health and Safety Code” from the definition of commercial real property. (Civ. Code, § 1954.26, subd. (d)(4).)
+Plaintiff argues that he operates a recreational vehicle park, as defined in section 18215 of the Health and Safety Code. Because Civil Code section 1954.26, subdivision (d), does not exclude a recreational vehicle park from the definition of commercial real property, plaintiff reasons that his park is commercial real property. He concludes that defendant’s ordinance cannot apply to his park. We disagree.
+Health and Safety Code sections 18214 and 18215 (generally defining mobilehome park and recreational vehicle park) are a part of the Mobile-home Parks Act (Health & Saf. Code, § 18200 et seq.; hereafter, MPA), which regulates the construction and operation of mobilehome parks and recreational vehicle parks.
+The MPA generally defines “mobilehome” and “recreational vehicle” by cross-referencing sections of the Mobilehomes-Manufactured Housing Act (hereafter, MMHA). (Health & Saf. Code, § 18211.) The MMHA physically defines “mobilehome” and excludes “recreational vehicle” from the definition. (Health & Saf. Code, § 18008.) And it physically defines “recreational vehicle.” (Health & Saf. Code, § 18010.)
+The Mobilehome Residency Law (Civ. Code, § 798 et seq.; hereafter, MRL) governs mobilehome tenancies in mobilehome parks. The MRL most significantly regulates the contents of rental agreements and the termination of tenancies. It generally excludes recreational vehicles from the definition of mobilehome. (Civ. Code, § 798.3, subd. (a).) However, it includes recreational vehicles within the definition of mobilehome (with certain exceptions) if the “recreational vehicle occupies a mobilehome site in the park for nine or more continuous months . . . .” (Civ. Code, § 798.3, subd. (b)(2).)
+The Recreational Vehicle Park Occupancy Law (Civ. Code, § 799.20 et seq.; hereafter, RVPOL), however, regulates recreational vehicle tenancies in recreational vehicle parks. The RVPOL generally governs the contents of rental agreements and regulates the removal of recreational vehicles after default. It classifies tenants into three types: “occupant,” an owner or operator who has occupied a lot in a park for 30 days or less (Civ. Code, § 799.28); “tenant,” an owner or operator who has occupied a lot in a park for more than 30 consecutive days (Civ. Code, § 799.32); and “resident,” a tenant who has occupied a lot in a park for nine months or more (Civ. Code, § 799.31). The RVPOL requires that the termination of a “resident” tenancy be for specified reasons similar to the reasons required before a mobilehome tenancy may be terminated under the MRL. (Cf. Civ. Code, §§ 799.70 & 798.56.)
+Thus, although plaintiff may operate a recreational vehicle park for purposes of the MPA, he is governed by the RVPOL for purposes of his landlord obligations to his “nine-month” subset tenants. And the RVPOL gives tenant rights to nine-month tenants that are similar to the rights of mobilehome tenants. Moreover, the MRL recognizes that recreational vehicle occupants are sometimes akin to mobilehome tenants by giving nine-month recreational vehicle tenants in mobilehome parks the same rights as mobilehome tenants.
+From this interplay we conclude that plaintiff is unquestionably a residential landlord to his subset tenants. It follows that application of defendant’s rent control ordinance to plaintiff’s relationship with his subset tenants does not run counter to the state ban on commercial rent control.
+Plaintiff next contends that the MPA preempts defendant’s ordinance.
+The MPA states: “This part applies to all parts of the state and supersedes any ordinance enacted by any city, county, or city and county, whether general law or chartered, applicable to this part.” (Health & Saf. Code, § 18300, subd. (a).)
+According to plaintiff, since the MPA excludes recreational vehicles from the definition of mobilehome, defendant cannot include recreational vehicles within its definition of mobilehome. This analysis is erroneous.
+As we have indicated, plaintiff is subject to both the MPA and the RVPOL, the former statute governing construction and operation and the latter statute governing tenancies. Since the relevant purpose here implicates plaintiffs landlord-tenant relationship with his subset tenants, the MPA does not apply.
+We add that defendant’s inclusion of recreational vehicle within the • definition of “mobilehome” under nine-month circumstances is consistent with the RVPOL giving rights to nine-month tenants that are similar to those enjoyed by mobilehome tenants under the MRL.
+Plaintiff also argues that the MRL preempts defendant’s ordinance in certain respects. It is settled, however, that mobilehome park rent controls are not preempted by the MRL. (Palos Verdes Shores Mobile Estates, Ltd. v. City of Los Angeles (1983) 142 Cal.App.3d 362, 373-374 [190 Cal.Rptr. 866].) In summary, the MRL is a law to afford homeowners a measure of stability and predictability in their mobilehome park residency and is not, nor was intended, to be a rent control measure. (Gregory v. City of San Juan Capistrano (1983) 142 Cal.App.3d 72, 82 [191 Cal.Rptr. 47].)
+Plaintiff finally (1) argues that the hearing officer erred by failing to exclude certain tenants from the benefits of his order, (2) challenges the constitutionality of defendant’s ordinance, and (3) claims that defendant waived its right to enforce its ordinance. But plaintiff did not raise these issues in his first amended petition. He has therefore waived the points under ordinary principles of appellate review. (People v. Saunders (1993) 5 Cal.4th 580, 589-590 [20 Cal.Rptr.2d 638, 853 P.2d 1093].)
+Disposition
+The judgment is affirmed.
+Cottle, P. J., and Elia, J., concurred.
+A petition for a rehearing was denied May 15, 2000, and appellant’s petition for review by the Supreme Court was denied July 19, 2000. Baxter, J., did not participate therein. Kennard, J., was of the opinion that the petition should be granted.
+The first amended petition also alleged that plaintiff did not receive a fair administrative hearing. Plaintiff grounded this claim, however, upon the fact that the hearing officer failed to decide the preemption issue after taking the position that he did not have authority to decide a legal question. Plaintiff reiterates this argument on appeal. We summarily reject it. Either state law preempts the ordinance or it does not. Plaintiff argued the issue to the trial court, and the trial court decided it. And he argues the issue to us, and we are deciding it. In short, the hearing officer’s decision not to decide the preemption issue was of no moment and, essentially, the equivalent of a decision against plaintiff’s argument.
