@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7501"
+decided: "1948-10-01"
+citations: ["87 Cal. App. 2d 769"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RANDON REID, Respondent, v. FRANK E. GILLESPIE et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/87/cases/0769-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2270671
+cites_cases: ["104 Cal. 15", "132 P. 840", "169 P.2d 980", "196 P. 95", "21 Cal.App. 754", "3 Cal.2d 427", "37 P. 757", "43 Am.St.Rep. 66", "45 P.2d 183", "51 Cal.App. 148", "74 Cal.App.2d 954"]
+---
+
+# Reid v. Gillespie
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+By deed dated May 21, 1946, plaintiff and defendants, together with one J. 0. Hutton, became the owners of certain placer mining claims located in Plumas County. The purchase price of the property was $12,500, one-fourth thereof being advanced by Hutton and tlie remainder advanced by plaintiff which, according to his complaint, represented his own purchase of a one-fourth interest in the property, and the balance of $6,250 being a loan by him to defendants for the purchase of their interests, which sum was to be repaid to plaintiff if and when a garage owned by the defendant Prank E. Gillespie was sold. The first count of the complaint is a common count for the money so loaned and the second count is one to impress a lien on the property so purchased to the extent of the defendants’ interest therein.
+At the conclusion of the hearing the court found in favor of plaintiff and entered judgment against the defendant Prank E. Gillespie in the sum of $6,250, declared a lien against the interest of both defendants in the property and further ordered that their interests be sold and the proceeds applied to the satisfaction of the judgment. Prom the judgment so entered defendants have appealed.
+Defendants first contend that the evidence clearly shows that plaintiff was to be repaid out of the profits from the operation of the mine. In this regard the record discloses that plaintiff alleged and so testified, as did Hutton, that the defendant Frank E. Gillespie was to repay plaintiff from the proceeds of the sale of the garage owned by Gillespie. Said defendant, however, testified, as did his brother J. D. Gillespie and other witnesses, that plaintiff was to be repaid out of the proceeds derived from the operation of the mine. Thus the trial court was presented with a conflict in the evidence, which conflict was resolved in favor of plaintiff, and as such finding is supported by substantial evidence this court may not interfere. (Crawford v. Southern Pacific Co., 3 Cal.2d 427, 429 [45 P.2d 183].)
+Defendants next contend that as this was a partnership transaction the fourth partner (Hutton) was a necessary party, and for the same reason the action was improper without an accounting and dissolution of the partnership. Such contention is likewise without merit. The action is clearly one to recover a debt alleged to be owing from defendants to plaintiff for moneys advanced for the purchase of the property. The action is stated as such, the evidence supports the action on this ground, and the trial court, again on substantial and conflicting evidence, found against the defendants and concluded that the plaintiff lent money to the defendants which they did not repay. Conceding, but only for the purpose of this discussion, that a partnership was established, nevertheless it is settled that a loan from one partner to another is not a partnership transaction, although the funds are used to launch the partnership. (Arnheim v. Gordon, 21 Cal.App. 754 [132 P. 840].)
+As regards the question of nonjoinder of the alleged partner Hutton, even though the court had not found as it did on the question of partnership, the defendants by failing to demur or otherwise object in the trial court, waived their right to question the propriety of the parties to the action (Code Civ. Proe. §§430, 434), and they may not raise the question for the first time on appeal. (Landon v. Landon, 74 Cal.App.2d 954 [169 P.2d 980].)
+The further claim of defendants that the judgment is excessive is likewise without merit. The courts of this state have consistently held that where such issue was not presented first to the trial court on a motion for a new trial it cannot be raised on appeal. (Phoenix v. Gibson, 51 Cal.App. 148 [196 P. 95].)
+Defendants’ final contention is directed at the portion of the judgment impressing a lien against their interests in the property, ordering the sale thereof, and that the proceeds be applied to a satisfaction of the judgment.
+In view of the previously-mentioned finding of the trial court that the money advanced to the defendant Frank E. Gillespie by the plaintiff was a loan, and in view of the total lack of any evidence to overcome the presumption that the defendants as joint holders of the legal title held the full beneficial interest of their proportionate interest in the property, that portion of the judgment granting plaintiff a lien on defendants’ property is in error. It is the general rule that where a transfer of property is made to one person and the purchase price is advanced by another as a loan to the transferee, the lender is not entitled to an equitable lien upon the property in the absence of an agreement between him and the transferee that he is to have such a lien (Restatement, Trusts, § 445); and the courts of this state have so held. (Perry v. Ross, 104 Cal. 15 [37 P. 757, 43 Am.St.Rep. 66].) There is no evidence in this ease that such an agreement was entered into between plaintiff and defendants.
+For the foregoing reason that portion of the judgment impressing a lien against the interests of the two defendants in said property, ordering a sale thereof, and the application of the proceeds from such sale to the satisfaction of the judgment, is without support, and must be reversed. The remaining portion, to wit: the money judgment against the defendant Frank E. Gillespie in the sum of $6,250 together with interest thereon is supported by substantial evidence and is therefore affirmed.
+As modified the judgment is affirmed.
+Adams, P. J., and Thompson, J., concurred.
