@@ -1,0 +1,38 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 433"
+decided: "1908-01-20"
+citations: ["7 Cal. App. 432"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. E. AMOS, Respondent, v. ARTHUR COHN, Appellant."]
+source_url: "https://static.case.law/cal-app/7/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4520968
+cites_cases: ["140 Cal. 164", "24 Cal. 317", "28 Cal. 528", "29 Cal. 578", "38 Cal. 693", "73 Pac. 818"]
+---
+
+# Amos v. Cohn
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Action for forcible detainer. Judgment went for plaintiff in treble the amount of damages sustained. The appeal is from the judgment and an order denying defendant’s motion for a new trial.
+Defendant was the owner of a storeroom, one-half of which he, by a written instrument, leased to plaintiff for a term expiring April 12, 1906. Defendant occupied the other half of the storeroom and the two parts were separated by a board partition.
+According to the testimony of plaintiff, he and defendant, on February 8, 1906, entered into a verbal agreement whereby defendant agreed to pay plaintiff $50 for a cash register and $50 for the unexpired term of his lease, and defendant agreed that plaintiff should have until February 18th to sell the goods he then had on hand.
+Pursuant to this agreement plaintiff, on February 15th, took out and removed his shelving and moved his desk and other articles, out of the room and piled the remainder of his goods upon a counter or table placed in the middle of the room. Defendant took down the partition separating the two rooms and built his shelving in the room. Plaintiff rented a new storeroom on the 17th of February, and on the evening of that day he told defendant he would remove the balance of his goods the next morning, the 18th of February. Upon plaintiff arriving at the store on the 18th of February he demanded payment of the $100, according to his understanding of the verbal agreement. Defendant claimed that plaintiff, as a part of the agreement, was to lease from him a certain vacant yard at $20 per month, and refused to pay the $100 unless plaintiff would consummate the agreement as he understood it. Defendant refused to vacate the storeroom, but placed his goods upon the shelves, notified plaintiff to remove his goods, otherwise defendant would store them in a warehouse at plaintiff’s expense, which he subsequently did. Defendant bolted the front door, but plaintiff had access to his desk and goods through another door. Defendant never forbade plaintiff entering the store, but refused to open the front door, and told plaintiff he would not permit him to do business in the storeroom.
+The substance of the plaintiff’s testimony is that, relying upon defendant’s promise to pay him $100 for the cash register and surrender of his lease, plaintiff permitted defendant to enter upon possession of the premises j that after obtaining possession defendant not only refused to pay the $100, but refused to surrender possession.'
+According to subdivision 1, section 1160 of the Code of Civil Procedure, under which defendant must be held, if plaintiff is entitled to recover, one is guilty of forcible detainer who “by force, or by menaces and threats of violence, unlawfully holds and keeps possession of any real property, whether the same was acquired peaceably or otherwise.”
+The finding of the court upon the question of the forcible detainer is the following:
+“That on the 18th day of February, 1906, the defendant unlawfully took possession of the premises described in the complaint, and ever since said 18th day of February has by force unlawfully held and kept possession of said premises. ”
+This finding is attacked upon the ground that it is not supported by the evidence. And in this view we agree with appellant. There is no evidence upon which to base the inference that the defendant exercised force, menace or threats of violence in holding possession of the property. His entry was peaceable and with the assent and approval of plaintiff. On the morning of the eighteenth day of February, after defendant was in possession, plaintiff refused to remove the remainder of his goods out of the store, brought his desk back, and told defendant not to put any of his goods in the store. He came back in the evening and found that defendant had placed some of his goods upon the shelves. Plaintiff instructed his employees to bring some boxes in and defendant ordered them out and locked the back door. On plaintiff’s return to the store upon the 19th of February, defendant informed him that he would not permit him to do business in the storeroom, and served him with notice that unless he removed the goods immediately he would be charged with storage. The term “force,” as used in subdivision 1, section 1160, of the Code of Civil Procedure, contemplates actual force, or such conduct on the part of defendant as tends to inspire a just apprehension of violence. There is nothing in the record tending to show the slightest violence either in manner or language of defendant. Plaintiff testified that he could have gone through defendant’s store. “He did not order me not to do so; nothing was said about it.” The evidence fails to show that defendant held possession of the property by force, as found by the court, and it is likewise silent as to menaces or threats of violence. The cases of Hodgkins v. Jordan, 29 Cal. 578, Buel v. Frazier, 38 Cal. 693, Thompson v. Smith, 28 Cal. 528, and Fogarty v. Kelly, 24 Cal. 317, are in point in considering the question of forcible detainer under subdivision 1 of section 1160 of the Code of Civil Procedure. We think, too, that the uncontradicted evidence shows that the defendant was in the peaceable possession of the premises, and having entered with the assent of plaintiff, the provisions of said subdivision of section 1160 of the Code of Civil Procedure would not apply. (Carteri v. Roberts, 140 Cal. 164, [73 Pac. 818].)
+'Judgment and order are reversed.
+
+## Concurrence (TAGGART, J., concurring)
+
+TAGGART, J., concurring
+I concur in the judgment on the ground that the evidence shows that the possession and right of possession both vested in the defendant on February 15th, when the partition was tom down between the two rooms theretofore occupied by plaintiff and defendant respectively. The plaintiff put the defendant in possession of the entire premises, reserving only the right to let a portion of his goods remain until February 18th. This arrangement merely made defendant a gratuitous depositary for safety, or bailee, of plaintiff’s goods for the three days. Plaintiff was not in possession and was not entitled to the possession of the premises on February 18th; so that defendant did not on that day unlawfully or otherwise take possession of the premises. Neither did defendant forcibly detain possession from plaintiff, since the latter was not entitled to the possession.
+The finding attacked (No. II) as framed is a mere conclusion of law, but considered as a finding of fact it is not sustained by the evidence. The violation of the agreement of defendant to pay for the possession cannot be made the basis of an action for forcible detainer.
+Allen, P. J., concurred with Taggart, J.
+A petition for a rehearing of this cause was denied by the district court of appeal on February 19, 1908, and a petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 19, 1908. - ■ *
