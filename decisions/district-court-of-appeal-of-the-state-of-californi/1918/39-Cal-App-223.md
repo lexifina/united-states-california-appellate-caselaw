@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2592"
+decided: "1918-12-20"
+citations: ["39 Cal. App. 223"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. B. KING, Appellant, v. HERCULES POWDER COMPANY (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app/39/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032466
+cites_cases: ["103 Cal. 605", "106 Cal. 514", "147 Cal. 495", "155 Pac. 631", "172 Cal. 147", "37 Pac. 637", "39 Cal. 224", "39 Pac. 922", "82 Pac. 57"]
+---
+
+# King v. Hercules Powder Co.
+
+## Majority (LENNON, P. J.)
+
+LENNON, P. J.
+This is an appeal by the plaintiff from a judgment for a nonsuit. The action was brought for conversion of two Perdieron mares, and for injuries inflicted, resulting in the death of one and permanent damage to the other. The action was originally brought against the present defendant and against the Hercules Water Company, J. O’Neill, J. Fassler, and certain fictitious defendants. None of the defendants, other than the Hercules Powder Company, were ever served, and at the time of the trial, plaintiff dismissed as to all the other defendants. The defendant, Hercules Powder Company, filed an answer denying that it had ever taken and used the mares, or in any way injured them. At the conclusion of plaintiff’s case, defendant moved for a non-suit, which motion was denied. After all the evidence was in, the defendant again moved for a nonsuit, which was this time granted on the ground that if the horses were used, they were used by one O’Neill, or his agents, and that O’Neill was an independent contractor.
+The appellant contends that the case should have been submitted to the jury, and that the granting of the nonsuit was error. We think the motion was properly granted. It is settled law in this state that such a motion oan be granted at the end of all of the testimony in a case. (Geary v. Simmons, 39 Cal. 224; Estate of Morey, 147 Cal. 495, [82 Pac. 57].)
+The rule is expressed in Geary v. Simmons, supra, where it is said that a court is justified in granting defendant’s motion for nonsuit after the evidence on both sides has been heard in a case, where, if the motion had been denied and a verdict found for plaintiff, it would have been set aside as not supported by, but contrary to, the evidence. Indeed, in the case of Estate of Casper, 172 Cal. 147, [155 Pac. 631], relied upon by the appellant, the court expresses the same idea in the converse of the proposition by saying that if the contestant did present evidence of so substantial a character as that, notwithstanding the conflict raised by proponent’s evidence, it would support a verdict in favor of contestant; it would have been error for the court to have granted a motion for a nonsuit.
+We therefore come to a consideration of the evidence. While it is true that every intendment is to be indulged favoring any reasonable inference that can be drawn for the plaintiff, yet the law on the subject is clearly stated in the Estate of Morey, 147 Cal. 495, [82 Pac. 57], where it is said:
+‘ ‘ There is, however, no material difference between the rule governing this court in the consideration of the sufficiency of the evidence where the court below has directed a verdict, from that prevailing where a nonsuit is granted on motion made after the evidence for both parties has been given. In Lacey v. Porter, 103 Cal. 605, [37 Pac. 637], which is the only California case on the subject, the court says: ‘To justify the court in directing a verdict it' is not necessary that there should be no conflict in the evidence; but where the evidence is such that it is clearly insufficient to support a verdict in favor of the party against whom the direction is given, the instruction is proper, unless the circumstances indicate that upon another trial the evidence may be materially different, in which case the facts should be submitted to the jury in order that a new trial may be had. But in either case the decision of the court below will be sustained, unless the appellate court can clearly see that its conclusion is wrong upon the facts. ’ ”
+Upon an examination of the evidence, we are satisfied that it fails to prove a sufficient case to justify a verdict or finding in favor of the plaintiff. "While it is true, as contended by appellant, that the fact that one is found performing work and labor for another is prima fade evidence of an employment, and such person is presumed to be the servant and employee of that other in the absence of evidence to the contrary, yet it has been said that disputable presumptions are allowed to stand, not against the facts they represent, but in lieu of proof of the facts, and that, when the fact is proven contrary to the presumption, no conflict arises, but the presumption is simply overcome and is dispelled. (Savings etc. Soc. v. Burnett, 106 Cal. 514, [39 Pac. 922].) The presumption in the present case was certainly overcome by an abundance of positive evidence in the case offered by the defendant, which showed, beyond doubt, we think, that the horses were used by the agents or servants of 0 ’Neill, and that 0 ’Neill was an independent contractor. Under such facts, the motion for a nonsuit was properly granted, for, if the verdict had been for the plaintiff, the trial court would have been compelled, we think, to set it aside as contrary to the evidence.
+Appellant also contends that defendant was estopped from introducing evidence to show that 0 ’Neill was an independent contractor, or did the work in question, because of certain denials contained in its answer, which appellant construes as denials of these facts. The paragraph of the answer relied upon was a denial upon information and belief, and was “in regard to the actions of defendants, Hercules Water Company and J. Fassler,” and we think it cannot be fairly construed to relate to the actions of any other of the defendants.
+The other points raised by appellant seem to us to be without merit.
+The judgment is affirmed.
+Sturtevant, J., pro tem., and Beasly, J., pro tem., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on February 17, 1919.
+All the Justices concurred.
