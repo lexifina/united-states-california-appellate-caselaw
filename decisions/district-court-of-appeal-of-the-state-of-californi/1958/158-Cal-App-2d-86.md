@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3440"
+decided: "1958-02-28"
+citations: ["158 Cal. App. 2d 86"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. FRANK GOLDSTEIN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/158/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4428480
+cites_cases: ["112 Cal.App.2d 616", "126 Cal.App.2d 199", "151 Cal.App.2d 678", "152 Cal.App.2d 397", "156 Cal.App.2d 128", "246 P.2d 979", "271 P.2d 641", "312 P.2d 322", "313 P.2d 931", "318 P.2d 828", "35 Cal.App.2d 73", "94 P.2d 633"]
+---
+
+# People v. Goldstein
+
+## Majority (DRAPER, J.)
+
+DRAPER, J.
+By stipulation, three counts of violation of Penal Code, section 337a, were tried to the superior court upon the transcript of the preliminary hearing. Defendant was found guilty of violation of subdivision 2 (occupying premises with paraphernalia for the purpose of recording or registering bets) and was acquitted of the charged violation of subdivision 4 (recording bets) and subdivision 6 (accepting bets). He was sentenced to one year in county jail, but execution of sentence was suspended and he was admitted to probation for two years on condition he pay a fine of $250. Defendant appeals.
+Police maintained surveillance of an apartment occupied by defendant under the name of Marx. An officer standing in the hallway outside the apartment heard the telephone in the apartment ring, and heard a man’s voice answer. The conversation of the apartment’s occupant- indicated that he was receiving bets upon horse races. Shortly thereafter the same voice again answered the telephone, and this time gave a list of initials, names and amounts. The officer heard the toilet in the apartment being flushed six or seven times. A short time later, appellant left the apartment. An officer asked to talk to him, and at appellant’s invitation entered the apartment with him. Until that time, no one but appellant had entered or left the apartment, and the apartment was unoccupied when appellant and the officer entered it. The apartment contained no clothing except one pair of women’s slippers. A list of names or initials and telephone numbers, which was identified by an expert as a list of bettors, together with an “owe sheet,” were found on the kitchen table. Another “owe sheet” was found in a closet. A racing form was in appellant's possession as he left the apartment. It appears that an “owe sheet” is a list of amounts due to and from bettors. Appellant told officers that he had flushed the records of bets down the toilet. He admitted that the “owe sheets” were his, that he had used the apartment for less than a week, that he lived elsewhere, and that the telephone in the apartment was his but was listed under the name of Marx.
+Appellant argues that the evidence is insufficient to sustain the judgment. He relies upon People v. Foreman, 112 Cal.App.2d 616 [246 P.2d 979], In that case, a room contained betting markers. However, in the absence of evidence that they were in defendant’s handwriting or that he had ever occupied the room, it was held that the evidence was insufficient to sustain a conviction of occupying the room for the purpose of recording or registering bets. Appellant concedes the inapplicability of this holding to the case at bar. He relies upon language in the decision stating that “owe sheets” “are commonly used to pay bets or make collections but not to ‘record or register bets’ ” (p. 619). He argues that, since only “owe sheets,” rather than betting markers, were found here, there is no evidence that the room was occupied to record or register bets.
+But occupancy of premises for the purpose of recording bets can be shown without the production in court of the betting markers themselves. In People v. Jackson, 152 Cal.App.2d 397 [313 P.2d 931], a piece of linoleum, a pencil and a wet sponge were found. There was expert testimony that a smooth surface, such as linoleum, was frequently used to record bets, and that the record could be erased by use of the sponge after the bets had been relayed by telephone to another location. In People v. Watkins, 126 Cal.App.2d 199, 203 [271 P.2d 641], it was pointed out that a telephone may be “paraphernalia” within the meaning of subdivision 2 of Penal Code, section 337a.
+In the case at bar, the telephone conversations overheard by the officer warrant the inference that appellant was taking bets in the apartment, making a record of them, and relaying these recorded bets to another. The fact that the apartment and telephone were under an assumed name support the finding that the apartment was occupied for this illegal purpose. Thus the evidence was sufficient to establish the corpus delicti (People v. Race, 151 Cal.App.2d 678, 685 [312 P.2d 322]) and appellant’s admission that he had disposed of the betting records clearly establishes his guilt of the offense charged.
+Appellant suggests that, because he was acquitted of the charge of recording bets and that of accepting bets, he cannot be convicted of occupying premises for the purpose of recording bets. The disposition of one count of an information has no bearing upon the other counts, even though there may be a degree of logical inconsistency in the findings (Pen. Code, § 954; People v. Villa, 156 Cal.App.2d 128, 133 [318 P.2d 828]; see also People v. Smith, 35 Cal.App.2d 73, 76 [94 P.2d 633]).
+Judgment affirmed.
+Kaufman, P. J., and Pooling, J., concurred.
