@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3500"
+decided: "1958-12-12"
+citations: ["166 Cal. App. 2d 91"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. FRANK L. McGILLIS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/166/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2347655
+cites_cases: ["102 P.2d 1072", "114 Cal.App.2d 787", "135 Cal.App. 402", "137 Cal.App. 385", "144 Cal.App.2d 131", "15 Cal.2d 519", "159 Cal.App.2d 578", "206 P.2d 699", "222 P. 366", "251 P.2d 336", "253 P. 169", "27 P.2d 407", "287 P.2d 755", "30 P.2d 1026", "300 P. 2d 755", "324 P.2d 65", "33 Cal.2d 876", "45 Cal.2d 134", "64 Cal.App. 572", "81 Cal.App. 199"]
+---
+
+# People v. McGillis
+
+## Majority (BRAY, J.)
+
+BRAY, J.
+Defendant appeals from an order of the superior court setting aside a previous order entering a new judgment after vacating a prior one.
+Question Presented
+Was a judgment not appealed from, setting aside a judgment which after sentencing a defendant to felony imprisonment improperly suspended such judgment on condition that defendant serve one year in the county jail, subject to collateral attack?
+Record
+Defendant, an osteopath, was found guilty of two violations of section 11500, Health and Safety Code (sales of narcotics). May 8, 1953, his motion for probation was denied and judgment imposed by Judge Twain Michelsen as follows: “It was ordered, adjudged and decreed that the defendant Prank Laughlin McGillis be punished by imprisonment in the State Prison of the State of California for the term prescribed by law, on each of said counts. Sentence was thereupon suspended on each of said counts on condition that the defendant be confined in the County Jail of the City and County of San Francisco for the term of one (1) year, sentences to run concurrently with each other.”
+Defendant served his one year. December 3, 1954, he moved the superior court (Judge Orla St. Clair presiding) to vacate that judgment and enter a new judgment on the ground that the former was void. The deputy district attorney stated that he made no objection. The court set aside the prior judgment and “. . . ordered, adjudged and decreed that the said defendant, Frank Laughlin McGillis, be punished by imprisonment in the County Jail of the City and County of San Francisco for the term of one (1) year, credit for time served.”
+December 18, 1957, at the request of Judge Michelsen, the district attorney moved the superior court (Judge Harry Neubarth presiding) to set aside the Judge St. Clair judgment and to restore the original Judge Michelsen judgment. The court “. . . Ordered that the said judgment and sentence entered and imposed herein on December 3, 1954, be and the same is hereby vacated and set aside, and that the said judgment and sentence entered and imposed herein on May 8, 1953, be and it is hereby restored of record as the final and valid judgment herein,” and the final judgment was interpreted as a misdemeanor.
+Effect of the Judge Michelsen Judgment
+The suspending of sentence amounted to an informal grant of probation, as the court had no power to suspend sentence except as an incident of probation. (Oster v. Municipal Court (1955), 45 Cal.2d 134, 141 [287 P.2d 755]; People v. Sheeley, 159 Cal.App.2d 578, 580 [324 P.2d 65].) Here the granting of probation was void as the court had no power to do so because of section 11715.6, Health and Safety Code. (See People v. Bonfiglio (1952), 114 Cal.App.2d 787 [251 P.2d 336].)
+If the Judge Michelsen judgment was a valid one, then there could be no jurisdiction in the court to vacate or change it, and any subsequent purported vacation of it would be void. (In re Pedrini, 33 Cal.2d 876, 878 [206 P.2d 699]; People v. McAllister, 15 Cal.2d 519, 526 [102 P.2d 1072]; Blake v. Municipal Court, 144 Cal.App.2d 131, 133 [300 P. 2d 755].)
+The Judge Michelsen judgment was defective on its face. Therefore, on the motion to vacate it the court (Judge St. Clair) had jurisdiction to consider it, and determine (1) whether it was entirely void, and if so to set it aside and resentence the defendant (see People v. Rhodes, 137 Cal.App. 385, 389 [30 P.2d 1026]), (2) whether it was partially void and partially valid, and if so to vacate the void portion. The court determined that the entire judgment was void and ordered a new one. This it had the power to do. Respondent contends that it erred in its determination and that therefore the Judge St. Clair judgment is void. But such is not the case. Having jurisdiction a court has the power to decide wrongly as well as rightly. Assuming as contended by respondent that under the authority of cases like In re Humphrey, 64 Cal.App. 572, 576 [222 P. 366], and People v. Lopez, 81 Cal.App. 199, 203 [253 P. 169], Judge St. Clair should have determined that only a portion of the Judge Michelsen judgment was void, the court’s determination otherwise was not void but merely erroneous, and could have been corrected only on appeal. As said in In re Sargen (1933), 135 Cal.App. 402, 408 [27 P.2d 407], where the court was dealing with an order vacating a judgment of imprisonment, “. . . jurisdiction necessarily involves power to decide incorrectly as well as correctly a controversy within that jurisdiction, and does not depend upon the rightfulness of the decision made; that the rule simply means that when a court has jurisdiction of the subject matter and commits error in the final decision, such error is correctable not through collateral attack, but solely by appeal.” The court further stated: “But . . . since, as we have seen, the trial court had jurisdiction to hear such a motion, the order it made in deciding the same is not void, even assuming, as the attorney-general contends and as we are inclined to believe, that the facts averred in the affidavits and those adduced at the hearing of the motion, were legally insufficient to warrant the court in granting the relief sought. Its action in the matter amounted to no more than an error committed in the exercise of jurisdiction, which was remediable by an appeal and not subject to collateral attack.”
+In our case no appeal was taken from the Judge St. Clair judgment. It not being void on its face, could not be collaterally attacked. Hence on the motion brought by the district attorney before Judge Neubarth, the court had no jurisdiction to proceed, and its order purporting to set aside the Judge St. Clair judgment is void. (See Blake v. Municipal Court, supra, 144 Cal.App.2d 131.)
+The judgment is reversed.
+Peters, P. J., and Wood (Fred B.), J., concurred.
+A petition for a rehearing was denied December 17, 1958, and respondent’s petition for a hearing by the Supreme Court was denied February 4, 1959.
+It is interesting to note that section 11715.6, Health and Safety Code, had been amended prior to the Michelsen hearing to permit the granting of probation to first offenders convicted of violating section 11500, Health and Safety Code. Defendant was a first offender. However, the amendment was not yet effective.
+We are not dealing with a situation where the court’s written judgment inadvertently does not correctly set forth the judgment as pronounced. In such a situation the court has jurisdiction to correct the written judgment.
