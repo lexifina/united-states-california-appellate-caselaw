@@ -1,0 +1,46 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5523"
+decided: "1928-12-05"
+citations: ["95 Cal. App. 299"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALEEN PURDY, Respondent, v. BUFFUMS, INC. (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/95/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2138054
+cites_cases: ["114 Pac. 571", "117 Pac. 936", "128 Cal. 464", "141 Pac. 917", "145 Cal. 623", "153 N. W. 788", "155 Pac. 84", "159 Cal. 429", "16 Cal. App. 666", "168 Cal. 81", "171 Cal. 790", "187 Mich. 454", "198 Pac. 832", "52 Cal. App. 322", "61 Pac. 64", "68 L. R. A. 226", "79 Am. St. Rep. 56", "79 Pac. 366"]
+---
+
+# Purdy v. Buffums, Inc.
+
+## Majority (CRAIL, J., pro tem.)
+
+CRAIL, J., pro tem.
+Some time prior to June 23, 1923, the plaintiff entered into negotiations with the defendant for her employment as manager of its hair goods and beauty parlor department, and wrote the defendant a letter in which she offered to enter upon such employment at $50 per week and five per cent of the gross sales of the department. Thereupon the defendant replied by letter as follows:
+“Our Mr. Johnson handed me your note, which I have gone over carefully, and am glad to know that you have decided to come with us later, when our building is ready. . . .
+“As I recall, your wage was to be $50.00 per week and five per cent of the gross sales. Without going into the matter more fully, I might say that the percentage seems a bit high, at least while the business is being developed. The wage is all right, for I am sure you can put across the program that we are intending to inaugurate. However, we are willing to let the percentage part remain, and will work it out with you later.
+“We want you to feel that you are engaged for the job, and will leave the entire matter in your hands.”
+And from that time on both parties considered that plaintiff was employed as manager of the department which was to be established when a new. building was completed. On May 1, 1924, the plaintiff commenced upon her duties as indicated. She had several conversations with Mr. Buffum, president of the company, but nothing was ever said about changing her compensation. On May 5, 1924, she went downstairs to the bookkeeper, named Miss Brown, who prepared “a little yellow slip,” which was in printed form, “Form 19-1M,” but contained blank spaces for name, date to begin, rate per week, etc., which plaintiff signed, as follows:
+“Form 19-1M 1-23 DEL MAR.
+Buff urns’ No. 2401
+24 and 25
+Department: Beauty Parlor Date 5/5, 1924
+Name: Mrs. Aleen Purdy Address: 239 Ximeno Telephone number.
+Occupation: Beauty Parlor
+To begin 5/5, 1924 . Rate $50.00 per wk.
+It is understood and agreed that my term of employment may be discontinued at any time by myself or Buff urns’, and that my compensation Employed by shall be based on the actual time employed. Approved by C. A. B.
+Aleen Purdy Entered Pay Roll
+Employe’s Name.” Record No.
+Plaintiff accepted for almost a year $50 per week and made no demand for her commission until the day prior to her resignation. In explanation she said she did not expect the payment of the commission until the end of the year.
+The trial court held in effect that the two letters constituted a contract between the parties and that this contract was not modified, so far as compensation was concerned, by the writing of May 5th, and entered judgment accordingly.
+It is the contention of appellant (1) that there was no valid contract between the parties, and (2) that if there were such a contract, it was modified by the writing of May 5th and that plaintiff’s compensation was limited thereby to $50 per week. In support of these contentions appellant expounds several propositions of law which it seems our duty to consider.
+Appellant contends that there is no contract “when essential parts of the intended agreement are to be determined by future negotiations.” (6 Cal. Jur. 45.) But in this case we have an offer and an unequivocal acceptance of it. Answering the offer, defendant says: “We are glad to know that you have decided to come with us. . . . Tour wage was to be $50.00 per week and five per cent of the gross sales. . . . The percentage seems a bit high. The wage is all right. . . . However, we are willing to let the percentage part remain, . . . We want you to feel that you are engaged for the job,” etc. The acceptance may be a “grumbling” one, but it is unequivocal. (Johnston v. Federal Union etc. Co., 187 Mich. 454 [153 N. W. 788]; 1 Elliott on Contracts, 44; 13 Cor. Jur. 283.) “We are willing to let the percentage part remain.” How else could it remain except as offered or demanded by plaintiff? It is true that there is added, “and we will work it out with you later.” No length of time was fixed for the continuance of the employment and either party could terminate it at will. The words are a mere expression of hope that later the offeror will change her terms. This does not make the acceptance conditional. (13 Cor. Jur. 283.)
+Appellant next asserts that “Preliminary negotiations are not evidence of a binding agreement and are nudum pactum.” It is certainly true that an agreement that parties will, in the future, make such contract as they may then (later) agree upon amounts to nothing. (Dillingham v. Dahlgren, 52 Cal. App. 322 [198 Pac. 832].) But this law has no application to the wriling before us, as we have endeavored to point out above.
+Again it contends that “When the price of the commodity called for is to be subsequently fixed by the agreement of the parties, the contract of sale is incomplete and nonenforceable until the price is so fixed or agreed upon” (citing Jules Levy & Bros. v. A. Mautz & Co., 16 Cal. App. 666 [117 Pac. 936]). This is merely a more specific or detailed statement of the same law. If the acceptance be qualified or go not to the actual thing proposed, there is no binding contract. (Four Oil Co. v. United Oil Producers, 145 Cal. 623 [68 L. R. A. 226, 79 Pac. 366].) However, in the instant case there is a definite proposal and the proposal was squarely assented to.
+Appellant next contends for the rule that the intention of the parties should be gathered from the whole instrument, taking it by the four corners, and when several papers concerning one subject matter are separately executed by the same parties all should be construed together as one contract and the intention of the parties should be gathered from the instruments, taken together. (Civ. Code, sec. 1642, and 6 Cal. Jur. 298.) But this apparently is what the learned trial judge did. There are no words in the little yellow slip which annul or strike out of the contract the five per cent commission. Both writings refer to a wage of $50 per week; but the second writing speaks neither for nor against a five per cent commission. For instance, it does not use the word “only,” or the words “no commission.” The words “and five per cent of the gross sales” still remain in the contract. It is the duty of a court to so construe a written instrument as to give force and effect to every clause so that no clause may become redundant, unless such construction would be obviously repugnant to the intention of the parties, to be collected from its terms, or would lead to some absurdity. (6 Cal. Jur. 259; Scudder v. Perce, 159 Cal. 429 [114 Pac. 571].) To the same effect is the code provision which reads: “Where there are several provisions or particulars, such a construction is, if possible, to be adopted as will give effect to all.” (Code Civ. Proc., sec. 1858.)
+Appellant next contends for the rules that a contract may be explained by reference to the circumstances under which it was made and that the acts of the parties done under a contract afford one of the most reliable means of arriving at their intention. But these rules are not applicable in construing clear and unambiguous contracts. They have to do with the contracts in which the intention of the parties cannot be ascertained from the writing alone because the writing is doubtful, uncertain, or ambiguous. (Salter v. Ives, 171 Cal. 790 [155 Pac. 84].) The intention of the parties is to be ascertained from the writing alone if possible. (Civ. Code, sec. 1639.) Surrounding circumstances and subsequent conduct may be invoked to interpret a contract only in cases where upon the face of the contract itself there is doubt, and the evidence is used to dispel that doubt, not by showing that the parties meant something other than what they said, but by showing what they meant by what they said. (United Iron Works v. Outer Harbor etc. Co., 168 Cal. 81 [141 Pac. 917]; Pierce v. Merrill, 128 Cal. 464 [79 Am. St. Rep. 56, 61 Pac. 64].)
+In closing appellant sets out “five salient facts” which it claims the evidence discloses. But they already have been referred to and disposed of in what we have said above and we would not feel justified in discussing them at further length in this opinion, since the interpretation of the contract is a question of law and not of fact.
+The judgment is affirmed.
+Houser, Acting P. J., and York, J., concurred.
