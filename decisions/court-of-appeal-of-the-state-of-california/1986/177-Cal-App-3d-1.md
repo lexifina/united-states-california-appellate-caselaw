@@ -1,0 +1,45 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B010479"
+decided: "1986-01-30"
+citations: ["177 Cal. App. 3d 1"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CURTIS ANTHONY COLE, Plaintiff and Appellant, v. LOS ANGELES UNIFIED SCHOOL DISTRICT et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/177/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2140232
+cites_cases: ["118 Cal.App.3d 39", "136 Cal.Rptr. 833", "137 Cal.Rptr. 146", "146 Cal.Rptr. 224", "173 Cal.App.3d 896", "173 Cal.Rptr. 225", "189 Cal.Rptr. 181", "21 Cal.3d 313", "217 Cal.App.2d 77", "219 Cal.Rptr. 341", "31 Cal.Rptr. 524", "33 Cal.3d 456", "433 P.2d 169", "578 P.2d 941", "63 Cal.Rptr. 377", "658 P.2d 108", "67 Cal.2d 671", "67 Cal.App.3d 808", "68 Cal.App.3d 227"]
+---
+
+# Cole v. Los Angeles Unified School District
+
+## Majority (HANSON (Thaxton) J.)
+
+Opinion
+HANSON (Thaxton) J.
+Introduction
+Plaintiff Curtis Anthony Cole (Plaintiff and/or Cole) appeals from the granting of a motion for judgment on the pleadings brought by defendant Los Angeles Unified School District (School District) and judgment entered based on the fact that Plaintiff Cole had failed to file a complaint within six months as required by Government Code section 945.6. We affirm.
+Background
+Plaintiff Cole filed a claim against the School District and Henry Wilson (a coach) alleging that on October 7, 1983, he (Cole) was injured while representing the Jordon High School football team in a game against Venice High School. Cole alleges that he injured his left wrist and left the game; that he complained to Wilson (the coach) and was given only cursory examination; and that although complaining of pain in his left wrist, he was directed to return to the game sustaining further injury to his left wrist.
+Defendant School District’s rejection of the claim was deposited in the mail on January 4, 1984. On July 9, 1984, six months and five days later, Plaintiff through his attorney, filed a complaint in the superior court against School District.
+The above dates were admitted by Plaintiff in response to Requests for Admission sent by School District to Plaintiff. Thereafter, defendant School District filed a motion for judgment on the pleadings. On November 29, 1984, following consideration of points and authorities and oral argument, the superior court (Hon. David M. Rothman, Judge Presiding) granted said motion. Plaintiff Cole filed a timely notice of appeal.
+Issue
+The sole issue on appeal is whether or not Code of Civil Procedure section 1013 is applicable to Government Code section 945.6, thereby extending the time for filing of Plaintiff’s complaint five days past the six-month limit after the deposit in the mail of the notice of rejection.
+Discussion
+The superior court, in granting defendant School District’s motion for judgment on the pleadings, stated: “The five additional days on mailed notices afforded by C.C.P. 1013 Subd. (a) does not apply to notice mailed under Government Code 945.6.” (Citing Edgington v. County of San Diego (1981) 118 Cal.App.3d 39 [173 Cal.Rptr. 225].) We agree.
+Government Code section 945.6 entitled “Limitation practices on claims required to be presented in accordance with chapters 1 and 2 of part 3; ...” provides in subdivision (a): “[A]ny suit brought against a public entity on a cause of action for which a claim is required to be presented in accordance with Chapter 1 . . . and Chapter 2 ... of Part 3 of this division must be commenced: (1) If written notice is given in accordance with Section 913, not later than six months after the date such notice is personally delivered or deposited in the mail.”
+Government Code section 945.6 is a statute of limitation. Relevant “Law Revision Commission Comments” concerning the 1970 Amendment to this section states: “The triggering date generally will be the date the notice is deposited in the mail or personally delivered to the claimant, at which time the claimant will receive a warning that he has a limited time within which to sue and a suggestion that he consult an attorney of his choice.” (32 West’s Ann. Gov. Code (1980 ed.) § 945.6, p. 597.)
+Code of Civil Procedure section 1013, subdivision (a), as amended by Statutes 1980, chapter 196, section 2, page 419 in part provides: “In case of service by mail, the notice or other paper must be deposited in a post office, mailbox, sub-post office, substation, or mail chute, or other like facility regularly maintained by the United States Postal Service, in a sealed envelope, with postage paid, addressed to the person on whom it is to be served, at his office address as last given by him on . any document which he has filed in the cause and served on the party making service by mail; otherwise at his place of residence. The service is complete at the time of the deposit, but any prescribed period of notice and any right or duty to do any act or make any response within any prescribed period or on a date certain after the service of such document served by mail shall be extended five days if the place of address is within the State of California, ...”
+It is well established by case law that the six-month limitation period in Government Code section 945.6 starts to run when the notice of rejection has been either personally served or deptisited in the mail and the time is not extended five additional days by Code of Civil Procedure Section 1013. (Smith v. City and County of San Francisco (1977) 68 Cal.App.3d 227, 230-231 [137 Cal.Rptr. 146]; Edgington v. County of San Diego, supra, 118 Cal.App.3d 39; see also Dowell v. County of Contra Costa (1985) 173 Cal.App.3d 896 [219 Cal.Rptr. 341].)
+The plain meaning of Government Code section 945.6 is that the six-month limitation period begins to run on the date the notice of rejection is deposited in the mail. (Edgington v. County of San Diego, supra, 118 Cal.App.3d 39, 46.) “. . . Code of Civil Procedure section 10Í3 is á procedural statute of general application. The inconsistent requirement of Government Code section 945.6, subdivision (a)(1), on the othér hand, is a specific statutory provision applicable only to actions under the Tort Claims Act. In such a case the special statutory enactment ‘will be considered as an exception to the general statute whether it was passed before or after such general enactment.’ [Citations.]” (Smith v. City and County of San Francisco, supra, 68 Cal.App.3d 227, 231.)
+We note that in DeLeon v. Bay Area Rapid Transit Dist. (1983) 33 Cal.3d 456 [189 Cal.Rptr. 181, 658 P.2d 108], the state Supreme Court cited with approval Smith v. City and County of San Francisco, supra, 68 Cal.App.3d 227. The issue before the court in DeLeon was whether or not Code of Civil Procedure section 12a, which extends the time period when the last day for performing an act falls on a holiday, is applicable to the time limit of Government Code section 945.6.
+In the case at bench, it is undisputed that the date the School District deposited the notice of rejection of Plaintiff’s claim in the mail was January 4, 1984, which triggered the six-month limitation period within which the superior court action must be filed pursuant to Government Code section 945.6. The notice of rejection itself clearly pointed out to Plaintiff that he had only six months from the date the notice of rejection was deposited in the mail to file a complaint.
+The statutory period of limitations for actions against a public entity are mandatory and must be strictly complied with. (Chase v. State of California (1977) 67 Cal.App.3d 808, 812 [136 Cal.Rptr. 833]; Chas. L. Harney, Inc. v. State of California (1963) 217 Cal.App.2d 77, 90 [31 Cal.Rptr. 524].) A failure to start the action within the statutory time period is a valid ground for dismissal of the action. (Tubbs v. Southern Cal. Rapid Transit Dist. (1967) 67 Cal.2d 671 [63 Cal.Rptr. 377, 433 P.2d 169]; Chas. L. Harney, Inc. v. State of California, supra, 217 Cal.App.2d 77.)
+Accordingly, since it is also uncontradicted that Plaintiff did not file his complaint in the superior court until July 9, 1984, more than six months after the notice of rejection was deposited in the mail, the court below properly granted the defendant School District’s motion for judgment in the pleadings.
+Plaintiff Cole’s reliance on Addison v. State of California (1978) 21 Cal.3d 313 [146 Cal.Rptr. 224, 578 P.2d 941] is misplaced. Addison involved the application of the “equitable tolling” doctrine which is clearly inapplicable to the case at bench.
+Disposition
+The judgment is affirmed.
+Spencer, P. J., and Lucas, J., concurred.
+In Addison the plaintiff had originally filed a timely tort action against the State of California and the County of Santa Clara in federal court. The matter was dismissed by the federal court for lack of jurisdiction but after the expiration of the six months period.
