@@ -1,0 +1,39 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2241"
+decided: "1939-03-13"
+citations: ["31 Cal. App. 2d 451"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLOYD T. INGRAM et al., Respondents, v. THE CITY OF DELANO (a Municipal Corporation) et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/31/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4527355
+cites_cases: ["18 Cal. App. (2d) 77", "62 Pac. (2d) 1387"]
+---
+
+# Ingram v. City of Delano
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+The defendants have appealed from a judgment in favor of the plaintiffs in an action for damages resulting from a collision between an automobile driven by Mrs. Thelma Ingram and a truck owned and operated by the defendants.
+At the time of the collision, which occurred in February, 1937, both vehicles were traveling north from Delano on an oiled road, the oiled surface of which was about eighteen feet in width, the Ingram car traveling behind the truck and at a higher speed. Mrs. Ingram pulled to her left to pass the truck and shortly thereafter the driver of the truck turned the same toward the left side of the road and into her path, at a place where there was no road leading to the left. A collision occurred, although Mrs. Ingram then turned her car further to the left in an effort to avoid the truck. The case was tried without a jury and the court found that the driver of the truck was guilty of negligence, that Mrs. Ingram was not guilty of negligence, and that no negligence on her part proximately caused or contributed to any resulting injury or damage.
+The appellants, admitting that the driver of the truck was guilty of negligence in failing to give any signal of his intention to turn to the left, contend that Mrs. Ingram was guilty of contributory negligence in failing to sound her horn before overtaking the truck, as required by subdivision (b) of section 528 of the Vehicle Code; that both parties were guilty of negligence per se; and that the evidence is insufficient to support either a finding that Mrs. Ingram was not guilty of negligence, or a finding that her negligence was not a proximate cause of the accident.
+The appellants contend that it conclusively appears that Mrs. Ingram did not sound her horn soon enough, and that such negligence must be held to have been a proximate cause of the accident. This is based upon the contention that a portion of the testimony given by Mrs. Ingram establishes the fact that she did not sound her horn until the front wheel of her car was opposite the rear wheel of the truck and that, under the decision in Duncan v. J. H. Corder & Son, 18 Cal. App. (2d) 77 [62 Pac. (2d) 1387], her failure to give audible warning before attempting to pass the truck constitutes such negligence as must be held to have been a proximate caiise of this accident. It was pointed out in that ease, however, that the evidence therein was conflicting and that “the responsibility to place their own value on contradictory evidence rests upon the jury, and their decision thereon will not be disturbed in an appellate court when the evidence is reasonably susceptible to contradictory inferences being drawn therefrom ’ ’.
+The record before us contains the following evidence relating to the point in question. Mrs. Ingram testified that as she approached the truck “I pulled it over to the left to go around him”. When asked what she did she replied: “Well when I got to about the back end, I honked my horn, and by that time he had swung out in front of me and I grabbed the steering wheel and . . . tried to go to the left.” When asked where her car was in reference to the truck when the truck swung or turned into her path, she replied: 1 ‘ The front end of my car was in the back end of his.” Later, she testified that she pressed the horn as she started to go around the truck, that immediately after she pressed the horn she “saw him pulling in front of me” and “I pulled to the west”. On cross-examination she testified that she had come to “maybe sixty or seventy feet” behind the truck before she attempted to turn over to the west side of the road. She then admitted that the point where she commenced to swing out to pass the truck was not less than sixteen feet and not over thirty-two feet behind the truck. She then testified:
+‘‘Q. And the point when you noticed he was himself swinging to the left was when you had the front of your car about even with the rear end of the truck. A. Yes.
+“Q. Had you at that time got your car over on the west side of the road, or were you just crossing over! A. No, I was on the west side.
+“Q. Then between the time that you spoke of, not less than sixteen and not more than thirty-two feet, you had crossed clear over from the east side to the west side of the road! A. Yes sir.
+“Q. When you first noticed him commencing to swing his truck to the west, where was the front wheel of your car in reference to the hind wheel of the truck! A. Well it was along about the back.
+“Q. The front wheel of your car was about even with the hind wheel of the truck! A. Yes.
+“Q. Don’t let me mislead you, because there is a projection on your car beyond the front wheel, and the truck beyond the rear wheel. I would like to get the relative positions of the front wheel of your car and the hind wheel of the truck at the time you first noticed him swing over? A. I ivas along at the back end of his truck.
+“Q. And you can’t tell us about where the wheels were, the front wheel of your ear in reference to the hind wheel of the truck? A. Well they were along about the same.
+“Q. About opposite each other? A. Yes. e‘Q. And that was the time you sounded your horn and grabbed the brake, and grabbed the wheel? A. Yes.
+“Q. Had you sounded your horn before that? A. No.” Shortly thereafter she testified:
+“Q. And with the truck proceeding fifteen miles an hour, and you wdth your car at forty, the front wheels of your car were opposite the hind wheels of the truck ? A. Somew'here along in there.”
+Three employees of the appellant city were riding in the cab of the truck at the time. The one who sat in the middle testified: “Just as we swung across the highway I looked out and saw' the front end of her car coming.” When asked whether the truck swung over quickly, he replied: “Well, he pulled right over.” He then testified that at the time the truck swung to the west he heard the brakes of the Ingram car “squeaking”. On cross-examination he testified that he looked through the rear window of the cab and saw the Ingram ear, that when he first saw' that car “the end of her radiator was somewhere . . . about the back end of it, of the truck”. When asked if this is where the Ingram ear was when he first heard the squeaking of its brakes, he replied: “Well, just an instant afterward.”
+While there is some evidence that the horn of the Ingram car was not sounded until the front wheels thereof were opposite the rear wheels of the truck there is also evidence that Mrs. Ingram sounded the horn as she started to go around the truck; that she was somewhere from sixteen to thirty-two feet back of the truck when she commenced to swing out to pass it; and that she had gotten entirely on the west side of the road when she noticed the truck swinging over tow'ard her path. Assuming that a part of the evidence justifies the inference that the horn was not sounded as soon as it should have been there is also evidence justifying a contrary inference. The question was entirely one of fact and it cannot be said that the court’s findings are entirely without support in the evidence.
+The judgment is affirmed.
+Marks, J., and Griffin, J., concurred.
