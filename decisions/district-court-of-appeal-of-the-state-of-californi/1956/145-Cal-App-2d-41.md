@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 8684"
+decided: "1956-10-10"
+citations: ["145 Cal. App. 2d 41"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MERLE A. WILBUR et al., Appellants, v. DALE EUGENE CULL, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/145/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2202902
+cites_cases: ["13 P.2d 915", "216 Cal. 197", "237 P.2d 645", "255 P.2d 785", "38 Cal.2d 102", "40 Cal.2d 614"]
+---
+
+# Wilbur v. Cull
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+The sole contention made by plaintiffs in this appeal is that the trial court erred in refusing to instruct the jury on the doctrine of last clear chance.
+When we view the evidence, as we must, in the light most favorable to plaintiffs, “since plaintiff[s] . . . [are] entitled to an instruction thereon if the evidence so viewed could establish the elements of the doctrine” (Selinsky v. Olsen, 38 Cal.2d 102, 103 [237 P.2d 645]), the following is disclosed: Defendant Dale Cull, a minor, 15 years of age, was driving a Nash Rambler convertible westerly along the north side of Butte House Road in Sutter County at a speed variously estimated to have been from 40 to 65 miles an hour. Riding with him in the car at that time were six others of approximately the same age. Four of the group, including Cull, were in the front seat; the other three were in the rear seat. He first saw the victim of the fatal accident, Marty Wilbur, age six and one-half, from a distance of 300 or more feet away. Marty was riding a medium size, 20-inch wheel bicycle in a westerly direction along the right shoulder of the highway. In front of defendant, and traveling in the same direction, was a second ear. As that vehicle approached Marty, he turned to the left onto the paved portion of the highway. The driver sounded his horn and swerved left to avoid hitting Marty who then turned back to his former position on the shoulder. The evidence as to the distance between the two cars at that time is both vague and conflicting; that is, there is testimony by the defendant, under section 2055 of the Code of Civil Procedure, that the distance was 300 feet or more, and other testimony by him when he later testified in his own behalf that only a distance of two car lengths separated them. In any event the evidence shows that after the first car was past, Marty again turned his bicycle to the left onto the paved portion of the highway and continued diagonally across the same to a point on the left shoulder where he was struck by defendant’s car. Marty gave no signal of his intention to turn, nor did he at any time look to the rear. The evidence is again vague as to what defendant did after first noticing Marty’s intention to turn onto the paved traffic lanes. He did testify, however, that he did not sound his horn at any time; that at some point he took his foot off the gas; and that when he first applied the brakes he was traveling at a speed of approximately 35 miles per hour. Tire marks on the highway showed that the car skidded for a distance of 100 feet and then continued on off the left shoulder of the highway and into a tomato field for a total distance of 196 feet. The point of impact was upon the left shoulder of the highway.
+It is plaintiffs’ contention that the facts summarized establish the necessary elements for application of the last clear chance doctrine. These elements have been stated as follows:
+“That plaintiff has been negligent and, as a result thereof, is in a position of danger from which he cannot escape by the exercise of ordinary care; and this includes not only where it is physically impossible for him to escape, but also in cases where he is totally unaware of his danger and for that reason unable to escape; that defendant has knowledge that the plaintiff is in such a situation, and knows, or in the exercise of ordinary care should know, that plaintiff cannot escape from such situation, and has the last clear chance to avoid the accident by exercising ordinary care, and fails to exercise the same, and the accident results thereby, and plaintiff is injured as the proximate result of such failure. It has been said that such failure by defendant to use ordinary care under such circumstances amounts to a degree of reckless conduct that may well be termed wilful and wanton, and when an act is thus committed, contributory negligence upon the part of the person injured is not an element which will defeat a recovery.” (Girdner v. Union Oil Co., 216 Cal. 197, 202 [13 P.2d 915].)
+The factual situation disclosed by the record as summarized would appear to fall squarely within the rule set forth in the Girdner case. Therefore since it is well established that “ [i]t is the duty of the court to instruct on every theory of the case finding support in the evidence” (Daniels v. City & County of San Francisco, 40 Cal.2d 614, 623 [255 P.2d 785]), and since there was substantial evidence which, if believed, would have upheld a verdict in favor of the plaintiffs under the doctrine of last clear chance, it was error for the trial court to refuse to so instruct and to send the case to the jury solely upon a question of the contributory negligence of the small child.
+In view of the conclusion which we have reached in this regard, it becomes unnecessary to discuss whether or not the instruction submitted by plaintiffs was erroneous, as contended by defendant, since upon a retrial, the error if any there be in that instruction may be corrected.
+The judgment is reversed.
+Van Dyke, P. J., and Sehottky, J., concurred.
