@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9916"
+decided: "1935-11-19"
+citations: ["10 Cal. App. 2d 253"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN DONOVAN, Respondent, v. P. LORILLARD COMPANY OF DELAWARE (a Corporation) et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/10/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269416
+cites_cases: ["166 Pac. 8", "175 Cal. 474", "186 Pac. 631", "2 A. L. R. 1493", "44 Cal. App. 474"]
+---
+
+# Donovan v. P. Lorillard Co.
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The defendants have appealed from the judgment rendered against them for damages suffered in an automobile accident. They claim the plaintiff was guilty of contributory negligence which was the proximate cause of the accident and that no judgment should have been rendered against them.
+Third and Harrison Streets in San Francisco cross each other at right angles. Harrison Street runs east and west.
+Third Street runs north and south. On December 26, 1933, at about 4:15 P. M. the plaintiff walked down the sidewalk on the south side of Harrison Street until he came to Third Street. He stopped and looked up Third Street to his left and there was no traffic approaching. He stepped off the sidewalk into the pedestrian lane and proceeded to cross Third Street. As he did so he looked ahead and “kind of kept” his eyes to his left until he got to the middle of Third Street and then he looked to his right. He saw a sedan and-a truck coming from the south on the easterly side of Third Street. The sedan was in the lead and the truck was following it. Bach was traveling about 18 or 20 miles per hour. The plaintiff stopped in the middle of the northbound street car track to let the sedan go by but it slowed up and the plaintiff passed in front of it. At about the same time the truck pulled to the right and started to pass the sedan. As it did so the plaintiff continued to watch both vehicles. As the truck pulled abreast of the sedan the plaintiff again stopped for the truck to pass him. It was traveling 18 to 20 miles per hour and did not slow down. The last place where the plaintiff stopped was 8 feet from the easterly car track and about 14 or 15 feet from the easterly curb line of Third Street. The last time the plaintiff noticed the sedan it was 10 or 15 feet from him. While he stood in the place above' mentioned he was looking at the truck all of the time. It continued on its course. The front end passed him and, as he testified, swerved slightly to its left and then attempted to make a right-hand turn into Harrison Street and travel to the east. But, in making those turns the left rear wheel ran over the leg of the plaintiff and he was knocked or fell down in the street. There was some evidence that his body rested on the south side of the lane in the street. Plaintiff testified he walked in the pedestrian lane.
+The defendants contend that the plaintiff was guilty of contributory negligence. In so contending they make several different assignments. They assert that if the front of the truck passed the plaintiff and the truck was executing a right-hand turn then, as a law of physics, it necessarily follows the rear wheels would have cleared him. Be that as it may, the plaintiff testified and the jury were authorized in believing the truck first swerved to the left and then turned to the right. If such were its movements it is clear that the truck could have run over and Imocked the plaintiff down just as he testified. If so, it is clear that the inference that plaintiff ran or walked up against the truck is without foundation. We say inference because there was no direct evidence that he did so. In this same connection the defendants point to the evidence as to how the plaintiff lay in the street after the accident and they argue that the accident did not occur in the pedestrian lane. The plaintiff testified it did. We must assume the jury believed and acted on his testimony. Finally the defendants cite Moss v. H. R. Boynton Co., 44 Cal. App. 474 [186 Pac. 631], and they quote from page 476 as follows: “It was a duty devolving upon plaintiff, as the act of an ordinarily prudent man, immediately before placing himself in a position of danger, to look in the direction from which danger was to be anticipated. This was a continuing duty and was not met by looking once and then looking away. In the exercise of ordinary care it is the duty of a pedestrian ‘to look to the right and to the left whenever he has voluntarily put himself in a position which may be one of peril coming from either direction’. (Sheldon v. James, 175 Cal. 474, 479 [2 A. L. R. 1493, 166 Pac. 8, 11].) ” That and similar cases are not applicable to the facts of the instant case. The plaintiff, John Donovan, did not cease to look—he continued to look at and watch the approaching traffic from the instant he entered the street crossing until the accident.
+The judgment appealed from is affirmed.
+Nourse, P. J., and Spence, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on December 19, 1935, and an application by appellants to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on January 16, 1936.
