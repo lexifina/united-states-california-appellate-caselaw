@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1942"
+decided: "1919-01-23"
+citations: ["39 Cal. App. 437"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. R. GADDIS, Respondent, v. WILLIAM GRANT, Appellant."]
+source_url: "https://static.case.law/cal-app/39/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032554
+cites_cases: ["104 Cal. 532", "104 Pac. 462", "11 Cal. App. 190", "110 Pac. 472", "112 Pac. 901", "116 Pac. 553", "116 Pac. 690", "124 Cal. 222", "13 Cal. App. 649", "135 Cal. 401", "14 Cal. App. 538", "140 Cal. 672", "142 Cal. 566", "151 Cal. 234", "159 Cal. 742", "16 Cal. App. 256", "38 Pac. 410", "56 Cal. 489", "56 Pac. 1027", "67 Pac. 499", "7 Cal. App. 278", "74 Pac. 301", "76 Pac. 235", "9 Cal. App. 114", "90 Pac. 936", "94 Pac. 386", "98 Pac. 197"]
+---
+
+# Gaddis v. Grant
+
+## Majority (BURNETT, J.)
+
+BURNETT, J.
+The action was brought to recover the amount due on a promissory note and to foreclose a mortgage given to secure the payment of the same. Defendant filed a demurrer to the complaint on the grounds, “That the said complaint does not state facts sufficient to constitute a cause of action,” and, “That said complaint is uncertain in this, that it does not appear therefrom how much money has been paid, either on account of principal or interest on said promissory note, or, in what manner or how the amount of interest stated to be now due and owing on said note is calculated, or how such an amount can be due or payable.”
+The demurrer was overruled, and after answer filed by defendant, the cause came on regularly for trial. There was no appearance by or on behalf of appellant at said trial, and after the evidence on behalf of plaintiff was submitted, the court permitted him to file an amendment to his c.omplaint to correct a clerical error in paragraph 5 thereof as to the respective items of principal and interest, changing the former from five thousand five hundred dollars to six thousand dollars, and the latter from $1,274.20 to $774.20, but leaving the aggregate amount the same. The court thereupon rendered judgment for plaintiff as prayed for and appellant has appealed from said judgment upon the judgment-roll alone. He makes two points: First, that the court erred in overruling his demurrer for uncertainty, and second, that the court should not have permitted the “filing of the amendment to the complaint without notice to defendant or service upon him.” There is no merit whatever in either point, and it is quite apparent that this appeal should never have been taken.
+There was no uncertainty as to the amount claimed and alleged for interest and for principal in said paragraph 5 of the complaint, but it did appear from the whole of the pleadings that too much was claimed for interest and too little for principal. The aggregate amount, though, as we have seen, was correct. This shows that the mistake was entirely without prejudice. Besides the specific allegation as to principal and to interest was entirely unnecessary. It was sufficient to aver that the whole amount was owing and unpaid. The payments made upon a promissory note and the items constituting the balance due are but items of an account, which, if the defendant wants, he can demand in the form of a bill of particulars, but a demurrer for uncertainty is hot the remedy. (Code Civ. Proc., sec. 454; Long Beach, etc., v. Dodge, 135 Cal. 401, [67 Pac. 499] ; Jensen v. Dorr, 159 Cal. 742, [116 Pac. 553].)
+It may be added, that if appellant had seriously considered his point as possessing any merit he would, no doubt, have appeared at the trial and shown that the said mistake was made in estimating the amount of the interest. However, the correction was made, notwithstanding he voluntarily absented himself, and he has no cause for complaint because it was made in his absence.
+The contention is too trifling for further comment, but, even if the court had committed an error in overruling the demurrer, it would be disregarded under the well-settled rule. A judgment which is right upon the merits will not be reversed for harmless error in overruling a demurrer to the complaint for ambiguity or uncertainty, where the defendant was not misled to his prejudice, and the apparent ambiguity or uncertainty consists of a statement of useless and surplus matters, and the cause of action is fairly apparent from the complaint. (Alexander v. Central L. & M. Co., 104 Cal. 532, [38 Pac. 410]; Bank of Lemoore v. Fulgham, 151 Cal. 234, [90 Pac. 936]; Preston v. Central Cal. etc. Irr. Co., 11 Cal. App. 190, [104 Pac. 462] ; Kreiger v. Feeny, 14 Cal. App. 538, [112 Pac. 901].)
+There are several answers to the second contention of appellant. In the first place, it must be presumed that he was served with a copy of the amended complaint, since the contrary does not appear. On appeal, of course, every intendment is in favor of the regularity of the proceedings and of the validity of the judgment. If appellant desired to have his contention treated seriously he should have presented an appropriate record by means of a bill of exceptions. The precise question has been adjudicated adversely to his contention in Livermore v. Webb, 56 Cal. 489; Riverside County v. Stockman, 124 Cal. 222, [56 Pac. 1027]; Canadian etc. Co. v. Clarita etc. Co., 140 Cal. 672, [74 Pac. 301]; Segerstrom v. Scott, 16 Cal. App. 256, [116 Pac. 690].
+Besides, where an amendment is made to make the pleadings conform to the proof, it is not necessary that notice thereof be given and not necessary that such amendment be served. (Hedstrom v. Union Trust Co., 7 Cal. App. 278, [94 Pac. 386] ; Ramboz v. Stansbury, 13 Cal. App. 649, [110 Pac. 472].)
+Manifestly, it is true, also, that the amendment was to correct a clerical error; that it did not affect in the least the cause of action, and that it could not possibly have prejudiced appellant. (Blankenship v. Whaley, 142 Cal. 566, [76 Pac. 235]; Meyers v. Holton, 9 Cal. App. 114, [98 Pac. 197].)
+In fact, as we have stated, the amendment was in reference to an entirely immaterial matter, and the mistake might have been disregarded, since the judgment was for the proper amount.
+It is seldom that an appeal is presented with less of merit to recommend it.
+The judgment is affirmed.
+Chipman, P. J., and Hart, J., concurred.
