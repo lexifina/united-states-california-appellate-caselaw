@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 602"
+decided: "1909-04-27"
+citations: ["10 Cal. App. 447"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANN CLAVO, Appellant, v. JOHN CLAVO (Substituted as Executor of N. CLAVO, Deceased), JOHN CLAVO, and JOSEPH CLAVO, Respondents."]
+source_url: "https://static.case.law/cal-app/10/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4657205
+cites_cases: ["116 Cal. 339", "48 Pac. 228", "58 Am. St. Rep. 170"]
+---
+
+# Clavo v. Clavo
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Action to set aside a deed to real property as void. Defendants had judgment, from which plaintiff appeals on the judgment-roll.
+It was alleged in the complaint and found by the court: That plaintiff and N. Clavo (now deceased) intermarried in January, 1879, and shortly thereafter and prior to 1890 acquired the property in question as community property; that at the time the purchase of said property was made the said N. Clavo agreed that the deed should be made to Ann Clavo, plaintiff, but said deed was not so made, of which fact plaintiff was ignorant by reason of her incapability to read; that on January 17, 1893, the said N. Clavo conveyed said property by deed of gift to the defendants Joseph Clavo and John Clavo, without consideration; that said N. Clavo, by gift deeds, disposed of all the real" and other property belonging to the community of plaintiff and her said husband (but at what time does not appear), by reason whereof “the rights of plaintiff in her full share of the community property was endangered and dissipated,” and that he thus “deprived himself of the means of supporting his wife, plaintiff herein, and those dependent upon him, and plaintiff was obliged to seek and obtain aid and support from her son by a former marriage. ” As a conclusion of law the court found that plaintiff has no interest in the property the subject of the action and that defendants are entitled to judgment.
+The question here involved arises under section 172 of the Civil Code, which relates to the power of the husband over community property, as amended March 31,1891 (Stats. 1891, p. 425), by the following provision: “Provided, however, that he (the husband) cannot make a gift of such community property, or convey the same without a valuable consideration, unless the wife, in writing, consent thereto.” The property in question was acquired prior to 1891 and the question is: Could the husband convey it by gift after the amendment of 1891 without his wife’s consent given in writing?
+It is conceded by appellant that the reasoning in Spreckels v. Spreckels, 116 Cal. 339, [58 Am. St. Rep. 170, 48 Pac. 228], sustains the judgment in this case, but it is contended that the facts in the two cases differ and furthermore it is claimed that the question was not necessarily involved in the Spreckels case and what was there said on the subject was “pure dictum.” An examination of the reported case will show that the parties to the action treated the point decided as involved and the opinion is devoted almost entirely to its consideration. It was there decided that prior to the amendment of 1891 to section 172 of the Civil Code, forbidding the husband to give away community property without the consent of the wife in writing, the code vested in the husband all the elements of absolute ownership of the community property, to the exclusion of the wife, whose interest was a mere expectancy; and as to all the world except the wife, there was, prior to the amendment, no distinction between the community estate and the separate estate of the husband as respects the power of disposition, and the amendment of the code cannot be construed retroactively so as to deprive the husband of his vested right to dispose by gift of community property which was acquired prior to the amendment, without the written consent of the wife. The opinion is by Mr. Justice Temple, concurred in by Justices Henshaw, Harrison and McFarland. Chief Justice Beatty concurred in the judgment, as he stated, “but upon a somewhat narrower ground than that taken in the opinion of Mr. Justice Temple.” A rehearing was denied, and we cannot doubt but that the result reached on the question was the deliberate and thoroughly well-considered judgment of the court, which it is our duty to follow.
+It is also urged that the transactions as pleaded imply fraud of such character as to warrant the annulment of the deed.-
+The deed in question was executed on January 17, 1893, and the action was not brought until November 7, 1905, and the husband was living when it was commenced. There are no allegations of fraud in the complaint and no finding of fraud was made by the court. The only averment from which appellant infers fraud is that relating to the agreement that the deed to the property was to be in her name, but there is no averment that her husband caused it to be made in his name through any fraudulent intent. His gift conveyance was not fraudulent in itself and if claimed to have been so> in fact it should have been pleaded and proved. The averments that he subsequently (when does not appear) conveyed by gift his remaining property presented no issue in this case and no relief was asked because thereof. But even as to these transactions it is not alleged nor is it found that they were consummated with any fraudulent intent.
+The judgment is affirmed.
+Bunnett, J., and Hart, J., concurred.
