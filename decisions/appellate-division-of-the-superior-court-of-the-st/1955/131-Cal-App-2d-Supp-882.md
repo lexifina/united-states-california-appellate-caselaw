@@ -1,0 +1,28 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 8604"
+decided: "1955-02-25"
+citations: ["131 Cal. App. 2d Supp. 882"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST NATIONAL BANK OF BELLFLOWER, Respondent, v. GEORGIA CHAMBERS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/131/cases/0882-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2166650
+cites_cases: ["108 Cal.App. 354", "127 Cal.App.2d 491", "202 Cal. 778", "262 P. 742", "274 P.2d 194", "291 P. 621", "48 A.L.R. 1369"]
+---
+
+# First National Bank v. Chambers
+
+## Majority (PATROSSO, J.)
+
+PATROSSO, J.
+Action to recover possession of an automobile or in the alternative the value thereof. Plaintiff recovered judgment as prayed, and defendant appeals.
+Plaintiff's complaint alleges that defendant, Georgia Cham- " bers (hereinafter referred to as defendant), is the owner of the Lincoln automobile therein described; that she executed and delivered to plaintiff a promissory note in the sum of $1,194.32, together with a chattel mortgage upon said automobile securing the same; that defendant defaulted in the payment of said note, whereupon plaintiff demanded possession of said automobile, which was refused by defendant. The prayer is for the possession of the automobile or the sum of $610, the balance alleged due upon the note. Defendant’s answer consists of a general denial, except that defendant admits that she executed a note and chattel mortgage upon the automobile in question; that all sums due thereon had been paid except $100, which defendant had tendered to plaintiff and the latter had refused to accept, as a result of which it is alleged the note was discharged pursuant to the provisions of section 1485 of the Civil Code.
+There is no dispute with respect to the facts of the case. On July 11, 1952, defendant borrowed $1,194 from plaintiff, executing her note therefor, together with a chattel mortgage upon the automobile in question. On January 9, 1953, at which time there was a balance due on this note of $610 defendant’s husband arranged a new loan with plaintiff in the sum of $1,000, and thereafter delivered to plaintiff a promissory note therefor together with a chattel mortgage securing the same upon the automobile, each of which purported to be signed by defendant, but to which her name had been signed without her knowledge or consent. It was stipulated that if the defendant was bound by these forged instruments, the balance due was $610, but if not, the balance remaining due upon the original note and chattel mortgage executed by defendant was only $100. The defendant did not obtain any knowledge of the forgeries mentioned until April, 1953, when she was advised of this fact by a representative of the plaintiff. As a result of this conversation, however, defendant wrote a letter to the plaintiff, wherein she stated, among other things: “I agree to assume the $610 debt against the ear.”
+Admittedly if defendant incurred any liability to plaintiff it is solely by reason of said letter. No right to enforce payment can be acquired through or under a forged signature unless the party against whom it is sought to enforce such right is precluded from setting up such forgery. (Civ. Code, §3104; Anglo-California Trust Co. v. French American Bank (1930), 108 Cal.App. 354, 357 [291 P. 621].) “In the absence of the elements necessary to create an estoppel, ratification, or adoption a promise by one whose name is forged, made without any new consideration, to pay for or take care of the paper, will not create liability. ’ ’ (Anno. 48 A.L.R. 1369.)
+We agree with the trial judge, as stated in his memorandum opinion, that there is no evidence which would support a finding of estoppel, ratification or adoption. He, however, rested his judgment upon the ground that the defendant’s promise, being in writing, was presumptively supported by a consideration. He also stated that, “although we have no direct evidence to that effect,” he believed there was “an understanding” between defendant and her husband “concerning the balance,” it appearing that in a property agreement executed between defendant and her husband preceding the writing of the letter, there is a recital that the automobile “is registered in the wife’s name and is her separate property. ’ ’
+We dismiss at once the suggestion that there may have been some understanding or agreement between defendant and her husband with reference to the payment of the note as mere conjecture, having no support in the evidence. And while it is true that there is a presumption “that there was a good and sufficient consideration for a written contract,” and that a presumption is evidence, this does not aid plaintiff’s cause. Here plaintiff produced evidence as to the circumstances surrounding the writing of the letter, and it is now firmly established that a presumption “is dispelled from the case and entitled to no probative value where the litigant invoking the presumption has introduced evidence encompassing the subject matter of the presumption.” (Stout v. Southern Pac. Co. (1954), 127 Cal.App.2d 491, 496 [274 P.2d 194], and cases there cited. ) The evidence introduced upon behalf of the plaintiff discloses that defendant received no benefit for her promise and that the plaintiff suffered no detriment in reliance thereon. The case here is ruled in principle by Tiffany & Co. v. Spreckels (1927), 202 Cal. 778, 789 [262 P. 742].
+The judgment is reversed.
+Bishop, Acting P. J., concurred.
