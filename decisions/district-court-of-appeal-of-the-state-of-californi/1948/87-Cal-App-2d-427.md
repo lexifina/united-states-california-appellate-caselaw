@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7487"
+decided: "1948-09-02"
+citations: ["87 Cal. App. 2d 427"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MANUEL G. ROSA, Appellant, v. MANUEL G. ROSA, JR., Respondent."]
+source_url: "https://static.case.law/cal-app-2d/87/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2270729
+cites_cases: ["143 P.2d 689", "172 P.2d 704", "23 Cal.2d 221", "3 Cal.2d 427", "45 P.2d 183", "76 Cal.App.2d 321"]
+---
+
+# Rosa v. Rosa
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+This is an action by plaintiff, the father of defendant, to set aside a deed previously executed by the father and delivered to the son. We find no merit in the appeal of plaintiff from the judgment of the trial court decreeing defendant to be the owner of the ranch property involved subject to a life estate in the plaintiff.
+By his complaint plaintiff alleged that he was an elderly man of 74 years and could neither read nor write the English language; that between himself and the defendant, his only son, there existed the highest relationship of trust and confidence ; that the defendant falsely, fraudulently and without consideration procured the signature of plaintiff to a document which defendant purported to be an application for the refinancing of plaintiff’s property, and that it was not until more than one year thereafter that he discovered the document was in fact a deed to the farm. The answer of defendant denied the alleged fraud and misrepresentation, specifically admitted the confidential relationship and affirmatively alleged that the consideration for the transfer was the love and affection which plaintiff bore to defendant and the monies advanced to and the services performed for plaintiff by defendant over a period of years. On the issue so joined the cause proceeded to trial, resulting in the judgment as mentioned.
+In view of appellant’s one contention which is directed solely at what is alleged to be the sufficiency of the evidence to “rebut the presumption that the transfer of a father’s entire property to his son was fraudulently consummated” we have carefully examined the entire record. In so doing we have resolved all conflicts and all reasonable inferences, as we must, in favor of the findings of the trial court.. (Crawford v. Southern Pacific Co., 3 Cal.2d 427 [45 P.2d 183]; Estate of Bristol, 23 Cal.2d 221 [143 P.2d 689].)
+So reviewed the evidence may be summarized as follows:
+Respondent was born on the farm which was acquired by plaintiff as his separate property in the year 1903. In 1930, plaintiff and respondent’s mother separated, the plaintiff moving to a garage and later to a small cabin situated on the premises. The mother, who was then an invalid, and defendant, continued to reside in the main ranch house. At approximately the same time defendant married and at the request of plaintiff the defendant continued to make his home on the ranch. From 1928 to 1939, defendant, in addition to paying all of the operating expenses of the dairy ranch operated by plaintiff, including the purchase of dairy stock and general ranch equipment, paid compensation and automobile insurance for plaintiff, remodeled the ranch home, installed a water pressure system, paid interest on a Federal Loan Bank loan on the ranch, and the personal obligations of plaintiff including doctor bills. Defendant also supported his mother and assisted plaintiff in paying to her the monthly sum agreed upon at the time of their separation for her support. He- also paid the expenses of her last illness and burial. During all of this time plaintiff and defendant were on intimate terms and on several occasions plaintiff told defendant that the property would be his some day. Similar statements were made by plaintiff to mutual’acquaintances and neighbors as well as additional statements to them in which he said he was getting old, that he had only one son and was turning all of his property over to him. The public accountant and notary public in whose office the deed,,, ;was executed testified that plaintiff stated to him that he knew what the document was and that he wanted the defendant to have it. The witness further testified that pursuant to the transfer of the property he prepared a Federal Gift Tax Return which was signed by both parties. At the time of the transfer the property was valued at $14,500, subject to a $5,000 encumbrance, which the defendant was to pay.
+As stated in the memorandum opinion of the trial court it is a familiar rule that generally lack of independent advice or consideration, the advanced age and both the physical and mental condition of the grantor, coupled with a confidential relationship between him and his grantee, is sufficient to raise a presumption of fraud thereby casting the burden of refutation upon the grantee. But that is not to say that the presence of one or more of the same or similar elements conclusively establishes the presumption. Bach case must be determined on its own facts and circumstances, the weight of which is exclusively for the trial court.
+It is appellant’s contention that the defendant has not sustained such burden, and in support thereof he relies upon portions of the record arguing that such evidence was not sufficient. It was no more incumbent upon the trial court to believe the testimony of plaintiff and his witnesses than it was to believe the testimony of defendant and his witnesses. In either case the weight and sufficiency of the evidence, if substantial, and! we conclude it was, was exclusively within the province of the trial court. (Azevedo v. Leavitt, 76 Cal.App.2d 321 [172 P.2d 704].)
+The judgment is affirmed.
+Adams, P. J., and Thompson, J., concurred.
