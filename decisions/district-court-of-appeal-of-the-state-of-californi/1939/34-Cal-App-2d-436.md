@@ -1,0 +1,49 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12120"
+decided: "1939-08-31"
+citations: ["34 Cal. App. 2d 436"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE EQUITABLE LIFE ASSURANCE SOCIETY OF THE UNITED STATES (a Corporation), Respondent, v. GRACE MILSTEIN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/34/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2366894
+---
+
+# Equitable Life Assurance Society v. Milstein
+
+## Majority (DORAN,)
+
+DORAN,
+J.—The above action was instituted to foreclose a mortgage upon the property of defendant Grace Milstein located in Beverly Hills, California, which mortgage had been executed on July 24, 1929, in favor of the Leo P. Schaefer Co., a corporation, for the purpose of securing the payment of principal and interest upon a promissory note of the defendant in the sum of $11,000. The Leo P. Schaefer Co. subsequently assigned the note and mortgage to plaintiff, The Equitable Life Assurance Society, a corporation, the former company being the mortgage loan agent and correspondent in Los Angeles County for the latter.
+The last payment upon the principal of said note was due August 1, 1934. The complaint, filed April 22, 1938, was in the usual form and alleged: “That neither the whole nor any part of the principal amount of said promissory note which became due and payable in installments as provided therein has ever been paid; that default has been made in the payment of the principal amount of said note and in the payment of each installment of principal which became due and payable under the provisions of said note; that neither the whole nor any part of the interest payable under the provisions of said note has ever been paid subsequent to the semi-annual installment of interest due and payable under the terms of said note on August 1, 1937; that default has been made in the payment of the semi-annual installment of interest that became due and payable on February 1, 1938, and subsequent to August 1, 1937.”
+On May 4, 1938, summons and a copy of the complaint were allegedly served upon defendant Grace Milstein, appellant herein. No appearance was filed on her behalf, and thereafter, on May 16, 1938, defendant’s default was entered. An answer consisting of denials of the allegations of the complaint was filed by defendant Grace Milstein with the clerk of the court on that day, namely, May 16th, subsequent to the default’s being taken. In particular, with reference to paragraph VII of the complaint, above quoted, the verified answer denied: “ ... generally and specifically, each and every allegation contained in paragraph VII of the plaintiff’s complaint, and alleges the fact to be that all of the payments specified and set forth in the mortgage and the note have been paid, and further alleges the fact to be that the principal has been reduced by successive payments according to the terms and tenor of the said mortgage. This defendant further alleges that the whole of the principal is not due, not owing and not unpaid, and that the action herein has been brought prematurely and in violation of the terms of the said mortgage; that all taxes, assessments, levies and other indebtedness have been paid, and the contract of mortgage has been faithfully performed by this answering defendant, and that all installments as provided in the said mortgage have been properly and duly paid in lawful money of the United States. ’ ’
+One Clive Daggett, a lienholder, also a defendant in this action, duly appeared and filed on May 4, 1938, an answer to plaintiff’s complaint; the cause was set down for trial on June 3, 1938, on which date a decree of foreclosure and order of sale was signed by the court and filed. The decree read in part as follows:
+“The above entitled action came on regularly for hearing in the above entitled court ... on the 3rd day of June, 1938, . . . and none of the defendants appearing at the trial either in person or by counsel and it being shown to the satisfaction of the court by proof duly made that the above named defendants herein, Grace Milstein . . . and each of them, were duly and regularly served personally with summons and a copy of the complaint herein; . . . that defendants Grace Milstein and . . . have, and each of them has, defaulted by not appearing herein within the time prescribed by law; that the default of said defendants Grace Milstein and . . . and each of them, has been duly and regularly entered herein; . . . and evidence, oral and documentary, having been introduced in support of the allegations of plaintiff’s complaint, and the court having heard and duly considered the evidence, and it being fully advised in the premises, and it appearing to the court: ... 4. That each and every allegation contained in the complaint on file herein is true. . . .
+“From the foregoing facts the court concludes as a matter of law that plaintiff is entitled to judgment and a decree foreclosing said mortgage and ordering a sale of said premises, and to a judgment against defendant Grace Milstein as prayed for in said complaint.”
+Defendant and appellant Milstein subsequently moved to have the judgment set aside on the grounds that she had not been served with summons and complaint, and that she had not been properly advised as to the time of trial so that she could be present and present her defense. The motion came on for hearing on June 14, 1938, at which time defendant appeared in propria persona. Her affidavit, dated June 2, 1938, in support of said motion alleged as follows:
+‘' Grace Milstein, being first duly sworn, deposes and says: That she is one of the defendants in the above entitled action ; that heretofore on the 16th day of May, 1938, default was entered against her through surprise, inadvertence and excusable neglect, which said surprise, inadvertence and excusable neglect is hereinafter set forth as follows:
+“That the affidavit of service upon this defendant states that this defendant was served on the 4th day of May, 1938, but that the said affidavit of service is false and untrue, in that this defendant was served on the 5th day of May, 1938, which time this defendant recalls due to facts which happened on the said 5th day of May, 1938, in connection with the service of said summons and complaint; that this defendant was advised by an attorney that she had ten days within which to file an answer, and that if the last day of said ten days fell on a Sunday or a holiday she would have an additional day on which to file her answer; that the tenth day of service on this defendant fell on Sunday, May 15, 1938, and that thereafter on May 16, 1938, this affiant filed her answer; that on the same date the default of this defendant was entered prematurely;
+“This defendant has consulted an attorney and is informed and believes, and therefore alleges, that she has a legal defense to the said action, as will appear by her answer on file, and that this defendant desires to avail herself of the privilege of appearing in court and having her day in litigation in the ábove entitled matter.
+“Wherefore, affiant prays that the court make an order setting aside the default heretofore entered and allowing her answer to stand and proceed to trial. ’ ’
+Counteraffidavits were filed by plaintiff wherein it appeared, among other things, that defendant Grace Milstein had written a letter to the Leo P. Schaefer Co., on May 26, 1938, which letter is in words and figures as follows:
+“520 N Linden Drive,
+“Beverly Hills, Calif.
+“May 26, 1938.
+“Leo P. Schaefer Co.,
+“215 W. 6th St.,
+“Los Angeles, Calif.
+“In re: Equitable Assurance v. Grace Milstein.
+‘ ‘ Gentlemen:—
+“I am addressing this communication as the defendant in the above action, feeling that under the circumstances I am fully justified in making the request I will hereinafter set forth.
+“As you know, this ease has been set forth for trial on June 3rd, and this comes as a very urgent request that you allow this matter to go off calendar, or at least to be continued for a period of ninety days, for the reason that the property is now in the hands of my real estate broker for sale, and quite a number of prospective buyers have been inspecting and are daily inspecting the premises. . . .
+“Very truly yours,
+“Mrs. Grace Milstein.”
+As heretofore noted in the decree of foreclosure, none of the defendants, including the defendant Milstein, appeared at the trial on June 3, 1938.
+The court, upon reading the affidavits above referred to, and at the conclusion of the arguments of counsel, by its order denied defendant’s motion to set aside the judgment, from which order this appeal is taken. The appeal is presented on a bill of exceptions.
+It is contended that section 473 of the Code of Civil Procedure “is intended to afford relief to a defendant against whom judgment has been rendered through surprise, inadvertence or excusable neglect” and is applicable to the alleged state of facts upon which appellant purports to rely.
+Did the trial court abuse its discretion in denying appellant’s motion to vacate a default judgment, is the sole question presented on appeal. It is too well settled to require citation of authority that, under such circumstances as here presented, if it appears that there is any reasonable ground upon which the lower court can be upheld, an appellate court will affirm the order or judgment upon appeal. Not only does the record reveal that the trial court's action was clearly justified, but in addition thereto it also appears that the appeal herein is entirely without merit. A further discussion of the record would serve no useful purpose.
+The order denying defendant’s motion to set aside the judgment is affirmed.
+York, P. J., White, J., concurred.
