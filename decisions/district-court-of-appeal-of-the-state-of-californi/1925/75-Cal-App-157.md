@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5258"
+decided: "1925-11-09"
+citations: ["75 Cal. App. 157"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALPINE PETROLEUM COMPANY, Appellant, v. GUY E. LEWIS et al., Respondents."]
+source_url: "https://static.case.law/cal-app/75/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163796
+---
+
+# Alpine Petroleum Co. v. Lewis
+
+## Majority (LANGDON, P. J.)
+
+LANGDON, P. J.
+This appeal is by the plaintiff from a portion of a judgment denying it damages for alleged interference with its leasehold rights in certain land in the county of Ventura, California. Judgment was given quieting plaintiff’s title to this leasehold interest and restraining defendants from interfering with the enjoyment thereof.
+The defendants are the owners of the land and transferred to lessees the right to sink wells and prospect for oil. Through successive transfers, the plaintiff became the owner of these oil leases. There is no question about this phase of the case, and the portion of the judgment quieting plaintiff’s title to the leases, from which no appeal was taken, makes it unnecessary for us to set forth the details of the transactions leading to this result.
+In its complaint plaintiff also charged that defendants interfered with it in obtaining drilling contractors and persuaded drillers to leave its employment and circulated false stories that plaintiff was not paying its bills, all wilfully and maliciously and for the purpose of obstructing plaintiff in its work under its leases; that defendants commenced certain actions against plaintiff’s predecessors in interest in said leaseholds, seeking to have it judicially declared that they had no right, title or interest in the land, well knowing that plaintiff was the assignee of the defendants in said actions and that said actions were brought to hamper and interfere with the quiet enjoyment of plaintiff herein.
+The trial court has found, upon conflicting evidence, that the defendants did not interfere with the drillers or drilling contractors in the employ of plaintiff and that defendants did not make the statements or do the acts charged by plaintiff. With reference to the other allegations of the complaint, it was found by the court that defendants commenced actions against Spellacy and Neiswender and fictitious defendants to quiet title to the land in question, but that such actions were commenced in good faith and in the belief that the said Spellacy and Neiswender, who were the first assignees of the lessees named in the leases and who, in turn, had assigned said leases to Alpine Petroleum Company, had not complied with the terms of their leases. This finding is supported by the testimony in the record regarding the assignments of the leases. They were originally given to Messrs. Oaks and Watlington and were nonassignable. The lessors, later signed a consent to an assignment, and in accordance therewith the leases were assigned to Spellacy and Neiswender, trustees, who, later, assigned to plaintiff herein. The lessors contended that when they signed the consent to the first assignment they believed, and were assured by Spellacy and Neiswender, that this consent operated only upon the first assignment and that consent would have to be obtained for any further assignments. The court believed their version of this transaction and that they honestly thought they were entitled to some further consideration for the second assignment and for each successive assignment thereafter, and that the plaintiff herein had no legal right to the leases because the assignment to it was without the consent of the lessors.
+Upon such a state of facts the conclusion of the court that the said actions by defendants herein against Spellacy and Neiswender did not entitle the plaintiff herein to damages is undoubtedly correct.
+Appellant’s contention that these actions against Spellacy and Neiswender were commenced in bad faith is based upon evidence in the record that the plaintiffs herein offered to accept service of summons and complaint in said actions and be substituted in the place and stead of one of the fictitious defendants and to waive the technical defense that no corporation, nfietitious or otherwise, was sued in the action, and that the defendants herein refused to so serve plaintiff and thus enable it to litigate and settle its right to the leases. Of course, defendants were under no legal obligation to serve plaintiff and allow it to enter the action in the mode suggested, and their failure to be accommodating in the matter would not of itself necessarily indicate bad faith. The evidence was before the trial court for what it was worth, but the finding was against appellant on this issue. It is to be remarked, also, that plaintiff might have intervehed in the action against Spellacy and Neiswender, but did not see fit to do so, so that the action of defendants in refusing to serve it with summons did not cause plaintiff any injury.
+There is also a complaint that the trial court erred in admitting testimony with reference to the representations on the part of Spellacy and Neiswender to the effect that the leases could not be assigned a second time without the consent of the lessors. This testimony was not admitted to vary the terms of the written, contract, but solely upon the question of the good faith of the defendants in refusing to recognize the validity of the assignments to Alpine Petroleum Company. For this limited purpose it was admissible.
+The judgment is affirmed.
+Nourse, J., and Sturtevant, J., concurred.
