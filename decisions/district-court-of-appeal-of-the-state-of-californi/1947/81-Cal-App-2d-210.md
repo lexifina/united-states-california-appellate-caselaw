@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3664"
+decided: "1947-08-13"
+citations: ["81 Cal. App. 2d 210"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY AVILLA, Respondent, v. CARL S. AVILLA, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/81/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4438471
+cites_cases: ["104 Am.St.Rep. 86", "106 A.L.R. 580", "112 F.2d 177", "121 Cal.App. 351", "126 P.2d 125", "130 A.L.R. 1014", "145 Cal. 777", "22 N.Y.S.2d 739", "52 Cal.App.2d 231", "59 P.2d 953", "69 L.R.A. 67", "7 Cal.2d 48", "79 P. 534", "8 P.2d 942"]
+---
+
+# Avilla v. Avilla
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+This is an appeal from an order denying a claim of exemption by a maritime fisherman.
+A decree of divorce was entered in this action in favor of the plaintiff, giving her custody of a minor child. In accordance with an agreement of the parties, incorporated in that decree, the plaintiff was further awarded $150 per month for the support of herself and the child. The defendant having become delinquent in these payments to the amount of $2,639.23, and the matter having been properly presented, the court ordered an execution to issue in the amount of the delinquency.
+The defendant was employed on a fishing vessel engaged in commercial fishing on the high seas. His earnings consisted of a proportionate share of the proceeds of the ‘ ‘ catch. ’ ’ The execution thns issued was served upon the captain of this ' fishing vessel, who responded that he was indebted to the defendant in the amount of $2,464.72. The defendant filed a notice and an affidavit claiming exemption under the provisions of section 601, title 46 U.S.C.A., in that he was earning his living by fishing on the high seas, and also claiming exemption under the provisions of sections 690.10 and 690.11 of the Code of Civil Procedure. Thereafter, the defendant moved the court to release the money tied up by the service of this execution, on the ground of such an exemption. After a hearing, the court entered ap, order releasing $300 to the defendant, and denying his motion as to all amounts over that sum. Prom this order the defendant has taken this appeal.
+The appellant contends that his earnings as a maritime fisherman constitute wages as that term is used in section 601 of title 46, U.S.C.A., and that the levying of the execution here in question does not constitute an “order by any court” within the meaning of the exception provided in the last sentence of section 601. That sentence reads: “Provided, That nothing contained in this (or certain other sections) shall interfere with the order by any court regarding the payment by any seaman of any part of his wages for the support and maintenance of his wife and minor children.”
+Although the matter is open to question it will be assumed, for the purposes of this opinion, that the remuneration received by the appellant for his services as a fisherman constitutes “wages” within the meaning of section 601. The controlling question here is whether the allowance of the exemption here claimed would “interfere” with a court-order “regarding the payment by any seaman of any part of his wages for the support and maintenance of his wife and minor children.” ■ This question must be answered in the affirmative.
+The primary purpose of such an-exemption statute is to secure the exempted property to the use and benefit of the debtor and those dependent upon him. (Holmes v. Marshall, 145 Cal. 777 [79 P. 534, 104 Am.St.Rep. 86, 2 Ann.Cas. 88, 69 L.R.A. 67].) As a part of that purpose a decree for alimony stands on a different basis than an ordinary debt and in such a case, unless the statute clearly provides to the contrary, the exemption will not apply. (Willen v. Willen, 121 Cal.App. 351 [8 P.2d 942]; Rankins v. Rankins, 52 Cal.App.2d 231 [126 P.2d 125]; Schlaefer v. Schlaefer, 112 F.2d 177, 130 A.L.R. 1014.) In Bruton v. Tearle, 7 Cal.2d 48 [59 P.2d 953, 106 A.L.R. 580], it is said: “We have shown that the judgment against defendant is a judgment for alimony. One of the characteristics of such a judgment is that as against said judgment the judgment-debtor’s earnings are not exempt from execution.”
+Not only are those principles in accord with public policy in this regard, but the last sentence of section 601 expressly provides that the exemption of wages contained in that section shall in no way interfere with the order of any court regarding the payment by a seaman of any part of his wages for the support of his family. fThe original support order was a court order within the exception provided by this statute. The order for an execution and the execution itself were also such orders. There can be no question but that to allow this exemption would “interfere” with these orders made in a divorce case for the express purpose of requiring the appellant to support his family. The situation was clearly within the exception provided in the exemption statute upon which the appellant relies, and clearly supports the court’s order in refusing to give effect to that exemption. This view is supported by one of the cases relied on by the appellant. (Cunningham v. McCullough, 22 N.Y.S.2d 739.) While the exemption was there upheld for the reason that the order there in question was not such an order the court, in referring to the last sentence of section 601, said: “That provision refers to orders such as might be made in a matrimonial action or by a court having jurisdiction to make similar orders, such as the Domestic Relations Court of the city of New York.”
+The order appealed from is affirmed.
+Griffin, J., concurred.
