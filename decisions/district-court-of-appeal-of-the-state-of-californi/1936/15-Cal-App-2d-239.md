@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5521"
+decided: "1936-07-07"
+citations: ["15 Cal. App. 2d 239"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TITLE GUARANTEE & TRUST COMPANY (a Corporation), Respondent, v. SARAH STAHLER et al., Appellants; W. H. BILYEU et al., Cross-Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-2d/15/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2277033
+cites_cases: ["123 Cal. 208", "186 Pac. 1046", "238 Pac. 166", "276 Pac. 141", "44 Cal. App. 664", "55 Pac. 791", "73 Cal. App. 114", "97 Cal. App. 462"]
+---
+
+# Title Guarantee & Trust Co. v. Stahler
+
+## Majority (PULLEN, P. J.)
+
+PULLEN, P. J.
+Plaintiff commenced this action against Sarah Stabler to recover the balance due under an agreement to buy certain real property. Subsequently an amended complaint was filed making Marion Merron a party by alleging she was the assignee of said agreement.
+Defendants answered and filed a cross-complaint alleging misrepresentation and fraud, and made W. H. Bilyeu and wife cross-defendants, Bilyeu being the realtor who negotiated the transaction.
+At the time of the filing of the complaint and amended complaint attachments were issued upon certain property of defendants. Judgment was entered in favor of plaintiff and cross-defendants and against Sarah Stabler, who has appealed therefrom.
+The first point urged upon this appeal is that the court erred in refusing to vacate this attachment. In that appellants are correct. The vendor, under an executory contract for the sale of real property, having retained title as security for the purchase price, is not entitled to an attachment. (Longmaid v. Coulter, 123 Cal. 208 [55 Pac. 791] ; 3 Cal. Jur. 419.)
+No appeal, however, was taken from the order refusing to discharge the attachment and it cannot be reached under the present appeal. Furthermore as to Marion Merron, she recovered judgment, and as to her the attachment was automatically released, and as to Sarah Stabler, she repudiated in writing any claim to the property attached, and also by her cross-complaint repudiated said transaction upon the ground of fraud.
+The second point urged by appellants is that no deed was tendered prior to the commencement of the action. The pleading in evidence seemed to indicate that a deed was tendered. However, appellants sought by their cross-complaint to recover upon the ground of fraud, and therefore no tender was necessary. As was said in Teague Investment Co. v. Setchel, 44 Cal. App. 664 [186 Pac. 1046] : “Where the purchaser of real property repudiates the transaction and attempts to rescind the contract of purchase, it is not necessary for the vendor, as a condition precedent to bringing an action to recover the amount due under the contract, to tender the purchaser a deed or a certificate of title to the premises.” Also in Burg Bros. v. Bercut, 73 Cal. App. 114 [238 Pac. 166] : “A vendor is not compelled to adopt a remedy of specific performance, but may, even where he has retained legal title to the land, bring an action at law merely for the recovery of a debt.” Respondent herein apparently framed its complaint and sought its remedy under the authority of this case.
+Thirdly, appellants claim that no proof of value was made to establish that the contract was fair and just. By failing to deny the allegations in the amended complaint that the “reasonable market value of the property was $15,000.00”, that fact was admitted and no issue was raised. In paragraph VII appellants deny that the reasonable market value thereof was the sum of $15,000, or that the same is or ever was the said value. Appellants claim also that respondent offered no evidence whatsoever to support the allegations of its complaint, but in that connection the record shows that there was introduced in evidence the deed of Title Guarantee & Trust Company to Sarah Stabler, the agreement between the title company and appellant, policy of title insurance of the lot in question, and certain letters between the parties hereto. This evidence, together with admissions in the pleading of appellants, established a prima facie case for plaintiff.
+The last point urged by appellant is that by the default of the purchaser, the agreement became void. It was contended by appellant that because the contract provided that the same should become null and void in the event of the failure or default of the purchaser to make the required payments, that therefore the defendant was in a position to take advantage of her own wrong and terminate the contract by making a default.
+“A stipulation in a contract that time be made of the essence of the contract, is applicable only to the agreement on the part of the purchaser to pay the purchase money, and is intended for the benefit of the vendor alone, who may elect either to rescind or enforce the contract, and a purchaser cannot work a rescission by mere default on his part of payment of the money.” (Green v. Riordan, 97 Cal. App. 462 [276 Pac. 141, 145].)
+“Under such forfeiture provision the vendee is given no option, but must abide by the election of the vendor.” (Burg Bros. v. Bercut, supra.)
+Upon motion of cross-defendants a nonsuit was granted on the cross-complaints of the defendants. The amended cross-complaint set up certain allegations of fraud; the statements upon which the allegations of fraud were based being that the owner of the property at that time was willing to sell at a bargain for the sum of $15,000, and that the property was worth much more than that amount, and that on account of the proximity of said lot to one of the moving picture studios, the grounds in the vicinity would, within a year, be built up with business houses, and that within a year said lot would have a market value of approximately twice the sum contracted for. These statements made by the selling agent would not constitute actionable fraud, and as stated by the trial court at the time of passing upon the motion for nonsuit, “ . . . Representations that were made by the seller of this property, which have been testified to here, are simply the usual puffing sales talk that real estate men occasionally make. Furthermore, the matters that are now complained of were known to these parties long, long ago, four or five years ago, and they took no action whatever until this suit was started.”
+We find nothing in the record which indicates error on the part of the trial court, and judgment should be affirmed, and it is so ordered.
+Thompson, J., and Bruton, J., pro iem., concurred.
+A petition by appellants to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on September 4, 1936.
