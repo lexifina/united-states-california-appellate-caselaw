@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13365"
+decided: "1942-02-09"
+citations: ["49 Cal. App. 2d 591"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN JEROME TOBINSKI, Appellant, v. BOARD OF MEDICAL EXAMINERS OF THE STATE OF CALIFORNIA et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/49/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4573699
+cites_cases: ["108 Pac. 322", "121 N. Y. Supp. 250", "135 App. Div. 634", "157 Cal. 425"]
+---
+
+# Tobinski v. Board of Medical Examiners
+
+## Majority (WOOD (W. J.), J.)
+
+WOOD (W. J.), J.
+Petitioner seeks by writ of mandate to compel the Board of Medical Examiners to annul an order revoking his certificate to practice medicine as a physician and surgeon. The trial court sustained a demurrer to the petition without leave to amend. Petitioner has appealed from the judgment denying redress and discharging the alternative writ which had been issued.
+Petitioner was charged before the respondent board with unprofessional conduct as defined in the Business and Professions Code, section 2377, in that on or about April-3, 1940, petitioner did “procure, and/or abet, and/or attempt, agree and/or offer to procure a criminal abortion upon a pregnant woman, to-wit: Mrs. Shirley Reece. ’ ’ Upon a hearing on this charge petitioner was found guilty. Attached to the petition filed in the lower court is a transcript of the proceedings had before the respondent board, including all of the testimony and evidence presented.
+It is now claimed by petitioner that the evidence re[2] ceived by the board was insufficient to justify the board’s action in revoking petitioner’s license. It is asserted that there was no evidence that Mrs. Reece was pregnant and that petitioner had performed an abortion or attempted to do so. From the transcript of the proceedings before the board it appears that Mrs. Reece testified that before going to the office of petitioner she had experienced nausea and dizziness for about six weeks and that she had missed one menstrual period; that she knew she was pregnant and went to petitioner’s office for the purpose of having an abortion performed; that she visited petitioner’s office on April 1, and had a discussion with a nurse; that she returned on April 3, at which time petitioner operated upon her using instruments in her vagina; that her husband paid $60 to the nurse in petitioner’s office and that this nurse was in the room while the operation was being performed. Mr. Reece testified that petitioner told him in a conversation subsequent to the operation that “it couldn’t have been a very long pregnancy. ’ ’ Agents of the respondent board testified that they had had a conversation with petitioner concerning his treatment of Mrs. Reece and at this conversation petitioner stated: “I just want to make a clean breast of the thing and I am giving you the whole story.” At this conversation petitioner was asked, “Well, in other words, it was just a plain out and out abortion?” To this question petitioner responded, “Well I guess it is that way if you want to put it that way.” There was also testimony that after the operation petitioner had paid $130 to Mr. Reece. This sum was claimed by petitioner to be a “loan” to Mr. Reece. We are satisfied that the evidence is sufficient to sustain the order of the respondent board in revoking petitioner’s license.
+After the operation Mrs. Reece was taken to the Los Angeles County General Hospital for treatment and it is now contended that the respondent board erred in admitting in evidence the records of the hospital concerning the ease. Dr. Heldfond, the resident surgeon at the hospital, testified that he examined Mrs. Reece on April 19, 1940, and that she remained in the hospital until May 13, 1940; that Mrs. Reece told him that an abortion had been performed on her on April 6, 1940; that she had had slight bleeding for some two days following the abortion and then was apparently well; that one week later she had chills and fever; that his diagnosis was post-abortal abscess; that he had made this diagnosis from statements made by Mrs. Reece but that in so far as his examination disclosed he could not tell whether her trouble had resulted from an abortion or from gonorrhea. The hospital records contain notations by physicians other than Dr. Heldfond in which Mrs. Reece’s trouble was characterized as “post-abortal.” *
+Whether the hospital records were authenticated in such manner as to be admissible in accordance with the strict rules of procedure to be followed in criminal cases need not be decided, for an administrative board passing upon the issue of the revocation of a license to practice medicine is not limited by the strict rules applicable to trials of criminal cases. See In re Hardenbrook, 135 App. Div. 634 [121 N. Y. Supp. 250]; Matter of Danford, 157 Cal. 425, 430 [108 Pac. 322]. Moreover, we are satisfied that petitioner could not have been prejudiced by the introduction of the hospital records. The testimony of Dr. Heldfond fully informed the members of the board concerning Mrs. Reece’s condition while she was at the hospital. The basis for the use in the records of the words “post-abortal” was fully explained to them.
+The judgment is affirmed.
+Moore, P. J., and McComb, J., concurred.
