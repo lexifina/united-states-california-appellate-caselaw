@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7153"
+decided: "1945-10-01"
+citations: ["71 Cal. App. 2d 104"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. LUCIAN HAMILTON, Respondent, v. JOSEPH J. SALOPEK, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/71/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4623862
+cites_cases: ["210 Cal. 108", "291 P. 184"]
+---
+
+# Hamilton v. Salopek
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+This is an appeal by defendant from an adverse judgment in an action for an accounting.
+The sole issue involved is the right as between the parties, both of whom are licensed medical practitioners, to certain accounts receivable which had accrued during the course of their business association and remained uncollected at the termination thereof. Said association was predicated upon a written contract by virtue of which defendant was placed in charge of the office and professional equipment belonging to plaintiff while the latter was away on military duty. Under the terms of said contract the defendant was to receive a specified salary or drawing account and a designated percentage of the “net office income.” During the life of the agreement the defendant regularly accounted for and paid over to plaintiff the share due the latter based upon the cash receipts. Upon the termination of the arrangement the defendant refused to account to plaintiff for any portion of the outstanding accounts receivable, and plaintiff thereupon brought this action to recover his alleged proportionate share of said accounts. The judgment of the trial court was in his favor, ordering a division of said accounts on the same basis as that provided for “net office income” in said agreement.
+It is appellant’s contention that as the contract uses the phrase “net office income” in referring to the income which was to be divided between the parties, such phrase must be construed to mean the actual money received and not accounts receivable. He further contends that as payments were made each month in accordance with the terms of the contract, therefore when the agreement was terminated plaintiff “had already been paid everything that had been collected” during the course of the contract and he was entitled to nothing further.
+It is a fundamental rule of interpretation that a contract must be construed as a whole with the intention of the parties to be ascertained from the entire instrument and not from detached portions thereof. As stated in the case of Hunt v. Union Bank & T. Co., 210 Cal. 108, 115 [291 P. 184], “. . . each contract, of necessity, must be construed according to its meaning, and no rigid rules of construction can be applied that will do violence to the intention of the parties. The problem is not what the separate parts of the contract may mean, but rather what the contract means as a whole. The separate parts have little weight when compared with the contract in its entirety. ’ ’
+Turning then to the contract itself we find recitals at the beginning thereof which state in part that, “WHEREAS, the party of the first part (Dr. Hamilton) has an established medical practice . . . and WHEREAS, the said Dr. R. Lucian Hamilton has been called for military duty . . . and will be absent from his said practice for a certain length of time . . . and WHEREAS the party of the second part (Dr. Salopek) does by these presents agree to associate with, and maintain the medical practice of, the party of the first part, . . . until the party of the first part shall be released from the Government Service and . . . resume his said practice.” (Italics added.)
+It is then provided that Salopek shall receive “as compensation” a specified amount for three months. Thereafter, provided the agreement “is in existence,” he should receive, after designated office expenses were paid, a certain percentage of the “net office income” according to the formula therein set forth. The contract further provided that if Dr. Hamilton did not return to “his practice” Dr. Salopek was given the option to either continue as an associate or “purchase the practice” from him. If, however, he returned within a short period of time further agreements might be necessary. It also provided if the parties could not agree upon an association advantageous to both, Dr. Hamilton agreed that Dr. Salopek could practice in the same community. Finally the last paragraph of said contract specifically provided, “TEE PURPOSE OF THIS AGREEMENT is to provide for such period of time as the party of the first part is in the military service of the United States and absent from the community and for the preservation of his practice.” (Italics added.)
+From this summary of the entire agreement it appears that said contract was nothing more than a contract of employment wherein a profit-sharing arrangement had been worked out between the parties. Nothing can be found therein even intimating that Dr. Hamilton was in any way selling or disposing of, or otherwise turning over his practice to Dr. Salopek. The practice remained that of Dr. Hamilton for the preservation of which the contract was executed. This being true, the defendant was entitled only to that “compensation” which the contract specifically gave to him. Under the circumstances herein plaintiff might well have been entitled to an accounting for all accounts receivable from the defendant. However, plaintiff by his complaint merely requested that defendant be required to account for plaintiff’s share in the accounts receivable on the same basis as provided in the agreement for the division of “net office income.”
+The judgment is affirmed.
+Adams, P. J., and Thompson, J., concurred.
