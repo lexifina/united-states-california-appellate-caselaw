@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 20772"
+decided: "1963-09-10"
+citations: ["220 Cal. App. 2d 27"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HORACE G. JONES et al., Plaintiffs and Respondents, v. BEN W. DOLGIN et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-2d/220/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2130912
+cites_cases: ["111 Cal.App.2d 827", "129 Cal.App.2d 558", "186 Cal.App.2d 699", "186 Cal.App.2d 702", "202 P.2d 322", "223 P.2d 244", "245 P.2d 344", "277 P.2d 464", "36 Cal.2d 257", "89 Cal.App.2d 804", "9 Cal.Rptr. 218", "9 Cal.Rptr. 867"]
+---
+
+# Jones v. Dolgin
+
+## Majority (DRAPER, P. J.)
+
+DRAPER, P. J.
+JDefendants appeal from a summary judgment granted to plaintiffs in this action on a promissory note-
+Defendants D’Orazi purchased an Oregon ranch from plaintiffs. As part of the purchase price they endorsed to plaintiffs, with recourse, unsecured installment note of defendant Dolgin. Upon default in installment payments, plaintiffs declared the entire amount due and brought this action. Defendants answered by denials, and the D’Orazis cross-complained for rescission of the agreement for purchase of the ranch, alleging fraudulent misrepresentation of its value. Answer denied these charges. Plaintiffs moved for summary judgment on complaint and cross-complaint. They filed declarations setting forth in detail the defaults in payment of the note and the amount due. Meeting the cross-complaint for rescission, they declared that defendants D ’Orazi had sold the ranch they purchased from plaintiffs. Defendants filed no declaration. At hearing on the motion for summary judgment, they requested leave to amend the cross-complaint to seek damages, rather than rescission. The hearing was continued, and defendants filed a motion for leave to amend, but offered no proposed pleading. The court continued hearing-on both motions to allow filing of the proposed amendment. At the third hearing, the amendment was before the court but was unverified. It alleged (as had the original verified cross-complaint) that D ’Orazis had agreed to pay some $96,000 for the ranch. Plaintiff, contesting the motion to amend, called as a witness the man who had bought the Oregon ranch from D’Orazis after their original cross-complaint was filed. He testified without objection that his purchase price was some $99;000. Defendants offered no contrary evidence, and did not ask time to file any declaration in rebuttal.
+It is not disputed that plaintiffs’ declarations fully establisted the factual basis for recovery on the complaint, and met cross-complainants ’ affirmative claim for rescission by showing resale of the property, and consequent inability to restore it, although admittedly it is of substantial value. The burden then was upon defendants to show, by affidavit or declaration, that some fact issue remained to be tried (Coyne v. Krempels, 36 Cal.2d 257 [223 P.2d 244]). Defendants utterly failed to meet that burden. They filed no declaration whatever, even though the hearing was twice continued at their request and they had ample time to support their claims if factual basis therefor existed.
+Defendants now assert, however, that their original verified cross-complaint alleged fraud and set up facts showing damage, thus constituting a defense, or at least an offset, to the claim on the note. But the object of the summary judgment proceeding is to determine whether the issues raised by the pleadings are real and do require a trial. Thus a pleading, though verified, cannot be relied upon to meet the affidavits of the moving party (Coyne v. Krempels, supra, pp. 262-263; Cone v. Union Oil Co., 129 Cal.App.2d 558, 563 [277 P.2d 464]). The situation here is even more aggravated, for defendants did not rely upon this cross-complaint in the trial court. Bather, their attorney stated both orally and in writing that it “was no longer proper.” Deeming it ineffective, he sought leave to file a new answer and cross-complaint, failing, however, to file any declaration of facts supporting them and refraining from even verifying the amended pleading.
+Defendants D’Orazi did seek to raise the issues of failure of consideration and of damages for fraud by moving for leave to file an unverified answer and cross-complaint. This motion was met by the testimony of their purchaser that they had resold to him at a profit. Oral testimony was properly received on the motion to amend (see Perez v. Perez, 111 Cal.App.2d 827, 828-829 [245 P.2d 344]), although its propriety on a motion for summary judgment has been questioned (Gardner v. Shreve, 89 Cal.App.2d 804, 809 [202 P.2d 322]; Spencer v. Hibernia Bank, 186 Cal.App.2d 702, 717 [9 Cal.Rptr. 867]). Had defendants offered any declaration of the truth of the facts constituting the claimed failure of consideration or damages, the trial court doubtless would have allowed amendment. Lacking any such evidence, the trial court was fully justified in denying leave to amend. Thus, aside from the absence of affidavits to raise the issue on the summary judgment motion, there was not even a pleaded issue for plaintiffs to meet, and the ease relied upon by appellants (Pappas v. Union Bond & Trust Co., 186 Cal.App.2d 699 [9 Cal.Rptr. 218]) has no application.
+Although two months elapsed from filing of plaintiffs’ motion and declarations to decision thereon, defendants persistently failed to assert the truth of their claims of failure of consideration or of damages for fraud. This refusal fully warranted the trial court’s conclusion that the claims were sham.
+Judgment affirmed.
+Salsman, J., and Devine, J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied November 6, 1963.
