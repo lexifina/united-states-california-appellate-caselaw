@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 491"
+decided: "1916-09-07"
+citations: ["31 Cal. App. 352"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. PHILLIP WINNER,Appellant."]
+source_url: "https://static.case.law/cal-app/31/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039265
+cites_cases: ["106 Pac. 718", "143 Pac. 1065", "147 Pac. 598", "157 Cal. 189", "25 Cal. App. 464", "26 Cal. App. 568"]
+---
+
+# People v. Winner
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Upon an information filed by the district attorney of Kern County the defendant was, on March 16, 1916, convicted of the crime of grand larceny. On March 20th he presented to the court a motion for a new trial, the hearing of which was by the court continued to March 27th, at which time the court, as shown by the minutes thereof, made an entry as follows: "By consent of counsel for respective parties in open court, it is by the court ordered that said motion for a new trial be and the same is hereby submitted upon briefs to be presented within five, five and two days.” On April 4th, more than fifteen days after defendant’s conviction, the court made an order denying his motion for a new trial. Thereupon defendant, within due time, made a motion for a new trial upon the ground that more than fifteen days had elapsed since the date of the conviction of defendant, and upon the same ground objected to the court pronouncing judgment upon defendant, which motion the court likewise denied. The ruling constitutes error.
+Section 1191 of the Penal Code provides that upon" a defendant being convicted, "the court must appoint a time for pronouncing judgment which must not be less than two, nor more than five days after the verdict or plea of guilty; provided, however, that the court may extend the time not more than ten days for the purpose of hearing or determining any motion for a new trial, or in arrest of judgment; and provided, further, that the court may extend the time not more than twenty days in any case where the question of probation is considered in accordance with section 1203 of this code, provided, however, that upon the request of the defendant such time may be further extended not more than ninety days additional.” And section 1202 of the Penal Code provides that, unless judgment be "rendered or pronounced within the time so fixed or to which it is continued under the provisions of section eleven hundred and ninety-one of this code, then the defendant shall be entitled to a new trial.”
+As said by the court in People v. Polich, 25 Cal. App. 464, [143 Pac. 1065], quoting from Rankin v. Superior Court, 157 Cal. 189, [106 Pac. 718]: “If the judgment was not pronounced within the time limited, a new trial was made imperative if the defendant so desired; he became ‘entitled’ to it. . . . If the court should refuse a new trial and render judgment against the defendant after the authorized time has passed, its action would be erroneous and the judgment would be reversed on appeal if an appeal should be taken.” To the same effect is People v. Okomoto, 26 Cal. App. 568, [147 Pac. 598]; where it was held that the defendant was entitled to a new trial, but lost his right thereto by reason of not asking for it in the trial court.
+Conceding the error, the attorney-general in support of the court’s action insists that it was cured by the fact, as shown, that counsel for defendant in open court consented to the postponement of the time for -sentence. In support of this contention a number of cases arising under section 1382 of the Penal Code, providing for the dismissal of prosecutions in cases therein specified, are cited. In our opinion such cases are not in point, and throw no light upon the interpretation to be given sections 1191 and 1202, which should be construed in accordance with the plain import of the language used. Thus construed, as held in People v. Polich, 25 Cal. App. 464, [143 Pac. 1065], and People v. Okomoto, 26 Cal. App. 568, [147 Pac. 598], the delay beyond the time specified for pronouncing judgment renders it imperative that defendant have a new trial if he asks for it. Prior to the enactment the courts, with consent of parties or otherwise, not infrequently indulged in prolonged delays before pronouncing sentence upon those convicted of crime. Such practice was recognized by the legislature as an evil, to cure which sections 1191 and 1202 were adopted, not as a benefit conferred upon defendant which he might waive, but as a matter of public policy intended to insure a swifter infliction of the penalty which the law requires to be imposed upon those convicted of crime. To uphold the contention of respondent and recognize the consent of the parties as justifying an indefinite postponement of the time for pronouncing judgment beyond that specified for so doing, would not sub-serve, but on the contrary nullify, the plain purpose and intent'of the legislature in adopting the provision.
+The judgment and order are reversed and, for the reasons stated, the court directed to make an order granting defendant’s motion for a new trial.
+Conrey, P. J., and James, J., concurred.
