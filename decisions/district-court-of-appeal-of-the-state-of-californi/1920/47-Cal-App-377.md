@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3312"
+decided: "1920-05-06"
+citations: ["47 Cal. App. 377"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AGNES WILLIAMSON, Respondent, v. CHARLES S. HARDY, Appellant."]
+source_url: "https://static.case.law/cal-app/47/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065559
+---
+
+# Williamson v. Hardy
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+This is an appeal from a judgment in favor of the plaintiff for damages arising out of injuries sustained by her through having slipped and fallen upon the floor of the defendant’s meat market in the city of San Diego, her said fall having been occasioned, according to plaintiff’s averments, by the slippery and unsafe condition of said floor.
+The case was tried before a jury, and the first contention of the appellant is that during the proceedings for obtaining the jury, and also upon several occasions during the trial of the cause, counsel for plaintiff were guilty of misconduct in seeking to bring before the jury the fact that the action was being defended by a surety company which, though not a party to the action, was the insurer of the defendant against claims for damages. As to the alleged misconduct of counsel for the plaintiff during the process of procuring the jury it is conceded by counsel for the appellant that it is not error to inquire of the jurors if they are stockholders or interested in a certain surety company. It would seem, therefore, that the question which was put to the jurors as a body to the point whether or not they were “the owners of stock in the Western Indemnity Company, a corporation,” by counsel for the plaintiff, cannot, standing alone, be held to furnish a basis for the appellant’s claim. But the appellant insists that upon several occasions during the trial counsel for plaintiff persisted in making statements in the presence of the jury regarding the surety company in question which, taken in connection with the question asked upon their voir dire examination, showed a persistent intent to impress the jury with the fact that the action was being defended by said surety company. Upon an examination of the record in this regard we fail to find a sufficient basis for this claim. It is true that at one time during the trial some question arose with regard to the production of certain X-ray photographs which were in the possession of the physician of the surety company, and this led counsel for the plaintiff to refer to that fact; but we find in that connection that the court instructed the jury to disregard the remarks of counsel for plaintiff in that respect, and we can find no reason in the record for assuming that the jury disregarded that instruction. Nor do we feel that plaintiff’s counsel were so far guilty of willful misconduct in connection with that episode as to justify a reversal of the case.
+The appellant’s second contention is that the trial court committed error in permitting several witnesses who were called by the plaintiff to testify aso to their observation of her actions and conduct after the date of her injuries and during a period of a year and a half or so thereafter. An inspection of the record discloses that these several witnesses merely testified to matters of personal observation, and did not undertake to testify as to any conclusions drawn by them therefrom as to the seriousness of her preceding injuries. It requires no citation of authority to sustain the view that evidence of this kind is admissible, and that objections thereto go not to the admissibility of such evidence but as to its weight; and as to the weight of such evidence the jury was the sole judge.
+The appellant’s third contention is that upon all of the evidence in the case the court should have granted the defendant’s request for a directed verdict. There is no merit in this contention. Taking the plaintiff’s positive testimony that she slipped and fell upon the floor of the defendant’s market through having stepped upon a piece of oiled paper made slippery by the adhesion to it of scraps of fresh meat, it was a question for the jury to determine whether or not the defendant was negligent in permitting such a substance to be lying upon the floor of his market where customers were wont and were required to walk while making their purchases therein.
+Finally, the appellant objects to the alleged error of the court in the giving and refusal of certain instructions. The defendant’s requested instructions which the court refused to give were those which would have required the jury to bring a directed verdict in the defendant’s favor, and as to these, as already stated, there was no error. As to the instructions which the court gave upon the general phases of the case we find that upon the whole they are quite full and fair, and are not subject to the criticism which the appellant aims at particular and isolated portions of said instructions, and hence that appellant's final contention in this regard is without merit.
+No errors appearing in the record, the judgment is affirmed.
+Waste, P. J., and Knight, J., pro tern., concurred.
