@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 13165"
 decided: "1942-05-28"
-citations: ["52 Cal. App. 2d 321", "52 Cal. App. 2d 326"]
+citations: ["52 Cal. App. 2d 321"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["A. CAMINETTI, JR., as Insurance Commissioner, etc., Respondent, v. ST
 source_url: "https://static.case.law/cal-app-2d/52/cases/0321-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4649621
-cites_cases: ["10 Cal. (2d) 307", "10 Cal. App. 679", "103 Pac. 173", "104 P. (2d) 1069", "106 P. (2d) 75", "114 Cal. 578", "117 Ohio St. 190", "126 P. (2d) 165", "126 P. (2d) 170", "13 Cal. (2d) 306", "143 Pac. 878", "157 N. E. 563", "210 Cal. 339", "217 Ind. 58", "233 U. S. 389", "24 Cal. App. (2d) 583", "26 N. E. (2d) 51", "292 Pac. 123", "305 U. S. 297", "34 L.R.A. 262", "40 Cal. App. (2d) 451", "41 Cal. App. (2d) 181", "46 Pac. 670", "74 P. (2d) 761", "76 P. (2d) 147", "82 Wash. 124", "89 A. L. R. 1531", "89 P. (2d) 637"]
+cites_cases: ["10 Cal. (2d) 307", "10 Cal. App. 679", "103 Pac. 173", "104 P. (2d) 1069", "114 Cal. 578", "117 Ohio St. 190", "13 Cal. (2d) 306", "143 Pac. 878", "157 N. E. 563", "210 Cal. 339", "217 Ind. 58", "233 U. S. 389", "24 Cal. App. (2d) 583", "26 N. E. (2d) 51", "292 Pac. 123", "305 U. S. 297", "34 L.R.A. 262", "40 Cal. App. (2d) 451", "46 Pac. 670", "74 P. (2d) 761", "76 P. (2d) 147", "82 Wash. 124", "89 P. (2d) 637"]
 ---
 
 # Caminetti v. State Mutual Life Insurance
