@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9632"
+decided: "1935-08-17"
+citations: ["9 Cal. App. 2d 27"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VIOLET R. SCHAFFLER et al., Respondents, v. BENJAMIN FRANKLIN HURLBERT, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/9/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2261391
+cites_cases: ["181 Pac. 830", "40 Cal. App. 782"]
+---
+
+# Schaffler v. Hurlbert
+
+## Majority (TYLER, P. J.)
+
+TYLER, P. J.
+Action for specific performance of an oral agreement to convey real property. Trial was had before the court and judgment went in favor of plaintiffs. Defendant appeals. The facts, briefly stated, are in substance as follows : In 1929, defendant, appellant herein, was the owner of a parcel of real property located at the intersection of Niles highway and Harder road in Alameda County. He was desirous of having his daughter and her family, who resided in San Francisco, live upon and improve the same. There were some buildings facing the Niles highway upon the property, in one of which appellant lived and conducted a small store, selling gasoline and oil. In the same year the state took steps to widen Niles highway and a strip of some fifty feet in width was taken, and the buildings were either moved back or torn down. Appellant informed his daughter and her husband that it would make a fine gas station and that if the husband would give up his position in San Francisco, where he was earning $200 a month, ■ he would deed the property to his daughter after he received his compensation for the land taken by the state and a homestead which stood upon the property was released. At this time'the daughter was under the impression that her father’s offer included the entire tract. Later the father sent for his other daughters and consulted with them concerning the contemplated gift. He informed them of his intention to make a gift of the property in question to his daughter Violet, and stated to them that they were to receive like values out of his property, but one of them would have to await her share from the proceeds of his life insurance. To this arrangement they all agreed. The father then pointed out and designated the portion of the tract his daughter Violet was to receive. Subsequently, in the same year, said daughter went to live on the property in question, and her husband came there a few days later and she with her husband and children have been in exclusive possession of the same ever since. Appellant has continued to live in a small cottage located on part of the original tract, which is separated from the land in question by a fence. After taking possession of the premises, pursuant to the agreement of the parties, respondents proceeded to improve the same, erecting thereon a new gasoline station and installing proper equipment, which improvements amounted to some $2,000.
+Aside from the testimony of respondents, there is abundant testimony in the record from disinterested witnesses to the effect that appellant agreed to give the property in question to his daughter. It is contended by appellant the evidence is not sufficiently certain to authorize specific performance, and the boundaries of the property claimed were not definitely identified or agreed upon; further, that respondents did not have or exercise exclusive occupancy or control over the same. The evidence shows complete possession by the donee, together with the erection of valuable improvements upon the property. It also shows that it was specifically located, staked out and agreed upon by the parties. The evidence clearly establishes, and the court found in reliance upon the agreement, that the land so improved has been in the possession of the donee ever since the agreement. This evidence is sufficient to justify a decree of specific performance as against the donor. (Peixouto v. Peixouto, 40 Cal. App. 782 [181 Pac. 830].) The claim that there was no exclusive possession of the property is equalfy without merit. The testimony of appellant himself shows that he occupied a little cottage in another portion of the tract, which portion was fenced off from the property in question, and that appellant assisted in the erection of the fence.
+The case presents the situation of an aged and infirm parent, no longer able to care for his property, inducing his daughter to enter into the agreement in question; that the daughter accepted her parent’s proposition, has lived near him and in so doing has materially changed her position. The transaction was one in which no unfair advantage was taken of the parent by Ms daughter; it was proposed by him without any inducement on her part. It would be inequitable under all the circumstances were the agreement not enforced.
+The judgment is affirmed.
+Cashin, J., and Knight, J., concurred.
