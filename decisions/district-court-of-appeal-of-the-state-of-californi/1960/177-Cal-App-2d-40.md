@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 23764"
+decided: "1960-01-07"
+citations: ["177 Cal. App. 2d 40"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVA FROST et al., Appellants, v. SOUTHERN PACIFIC COMPANY (a Corporation) et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/177/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4393115
+cites_cases: ["293 P.2d 48", "46 Cal.2d 213"]
+---
+
+# Frost v. Southern Pacific Co.
+
+## Majority (SHINN, P. J.)
+
+SHINN, P. J.
+Plaintiffs Isaac Frost and Eva Frost are husband and wife. They brought suit against Southern Pacific Company for damages resulting from "injuries to Mrs. Frost through the negligence of the defendant. In a jury trial verdict was in favor of Mrs. Frost for $15,000 and in favor of Mr. Frost for $150. Defendant moved for a new trial upon all statutory grounds. In support of the motion defendant filed an affidavit of one Arentz in which it was stated that he had observed the activities of Mrs. Frost on a number of days after her victory in the case. Her actions, as observed, indicated a marked improvement over the condition she allegedly had described at the trial, which rendered her unable to move around unassisted or to perform her household duties and caused her to walk with a pronounced limp. A counteraffidavit was filed by the attorney for plaintiffs but it did not relate to any of Mrs. Frost’s activities after the trial. Plaintiffs made a motion to strike the affidavit of Arentz and the motion was denied. The court granted defendant’s motion for a new trial “on the matter of damages only on the ground of insufficiency of evidence to sustain the verdict.” Plaintiffs appeal from the order and also notice an appeal from the unappealable order refusing to strike out Arentz’s affidavit.
+The record on appeal consists of the clerk’s transcript and a settled statement under certificate of the trial judge. The statement contains two pages. It recites that plaintiffs were occupying a “living outfit car” belonging to defendant while Mr. Frost was employed by defendant as a carpenter. The outfit ear was standing on a spur track of defendant and was occupied by plaintiffs with defendant’s permission. While Mrs. Frost was occupying the car “something struck the car from which she was thrown to the floor.” The statement recites the institution of the action, the trial, the verdict and judgment, the motion for new trial, proceedings thereon, the ruling of the court and the taking of an appeal by plaintiffs. It does not mention any evidence with respect to injuries sustained by Mrs. Frost other than the fact that she was thrown to the floor when something struck the car.
+Plaintiffs assail the order granting the new trial upon the ground that it was error to refuse to strike out Arentz’s affidavit and to consider it on the motion. Defendant maintains that the affidavit was properly submitted for the court’s consideration on the motion as newly discovered evidence and further that the order granting a new trial upon the ground of insufficiency of the evidence to justify the verdict is not subject to review in the absence of any record of the evidence received at the trial with respect to the issue of damages.
+Plaintiffs do not contend that the evidence, without substantial conflict, established that they suffered damages in the amounts that were awarded them by the verdict. In their statement of points to be presented on the appeal (rule 7, Rules on Appeal) they specified only that the Arentz affidavit was inadmissible on the hearing of the motion, that it should have been stricken and that the order should be reversed because it was based solely upon facts stated in that affidavit.
+We understand the contentions of plaintiffs to be: The facts stated in the Arentz affidavit were not newly discovered; defendant knew that the facts therein stated were not newly discovery; the affidavit was submitted in bad faith, defendant knowing that it could not properly be considered as a showing of newly discovered evidence, and that it was intended that the court should consider the facts stated in the affidavit as a ground for granting a new trial upon the ground of excessive damages.
+There is nothing in the record to support any of these contentions. The accusation of bad faith on the part of counsel is unfounded and wholly unwarranted.
+The fact that the order was not based in part upon the ground of newly discovered evidence does not tend to prove, as plaintiffs contend, that the court refused to strike the Arentz affidavit in order to use it as a basis for granting a new trial upon the ground that the evidence was insufficient to support the award of damages.
+The court was called upon to determine whether the evidence that was submitted to the jury justified the amounts awarded as damages. In considering the verdict in the light of the evidence the court was required to determine whether the sums awarded were in accordance with or opposed to the weight of the evidence. (Hawk v. City of Newport Beach, 46 Cal.2d 213 [293 P.2d 48].) It would have been improper for the court to take into consideration in that connection evidence adduced on the hearing of the motion. The affidavit could not properly have been considered in determining whether the verdict was for amounts in excess of those that would have been justified by the evidence. (Code Civ. Proc., § 658.) Of course, the trial judge was fully conversant with this rule.
+There is no reason for the assumption that the trial court misunderstood or failed to perform its duty in ruling upon the motion.
+The attack upon the order granting a new trial is founded upon mere suspicion that the court did not rule solely upon the weight of the evidence produced in the trial but also took into consideration, as evidence, the facts stated in the affidavit. The presumption is against such error and irregularity.
+We believe it to be worthy of mention that instead of granting a new trial on the issue of damages only, the court, having formed an opinion as to what would be fair compensation to Mrs. Frost, could have given plaintiffs an opportunity to accept a specified reduction in the amount awarded to her by the verdict as a condition to denial of defendant's motion. Plaintiffs might have accepted the reduction in order to avoid the delay and expense of a retrial of the issue of damages.
+The order granting a new trial is affirmed. The purported appeal from the refusal to strike out the Arentz affidavit is dismissed.
+Vallée, J., and Ford, J., concurred.
