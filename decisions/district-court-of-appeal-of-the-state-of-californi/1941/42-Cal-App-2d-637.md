@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2569"
+decided: "1941-01-27"
+citations: ["42 Cal. App. 2d 637"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MIKE COVIELLO, Respondent, v. MOCO FRUIT COMPANY, INC. (a Corporation), et al., Defendants; M. P. MOSESIAN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/42/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4553178
+cites_cases: ["214 Cal. 783", "25 Cal. App. (2d) 305", "25 Cal. App. (2d) 590", "34 Cal. App. (2d) 147", "7 Pac. (2d) 1032", "77 Pac. (2d) 301", "78 Pac. (2d) 193", "93 Pac. (2d) 245"]
+---
+
+# Coviello v. Moco Fruit Co.
+
+## Majority (KLETTE, J., pro tem.)
+
+KLETTE, J., pro tem.
+A money judgment was obtained in this action by Mike Coviello, plaintiff and respondent, against defendant and appellant, M. P. Mosesian, and others. On January 5, 1940, the following written stipulation was entered into:
+“IT IS HEREBY STIPULATED that A. P. Coviello, attorney for Mike Coviello, may take two drafts Nos. 1057 and 1052, in the respective sums of $466.80 and $320.00, drawn against M. Antonellie on the California Bank, 16-161, for collection and the proceeds to be credited on account of the judgment against M. P. Mosesian in the ease of Coviello v. P. M. (M. P) Mosesian et al., Superior Court, Tulare County No. 25754. Said drafts are to be collected for their amounts or in lieu thereof the full amounts of same will be credited against judgment. In the event said drafts are not collected within ten days from date hereof, they will be returned to M. P. Mosesian, 1301 Pacific Southwest Bldg., Fresno, or said drafts may be retained by A. P. Coviello provided they are credited at that time on the judgment as aforesaid. In the event that said drafts are collected no charges will be made for the collection of same.”
+The two drafts mentioned in the stipulation, not having been returned to appellant within ten days, he, on January 25, 1940, made an ex parte motion, to have the amount of these two drafts credited upon the judgment. This motion was granted by the court. Plaintiff and respondent thereupon made a motion, based upon affidavit, to set aside this order so made on January 25, 1940. The latter motion was heard on February 19, 1940, and granted. This appeal is taken by defendant Mosesian from that order.
+Where a trial court rules upon a motion, the appellate court can only pass upon the question as to whether it has abused its discretion. (Wilder v. Wilder, 214 Cal. 783 [7 Pac. (2d) 1032]; Lent v. H. C. Morris Co., 25 Cal. App. (2d) 305 [77 Pac. (2d) 301].)
+The only question, therefore, before this court is whether the trial court did abuse its discretion in granting the motion setting aside its order of January 25, 1940.
+The stipulation was apparently intended to cover four contingencies. First, the drafts were turned over “for collection and the proceeds to be credited on account of the judgment”. Collection not having been made, the court is not now concerned with this clause. Second, “Said drafts are to be collected for their amounts or in lieu thereof the full amounts of same will be credited against judgment”. This clause appears to be inconsistent with the third clause, which provides, “In the event said drafts are not collected within ten days from date thereof, they will be returned”. Does the second clause mean that in any event, whether the drafts were collected or not, their amounts were to be credited on the judgment? If so, why were they not credited at the time the stipulation was made? And were they to be returned under the third clause, even though credited on the judgment ? Or did the second clause mean that if they were collected by discounting them, the full amount of the drafts was to be credited on the judgment ?
+It will be noted that the third clause does not state when the drafts were to be returned. The courts of California have repeatedly held that where no time is specified for the doing of an act, it may be done within a reasonable time. No citation of authorities is necessary on this point. What is a reasonable time is dependent upon the surrounding circumstances.
+The fourth clause provides, “Or said drafts may be retained by A. P. Coviello provided they are credited at that time on the judgment as aforesaid”. Do the words “at that time” relate to the end of the ten day period, or do they relate to the time when respondent might decide to retain them ?
+In interpreting the stipulation, and in passing upon the. motion, the court had these facts before it: That one of the drafts was dated one month, and the other, five weeks before the date of the stipulation, and the endorsements thereon showed that they had been presented to the bank for payment, before the stipulation was made, and that payment had not been made; that after respondent received them, he had tried to collect them, and failed; that the drawer of the drafts had claims of approximately $6,000 pending against him in the Agricultural Commissioner’s Office of the State of California; that respondent, on January 18, 1940, attempted, through another attorney, to return the drafts to appellant, but failed, because of the sickness of the attorney; that when the affidavit was filed, on February 3, 1940, which was the basis of the motion appealed from, the two drafts were attached thereto, with a stipulation that they be released to appellant.
+All of these matters contained in the stipulation, called for construction and interpretation by the lower court, and it is a well established principle of law, that when the construction given an instrument by the trial court appears to be reasonable, and consistent with the intent of the parties making it, courts of appellate jurisdiction will not substitute another interpretation, even though it seems equally tenable. (Estate of Bourn, 25 Cal. App. (2d) 590 [78 Pac. (2d) 193]; Estate of Mallon, 34 Cal. App. (2d) 147 [93 Pac. (2d) 245].)
+The trial court being charged with the duty of construing this stipulation, and the construction given, appearing to this court to be reasonable, and consistent with the intent of the parties making it, we cannot say that the court abused its discretion in granting the motion appealed from. To have permitted this credit to stand, would have meant a credit on the judgment for money never received. No one has been prejudiced or injured, the parties have been restored to their original positions, and substantial justice has been done.
+The order appealed from is affirmed.
+Barnard, P. J., and Griffin, J., concurred
