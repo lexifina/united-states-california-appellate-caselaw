@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1184"
+decided: "1918-02-24"
+citations: ["21 Cal. App. 297"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATIONAL UNION FIRE INSURANCE COMPANY (a Corporation), Respondent, v. ARTHUR G. NASON, Appellant."]
+source_url: "https://static.case.law/cal-app/21/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4484108
+cites_cases: ["118 Pac. 459", "150 Cal. 346", "16 Cal. App. 443", "89 Pac. 93"]
+---
+
+# National Union Fire Insurance v. Nason
+
+## Majority (MURPHEY, J., pro tem.)
+
+MURPHEY, J., pro tem.
+Appeal from a judgment in favor of plaintiff and from an order denying defendant’s motion for a new trial.
+Defendant was for a term of years the general agent' for the plaintiff in the state of California. At the time of the trial the parties exchanged accounts, from which it appeared that the only difference between the parties was as to two items, the respondent claiming a credit of $925.23 for return of commissions retained by appellant from premiums on policies that were afterward canceled; and the appellant claiming a credit of $317.33 for commissions earned by him but rebated to insured policy-holders by respondent through adjustments made necessary by reason of the fire in San Francisco of 1906.
+If respondent’s claim for return of commissions was sustained without allowance to appellant for earnéd premiums, there would be a balance of $678.77 due respondent. 'The court found in favor of respondent on the single issue of the return of commissions on canceled insurance, and in favor of appellant for the amount of $317.33, earned commissions on adjusted insurance, and gave judgment for the respondent for the balance claimed after deducting this amount.
+The record fairly discloses the fact that the appellant at the time of the trial conceded that there were flat cancellations of insurance upon which the aggregate commission retained by him would amount to the sum claimed by the plaintiff; but contended that the cancellations were effected after he severed his connection with the plaintiff corporation, and it was upon this theory that the cause was tried. As we understand the record it was upon this understanding that the plaintiff rested his case: “The position that Mr. Nason takes in this matter is this, that these policies having been canceled after the termination of his agency, he is not responsible nor liable for any return premiums on those policies or any premiums at all, for this reason: that Mr. Nason operated an' office here; that all of this business was brought and placed upon the books of the company by and through the efforts of Mr. Nason and through money expended by him; and the policies being canceled after the termination of his agency, he cannot be held responsible for any of these return premiums.
+“Mr. O’Connor: Now is there any question of the cancellation of the policies i Mr. Cochrane: Yes. Mr. O’Con-nor: I don’t mean the date of them. I mean the cancellation of them. Mr. Cochrane: No. We take the position that the policies were canceled subsequent to the termination of the agency. But I would like to have the policies.”
+In his brief appellant calls attention to several rulings of the court on the introduction of testimony relative to cancellation of those policies, which he claims to be error. We have examined the rulings carefully, and are satisfied that the' conclusions of the trial court were correct; but in view of the situation above developed wherein the cancellations were conceded, and the only disputed matter being as to time, which element the appellant deemed immaterial, the rulings if er-° roneous were harmless.
+In his closing brief appellant contends that the case was not tried solely upon the theory that he should not be charged with premiums upon policies canceled subsequently to the termination of his agency, and in support of his contention cites the testimony of appellant as follows:
+“Question—An account of yours with the National Union Fire' Insurance Co., has been offered in evidence, showing there is a balance due you from the National Union Fire Insurance Co., of $564.49? Answer—Yes, sir.”
+This conclusion of the witness does not in any way militate against respondent’s position, nor does it support appellant’s theory. The statement of the position is an admission of the fact of the cancellations ;■ and the balance claimed results only by reason of the fact that appellant refuses to credit respondent with the commissions retained on this identical item of canceled insurance.
+Even if this were not true the appellant could not be heard at this time to impeach a record upon which the respondent submitted its case, the general rule being that “Where an issue is tacitly accepted by all the parties as properly presented for trial and as the only issue, the appellate court will proceed upon the same theory. . . . When a case is tried upon the theory that certain facts exist, even though they are put in issue by the pleadings, their existence will be assumed on appeal.” (21 Ency. of Plead. & Prac. 667; 2 Cyc. 670; Schroeder v. Mauzy, 16 Cal. App. 443, [118 Pac. 459] ; Mil waukee Mechanics’ Ins. Co. v. Warren, 150 Cal. 346, [89 Pac. 93].)
+The sole question left for determination, therefore, is as to whether the conclusion of the trial court that the respondent was entitled to a return of these commissions irrespective of the time of cancellation, whether before or after the termination of appellant’s agency, is supported by authority.
+This identical question here raised was passed upon by the supreme court in the case of Milwaukee Mechanics’ Ins. Co. v. Warren, 150 Cal. 346, [89 Pac. 93]. In that case, as in the case at bar, the contract of agency provided that the agent should retain as his compensation thirty-five per cent of gross premiums after deducting all return premiums, rebates, and reinsurance; and in that respect the court said: “It appears from the record that in a number of instances where policies have been written by Warren and Langtree return premiums were paid by the company after the termination of Warren & Langtree’s agency. In making up his statement of account the referee charged Warren & Langtree 35% of these return premiums, and there was a good deal of discussion in the lower court as to the propriety of this charge. Under the contract itself it is clear that Warren & Langtree were chargeable with these payments. The agreement on which they were appointed agents provided that as compensation for their services they were to receive 35% of the gross premiums by the company in their territory, 1 after deducting all return premiums, rebates and reinsurance. ’ ”
+The question at issue here is directly in point with the above citations, and appellant has called our attention to no authority in opposition to the views therein expressed. '
+Judgment affirmed.
+Lennon, P. J., and Hall, J., concurred.
