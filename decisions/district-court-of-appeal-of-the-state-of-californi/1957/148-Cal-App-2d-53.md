@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 8970"
+decided: "1957-01-28"
+citations: ["148 Cal. App. 2d 53"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MERRIMAN HAMBLIN, Appellant, v. STATE PERSONNEL BOARD et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/148/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4413775
+cites_cases: ["151 P.2d 233", "155 A.L.R. 405", "168 A.L.R. 467", "168 P.2d 16", "24 Cal.2d 753", "249 P.2d 280", "27 Cal.2d 873", "39 Cal.2d 708"]
+---
+
+# Hamblin v. State Personnel Board
+
+## Majority (VAN DYKE, P. J.)
+
+VAN DYKE, P. J.
+This is an appeal from a judgment denying a petition for a writ of mandate which was sought to compel appellant’s reinstatement to his permanent civil service position as a physician and surgeon, Grade II, at the Stockton State Hospital.
+The agreed statement of facts on appeal sets forth the following : On December 1, 1952, appellant requested and was granted a three-month leave of absence. Prior to the expiration of that leave, he requested and was granted a leave of absence for an additional nine months. From an interview with the superintendent of the Stockton State Hospital on November 21, 1953, appellant “understood” that the superintendent would check the records, not at the moment available, and would notify appellant in advance as to the exact date when his leave would terminate. The superintendent, however, did not gain such an understanding from the interview, and appellant was not given the notice he understood he would receive. On the contrary, on December 8, 1953, he was advised by telegram that his leave had terminated on November 30, 1953. Appellant reported for duty on the following morning, but he was not permitted to resume his duties, and on December 14, 1953, he was given written notice that his failure to return to work on December 1st constituted an automatic resignation from his position under rule 369 of the State Personnel Board, which provided that: “The failure of an employee to return to his position at the termination of a leave of absence is an automatic resignation from state service, ...” Within the time limit prescribed by section 19503 of the Government Code, appellant made application for reinstatement, which was denied for reasons not appearing in the record now before us. Appellant’s petition for rehearing was likewise denied, and the agreed statement on appeal contains a concession that appellant exhausted his administrative remedies. He then petitioned the superior court for a writ of mandate to compel his reinstatement, and the trial court denied the same on the expressed ground that, contrary to appellant’s contentions, rule 369 as above quoted was valid and not in conflict with either the Constitution or any statute of this state. With this conclusion we do not agree. We hold it to be in conflict with the controlling statute.
+If appellant’s absence without leave had continued for 10 consecutive working days, then, by statutory definition, it would have constituted an automatic resignation, for section 19503 of the Government Code then provided that: “Absence, without leave, whether voluntary or involuntary, for 10 consecutive working days is an automatic resignation from state service, as of the last date on which the employee worked.” (By amendment in 1955 the period was shortened to five days.) By thus prescribing the period which must elapse before absence without leave would constitute automatic resignation, the Legislature put it beyond the power of the board to designate a shorter period. The power given to the board (Const., art. XXIV, §2) “to adopt rules and regulations ... is not a grant of legislative power . . . and in promulgating such rules it may not alter or amend the statute or enlarge or impair its scope.” (Whitcomb Hotel, Inc. v. California Emp. Com., 24 Cal.2d 753, 759 [151 P.2d 233, 155 A.L.R. 405].) Rule 369 was not a mere regulation pro-motive of the policy formulated by the Legislature as was the rule under consideration in Nelson v. Dean, 27 Cal.2d 873, 881-882 [168 P.2d 16, 168 A.L.R. 467], upon which respondent relies. It went further and sought to supplant the legislative declaration that absence without leave must endure for 10 days before it would constitute automatic resignation. By the statute the Legislature made an inexcusable absence without leave for a shorter period of time than that specified a cause for discipline (Gov. Code, § 19572, subd. (k)), for which punitive action could be taken (Gov. Code, § 19571) and a “just and proper” decision rendered (Gov. Code, § 19582). Thereby, the Legislature has declared what sanctions may be imposed for an absence without leave short of 10 days and the board could not, by rule, provide for different or more stringent penalties. (Tolman v. Underhill, 39 Cal.2d 708, 712 [249 P.2d 280].) Rule 369 conflicts with the legislative enactment and must yield.
+The judgment appealed from is reversed.
+Peek, J., and Sehottky, J., concurred.
+A petition for a rehearing was denied February 26, 1957, and respondents’ petition for a hearing by the Supreme Court was denied March 27, 1957.
