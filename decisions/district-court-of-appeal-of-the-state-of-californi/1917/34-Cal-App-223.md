@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1972"
+decided: "1917-06-30"
+citations: ["34 Cal. App. 223"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY STEINBACH, Respondent, v. F. C. SMITH et al., Defendants; F. C. SMITH, Appellant."]
+source_url: "https://static.case.law/cal-app/34/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029522
+cites_cases: ["34 Am. Dec. 574", "51 Cal. 530"]
+---
+
+# Steinbach v. Smith
+
+## Majority (BEASLY, J., pro tem.)
+
+BEASLY, J., pro tem.
+During the period between the fifteenth day of March, 1914, and the fifteenth day of April, 1914, the defendants, F. C. Smith and George W. Metlar, were copartners owning and operating a ranch in Stanislaus County. The partnership was dissolved on the last-named day. The business was conducted at all times in the name of George W. Metlar alone. After the dissolution Metlar, without the knowledge or consent of Smith—unless Smith’s consent must be implied—borrowed from his father, Edwin F. Metlar, three sums of money aggregating $497.75, giving notes for these sums signed hy himself alone. The trial court found that these sums were loaned to the defendants as co-partners but at the request of George W. Metlar, and that the funds were used in payment of indebtedness of the firm incurred before the dissolution of the copartnership. Edwin F. Metlar died before the trial. The claim against the partnership was assigned by Metlar to the plaintiff, who brings this action against both the defendants. The action was not brought upon the notes but directly for the money loaned to the defendants. Judgment went against both defendants, and Smith appeals.
+Upon these facts the appellant contends that George W. Metlar was in no way authorized to borrow this money, and in support of this contention relies upon section 2462 of the Civil Code, which provides that a copartner authorized to act in liquidation cannot create new obligations in the name of the partnership.
+This section of the code is an expression of a general rule that a partner has no implied authority to bind his copartners to new obligations after dissolution. In the application of this rule the courts have almost universally held that a liquidating partner has no authority after dissolution to sign notes in the name of the copartnership even for money borrowed to pay partnership debts. But this is the full extent to which this doctrine has been carried so far as any case cited to us indicates. The ease of Curry v. White, 51 Cal. 530, goes no further than this. The evidence in this case shows that the only change made in the liability of this partnership by the borrowing of this money for the purpose of paying its pre-existing debts was a change in the person to whom the amount of the debts was to be paid. The court found— and the evidence sustains the finding—that the money borrowed from Edwin F. Metlar was used to pay debts contracted by the copartnership before its dissolution. In fact, this finding is not challenged. An obligation is thus deSned in section 1427 of the Civil Code: “An obligation is a legal duty, by which a person is bound to do or not to do a certain thing.” Under this definition the identity of the person to whom the duty is owing may be changed without changing the obligation itself or creating a new obligation. In this case no change whatever was made in the obligation itself, that is, in what the partnership was in duty hound to do, for the debts were certain in amount, and were due when the money was borrowed to pay them. The only change was that of the person to whom the obligation was owing. The court gave judgment for the money actually loaned by Edwin F. Metlar to the partnership without" interest and for nothing more. The notes which George F. Metlar attempted to give were not valid, because he had no authority to make them. These notes purported to change the obligation by providing that interest should be paid thereon, and in one instance at least that an attorney’s fee should be payable if an action should be begun on the note. Under a long line of authorities this, as has been said, the liquidating partner had no authority to do; but by the borrowing of the money and payment therewith of these partnership debts—as was said of a somewhat similar transaction in Estate of Davis and Desaugue, 5 Whart. (Pa.) 531, [34 Am. Dec. 574]—-“there is no new duty or obligation created; the responsibility of the firm is precisely the same, and the only alteration is as to the person of the creditor. ’ ’ And it may be added that if Edwin F. Metlar had purchased these claims from the creditors of the copartnership and taken assignments thereof to himself, no question could have been raised as to his right to enforce the obligations against the copartners, although the result, so far as partnership liability is concerned, would have been precisely the same.
+For the foregoing reasons the judgment must be affirmed, and it is so ordered.
+Kerrigan, J., and Richards, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on August 29, 1917.
