@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5597"
+decided: "1927-02-03"
+citations: ["81 Cal. App. 192"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JENNIE M. BAXTER, as Administratrix, etc., Appellant, v. HAZEL H. KING, Respondent."]
+source_url: "https://static.case.law/cal-app/81/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2204035
+cites_cases: ["104 Me. 164", "20 L. R. A. (N. S.), 35", "224 Pac. 103", "24 R. I. 317", "53 Atl. 93", "59 S. E. 856", "65 Cal. App. 327", "71 Atl. 661", "78 S. C. 157", "96 Am. St. Rep. 716"]
+---
+
+# Baxter v. King
+
+## Majority (KOFORD, P. J.)
+
+KOFORD, P. J.
+Plaintiff appeals from the judgment for defendant after order sustaining demurrer to plaintiff’s amended complaint. The demurrer, besides demurring generally, raised the statute of limitations by appropriate specifications. The complaint in many respects is like the one passed upon in Prichard v. Mercantile Trust Co. and King, 65 Cal. App. 327 [224 Pac. 103]. The defendant there was sued as administratrix, but here individually. The complaint alleges that plaintiff was a partner of Fred G-. King; that he conducted the partnership business in his own name from 1892 until the time of his death in 1920; that a large sum of the profits of said business was invested by said King for said partnership in the purchase of a large number of shares of stock in the Boston-Pacific Oil Company, a corporation, and that the certificates representing said stock “which had been issued to him in his lifetime in his name being in his possession at the time of his death as a part of the assets and property of said partnership, belonged to plaintiff as the sole surviving partner of said partnership.” Allegation Number VI is as follows:
+“That said defendant made representations to said corporation that she was the administratrix of the estate of Fred G. King, and that the stock and dividends mentioned belonged to the estate of Fred G. King, and demanded said dividends of said corporation and was paid by said corporation the sum of twenty-five thousand one hundred and forty-six dollars and sixty-eight cents ($25,146.68), on and after the 19th day of July, 1921, and converted the said amount to her own use and refuses to deliver said sum or any part thereof to plaintiff as the sole and surviving partner of the firm of Fred G. King, and still detains the said sum of money from plaintiff to her damage or her interest in said sum, in the sum of twelve thousand five hundred and seventy-eight dollars and thirty-four cents ($12,578.34), and the interest thereon at the rate of seven per cent (7%) from the said time of the conversion thereof.”
+The complaint was filed July 15, 1924, which was more than two years, but less than three years, after the alleged cause of action accrued. The cause is not barred by the statute, therefore, if it is one included in subdivision 3, section 338, of the Code of Civil Procedure, which requires to be commenced within three years “an action for the taking, detaining or injuring any goods or chattels including actions for the specific recovery of personal property.” But if the cause alleged is one included in subdivision 1 of seetion 339 o£ the Code of Civil Procedure, to wit, "An action upon a contract, obligation or liability not founded upon an instrument of writing, other than that mentioned in subdivision 2 of section 337," then it is barred by the statute of limitations.
+It will be noted from reading the allegations of the complaint above quoted that a cause which would ordinarily be stated as an action for money simply is worded as if it were an action for damages for detaining or converting said money.
+It is true that sometimes money can be treated as specific property, and where identified can form the basis of an action for conversion and might also be the subject of an action for the specific recovery of personal property. But where the money or fund is not identified as a specific thing the action is to be considered as one upon contract or for debt and not for conversion. (Randolph Co. v. Walker, 78 S. C. 157 [59 S. E. 856]; Larson v. Dawson, 24 R. I. 317 [96 Am. St. Rep. 716, 53 Atl. 93]; Hazelton v. Locke, 104 Me. 164 [15 Ann. Cas. 1009, 20 L. R. A. (N. S.), 35, 71 Atl. 661].)
+Subdivision 3 of section 338 divides itself into two divisions. Plaintiff’s cause of action does not fall within the division which includes actions for the specific recovery of personal property because plaintiff is not asking for a specific fund, but for damages for refusing to deliver corporation dividends received by the defendant, which damages are said to be one-half of the entire amount received by the defendant. This action would therefor have to fall within the remaining part of said subdivision 3 if it is governed by the three-year provision of the statute of limitations. In order to agree with this we should have to hold that this is an action for damages for the taking, detaining, or injuring of certain goods and chattels, to wit, one-half the amount of certain dividends received, together with interest thereon; or, in other words, an action for detaining money. It is obvious that such a ruling would have the effect of moving practically all actions for debt out of the two-year class into the three-year class. Nearly every creditor would have the same right as plaintiff here to claim that his debtor is in truth detaining money from him. We are unable to follow appellant to such lengths.
+In view of the conclusion we have arrived at upon this point it will not be necessary to consider the other alleged infirmities of the complaint.
+The judgment appealed from is therefore affirmed.
+Nourse, J., and Sturtevant, J., concurred.
