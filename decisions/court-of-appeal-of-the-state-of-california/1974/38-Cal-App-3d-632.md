@@ -1,0 +1,44 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 6753"
+decided: "1974-04-15"
+citations: ["38 Cal. App. 3d 632"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re LEE ROGER DURAN on Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-3d/38/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4469999
+cites_cases: ["105 Cal.Rptr. 305", "112 Cal.Rptr. 438", "150 Cal.App.2d 561", "264 P.2d 513", "310 P.2d 454", "37 Cal.App.3d 516", "408 U.S. 471", "41 Cal. 2d 756", "503 P.2d 1313", "68 A.L.R.2d 628", "8 Cal.3d 451"]
+---
+
+# In re Duran
+
+## Majority (THE COURT.)
+
+Opinion
+THE COURT.
+In a well-articulated petition in pro. per., Lee Roger Duran meritoriously seeks habeas corpus on the grounds his probation was revoked for no good reason, and in violation of the notice requirements of Morrissey v. Brewer, 408 U.S. 471 [33 L.Ed.2d 484, 92 S.Ct. 2593] and People v. Vickers, 8 Cal.3d 451 [105 Cal.Rptr. 305, 503 P.2d 1313].
+Following his conviction of assault with a deadly weapon while using a firearm (Pen. Code, §§ 245, subd. (a), 12022.5) upon his wife, on November 9, 1973, the superior court granted Duran probation with the conditions he “(1) Serve one year in the custody of the Sheriff, suspended until Monday, January 7, 1974; (2) Travel to State of Washington and obtain and maintain gainful employment; (3) Reside with or in the immediate proximity to family; (4) Not enter Republic of Mexico; (5) Not leave County of Tumwater or Seattle (whichever appropriate) without written authorization of the Washington Probation Officer, or this Court; (6) Have no personnel [i/c] contact with former wife; (7) Pay a fine of $500 commencing February 1, 1974; at the rate of $25 per month, through the Probation Officer; (8) Participate in a program of therapy under supervision by an appropriate agency in the State of Washington pursuant to the Interstate Compact; (9) Have no weapons in his possession; (10) Return to Court.on January 7, 1974, for further proceedings and report.”
+This unusual and self-contradictory order required Duran to obtain employment in Washington State, residing there close to his family; pay $25 a month toward a $500 fine, implying this would come out of employment earnings after he began his sheriff’s custody term in San Diego; not leave Tumwater or Seattle, Washington without the Washington probation officer’s or the court’s written authorization, yet commute to San Diego January 7, 1974, for further proceedings and report, the latter part indicating the court’s interest in Duran’s progress which if satisfactory would be ground for further suspending or deleting the sheriff’s custody condition; otherwise, if the one year in the sheriff’s custody was automatic, there would be no need “for further proceedings and report.”
+Addressing the probation officer at the November 9, 1973 hearing, the court said, “Mr. Probation Officer, I want a written report from the psychiatrist in Washington no later than December 28th.” This was not addressed to Duran, nor made part of the probation order.
+At the hearing January 7, 1974, Duran’s attorney told the court Duran had obtained employment with the Washington State Park and Recreation Department, contacted the probation officer in Washington and made arrangements for a psychiatric examination. In short, Duran complied with all the terms of probation.
+At that point, the court asked Duran’s counsel if he had read a report prepared by the Washington probation officer. This report related Duran’s dissatisfaction over his attorney failing to file an appeal and agreeing without authority to certain conditions in the plea bargaining.
+After counsel attempted to explain the situation (his belief was if Duran got probation, the appeal should be dropped), the court suddenly turned to Duran and stated: “[Y]ou just don’t seem to understand the seriousness . of this entire proceeding and the fact that you need help, psychiatric help. And you have been given every opportunity to have it, either in custody or out of custody. And you have declined that opportunity. You are a sick man.”
+Although Duran tried to explain the steps he had followed which complied with the order, the court announced its present intention was to sentence Duran to prison. The court said it was ready to revoke probation “at this time,” expressed its belief there had already been compliance with Morrissey and Vickers, but it would hold an additional hearing if counsel
+requested. Duran’s counsel did request, and a hearing was scheduled four days later.
+The court’s minutes state only, “Court sets Jan. 11, 1974 as time as [s/c] place for Defendant to show cause why his probation should not be revoked.” The record fails to show if either the minutes or the supplemental probation report were served on either Duran or his attorney. The supplemental probation report showed no violation of the conditions, of probation.
+At the hearing January 11, Duran’s new counsel explained why Duran had not arranged to see a psychiatrist earlier. He said Duran saw the San Diego probation officer on the street the day after he was released, about noon on November 10; conversation was more or less, “Well, good luck on your way to Washington”; the written instructions from San Diego were sent to Washington December 6, but went to a department that only handles juvenile matters; at any rate, Duran did not receive the written instructions until December 26.
+Despite this explanation, the court was upset at Duran’s not having obtained a psychiatric evaluation and supplying it to the court on January 7, stating Duran “failed and refused to comply with the conditions of probation.”
+Duran had filed a document entitled “Motion for Appeal,” at the end of which he wrote the probation conditions forced him to leave California and go to Washington for 60 days, the time allowed to file an appeal; he stated there had been an agreement between his attorney and the court not to file an appeal, which had been made without his knowledge or approval. The court asked Duran if he thought he had been “whisked” out of state to prevent him from filing an appeal. Duran answered, “At the time.” The court replied, “You are sicker than I thought.”
+Despite a plea by Duran he had honestly tried to follow all the probationary terms, the court revoked probation. Duran appealed from this order and also filed this petition for habeas corpus.
+The Attorney General points out Duran has a remedy through his appeal from the order revoking probation, and moves to dismiss the petition on that basis. While ordinarily habeas corpus is not a substitute for appeal (In re Dixon, 41 Cal. 2d 756 [264 P.2d 513]), this court has discretion to issue the writ if it believes an appeal is not adequate or if a prompt disposition is required in the interests of justice (In re Baird, 150 Cal.App.2d 561, 563 [310 P.2d 454, 68 A.L.R.2d 628]; Witkin, Cal. Criminal Procedure, p. 770). This is such a case.
+Here, the requirements of Morrissey v. Brewer, supra, 408 U.S. 471, 488 [33 L.Ed.2d 484, 498] and People v. Vickers, 8 Cal.3d 451 [105 Cal.Rptr. 305, 503 P.2d 1313] were utterly unsatisfied. “The minimum requirements of due process at the revocation hearing were stated in Morrissey to be: ‘(a) written notice of the claimed violations of parole; (b) disclosure to the parolee of evidence against him ....”’ (People v. Vickers, supra, 8 Cal.3d 451, 457.)
+There is no showing of service of written notice of any claimed violations of the terms of probation, nor at the hearing on January 7 was Duran informed of any violations. The court’s observation to Duran, “You are a sick man” was merely a conclusion restating what the court believed earlier when it ordered Duran to undertake a program of therapy. (See People v. Andre, 37 Cal.App.3d 516, 523-525 [112 Cal.Rptr. 438].)
+The fact no psychiatrist’s report was filed by December 28, does not show Duran violated anything he was ordered to do in the probation order. When the Washington probation officer ordered Duran to make an appointment with a psychiatrist, Duran promptly complied.
+The record shows no violations of the probation order by Duran. Instead, it shows a conscientious effort to comply.
+Whatever Duran’s beliefs may have been regarding whether the court and counsel might have attempted to deprive him of an appeal, this could not be a proper basis for revoking probation.
+The motion to dismiss the petition is denied.
+The writ of habeas corpus is granted. The order revoking probation is 'annulled, and the matter is referred to the trial court to refashion a probation order in harmony with this opinion, to the end that Duran may be returned to the State of Washington for gainful employment and treatment.
+Let a writ issue accordingly.
