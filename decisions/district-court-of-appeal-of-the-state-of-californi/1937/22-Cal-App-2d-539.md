@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2017"
+decided: "1937-09-16"
+citations: ["22 Cal. App. 2d 539"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES P. COOK et al., Appellants, v. LESLIE F. PARKER et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/22/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6041851
+cites_cases: ["31 Pac. 6", "96 Cal. 194"]
+---
+
+# Cook v. Parker
+
+## Majority (MARKS, J.)
+
+MARKS, J.
+This is an appeal from a judgment in favor of defendants in an action wherein plaintiffs sought recovery under the allegations of a complaint containing five separate causes of action which are described in their brief as follows: “The first cause of action was for cancellation of a $500.00 promissory note by reason of failure of consideration. The second cause of action was for cancellation of the note by reason of no consideration. The third cause of action was for rescission of a contract whereby Charles P. Cook agreed to invest $500.00 in the Mission Dairies Association, and for rescission and cancellation of said $500.00 note by reason of the fraud of the defendants, which induced the plaintiff Charles P. Cook to enter into said agreement, and which induced both plaintiffs to sign said $500.00 note. The fourth cause of action was for reformation of the contract to conform to the alleged agreement that the $500.00 note was to be paid solely out of the earnings of the Mission Dairies Association. The fifth cause of action was for a declaration of the rights of the parties.” We will assume that each count of the complaint states facts sufficient to constitute a cause of action. The appeal is taken upon the judgment roll alone.
+Plaintiffs base their attack on the judgment upon the ground of the alleged insufficiency of the findings of fact and conclusions of law to support the judgment. Their arguments are made under the counts of their complaint wherein they attempted to allege fraud in the execution of the promissory note and lack of consideration for it. They seem to have abandoned their other causes of action which consequently will receive no further attention here.
+Plaintiffs allege that defendants were associated together in the ownership and operation of the Mission Dairies Association; that they solicited Charles P. Cook to invest $500 in this business and made false and fraudulent representations to him to induce him to do so; that defendant Kaer loaned him $500 for which she took his promissory note; that Cook signed this note and received the money from Mrs. Kaer on the 20th day of December, 1934; that on the following day Mary W. Cook, the wife of Charles P. Cook, signed the note without any further consideration.
+The trial court found that Mrs. Kaer was not a partner nor an associate in the business of Parker; that she was not interested in the Mission Dairies Association; that she made no false, fraudulent, or untrue representations to Cook; that before the note was delivered Cook agreed to have his wife sign it; that Mrs. Kaer, as consideration for the note, paid plaintiffs $500.
+Plaintiffs urge that the findings are contrary to admissions in the pleadings; that they are in an admittedly conjunctive form which is defective; that there is no finding in response to the undenied allegations of fraud on the part of Parker.
+These charges are largely true. While the findings are unfortunately drawn, these defects do not necessarily require a reversal of the judgment if there are proper, findings supporting it and the improper findings are not necessary to its support. The failure to find on an issue raised by the complaint is not fatal to the judgment where the finding, if made, would not have required a reversal. The failure to find on an immaterial matter is not prejudicial.
+The trial court did properly find that Mrs. Kaer was not interested, either as part or sole owner or manager or otherwise, in either of the dairy businesses described in the complaint; that she made no false or fraudulent representations to Cook and did not join in any. With these findings made, fraud, if any, on the part of Parker becomes immaterial and constitutes no sufficient ground for a reversal of the judgment. The promissory note sought to be canceled was given by plaintiffs to Mrs. Kaer. Parker was not a party to it and was not acting with or for Mrs. Kaer. The money was furnished by Mrs. Kaer. Therefore, any fraud on Parker’s part cannot be charged to Mrs. Kaer. It follows that we may assume fraud on the part of Parker and still be unable to reverse the judgment because Mrs. Kaer, the payee and holder of the note and the real party in interest in the action to cancel it, was absolved from the charges of fraud by sufficient findings of the trial judge.
+A mere statement of the facts of the case demonstrates that Cook received a valuable consideration for the execution of the note. This is not seriously questioned by his counsel. He does argue that there was no consideration flowing to Mrs. Cook because she signed the note after its execution by her husband and after he had received the money for it.
+This contention is effectively answered in the case of Winders v. Sperry, 96 Cal. 194 [31 Pac. 6, 7], where, under similar facts, the Supreme Court said:
+“It is true, in general, that one who adds his signature to a promissory note after its execution and delivery is not bound unless there is a new consideration. But this is not the case (here). The execution and delivery were not complete until it was signed by appellant.
+“But if we are bound to conclude that it had been executed and delivered as to one of the makers, there was a consideration for the subsequent signature of the appellant. As the contract was that he should sign the note, and the note was accepted only upon that understanding, the payee could have canceled it or tendered it back if appellant had refused to sign, and maintained a suit.at once for his money.
+“The note was payable one year after date, and the credit was given on the promise and in consideration of appellant’s signature. Had he not signed the note this consideration would have failed.
+“But while the general rule as to a signature obtained after the execution and delivery of the note is as above stated, it has been held that where the borrower promises at the time of the loan and the execution and delivery of a note, signed by himself alone, that he will procure another signature, that the person so signing afterwards is bound; that the subsequent signature is not without consideration.”
+In the absence of the evidence, if it were necessary to support the judgment, we might assume that the evidence showed that Mr. Cook, before he signed the note and received the money, promised to secure his wife’s signature to it, and also that before its execution Mrs. Cook promised to sign it, which promise was a part of the consideration upon which Mrs. Kaer parted with her money. It follows that the note is supported by ample consideration flowing to both plaintiffs.
+Judgment affirmed.
+Jennings, Acting P. J., concurred,.
