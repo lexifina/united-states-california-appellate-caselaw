@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "D035151"
+decided: "2000-05-31"
+citations: ["81 Cal. App. 4th 653"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re DEMOND KADURA MITCHELL on Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-4th/81/cases/0653-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1113230
+cites_cases: ["10 Cal.4th 234", "148 Cal.App.3d 906", "196 Cal.Rptr. 293", "20 Cal.4th 249", "20 Cal.4th 403", "395 U.S. 185", "40 Cal.Rptr.2d 903", "57 Cal.App.4th 1380", "67 Cal.Rptr.2d 734", "84 Cal.Rptr.2d 241", "84 Cal.Rptr.2d 665", "893 P.2d 1224", "975 P.2d 1071", "975 P.2d 30"]
+---
+
+# In re Mitchell
+
+## Majority (McIntyre, J.)
+
+Opinion
+McIntyre, J.
+Factual and Procedural Background
+Demond Kadura Mitchell was convicted of, inter alia, conspiracy to commit first degree robbery in concert and two counts of attempted first degree robbery in concert. In October 1998, he was sentenced to a total of seven years eight months in prison. At Mitchell’s sentencing hearing, the trial court ruled that the 15 percent custody credit limitation of Penal Code section 2933.1 did not apply to him and ordered that his credit for time served be calculated under Penal Code section 4019. (All statutory references are to the Penal Code.)
+In August 1999, the Department of Corrections (Department) wrote a letter to the sentencing court stating that Mitchell’s conviction for conspiracy to commit first degree robbery in concert was “one of the violent felonies listed in PC 667.5(c) . . . .” The Department indicated that the 15 percent credit limitation of section 2933.1 would thus apply, and asked the court to review the file “to determine if a correction is required.” The court responded that the sentencing minutes “very clearly show” it expressly rejected the suggestion that Mitchell’s custody credits be calculated pursuant to section 2933.1.
+Nevertheless, the Department began calculating Mitchell’s custody credits under section 2933.1. Mitchell informally appealed the limitation of his custody credits, and in January 2000, he received a decision from the Department stating that he had been convicted of a violent felony listed in section 667.5 and thus, the 15 percent credit limitation of section 2933.1 applied. Mitchell resubmitted his appeal, which was treated as a second level of review and denied. The Department explained that section 2933.1 applied to Mitchell because he was convicted of conspiracy to commit first degree robbery in concert and section 182 indicates that if two or more people are convicted of conspiracy to commit any crime, they are punishable in the same manner and to the same extent as is provided for the target offense.
+Discussion
+Exhaustion of Administrative Remedies
+The Attorney General contends Mitchell’s petition must be denied because he did not obtain a third level of review from the Department, and thus he failed to exhaust his administrative remedies. We conclude it was not necessary for Mitchell to obtain a third level review before filing his writ petition. At issue is a matter solely of statutory interpretation, which is a judicial function. (See McKart v. United States (1969) 395 U.S. 185, 193 [89 S.Ct. 1657, 1662, 23 L.Ed.2d 194]; People v. Franklin (1999) 20 Cal.4th 249, 256 [84 Cal.Rptr.2d 241, 975 P.2d 30].) Moreover, pursuing further administrative relief would have been futile. (In re Strick (1983) 148 Cal.App.3d 906, 911-912 [196 Cal.Rptr. 293].) Indeed, in rejecting Mitchell’s two earlier appeals, the Department stated that “[a]ny further concerns” regarding the matter should be addressed to the court.
+Section 2933.1 Does Not Apply to Conspiracy
+Section 2933.1, subdivision (a) states: “Notwithstanding any other law, any person who is convicted of a felony offense listed in Section 667.5 shall accrue no more than 15 percent of worktime credit, as defined in Section 2933.” This language appears self-evident, and indeed, Division Two of this court has held that “section 2933.1 applies only where the defendant’s current conviction is a violent felony listed in section 667.5.” (See People v. Henson (1997) 57 Cal.App.4th 1380, 1389 [67 Cal.Rptr.2d 734], original italics.)
+Section 667.5, subdivision (c) states: “[f]or the purpose of this section, ‘violent felony’ means . . .” and sets forth 19 specific felonies and describes the circumstances under which certain of these felonies must be committed. Subdivision (c) also states: “The Legislature finds and declares that these specified crimes merit special consideration when imposing a sentence to display society’s condemnation for these extraordinary crimes of violence against the person.” Similarly, legislative history indicates that “ ‘[t]he legislative intent in enacting subdivision (c) of Section 667.5 . . . was to identify these “violent felonies” and to single them out for special consideration in several aspects of the sentencing process.’ ” (People v. Henson, supra, 57 Cal.App.4th at p. 1386; Stats. 1980, ch. 132, § 1(b), p. 305.)
+Section 667.5, subdivision (c) does not list conspiracy to commit the crimes set forth therein or conspiracy to commit any particular act or crime as a qualifying violent felony. The statute specifies two factual situations when first degree robbery qualifies as a violent felony: (1) when the robbery is committed in an inhabited dwelling or vessel and the defendant has personally used a firearm, or (2) where the defendant, acting in concert with two or more others, commits the robbery within an inhabited dwelling house or vessel. (§§ 667.5, subd. (c)(9) & (18), 213, subd. (a)(1)(A).) Mitchell, however, was convicted of conspiracy to commit residential robbery in concert, which is a separate and distinct crime from the offense that is the object of the conspiracy. (People v. Morante (1999) 20 Cal.4th 403, 416 [84 Cal.Rptr.2d 665, 975 P.2d 1071].) Conspiracy is an inchoate crime, and indeed, here, no act was committed within an inhabited dwelling or vessel, nor did Mitchell personally use a firearm. (See id. at pp. 416-417.)
+Since conspiracy to commit residential robbery in concert is not specified as a qualifying violent felony in section 667.5, the 15 percent custody credit limitation of section 2933.1 does not apply to Mitchell. In so holding, we are mindful of the language in section 182 which states that conspiracy to commit a felony “shall be punishable in the same manner and to the same extent as is provided' for the punishment of that felony.” However, to read section 182 as requiring the application of section 2933.1 to conspiracy to commit the violent felonies listed in section 667.5 begs the question, and is contrary to the plain language of sections 2933.1 and 667.5 and the express intent of the Legislature. We shall not indulge such an interpretation. (See People v. Jenkins (1995) 10 Cal.4th 234, 246 [40 Cal.Rptr.2d 903, 893 P.2d 1224].)
+Disposition
+The petition for writ of habeas corpus is granted. The Department is directed not to apply the 15 percent credit limitation of section 2933.1 against Mitchell’s sentence and to restore all credits that have been incorrectly limited under this section.
+Nares, Acting P. J., and Haller, J., concurred.
+On June 14, 2000, the opinion was modified to read as printed above. Respondent’s petition for review by the Supreme Court was denied September 13, 2000.
