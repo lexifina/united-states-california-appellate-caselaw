@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 414"
+decided: "1908-01-10"
+citations: ["7 Cal. App. 379"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. V. ROBERTS, Respondent, v. HENRY B. TRUE and MARY TRUE, His Wife, Appellants."]
+source_url: "https://static.case.law/cal-app/7/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4524001
+cites_cases: ["11 Pac. 656", "121 Cal. 379", "137 Cal. 7", "14 Cal. 256", "14 Cal. 257", "140 Cal. 73", "53 Pac. 813", "54 Cal. 298", "57 Cal. 480", "69 Pac. 489", "70 Cal. 236", "73 Am. Dec. 651", "73 Pac. 745"]
+---
+
+# Roberts v. True
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+This is an action for the specific performance of a parol agreement to convey real estate. Judgment was rendered for plaintiff, from which, and an order denying their motion for a new trial, defendants appeal.
+Defendants are husband and wife. For the purpose of securing the payment of a certain promissory note Henry B. True executed and delivered to plaintiff Roberts what purports on its face to be a deed of trust in the usual form (except that Roberts, the payee of the note, is made trustee therein with power of sale in case of default in the payment of the said note, but which instrument defendant Henry B. True alleges to have been intended and understood to be a mortgage), whereby he conveyed to Roberts the legal title to the real estate in question. ‘ The note was not paid and Roberts and Henry B. True made an oral agreement whereby plaintiff agreed to surrender the note and discharge such deed of trust, in consideration of which defendant Henry B„ True was to convey the property to plaintiff and plaintiff was to lease the same to him for a term of three years. Pursuant to this agreement plaintiff delivered the note to defendant Mary True, and on January 18, 1898, made the following indorsement upon the margin of the record of the deed of trust: “Full payment and satisfaction of the within trust deed hereby acknowledged, J. V. Roberts. Signed and acknowledged before me this 18th day of' Jan., 1898. F. S. Benson, County Recorder, by J. W. Crosland, Deputy Recorder.” And on or about January 20, 1898, plaintiff executed to True a lease of the said premises for a term of three years. On May 18, 1898, defendant Henry B. True filed a declaration of homestead upon the property, and thereafter refused to execute a deed to the land in accordance with his agreement with plaintiff; hence this suit.
+The principal contention of appellants is that, as Mary True was not a party to the agreement, its terms cannot be enforced as against her rights which accrued by virtue of the filing of the declaration of homestead by her husband. It is unnecessary to enter upon a discussion of this point, as it is clear that plaintiff was not entitled to. judgment for another .reason.
+The instrument is a deed of trust in the usual form whereby the legal title to the property was vested in Roberts (Kraft Co. v. Bryan, 140 Cal. 73-80, [73 Pac. 745]) ; and unless the indorsement upon the margin of the record of the deed of trust constitutes a reconveyance, it follows that the legal title remains in Roberts. By express statutory provi'sion the lien of a recorded mortgage may be satisfied by an indorsement upon the margin of the record, as made here (Civ. Code, sec. 2938), but such an indorsement is lacking in all the essential elements requisite to a transfer of title. This indorsement does not purport to be a conveyance of the land; none of the formalities requisite to a legal transfer of title were observed in making it. Such reconveyance of the property provided to be made in the deed of trust upon payment of the indebtedness as security for which it was given can only be made by an instrument in writing couched in suitable and apt words of transfer, duly executed and delivered. None of these formalities were observed. There was no reconveyance, and the legal title to the property is still vested in Roberts, whose duty it is, under the terms of the deed, to reconvey the property if the indebtedness has been paid (Civ. Code, sec. 871), and whose right it is thereunder to execute the trust by selling the property if the indebtedness be unpaid. (Koch v. Briggs, 14 Cal. 256, [73 Am. Dec. 651] ; Bateman v. Burr, 57 Cal. 480.) The indorsement upon the margin of the record was a futile act, unavailing for the purpose of discharging the deed of trust.
+The rights of Mary True, accruing to her by virtue of the declaration of homestead, are subject to the deed of trust and those holding thereunder. (Civ. Code, sec. 865 ; King v. Gotz. 70 Cal. 236, [11 Pac. 656] ; Sacramento Bank v. Alcorn, 121 Cal. 379, [53 Pac. 813].) There is no redemption from a sale thereunder. (Koch v. Briggs, 14 Cal. 257, [73 Am. Dec. 651].) The expiration of the statutory time which bars an action to foreclose a mortgage or recover a debt does not apply to the execution of the power of sale for nonpayment of a debt secured by a deed of trust. (Grant v. Burr, 54 Cal. 298.) The fact that the title to the property, as well as the power to sell, is vested in Roberts, who was payee of the note secured by the deed of trust, does not affect his right to a sale of the property. (Mayhall v. Eppinger, 137 Cal. 7, [69 Pac. 489].)
+Judgment and order are reversed.
+Allen, P. J., and Taggart J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 10, 1908.
