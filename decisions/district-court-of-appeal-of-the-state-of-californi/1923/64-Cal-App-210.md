@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1015"
+decided: "1923-10-24"
+citations: ["64 Cal. App. 210"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of ANNETTE FLAHERTY for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/64/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2151366
+cites_cases: ["122 Cal. 466", "135 Cal. 61", "155 Pac. 1026", "18 Idaho, 609", "22 L. R, A. (N. S.) 833", "29 Cal. App. 430", "55 Pac. 252", "67 Pac. 42", "8 Cal. App. 372", "97 Pac. 84"]
+---
+
+# In re Flaherty
+
+## Majority (CURTIS, J.)
+
+CURTIS, J.
+Petitioner claims that she is' illegally imprisoned and restrained of her liberty by the sheriff of the county of Los Angeles. She bases the illegality of her imprisonment upon the following state of facts: Petitioner was accused by information in proper form of the crime of receiving stolen property. Upon trial the jury rendered the following verdict: “We, the jury in the above-entitled cause, find the defendant guilty of receiving stolen property as charged in the information.” Petitioner thereupon moved the court for her discharge, which was denied. Thereafter said court rendered a judgment of conviction against her upon said verdict.
+It is now urged on behalf of petitioner that the verdict is not sufficient to support the judgment of conviction, in that, while it finds her guilty of receiving stolen property, it fails to find the truth of the other necessary elements of the crime charged in the information—the defendant’s knowledge of the theft, and that the property was received by her for her own gain or to prevent the owner from again possessing it. Petitioner argues that the receiving of stolen property is not a crime without the person receiving it knew at the time of its receipt that it had been stolen and received it either for his own gain or to prevent the owner from again possessing it, and that as the jury only found her guilty of receiving stolen property it had not found her guilty of any crime whatever.
+Petitioner relies upen the case of People v. Tilley, 135 Cal. 61 [67 Pac. 42], as sustaining her contention. In this case the verdict was: “We, the jury'in the above-entitled case, find the defendant, Charles H. Tilley, guilty of receiving stolen property,” and the supreme court, in reversing the case and discharging the defendant, held as follows: “It cannot be said, therefore, that the verdict unequivocally finds the defendant guilty of the offense charged or that it expresses an intent to do so.” It will be observed that the verdict in the case of People v. Tilley, supra, made no reference to the information or indictment, while the verdict against petitioner contains the words “as charged in the information.” The difference in these two forms of verdict appears to be a matter of some consequence. In the case of People v. Cornell, 29 Cal. App. 430, on page 443 [155 Pac. 1026, 1032], this distinction is commented on in the following language: “In State v. Schweitzer, 18 Idaho, 609 [111 Pac. 130], the verdict read: ‘We, the jury in the above-entitled case, find the defendant, George Schweitzer, guilty of selling by short weights, as charged in the complaint. ’ This was held sufficient, as the intent of the jury was clear in that it found the defendant guilty. The words ‘selling by short weights, ’ might be treated as surplusage, and still the verdict held good, for then it found the defendant guilty as charged in the complaint. This case distinguishes the general current of authority from the case of People v. Tilley, 135 Cal. 61 [67 Pac. 42], where it was held that a verdict in these words, ‘We, the jury in the above-entitled cause, find the defendant, Charles M. Tilley, guilty of receiving stolen property,’ was insufficient, as it must, in order to constitute a crime, include the knowledge that the property was stolen, and also the intent to deprive the owner of the same. It may be stated, also, that the verdict in the Tilley case did not refer to the indictment or information, which also distinguishes that case from the one at bar, where the indictment is clearly and distinctly referred-to.”
+The form of verdict in the case of People v. Cornell, supra, was in many respects similar to that in the ease in which petitioner was found guilty, and the district court of appeal for the third district affirmed the judgment in that case. Judgments based upon verdicts similar to the one under attack have been sustained in the following cases: People v. Morley, 8 Cal. App. 372 [97 Pac. 84]; People v. Higuera, 122 Cal. 466 [55 Pac. 252],
+Petitioner has cited a number of well-considered authorities from other jurisdictions which support her contention that the verdict in this case is vitally defective and not sufficient to support a judgment of conviction. These authorities, however, appear to be in conflict with those of our own state which we have heretofore referred to.
+The verdict in this case, in our opinion, was a valid verdict and sufficient to support the judgment of conviction rendered by the court against petitioner. It follows that the writ must be denied and the petitioner remanded, and it is so ordered.
+Conrey, P. J., and Houser, J., concurred.
