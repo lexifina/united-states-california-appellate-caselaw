@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4299"
+decided: "1922-11-18"
+citations: ["59 Cal. App. 687"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM TRACEY CEINAR, Respondent, v. MARY E. HAWES et al., Appellants."]
+source_url: "https://static.case.law/cal-app/59/cases/0687-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2085883
+cites_cases: ["102 N. E. 521", "125 Pac. 359", "13 Am. St. Rep. 200", "19 Cal. App. 238", "208 N. Y. 496", "21 Ky. Law Rep. 664", "22 Pac. 404", "3 Cal. Unrep. 351", "47 L. R. A. (N. S.) 284", "52 S. W. 944", "80 Cal. 631"]
+---
+
+# Ceinar v. Hawes
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The plaintiff commenced an action against the defendants to obtain a judgment declaring a certain transfer of real and personal property fraudulent and to obtain a decree setting the same aside. Judgment was entered in favor of the plaintiff and the defendants have appealed.
+Attacking the complaint filed by the plaintiff, the defendants contend that the same does not state a cause of action. In this behalf the appellants state their objections under twelve different heads, but do not argue any of them. Thereupon the appellants cite Albertoli v. Branham, 80 Cal. 631 [13 Am. St. Rep. 200, 22 Pac. 404], Although the complaint in the instant case does not directly allege the facts, nevertheless it contains sueh allegations that the inference is strong that when the conveyance was made by the grantor said conveyance transferred all of her properties, both real and personal, and that since the date of said conveyance she has not been the owner of any other properties.
+The record before us does not show when the action was commenced, and the only information we have on that subject is a statement of fact set forth in the appellants’ brief. The fact that an execution was issued in the first case is clearly set forth and there is an attempt to plead that the execution has been returned wholly unsatisfied. The latter allegation is in the form that we think falls within the rule concerning facts defectively pleaded, but it does not fall within the rules of a total failure to plead such facts.
+The appellants claim that the evidence was insufficient to support the decision. The point is without merit. (Windhaus v. Bootz et al., 3 Cal. Unrep. 351 [25 Pac. 404].) The judgment-roll in the first case proved many of the plaintiff’s allegations, and oral testimony was introduced to the effect that before the court referee the grantor testified that she transferred the property described in the complaint for the support of her brother and for the love and affection which she bore the grantee and for no other consideration; and that she further testified that the property conveyed constituted everything she possessed and that she owned nothing and had nothing since. There was no evidence that the grantee furnished any of the support for which the deed was made or that she has ever parted with anything since the deed was made. If the transfer had been made in consideration of the future support of the grantor, it is settled law in California that the transfer would be void. (Baxter v. Baxter, 19 Cal. App. 238 [125 Pac. 359].) In other jurisdictions the rule is the same when, as here, the support to be furnished is to be furnished to some person whom the grantor is under no legal obligation to support. No reason is presented why a different rule should be declared in this state. (Brown et al. v. Moore et al., 21 Ky. Law Rep. 664 [52 S. W. 944].)
+The trial court found that the grantee did not know of the existence of the indebtedness of the grantor. That fact, in this case, was immaterial. (Clowe v. Seavey, 208 N. Y. 496, 499 [47 L. R. A. (N. S.) 284, 102 N. E. 521].)
+The plaintiff took the stand as a witness in his own behalf and testified as to certain testimony given by the defendant Hawes when she was being examined before a court referee. She was not asked when the deed was made nor whether the deed was recorded, but was asked questions regarding her assets both before and after the deed was made. Counsel for appellants then propounded this question: “Do you remember also Mrs. Hawes testifying as follows: ‘I transferred that property to Mrs. Burke many years ago but never had anything recorded, transferred to Mrs. Burke years ago by a notary public in the Hibernia Bank. ’ ” The respondent objected to the question as not being cross-examination and immaterial. The trial court sustained the objection. We think the ruling was correct. The question was not cross-examination, but the appellants should have made the witness their own if they wanted! further passages of the former testimony recited. Moreover, if the question had been answered in the affirmative the answer would have strengthened the case of the respondent as tending to show that the transfer was a secret. If the question had been answered in the negative then the appellants would not have been assisted nor would they have been injured.
+On the issue of consideration the trial court found, “That there was no consideration for said conveyances of said real and personal property, save and except love and affection of defendant, Mary E. Hawes, for said Elizabeth E. Burke, and the future support of the father of said Elizabeth E. Burke.” Whether said finding be treated as a finding that there was no consideration, or as a finding that the consideration was the support of a member of the family of the grantor, we need not determine. In either event the ease is ruled by the provisions of section 3442 of the Civil Code.
+The judgment is affirmed.
+Langdon, P. J., and Nourse, J., concurred.
