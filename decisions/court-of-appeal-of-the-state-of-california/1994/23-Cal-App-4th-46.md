@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B074847"
+decided: "1994-03-09"
+citations: ["23 Cal. App. 4th 46"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. GERMAN MALDONADO VALDEZ, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/23/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4555480
+cites_cases: ["11 Cal.Rptr.2d 694", "129 Cal.Rptr. 306", "14 Cal.App.4th 1303", "15 Cal.App.4th 711", "16 Cal.3d 752", "18 Cal.Rptr.2d 511", "19 Cal.Rptr.2d 55", "228 Cal.Rptr. 509", "42 Cal.3d 351", "422 P.2d 998", "43 A.L.R.3d 677", "451 P.2d 430", "459 P.2d 225", "548 P.2d 706", "56 Cal.Rptr. 110", "65 Cal.2d 650", "70 Cal.2d 604", "71 Cal.2d 1119", "721 P.2d 595", "75 Cal.Rptr. 790", "80 Cal.Rptr. 897", "9 Cal.App.4th 294"]
+---
+
+# People v. Valdez
+
+## Majority (GATES, Acting P. J.)
+
+Opinion
+GATES, Acting P. J.
+Defendant German Maldonado Valdez appeals from the judgment entered following a jury trial that resulted in his conviction for continuous sex abuse of a child under the age of fourteen (count 1, Pen. Code, § 288.5) and five lewd acts with the same child (counts 2 to 6, § 288, subd. (a)) consisting of two acts of sodomy and three of oral copulation. It was also found that as to the section 288 violations, appellant had occupied a position of special trust (§ 1203.066, subd. (a)(9)) and his victim was under the age of 11 years. (§ 1203.066, subd. (a)(8).) He was sentenced to the high term of 16 years upon the section 288.5 charge. Consecutive terms of equal length were imposed for the section 288 violations, and then stayed in compliance with the mandate of section 654. He contends: “I. The convictions as to counts 2 through 6 must be reversed because Penal Code section 288.5 prohibits prosecution of any other felony sex offense occurring with the same victim during the same period of time as charged in the 288.5 prosecution. II. A remand for resentencing is required because the court relied on impermissible factors and factors not established by a preponderance of the evidence in imposing the upper term for violation of Penal Code section 288.5 continuous sexual abuse of a child.”
+The sufficiency of the evidence to sustain appellant’s convictions is not challenged. It established that while residing with Michael and Rosemary A. between June 1, 1991, and May 8, 1992, appellant committed the acts alleged on their youngest son, commencing when the child was only seven years of age.
+The contention that he was improperly prosecuted for both the continuous conduct crime, i.e. section 288.5, and the specific offenses is unmeritorious. Subdivision (c) of section 288.5 explicitly permits such alternative charges.
+Further, the individual crimes proscribed by section 288, having different elements than does section 288.5, are not lesser offenses necessarily included therein. Consequently, appellant’s conviction on each count was proper. Though they are “alternative” offenses in that they may not result in double punishment, they are not “alternative” in the sense that commission of the one necessarily constitutes an acquittal of the other. (See People v. Jaramillo (1976) 16 Cal.3d 752, 757 [129 Cal.Rptr. 306, 548 P.2d 706] [treating with the question of whether one who steals property may also be convicted of receiving it].) We perceive nothing to the contrary in the cases cited by appellant, i.e., People v. Hord (1993) 15 Cal.App.4th 711 [19 Cal.Rptr.2d 55]; People v. Avina (1993) 14 Cal.App.4th 1303 [18 Cal.Rptr.2d 511]; and People v. Higgins (1992) 9 Cal.App.4th 294 [11 Cal.Rptr.2d 694].
+Inasmuch as the prosecution cannot know in advance which offenses will (1) prevail with the trier of fact, including the trial court sitting as a 13th juror, (2) be subsequently sustained on appeal, and (3) never be retroactively declared invalid (see, e.g., People v. Daniels (1969) 71 Cal.2d 1119, 1140 [80 Cal.Rptr. 897, 459 P.2d 225, 43 A.L.R.3d 677]), the sentences imposed on the lesser of the “alternative” crimes should merely be stayed in accordance with the rationale long ago adopted in In re Wright (1967) 65 Cal.2d 650, 654 and footnote 4 [56 Cal.Rptr. 110, 422 P.2d 998].
+Further, appellant is mistaken in asserting that dual convictions may not result from one physical act. In fact, in some instances, when it violates more than one statute, it may even be separately punished. (See In re Hayes (1969) 70 Cal.2d 604, 605 et seq. [75 Cal.Rptr. 790, 451 P.2d 430]) In any event, in the present instance, the permanent staying of the section 288 offenses precludes appellant suffering any additional penal consequences therefrom in the future. (People v. Pearson (1986) 42 Cal.3d 351, 358 [228 Cal.Rptr. 509, 721 P.2d 595].)
+Appellant’s second contention also fails. While it is true that in its extended commentary at the time of sentencing the court mentioned aspects of appellant’s conduct that are essentially inherent in all crimes of this sort, it also stressed the fact the victim was far below the maximum required age and was particularly vulnerable and emotionally needy due to the marital and financial troubles his parents were experiencing. It also noted the sophisticated manner in which appellant was able to use his friendship with the victim’s parents to plan and carry out his misdeeds.
+Contrary to appellant’s argument here these factors were supported by ample evidence. In addition, the nightmares the child still suffered, despite therapy, as the result of being subjected to repeated acts of sodomy and being forced to orally copulate appellant, are not necessarily mere “ordinary” emotional trauma.
+The judgment is affirmed.
+Fukuto, J., and Nott, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied May 26, 1994. Mosk, J., was of the opinion that the petition should be granted.
+All future references are to the Penal Code unless otherwise indicated.
+Penal Code section 288.5 provides as follows:
+“(a) Any person who either resides in the same home with the minor or has recurring access to the child, who over a period of time, not less than three months in duration, engages in three or more acts of substantial sexual conduct with a child under the age of 14 years at the time of the commission of the offense, as defined in subdivision (b) of Section 1203.066 or three or more acts of lewd or lascivious conduct under Section 288, with a child under the age of 14 years at the time of the commission of the offense is guilty of the offense of continuous sexual abuse of a child and shall be punished by imprisonment in the state prison for a term of 6, 12, or 16 years.
+“(b) To convict under this section the trier of fact, if a jury, need unanimously agree only that the requisite number of acts occurred not on which acts constitute the requisite number.
+“(c) No other felony sex offense involving the same victim may be charged in the same proceeding with a charge under this section unless the other charged offense occurred outside the time period charged under this section or the other offense is charged in the alternative. A defendant may be charged with only one count under this section unless more than one victim is involved in which case a separate count may be charged for each victim.” (Italics added.)
