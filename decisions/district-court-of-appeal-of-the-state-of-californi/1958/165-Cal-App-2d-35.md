@@ -1,0 +1,41 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9544"
+decided: "1958-11-10"
+citations: ["165 Cal. App. 2d 35"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROSE CARDOZA HAASE, Appellant, v. ALICE I. CARDOZA, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/165/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4405210
+cites_cases: ["141 Minn. 198", "144 Cal.App.2d 637", "156 P.2d 441", "169 N.W. 704", "17 A.L.R. 1299", "26 Cal.2d 83", "301 P.2d 440", "58 P.2d 693", "6 Cal.2d 493"]
+---
+
+# Haase v. Cardoza
+
+## Majority (WARNE, J. pro tem.)
+
+WARNE, J. pro tem.
+Appellant brought this action to recover the sum of $10,000 from respondent as a result of an alleged oral promise made by respondent to and with her deceased husband to pay appellant said sum and also to recover the further sum of $3,000, upon an assigned claim, based upon an alleged oral promise made by respondent to and with her deceased husband to pay to Loretta M. Haase the sum of $3,000. At the close of the appellant’s case in chief the trial court granted respondent’s motion for a nonsuit and this appeal followed.
+It is stated in Lashley v. Koerber. 26 Cal.2d 83, 84 [156 P.2d 441] :
+“. . . Under well-established rules we must, in considering whether the judgment of nonsuit was proper, resolve every conflict in their testimonies in favor of plaintiff, consider every inference which can reasonably be drawn and every presumption which can fairly be deemed adduced, direct and indirect, which tends to sustain plaintiff’s ease.” (Also see Singer v. Marx, 144 Cal.App.2d 637 [301 P.2d 440].)
+Hence the following statement of facts is based upon the evidence most favorable to plaintiff’s case and we have disregarded all conflicting evidence: On May 17, 1951, the deceased and respondent, as husband and wife, entered into an inter vivos trust on the terms of which the survivor was to receive whatever estate the parties had acquired during their marriage and of which they were then possessed. Sometime later the deceased made a will, leaving the appellant, among other heirs mentioned therein, the sum of $2,500 on the apparent assumption that between said date and the date of his death there would be some additional estate acquired over and above that included in the trust agreement. Approximately two years later deceased died and, although his will was filed with the county clerk of Santa Cruz County, there was no estate subject to probate and the $2,500 bequest to appellant lapsed. However, respondent, desiring to carry out the wishes of her deceased husband, voluntarily and gratuitously gave appellant $2,500 from her own funds because there was no estate from which the bequest could be paid. The appellant is the deceased’s sister.
+Approximately a year and a half after the death of the respondent’s husband, respondent, during a period of illness, arranged through her sister Yvette Harvey to have appellant come to her home. Appellant testified concerning the following conversation which took place between herself and the respondent, Alice I. Cardoza, in the presence of respondent’s sister, Mrs. Harvey: “Q. Who was present in the bedroom at the time ? A. Mrs. Harvey and myself and Alice. Q. What did Alice say to you? A. She started to cry, and she said, ‘Rose, I have a confession to make to you. Tony left you $10,000.00 and Loretta Haase $5,000.00, and I didn’t give it to you.' Q. Was it $5,000 or $3,000? A. $3,000. So she said ‘This will drive me crazy.’ She was crying all the time. And I said, ‘Well, why do you cry so? Why don’t you do what he told you to do?’ ” She also testified that in said conversation respondent said, “Rose, I am going to pay you $50.00 a month. Will you accept it?’’
+Respondent thereafter proceeded to send appellant a cheek for $50 a month for eight months. These payments ceased when appellant asked for a note to cover the balance alleged to be due on the $10,000.
+The assignment of the $3,000 claim of Loretta M. Haase for the purpose of suit was stipulated to.
+At the trial no evidence was produced nor was there any claim made by the appellant that respondent’s alleged statement was supported by any consideration, by any previous promise between the parties, or by any debt or obligation between any of the parties, including the deceased.
+Appellant contends that the above mentioned testimony was sufficient'to show an acknowledgment of the moral obligations referred to in section 1606 of the Civil Code.
+Appellant assumes that the mere statement made by respondent to the effect that respondent’s husband had asked her to give the $10,000 was an acknowledgment of an obligation and that, therefore, despite the lack of evidence of any obligation on the part of either the respondent or her husband, and the admissions of the appellant herself that no preexisting indebtedness existed, respondent’s mere statement created a consideration where none prior thereto existed. We feel that there is no merit in this contention.
+Plaintiff has cited no cases holding that a promise which is without consideration is made actionable by an assumption to carry out such promise where the assumption is without consideration. Nor have we been able to find any eases so holding. While the courts may apply a promise to do something where there is an unjust result, if the promise is not implied we find no cases where the courts will imply consideration. As stated in 1 Corbin on Contracts, section 114, at pages 354, 355:
+“An informal promise without consideration, in any of the senses of that term, creates no duty and is not enforceable. But this statement is not correct if we limit the definition of consideration so as to require it to be a bargained-for equivalent given in exchange for the promise. There are many informal promises that are enforceable, even though there is no consideration as thus defined. In every case, however, an informal promise is never enforceable if it stands utterly alone. To be enforceable, there must be some accompanying factor of the past (generally called ‘past consideration’), or there must be some subsequent changes of position in reliance on the promise. Without any such accompanying factor, an informal promise to make a gift is not binding. ’ ’
+Appellant testified that she had no interest in decedent’s business and that neither decedent nor the respondent owed her any money. Nor do we find any evidence of a change of position on the part of the appellant which could give rise to. an estoppel as a substitute for consideration. Respondent’s promises to pay the $10,000 and the $3,000 stand utterly alone and under such circumstances are not actionable.
+Appellant contends that the very code section (Civ. Code, § 1606) upon which the nonsuit was granted “imports” consideration and therefore she introduced sufficient evidence to go to the jury on the question of moral obligation. We do not agree with appellant. The code section reads:
+“An existing legal obligation resting upon the promisor, or a moral obligation originating in some benefit conferred upon the promisor, or prejudice suffered by the promisee, is also a good consideration for a promise, to an extent corresponding with the extent of the obligation, but no further or otherwise. ’ ’
+In construing this section, where a similar contention was made, the Supreme Court in Estate of McConnell, 6 Cal.2d 493, 498 [58 P.2d 693], stated:
+“ ‘It is true that in some states a moral, as distinguished from a legal consideration, will under some circumstances be sufficient to form a valid and binding contract (Rask v. Norman, 141 Minn. 198 [169 N.W. 704, 17 A.L.R. 1299]), but such has never been the rule in this state. California cases have construed such code sections to mean that “a moral obligation is sufficient to support an express promise, where a good and valuable consideration has once existed.” [Citing eases.] ’ ”
+In the instant ease appellant’s own testimony conclusively shows that no good or valuable consideration ever existed between any of the parties.
+The judgment is affirmed.
+Peek, Acting P. J., and Schottky, J., concurred.
+Assigned by Chairman of Judicial Council.
