@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 45"
+decided: "1908-04-11"
+citations: ["8 Cal. App. 82"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. YUN KEE, Charged as CHOY LUNG, Appellant."]
+source_url: "https://static.case.law/cal-app/8/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4514108
+cites_cases: ["115 Cal. 6", "46 Pac. 734", "5 Cush. 320", "52 Am. Dec. 711"]
+---
+
+# People v. Yun Kee
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Defendant was convicted of the crime of robbery. He appeals from the judgment of conviction and from the order denying his motion for a new trial.
+The sufficiency of the evidence to warrant the verdict of the jury is not questioned. A reversal is asked on the ground that the court erred in giving a certain instruction, proposed by the people, and in refusing to give instructions asked by defendant, marked 3, 7 and 13.
+The instruction given at the request of plaintiff was upon the doctrine of reasonable doubt. That part of the instruction complained of reads as follows: “By this term ‘reasonable doubt’ is not meant every possible or fanciful doubt or conjecture that may suggest itself or be suggested to your minds. It is not a mere guess or surmise, because everything relating to human affairs and dependent upon moral evidence is open to some fanciful doubt or conjecture. A reasonable doubt is a doubt based upon reason, and growing out of the testimony and evidence in the case. A reasonable doubt is that state of the case, which, after an entire comparison and consideration of all the evidence, leaves your minds in that condition that you cannot say you feel an abiding conviction, to a certainty that the accused committed the offense.”
+The objection is thus stated in the brief: “It requires the jurors to give a reason for their doubt, based upon the evidence introduced.” It is further urged that the instruction is “ambiguous and abstruse”; that while the last part of the instruction conforms to that given in Commonwealth v. Webster by Justice Shaw (5 Cush. 320, [52 Am. Dec. 711]), it gives but a part of that instruction, and the court erred in refusing defendant’s instruction marked 3, which was the instruction given in the Webster case, and in holding that it was elsewhere given. So far as this latter instruction attempted to state the doctrine of reasonable doubt, it is substantially the same as the one given, except the sentence italicized, as shown above.
+Some point is made that upon the authority of People v. Paulsell, 115 Cal. 6, [46 Pac. 734], it was the duty of the court to give instruction 3, even though the court had given a similar instruction elsewhere. We do not understand this to be the rule. The trial court is not required to repeat instructions once given. Besides, there were some other rules for the guidance of the jury stated in the proposed instruction which were elsewhere given correctly. The only objection, therefore, is to that part indicated by italics. In it we discover no error. If a reasonable doubt growing out of the evidence in the case is not to be based upon reason, we are at a loss to discover a foundation for it, unless it be based upon mere conjecture and irrational speculation, and this is not permissible.
+Instruction marked 7 stated the rule as to the presumption of innocence, and that “it is the duty of the jury, if possible, to reconcile the evidence with this presumption.” It is claimed that the part of the instruction above quoted was not elsewhere given. An instruction at folio 53 was as follows: “All presumptions of law are in favor of innocence, and every person accused of crime is presumed to be innocent until his guilt is established to a moral certainty and beyond a reasonable doubt. This is a substantial right given by the law to every person accused of crime, and this defendant is entitled to this presumption of innocence until your minds are convinced of his guilt beyond a reasonable doubt.” The court, at defendant’s request, instructed the jury that if “they believe that the evidence upon any essential point in the case admits of any reasonable doubt, the prisoner is entitled to the benefit of it.” The court did not use the language requested by defendant, but an intelligent application of the instructions given, which we must presume was given by the jury, must necessarily have led the jury to consider the evidence with this presumption present in their minds. Where followed by “with” or “to,” the word “.reconcile” means— to make consistent, to bring to agreement. (Webster’s Dictionary.) The jury could not have reached a verdict of guilty, having the instructions as given in mind, without having found that the evidence could not be reconciled—i. e., made consistent with the presumption of innocence.
+Instruction 13 was refused because elsewhere given. It was framed to caution the jury against allowing their judgment to be influenced by bias or prejudice, or their judgment “to be swayed by any popular feeling that may exist on the outside; the multitude are not the judges in this case.” The court fully instructed the jury on this point, but did not caution the jury against being swayed by “popular feeling,” nor did it inform the jury that “the multitude are not the judges of this ease.” There is nothing in the ease to suggest that “popular feeling” had in any manner been aroused or had manifested itself in any way, or that there was anything in the ease calculated to arouse popular feeling “on the outside” or elsewhere, and certainly it was not necessary to instruct the jury that “the multitude are not the judges in this case,” nor was it prejudicial to refuse to so instruct the jury.
+The judgment and order are affirmed.
+Burnett, J., and Hart, J., concurred.
