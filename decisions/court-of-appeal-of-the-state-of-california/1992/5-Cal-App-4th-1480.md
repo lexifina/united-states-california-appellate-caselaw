@@ -1,0 +1,51 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B063923"
+decided: "1992-04-30"
+citations: ["5 Cal. App. 4th 1480"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel. DEPARTMENT OF TRANSPORTATION, Petitioner, v. THE SUPERIOR COURT OF SANTA BARBARA COUNTY, Respondent; ERNESTO VERDEJA et al., Real Parties in Interest."]
+source_url: "https://static.case.law/cal-app-4th/5/cases/1480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2312231
+cites_cases: ["100 Cal.Rptr. 498", "15 Cal. 411", "159 Cal.Rptr. 835", "179 Cal.App.3d 408", "209 Cal.App.3d 1266", "228 Cal.App.3d 1098", "23 Cal.App.3d 822", "231 Cal.Rptr. 113", "25 Cal.3d 707", "258 Cal.Rptr. 66", "269 Cal.App.2d 803", "279 Cal.Rptr. 470", "3 Cal.3d 841", "3 Cal.App.3d 744", "479 P.2d 379", "602 P.2d 755", "75 Cal.Rptr. 240", "84 Cal.Rptr. 257", "92 Cal.Rptr. 179"]
+---
+
+# People ex rel. Department of Transportation v. Superior Court
+
+## Majority (GILBERT, J.)
+
+Opinion
+GILBERT, J.
+Are Judicial Council form complaints invulnerable to a demurrer? No.
+Real parties in interest used a form complaint to state a cause of action against a governmental entity. The governmental entity demurred. The trial court overruled the demurrer on the ground that a Judicial Council form complaint is immune from attack by way of demurrer. We conclude otherwise. A Judicial Council form complaint may be subject to demurrer. We therefore grant a writ of mandate.
+Facts
+Petitioner, State of California, Department of Transportation (CalTrans) is a defendant in this lawsuit. Real parties are the plaintiffs. They filed their complaint on a form prepared by the Judicial Council. In their complaint, they alleged that CalTrans maintained public property in a dangerous condition. They also alleged that on January 12, 1990, a traffic collision occurred on Highway 101, and that real parties have suffered personal injuries as a result of the collision.
+A section of the form complaint with the heading “Prem.L-1.” provides space for a plaintiff to fulfill the requirement to supply a “description of premises and circumstances of injury.”
+Real parties describe the circumstances of the injury as follows: “U.S. Highway 101 approximately 1,652 feet north of the Arroyo Hondo Bridge in the County of Santa Barbara, State of California. Plaintiff Ernesto Verdeja was driving his 1979 Datsun northbound at said time and place. Plaintiffs Elizabeth Hernandez and Luis Fabian Hernandez were passengers in his car. Another vehicle driven by defendant Seth R. Wood traveling southbound crossed over the dirt center divider and struck plaintiff’s vehicle head-on.”
+On October 17, 1991, CalTrans filed a demurrer to the first amended complaint. It claimed that the complaint did not set forth adequate “ ‘circumstances of injury’ ” and “ ‘reasons for liability’ ” as required in a suit for dangerous condition of public property. (See Code Civ. Proc., § 425.10; Gov. Code, § 835.)
+On November 6, 1991, the superior court judge overruled the demurrer. In making his ruling, the judge said, “I will make it easy. Regardless of its deficiencies and by whatever else the Code of Civil Procedure or prior Supreme Court or Court of Appeal rules have given us as to the sufficiency of pleadings, all this aside, if you use a Judicial Council form, it is nondemurrable. Okay. That is my order and take it up, please.”
+CalTrans followed this advice and seeks a writ of mandate. In Omaha Indemnity Co. v. Superior Court (1989) 209 Cal.App.3d 1266, 1272 [258 Cal.Rptr. 66], we held that extraordinary writs not be granted “at the drop of a hat” lest they overburden the crowded dockets of appellate courts. “Were reviewing courts to treat writs in the same manner as they do appeals, these courts would be trapped in an appellate gridlock.” (Id., at p. 1273.) Here, however, the judge’s view of the case put CalTrans in the fast lane of review. The issue tendered in its petition is worthy of review by extraordinary writ and we have granted an alternative writ of mandate. (Id., at pp. 1273-1274; Babb v. Superior Court (1971) 3 Cal.3d 841, 851 [92 Cal.Rptr. 179, 479 P.2d 379].)
+CalTrans points out that claims for damages against governmental entities must be pled with specificity. (See Susman v. City of Los Angeles (1969) 269 Cal.App.2d 803, 809 [75 Cal.Rptr. 240]; Van Alstyne, California Government Tort Liability Practice (Cont.Ed.Bar 1990 supp.) § 5.77, p. 170.) Its position is that the adoption of official forms has not relieved the parties from alleging the ultimate facts that are essential to state a cause of action. (See Weil & Brown, Civil Procedure Before Trial (The Rutter Group 1[ 6:103, p. 6-23.5 [Weil & Brown].)
+CalTrans argues also that the State may not be held liable for common law negligence. (Van Kempen v. Hayward Area Park etc. Dist. (1972) 23 Cal.App.3d 822, 825 [100 Cal.Rptr. 498].) Therefore, the demurrer should have been sustained without leave to amend.
+Discussion
+Government Code section 68511 provides that “[t]he Judicial Council may prescribe by rule the form and content of forms used in the courts of this state.” (See also Code Civ. Proc., § 425.12.) The Judicial Council has adopted a pleading form for a complaint for personal injury. (Cal. Rules of Court, rule 982.1.)
+The Judicial Council pleading forms have simplified the art of pleading, and have made the task of drafting much easier. Nevertheless, in some cases more is required than merely placing an “X” in a box. (Weil & Brown, supra, at § 6:105, p. 6-24.) “Adoption of Official Forms for the most common civil actions has not changed the statutory requirement that the complaint contain facts constituting the cause of action.’ ” (Id., at § 6:103, p. 6-23.5.) Thus, in order to be demurrer-proof, a form “complaint must contain whatever ultimate facts are essential to state a cause of action under existing statutes or case law.” (Ibid.)
+A cause of action for dangerous condition of public property must allege:
+1. a dangerous condition of public property;
+2. a proximate causal connection between the condition and the injury sustained;
+3. a reasonably foreseeable risk that the kind of injury that occurred would result from the dangerous condition; and
+4. the entity either created the condition, or had actual notice or constructive notice of its existence, and there was sufficient time before the injury for it to have taken remedial action. (Gov. Code, § 835; Dominguez v. Solano Irrigation Dist. (1991) 228 Cal.App.3d 1098, 1102 [279 Cal.Rptr. 470].)
+Real parties have merely alleged that a motorist crossed a dirt median of Highway 101 and struck their vehicle.
+Real parties argue that the “inescapable conclusion from the allegations of paragraph Prem.L-1 is ‘but for’ the failure by CalTrans to properly isolate the north and southbound lanes of Highway 101 in the vicinity of the accident, the head-on collision would not have occurred.” They believe that the existence of a median barrier would have prevented the accident. (See Ducey v. Argo Sales Co. (1979) 25 Cal.3d 707 [159 Cal.Rptr. 835, 602 P.2d 755].)
+It is true that the allegations in a complaint must be liberally construed. (Code Civ. Proc., § 452.) It is also true that “ ‘. . . the essence is fairness in pleading in order to give the defendant sufficient notice of the cause of action stated against him so that he will be able to prepare his case [citations]. . . .’” (Fuhrman v. California Satellite Systems (1986) 179 Cal.App.3d 408, 423 [231 Cal.Rptr. 113].) Therefore, we must not so liberally construe the allegations of the complaint so as to deny the defendant adequate notice to defend the case.
+A while ago, Justice Field lamented, “in numerous instances before us, pleadings [are] filled with recitals, digressions and stories, which only tend to prolixity and obscurity.” (Green v. Palmer (1860) 15 Cal. 411, 414.) The Judicial Council went a long way in answering Justice Field’s lament. Brevity is the soul of a well-pled complaint. Providing too many details obscures rather than enlightens. On the other hand, too little information confounds and obfuscates. In either case the environment is cloudy and justice cannot shine.
+The problem with the allegations in Prem.L-1 is that they do not tell enough. Real parties argue that the allegations necessarily indicate the absence of a barrier contributed to the accident. Although that may be a possible inference to draw from the allegations, it is not the only one. The median may have had nothing to do with the accident. For example, other factors, such as a wet or slick highway, could have contributed to the accident.
+Real parties have an obligation to give CalTrans more information. The complaint fails to tell CalTrans in what manner the existence of the dirt median was hazardous. It fails to state whether a proper median barrier was lacking, and it fails to inform CalTrans about the nature of the relationship between the condition of the median and the injuries suffered by real parties.
+Relief against a public entity is limited to those theories set forth in the complaint. (See Connelly v. State of California (1970) 3 Cal.App.3d 744 [84 Cal.Rptr. 257].) Here, the inadequate pleadings prevent Cal-Trans from determining under what theory real parties are seeking relief. This deprives CalTrans of certain possible defenses. It also prevents Cal-Trans from determining whether real parties’ basis for recovery is at variance with their Board of Control claim.
+In some cases, merely checking a box on a Judicial Council form complaint will be sufficient. In other cases, such as this one, where specific allegations need be alleged, the form complaint is like a partially completed painting. It is up to the pleader to add the details that complete the picture. The form complaint here, standing alone, is no more immune to demurrer than any other complaint that fails to meet essential pleading requirements to state a cause of action.
+Conclusion
+Let a writ of mandate issue commanding respondent superior court to set aside its order overruling the demurrer and to enter a new order sustaining the demurrer with leave to amend.
+Stone (S. J.), R J., and Yegan, J., concurred.
