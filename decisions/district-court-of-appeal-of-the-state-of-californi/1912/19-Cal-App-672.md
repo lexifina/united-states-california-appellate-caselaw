@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 252"
+decided: "1912-09-17"
+citations: ["19 Cal. App. 672"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. TEOFIL KLEMPKE, Appellant."]
+source_url: "https://static.case.law/cal-app/19/cases/0672-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2372523
+cites_cases: ["146 Cal. 506", "154 Cal. 369", "80 Pac. 709", "97 Pac. 871"]
+---
+
+# People v. Klempke
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+Appellant was convicted of burglary in the second degree. Prom the judgment pronounced he appeals. There can be no serious question as to the sufficiency of the evidence to sustain the verdict. Positive testimony appears in the record to the effect that defendant was seen emerging, from a car used as a habitation by certain employees of' a railroad company; .that entrance - thereto had been effected through force; that defendant after leaving said car had in his possession property belonging to the men living therein.’ His arrest immediately followed while he still retained possession of the property.
+Appellant seeks a reversal of the judgment on account of certain rulings of the trial court which he claims were erroneous and prejudicial. The defendant was shown to be a native of Russia and to have been in this country^ only eighteen months. Evidence was admitted tending to show that defendant, through the use of the English language, made certain incriminatory statements with reference to the property in his possession shortly after his arrest. A witness, shown to have had but a limited acquaintance and means of observation with reference thereto, was asked if defendant could speak the English language, counsel announcing that by such evidence he expected to prove that defendant could not speak the English language. An objection was interposed to this question, which was sustained by the court, and this ruling is claimed to have been erroneous. It is certain that the witness could not of his own knowledge state, as a matter of fact, that defendant could not speak or understand a given language; his answer could only be in the. nature of an opinion. It may be that one, after an extended acquaintance, with opportunities for observation and proper tests, would ue a competent witness to give an opinion as to the inability of another to speak or understand a given language, but it is for the trial court in the exercise of a sound discretion to determine the qualification of such witness so to be heard. In the case under consideration the court determined that such witness was not so qualified, and we cannot say that any abuse of this discretionary power is made to appear. The court upon another occasion sustained an objection to a question asked of a witness as to the number of times as a peace officer he had been called upon to testify in criminal cases. This evidence could have no effect other than that of affecting the credibility of the witness; and we are unable to see how the testimony of a peace officer could be affected by proof of the fact that he had in other eases been called upon to testify as a witness. We see no error in the action of the court sustaining an objection to a question propounded- to a witness as to his knowledge of defendant’s honesty and integrity. The question was too general, and did not purport to show his reputation, in the community in' which he lived. (People v. Murphy, 146 Cal. 506, [80 Pac. 709].) Numerous exceptions' and specifications of error relate to the exclusion of evidence going to show want of motive. The commission of a crime by defendant was clearly established by positive evidence, and the motive therefore became unimportant. (People v. Besold, 154 Cal. 369, [97 Pac. 871].) Numerous exceptions are specified as to the action of the trial court in the matter of instructions to the jury. An examination of the record discloses no prejudicial error in relation thereto. Certain of these instructions refused, which were specific in their character, were covered by the general instructions, while a portion thereof purported to instruct as to matters not in evidence. The court, in our opinion, fairly and fully instructed the jury as to the law of the case presented by the evidence. We see no prejudicial error based upon the statements or acts of the district attorney, nor of the trial court. Nothing therein, in our opinion, was of such character as to warrant a reversal on account thereof. The record discloses a verdict and judgment proper under the evidence, and no miscarriage of justice" can be said to have resulted.
+The judgment and order are affirmed.
+James, J., and Shaw, J., concurred.
