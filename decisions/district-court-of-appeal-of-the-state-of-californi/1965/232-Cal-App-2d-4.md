@@ -1,0 +1,63 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 27652"
+decided: "1965-02-02"
+citations: ["232 Cal. App. 2d 4"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS GRUNFELD et al., Plaintiffs and Respondents, v. PACIFIC AUTOMOBILE INSURANCE COMPANY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/232/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2151657
+cites_cases: ["205 Cal.App.2d 133", "207 Cal.App.2d 160", "207 Cal.App.2d 667", "213 Cal.App.2d 29", "22 App.Div.2d 658", "22 Cal.Rptr. 682", "23 Cal.Rptr. 592", "24 Cal.Rptr. 388", "24 Cal.Rptr. 755", "253 N.Y.S.2d 170", "255 Iowa 69", "28 Cal.Rptr. 328", "296 P.2d 801", "307 P.2d 359", "316 F.2d 770", "373 P.2d 640", "42 Cal.Rptr. 509", "46 Cal.2d 423", "48 Cal.2d 31", "57 A.L.R.2d 914", "58 Cal.2d 142"]
+---
+
+# Grunfeld v. Pacific Automobile Insurance
+
+## Majority (FOURT, J.)
+
+FOURT, J.
+This is an appeal from a judgment wherein the court held in effect that plaintiffs were entitled to collect certain amounts from defendant under the uninsured motorist provisions of certain insurance policies.
+The case was submitted to the trial court upon the complaint, the answer, the pretrial statement and a replica of parts of the policy of insurance in question. Findings of fact and conclusions of law were made in part, and, in part, are set forth in a footnote.
+The issue here is substantially the same as that involved in Kirby v. Ohio, post, p. 9 [42 Cal.Rptr. 509] decided this date, namely, are plaintiffs entitled to recover under their own policy of insurance with defendant company, the difference between the amount received under the Giick policy and the full value of their damages for injuries up to the limits of their policy with defendant Pacific Company.
+The rights of the parties are to be determined by the terms of their policy of insurance provided such policy grants benefits equal to or greater than is stated in the Uninsured Motorist Act and by the terms of the act just referred to as of the date of the issuance of the policy. (Hendricks v. Meritplan Ins. Co., 205 Cal.App.2d 133 [22 Cal.Rptr. 682]; Interinsurance Exchange of Auto. Club v. Ohio Cas. Ins. Co., 58 Cal.2d 142 [23 Cal.Rptr. 592, 373 P.2d 640]; Lewis v. Fidelity & Cas. Co., 207 Cal.App.2d 160 [24 Cal.Rptr. 388]; White v. Farmers Ins. Exchange, 207 Cal.App.2d 667 [24 Cal.Rptr. 755]; Voris v. Pacific Indemnity Co., 213 Cal.App.2d 29 [28 Cal.Rptr. 328]; Wildman v. Government Employees’ Ins. Co., 48 Cal.2d 31 [307 P.2d 359].)
+The controlling legislative enactment here is Insurance Code, section 11580.2, as enacted in Statutes 1959, chapter 817, page 2835, as distinguished from the 1961 act which became effective September 15, 1961. The code provided for certain exemptions, in part as follows:
+“(c) The insurance coverage provided for in this section does not apply:
+Í C
+“ (2) To bodily injury of the insured while in or upon or while entering into or alighting from an automobile other than the described automobile if the owner thereof has insurance similar to that provided in this section.”
+The Pacific policy provided in part:
+“ ‘Family Protection (Damages for Bodily Injury) : To pay all sums which the insured or his legal representative shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injury, sickness or disease, including death resulting therefrom, hereinafter called “bodily injury”, sustained by the insured, caused by accident and arising out of the ownership, maintenance or use of such uninsured automobile. ’
+“. . . With respect to bodily injury to an insured while occupying an automobile not owned by the named insured the insurance hereunder shall apply only as excess insurance over any other similar insurance available to such occupant, and this insurance shall then apply only in the amount by which the applicable limit of liability of this Part exceeds the sum of the applicable limits of liability of all such other insurance.”
+The plaintiffs, as heretofore indicated, were injured while riding in an automobile other than the automobile described in their policy of insurance issued by the defendant company. The owner and driver of the ear in which plaintiffs were riding had an insurance policy containing uninsured motorist coverage provisions nnder which the plaintiffs were insured within certain specified limits. It would seem clear under the circumstances and the plain language of the policies that the statutory coverage, that is, that which is implied by law did not apply in this case.
+It is readily apparent that plaintiffs’ claim is based upon a contract between themselves and defendant insurance company. The company has a right within the confines of the statute in question to write a policy which is limited to certain specified and particular situations. Such limitations ought to be respected if legal. (Continental Cas. Co. v. Phoenix Constr. Co., 46 Cal.2d 423, 432 [296 P.2d 801, 57 A.L.R.2d 914].)
+There was available to plaintiffs in this case other “similar insurance” namely, the coverage under the Glick policy. The Glick policy and the Pacific policy each provided for limits of liability of $10,000 for one person and $20,000 for one accident. The applicable limits of liability of the uninsured motorist coverage of the Pacific policy did not exceed the ‘‘ applicable limits of liability of all such other insurance” and as a consequence there is no uninsured motorist protection available to plaintiffs from the Pacific policy.
+Substantially the same question was determined in Travelers Indemmty Co. of Hartford, Conn. v. Wells, 316 F.2d 770, 4th Circuit of Appeals, decided April 22, 1963. The court there held that “the provision is too explicit to give footing for stretching the uninsured endorsement beyond its terms.” (P. 774.) Likewise, the Supreme Court of Iowa in Burcham v. Farmers Insurance Exchange, 255 Iowa 69 [121 N.W.2d 500] (May 7, 1963) has held substantially as we here hold under a similar situation. (See also Globe Indemnity Co. v. Baker’s Estate, 22 App.Div.2d 658 [253 N.Y.S.2d 170].)
+The judgment is reversed with instructions to enter a judgment declaring, in effect, that defendant Pacific Automobile Insurance Company under the circumstances as here presented has no liability to plaintiffs under the uninsured motorist provision of the policy of insurance issued by Pacific Automobile Insurance Company to plaintiffs.
+Wood, P. J., and Lillie, J., concurred.
+‘Findings of Fact
+“The Court finds:
+“1. At all times mentioned in the complaint plaintiffs were husband and wife.
+“2. On July 26, 1961, defendant Pacific Automobile Insurance Company, a California corporation, issued to plaintiffs its policy of public liability insurance entitled ‘Family Combination Automobile Policy’ being Number F182122, hereinafter referred to as the ‘Pacific’ policy.
+“3. Said Pacific policy contains a provision entitled ‘Family Protection Coverage’ commonly known as uninsured motorist protection with limits of liability in the sum of §10,000.00 for each person and §20,000.00 for each occurrence.
+“4. On January 11, 1962, plaintiffs were occupants of an automobile driven and owned by one Phillip Glick; in addition to the plaintiffs and said Phillip Glick there were two other occupants of said vehicle; at said time the said vehicle so occupied by plaintiffs was involved in a collision with another vehicle.
+“5. As a direct and proximate result of the aforesaid accident said Phillip Glick was killed and the plaintiffs and other two occupants were injured.
+“6. The negligence of the driver of the other vehicle was the sole and proximate cause thereof.
+“7. At the time of the aforesaid accident said Phillip Glick carried a policy of public liability insurance (hereinafter referred to as the ‘Glick’ policy) which contained an uninsured motorist provision with limits of liability in the sum of §10,000.00 for each person and §20,000.00 for each occurrence.
+“8. Neither the driver nor the owner of the other vehicle involved in said accident carried any insurance which would in any way reimburse either the plaintiffs or the other occupants for the injuries sustained by them.
+“9. The plaintiffs, the other occupants of the Phillip Glick automobile and the widow of Phillip Glick have all filed claims under the said uninsured motorist provision contained in the Glide policy and have all filed their respective demands for arbitration with the American Arbitration Association under the terms of the said Giick policy; said claims exceed the $20,000.00 limits of liability under the uninsured motorists provisions of said Giick policy.
+‘ ‘ 10. The said Pacific policy issued to plaintiffs by defendant contains under coverage J the following language:
+“ ' Family Protection (Damages for Bodily Injury) : To pay all sums which the insured or his legal representative shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injury, sickness or disease, including death resulting therefrom, hereinafter called 1 bodily injury, ’ sustained by the insured, caused by accident, and arising out of the ownership, maintenance or use of such uninsured automobile. ’
+“11. The said Pacific policy also contains the following language:
+“ 'Other Insurance: With respect to bodily injury to an insured while occupying an automobile not owned by the named insured the insurance hereunder shall apply only as excess insurance over any other similar insurance available to such occupant, and this insurance shall then apply only in the amount by which the applicable limit of liability of this Part exceeds the sum of the applicable limits of liability of all such other insurance.
+“ 'With respect to bodily injury to an insured while occupying or through being struck by an uninsured automobile, if such insured is a named insured under other similar insurance available to him, then the damages shall be deemed not to exceed the higher of the applicable limits of liability of this insurance and such other insurance and the company shall not be liable under this Part for a greater proportion of the applicable limit of liability of this Part than such limits bears to the sum of the applicable limits of liability of this insurance and such other insurance.
+“ ' Subject to the foregoing paragraphs, if the insured has other similar insurance available to him against a loss covered by this Part, the company shall not be liable under this Part for a greater proportion of such loss than the applicable limit of liability hereunder bears to the total applicable limits of liability of all valid and collectible insurance against such loss. ’
+‘' Except as otherwise hereinabove specifically found, the Court further finds:
+“12. All of the allegations of the complaint are true and none of the allegations of the answer to said complaint are true; all of the factual contentions of plaintiffs as set forth in the joint pre-trial statement heretofore filed herein are true; the contentions of the defendants set forth in said joint pre-trial statement are untrue.
+"Wherein any of the following conclusions of law be or may be held to be findings of fact, they are by reference incorporated herein as if set forth verbatim.
+‘' Conclusions of Law
+"1. Wherein any of the foregoing findings of fact be or may be held to be conclusions of law, they are by reference incorporated herein as if set forth verbatim.
+"2. At all times mentioned in the complaint the policy of insurance, referred to herein as the Pacific policy, issued to plaintiffs by defendant was in full force and effect.
+"3. After the plaintiffs have recovered such amount of damages as may be awarded either or both of them under the terms of the uninsured motorist provisions of the said Glick policy they shall automatically have rights under the Pacific policy in connection with said accident as hereinafter set forth.
+“&. Plaintiffs and each of them are entitled to judgment against defendant declaring and adjudicating that after either or both of them have first been awarded compensation under the Glick policy each of them, severally, are then entitled to be compensated for the balance of their respective damages resulting from the said accident not to exceed however for either of said plaintiffs the difference between the amount recovered by each plaintiff under the Glick policy and $10,000.00.
+"5. Plaintiffs are also entitled to judgment for their court costs incurred herein. ’ ’
