@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5102"
+decided: "1925-11-12"
+citations: ["75 Cal. App. 178"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESTHER FINDLEY, Petitioner, v. INDUSTRIAL ACCIDENT COMMISSION et al., Respondents."]
+source_url: "https://static.case.law/cal-app/75/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163782
+cites_cases: ["249 Pac. 844"]
+---
+
+# Findley v. Industrial Accident Commission
+
+## Majority (HOUSER, J.)
+
+HOUSER, J.
+It appears that in a certain proceeding brought before the Industrial Accident Commission an order was made including an award to petitioner herein of the sum of $2,500, to be paid to her by Thomas Gordon, George W. Harrison, and Charles W. Russell, individually and as co-partners, doing business under the firm name of Gordon & Harrison, and which award on rehearing of the matter by the said Commission was thereafter by it affirmed. Thereupon the petitioner herein applied to said Commission for a certified copy of such award, but such application was by said Commission refused. Whereupon petitioner filed her petition herein for a writ of mandate to be directed to said Commission, commanding it to issue to said petitioner a certified copy of said award.
+Before the application herein for said writ of mandate could be heard by this court, the defendant in the proceeding before the Commission, against whom the said order of award had been made, petitioned this court for a writ of certiorari for the purpose of reviewing the proceedings which resulted in such order of award. Such last-mentioned matter having come on regularly for hearing and decision, it was ordered by this court that the said order of award so far as it purported to award to petitioner the sum of $2,500 to be paid by said individual defendants be annulled. (Gordon et al. v. Industrial Acc. Com. (Cal. App.), 249 Pac. 844.) In the proceeding before the Commission, however, the petitioner was granted further pecuniary relief as against one other defendant, and so far as said award affects said defendant, the rights, if any, of petitioner to have issued to her a certified copy of the award remain intact.
+The ordinary rule as to public writings is that any citizen is entitled to inspect them, and that on his demand and the payment by him of the legal fees therefor, the custodian of such writings is bound to give to such citizen a certified copy thereof. (Sec. 1893, Code Civ. Proc.) That rule, however, applies to public documents only in the absence of a special rule to the contrary or one which places some limitation upon the general rule. The law with reference to the right of a party to a certified copy of the findings and the award by the Industrial Accident Commission is set forth in section 21 of the act. (Stats. 1917, p. 831.) After providing for the filing of a certified copy of the findings and award with the clerk of the superior court of any county, etc., and that judgment must be entered by such clerk in conformity therewith, the statute proceeds with certain limitations thereon, including the following: “ . . . Where it is deemed desirable to stay the enforcement of an award and a certified copy of said findings and award has not been issued by the commission, the commission, or any member thereof, may order such certified copy to be withheld with the same force and under the same conditions as it might issue a stay of execution if said certified copy had been issued and judgment entered thereon.’’ (Sec. 21 [c].)
+The representation is made by respondent, and not denied by petitioner, that the reason for refusing petitioner’s application to the Commission for a certified copy of the award was that the individual defendants in the proceedings before the Commission had advised the commissioner to whom the application for the said certified copy of the award had been made that it was their intention to apply to this court for a writ of certiorari, and that they “desired a stay of proceedings until they should exhaust their rights in the appellate courts. ’ ’
+The records herein show that the said defendants thereafter did apply to this court for a writ of certiorari, and in connection therewith that the defendants furnished a satisfactory undertaking for stay of proceedings—from which it follows that their said statement to the commissioner was made in good faith. The substance of the statute (sec. 21 [c], Stats. 1917, p. 831), is that where it is deemed desirable to stay the enforcement of an award, the Commission may refuse to issue a certified copy thereof. Judging from the language of the statute, the probable intention of the legislature was to vest in the Commission a legal discretion as to whether under given circumstances a certified copy of an award should issue. It is the unquestioned rule that where a discretion is thus vested in an individual or commission of any sort, the exercise thereof will be disturbed by an appellate court only where a clear abuse of such discretion has been shown. It appearing that good cause existed for the withholding by the Commission of the certified copy of the award, its action therein must be affirmed by this court.
+It is therefore ordered that the petition for a writ of mandate herein he and the same is dismissed.
+Conrey, P. J., and Curtis, J., concurred.
