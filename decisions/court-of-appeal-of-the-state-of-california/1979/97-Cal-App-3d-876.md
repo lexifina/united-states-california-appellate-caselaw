@@ -1,0 +1,34 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 3623"
+decided: "1979-10-18"
+citations: ["97 Cal. App. 3d 876"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re the Marriage of TONI and RALPH REYES. TONI REYES, Appellant, v. RALPH REYES, Respondent; CARPENTERS PENSION TRUST FUND FOR NORTHERN CALIFORNIA, Respondent."]
+source_url: "https://static.case.law/cal-app-3d/97/cases/0876-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999134
+cites_cases: ["109 Cal.App.2d 803", "124 Cal.Rptr. 278", "141 Cal.Rptr. 313", "149 Cal.Rptr. 798", "152 Cal.Rptr. 362", "164 P. 421", "18 Cal.Rptr. 476", "19 Cal.Rptr. 28", "191 P.2d 745", "199 Cal.App.2d 121", "20 Cal.3d 25", "21 Cal.App.3d 942", "210 P.2d 846", "241 P.2d 639", "299 P.2d 858", "31 Cal.2d 669", "311 P.2d 473", "33 Cal.App. 93", "34 Cal.2d 423", "46 Cal.2d 868", "48 Cal.2d 606", "51 Cal.App.3d 340", "569 P.2d 1303", "60 A.L.R.2d 939", "85 Cal.App.3d 900", "89 Cal.App.3d 113", "98 Cal.Rptr. 865"]
+---
+
+# Reyes v. Reyes
+
+## Majority (BROWN (G. A.), P. J.)
+
+Opinion
+BROWN (G. A.), P. J.
+Toni Reyes, the wife, in a marital dissolution proceeding joined Carpenters Pension Trust Fund for Northern California (the Fund) to which her husband, Ralph Reyes, was a contributor. In the decree of dissolution the trial court ordered the Fund to pay directly to the wife her community property share of the payments to the husband as they will fall due when the husband retires and commences receiving payments. The Fund appealed. In 5 Civil 3575 (nonpublished), filed this date, we affirmed the order of the superior court pursuant to the authority of In re Marriage of Campa (1979) 89 Cal.App.3d 113 [152 Cal.Rptr. 362].
+Subsequent to the trial court’s judgment in 5 Civil 3575 the wife moved the superior court to assess attorney’s fees against the Fund on the Fund’s appeal from the judgment. The court denied the motion, and the wife has appealed. We affirm.
+Appellant’s primary contention on appeal is that Civil Code section 4370 should be construed to authorize a trial court to order any party in a dissolution action to pay attorney’s fees. That section provides in pertinent part: “(a) During the pendency of any proceeding under this part, the court may order the husband or wife, or father or mother, as the case may be, to pay such amount as may be reasonably necessary for the cost of maintaining or defending the proceeding and for attorneys’ fees; and from time to time and before entry of judgment, the court may augment or modify the original award for costs and attorneys’ fees as may be reasonably necessary for the prosecution or defense of the proceeding or any proceeding relating thereto. In respect to services rendered or costs incurred after the entiy of judgment, the court may award such costs and attorney’s fees as may be reasonably necessary to maintain or defend any subsequent proceeding therein, and may thereafter augment or modify any award so made. Attorneys’ fees and costs within the provisions of this subdivision may be awarded for legal services rendered or costs incurred prior, as well as subsequent, to the commencement of the proceeding.” The language of section 4370 explicitly restricts the court’s authority to order the payment of attorneys’ fees to “the husband or wife or father or mother, as the case may be.”
+The legislative history of section 4370, which was added to the statute in 1970, shows that the former versions always have been similarly restricted. Moreover, there is no case authority in California supporting appellant’s interpretation of that section.
+Generally, attorney’s fees are not recoverable from an opposing party in the absence of express statutory or contractual authority (Code Civ. Proc., § 1021; Reid v. Valley Restaurants, Inc. (1957) 48 Cal.2d 606, 610 [311 P.2d 473]; LeFave v. Dimond (1956) 46 Cal.2d 868, 870 [299 P.2d 858, 60 A.L.R.2d 939]) or “exceptional circumstances” (Estate of Reade (1948) 31 Cal.2d 669, 671 [191 P.2d 745]; cf. Serrano v. Priest (1977) 20 Cal.3d 25 [141 Cal.Rptr. 313, 569 P.2d 1303]).
+Appellant has not argued the existence of any agreement, exception or statutory authority other than section 4370 which would bring this case within the meaning of the above stated rule. Accordingly, we conclude that the trial court was correct in denying the motion. (See Johnson v. Johnson (1917) 33 Cal.App. 93, 95 [164 P. 421].)
+No doubt the purpose of attorney’s fees in marital dissolution actions is to enable a spouse to retain an attorney so that no unfair advantage will be gained by another party. (Kopasz v. Kopasz (1949) 34 Cal.2d 423, 425 [210 P.2d 846]; In re Marriage of Gonzales (1975) 51 Cal.App.3d 340 [124 Cal.Rptr. 278].) Since the Legislature as of January 1, 1978, saw fit to make joinder of a pension plan as a party to marital litigation mandatory in order to have the court’s judgment enforceable as against the pension plan (Civ. Code, § 4351) and because of the common financial disparity between such a plan and a marital litigant to employ and pay counsel, it would be a logical step for the Legislature to authorize fees and costs to be assessed against such a party. However, the Legislature has not done so, and it is properly within its prerogative to make this type of policy decision.
+Appellant contended for the first time at oral argument that she is entitled to attorney’s fees under 29 United States Code section 1132 (g). It is unnecessary to resolve this contention because appellant’s failure to raise this argument at trial or in her opening brief constitutes a waiver. (See Utz v. Aureguy (1952) 109 Cal.App.2d 803, 808 [241 P.2d 639].) In any event, section 1132 (g), expressly authorizes an award of attorney’s fees only to a “participant, beneficiary, or fiduciary.” Appellant has failed to establish that she falls within one of the categories of parties entitled to attorney’s fees under this section.
+The order is affirmed.
+Hopper, J., and Zenovich, J., concurred.
+In re Marriage of Johnston (1978) 85 Cal.App.3d 900, 913-914 [149 Cal.Rptr. 798], discussed but did not decide the issue. Stebbins v. Imerman (1971) 21 Cal.App.3d 942 [98 Cal.Rptr. 865] and Newhall v. Melone (1962) 199 Cal.App.2d 121 [18 Cal.Rptr. 476, 19 Cal.Rptr. 28] do not support appellant’s position.
+Code of Civil Procedure section 1021 provides in pertinent part: “Except as attorney’s fees are specifically provided for by statute, the measure and mode of compensation of attorneys and counselors at law is left to the agreement, express or implied, of the parties
+29United States Code section 1132 (g), provides: “In any action under this subchapter by a participant, beneficiary, or fiduciary, the court in its discretion may allow a reasonable attorney’s fee and costs of action to either party.”
