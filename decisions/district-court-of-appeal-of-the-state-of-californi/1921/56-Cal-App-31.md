@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3410"
+decided: "1921-12-31"
+citations: ["56 Cal. App. 31"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAYNE & BOWLER CORPORATION (a Corporation), Appellant, v. CHARLES P. GROGAN, Respondent."]
+source_url: "https://static.case.law/cal-app/56/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2079380
+cites_cases: ["103 Pac. 320", "104 Pac. 320", "156 Cal. 298", "156 Cal. 63"]
+---
+
+# Layne & Bowler Corp. v. Grogan
+
+## Majority (CRAIG, J.)
+
+CRAIG, J.
+This is an action to rescind an executed contract for the purchase of a pump. The complaint alleges that the defendant misrepresented the condition of the pump and stated to the plaintiff that it was in good condition; that it was free and loose in the well and casing and could be drawn from said well and casing without difficulty. It is further alleged that the defendant had no knowledge or information concerning said pump and had made no examination of it and relied upon the representations of the defendant; that the plaintiff paid the defendant the full purchase price agreed upon, which was $750, and thereafter went on the premises and “made use of all reasonable efforts and devices used in the drawing of pumps of the make and manufacture and type of the aforesaid pump; that the aforesaid pump was so constricted by the walls and easing of the said well, and was so securely impinged upon the sides and casing of the said well, and was so securely fastened in said well, by causes unknown and unascertainable, that the plaintiff was unable to raise or lift the said pump from the said well, and was compelled, after the exhaustion of all reasonable expense, effort, and the use of proper mechanical devices, to abandon the aforesaid pump in the said well; that it is impossible to draw said pump from said well and casing.” The case was tried before the court without a jury.
+Finding IV reads: “That it is not true that after the payment of the aforesaid seven hundred fifty dollars ($750) the plaintiff went upon the premises of the defendant and made use of all reasonable efforts and devices used in the drawing of pumps of the make and manufacture and type of the aforesaid pump; that it is not true that the aforesaid pump was so constricted by the walls and casing of the said well and was so securely impinged upon the sides and casing of the said well, and was so securely fastened in said well, by causes unknown and unascertainable, that the plaintiff was unable to raise or lift the said pump from the said well and was compelled, after the exhaustion of all reasonable expense and effort and the use of proper mechanical devices, to abandon the aforesaid pump in the said well; that it is not true that it is impossible to draw said pump from said well and casing.” Appellant insists that there is no evidence to support this finding, but in this we think he is in error.
+Plaintiff placed witnesses upon the stand who were expert in such matters, who detailed what they did in an effort to remove the pump. Railroad ties and .similar objects were cribbed around the well. Upon this jacks were placed. A tripod was also used on the shafting of the pump. The witness Fessendon testified that a stress of something less than five or six tons was used on the tripod and about 100 tons on the jacks. The result was that the timbers were pushed down into the ground. On cross-examination this witness said that if more stress had been used the pump might have been removed. But allowing the full force of the statements of the expert when he testified most favorably to plaintiff, the most that can be said is that he gave it as his opinion that if more stress had been used something would have broken, and that he considered that it would not have been policy to have applied greater force. It might be inferred, although the witness did not directly so state, that he believed that all reasonable methods and devices were employed to remove the pump. Defendant offered no evidence upon this phase of the case.
+It was within the province of the trial court to decide whether or not the means employed were mechanically proper for the purpose of removing the pump and whether or not it could have been removed had other means been employed. It is not mandatory that the trial court accept the conclusion of an expert, even though it is not contradicted. (Spencer v. Collins, 156 Cal. 298 [20 Ann. Cas. 49, 104 Pac. 320]; Linforth v. San Francisco Gas & Elec. Co., 156 Cal. 63 [19 Ann. Cas. 1230, 103 Pac. 320]; 22 C. J. 729.)
+We cannot, therefore, say that the trial court was incorrect in concluding, as it did, that plaintiff did not use all reasonable efforts and devices used in drawing pumps of the type of this one.
+It follows that we need not consider the sufficiency, as a ground for rescission, of the proposition argued in plaintiff’s brief, but not pleaded in his complaint, that the movability of the pump was an essential condition of the contract and that the agreement was entered into by reason of a mutual mistake of the parties, both of whom, it is asserted, believed the pump to be movable, for the trial court found that the plaintiff failed to show it to be immovable. "Whether the action is treated as one for rescission upon the sole ground of fraud, as respondent contends it must be, or upon the basis of mutual mistake concerning the movability of the pump, there can he no recovery.
+The judgment is affirmed.
+Finlayson, P. J., and Works, J., concurred.
