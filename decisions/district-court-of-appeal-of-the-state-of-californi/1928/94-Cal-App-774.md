@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6306"
+decided: "1928-11-15"
+citations: ["94 Cal. App. 774"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. LONDON, Respondent, v. L. B. ROBINSON et al., Appellants."]
+source_url: "https://static.case.law/cal-app/94/cases/0774-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2139981
+---
+
+# London v. Robinson
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+In this action the plaintiff sought a decree restraining the owner, Robinson, and the contractor, Moren, from erecting a building on Ballpoint Avenue near Parnassus Avenue in San Francisco. In his complaint the plaintiff alleges that such erection would be in violation of certain zoning ordinances.
+Heretofore Ordinance 5464 (N. S.) was enacted. Thereafter the defendant Robinson purchased a lot on Hill-point Avenue, adopted plans and specifications for the erection of a building, entered into a contract therefor, and a building permit was issued to him. All fees were paid and thereafter the building contract, together with plans and specifications, was filed for record in the recorder’s office at 11:15 A. M. on July 27, 1925. In the meantime such proceedings were had that Ordinance 6708 (N. S.) was framed and was passed by the board of supervisors during the afternoon of July 27, 1925. By the terms of the charter of the city of San Francisco the last-named ordinance took effect August 7, 1925. On August 13, 1925, this suit was commenced. It is based on the theory that after the enactment of Ordinance 6708 (N. S.) the right of the defendants to proceed with the erection of the building ceased. The trial court made findings in favor of the plaintiff and the defendants have appealed.
+Among other contentions the defendants assert that they have not violated any ordinance. We think the assertion is well founded. Turning first to the provisions of the ordinance first enacted it will be found that section 9 was not intended to make unlawful buildings and uses then in existence or use. Turning next to the provisions of section 17, it is clear that the entire section is addressed to buildings not constructed but for which permits had theretofore been duly issued. The language used in that section shows clearly that it was addressed to situations as they existed on the date that Ordinance 5464 took effect and not otherwise. Furthermore, that section clearly indicates that said ordinance was not to be retroactive so far as said permits were concerned. That same ordinance provided that alterations or changes in districts might be made. Then in the second paragraph of section 11 we find the following: “If any area is hereafter transferred to another district . . . the provisions of this ordinance in regard to the premises or building existing at the time of the passage of this ordinance shall apply ... in such transferred area.” If it be said that the passage just quoted refers to “premises and buildings, ’ ’ but does not mention uncompleted buildings, still the plaintiff is not hélped, because there is then no provision making the change retroactive as that passage does not contain retroactive language.
+Turning to the amending Ordinance No. 6708 (N. S.), it will be found that it is wholly silent regarding its provisions having any retroactive effect. The amendment is confined to a direct reference to Ordinance No. 5464 (N. S.) and then adds that it is amended as follows: “Section 6 of the use of property zone maps, constituting a part of said ordinance, is hereby ordered changed so as to place both sides of Hillpoint Avenue from Parnassus Avenue to its northerly termination and extending to the depth of the rear lot lines, in the first residential district instead of the second residential district.” As stated above, it took effect August 7, 1925. Under well-established rules it spoke only from that date. In 43 C. J. 574, the general rule is stated as follows: “As is the case with statutes, ordinances or bylaws operate in the future only, and are never to be given a retroactive effect if susceptible of any other construction. An intention that a statute or an ordinance shall have a retroactive operation is not to be presumed, but must be manifested by clear and unequivocal language, and in case of doubt, the statute or ordinance must be construed to have a prospective effect only.” In the same text at page 344 we find the following: ‘‘Zoning regulations ordinarily have no retroactive effect unless the authorizing legislation specifically so states. By force of statute or ordinance zoning regulations may not have the effect of revoking permits for buildings granted prior to their adoption.” The rule last stated is the rule of construction concerning the effect of ordinances in general prescribing building regulations. (43 C. J. 330.)
+It follows that the defendants were within their rights in proceeding to erect the building in controversy, that their rights have not been lost and that the judgment should be reversed. It is so ordered.
+Buck, P. J., pro tem., and Nourse, J., concurred.
+A petition for a rehearing of this cause was denied by the district court of appeal on December 14, 1928, and a petition by respondent to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on January 14, 1929.
+All the Justices concurred.
