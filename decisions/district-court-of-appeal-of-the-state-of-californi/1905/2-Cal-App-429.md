@@ -1,0 +1,23 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 123"
+decided: "1905-12-12"
+citations: ["2 Cal. App. 429"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. W. WOHLFORD, Appellant, v. CITY OF ESCONDIDO, Respondent."]
+source_url: "https://static.case.law/cal-app/2/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954438
+---
+
+# Wohlford v. City of Escondido
+
+## Majority (SMITH, J.)
+
+SMITH, J.
+Appeal from judgment on defendant’s demurrer to the complaint. The suit was brought by the plaintiff to recover the sum of thirty-eight cents taxes alleged to have been illegally collected from him and paid to the tax collector under protest. The defect in the assessment relied upon, as alleged in general terms, is: That the taxes for the fiscal year of 1904 were assessed to persons owning, or claiming to own, or in possession of property on the first day of May, and not to those owning, or claiming or in possession on the first Monday of March, 1904, and that plaintiff’s property was so assessed; and it is contended by the appellant that under the constitution and laws of the state, the latter was the proper date. But the ease as shown by the more specific allegations of the complaint is as follows: The defendant is a corporation of the sixth class, and by ordinance No. 72, enacted in pursuance of section 871 of the municipal corporation act (Stats. 1883, p. 273, c. 49), adopted as the scheme of assessment and taxation for the city the provisions of that act, including and following the section cited, and the provisions of the Political Code concerning revenue, with some changes necessary to make the same applicable to the city affairs, and some others. By section 871 of the former act it is provided that “all taxes assessed,” etc., “shall constitute liens on the property assessed from and after the first Monday in March in each year.” And by section 3628 of the Political Code it is provided that in the assessment of property “the assessor . . . must assess such property to the persons by whom it was owned or claimed, or in whose possession or control it was at 12 o ’clock M. of the first Monday of March next proceeding”; and in sections 3629 and 3630 there are corresponding provisions as to the taxpayer’s statement of property to be rendered to the assessor. But this ordinance was amended by ordinance No. 91, of date.March 2, 1897, providing that for the words, “first Monday of March,” occurring in the sections of the Political Code named, there should be substituted the words, “first day of May.” The form of statement for the taxpayer was changed accordingly, and the statement of appellant appearing in the record conforms to this ordinance.
+It is claimed by the appellant that the provision of the latter ordinance is inconsistent with the system established by the constitution and by laws in this state; and from this it is urged that the assessment was void. But assuming, for the purposes of the decision, that the former proposition is true, the only inference that can be drawn is that the provision in question was void, and that the provisions of ordinance No. 72 touching this point—which are not open to the objection—continued in force. Hence, to support the appellant’s position it must be assumed that the assessment did not conform to the provisions of the original ordinance. But the presumption is that the assessment was regularly made; and, hence, that its actual effect, under section 871 of the municipal corporation act, was to “constitute liens on the property assessed from and after the first Monday in March in each year”; and—leaving out of view the general allegation of the complaint, which is obviously a mere conclusion of law from the specific facts alleged—there is nothing in the record to show that the assessment was otherwise made, unless it be the statement of appellant made to the tax collector, which refers to his ownership on the 1st of May, the date referred to in the void provision of Ordinance No. 91. Bnt this we regard as simply the result of a mistake on the part of the assessor and of the appellant, and as in no way affecting the validity of the assessment. The assessment, therefore, we regard as valid; and, as there is no allegation in the complaint that the plaintiff was not .the owner of the property assessed to him on the first Monday of March, we are of the opinion that the demurrer was rightly sustained.
+The judgment is affirmed.
+Gray, P. J., and Allen, J., concurred.
