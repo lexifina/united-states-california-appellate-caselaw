@@ -1,0 +1,30 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Crim. A. No. BR 33816"
+decided: "1994-04-13"
+citations: ["25 Cal. App. 4th Supp. 1"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. FRANCISCO JAVIER RAMIREZ, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/25/cases/Supp. 1-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035004
+cites_cases: ["1 Cal.Rptr.2d 146", "100 Cal.Rptr. 609", "147 Cal.App.2d 79", "15 Cal.App.3d 590", "205 Cal.App.3d 524", "213 Cal.App.3d 1338", "23 Cal.App.4th 376", "235 Cal.App.3d 909", "252 Cal.Rptr. 299", "262 Cal.Rptr. 349", "28 Cal.Rptr.2d 530", "304 P.2d 837", "452 P.2d 930", "494 P.2d 681", "6 Cal.3d 805", "70 Cal.2d 851", "76 Cal.Rptr. 642", "93 Cal.Rptr. 325"]
+---
+
+# People v. Ramirez
+
+## Majority (SOVEN, J.)
+
+Opinion
+SOVEN, J.
+Defendant appeals from a judgment after he was convicted of violating Downey Municipal Code section 4103, which prohibits, among other things, the possession of alcoholic beverages in public buildings and parks. The California Constitution, article XX, section 22, provides that the state has the exclusive power to regulate the possession of alcohol. The ordinance is necessarily void, as we discuss, and we reverse with directions to dismiss the complaint.
+Discussion
+The background facts are not disputed. Defendant was arrested in “Wilderness Park” in the City of Downey, carrying an ice chest which contained a six-pack of beer. The matter was submitted on the police report, which stated that two police officers were checking the park for municipal code violations and saw defendant walking through the park, carrying an ice chest. The officer asked defendant if he could check inside the ice chest, defendant said, yes, and the beer was found inside the ice chest.
+Article XX, section 22 of the California Constitution, provides, as relevant: “The State of California .... shall have the exclusive right and power to license and regulate the manufacture, sale, purchase, possession and transportation of alcoholic beverages within the State.” Downey Municipal Code section 4103 regulates possession of alcohol. Local legislation which contradicts general law is void. (Lancaster v. Municipal Court (1972) 6 Cal.3d 805, 807-808 [100 Cal.Rptr. 609, 494 P.2d 681].) Section 4103 is therefore void. (See Mussalli v. City of Glendale (1988) 205 Cal.App.3d 524, 527-528 [252 Cal.Rptr. 299] [local law prohibiting sale of alcohol void].) Localities remain free to regulate the “consumption” of alcohol because article XX, section 22 does not refer to consumption. (People v. Brewer (1991) 235 Cal.App.3d 909, 912-913 [1 Cal.Rptr.2d 146] and cases discussed.)
+The People, conceding that localities have no power to control the possession of alcohol on a public street, contend that a park is a place of “entertainment” subject to local regulation and therefore the city is permitted to regulate the possession alcohol there. The People rely on Cristmat, Inc. v. County of Los Angeles (1971) 15 Cal.App.3d 590 [93 Cal.Rptr. 325] for that proposition. We disagree. Cristmat stood for the proposition that a municipality under its police power can regulate liquor licensees which are also places of public entertainment and that “. . . the Constitution does not deprive the county of a right[,] under its police power, to regulate model studios operated in conjunction with a state-licensed cocktail bar.” (Id. at p. 596.) The issue in Cristmat concerned the regulation of the liquor licensee and not the person in possession of the alcohol. (See Cristmat, Inc. v. County of Los Angeles, supra, 15 Cal.App.3d at p. 594; see also Korean American Legal Advocacy Foundation v. City of Los Angeles (1994) 23 Cal.App.4th 376, 389-390 [28 Cal.Rptr.2d 530] [city zoning laws affecting liquor stores not preempted by Cal. Const., art. XX, § 22]; City of Rancho Cucamonga v. Warner Consulting Services, Ltd. (1989) 213 Cal.App.3d 1338, 1343-1344 [262 Cal.Rptr. 349] [locality may be permitted to regulate activities conducted in liquor licensee establishment].) Further, we note that while a park may be used for entertainment purposes, a park is also “ ‘a pleasure ground set apart for the recreation of the public, to promote its health and enjoyment . . . (San Vicente etc. Sch. v. County of L. A. (1956) 147 Cal.App.2d 79, 85 [304 P.2d 837].) In that respect, too, the Downey Park is different from the cocktail lounge in question in Cristmat.
+The People also contend that article XX of the California Constitution, section 22, “is intended to regulate alcohol only as a adjunct to licensing in the stream of commerce.” The People do not provide either supporting authority or analysis or suggest guidelines to determine how much alcohol constitutes a stream. The contention is without merit. Finally, the People appear to adopt the trial court’s theory that the “free use of the city parks by children, families, should not be curtailed under some preemption section where the state has no interest.” The trial court appears to be articulating one of the tests applied in determining implied preemption, relevant only when a court finds there is no direct preemption. (See Galvan v. Superior Court (1969) 70 Cal.2d 851, 859 [76 Cal.Rptr. 642, 452 P.2d 930].) In short, the city has no authority to regulate the possession of alcohol in public places, including parks.
+The judgment is reversed with directions to dismiss.
+Roberson, P. J., and Watai, J., concurred.
+The ordinance reads in full: “No person while in or on any public school ground, public school building, public building or grounds belonging to the State, County, or other governmental entity, shall have in his possession or consume any alcoholic beverage.” Public parks are not specifically enumerated but the parties assume that parks are included.
