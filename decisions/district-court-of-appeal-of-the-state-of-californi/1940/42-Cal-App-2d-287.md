@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 12689"
 decided: "1940-12-31"
-citations: ["42 Cal. App. 2d 287", "42 Cal. App. 2d 293"]
+citations: ["42 Cal. App. 2d 287"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["MIRIAM C. WALSH, Appellant, v. RAOUL A. WALSH, Respondent."]
 source_url: "https://static.case.law/cal-app-2d/42/cases/0287-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4550318
-cites_cases: ["108 Pac. (2d) 765", "125 Cal. 687", "168 Pac. 142", "179 Pac. 700", "23 Cal. App. (2d) 187", "262 Pac. 419", "31 Pac. 161", "34 Cal. App. 530", "39 Cal. App. 704", "4 Cal. App. 400", "58 Pac. 308", "72 Pac. (2d) 258", "87 Cal. App. 772", "88 Pac. 373", "96 Cal. 339"]
+cites_cases: ["125 Cal. 687", "168 Pac. 142", "23 Cal. App. (2d) 187", "262 Pac. 419", "31 Pac. 161", "34 Cal. App. 530", "58 Pac. 308", "72 Pac. (2d) 258", "87 Cal. App. 772", "96 Cal. 339"]
 ---
 
 # Walsh v. Walsh
