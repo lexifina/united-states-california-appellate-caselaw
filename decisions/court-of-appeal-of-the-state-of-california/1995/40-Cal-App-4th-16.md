@@ -1,0 +1,57 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B089062"
+decided: "1995-11-14"
+citations: ["40 Cal. App. 4th 16"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAROL HARRIS et al., Plaintiffs and Appellants, v. MOTHERS AGAINST DRUNK DRIVING et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/40/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4641787
+cites_cases: ["10 Cal.4th 594", "178 Cal.App.3d 1035", "191 Cal.Rptr. 320", "197 Cal.App.3d 751", "219 Cal.Rptr. 150", "224 Cal.Rptr. 213", "243 Cal.Rptr. 271", "25 Cal.App.4th 772", "31 Cal.Rptr.2d 162", "33 Cal.3d 790", "4 Cal.App.4th 1363", "40 Cal.3d 72", "42 Cal.Rptr.2d 50", "6 Cal.Rptr.2d 318", "662 P.2d 427", "707 P.2d 212", "896 P.2d 776"]
+---
+
+# Harris v. Mothers Against Drunk Driving
+
+## Majority (STONE (S. J.), P. J.)
+
+Opinion
+STONE (S. J.), P. J.
+A child died as the result of a motor vehicle accident caused by a drunk driver. The child’s parents became involved with Mothers Against Drunk Driving (M.A.D.D.). M.A.D.D. banned them from membership because of their allegedly disruptive conduct. The parents, Carol and James Harris, sued respondents, M.A.D.D., and its general counsel, H. Dean Wilkerson, for arbitrarily discriminating against them in violation of the Unruh Civil Rights Act (Civ. Code, § 51; the Act).
+The trial court granted summary judgment to respondents on the grounds that the Act is inapplicable to M.A.D.D. It ruled that M.A.D.D. is not a “business establishment” within the meaning of the Act. [[/]]*
+The facts in the record are insufficient to determine the legal question of whether or not M.A.D.D. is a business establishment under the Act. [[/]]
+Facts
+M.A.D.D. is a national nonprofit corporation whose mission is to stop drunk driving and to support victims of this crime. [[/]]*
+The Harrises sued respondents for, among other things, violation of the Act. The Act states, in pertinent part, “[a]ll persons within the jurisdiction of this state are free and equal, and no matter what their sex, race, color, religion ... or disability are entitled to the full and equal accommodations, advantages, facilities, privileges, or services in all business establishments of every kind whatsoever.” (Civ. Code, § 51.)
+The Harrises’ suit alleged, inter alia, that M.A.D.D. is a business establishment which arbitrarily discriminated against them. [[/]]*
+Respondents moved for summary judgment. They contended that M.A.D.D. is not a “business establishment” within the meaning of the Act. They also asserted that even if M.A.D.D. were a business establishment, it did not violate the Act because it banned the Harrises for their disruptive conduct, and not for being members of any protected class under the Act.
+The Harrises argued that because the listing of protected classes in the Act is illustrative only, and because the Act does not preclude suits against nonprofit organizations, they may sue M.A.D.D. for refusing membership to them. They denied engaging in “conduct or activities that could be considered disruptive to the organization.”
+[[/]] The trial court granted respondents’ motion for summary judgment and entered judgment. This appeal ensued from the summary judgment.
+Discussion
+Standard of Review
+[[/]]*
+Motions for summary judgment raise only questions of law which we independently review. (Geertz v. Ausonio (1992) 4 Cal.App.4th 1363, 1366 [6 Cal.Rptr.2d 318].) The construction of a statute, as here, raises a question of law for this court to decide. (Jones v. California Interscholastic Federation (1988) 197 Cal.App.3d 751, 756 [243 Cal.Rptr. 271].) We consider the validity of the judgment, not the reasons for which it was granted. (Goldrich v. Natural Y Surgical Specialties, Inc. (1994) 25 Cal.App.4th 772, 781 [31 Cal.Rptr.2d 162.)
+[[/]]*
+Whether M.A.D.D. Is a Business Establishment Under the Act
+Courts must consider numerous factors in determining whether or not an organization has sufficient “businesslike attributes” to be a “business establishment” within the meaning of the Act. Those factors include: 1. what, if any, business benefits one may derive from membership; 2. the number and nature of paid staff; 3. whether the organization has physical facilities, and if so, whether those facilities are incidental to the purposes and programs of the organization; 4. what are the purposes and activities of the organization; 5. the extent to which the organization is open to the public; 6. whether there are any fees or dues for participation or membership, and if so, what percentage of those involved in the organization pay them; and 7. the nature of the organization’s structure. Courts are not limited to inquiries from this list.
+In O’Connor v. Village Green Owners Assn. (1983) 33 Cal.3d 790, 792 [191 Cal.Rptr. 320, 662 P.2d 427], our Supreme Court determined that a condominium homeowners’ association constituted a business establishment under the Act when an owner challenged the validity of an age restriction for residency stated in the covenants, conditions and restrictions of the development.
+The O’Connor court stated that the Act “ ‘leaves no doubt that the term “business establishment” was used in the broadest sense reasonably possible.’ ” (O’Connor v. Village Green Owners Assn., supra, 33 Cal.3d at p. 795; Isbister v. Boys’ Club of Santa Cruz, Inc. (1985) 40 Cal.3d 72, 78 [219 Cal.Rptr. 150, 707 P.2d 212].) The Legislature used the words “all” and “of every kind whatsoever” without exception and without specifying kinds of enterprises. The term “business” “ ‘embraces everything about which one can be employed, and it is often synonymous with “calling, occupation, or trade, engaged in for the purpose of making a livelihood or gain.” (O’Connor, supra, at p. 795, italics added.) The word “establishment” is also broadly defined to include not only fixed locations, but also a permanent commercial force or organization. (Ibid.)
+An organization is not excluded from the ambit of the Act simply because it is private or nonprofit. (O’Connor v. Village Green Owners Assn., supra, 33 Cal.3d at pp. 795-796.) For example, the Boys’ Club and the Rotary Club are business establishments under the Act. (Isbister v. Boys’ Club of Santa Cruz, Inc., supra, 40 Cal.3d at pp. 76, 91; Rotary Club of Duarte v. Board of Directors (1986) 178 Cal.App.3d 1035,1055 [224 Cal.Rptr. 213] [both clubs were sued for gender discrimination].)
+The Boys’ Club is a private charitable nonprofit organization which charges nominal fees for use of its recreational facilities. (Isbister v. Boys’ Club of Santa Cruz, Inc., supra, 40 Cal.3d at p. 76.) Its members have no power over club affairs or its membership policies. Nonetheless, because the Boys’ Club is a corporate entity with a paid staff operating an extensive physical plant open to the public, our Supreme Court concluded that it has sufficient “businesslike attributes" to fall within the ambit of the Act. (Id. at pp. 77, 82-83.)
+The Rotary Club is a nonprofit “ ‘organization of business and professional men united worldwide who provide humanitarian service, encourage high ethical standards in all vocations, and help build goodwill and peace in the world.’ ” (Rotary Club of Duarte v. Board of Directors, supra, 178 Cal.App.3d at p. 1044.) Because it has a vast staff, disseminates publications with members’ advertising cards and charges licensing fees for use of its emblem, the Rotary Club is a business establishment under the Act. (Id. at pp. 1053-1055.)
+Although it has been broadly construed, the Act has its limits. In Isbister, our Supreme Court said “[w]e emphasize the limited scope of our holding. Nothing in our analysis necessarily extends to organizations which . . . maintain objectives and programs to which the operation of facilities is merely incidental.” (Isbister v. Boys’ Club of Santa Cruz, Inc., supra, 40 Cal.3d at pp. 76-77, italics added.) The court also reserved judgment “as to whether any organization or entity serving a substantial segment of the public on a nonselective basis is a ‘business establishment’ within the Act’s meaning.” (Id. at p. 81, fn. 8, original italics.)
+A thoroughly private social club would not fall within the ambit of the Act. (Warfield v. Peninsula Golf & Country Club (1995) 10 Cal.4th 594, 617-620 [42 Cal.Rptr.2d 50, 896 P.2d 776].) However, private organizations which possess only some characteristics of an exclusive private club, but which transact business with nonmembers, are subject to the Act. (Id. at pp. 621, 630 [private golf club which engaged in some business with nonmembers on regular basis may not discriminate on basis of gender under the Act].)
+Here, Wilkerson stated that M.A.D.D. provides benefits to members, but he did not specify what they were. M.A.D.D. has some paid staff, but it unclear how many staff it has and what they do. M.A.D.D. has branch offices in many states, including California, but it is unclear what facilities it maintains and how important they are to the purposes and programs of M.A.D.D. M.A.D.D. engages in telemarketing campaigns, but it is unclear what, if any, business benefits members derive from these campaigns. We do not know what other literature M.A.D.D. promulgates or what products it may produce.
+M.A.D.D.’s purpose seems to be educational in nature. Its bylaws provide for annual contributions, which are $20 per year, but it is unclear what percentage of members actually pay dues. Dues are waived for victims of drunk drivers.
+Although one must fill out an application for approval by the national board of directors to become a member of M.A.D.D., applications are not always forwarded to the national or state office for approval. Individuals may become members even if their applications are not forwarded to the national office. Local chapters have some autonomy to exclude people from membership. M.A.D.D. has excluded prostitutes and drunk drivers.
+Because M.A.D.D. proffered insufficient facts, it has not met its initial burden to show that it falls outside the ambit of the Act. Among other things, the record does not establish facts regarding the number of paid officers and staff, whether the operation of its physical facilities is merely incidental to the maintenance of its objectives and programs, whether the payment of dues is common or unusual and what benefits may accrue to M.A.D.D. members.
+[[/]]
+[[Whether M.A.D.D. May Bar Membership Due to Disruptive Conduct]]*
+Regardless of whether or not M.A.D.D. is a business establishment under the Act, summary judgment as to Carol Harris is proper because of her disruptive conduct. We affirm the summary judgment as to her. Because there is no evidence that James Harris engaged in disruptive conduct, M.A.D.D. may deny membership to him only if it is not a business establishment within the meaning of the Act. We reverse and remand for further proceedings consistent with this opinion as to James Harris. The parties are to bear their own costs.
+Gilbert, J., and Yegan, J., concurred.
+A petition for a rehearing was denied December 12, 1995, and appellants’ petition for review by the Supreme Court was denied February 15, 1996.
+See footnote, ante, page 16.
+See footnote, ante, page 16.
+See footnote, ante, page 16.
