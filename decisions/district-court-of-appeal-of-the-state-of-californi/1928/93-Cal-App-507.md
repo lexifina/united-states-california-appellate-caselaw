@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5692"
+decided: "1928-08-16"
+citations: ["93 Cal. App. 507"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRANITE ROCK COMPANY (a Corporation), Respondent, v. ORVILLE V. FREEMAN et al., Appellants."]
+source_url: "https://static.case.law/cal-app/93/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2111949
+cites_cases: ["110 Pac. 957", "119 Am. St. Rep. 193", "14 Cal. App. 1", "150 Cal. 265", "17 L. R. A. (N. S.) 909", "88 Pac. 982"]
+---
+
+# Granite Rock Co. v. Freeman
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+Heretofore the state highway commission awarded a contract to Freeman & Whiting to build a portion of the state highway located in San Mateo County. Pursuant to the provisions of chapter 303, Statutes of 1919, the contractors, as principals, and the American Indemnity Company, as surety, executed to the state of California a bond. The bond was in all respects as provided by the statute. Thereafter the contractors entered upon the performance of the contract. While so engaged they obtained certain materials and supplies from the plaintiff. Later the construction was , completed. The plaintiff duly filed a notice to withhold. In due time it commenced this action against the contractors and the bonding company. Later the defendants appeared and filed a demurrer. While the demurrer was pending the contractors obtained a withdrawal of all moneys from the state of California. After they obtained possession of the moneys they paid to the plaintiff the principal of the sum claimed by the plaintiff, but did not pay the accrued interest or costs. Later they tendered a check covering the amount of costs and interest, but not containing any sum whatever in payment of plaintiff’s attorney fees. The plaintiff refused the check and it was deposited for the plaintiff’s account. Having taken the foregoing steps the defendants prepared an answer pleading all of the foregoing facts which had occurred subsequent to the filing of the complaint. Thereafter the action proceeded to trial before the trial court sitting without a jury. The trial court made findings of fact in favor of the plaintiff and ordered the judgment in its favor for a sum including accrued interest and costs, including, among other items, $500 as attorney fees. From a judgment entered thereon the defendants have appealed. If that portion of the judgment awarding attorney fees was correct, it is clear that the judgment should be affirmed. In this connection the defendants quote the record showing that before the date of the trial they had paid the principal sum claimed by the plaintiff; that therefore there was not and could not be a trial on that element. The defendants then argue that under such facts the plaintiff could not be, and that the defendants necessarily must be, “the prevailing party.” (Chap. 303, Stats. 1919.) What with moneys paid to it before trial, and what with moneys obtained by virtue of the judgment, the plaintiff recovered every element it sued for. It had to fight for each element. It was “the prevailing party” within the meaning of those words as used in the statute to the same extent and degree that it would have been if the principal sum had not been paid before answer filed but had been withheld and had been included as a part of the judgment itself. The difference between this and any other action was merely in the procedure, but nothing was obtained without a contest, in which it prevailed.
+The defendants cite Builders’ Supply Depot v. O’Connor, 150 Cal. 265 [119 Am. St. Rep. 193, 11 Ann. Cas. 712, 17 L. R. A. (N. S.) 909, 88 Pac. 982], and contend that in so far as section 2 of chapter 303 of Statutes of 1919 authorizes the trial court to include an attorney fee as a part of the costs to be awarded to “the prevailing party,” it is unconstitutional. The authority is not in point. In the O’Connor case the court was considering a statute which authorized the trial court to allow a reasonable attorney fee to certain lien claimants who should be successful in establishing their claims. It did not authorize the trial court to make the same order in behalf of the property owner who should successfully oppose the lien being established. A case more nearly in point is Skrocki v. Stahl, 14 Cal. App. 1 [110 Pac. 957], In that case the court was considering a statute (Stats. 1872, p. 533) which authorized the trial court to allow as costs $100 to the plaintiff if he was successful, or the like sum to the defendant if he was successful. While the wording is not identical with the statute of 1919, the effect was the same. “Where the reason is the same the rule should be the same.” (Civ. Code, sec. 3511.)
+The judgment is affirmed.
+Nourse, J., and Buck, P. J., pro tem., concurred.
