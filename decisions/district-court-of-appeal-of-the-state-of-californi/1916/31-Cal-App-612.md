@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1920"
+decided: "1916-10-04"
+citations: ["31 Cal. App. 612"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNUNZIATA BARSI, by SERAFINE BARSI, the Guardian of Her Person and Estate, Appellant, v. J. A.. SIMPSON, Respondent."]
+source_url: "https://static.case.law/cal-app/31/cases/0612-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039222
+cites_cases: ["103 Cal. 1", "104 Pac. 986", "134 Pac. 367", "147 Pac. 238", "156 Cal. 379", "169 Cal. 545", "22 Cal. App. 289", "24 L. R. A. 715", "36 Pac. 955", "42 Am. St. Rep. 93", "81 Hun, 287"]
+---
+
+# Barsi v. Simpson
+
+## Majority (THE COURT.)
+
+THE COURT.
+The appeal is by plaintiff from an order denying his motion for a new trial.
+The plaintiff suffered a fracture of the left arm between the wrist and elbow on the fifteenth day of March, 1913, and on the same day employed the defendant, a physician and surgeon, to set the fracture. Thereafter the defendant set the fracture, and it is claimed on behalf of the plaintiff that the defendant failed to use due care in this respect, by reason of which certain permanent injuries to the plaintiff resulted. The sole claim of negligence, as appears from, an examination of the complaint, is that the defendant, at the time the arm was set, did not bring the ends of the fractured bones into position. There is no claim that any subsequent treatment given by the defendant was improper in any way, nor is any contention made on behalf of the plaintiff that the verdict, which was in favor of the defendant, is not sustained by the evidence.
+The points relied upon for reversal fall under two heads: First, the action of the court in admitting or rejecting offered testimony; second, the instructions given by the court, and the refusal of the court to give certain instructions offered by the plaintiff.
+Dr. Guido Caglieri, who was the first witness for the plaintiff, testified that he had caused to be made certain X-ray plates of the bones some two months after the arm had been fractured. The witness was asked whether a fracture set in the manner shown by the plates was a proper setting. The question was objected to on the ground that it assumed something not in evidence, viz., that the fracture was set in that manner. The objection was sustained. Assuming that the ruling of the court was erroneous, still it was a harmless error, for the witness later in his testimony said that if the fracture of the arm had been properly set in the first place there would have 'been no angulation at that time; and the witness further testified fully as to how the operation upon the arm should have been performed. Considering the testimony of this witness as a whole, he in effect answered the question to which the objection just noted was sustained.
+The next contention of this plaintiff is that the trial court committed prejudicial error in permitting defendant to ask Dr. Isaac W. Thorne on cross-examination a question which assumed facts not in evidence; but the question was permitted with the understanding that the defendant would later supply the omitted facts; and, as there is no claim now made that the facts assumed were not thereafter proven, it follows that the plaintiff is without any substantial ground of complaint on this score. Moreover, it is clear that the court permitted the question to be asked with the idea that such evidence was admitted subject to a motion to be thereafter made to strike it out if the defective proof was not supplied. No such motion was made. Consequently plaintiff cannot now 'be heard to complain of this ruling. (Tarpey v. Veith, 22 Cal. App. 289, [134 Pac. 367].)
+Maud Compton, a trained nurse, who was at the time the superintendent of the operating-room of a large hospital, witnessed the performance of the operation on the plaintiff by the defendant, and testified that from her experience as a trained' nurse she would say that Dr. Simpson’s treatment of the injured arm was proper, and not subject in any respect to adverse criticism’. Passing the point made by the defendant that the question was answered before the objection was made, and that therefore it cannot now be considered, we tliink the question of whether or not the witness was- qualified to testify as an expert was a matter within the sound discretion of the court; and there being no showing of a clear abuse of that discretion the ruling of the trial court will not be disturbed. (Vallejo etc. R. R. Co. v. Reed Orchard Co., 169 Cal. 545, 575, [147 Pac. 238].) Instances of cases where others than medical practitioners have been allowed' to give their opinion on medical matters are found in the following cases: Lund v. Masonic Assn., 81 Hun, 287, [30 N. Y. Supp. 775] ; Robinson v. Exempt Fire Co., 103 Cal. 1, [42 Am. St. Rep. 93, 24 L. R. A. 715, 36 Pac. 955]; Kimic v. San Jose & Los Gatos Ry. Co., 156 Cal. 379, 391, [104 Pac. 986, 991]. In the last-mentioned case a professional nurse was allowed to so testify, and the court said: “There can be no doubt that one who is shown to be a graduate nurse and to have been constantly engaged in the calling of a professional nurse for five years, may properly be called upon to give evidence of the character elicited by the question asked.”
+There are two other points made as to the admission of evidence, but they are without any substantial merit; as is also the objection to certain of the instructions of the court, and we see no necessity for a detailed- discussion of them.
+The order appealed from is affirmed.
