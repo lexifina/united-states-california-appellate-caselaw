@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1827"
+decided: "1935-03-01"
+citations: ["5 Cal. App. 2d 33"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. AUGUSTUS STEPHENS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/5/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178935
+cites_cases: ["130 Cal. App. 708", "141 Cal. 592", "146 Cal. 100", "20 Pac. (2d) 967", "265 Pac. 978", "75 Pac. 177", "79 Pac. 856", "90 Cal. App. 366"]
+---
+
+# People v. Stephens
+
+## Majority (KNIGHT, J.)
+
+KNIGHT, J.
+Appellant was charged with having committed a felony—an assault with a deadly weapon; and he was found guilty by a jury of the lesser offense—simple assault. The sentence was that he pay a fine of $250 or in default of such payment be imprisoned in the county jail one day for each five dollars of said fine, not exceeding, however, thirty days. From the judgment of conviction and the order denying his motion for new trial he has taken this appeal.
+The alleged assault was committed on a police officer, named Anderson, in Oakland on July 16, 1934; and the sufficiency of the evidence to sustain the conviction is not questioned. The grounds urged for reversal are that the court erred in refusing to give several instructions proposed by appellant, and in ruling upon the admissibility of certain testimony.
+The circumstances under which the assault was committed, as shown by the evidence adduced on the part of the prosecution, were as follows: Shortly after the noon hour on the day in question, eight or ten police officers, including Anderson, were sent by their superior officers to 645 Twenty-second Street, in response to a report received at police headquarters that there was a disturbance there— that a number of communists armed with clubs were just starting to leave the place. Upon reaching the premises Anderson proceeded up a flight of stairs and as he opened the door at the top of the stairs appellant, who was standing just inside the door, struck at Anderson’s head with a club or board in which there was a protruding nail. The officer turned his head quickly to one side to dodge the blow and the force of it landed on his shoulder; whereupon he grappled with appellant and with the aid of his riot stick tried to restrain him. Several other officers came to Anderson’s assistance, but appellant succeeded in fighting his way loose and ran down the stairs. He was caught as he reached the street, however, and taken to prison. Testifying in his own behalf, appellant denied having struck at the officer at all, or having had in his possession at any time any club, board or other like weapon. He stated that hearing a commotion on the stairway he opened the door slightly, and as he did so someone outside pushed it open wider; that he then stuck his head through the doorway to see what was going on and instantly he was struck over the head a number of times by the police with clubs, blackjacks and fists; that he fell to the landing, and before he could arise was kicked by the police, following which he was taken to jail.
+The instructions proposed by appellant ancl by the court refused related to the law of self-defense. Appellant made no claim, however, that he acted in self-defense, nor did he seek to offer any testimony tending to support any such claim. As above stated, he denied absolutely having used or threatened to use any violence whatever on Anderson; consequently there was no issue of self-defense involved in the case; and it is well settled that under such circumstances the court should not give any instructions bearing upon that doctrine. (People v. Manoogian, 141 Cal. 592 [75 Pac. 177] ; People v. Manning, 146 Cal. 100 [79 Pac. 856]; People v. La Vers, 130 Cal. App. 708 [20 Pac. (2d) 967]; People v. Di Donato, 90 Cal. App. 366 [265 Pac. 978].)
+Nor is there any merit in appellant’s second point. In this regard the record shows that on two occasions during the trial appellant sought to elicit testimony showing that within an hour after this trouble occurred at 645 Twenty-second Street the police raided and partly demolished the headquarters of an organization known as the International Labor Defense, at 1020 Broadway in Oakland. The purpose of such testimony was, so appellant claimed, to prove the existence of a conspiracy on the part of public officials, particularly the police, in the bay regions to destroy halls and make illegal arrests of communists or anyone else who happened to be in those halls. As held by the trial court, these matters were entirely foreign to any issue involved in the case. The single issue presented was whether appellant struck the police officer as claimed by the officer, and the jury decided on conflicting evidence that he did. Counsel for appellant argues that the disputed testimony if admitted would have aided the jury in determining which of them told the truth, appellant or the police officer. It has been repeatedly held, however, that evidence relating to matters extraneous and irrelevant to the issue being tried is not admissible, either for the purpose of impeachment or any other purpose. (27 Cal. Jur. 106, 152.)
+The judgment and order appealed from are affirmed.
+Tyler, P. J., and Cashin, J., concurred.
