@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 34798"
+decided: "1979-12-07"
+citations: ["100 Cal. App. 3d 1"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ROY LEONARD GOTT et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/100/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2007094
+cites_cases: ["117 Cal.Rptr. 393", "119 Cal.Rptr. 500", "12 Cal.3d 731", "128 Cal.Rptr. 641", "13 Cal.3d 663", "153 Cal.Rptr. 224", "157 Cal.Rptr. 497", "16 Cal.3d 557", "24 Cal.3d 410", "24 Cal.3d 850", "293 P.2d 52", "46 Cal.2d 106", "528 P.2d 1", "532 P.2d 148", "547 P.2d 417", "591 P.2d 514", "598 P.2d 467"]
+---
+
+# People v. Gott
+
+## Majority (KINGSLEY, Acting P. J.)
+
+Opinion
+KINGSLEY, Acting P. J.
+Defendants were jointly charged with: (count I) transportation of marijuana, in violation of section 11360 of the Health and Safety Code; (c^unt II) possession of marijuana for the purpose of sale, in violation of section 11359 of that code; and (count III), possession of a controlled substance, in violation of subdivision (a) of section 11357 of that code. After their motions to suppress, made under section 1538.5 of the Penal Code, were denied, defendant Morisse pled guilty to count I and defendant Gott pled guilty to count II. Both defendants were granted probation; they have appealed; we reverse.
+Early in the evening of June 8, 1978, police officers on routine patrol, saw a car parked at a filling station. One of the officers saw one of the occupants drinking beer from a bottle. He approached the car and told that man it was illegal to have an open container of liquor while driving; the man exited the car, leaving the car door open, and threw away the bottle. The officer smelled the odor of marijuana coming from the car and, using his flashlight, saw two marijuana roaches in the car ashtray. Search of the interior of the car disclosed additional marijuana and some hashish. After the officer had removed the contraband from the passenger portion of the car, he still noticed a strong odor of marijuana coming from the trunk. He asked, and was refused, permission to search the trunk. Using a key obtained from the pocket of defendant Gott, he opened the trunk to discover 7 large bags containing about 134 pounds of marijuana.
+It is not here contended that the officers did not have probable cause to search the passenger compartment nor that the contraband discovered in that search was not lawfully obtained. The sole contention made on this appeal is directed to the warrantless and nonconsensual search of the automobile trunk.
+We think it clear that, except for one matter, the search of the trunk was proper under the reasoning of Wimberly v. Superior Court (1976) 16 Cal.3d 557 [128 Cal.Rptr. 641, 547 P.2d 417]. Here, the officers, unlike the officers in Wimberly did have reasonable grounds to believe that the trunk did contain contraband; the search was not a mere search made in hope that something would turn up. However, in the many cases in this state involving searches of automobile trunks that we have discovered, including Wimberly, there were only one or two officers involved. Here there were six officers surrounding the car, the occupants were under arrest, and the officer testified that there existed no “particular” emergency for the search that took place. It is emphasized in all of the cases that automobile searches are justified, as an exception to the usual requirement of a warrant, only if there is an emergent reason for the search. Where the car would otherwise be left unattended, or there is other legitimate reason to believe that it would be moved or tampered with while a warrant was obtained, the courts have permitted automobile searches, and as in the cases discussed and distinguished in Wimberly, searches of a trunk. But where, as here, there are a substantial number of officers, amply sufficient to permit a car safely to be impounded and held inviolate while a warrant is obtained, the reason for the exception does not exist. The proper, and only legitimate, procedure, in such a situation is to impound and secure a warrant.
+Although involving containers and not automobile trunks, we regard the recent decisions of the Supreme Court in People v. Minjares (1979) 24 Cal.3d 410 [153 Cal.Rptr. 224, 591 P.2d 514], and in People v. Dalton (1979) 24 Cal.3d 850 [157 Cal.Rptr. 497, 598 P.2d 467], as dictating the result here. The same considerations of privacy, and the same lack of emergent necessity, exist here as existed in those cases.
+The judgments (orders granting probation) are reversed.
+Jefferson (Bernard), J., and Swearinger, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied January 30, 1980. Tobriner, J., and Richardson, J., were of the opinion that the petition should be granted.
+In Wimberly, the Supreme Court referred to three cases in which it had been held that there did exist grounds for a warrantless and nonconsensual search of an automobile trunk: “We do not conclude, however, that trunk searches are never justified when the quantity of contraband found is indicative only of personal use. Rather, we recognize that additional circumstances may generate the reasonable suspicion necessary to justify the further intrusion. Thus, for example, in People v. Hill, supra, 12 Cal.3d 731, 748 [117 Cal.Rptr. 393, 528 P.2d 1] it was reasonable to assume the defendants were transporting marijuana where a desperate attempt to avoid apprehension was followed by the plain view discovery of contraband in the car. (See also People v. Martin (1956) 46 Cal.2d 106, 108 [293 P.2d 52].) And, in People v. Cook, supra, 13 Cal.3d 663, 670 [119 Cal.Rptr. 500, 532 P.2d 148] we held that the officers had probable cause to search the trunk where the odor of fresh marijuana was much stronger than that which could be attributed to the items found in the passenger compartment.” (16 Cal.3d 557 at p. 573.)
+Assigned by the Chairperson of the Judicial Council.
