@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11670"
+decided: "1938-03-10"
+citations: ["25 Cal. App. 2d 297"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUISE R. FLOYD, Appellant, v. A. RISKIN, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/25/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4513890
+cites_cases: ["101 Cal. 238", "189 Pac. 1034", "190 Pac. 1043", "35 Pac. 772", "47 Cal. App. 23", "47 Cal. App. 541", "56 Cal. 453"]
+---
+
+# Floyd v. Riskin
+
+## Majority (WOOD, J.)
+
+WOOD, J.
+Plaintiff commenced a claim and delivery action against defendant to recover possession of a valuable pearl necklace. The action was commenced on June 1, 1936, and on the same day the sheriff took possession of the necklace under proper legal process. The return of the necklace to defendant was not required within the statutory period and on June 9, 1936, it was delivered to plaintiff. In defendant’s answer, filed June 20th, he did not claim a return of the necklace, but asked that plaintiff take nothing by her complaint and that he recover costs of suit. With his answer defendant filed a cross-complaint in which he asked judgment against plaintiff in the sum of $1,000 with interest at the rate of two per cent per month from November 11, 1935, but did not ask the return of the necklace. The trial court made separate findings and judgments on the complaint and on the cross-complaint. In the judgment on the complaint it is provided that “judgment is given against plaintiff for the return of said property to defendant, or, in the event that a return is not had within ten days from the date hereof, judgment is given against plaintiff and in favor of defendant for $1,000.00, together with interest thereon at the rate of 2 per cent per month from the 11th day of November, 1935, until paid, together with defendant’s costs and disbursements incurred in said action amounting to the sum of $34.55. It Is Further Ordered, Adjudged and Decreed that on the payment of the sum of $1,000.00 together with interest thereon at the rate of 2 per cent per month from the 11th day of November, 1935, and defendant’s costs and disbursements incurred in said action, that the plaintiff shall be entitled to the immediate and exclusive possession of said personal property.” In the judgment on the cross-complaint it is provided “that the cross-complainant do have and recover of and from the cross-defendant the sum of $1,000.00 together with interest thereon at the rate of 2 per cent per month from the 11th day of November, 1935, until paid, together with cross-complainant ’s costs and disbursements incurred in said action, amounting to the sum of $-. It Is Further Ordered, Adjudged and Decreed that upon the payment of the said sum of $1,000.00 together with interest thereon at the rate of 2 per cent per month from the 11th day of November, 1935, and cross-complainant’s costs and disbursements incurred in said action, that the cross-defendant shall be entitled to the immediate and exclusive possession of said personal property described as one Oriental pearl necklace having 85 graduated pearls, with platinum clasp attached, said clasp containing one square-cut emerald weighing 11.65 carats.” Plaintiff has appealed from both of these judgments.
+Plaintiff was the owner of the necklace in question and wished to secure a certain bracelet provided a purchaser could be found who would pay enough for the pearls • which were part of the necklace to enable her to buy the bracelet. J. W. Hopkins, a jeweler, had previously had numerous business transactions concerning jewelry with both of the parties to the litigation. Plaintiff delivered the necklace to Hopkins under instructions, according to her testimony, to secure a purchaser for the pearls in the necklace but not for the clasp. The evidence is in conflict on the question whether Hopkins had authority to make a transfer of the necklace without further consultation with plaintiff but the trial court found upon sufficient evidence that plaintiff gave to Plopkins full authority to sell and transfer title to the property.
+Hopkins took the necklace to the establishment of defendant and pledged it for a loan of $1,000, for which he gave liis personal note, without informing defendant of the ownership in plaintiff. Section 2991 of the Civil Code provides: “One who has allowed another to assume the apparent ownership of property for the purpose of making any transfer of it, cannot set up his own title, to defeat a pledge of the property, made by the other, to a pledgee who received the property in good faith, in the ordinary course of business, and for value.” There is ample evidence in the record to uphold the trial court's ruling that this section is applicable to the facts of the case.
+The judgment must be reversed, nevertheless, for the reason that defendant did not in his pleadings ask for a return of the necklace to him. Section 667 of the Code of Civil Procedure provides in part: “If the property has been delivered to the plaintiff, and the defendant claim a return thereof, judgment for the defendant may be for a return of the property or the value thereof, in case a return cannot be had, and damages for taking and withholding the same.” It has been held in a number of decisions that by this section it is made a duty of the defendant to assert in his pleadings his formal claim for a return of the property as a prerequisite to a judgment for its return to him for its value. It is a statutory requirement. (5 Cal. Jur., p. 192; Lee v. De La Motte, 47 Cal. App. 23 [189 Pac. 1034] ; Pico v. Pico, 56 Cal. 453; Banning v. Marleau, 101 Cal. 238 [35 Pac. 772] ; Imperial Valley Auto Co. v. Toney, 47 Cal. App. 541 [190 Pac. 1043].)
+The judgments are reversed. The purported appeal from the order denying a new trial is dismissed.
+McComb, J., concurred.
+
+## Dissent (CRAIL, P. J., Dissenting.)
+
+CRAIL, P. J., Dissenting.
+I dissent from the order reversing the judgment. In my opinion the prayer for general relief was under all the circumstances of this ease, a prayer for the return of the property within the purview of the statute.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on March 28, 1938.
