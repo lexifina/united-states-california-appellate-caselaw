@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5964"
+decided: "1937-11-26"
+citations: ["23 Cal. App. 2d 621"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROGER AVERILL, Petitioner, v. THE SUPERIOR COURT OF MADERA COUNTY et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/23/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4520274
+cites_cases: ["147 Cal. 21", "81 Pac. 225"]
+---
+
+# Averill v. Superior Court
+
+## Majority (PLUMMER, J.)
+
+PLUMMER, J.
+This cause is before us upon the petition of Roger Averill praying for an order prohibiting the Superior Court of the County of Madera, and Stanley Murray, as the judge thereof, from proceeding with the trial of a certain case pending in said court entitled, “The People of the State of California v. Paris A. Davis and Roger Averill”, numbered 5256. Upon the filing of the petition a temporary restraining order was issued, and an order to show cause why the writ should not be granted.
+The record shows that action numbered 5256, pending in said court, the trial of which is sought to be restrained, is one to abate a nuisance. The complaint in the action sets forth, in substance, that the said Roger Averill and Paris A. Davis have created and are maintaining a nuisance by filling in and obliterating a certain water course in such manner as to stop up said water course and cause flood waters that would naturally flow down said course to overflow its banks and flood public highways and the lands of numerous persons in the vicinity, and to injure said lands, and to obstruct and prevent travel over said public highways. The record shows that the action does not in anywise interfere with the proceedings before the board of supervisors, having for its purpose the creating of a reclamation district which would include the lands referred to, and also the public highways.
+So far as the private lands mentioned in the complaint are concerned, that is an injury for which the owners of private lands would have a right of action against the defendants named in the complaint filed in the action just referred to, if the facts stated therein are found by the court to be true. As to the public highways, the district attorney, as the law officer of the court, has a right to maintain an action to abate any act which would cause flood waters to overflow public highways, on the ground that such an act is a public nuisance.
+The fact that the complaint sets out and describes large tracts of land outside of the public highway, would be a matter for the trial court to act upon if suitable motions or demurrers thereto are filed, which we need not pass upon in this proceeding. All we need to do is to state that an act which causes flood water to overflow public highways so as to render the same impassable, or to cause injury thereto, constitutes a foundation sufficient to authorize the prosecution of an action in the name of the People to abate such nuisance.
+It appears from the record and the petition filed herein that the petitioner is seeking a continuance of the trial of action No. 5256, supra, and that the board of supervisors had consented to such continuance, and that the district attorney and the Honorable Stanley Murray, as the judge of Madera County, presiding in the Superior Court of Madera County, were opposed to such continuance. In the action referred to, being in the name of the People to abate a nuisance, the district attorney was not, and is not under any obligation to consent to the continuance of the action, nor is the consent of the board of supervisors to a continuance of the trial of the action binding upon the superior court. Section 4041.22, Political Code, does give the board of supervisors power to control the prosecution of actions, where a county is a party to the action. Madera County is not a party to this action. The People of the state of California are the plaintiffs in this action, seeking to abate a nuisance.
+Upon the hearing of this action the petitioner cited to this court, relied, and places his reliance upon the case of Glide v. Superior Court of Yolo County, 147 Cal. 21 [81 Pac. 225]. That case, however, we find, upon consideration, not to be in point. In the Glide case the board of supervisors were seeking to establish a reclamation district. A petition was filed in the Superior Court of the County of Yolo to restrain the board of supervisors from establishing a reclamation district, and including the lands of the petitioner, on the ground that the lands referred to in the petition were already reclaimed. A writ of prohibition was granted on the grounds that it was within the exclusive jurisdiction of the board of supervisors in the first instance to establish a reclamation district and determine what lands should • be included therein. In the present case it is clear to us that an action to abate a nuisance would lie, whether that nuisance was committed in or outside of a reclamation district, and that the action of the court in finding either the existence or nonexistence of the alleged nuisance, and ordering or refusing to order the abatement thereof would have no effect whatever upon the proceedings before the board of supervisors in reaching a conclusion as to whether a reclamation district should, or should not be organized as described in the records now before the board of supervisors of the county of Madera.
+The writ of prohibition is denied and the temporary restraining order heretofore issued is vacated and set aside.
+Thompson, J., and Pullen, P. J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on December 24, 1937.
