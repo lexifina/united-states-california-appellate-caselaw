@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 208"
+decided: "1906-08-24"
+citations: ["4 Cal. App. 269"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN ANDERSON, Respondent, v. JOHANNA MATILDA ANDERSON, Appellant."]
+source_url: "https://static.case.law/cal-app/4/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1941470
+---
+
+# Anderson v. Anderson
+
+## Majority (HARRISON, P. J.)
+
+HARRISON, P. J.
+In his complaint the plaintiff alleges as his cause of action the extreme cruelty of the defendant, setting forth divers acts thereof, all of which were denied by the defendant in' her answer, and in addition thereto she filed a cross-complaint charging the plaintiff with extreme cruelty, for which she asks a decree of divorce in her favor. Upon the trial the court found that “all of the allegations and averments in the complaint as to defendant’s cruelty are true, and all the denials, allegations and averments in the answer and cross-complaint having reference to plaintiff’s cruelty toward defendant are untrue,” and directed an interlocutory decree of divorce to be entered in favor of the plaintiff and against the defendant. The defendant moved for a new trial upon the grounds of irregularity in the proceedings of the court, by which she was prevented from having' a fair trial, and that the evidence was insufficient to justify the decision of the court. This motion was presented and heard upon a statement of the case and affidavits of the defendant and her daughter properly authenticated in a bill of exceptions. The motion for a new trial was denied, and from this order and from the judgment the defendant has taken the present appeal.
+It is shown by the affidavits that after the evidence on behalf of the plaintiff had been given the defendant was called as a witness, and testified in her own behalf, and that before she had concluded her testimony, and while she was still on the witness-stand she was interrupted by the court and informed by him that she had testified enough; that the court then and there, before she had concluded her testimony or left the witness-stand, granted the plaintiff a divorce and denied the prayer in the cross-complaint; that upon her counsel objecting thereto and informing the court that he had other witnesses in court, the judge informed him that he had the privilege to appeal to the supreme court.
+In the statement of the case which was settled by the judge it is shown that after the plaintiff had rested his ease the defendant offered herself as a witness on her own behalf, and after having given testimony in contradiction of much of the testimony of the plaintiff, and before her testimony was concluded, the judge interrupted her saying, “That is enough. Let an interlocutory decree for the plaintiff be entered”; and upon her counsel stating to the court “We have other testimony here,” the court replied, “I do not care for it at all; take your exception; take your interlocutory decree.”
+In her affidavit the defendant also recounted in detail the testimony which she intended to give for the purpose of overcoming the testimony on behalf of the plaintiff and in support of the denials in her answer and the allegations of her cross-complaint, and which testimony appears to have been clearly relevant to the issues therein; and in the affidavit of her daughter the latter states similar testimony which she would have given if she had been permitted so to do. The matter set forth in these affidavits was not contradicted, nor were there any counter-affidavits filed on behalf of the plaintiff.
+That these proceedings constituted an irregularity of the court is not open "to dispute, and that, by reason thereof, the defendant was prevented from having a fair trial is equally clear. Whatever weight the testimony of the plaintiff might have with the court in support of the allegations of his complaint, it was clearly irregular for the court to determine the issues before it upon that testimony without giving to the defendant a full opportunity to present her testimony, and to give to it proper consideration in connection with that of the plaintiff. And it was equally erroneous for the court, after refusing to permit the defendant to give any testimony in support of the averments in her cross-complaint in reference to the plaintiff’s cruelty, to find as a fact that those averments were untrue.
+The bill of exceptions authenticating the affidavits contains a subscript by the attorney for the plaintiff that it may be settled by the court, “plaintiff saving the objection that said affidavits were served and filed in violation of law and in violation of section 659, Code of Civil Procedure, and on the further ground that all the matters therein contained are set out in the answer and cross-complaint of defendant and present no new or further evidence to justify the court granting a new trial.”
+No facts in support of this objection were stated or presented to the court, nor does it appear that any objection to the affidavits was made at the time they were presented, or when the motion for a.new trial was heard; and as the bill was subsequently settled by the court without reference thereto the objection cannot be considered. The fact that the matters contained in the affidavits are set forth in the answer and cross-complaint was not a matter of objection. It was still necessary for the defendant to establish the same at the trial of the cause by competent evidence.
+The judgment and order are reversed.
+Cooper, J., and Hall, J., concurred.
