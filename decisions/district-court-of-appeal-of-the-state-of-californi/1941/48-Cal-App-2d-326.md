@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13316"
+decided: "1941-12-05"
+citations: ["48 Cal. App. 2d 326"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOIS HUSAR, Respondent, v. LEONARD HUSAR et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/48/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4630143
+cites_cases: ["113 Pac. 155", "159 Cal. 203", "18 Cal. App. (2d) 275", "63 Pac. (2d) 1135"]
+---
+
+# Husar v. Husar
+
+## Majority (SCOTT (R. H.), J. pro tem.)
+
+SCOTT (R. H.), J. pro tem.
+Defendants appeal from a decree vacating a default judgment in a previous action.
+Plaintiff and defendant Húsar were formerly husband and wife. Defendant Biscailuz, as sheriff, is involved only because there is a dispute concerning service by one of his deputies of the complaint and summons in the earlier case.
+The complaint in the instant case alleges that on January 6, 1939, Leonard Húsar brought suit against Lois Húsar, in case No. 435,369, to recover certain personal property or in lieu thereof damages in the sum of $15,045. On January 24, 1939, judgment was rendered in favor of Leonard Húsar. More than a year later, on January 29, 1940, he caused an execution to be levied on certain personal property of Mrs. Húsar. The complaint further alleges that in said action Mrs. Húsar was never served with summons and complaint, that her default had been entered upon proof of service and judgment rendered thereon, but without actual service having-been made on her, and that she had no knowledge or notice of the commencement or pendency of said action or judgment until about February 14, 1940. It included further allegations that for more than ten years prior to the former action Mrs. Húsar had been in exclusive possession of the property in question and that Mr. Húsar had executed a quitclaim deed of the property to her.
+The trial court in the instant case found the allegations of the complaint as above outlined to be true. It further found that during the trial the parties to this action stipulated in open court “that if this court should find from the evidence that the plaintiff had not been served with summons or complaint in said action number 435,369, there was sufficient showing and probability to justify the trial of said action number 435,369 upon its merits, and that by reason of said stipulation it would not be necessary for the court to receive or hear evidence upon the alleged meritorious defense of the plaintiff herein, Lois Húsar, to the alleged cause of action set forth in the complaint in said action. ’ ’ The court also found that “Lois Húsar was never served with summons or complaint in said action number 435,369 and by reason of such finding of fact the stipulation above referred to has become operative ’ ’; and the court found in accordance therewith.
+In substance the only question which appellants raise is whether there is sufficient evidence to support the finding of the trial court as to non-service of the summons and complaint and lack of knowledge by plaintiff of the proceedings in the former case.
+As to the service of the summons and complaint, the deputy-sheriff testified that 10 a. m. on January 9, 1939, he handed them to Mrs. Húsar as she was backing a tan Oldsmobile eoupé out of the driveway at her home. He identified her as being the same person whom he had served with other papers more than a year later and who was present in the courtroom at the trial of this case. His brother, who was with him, testified that he had seen the deputy approach the coupé, talk to a woman and hand her the papers he was holding. The deputy made the usual return of service in the case.
+Mrs. Húsar clearly and explicitly denied service at that or any other time. " She testified that she was home on the day and at the hour indicated, and that she did not drive her ear that morning because it had been taken away before 8 a. m. by a service station operator who returned it shortly before she left the house at noon. The operator corroborated her testimony concerning the car and was fortified by a written memorandum made at the time. A woman friend staying at the house supported Mrs. Húsar’s testimony in that and other respects.
+Even when there is a charge that some of the testimony is false, it is a matter for the trial court to decide, Here we have evidence which, if believed, is ample to support the finding of the trial court that the summons and complaint in the earlier case were not served on Mrs. Húsar. The judge who observed the witnesses’ appearance and demeanor when testifying had an opportunity to consider the obvious self interest of Mrs. Húsar and the reasonable desire of the deputy to uphold the correctness of his return of service. We cannot say that it was unreasonable for the trial court to conclude that the deputy, because of the press of official duties, was honestly mistaken, rather than that the plaintiff was deliberately perjuring herself. (Burrows v. Burrows, 18 Cal. App. (2d) 275 [63 Pac. (2d) 1135] ; Robinson v. Robinson, 159 Cal. 203 [113 Pac. 155].)
+The matter of evaluating the testimony supporting the plaintiff’s claim that she was without knowledge or notice of the commencement or pendency of the action until February of 1940 was likewise for the trial court. The testimony was sufficient to support the findings favorable to plaintiff in this regard. There was a definite and unequivocal statement by her to that effect. In opposition thereto were some questions and answers relating to a conversation she had with Mr. Húsar about that time to the effect that he was suing her or had a service out for her. The trial court may well have considered that Mr. Húsar was and is an attorney and that he knew that Mrs. Húsar had an attorney representing her. The delay of a year after judgment before proceedings to enforce it is not fully explained, but might account for any difficulty experienced by Mrs. Húsar in presenting her case. No suggestion has been advanced as to why the trial court should not have considered the equities and disabilities of both parties.
+The question of whether this plaintiff had a meritorious defense in the earlier case was disposed of by the stipulation and requires no discussion.
+Since the trial court in this case found the essential elements of plaintiff’s case to be true, there is no reason why it should not be upheld in its conclusion that the judgment in the former case should be set aside and the parties should have their rights to the property in dispute settled by a fair and impartial trial of the case on its merits.
+Judgment affirmed.
+Wood (W. J.), Acting P. J., and McComb, J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied February 2, 1942.
