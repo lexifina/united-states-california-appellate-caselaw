@@ -1,0 +1,40 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3319"
+decided: "1944-06-08"
+citations: ["64 Cal. App. 2d 783"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN A. TEARNEY, Appellant, v. CLARENCE F. RIDDLE, a Minor, etc., Defendant; MRS. FRANK N. RIDDLE, Respondent.."]
+source_url: "https://static.case.law/cal-app-2d/64/cases/0783-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4586308
+cites_cases: ["211 Cal. 739", "297 P. 25", "35 Cal.App.2d 685", "4 Cal.App.2d 637", "41 P.2d 571", "96 P.2d 979"]
+---
+
+# Tearney v. Riddle
+
+## Majority (MARKS, J.)
+
+MARKS, J.
+This is an appeal from an order setting aside and vacating a prior order, the default of respondent, and a judgment against her, and ordering her answer to the third amended complaint to be filed.
+This was an action for damages alleged to have been caused by the willful misconduct of Clarence F. Riddle, a minor, in the operation of his automobile. Frank N. Riddle and Mrs. Frank N. Riddle were father and mother of the minor and had signed his application for the operator’s license which was issued to him. Their alleged liability arises because of that fact. (Veh. Code, §§ 350, 351, 352.)
+A third amended complaint was filed on September 25, 1942, which for the first time named Mrs. Riddle as defendant. An alias summons was issued. Service was had on Mrs. Riddle on September 29, 1942. Her present counsel had been retained to represent the minor defendant who was represented by Mr. Riddle as guardian ad litem. Mrs. Riddle gave the alias summons and third amended complaint to Mr. Riddle upon his representation that his attorneys would take care of her interests and appear for her. He mailed the documents to the attorneys without any instructions to appear lor Mrs. Riddle. The attorneys, not knowing they were to appear for her, made no appearance and her default was entered and a default judgment in the sum of $5,000 was taken against her.
+On January 6, 1943, Mrs. Riddle being advised of these facts, filed a notice of motion to set aside and vacate the default. The motion was noticed for January 18, 1943, and was supported by the affidavit of Mrs. Riddle setting forth the foregoing facts and also by her verified answer.
+On February 6, 1943, the firm of Albeck and Albeck were associated with Robert L. Beveridge as counsel for plaintiff.
+The . motion was heard and denied on March 12, 1943, Albert A. Albeck appearing as counsel for plaintiff. No one appeared as counsel for Mrs. Riddle.
+On or about May 3, 1943, Mrs. Riddle filed a notice of motion to vacate the order denying the former motion and to vacate and set aside her default and the default judgment against her. Supporting the motion she specified her former affidavit and verified answer, and the affidavit of John W. Holler, one of her attorneys. Besides reciting some of the facts already detailed the affidavit of Mr. Holler contained the following:
+“That on or about January 13, 1943, affiant received a copy of a letter addressed to Honorable L. N. Turrentine from plaintiff’s attorney, Robert L. Beveridge, stating that the said attorney was then confined to the hospital and asking for a four weeks’ continuance of the hearing of said motion.
+“That about February 10, 1943, affiant received a copy of a letter from Attorneys Albeck & Albeck addressed to Honorable L. N. Turrentine, requesting that the matter be continued to be set during the week of March 8, 1943; that no further notice of any nature was received by affiant or his associates, or anyone connected with affiant’s office. That the first time affiant knew the matter had been heard and passed upon was on the 27th day of April, 1943, when he reviewed the file in the office of the clerk of this court.”
+It is recited in the bill of exceptions that at the hearing of the second motion, “Defendant, Mrs. Frank N. Riddle, moved the above court orally and in writing, for an ‘Order setting aside the order of the above court denying defendant’s Mrs. Frank N. Riddle’s motion to set aside default, and for an order setting aside default and default judgment entered thereon against said defendant Mrs. Prank N. Riddle. ’ ’ ’
+The documents we have already mentioned were admitted in evidence. In addition there were also admitted in evidence the first notice of motion, an affidavit of Robert L. Beveridge filed in opposition to the first motion, an affidavit of Albert A. Albeck, a notice dated February 11, 1943, informing Mrs. Riddle and John Holler that the first motion had been continued to March 12, 1943, an affidavit of the mailing of this notice in Los Angeles on February 11th, the order of March 12, 1943, denying the first motion, a notice to Mrs. Riddle and her attorneys dated March 16, 1943, to the effect that the first motion had been denied, and an affidavit of the mailing of this notice in Los Angeles.
+It is recited in the bill of exceptions that “the court did at said time (May 18, 1943) grant defendant’s motions.”
+It should be noted that in the affidavit of Mr. Holler it is stated that in the copy of the letter from Albeck & Albeck he was advised that the first motion would “be continued to be set during the week of March 8, 1943”; that no notice of the hearing held on March 12, 1943, was received; that neither he nor his associates knew such hearing was to be held; that the first information received that the motion had been heard and granted was on April 27, 1943. In conflict with this are the notices and affidavits of mailing already mentioned. This presents the familiar question of a conflict in the evidence, which was resolved in favor of Mrs. Riddle by the trial court. Thus we must conclude that Mrs. Riddle and her attorneys had no notice of the hearing of their first motion on March 12, 1943, as all conflicts in the evidence are addressed to and settled by the trial court which is binding upon us.
+Plaintiff argues that the denial of the first motion became res judicata on that question. He cites cases supporting the argument. However, they are not controlling here.
+Under the second motion, which was granted, not only the default of Mrs. Riddle and the judgment against her, but the order of March 12, 1943, denying her first motion, were vacated and set aside. Section 473 of the Code of Civil Procedure gives a court the same power to relieve a party from an order as it does from a judgment taken against him. Vacating the order denying the first motion destroyed its effect so the question of res judicata does not arise at this time.
+The evidence amply supports the portion of the order vacating the prior order of March 12, 1943. If, as was evidently concluded by the trial court, Mrs. Riddle and her attorneys had no notice of the hearing of the first motion on March 12, 1943, counsel should be excused for not attending to present their motion. Certainly under these facts the trial court was fully justified in concluding that this order was made through the “inadvertence, surprise or excusable neglect” (Code Civ. Proc., §473) of counsel for Mrs. Riddle.
+It is well settled in California that section 473 of the Code of Civil Procedure is remedial in its nature and should be liberally construed; that it is the policy of the law to bring about the trial of a case on its merits where that may be done; that a motion made under the provisions of section 473 of the Code of Civil Procedure is addressed to the sound discretion of the trial court and in the absence of a clear showing of an abuse of such discretion an appellate court will not disturb an order of the court below. (Brill v. Fox, 211 Cal. 739 [297 P. 25]; Salazar v. Steelman, 4 Cal.App.2d 637 [41 P.2d 571]; Stub v. Harrison, 35 Cal.App.2d 685 [96 P.2d 979].)
+Under the facts before us we can find no abuse of discretion on the part of the trial judge in granting the motion before us for review.
+The order is affirmed.
+Barnard, P. J., and Griffin, J., concurred.
