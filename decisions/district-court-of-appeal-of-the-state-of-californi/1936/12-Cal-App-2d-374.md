@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10706"
+decided: "1936-03-11"
+citations: ["12 Cal. App. 2d 374"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of GEORGE T. TAYLOR, Deceased. LILLIAN K. TAYLOR, Appellant, v. FLORENZE TAYLOR POPPIC, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/12/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2265554
+cites_cases: ["139 Pac. 692", "141 Cal. 646", "167 Cal. 321", "176 Pac. 45", "179 Cal. 218", "75 Pac. 301", "99 Am. St. Rep. 92"]
+---
+
+# Taylor v. Poppic
+
+## Majority (DESMOND, J., pro tem.)
+
+DESMOND, J., pro tem.
+This is an appeal from an order in probate, discontinuing a widow’s allowance which had been granted in the sum of $175 per month by orders made June 4, 1934, before filing of the inventory, and August 16, 1934, after such filing.
+When the allowance had been paid for approximately a year, the daughter of deceased by a former marriage sought “an order modifying the order for a family allowance and reducing the allowance to an amount which the court may deem to be reasonable under the circumstances.” The same petition also requested, among other things, an order “requiring the administratrix (the widow) to close the administration of said estate. ’ ’
+Upon the hearing this latter request was denied, because a renewal mortgage executed by the administratrix on December 27, 1934, was still unpaid, the court, at the same time, ordering the allowance of $175 to be discontinued in tato.
+Section 680 of the Probate Code provides in part as follows: “Right to allowance. . . . The widow and minor children are entitled to. such reasonable allowance out of the estate as shall be necessary for their maintenance according to their circumstances, during the progress of the settlement of the estate, which, in case of an insolvent estate, must not continue longer than one year after granting letters. ’ ’ In the instant ease the court found “that the estate is,' and has been at all times during the progress of administration, solvent,” so there must have been some reason other than insolvency to prompt the court to terminate the allowance, while the settlement of the estate was still in progress. It appears that after the second order granting the allowance was made, a probate homestead was set aside, September 24, 1934, to the widow for her lifetime, the property being valued at $5,500', subject to an encumbrance amounting, at the date of the order, to $4,700; also that an order was made November 23, 1934, authorizing the widow, as administratrix, “to apply the general assets of the estate towards the. payment of said encumbrance on said homestead.” It also developed at the hearing that the widow was rendering special services to the estate in the care of an apartment house which, in the opinión of the court, entitled her to compensation in the sum of $75 per month. The court declined to vacate the order authorizing application of the general assets of the estate to reduction of the debt on the homestead property although requested by the daughter to do so.
+The situation at the end of a year’s administration was as follows: the widow had received from an estate appraised at $33,206.96, an allowance of $2,100 paid at the rate of $175 per month, and in addition had received a probate homestead for life with full authority to clear .the encumbrance upon it by drawing upon the assets of the estate; had also received certain exempt personal property appraised at $100, and was in position to derive income from the estate, as caretaker, in the sum of $75 per month. Possibly the court would be entitled to consider also that the widow, acting as administratrix, would earn fees by that service, and when the estate is closed, will take her share of the property that belonged' to her husband, the daughter, respondent here, being ihe only other heir. Since section 680 of the Probate Code contemplates “such reasonable allowance of the estate as shall be necessary for their maintenance according to their circumstances” we are inclined to the belief that the trial judge, considering all the circumstances, decided that reasonable provision was made for the widow by his final order supplementing the former favorable orders in regard to the probate homestead and exempt property.
+We recognize the propriety and humanity of the rule that has long made a widow’s allowance favored of the law. (11 Cal. Jur. 507.) We realize, also, that the rule must be applied according to the discretion of the trial court (11A Cal. Jur. 527), when the order is made, or later, when modified. As to the right of the court under changed circumstances, to modify a former order, even an order made after inventory, we entertain no doubt (Estate of Boselly, 179 Cal. 218 [176 Pac. 45]), and since it appeared that, following the second order granting the allowance, certain changes had taken place in the estate, not by way of reduction or disposal of its assets, perhaps, but in the establishment of a probate homestead, we do not consider that the action of the trial court in this case constituted an abuse of discretion. (Estate of Nelson, 167 Cal. 321, 325 [139 Pac. 692].) Estate of Levy, 141 Cal. 646, 653 [75 Pac. 301, 99 Am. St. Rep. 92], presents a case where the allowance was discontinued upon the granting of a probate homestead.
+The order is affirmed.
+York, Acting P. J., and Doran, J., concurred.
