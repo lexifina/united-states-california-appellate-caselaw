@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2364"
+decided: "1917-10-18"
+citations: ["35 Cal. App. 33"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE COUNTY OF SAN BERNARDINO, etc., Petitioner, v. INDUSTRIAL ACCIDENT COMMISSION OF THE STATE OF CALIFORNIA et al., Respondents."]
+source_url: "https://static.case.law/cal-app/35/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2025015
+cites_cases: ["102 N. E. 697", "109 N. E. 951", "151 Pac. 398", "160 Pac. 150", "170 Cal. 686", "173 Cal. 351", "215 Mass. 497", "222 Mass. 163", "84 N. J. L. 72", "86 Atl. 458"]
+---
+
+# County of San Bernardino v. Industrial Accident Commissiom
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Certiorari to review an order of the Industrial Accident Commission awarding compensation to Homer C. Gragg for an injury sustained while in the employ of petitioner.
+The sole contention of petitioner, as presented in its brief, is that “the injury did not arise out of the employment and was not incidental thereto.” In our opinion, the facts are identical with those involved in Western Indemnity Co. v. Pillsbury, 170 Cal. 686, [151 Pac. 398, 10 N. C. C. A. 1], wherein a like award was affirmed.
+As appears from the record, Gragg was foreman of a gang of some eighteen or twenty men employed by the county of San Bernardino, who, under his direction, were engaged in the construction of a concrete road. He was authorized and empowered in his discretion to discharge any of the men from the work for insubordination, neglect, or refusal to perform the same in the manner directed by him. Among the employees at the time in question was one Carl Hansen, engaged in spreading concrete upon the roadway. The foreman called Hansen’s attention to the fact that he was not spreading the concrete properly, and, taking the shovel, showed him how he wanted it’ done. Hansen resented this, saying: “To hell with you! I know how to do this.” In response to which Gragg said: “If you feel that way about it, you are fired right now. I will put a man in your place”; and thereupon he called another employee whom he substituted for Hansen. Gragg proceeded with other duties and Hansen, following him, demanded his pay, to which Gragg replied: “I cannot pay you. Tou will have to go up and see the timekeeper; he makes up the time.” Hansen was told where to find the timekeeper, whose location was about a mile distant. Gragg again walked away, followed by Hansen, who came up behind and struck him a blow with his fist, Imocking him down and causing the injury for which he applied for compensation. .
+The only difference between the case of Western Indemnity Co. v. Pillsbury (known as the Rudder ease) and this, is that in the former the foreman was the aggressor, while in the case at bar Hansen was the aggressor, making an unprovoked attack upon Gragg for no cause other, than the fact that he had been justly discharged from the work for refusing to perform it in the manner directed. Petitioner claims that in the Rudder case the question as to whether the injury arose out of the' employment was not presented or considered. In this contention counsel is in error. The court in its opinion said: “The main contentions of the petitioner are that there0 is no evidence to show . . . that the injuries happened while Rudder was performing a service incidental to and in the. course of his employment.” The statute provides for an award of compensation for injuries sustained by employees, “arising out of and in the course of the employment”; and the language of the supreme court quoted was used in the sense and meaning of the statute. That the applicant’s injury was sustained in the course of his employment conclusively appears from the fact that it occurred while he was engaged in doing work within the scope of his employment, and at a time and place when and where it was his duty to perform it; and it arose out of his employment because it followed as a natural incident of the work occasioned by the nature of the employment and performance of the duty which it imposed upon him as such foreman. (McNichol’s Case, 215 Mass. 497, [L. R. A. 1916A, 306, 102 N. E. 697]; Bryant v. Fissell, 84 N. J. L. 72, [86 Atl. 458].) “It [the accident] need not have been foreseen or expected, but after the event it must appear to have had its origin in a risk connected with the employment and to have followed from that source as a rational consequence. ’ ’ (Kimbol v. Industrial Accident Commission, 173 Cal. 351, [Ann. Cas. 1917E, 312, L. R. A. 1917B, 595, 160 Pac. 150]; Reithel’s Case, 222 Mass. 163, [L. R. A. 1916A, 304, 109 N. E. 951].) The circumstances are such as to leave no doubt that the risk of such unwarranted attack was one connected with the employment and directly traceable to the conditions under which the duty was performed.
+The character of the employee, whether peaceable or quarrelsome, is immaterial to the question. A docile mule has been known to kick his attendant, and we assume that had applicant in the performance of his duties and while passing a team of mules engaged upon the work been kicked by one of them, no question would arise as to his right to recover for injury thereby inflicted. In our opinion, there is no distinction between the facts presented in the Rudder case and those here involved.
+The order making the award is affirmed.
+Conrey, P. J., and James, J., concurred.
+0 A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 17, 1917.
