@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 20618"
+decided: "1955-05-16"
+citations: ["133 Cal. App. 2d 40"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRACE E. O’BRIEN et al., Respondents, v. CHARLES E. APPLING, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/133/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2189188
+cites_cases: ["10 Cal. 441", "105 P.2d 996", "119 P.2d 340", "120 P. 1066", "124 Cal.App.2d 512", "129 Cal. 665", "132 Cal.App. 526", "162 Cal. 44", "177 P.2d 364", "18 Cal.App.2d 741", "19 Cal.2d 111", "23 P.2d 47", "269 P.2d 123", "41 Cal.App.2d 1", "6 Cal. 173", "62 P. 264", "64 P.2d 979", "7 Cal.App. 194", "78 Cal.App.2d 127", "79 Am.St.Rep. 143", "93 P. 1056"]
+---
+
+# O'Brien v. Appling
+
+## Majority (SHINN, P. J.)
+
+SHINN, P. J.
+Grace E. O’Brien and Louis J. O’Brien, plaintiffs and respondents, obtained a default judgment against defendant Charles E. Appling in fraud. Subsequently, defendant was adjudged bankrupt and was discharged from his provable debts. Defendant then made a motion to cancel and discharge of record the judgment, based upon section 675b, Code of Civil Procedure, which motion was denied.- Defendant appeals from the order denying the motion to discharge on the ground that the judgment was dischargeable by the subsequent bankruptcy.
+The first cause of action of the complaint was for money had and received by defendant in the amount of $3,517.17. This cause of action was dismissed by plaintiffs. Judgment was rendered on the second cause of action in which it was alleged that the plaintiffs owned certain property and contracted with the defendant, a building contractor, to build a house thereon; plaintiffs agreed to turn over certain moneys to defendant and the latter agreed to pay all bills for labor and material promptly; the plaintiffs turned over to the defendant the sum of $3,517.17, solely in reliance upon the representations and promises of the defendant that it would be used for a particular purpose, i.e., for the “sole and exclusive purpose of paying . . . artisans and building supply organizations . . . supplying materials and labor” in the construction of the home, that defendant made such representations and promises with no intention of keeping same; the money was used for defendant’s own purposes and defendant refused to use it to pay any of said bills for labor or material. It was further alleged that the plaintiffs had to satisfy mechanics’ liens against the property in the alleged amount, due to defendant’s failure to discharge said obligations.
+Appellant contends that this debt and judgment therefor do not come within the exceptions of Bankruptcy Act, § 17(2), (4), which provide that “(2) ... liabilities for obtaining money or property by false pretenses or false representations . . .’’or provable debts “ (4) . . . created by his fraud, embezzlement, misappropriation or defalcation while acting as an officer or in any fiduciary capacity ...” are not dis-chargeable by subsequent bankruptcy.
+The questions are whether the default judgment implies a finding that the former judgment was for a debt incurred by defendant’s obtaining money from plaintiffs by false pretenses or representations and whether the allegations of the complaint were sufficient to charge that the money was so obtained. It was sufficiently alleged that the plaintiffs were induced to turn money over to the defendant by representations of facts and promises which he did not intend to keep. The allegations were not as specific as they might have been but no objection was raised and defects of form did not impair the essential substance of the allegations. Appellant, by permitting his default to.be entered, confessed the truth of all the material allegations in the complaint, and the judgment by default is just as conclusive upon the issues tendered by the complaint as if rendered after answer filed and trial on allegations denied by the answer. (Fitzgerald v. Herzer, 78 Cal.App.2d 127,131 [177 P.2d 364]; Wilshire Mortg. Corp. v. O. A. Graybeal Co., 41 Cal.App.2d 1, 5 [105 P.2d 996] ; Maddux v. County Bank, 129 Cal. 665, 667, 668 [62 P. 264, 79 Am.St.Rep. 143]; Harlan v. Smith, 6 Cal. 173, 174; Rowe v. Table Mt. Water Co., 10 Cal. 441, 444; Title Ins. etc. Co. v. King etc. Co., 162 Cal. 44, 46 [120 P. 1066].) The implied finding that defendant obtained the money by false representations and promises which he did not intend to keep brings the case within the above exception of the Bankruptcy Act with respect to liability for money obtained by such representations. This exception has been applied where money has been obtained in reliance on false representations. (Crespi & Co. v. Giffen, 132 Cal.App. 526, 530 [23 P.2d 47]; Wilson v. Walters, 19 Cal.2d 111, 120 [119 P.2d 340] ; Mathewson v. Naylor, 18 Cal.App.2d 741 [64 P.2d 979].)
+The cases of Young v. Clark, 7 Cal.App. 194 [93 P. 1056], Royal Indem. Co. v. Sherman, 124 Cal.App.2d 512 [269 P.2d 123], and other cases cited by appellant, are not in point. They dealt with a separate provision of the act relating to embezzlement, misappropriation, etc., by one acting in a fiduciary capacity.
+Inasmuch as we must presume, in support of the court’s order, that the trial court construed the judgment in the case as one based upon an implied finding that defendant obtained the money by false representation, no cause exists for reversing the order. We cannot see that the court could properly have granted appellant’s motion.
+The order is affirmed.
+Wood (Parker), J., and Vallee, J., concurred.
