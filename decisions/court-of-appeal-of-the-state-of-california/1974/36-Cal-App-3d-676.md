@@ -1,0 +1,47 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 22843"
+decided: "1974-01-10"
+citations: ["36 Cal. App. 3d 676"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. FRED MARCUS et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/36/cases/0676-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4450365
+cites_cases: ["13 Cal.App.3d 608", "251 Cal.App.2d 986", "256 Cal.App.2d 219", "259 Cal.App.2d 686", "264 Cal.App.2d 747", "265 Cal.App.2d 53", "36 Cal.Rptr. 841", "389 P.2d 377", "399 U.S. 149", "4 Cal.App.3d 41", "4 Cal.App.3d 495", "407 P.2d 265", "426 P.2d 908", "47 Cal.Rptr. 353", "58 Cal.Rptr. 340", "60 Cal.2d 868", "60 Cal.Rptr. 188", "63 Cal.2d 518", "63 Cal.Rptr. 813", "66 Cal.2d 536", "66 Cal.Rptr. 610", "70 Cal.Rptr. 892", "71 Cal.Rptr. 26", "84 Cal.Rptr. 229", "84 Cal.Rptr. 458", "91 Cal.Rptr. 643"]
+---
+
+# People v. Marcus
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+Defendants were jointly charged with murder. After a trial by jury they were found guilty of murder in the first degree and sentenced to state prison for the term prescribed by law. They have appealed; we affirm the judgments.
+It is not denied that the victim was shot and killed, in aid of a robbery, while he was driving into his garage between 12:45 and 12:50 a.m., the night of September 24, 1971. The sole issue at the trial was the identity of the killer or killers.
+I
+There were no eyewitnesses to the robbery and murder, but a witness saw two men, thought to be “Negro,” running away from the garage immediately after the killing.
+The robbery netted the robbers between $80 and $100 in cash and decedent’s gasoline credit card. That card was used to buy gasoline on several occasions after the robbery, under circumstances that indicated that one or both of the defendants were aware of its use and aware of the fact that it was illegally possessed.
+There was also evidence that the defendants had been at a bar close to the victim’s garage on the evening of the robbery, that they had left the bar shortly before the time of the robbery and had returned to the bar, together, shortly after the time of the killing.
+The evidence, if properly admitted and if believed by the jury was sufficient to support the verdicts.
+n
+There were admitted extrajudicial statements by two women that defendant Fred Marcus had admitted to them that he was involved in the robbery. On the stand both women denied making such statements. The police officers who had taken the extrajudicial statements were allowed to testify to them. We see no error. The trial procedure followed all of the requirements for admissibility laid down in section 1235 of the Evidence Code in California v. Green (1970) 399 U.S. 149 [26 L.Ed. 2d 489, 90 S.Ct. 1930].
+m
+As we have indicated above, the testimony as to Fred Marcus’ admission of guilt went to the jury only through the police officers’ paraphrase of the statements made to the officers by the two women. In that form, the testimony did not directly implicate James, nor did it, in itself indicate that more persons than: Fred had been involved in the crime. Nevertheless, it is argued that the admission of evidence of Fred’s admission, in a joint trial, violated People v. Aranda (1965) 63 Cal.2d 518 [47 Cal.Rptr. 353, 407 P.2d 265].
+The argument for defendant James Marcus runs as follows: There was evidence that Fred and James left the bar together and returned together; there was evidence tying James to the possession and use of the stolen credit card; there was evidence indicating that two men were involved in the robbery; a jury would be highly likely to draw the inference that James, because of the other evidence tying him to Fred, was the second robber.
+In Aranda, the Supreme Court stated the rule applicable to the use of a confession with deletions as follows: (63 Cal.2d at p. 530): “When the prosecution proposes to introduce into evidence an extrajudicial statement of one defendant that implicates a codefendant, the trial court . . . can permit a joint trial if all parts of the extrajudicial statements implicating any codefendants can be and are effectively deleted without prejudice to the declarant. By effective deletions, we mean not only direct and indirect identifications of codefendants but any statements that could be employed against nondeclarant defendants once their identity is otherwise established.” To that statement in the text of its opinion, the court appended a footnote 10, reading in part as follows: “The rules governing the cases in which deletion would be a permissible alternative cannot be set out fully. Use of the procedure would depend on the evidence linking the defendants together before and after the crime and on the actual statements made by the declarant defendant.”
+Counsel has not cited to us, and our own research has not discovered, any case directly in point. In four cases, the codefendant’s statement, as it went to the jury, contained references to another person (not directly identified) as being involved in the crime. In People v. Matola (1968) 259 Cal.App.2d 686 [66 Cal.Rptr. 610], the .codefendant’s statement implicated defendant by name and cross-examination of the codefendant further tended to implicate defendant. 6However, except in Matóla, the appellate court found that any Aranda violation was nonprejudicial in the light of strong evidence of guilt on the part of the defendant.
+In the case at bench, as we have said, the statement attributed to Fred did not directly implicate James nor did it contain any ambiguous reference to a co-criminal. But the evidence which did tend to connect James with the robbery-murder, while legally sufficient, was by no means overwhelming. That the men were brothers hardly supports an inference that they were inevitably partners in crime; that James knowingly used or participated in the use of the stolen credit card is quite consistent with his innocence of the robbery-murder itself—one may cheerfully accept the fruits of a robbery without being a party to the robbery itself. The only seriously implicating testimony is that which showed the concurrent absence and return of Fred and James at a time and place which would have made it easy for them to have been the robbers.
+However, in every case we have found in which Aranda has been applied, the statements objected to were, so far as the objecting defendant was concerned, pure hearsay as to him, and not admissible under any recognized exception to the hearsay rule; the statements went into evidence only because they were admissible against the codefendant declarant. In the case at bench, the statements made by Fred to the women were admissions only against his own interest, and were admissible against James had he been tried separately. (Evid. Code, § 1230; People v. Spriggs (1964) 60 Cal.2d 868 [36 Cal.Rptr. 841, 389 P.2d 377].) As the above discussion shows, the statements clearly were relevant, since they provided one link in the chain of circumstantial evidence connecting James with the robbery-murder. It follows that there was no error in admitting the statements.
+IV
+Because of the necessity of deleting certain portions of the statements which did implicate James, the original tapes of the statements were not played to the jury. However, the tapes were in court, offered in evidence, and available to defense counsel to enable him to ascertain the accuracy of the edited transcripts which were used at. the trial. We see no error. Except for one inaccuracy, which was corrected, we are shown no reason to believe that the edited transcriptions were not accurate and did not afford defense counsel all the opportunity for cross-examination that he needed.
+The judgments are affirmed.
+Files, P. J., and Dunn, J., concurred.
+Appellants’ petitions for a hearing by the Supreme Court were denied March 8, 1974.
+Both defendants are black.
+A motion for severance was made and denied. We see no error in denying that motion, when and as made. No showing was made to support the suggestion that some Aranda violation might later occur. The issue is before us now on a variant of the Aranda theme—i.e., that, while the joint trial was not error, the admission was not available to the prosecution.
+The closest case is People v. Wallace (1970) 13 Cal.App.3d 608 [91 Cal.Rptr. 643], but the statements therein objected to were neither confessions nor admissions; at the most they were statements suggesting a consciousness of guilt on the part of the declarants.
+People v. Fortman (1970) 4 Cal.App.3d 495 [84 Cal.Rptr. 458]; People v. Smith (1970) 4 Cal.App.3d 41, 49-51 [84 Cal.Rptr. 229]; People v. McKee (1968) 265 Cal.App.2d 53, 60 [71 Cal.Rptr. 26]; People v. Romero (1967) 251 Cal.App.2d 986 [60 Cal.Rptr. 188],
+In People v. Irvin (1968) 264 Cal.App.2d 747, 764-765 [70 Cal.Rptr. 892], the statement, while it identified defendant, was partly exculpatory; defendant was positively identified as being present at and during the crime. In People v. Krug (1967) 256 Cal.App.2d 219 [63 Cal.Rptr. 813], the statement did directly implicate defendant; Aranda was held violated but the error nonprejudicial. In People v. Hill (1967) 66 Cal.2d 536 [58 Cal.Rptr. 340, 426 P.2d 908], there were separate confessions by three codefendants; any Aranda error was nonprejudicial.
