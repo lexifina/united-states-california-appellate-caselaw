@@ -1,0 +1,29 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Cr. A. No. 94248"
+decided: "1938-12-31"
+citations: ["33 Cal. App. 2d Supp. 760"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Appellant, v. DAN TAYLOR et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/33/cases/Supp. 760-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6041882
+cites_cases: ["111 Cal. App. 377", "117 Misc. 133", "127 Tex. Crim. 35", "134 Pac. 985", "16 Am. St. Rep. 578", "166 Cal. 7", "173 N. E. 276", "191 N. Y. Supp. 750", "2 L. R. A. 721", "288 Pac. 53", "295 Pac. 564", "303 U. S. 444", "341 Ill. 208", "41 N. W. 275", "73 Mich. 288", "75 S. W. (2d) 264"]
+---
+
+# People v. Taylor
+
+## Majority (HAINES, P. J.)
+
+HAINES, P. J.
+The defendants were charged with a violation of Ordinance No. 10731 of the city of San Diego, alleged to have been committed in said city on the 5th day of August, 1938, “in that they did then and there willfully and unlawfully distribute to and among pedestrians along a public street, to wit: ‘C’ Street, and in a public place, to wit: the Savoy Theatre, handbills, dodgers, circulars and other advertising matter.”
+After pleas of not guilty, but before trial, the case was dismissed on motion upon the ground that the ordinance referred to violates the freedom of speech and of the press as guaranteed by the First and Fourteenth Amendments to the Constitution of the United States and section 9 of article I of the Constitution of the State of California. The People appeal.
+Counsel for respondents correctly say that article XI, section 11 of the state Constitution delegates directly to inferior governmental agencies the police power in their respective localities and that the power so delegated is as broad as that of the legislature itself provided only that its exercise by any city must be confined to such city and must not conflict with the general laws of the state. (Pasadena School Dist. v. City of Pasadena, 166 Cal. 7 [134 Pac. 985, Ann. Cas. 1915B, 1039].) There being here no question of conflict with any general law, the question to be decided is not one of the relative functions of the legislature and the city council in undertaking to exercise the police power, but of the legitimate extent of that power itself.
+We think that the judgment must be sustained. Though the case was not tried upon the facts there is in the record what the parties stipulate is a copy of the matter circulated. It is a mimeographed publication of a radical but not incendiary nature, mainly devoted to political discussion but containing certain advertising matter. The statement on appeal contains no copy of the ordinance involved, but what purports to be a copy of the provisions relied on appears in appellant’s brief and no question of their accuracy being raised in the brief for respondents we shall assume them to be correctly set out. They are as follows:
+“That it shall be unlawful to deposit upon any sidewalk, street or in or on any motor vehicle parked upon any street in the City of San Diego, California, any handbill, dodger, poster, circular, notice or other advertising matter, or to post or tack any advertising matter upon any electrical, telegraph or telephone pole, or to deposit any advertising matter in or upon any vacant lot or to distribute to or among pedestrians along any public street, park or other public place, or to distribute to the passengers in any street car, or throw upon or in any street ear, or post or affix to any curb or public street, or to any tree or structure within a public park, or upon any fence or gate within such park within the City of San Diego, California, any advertising matter.”
+We do not question the right of the council to inhibit the defacing of property by affixing to it posters, circulars or notices, nor do we question the council’s right to forbid the depositing upon sidewalks, streets or other public places, or for that matter the unauthorized depositing on private property of dodgers, notices, circulars or other matter having a tendency to create an accumulation of rubbish. Such inhibitions are manifestly proper uses of the police power and have often been so held. (See e. g., Sieroty v. City of Huntington Park, 111 Cal. App. 377 [295 Pac. 564]; People v. St. John, 108 Cal. App. (Supp.) 779, 781 [288 Pac. 53] ; San Francisco Shopping News v. City of South San Francisco, 69 Fed. (2d) 879.) It is true that a portion of the San Diego ordinance under review is directed against that evil. This, however, is not the portion of the San Diego ordinance under which the charge before us is laid. What is charged is a mere personal distribution of advertising matter to pedestrians on a public street and to persons in another public place. There is no charge that such matter was forced upon persons not willing to receive the same or that there was anything in the distribution tending to disturb the peace or public order or to cause any littering of the streets or of any public place.
+The attempt to prohibit the mere handing of advertising matter to persons on the streets or in other public places has often been held to be an unlawful and unwarranted invasion of private rights and therefore to be beyond any legitimate exercise of the police power, and we are in accord with that view. (People v. Armstrong, 73 Mich. 288 [41 N. W. 275, 16 Am. St. Rep. 578, 2 L. R. A. 721]; City of Chicago v. Schultz, 341 Ill. 208 [173 N. E. 276]; People v. Johnson, 117 Misc. 133 [191 N. Y. Supp. 750]; Ex parte Pierce, 127 Tex. Crim. 35 [75 S. W. (2d) 264], See, also, Lovell v. Griffin, 303 U. S. 444 [58 Sup. Ct. 666, 82 L. Ed. 949].)
+The judgment is affirmed.
+Mundo, J., and Turrentine, J., concurred.
