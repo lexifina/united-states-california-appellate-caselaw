@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6150"
+decided: "1928-03-05"
+citations: ["89 Cal. App. 663"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM I. GROVE, Appellant, v. HODGE TRANSPORTATION SYSTEM (a Corporation) et al., Respondents."]
+source_url: "https://static.case.law/cal-app/89/cases/0663-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116523
+cites_cases: ["112 Pac. 53", "158 Cal. 596"]
+---
+
+# Grove v. Hodge Transportation System
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The plaintiff commenced an action against the defendants to obtain a judgment for damages alleged to have been suffered in a collision between his motorcycle and one of the trucks of the defendants. The action was tried in the trial court before the court sitting with a jury. At the end of the plaintiff’s case the defendants made a motion for a nonsuit. The motion was granted and from the judgment entered thereon the plaintiff has appealed under section 953a of the Code of Civil Procedure.
+The collision occurred on the night of April 29, 1924, some time after dark. It occurred in a sparsely settled district at a point designated as the intersection of Main Street and One Hundred and First Street in Los Angeles. The plaintiff was proceeding south on Main Street. At that time the middle twenty feet of that street was paved with concrete and on each side of the concrete there was a depression or ditch in which were mud and water. One Hundred and First Street was wholly unpaved. As the plaintiff came from the north and when he was as yet about two hundred feet north of the north line of One Hundred and First Street, looking across the corner of the block he observed the defendants’ truck traveling east and in a direction which would cross the path of the plaintiff. At that time the plaintiff commenced to slow down, but continued ahead. As he approached nearer the intersection he observed the slowness with which the defendants’ truck was moving and he testified that he assumed that the slowness was an invitation for him to approach and cross the defendants’ path in front of the truck. At about that time he also noticed that the truck was drawing a trailer. As he came nearer he observed that he could not pass in front of the truck and he turned to his right to pass to the rear. As he did so he observed that he could not execute that movement as the rear of the trailer was still in the ditch containing mud and water, and the rest of the defendants’ vehicles, the truck and trailer, extended entirely across the concrete pavement. Thereupon the plaintiff swerved his machine and attempted to turn back. As he did so the rear end of his motorcycle was hit by the rear end of the trailer and the plaintiff and his wife were thrown to the pavement. As defendants ’ vehicles approached the intersection they turned to the left to go north on Main Street. In making that left turn they should have passed the center of the intersection and then made the turn. (Motor Vehicle Act, sec. 129 [Stats. 1923, p. 558].) However, they did not do so, but, according to the testimony, they cut the northwest corner and pulled up on to the concréte pavement. It was the claim of the plaintiff in introducing his case that before he saw the truck and trailer he was traveling not to exceed thirty-five miles an hour; that he reduced his speed from time to time and that at the time of the collision he was traveling not more than fifteen or twenty miles per hour. In corroboration of his testimony he introduced evidence to the effect that there were skid marks back on Main Street showing that he had had on his brakes and had reduced his speed seventy-five feet north from the point of collision. It may be conceded that there was other evidence to the effect that he was going thirty or thirty-five miles an hour at the time of the collision. The defendants call our attention to the statements made by the several witnesses regarding the speed of the plaintiff. In the trial court the defendants did the same thing and thereafter the trial court granted the motion for a nonsuit under the belief that the evidence showed that the plaintiff was guilty of contributory negligence as a matter of law. In granting the motion we think the trial court fell into error. As shown above it appeared from the evidence at the time the motion was granted that the defendants were guilty of negligently operating their vehicles. Conceding that there was evidence to the effect that the plaintiff was negligent, there was other evidence to the effect that he was not negligent. Under this condition of the record a motion for a nonsuit should not have been granted but the jury should have been allowed to pass on the weight and sufficiency of the evidence. (Hoff v. Los Angeles Pacific Co., 158 Cal. 596, 599 [112 Pac. 53].)
+The judgment is reversed.
+Nourse, J., and Koford, P. J., concurred.
+A petition by respondents to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on May 3, 1928.
+All the Justices present concurred.
