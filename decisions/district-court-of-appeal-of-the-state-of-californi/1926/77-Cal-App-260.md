@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5265"
+decided: "1926-03-24"
+citations: ["77 Cal. App. 260"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of HENRY W. NISBET for an Order of Reinstatement as Counselor and Attorney at Law."]
+source_url: "https://static.case.law/cal-app/77/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2182342
+cites_cases: ["179 Pac. 897", "197 Cal. 408", "241 Pac. 88", "39 Cal. App. 548"]
+---
+
+# In re Nisbet
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+In May, 1918, a judgment of disbarment was entered against petitioner herein, who for many years had been a member of the bar of California. The specific charges of which he was found guilty were in substance that Mr. Nisbet had obtained property or money upon the faith of two certain small checks drawn by him upon banks in which, as he well knew, he had no money on deposit and wherein he had no account. Prior to that time, in the year 1911, he had been suspended from practice for the period of one year, for a breach of his duties as an attorney and counselor at law.
+The disbarment of petitioner has been in force nearly eight years. In his petition herein he shows that during this period he has lived continuously in the city of Los Angeles; that during a considerable part of that time he has occupied positions of trust and confidence, and has at all times conducted himself with integrity and propriety. The petition is accompanied by letters of indorsement from a large number of men of high standing in the legal profession, who inform the court that they know Mr. Nisbet personally; that they have faith in his integrity, and in substance that they believe that if he is restored his future conduct will be above reproach.
+There are also letters from business men by whom the petitioner has been employed, who express their confidence in him, and in some instances their willingness and intention to employ him professionally in the event of the restoration of his license to practice. As mere letters in support of such an application would not be satisfactory, it should be added that some of these are supported by affidavits that the statements therein are true. There is no evidence of misconduct of petitioner since the date of his disbarment.
+It is not the policy of the law, and is not considered to be in the interest of justice, that an attorney who has been disbarred for misconduct shall never under any circumstances be readmitted to practice. In the Matter of Stevens, 197 Cal. 408 [241 Pac. 88], the supreme court, in connection with its ruling that applicants for restoration to practice need not in all cases be required to submit to a re-examination as to their mental qualifications, said: “No adequate reason occurs to us for making the rule invariable. The law is interested in the regeneration of erring attorneys, and in the enforcement of a sound discipline its disposition ought not to be to place unnecessary burdens upon them.” In his separate opinion in that case, Mr. Justice Richards stated that in such an inquiry the sole question concerning the petitioner is “whether by his good conduct since his disbarment he has shown cause for restoration to his former position at the bar; whether the doctrine of locus penitentiae shall be applied to his case.” In the case of In re Mash, 39 Cal. App. 548 [179 Pac. 897], the supreme court in its opinion on denial of rehearing of an order made by the district court of appeal, defined the purpose of such an order as follows: “It should always be kept in mind that in determining such a question the District Court of Appeal is not considering an application to relieve the applicant from punishment or to give him an opportunity to reform, but that its sole object is to determine whether or not the character of the applicant is such that he should be admitted to an office of trust and recommended to the public as a trustworthy person fit to be consulted by others in matters of confidence. A certificate of admission to practice law is a standing affirmation that he is of that character, and it invites others to enter into intimate confidential relations with him. The interest and safety of those who may be thus led to consult him should be regarded as the end to be accomplished.” In applying the principles thus declared, the court must endeavor to exercise a reasonable discretion, uninfluenced by sympathy on the one side or by harsh severity on the other. The petition for restoration should be granted when, and only when, the court upon the case as presented to it is convinced by positive evidence that the applicant has established, and now possesses, that good moral character -which will make of him a trustworthy and honorable member of the bar. In this case we are satisfied that the application should be granted.
+It is ordered that petitioner Henry W. Nisbet be and he hereby is restored to the rights and privileges of an attorney and counselor at law, and is authorized to practice in all the courts of this state.
+Houser, J., and York, J., concurred.
