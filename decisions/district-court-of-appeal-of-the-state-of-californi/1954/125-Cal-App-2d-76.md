@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 20199"
+decided: "1954-05-06"
+citations: ["125 Cal. App. 2d 76"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RONALD WESLEY CULVER, a Minor, etc., et al., Petitioners, v. SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/125/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2222104
+cites_cases: ["102 Cal.App.2d 233", "103 Cal.App.2d 405", "105 Cal.App.2d 623", "187 P.2d 681", "227 P.2d 64", "230 P.2d 57", "234 P.2d 94", "31 Cal.2d 202", "60 Pa. D. & C. 606"]
+---
+
+# Culver v. Superior Court
+
+## Majority (MOORE, P. J.)
+
+MOORE, P. J.
+The question here for decision is whether the parents of a minor son who with them is defendant in an action for damages for his alleged negligence in the operation of an automobile are entitled to a “stay” of the trial until the son returns to Los Angeles County from the armed forces overseas.
+In February 1953, one John Kulash and others filed an action in respondent court against petitioners Edgar Culver and wife and their son Ronald Wesley for damages resulting from an automobile accident in which the son was a participant. Ronald was a minor and his parents had consented to his driving the offending car. Petitioners answered the complaint, and on April 3, 1953, plaintiffs served and filed a setting card. The cause was set for trial in respondent court on December 11. Within a week prior to the trial date, counsel for the defendants asked plaintiffs’ attorney for a continuance because of Ronald’s being in the Army overseas and could not be present. When the matter was called for trial, defendants moved for a continuance to a time when Ronald would be discharged. The court denied the motion as to Mr. and Mrs. Culver but consented only to a brief continuance to enable them to obtain the deposition of Ronald. Thereupon, the Culvers applied for a writ of prohibition against any action “for the time required and provided in said Soldiers’ and Sailors’ Civil Relief Act of 1940.”
+Section 521 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 provides that an active soldier who is a defendant in an action before any court shall be entitled to a stay of proceedings unless in the opinion of the court the ability of the defendant to conduct his defense is not materially affected by reason of his military service.
+In the action at bar, the parents are defendants by virtue of having consented to their son’s driving the motor car on a public highway. They are in effect demanding that the trial of the action be stayed until the son is released from service. While the act is to be always so liberally construed as to protect the active soldier and sailor (Vasey v. Hoffman, 60 Pa. D. & C. 606) the law in no sense requires the abatement of a trial of the codefendants of a soldier who are not in any military service. In his affidavit opposing the issuance of a writ of prohibition herein, counsel for the plaintiffs in the action pending in respondent court expressly concedes that “no judgment can be obtained” against son Ronald if he is in the armed forces. Now, by virtue of the pleaded concession, there is not the remotest possibility that the trial will proceed against Ronald. As to the parents, the only risk they could incur by an immediate trial lies in the likelihood of their not having the benefit of Ronald’s testimony. In the first place, respondent court granted a continuance for the purpose of enabling petitioners to take Ronald’s deposition. It is not to be presumed that he would not tell the facts just as fully before a commissioner in Korea as he would in the presence of the court. With that avenue open to the receipt of Ronald’s testimony, there is no good reason for a “stay” of the trial for the parents’ benefit. In fact, the Act of 1940 makes no provision for staying the trial for a civilian because his witness is in the armed forces. Section 524 of the act specifically provides that the court may in such a situation proceed against those who are neither soldiers nor sailors. (U.S.C.A. title 50, p. 577.)
+As to the matter of obtaining the testimony of a soldier in service, the motion for a continuance is addressed to the sound discretion of the court and its decision will not be disturbed in the absence of proof of the abuse of such discretion. (Slaughter v. Zimman, 105 Cal.App.2d 623, 624 [234 P.2d 94]; Kalmus v. Kalmus, 103 Cal.App.2d 405, 414 [230 P.2d 57]; Taylor v. Gordon, 102 Cal.App.2d 233, 239 [227 P.2d 64].) It has even been held that the refusal of a continuance to a soldier will not afford ground for reversal where his testimony could have been obtained with reasonable diligence. (Johndrow v. Thomas, 31 Cal.2d 202, 209 [187 P.2d 681].)
+By reason of the foregoing and because petitioners did not, for six .months after the case had been set for trial, make an attempt to procure the deposition of Ronald,
+It is ordered that the alternative writ be discharged and the peremptory writ is denied.
+McComb, J., concurred.
+Section 521: “At any stage thereof any action or proceeding in any court in which a person in military service is involved, either as plaintiff or defendant, during the period of such service or within sixty days thereafter may, in the discretion of the court in which it is pending, on its own motion, and shall, on application to it by such person or some person on his behalf, be stayed as provided in this Act [sections 501-548 and 560-590 of this Appendix], unless, in the opinion of the court, the ability of plaintiff to prosecute the action or the defendant to conduct his defense is not materially affected by reason of his military service " U.S.C.A., 50 App.
