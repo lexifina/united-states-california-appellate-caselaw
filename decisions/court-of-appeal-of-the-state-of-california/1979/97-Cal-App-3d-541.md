@@ -1,0 +1,40 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 56320"
+decided: "1979-10-09"
+citations: ["97 Cal. App. 3d 541"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLOYD A. COHEN, Plaintiff and Appellant, v. BOARD OF TRUSTEES OF CALIFORNIA STATE UNIVERSITY AND COLLEGES et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/97/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999095
+cites_cases: ["109 Cal.Rptr. 344", "33 Cal.App.3d 665"]
+---
+
+# Cohen v. Board of Trustees
+
+## Majority (ASHBY, J.)
+
+Opinion
+ASHBY, J.
+Appellant Floyd Cohen appeals from a judgment denying his petition for a writ of mandate to compel respondent officials of the California State University and Colleges to process a grievance under Education Code section 89542.5.
+Appellant is a tenured professor in the mathematics department of California State University, Long Beach. The dean of the school of letters appointed appellant chairman of the mathematics department for the academic year 1976-1977 and reappointed him for the academic year 1977-1978. Appellant was informed that the continuation of this appointment would be contingent upon a favorable review in the spring of 1978 of his chairmanship of the department.
+In January 1978 the faculty of the mathematics department was polled: “Shall Professor Cohen continue to serve as Mathematics Department Chair?” The results of the poll were: yes, 19; no, 22. On February 1, 1978, the dean of the school of humanities notified appellant that his appointment as department chairman would not be continued beyond the 1977-1978 academic year.
+On February 27, 1978, appellant filed a written grievance seeking “a due process review of my performance as Chair,” citing then Education Code section 24315, now section 89542.5, relating to the establishment of grievance procedures for all academic employees.
+On March 3, 1978, the associate vice president of academic affairs notified appellant that he was not entitled to a grievance hearing because his complaint concerned his academic-administrative assignment, not his academic status. The executive committee of the grievance panel concurred.
+On June 20, 1978, appellant filed a petition for writ of mandate to compel the executive officer of the grievance committee to process the grievance, and to reinstate appellant as chairperson pending the grievance procedure. The trial court denied the petition.
+Discussion
+Education Code section 89542.5 (formerly § 24315, enacted in 1975) requires the trustees of the California State University and Colleges to establish grievance procedures for all “academic” employees. Appellant contends he was entitled to utilize the grievance procedures to review his removal from the departmental chairmanship. This argument is without merit. Insofar as his retention of the departmental chairmanship is concerned, appellant was not an “academic” employee within the meaning of the statute. (Zumwalt v. Trustees of Cal. State Colleges, 33 Cal.App.3d 665, 675 [109 Cal.Rptr. 344]; Cal. Admin. Code, tit. 5, §§ 42700, subds. (l), (p.); 43593, 43594.)
+The board of trustees has by regulation defined “ ‘Academic employee’ ” as an employee engaged primarily in instruction. (Cal. Admin. Code, tit. 5, § 42700, subd. (l).) Such an employee is distinct from one in an “ ‘Academic-administrative assignment,’ ” which the board has defined separately as “[a] work assignment. . . filled by an academic . . . when serving in a key administrative capacity, planning, organizing and directing activities which relate to the instructional programs and/or participating in policy planning . . . .” (Cal. Admin. Code, tit. 5, § 42700, subd. (p)(l).) A departmental chairmanship is such an academic-administrative assignment. (Zumwalt v. Trustees of Cal. State Colleges, supra, 33 Cal.App.3d 665, 675.)
+The board’s regulations specifically provide that: “Tenure does not apply to academic-administrative assignments” and that “[ajcademicadministrative assignments at a campus may be terminated at any time by a president. . . .” (Cal. Admin. Code, tit. 5, §§ 43593, 43594; Zumwalt v. Trustees of Cal. State Colleges, supra.)
+Thus, in his capacity as departmental chairman, appellant was not an “academic” employee within the meaning of Education Code section 89542.5, and the trial court properly concluded that the grievance procedures did not apply.
+Appellant attempts to distinguish Zumwalt on the ground that it was decided in 1973, prior to the enactment of the predecessor of Education Code section 89542.5 in 1975. The claimed distinction does not help him. The Legislature chose to restrict section 89542.5 to “academic” employees, presumably aware that departmental chairmanships were excluded from such class by existing regulations and the Zumwalt decision.
+Appellant next suggests that even if respondents are correct that the grievance procedures are inapplicable, nevertheless a grievance hearing must be held so that the faculty hearing committee can consider this “defense.” This argument has no merit. Nothing in the statute so requires. Under the regulations and rules implementing the statute, the president or his designee makes determinations regarding academic-employee status. (Ed. Code, § 89542.5; Cal. Admin. Code, tit. 5, § 43750; Exec. Order No. 240 of the Chancellor of the State University and Colleges, § 5.21.) Furthermore, the record indicates that the executive committee of the grievance panel reviewed the president’s denial of appellant’s request for a grievance hearing and concurred in that denial.
+Finally, appellant attempts to bring himself within the rule that constitutional due process may require notice and a hearing if action taken against a public employee involves charges which might seriously damage the individual’s reputation or career. (Zumwalt v. Trustees of Cal. State Colleges, supra, 33 Cal.App.3d at pp. 678-680.) In Zumwalt, the court held that the manner in which Dr. Zumwalt’s removal was accomplished created just such a danger of serious damage to his reputation or career: No reason for the removal was publicly given, but it was accomplished by the campus police changing the locks on Dr. Zumwalt’s office and sealing the files. The incident received much notoriety in the press. The court commented: “The show of force implied that force was necessary; resort to locks implied that locks were necessary.” (Id., at p. 679.)
+There are no such circumstances in this case. Appellant completed the second year of the chairmanship but was not reappointed for the following academic year. The apparent reason was simply that he no longer held the confidence of his colleagues on the mathematics faculty for a position which presumably required harmonious cooperation with the members of the department. Failing to be the majority favorite in departmental politics is not something which seriously damages appellant’s reputation or career.
+The judgment is affirmed.
+Stephens, Acting P. J., and Hastings, J., concurred.
+On March 10, 1978, a faculty election for mathematics department chair was completed. Out of 40 ballots cast, Arthur Gittleman received 27 and appellant received 13. The dean accepted the faculty recommendation and appointed Dr. Gittleman as chairman of the department for the 1978-1979 academic year.
+Section 2.4 of Executive Order No. 240 of the Chancellor of the State University and Colleges, implementing Education Code section 89542.5, states that insofar as a grievance pertains to an academic-administrative assignment, the employee is not an academic employee. The executive order properly interprets the statute and regulations. Appellant was, of course, an academic employee in his capacity as a professor who taught six weighted teaching units per year, but his removal as chairman of the department did not affect him in that capacity. (Cal. Admin. Code, tit. 5, § 43593.)
