@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 467"
+decided: "1916-05-06"
+citations: ["30 Cal. App. 402"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. J. T. WAUGH, Appellant."]
+source_url: "https://static.case.law/cal-app/30/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2018149
+cites_cases: ["4 Cal. App. 432", "91 Pac. 536"]
+---
+
+# People v. Waugh
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Defendant was convicted of the crime of robbery. From the judgment pronounced against him, and an order of court denying his motion for a new trial, he prosecutes this appeal.
+Assignments of error are predicated upon the alleged insufficiency of the evidence to justify the verdict, the refusal of the court to give certain instructions requested by defendant, and alleged misconduct of the district attorney in referring to defendant’s failure to testify in his own behalf.
+As to the first contention, the extent of appellant’s argument in support thereof is the mere assertion that “there is no evidence in the record that proves or tends to prove by direct testimony, substantial evidence or otherwise, that the defendant and appellant was in the vicinity or near the place of the alleged robbery.” The victim of the robbery was Elizabeth Sarah Rae who, in company with another, about midnight on July 31, 1915, was traveling in an automobile along the strand from Coronado to the mainland, when they were intercepted by two men who compelled them to get out of the car, at which time certain diamonds and jewelry in the possession of Mrs. Rae were forcibly taken from her. While there was no direct evidence identifying defendant as one of the participants in the crime, much circumstantial evidence was adduced which, together with the unexplained possession by defendant of the stolen goods near the place where the crime was committed and shortly thereafter, clearly tended to connect him with the robbery and justified the jury in reaching a verdict that he was guilty as charged; indeed, as stated, counsel for appellant does not otherwise seriously contend.
+Defendant requested the court to instruct the jury in substance that if they believed from the evidence that defendant had, in the past, been leading a wild and immoral life, and had been guilty of acts which they deemed to be immoral or unlawful, or had an unsavory reputation, such facts should not be considered by them in determining the question of defendant’s guilt or innocence of the crime charged, but that the same degree of proof was required to establish his guilt as that required to establish the guilt of any other person charged with a similar offense. The court refused to give such instructions, and the ruling is assigned as error. No issue was made as to the past life, character, or reputation of defendant, and no evidence was offered touching the subject. True, a witness called on behalf of the people, when testifying to his association with defendant in Tia Juana, Mexico, incidentally referred to the fact that they went out together and hunted for some opium, and on cross-examination he stated that defendant informed him that the opium had been hidden near Tia Juana Hot Springs and which, if found, he could sell to a Chinaman at Tia Juana; but this in nowise justified the giving of such instructions. Moreover, under the instructions given by the court clearly stating to the jury the facts which they were to consider in arriving at a verdict, and conceding the requested instructions proper, it is inconceivable that the failure to give them could in anywise have influenced the jury in its consideration of the case or affected the substantial rights of defendant.
+The contention that the district attorney was guilty of misconduct during his argument, in referring to the fact that defendant had not testified in his own behalf, is without merit and groundless. It is based upon a statement made by the district attorney and justified by the record, that defendant’s possession of the stolen jewelry shortly after the robbery was unexplained by any sworn testimony. It is fundamental that, since a defendant may not be compelled to be a witness against himself (see. 1323, Pen. Code), a prosecuting officer may not comment adversely upon his failure to take the witness-stand in his own behalf. We agree with the trial judge, however, that in making the statement attributed to him the district attorney did not infringe upon the rights so guaranteed defendant. Surely, if no explanation was offered on behalf of defendant as to his possession of the stolen goods, it would be competent for counsel representing the people to refer to the want of such explanation, since such possession unexplained was a material circumstance affecting his guilt or innocence. The action of the district attorney in commenting upon the failure of the defense to account for defendant’s possession of the stolen property, was not indicative of a purpose on the part of such official to use against defendant the fact that he did not take the stand in his own behalf. (People v. Fitts, 4 Cal. App. 432, 436, [91 Pac. 536].)
+We find no prejudicial error disclosed by the record, and the judgment and order appealed from are, therefore, affirmed.
+Conrey, P. J., and James, J., concurred.
