@@ -1,0 +1,30 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 24268"
+decided: "1969-06-16"
+citations: ["274 Cal. App. 2d 38"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EARL VIVELL, Plaintiff and Appellant, v. CITY OF BELMONT, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-2d/274/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2232822
+cites_cases: ["150 Cal. App.2d 379", "162 Cal.App.2d 655", "230 Cal.App.2d 272", "230 Cal.App.2d 375", "230 Cal.App.2d 387", "235 P.2d 209", "239 P.2d 876", "28 A.L.R.2d 636", "309 P.2d 915", "311 P.2d 494", "328 P.2d 795", "37 Cal.2d 727", "38 Cal.2d 315", "40 Cal.Rptr. 812", "40 Cal.Rptr. 863", "40 Cal.Rptr. 871", "48 Cal.2d 577"]
+---
+
+# Vivell v. City of Belmont
+
+## Majority (DRAPER, P. J.)
+
+DRAPER, P. J.
+Plaintiff’s complaint sought damages from respondent city and one Henry Hughes for (1) false arrest and imprisonment, (2) malicious prosecution, and (3) abuse of process. It alleged that the city and Hughes caused a misdemeanor complaint to be filed against plaintiff for violation of a city ordinance requiring connecting sewer lines to the city system. Warrant issued upon the city’s complaint. Plaintiff was arrested by San Francisco police upon this warrant, and was held until bail was furnished. The opening statement asserted that: Hughes was a city councilman of Belmont; he owned land adjoining a parcel owned by plaintiff, and had constructed a sewer line along the common boundary of the two to a city main line; plaintiff had agreed to pay a fixed amount toward cost of this construction; Hughes claimed a larger amount due; plaintiff refused to pay the excess and did not connect his property to the common line, but continued use of a septic tank; Hughes wrongly claimed that plaintiff lived in the building on his land, and persuaded the city to file the misdemeanor complaint.
+At the conclusion of this statement, a lengthy discussion of the merits of the case against appellant was held oiit of the presence of the jury. In this colloquy, plaintiff’s counsel had ample opportunity to state other facts he intended to prove, and did so. Thus nonsuit could be granted if the opening statement was inadequate in law. (Wright v. Arcade School Dist., 230 Cal.App.2d 272, 275-276 [40 Cal.Rptr. 812].) Nonsuit was granted as to the city. Plaintiff appeals.
+It affirmatively appears from the complaint and the opening statement that the arrest and brief imprisonment of plaintiff were not the acts of Belmont employees, but of the San Francisco police. Thus no cause of action for false arrest or imprisonment, independent of that for malicious prosecution, is stated against respondent city (Dawson v. Martin, 150 Cal. App.2d 379, 381 [309 P.2d 915]). We recognize, of course, that arrest is a normal and intended incident of the institution of criminal proceedings. But in the absence of participation in the arrest itself, even a private party is liable only insofar as the arrest is a part of the greater offense of malicious prosecution. ‘1 [L] lability for the arrest is enforced only by the imposition of damages in aggravation of those recoverable for the malicious prosecution itself” (Rest. 2d Torts, §37, com. b). The same rule applies to the count for abuse of process (id.).
+Because a public entity is liable only when a private party would be (Gov. Code, §815, subd. (b)), appellant cannot recover from the city upon any theory of his complaint unless he can show a cause of action for malicious prosecution.
+But the absolute immunity of a public entity from liability for malicious prosecution, long established in California case law (see e.g. Coverstone v. Davies, 38 Cal.2d 315 [239 P.2d 876] ; White v. Towers, 37 Cal.2d 727 [235 P.2d 209, 28 A.L.R.2d 636]; Martelli v. Pollock, 162 Cal.App.2d 655 [328 P.2d 795] ; Dawson v. Martin, supra, 150 Cal.App.2d 379) is specifically continued by the 1963 statute (Gov. Code, §821.6).
+This absolute immunity bars the action as against respondent city, and fully sustains the grant of nonsuit. The case cited by appellant (Shakespeare v. City of Pasadena, 230 Cal.App.2d 375 [40 Cal.Rptr. 863]) reaffirms the immunity of a public entity from liability for malicious prosecution. There, however, it was charged that city jailers refused to release plaintiff upon his posting of bail. The false imprisonment turned wholly upon the breach of the mandatory post-arrest duty to release on bail. Here, however, liability for false arrest and imprisonment must be conditioned upon impropriety of prosecution for the offense charged. This distinction of Shakespeare is made clear by its companion case (Shakespeare v. City of Pasadena, 230 Cal.App.2d 387 [40 Cal.Rptr. 871]).
+We note that denial of the separate motion of Hughes is in no way inconsistent with these views. The immunity of a. public employee from' liability for malicious prosecution extends only to proceedings instituted ‘‘within the scope of his employment” (Gov. Code, §821.6). The code thus continues the earlier California rule (see Hardy v. Vial, 48 Cal.2d 577 [311 P.2d 494]; Coverstone v. Davies, supra, 38 Cal.2d 315, 322; White v. Towers, supra, 37 Cal.2d 727, 733). Here defendant Hughes was acting wholly outside the scope of his duties as a councilman if he sought private gain from urging prosecution by the city. To be entitled to immunity, he would have to show that he acted within the scope of his employment as a city councilman.
+Even if he acted within that scope, the city would not be liable for malicious prosecution (see second sentence of comment to Gov. Code, § 821.6, and see cases above cited for pre1963 rule). If he acted wholly outside the scope of his employment, he could not render the city liable. Whatever his individual liability, no cause of action can be maintained against the city on the facts before us.
+Judgment affirmed.
+Brown (H. C.), J., and Caldecott, J., concurred.
