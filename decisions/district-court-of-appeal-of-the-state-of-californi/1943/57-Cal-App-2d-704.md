@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3652"
+decided: "1943-03-18"
+citations: ["57 Cal. App. 2d 704"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. MIGUEL ANTONIO PEINADO, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/57/cases/0704-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4427282
+---
+
+# People v. Peinado
+
+## Majority (SHINN, J.)
+
+SHINN, J.
+Defendant appeals from a judgment after conviction of grand theft by verdict and from an order denying his motion for a new trial. He was charged by information with taking $35 from the person of one Ramirez and with having suffered two prior felony convictions, which he admitted.
+The contention here urged that the evidence was insufficient to support the verdict is without merit. Early one evening Ramirez and a male companion, with defendant and a female companion, went from one cafe to another, all of them except defendant drinking and at the expense of Ramirez. The latter became well intoxicated; he had a roll of paper money consisting of one twenty, one ten and two five-dollar bills. He testified that as he was paying for a drink in the late hours, his roll was snatched from his hand by defendant, who ran from the cafe and, although pursued by Ramirez, escaped and disappeared for the time being. Ramirez then found himself without his automobile key, which he claimed had also been taken by defendant, a friend fixed the wires of his car so it could be driven without a key, they drove about for a while with the friend at the wheel, who soon tired of having Ramirez with him, detached the wires and departed, leaving Ramirez in the street with his stalled car, which he was obliged to leave there for the remainder of the night. Upon the following day defendant was arrested at the home of his female companion of the night before, was searched by an officer and was found to have upon his person one ten, one five and five one-dollar bills. These were folded lengthwise, then crosswise and tucked under defendant’s belt “in the small of his back under his trousers.” To the officer defendant denied having any knowledge of the money and gave no explanation as to how it got there. All of these facts were testified to by either Ramirez or the officer. Defendant upon the stand admitted having been with the party but denied having taken the money; he claimed to have left the cafe alone because of a dispute with his companion and that the money found on his person was his own.
+Our attention is called to certain contradictory statements of Ramirez but the most that we gather from the testimony is that with slight discrepancies it was explicit and positive and he at least pretended to have, especially on cross-examination, an unusually clear recollection of what had transpired at a time when he was rather heavily under the influence of liquor. While the others present claimed not to have witnessed the theft and the conviction rests upon the evidence which we have related, it was clearly sufficient to justify the verdict; Ramirez succeeded in convincing the jury of the truth of his story and they were the ones to judge of his credibility and that of defendant.
+We have examined the rulings of the court on the admission of evidence throughout the trial and have read the instructions given and those refused. We find therein no error and no rulings which would justify specific attention in this opinion.
+Defendant complains because he was not allowed a brief continuance during the trial in order to procure the attendance of the reporter who took testimony at the preliminary hearing. We cannot see wherein defendant was prejudiced by denial of the requested continuance. He was entitled to a full opportunity to cross-examine the witnesses who appeared against him and to make use of their statements at the preliminary examination, but most of the matters which occasioned reference to the transcript were of a trivial nature. Furthermore, the disagreements between counsel for the People and the defendant did not relate to the correctness of the reporting and transcription of the testimony at the preliminary. It seems that at the preliminary Ramirez had insisted upon giving his testimony through a Spanish interpreter and, no court interpreter being available, the court had called upon another prisoner who was awaiting trial, to serve in that capacity. The result, not unnaturally, was that the transcript was somewhat lacking in that degree of verity which such reports should and usually do possess. It was the correctness of the translation, not the reporting, that was questioned. This situation could not have been remedied by a reading of the reporter’s notes. However, the ruling upon the application for a continuance was discretionary, there was at most but a meager showing of the use of diligence by defendant’s counsel, and in addition to that, the testimony in connection with which the former testimony was sought to be used related to matters which were unimportant, if they were material at all.
+The judgment and order are affirmed.
+Desmond, P. J., and Wood (Parker), J., concurred.
