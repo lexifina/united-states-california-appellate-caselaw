@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4116"
+decided: "1925-12-31"
+citations: ["76 Cal. App. 137"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES J. FURLONG, Respondent, v. WILLIAM J. ALEXANDER et al., Appellants."]
+source_url: "https://static.case.law/cal-app/76/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2242457
+cites_cases: ["190 Cal. 513", "213 Pac. 951"]
+---
+
+# Furlong v. Alexander
+
+## Majority (WORKS, J.)
+
+WORKS, J.
+This is an action to recover on two promissory notes. Plaintiff had judgment and defendants appeal. It is contended that the amount of the judgment should be reduced in the sum of $151.23, for the reason that the trial court erred in the computation of the interest due upon the notes and by that means rendered judgment for a sum which was in excess of the amount actually due to the extent stated. In arguing their contention appellants say that the total amount of the judgment was $3,229.63, giving the items which together go to make up the total. They then assert that the aggregate sum should have been $3,078.40, and state the items which, according to their computation, go to form that total. The difference between $3,229.63 and $3,078.40 is $151.23, beyond a doubt, but there is a factor which appellants have omitted in their endeavor to convince us that the judgment was excessive in the sum last stated. The element of time in the computation of interest is wanting. The date from which interest was to be figured on each of the notes is stated in the brief, but the date to which it was to be computed is shown as to neither of them. To be more exact, appellants fail to show either to what date the court figured interest in arriving at the amount of the judgment, or to what date it should have been figured in order to render correct judgment. Nor do they even show to what date, either correctly or incorrectly, they themselves have computed interest in their endeavor to convince us that the judgment is excessive. It is provided in section 953c of the Code of Civil Procedure, which concerns what is known as the alternative method of appeal—and the present appeal was taken after that method—that the parties must “print in their briefs, or in a supplement appended thereto, such portions of the record as they desire to call to the attention of the court.” In the respect above mentioned appellants have failed to comply with this rule. The provision, however, has been held to be merely directory (People v. Woods, 190 Cal. 513 [213 Pac. 951]), and we have therefore been forced by the dereliction of counsel to examine the record ourselves for the purpose of supplying the missing information. After such examination we have computed the interest upon the two notes. We find that the interest upon one of them was correctly ascertained by the trial court, but that upon the other the interest allowed was excessive, not in the sum of $151.23, but in the sum of $47.93.
+Appellants insist that in rendering its judgment the trial court failed to allow them a credit of $100.60 to which they were entitled. To support this contention appellants quote a portion of the record of the trial showing a stipulation to the effect that they should have the credit mentioned, and containing a statement of the court that it would be allowed them. The figures set forth in the brief do not convince us that it was not allowed. Moreover, respondent asserts in his brief that the credit was allowed and states the manner in which it was allowed, and appellants filed no reply brief. On the whole, appellants have failed to satisfy the rule that it is incumbent upon an appellant to show error in the rendition of a judgment which he would have reversed. The point made, therefore, cannot be sustained.
+The principal question presented by appellants is that the consideration for one of the notes sued on had failed and that respondent was therefore not entitled to judgment upon it. Evidence is then stated which, while it is not altogether clear, tends to prove that the paper was given merely as á guaranty, or as security, for the performance of a certain act and that the act had been performed. On the other hand, however, respondent refers to testimony which tends to prove that the note was given in consideration of “money advanced for pay-roll” and for the cost of a building which respondent constructed for the use of appellants. Here, then, appears but a conflict of evidence, and the finding of the trial court upon the subject must stand.
+The judgment, is modified by striking therefrom the words and figures “Three Thousand, Two Hundred Twenty-Nine and 63/100 Dollars ($3,229.63),” and inserting in lieu thereof the words and figures “Three Thousand One Hundred Eighty-One and 70/100 Dollars ($3,181.70),” and as so modified it' is affirmed.
+Finlayson, P. J., and Craig, J., concurred.
