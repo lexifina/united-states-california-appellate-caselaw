@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 5929"
+decided: "1958-01-21"
+citations: ["157 Cal. App. 2d 33"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. BRUCE DONALD DAVIS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/157/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038740
+cites_cases: ["121 Cal.App.2d 301", "150 Cal.App.2d 428", "213 P.2d 502", "262 P.2d 865", "294 P.2d 17", "310 P.2d 120", "46 Cal.2d 260", "95 Cal.App.2d 595"]
+---
+
+# People v. Davis
+
+## Majority (VALLÉE, J.)
+
+VALLÉE, J.
+By information defendant was accused of carrying concealed within an automobile under his control a .38-caliber revolver in violation of section 12025 of the Penal Code. He was also accused of having been convicted of two prior felonies and with having served a prison term for each. He pleaded not guilty, denied the first prior conviction, and admitted the second. A jury trial was duly waived. On stipulation of counsel for the People and defendant, the People’s case was submitted on the testimony taken at the preliminary examination. Additional evidence was taken. Defendant was found guilty and the first prior conviction was found to be true. He appeals from the judgment and an order denying his motion for a new trial.
+First it is defendant’s contention that the court erred in basing his conviction in part on the evidence in the preliminary transcript for the reason he did not personally waive his right to be confronted by the witnesses against him. The point is not meritorious. Defendant’s counsel and the district attorney in open court in the presence of defendant stipulated that the People’s case be submitted on the evidence in the preliminary transcript. It is well settled that the right of a defendant to be confronted with the witnesses against him may be waived, and that such waiver is accomplished when counsel for the defendant stipulates that the evidence taken at the preliminary examination may be considered by the court as evidence at the trial. (People v. Hart, 121 Cal.App.2d 301 [262 P.2d 865] ; People v. Donnelly, 95 Cal.App.2d 595, 597-8 [213 P.2d 502].)
+The revolver alleged to have been concealed in the vehicle under defendant’s control was received in evidence. Defendant urges that it was error to admit it in evidence. He argues there was no showing that the police had a warrant or probable cause to search his automobile and that therefore the search was unlawful and the fruits thereof should not have been admitted as evidence. Defendant did not object to the introduction of the revolver in evidence. Having failed to object at the trial, he may not complain on review. (People v. Kitchens, 46 Cal.2d 260, 262 [294 P.2d 17]; People v. Howard, 150 Cal.App.2d 428, 430 [310 P.2d 120].)
+Lastly, defendant contends the evidence is insufficient to sustain the finding that he was guilty of the offense charged. On October 25, 1956, Officer Dunham saw defendant, one Escarrega, one Pompey, and a girl named Dolores Simmons driving in an automobile south on Figueroa Street at 42nd Street in Los Angeles. Defendant was driving the automobile, the girl was sitting in the center on the front seat; Pompey was on the right in the front seat; Escarrega was on the rear seat to the left. The vehicle was stopped and searched. Under the driver’s seat a .38-caliber revolver was found loaded with five rounds of .38-caliber short ammunition.
+On the same day, Officer Smart talked to defendant, Escarrega, and Pompey together. Each denied ownership of the gun. Then Escarrega said, “Pompey knew nothing of the gun; that he was clean.” Defendant said, “Pompey knew nothing of the gun; that he was clean as far as the gun was concerned.” Defendant and Escarrega discussed “which one would copy to possession of the gun.”
+Dolores Simmons testified she saw Escerrega place the gun under the front seat of the car as they parked to go into a saloon for a drink; she told defendant Escarrega had done so; defendant told her to keep quiet about it because he thought officers were in the saloon. Defendant testified Dolores told him Escarrega had put a gun under the front seat; that he told her not to say anything because he was afraid police officers might come out and “shake my ear down”; and that Escarrega told him he (Escarrega) would take it out “to drive him home.” This conversation took place in the saloon. Defendant admitted that when he went into the saloon he knew the gun was in his car under the front seat and that when he left the saloon he drove away and was still driving when he was arrested. Defendant also admitted he owned the automobile.
+It is argued the gun was not in the exclusive possession and control of defendant and that such proof was necessary to conviction. Penal Code, section 12025, provides that “any person who carries . . . concealed within any vehicle which is under his control or direction any pistol, revolver, or other firearm capable of being concealed upon the person without having a license to carry such firearm,” with exceptions not applicable here, is guilty of a public offense. The statute does not require that the defendant have the exclusive possession and control of the firearm. It is enough if a person carries concealed within a vehicle any firearm, that the vehicle is under the control or direction of such person, that the firearm is capable of being concealed'on the person, and that the person carrying the firearm within the vehicle does not have a license to carry it.
+Manifestly the evidence supports the finding of guilt. Defendant owned the automobile. He knew the gun was concealed within the automobile. The automobile was under his control and direction. When he left the saloon he knew the gun was hidden under the front seat. He entered the automobile and drove away. This evidence satisfies the statute.
+Judgment and the order denying a new trial are affirmed.
+Shinn, P. J., and Wood (Parker), J., concurred.
