@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 9342"
+decided: "1978-06-21"
+citations: ["81 Cal. App. 3d 973"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. CLARENCE LEVY TAYLOR, JR., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/81/cases/0973-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017185
+cites_cases: ["102 Cal.Rptr. 137", "130 Cal.Rptr. 446", "131 Cal.Rptr. 608", "136 Cal.Rptr. 465", "230 P.2d 353", "37 Cal.2d 62", "412 P.2d 806", "497 P.2d 481", "50 Cal.Rptr. 462", "59 Cal.App.3d 26", "62 Cal.App.3d 71", "64 Cal.2d 412", "67 Cal.App.3d 51", "7 Cal.3d 248"]
+---
+
+# People v. Taylor
+
+## Majority (PUGLIA, P. J. —)
+
+Opinion
+PUGLIA, P. J. —
+Defendant was indicted after he was found not a fit and proper subject to be dealt with under Juvenile Court Law. (Welf & Inst. Code, § 707.) He appeals from the judgment entered after he pied guilty to first degree robbery (Pen. Code, § 211), admitting he was then armed with a deadly weapon (Pen. Code, § 12022), to a second count of first degree robbery, admitting he then used a firearm (Pen. Code, § 12022.5), and to mayhem (Pen. Code, § 203). Ten other counts charging robbery, burglary, attempted robbery, attempted murder and kidnaping for purpose of robbery to some of which were annexed armed and use allegations were dismissed on the district attorney’s motion. Defendant’s sole contention on appeal is that it was error to sentence him to state prison.
+Defendant, then 16 years old, was a member of the infamous “doorbell gang” which terrorized the Sacramento community in December 1976. As a member of that group defendant participated in several violent criminal escapades in one of which he fired a shotgun through a window of a residence, injuring and permanently blinding an occupant. At the time of the offenses, defendant was on parole from the California Youth Authority, having been released in August 1976.
+After the probation officer recommended defendant be committed to state prison, the trial court remanded him to the California Youth Authority for a diagnostic study (Welf. & Inst. Code, § 707.2). On his return to court, a supplemental probation report was ordered. At the time of judgment and sentence, the trial court had before it the original and supplemental probation reports and the Youth Authority diagnostic study. The probation officer adhered to his original recommendation that defendant be sentenced to state prison, citing the fact that defendant had repeatedly failed to modify his behavior while on probation, parole, and in institutional settings during previous commitments to the Sacramento County Boys Ranch and the Youth Authority. The diagnostic study recommended a Youth Authority commitment, concluding that because of defendant’s emotional and physical immaturity and his lack of criminal sophistication, he could not withstand confinement in an adult prison. The trial court declined to follow the Youth Authority recommendation and sentenced defendant to state prison.
+Defendant contends that under Welfare and Institutions Code section 707.2, the Youth Authority diagnostic study is binding on the trial court which must follow its dispositional recommendation. Defendant argues the trial court had no right to rely on the probation officer’s reports which recommended a sentence to state prison.
+Welfare and Institutions Code section 707.2 reads as follows: “Prior to sentence, the court of criminal jurisdiction may remand the minor to the custody of the California Youth Authority for not to exceed 90 days for the purpose of evaluation and report concerning his amenability to training and treatment offered by the Youth Authority. No minor who was under the age of 18 years when he committed any criminal offense and who has been found not a fit and proper subject to be dealt with under the juvenile court law shall be sentenced to the state prison unless he has first been remanded to the custody of the California Youth Authority for evaluation and report pursuant to this section and the court finds after having read and considered the report submitted by the Youth Authority that the minor is not a suitable subject for commitment to the Youth Authority.”
+It will be observed that the code section does not, by its terms, remove sentencing discretion from the trial court and vest it in the Youth Authority. Rather, it requires only that a Youth Authority diagnostic study be prepared and considered by the trial court before it sentences a minor to state prison. Specifically section 707.2 does not direct the court to follow the Youth Authority recommendation nor does it preclude the trial court from considering a probation report.
+Quite obviously the interpretation of section 707.2 urged by defendant would divest the trial court of sentencing discretion and place it with an administrative agency. However, “The imposition of sentence and the exercise of sentencing discretion are fundamentally and inherently judicial functions.” (People v. Navarro (1972) 7 Cal.3d 248, 258 [102 Cal.Rptr. 137, 497 P.2d 481]; In re Sandel (1966) 64 Cal.2d 412, 415-416 [50 Cal.Rptr. 462, 412 P.2d 806].)
+We reject defendant’s assertion that the legislative history of section 707.2 compels the conclusion that the Youth Authority’s recommendation is binding upon the trial court. Prior to its amendment (Stats. 1976, ch. 1069, § 1) section 707.2 vested the Youth Authority with the ultimate power to determine whether or not a minor, under the age of 18 at the time the offense was committed, would be confined in state prison. The statutory scheme was upheld against a charge of executive intrusion into the judicial function of sentencing. (In re Stanley (1976) 62 Cal.App.3d 71, 76 [131 Cal.Rptr. 608].)
+Subsequent to the Stanley decision, section 707.2 was amended to its present form. Amendment of a statute demonstrates intent to change existing law. (People v. Perkins (1951) 37 Cal.2d 62, 63-64 [230 P.2d 353]; Jordan v. Consolidated Mut. Ins. Co. (1976) 59 Cal.App.3d 26, 48 [130 Cal.Rptr. 446]; see People v. Benefield (1977) 67 Cal.App.3d 51, 59 [136 Cal.Rptr. 465].) We conclude that the Legislature intended by its amendment of section 707.2 to divest the Youth Authority of its control over state prison commitments of minors.
+The judgment is affirmed.
+Regan, J., and Evans, J., concurred.
