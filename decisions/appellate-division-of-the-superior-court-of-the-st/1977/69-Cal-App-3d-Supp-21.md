@@ -1,0 +1,30 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Crim. A. No. 14927"
+decided: "1977-03-24"
+citations: ["69 Cal. App. 3d Supp. 21"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. BERT MARTIN EDQUIST, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/69/cases/Supp.21-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035018
+cites_cases: ["154 Cal.App.2d Supp. 877", "246 P.2d 935", "301 P.2d 241", "39 Cal.2d 210", "47 Cal.2d 45", "58 Cal.2d 645"]
+---
+
+# People v. Edquist
+
+## Majority (COLE, P. J.)
+
+Opinion
+COLE, P. J.
+Defendant, not yet tried, is charged with violating Vehicle Code section 23102. Two prior offenses are alleged. Defendant moved to “set aside” one of the prior offenses. The trial court granted the motion. The People appeal. Defendant (respondent) has not filed a brief (perhaps because the docket indicates that he has been diverted to an alcohol abuse program and expects the action to be dismissed).
+I
+The appeal is purportedly pursuant to Penal Code section 1466, subdivision 1(a). That section authorizes appeals “From an order or judgment dismissing or otherwise terminating the action before the defendant has been placed in jeopardy. ...” A motion setting aside a prior conviction obviously does not terminate or dismiss the action. It would appear that the appeal is not authorized and must be dismissed.
+The People, in footnote 2 of their brief state “See People v. Burke, 47 Cal.2d 45, 53 (disapproved in People v. Sidener, 58 Cal.2d 645, on other grounds) (construction of analogous language in Penal Code section 1238(a)(1)) authorizing appeal from an order striking charge of prior conviction.”
+In Burke, the defendant appealed from a judgment of conviction. The Supreme Court stated, 47 Cal.2d at page 47 [301 P.2d 241] “The People do not appeal, but they ask reversal of the judgment for the purpose of having defendant’s sentence increased. They contend that the trial court erred in ordering that the charge of a prior conviction of violation of section 11500 ... be ‘stricken [in effect, set aside or dismissed] in the interest of justice’ . . . .” (brackets in the original). The Supreme Court then rejected the People’s argument, saying, inter alia, (47 Cal.2d at pp. 53-54): “Furthermore, the People failed to appeal, although the order striking the charge of prior conviction was in its nature one of the orders specified as appealable either by paragraph 1 or by paragraph 6 of section 1238 of the Penal Code. That statute provides that the People may appeal T. From an order setting aside the indictment, information, or complaint; ... 6. From an order modifying the verdict or finding by reducing the degree of the offense or the punishment imposed.’ The trial court’s action was in substance ‘an order setting aside [a part of] the . . . information’; having set aside that part of the information charging a prior conviction the court properly made no finding on that issue. The People contend, implicitly or explicitly, not only that it was error to set aside the charge but that on the record the court was bound to let the information stand as filed, to accept the defendant’s admission, and to make a finding and to enter sentence in accord therewith. If for purposes of this decision we accept the People’s above stated contention then it would follow that the purpose and ultimate effect of the court’s order were the same as those of ‘an order modifying the verdict or finding by reducing the degree of the offense or the punishment imposed.’ Regardless of whether the action of the trial court be regarded as ‘an order setting aside [a part of the]. . . information’ or as ‘an order modifying the verdict or finding by reducing the degree of the offense or the punishment imposed,’ it would appear that the People, if they were successfully to attack such action, must not only not have assented to it but must have taken an appeal. The failure of the People to appeal, like their silence when the dismissal order was made, indicates acquiescence in the order and the sentence which followed. (See American Enterprise, Inc. v. Van Winkle (1952) 39 Cal.2d 210, 221 [246 P.2d 935].)”
+This reasoning, based upon Penal Code section 1238, cannot be analogized to our case. The references to “an order modifying the verdict or finding by reducing the degree of the offense or the punishment imposed” are irrelevant to our case. And, accepting the statement that an order striking a prior is, in effect, an order setting aside an indictment, information, or complaint (and thus squarely within the language of subd. (a)(1) of Pen. Code, § 1238), such an order is not one “dismissing or otherwise terminating the action” which is the language of Penal Code section 1466, subdivision 1(a), which governs appeals to this court.
+Analogy may be found in looking at the language of subdivision 1(b) of Penal Code section 1466. That part of the statute authorizes appeals by the People “[f]rom a judgment for the defendant upon the sustaining of a demurrer.” This court has construed that language quite strictly. In People v. Alves (1957) 154 Cal.App.2d Supp. 877 [315 P.2d 755] the People purported to appeal from a judgment for defendant upon the sustaining of his demurrer to the complaint. There was no such judgment, merely an order sustaining the demurrer without leave to amend. We held that in the absence of a judgment the appeal could not be taken. In the course of the opinion it was said (154 Cal.App.2d Supp. at p. 879): “Section 1466 . . . also provides that the People may appeal from ‘an order or judgment dismissing or otherwise terminating the action before the defendant has been placed in jeopardy. . . There is here no dismissal, but the conditions as to jeopardy are met. However, we see no order terminating the action.”
+Accordingly, the current appeal is from a nonappealable order and is dismissed.
+Alarcon, J., and Wenke, J., concurred.
