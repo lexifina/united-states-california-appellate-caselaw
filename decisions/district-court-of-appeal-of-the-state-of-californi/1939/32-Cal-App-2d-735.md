@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Crim. No. 3183"
 decided: "1939-05-17"
-citations: ["32 Cal. App. 2d 735", "32 Cal. App. 2d 665"]
+citations: ["32 Cal. App. 2d 735"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
