@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 19401"
+decided: "1952-12-23"
+citations: ["115 Cal. App. 2d 60"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM CAMPBELL DALZELL, Appellant, v. EDWARD A. KELLY et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/115/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2247209
+cites_cases: ["132 Cal.App. 262", "181 P.2d 874", "22 P.2d 541", "30 Cal.2d 274"]
+---
+
+# Dalzell v. Kelly
+
+## Majority (MOORE, P. J.)
+
+MOORE, P. J.
+This matter involves only costs on appeal. It comes here after plaintiff had obtained a reversal by the Fourth Appellate District of the judgment in his action with an award of “costs on appeal.” After he had caused an execution to be levied by the sheriff, that officer entered a full satisfaction of the judgment for such costs. Thereupon, plaintiff moved the trial court to vacate the sheriff’s entry. From the trial court’s order denying such motion, plaintiff appeals.
+After the remittitur had been filed on July 9, 1951, plaintiff filed his cost bill on July 30. Pursuant to a motion to retax costs, the trial court after a hearing, denied the motion on August 13, 1951. Thereafter, under execution on March 4, 1952, the sheriff made his return showing he had collected $244.43 including his fees in the sum of $3.12 which when deducted left $241.31, the exact amount of the judgment for costs. Plaintiff refused to receipt for such sum, but the sheriff entered a “full satisfaction” of the judgment. Thereupon, plaintiff on March 5,1952, moved the court to vacate the “full satisfaction” of the sheriff on the grounds that (1) the clerk failed to include a computation of interest and costs of issuance of the execution; (2) the sheriff failed to collect accrued interest and costs of execution; and (3) the sheriff had no authority to execute the satisfaction. The court denied the motion on condition that defendants pay plaintiff $11.30. That sum having been promptly paid, the court made its order finally and firmly denying the plaintiff’s motion.
+This matter deserves to go the way of all frivolous appeals: a cryptic order of dismissal imposing an appropriate fine. If plaintiff could show a right of recovery, he could not have a judgment in excess of $1.00. An appellate court has inherent power to dismiss an appeal where an examination of the judgment roll demonstrates the appeal to be frivolous. (Estate of Wunderle, 30 Cal.2d 274, 279 [181 P.2d 874].) However, inasmuch as the fight has uncovered the fang, we shall pay respect to the quarrel which flits at our threshold.
+Notwithstanding the fact of the payment of the amount which the court had calculated to be the balance due from defendants, plaintiff brings the matter here with the declaration that “thus the sheriff collected no interest, or costs of execution.” He does not say what amount of interest is unpaid or for what period the interest accrued in addition to that considered by the trial court when it calculated the balance due was $11.30. However, plaintiff disclosed what might have been the basis of his appeal by his statement that in mating its order with respect to the computation, the court said, “The judgment bears interest from the date the cost bill was filed.” Apparently plaintiff deems himself aggrieved because the court did not figure interest on the judgment for a period prior to July 30, 1951, the date of the filing of the cost bill. Because the remittitur from the Fourth District Court of Appeal was filed in the county clerk’s office on July 9 plaintiff evidently concludes that his judgment for costs bore interest from that day. There is neither reason nor authority to support such contention. How could the cost bill, contemplated by the remittitur, bear interest before it was filed? For 21 days the clerk’s office awaited its coming. If it had not come at all there would have been no judgment for costs. There is no provision for a retroactive action of the cost bill. Its filing contemplates a modification of the memorandum for costs. (Code Civ. Proc., § 1034.) If at the time of filing there was a doubt as to what amount would be ultimately allowed and because such amount was in doubt until the order taxing costs was entered, there was no liquidated sum on which interest could have been computed until the court retaxed the costs or finally denied the motion to tax. But inasmuch as the court computed interest from the date the cost bill was filed, it made a generous award.
+Plaintiff’s sole argument is that “a judgment for costs bears interest from the date of entry.” That is an established rule fixed by statute and decision. (Los Angeles Rock & Gravel Co. v. City of Los Angeles, 132 Cal.App. 262, 264 [22 P.2d 541].) But plaintiff has presented no authority hold’ng that the filing of a cost bill is the equivalent of an “entry” of judgment. It would be a more reasonable construe tion to say that the order entered upon the motion to tax costs or upon the lapse of five days after the filing of the cost bill without a motion’s having been filed to retax, is tantamount to the “entry of judgment” in a civil action. Execution for costs allowed by an appellate court cannot issue prior to the order taxing the amount or until “the time for taxing same has expired.” (Code Civ. Proc., § 1034.) If costs cannot be collected by judicial process prior to the expiration of 30 days after the remittitur has been filed, or until the costs have been fixed pursuant to the motion to retax (ibid.) it cannot with reason be said that there is a judgment prior to the filing of a bill for costs awarded by the appellate court.
+Order affirmed.
+Pox, J., concurred.
+McComb, J., concurred in the judgment.
+A petition for a rehearing was denied January 12, 1953.
