@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9733"
+decided: "1935-02-11"
+citations: ["4 Cal. App. 2d 483"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of L. R. LARZELERE, Deceased. THUS. W. FIRBY, Respondent, v. DOROTHY A. LARZELERE, as Executrix, etc., Appellant."]
+source_url: "https://static.case.law/cal-app-2d/4/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259773
+cites_cases: ["127 Cal. App. 347", "15 Pac. (2d) 901", "233 Pac. 995", "70 Cal. App. 552"]
+---
+
+# Firby v. Larzelere
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+This is an appeal' from an order settling the first account of the executrix of the estate of the decedent.
+Leigh R. Larzelere was formerly engaged as a commission merchant under the name of L. R. Larzelere & Co. and as such he was engaged in dealing in perishable vegetables. After his death his widow, Dorothy A. Larzelere, was appointed executrix of his last will and testament.' She duly qualified and thereafter she filed in the probate court a document purporting to be her first account. To the allowance thereof Thomas W. Firby, as assignee of one of the creditors, filed written objections. The settlement of the account and objections were referred to D. M. Coghlan as referee. He filed a report from which it appeared that there was a balance of $2,088.60 chargeable to the executrix. Later the settlement of the account came on for hearing before the court. The record discloses that oral evidence was introduced. Thereafter the trial court made an order disallowing certain items of the total sum of $1650, and making certain other changes, settled the account showing a balance due the estate from the executrix of $2,081.60. From said order the executrix has appealed.
+At this time she contends that she should have been allowed the entire sum of $1650. That contention brings up additional facts. After being appointed executrix, in so far as the record discloses, the appellant made an ex parte motion that she be authorized to continue the business theretofore conducted by L. R. Larzelere & Co., and that she be allowed $150 per month for conducting said business. On June 28, 1929, an order was made granting said application. Thereafter when she filed her first account she credited herself with $150 per month as for bookkeeping. Such charges constituted the said sum of $1650 so disallowed as stated above. In their briefs counsel go outside of the record and state certain facts. Confining our consideration to the record, it may be stated that on the hearing of the first account it transpired there were claims owing by the estate some of which had been allowed and some of which had not been allowed. It also appeared that such claims were in substantial sums and nothing had been paid thereon. There was also evidence that the executrix did not in truth and in fact act as bookkeeper and that she was wholly incapable of doing so. The evidence disclosed that during the period she conducted the business the receipts thereof were $64,068.32; that of said sum the executrix advanced $1175; that her disbursements were $62,837.22, leaving a balance of $57.10 as profit. In support of her claim that she should have been allowed the sum of $1650 she particularly relies on the purported order dated June 28, 1929. Thereupon she cites section 902 of the Probate Code. That section is the revised form of section 1581 of the Code of Civil Procedure as amended by the Statutes of 1929, page 157. But said statutes did not take effect until August 14, 1929. When the order relied on was made it was beydnd the power of the court and was void. (Estate of Ward, 127 Cal. App. 347 [15 Pac. (2d) 901].) However, it will be conceded that under some circumstances the executor or administrator may continue the business of the decedent and that certain allowances will be made to him. (Riedy v. Bidwell, 70 Cal. App. 552 [233 Pac. 995], and cases cited; 11B Cal. Jur. 270.) This rule is so because of the provisions of sections 1616 and 1618 of the Code of Civil Procedure. Among other things, the section last quoted contains this provision: “In all cases, such further allowance may be made as the court may deem just and reasonable for any extraordinary service, but the total amount of such extra allowance must not exceed one-half the amount of commissions allowed by this section. ’ ’ In applying that rule it has frequently been held that the allowance or dis-allowance is within the discretion of the trial court and that it will be allowed when the trial court deems it “just and reasonable”. While the record does not expressly recite the fact, in support of the judgment it must be presumed that in the opinion of the trial court, under all of the circumstances of this case, it was not just and reasonable to make the allowance in favor of the appellant.
+We find no error in the record. The order appealed from is affirmed.
+Nourse, P. J., and Spence, J., concurred.
