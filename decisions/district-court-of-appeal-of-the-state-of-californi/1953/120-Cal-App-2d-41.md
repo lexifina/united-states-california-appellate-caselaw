@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4736"
+decided: "1953-08-27"
+citations: ["120 Cal. App. 2d 41"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MONTEREY OIL COMPANY (a Corporation), Appellant, v. THE CITY COURT OF THE CITY OF SEAL BEACH, Respondent; STATE LANDS COMMISSION, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-2d/120/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2207951
+cites_cases: ["117 Cal.App.2d 391", "124 P.2d 25", "125 P.2d 482", "147 A.L.R. 515", "148 P.2d 724", "199 Cal. 582", "20 Cal.2d 101", "20 Cal.2d 366", "250 P. 681", "255 P.2d 883", "260 P.2d 846", "64 Cal.App.2d 925"]
+---
+
+# Monterey Oil Co. v. City Court
+
+## Majority (MUSSELL, J.)
+
+MUSSELL, J.
+This is an appeal from a judgment denying the petition of appellant Monterey Oil Company for a peremptory writ of prohibition to restrain the City Court of the City of Seal Beach (now the Justice’s Court for the Huntington Beach-Seal Beach Judicial District) from proceeding with, hearing or exercising any further jurisdiction over a certain criminal complaint in an action entitled “People of the State of California vs. Monterey Oil Company, No. 5845.”
+The issues and proceedings are substantially the same as those in the companion appeal filed in this court, bearing the same title and numbered Civil No. 4735, ante, p. 31 [260 P.2d 846] in which the opinion was this day filed. In that case city ordinance No. 230 provided that it was unlawful to construct or install any derrick, machinery or apparatus designed or intended to be used for the purpose of drilling for oil, or to drill for oil, within the territorial limits of the city of Seal Beach. We there held that the city could not, by ordinance, prohibit or regulate building operations on state-owned submerged lands leased to appellant since the state, by general law, was given exclusive jurisdiction over the said lands and drilling operations; that the state law covered the entire field and that there was no room for municipal regulation; that the regulations set forth in the ordinance were in conflict with the state law and that the ordinance was unreasonable and arbitrary as sought to be applied.
+In the instant case the ordinance under attack is city ordinance No. 354 and is a building ordinance which purports to prohibit and make unlawful the erection of any building or structure in the city of Seal Beach without first obtaining a separate building permit for each such building or structure from the building official of the city of Seal Beach.
+The criminal complaint, filed September 4, 1952, charged appellant with erecting or constructing a building or structure contrary to the terms of the ordinance and apparently it is conceded that the building or structure involved was a temporary island or fill at a point approximately 1% miles seaward from the shoreline of Seal Beach, which island was being constructed by appellant in accordance with the terms of a lease from the State Lands Commission. The statutory authority for the issuance of the lease, the legislative history of the state laws applicable thereto, the proceedings had in the city and superior courts and the facts relating to the issuance of the complaint herein, as well as those relating to the complaint issued for violation of ordinance No. 230 of said city, are set forth in our prior opinion, Civil No. 4735.
+The statement is made in respondent’s reply brief that no application to the city of Seal Beach was ever made by the appellant for the permit required by section 301 of ordinance No. 354. This assertion is answered in appellant’s brief, stating that on September 23, 1952, appellant did make application for such permit, reserving in said application its contention that no permit was required and that ordinance No. 354 did not and could not properly relate to structures over submerged lands; that said permit was denied by the Seal Beach building superintendent on the ground that the proposed structure was a part of the apparatus and equipment designed and intended to be used for the drilling of oil, gas and other hydrocarbon substances in violation of ordinance No. 230 of the city of Seal Beach.
+It is apparent that the ordinance here involved is sought to be applied to prevent drilling operations by appellant on submerged lands owned by the state and under its exclusive jurisdiction and control.
+Section 6301 of the Public Resources Code provides in part that:
+“The commission has exclusive jurisdiction over all ungranted tidelands and submerged lands. . . . The commission shall exclusively administer and control all such lands, and may lease or otherwise dispose of such lands as provided by law. . . .”
+Section 6216 of said code, added in 1941, sets forth the powers and duties of the State Lands Commission. By it the State Lands Commission is vested with full authority to lease submerged state lands and to provide for the extraction of oil and gas therefrom. It is also provided therein:
+“(b) (Controlling effect of section 6301) The provisions of Section 48 of the State Lands Act of 1938, added thereto by Chapter 646 of the Statutes of 1939, as codified in Section 6301 of this code, shall hereafter supersede and control over any other provisions of law, whether general or special, relating to any tidelands or submerged lands or the beds of navigable rivers, streams, lakes, bays, estuaries, inlets or straits, without regard to whether any of such lands contain or may contain oil, gas or other minerals, and any such other provisions of law in conflict therewith are repealed.”
+Ordinance No. 354 conflicts with the state law if it is construed to apply to the structures or buildings on exclusively owned and controlled state submerged lands and is, therefore, unenforceable as against appellant under the circumstances shown by the record. (People v. Commons, 64 Cal.App.2d 925 [148 P.2d 724] ; In re Iverson, 199 Cal. 582, 587 [250 P. 681] ; Markus v. Justice’s Court, 117 Cal.App.2d 391, 396 [255 P.2d 883].) If construed as contended by respondent, the ordinance also conflicts with the state law in that it invades a field already fully occupied by state legislation. (Pipoly v. Benson, 20 Cal.2d 366, 371 [125 P.2d 482, 147 A.L.R. 515] ; Natural Milk Producers Assn. v. City & County of San Francisco, 20 Cal.2d 101, 109 [124 P.2d 25].)
+It follows that the trial court erred in holding that the appellant’s petition did not state facts sufficient to warrant the relief demanded and in denying a peremptory writ of prohibition.
+We are here deciding only that the ordinance involved- is void and unenforceable as to the state-owned submerged lands involved and we do not pass upon the validity of said ordinance as applied to state-owned lands in upland areas of the city of Seal Beach over which the state does not have exclusive control.
+Judgment reversed.
+Barnard, P. J., concurred.
+A petition for a rehearing was denied September 23, 1953, and respondent’s petition for a hearing by the Supreme Court was denied October 22, 1953. Carter, J., was of the opinion that the petition should be granted.
