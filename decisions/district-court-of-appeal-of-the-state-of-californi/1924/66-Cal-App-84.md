@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2753"
+decided: "1924-03-04"
+citations: ["66 Cal. App. 84"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK W. HUCK, Appellant, v. CHARLES RATHJEN, Respondent."]
+source_url: "https://static.case.law/cal-app/66/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2147473
+cites_cases: ["114 Pac. 566", "116 Pac. 1101", "159 Cal. 441", "160 Cal. 349", "190 Cal. 593", "213 Pac. 983", "9 Idaho, 193"]
+---
+
+# Huck v. Rathjen
+
+## Majority (FINCH, P. J.)
+
+FINCH, P. J.
+This is an election contest instituted under the provisions of section 1111 of the Code of Civil Procedure to determine whether the plaintiff or the defendant was elected to the office of director of an irrigation district organized under the provisions of the California Irrigation District Act. (Stats. 1897, p. 254, and amendments thereto.) The defendant’s demurrer to the complaint was sustained without leave to amend and judgment was entered in favor of defendant for costs. Plaintiff has appealed from the judgment.
+The parties are agreed that the only question raised by the appeal is whether a contest of the right of a person declared elected to the office of director of an irrigation district is authorized by section 1111. That section provides: “Any elector of a county, city and county, city, or of any - political subdivision of either, may contest the right of any person declared elected to an office to be exercised therein.” The question is whether an irrigation district is a “political subdivision” of a county. Appellant relies on the case of Hertle v. Ball, 9 Idaho, 193 [72 Pac. 953], which held that such a contest would lie. The Idaho statute provided that “the election of any person to any public office, the location or relocation of a county seat, or any proposition submitted to a vote of the people may be contested.” This language is much more comprehensive than that of section 1111. In considering the provisions of the California Water Storage District Act (Stats. 1921, p. 1727) in Tarpey v. McClure, 190 Cal. 593 [213 Pac. 983, 989], it is said: “The act does not violate section 24 of article I or section 1 of article II, ;,in that it denies to any but land owners the right to vote ”at district elections. . . , ‘By this and like provisions, the legislature is not dealing with elections, with suffrage, or with the ballot, within the meaning of the constitution and the election laws of the state. The formation of this and similar districts is a function pertaining purely to the legislative branch of the government. . . . Wherefore, it may do so by giving such persons as it may think best an opportunity to be heard. ’ (Potter v. Santa Barbara, 160 Cal. 349, 355 [116 Pac. 1101, 1103].) The decisions of the Idaho court to the contrary, based upon the view that these districts are political subdivisions of the state, are out of harmony with the decisions of this state.” Appellant cites the Tarpey case and argues that because not a political subdivision of the state “an irrigation district' must be.and is a political subdivision of a county.” It is clear from the context, however, that what was meant by the language used is that an irrigation district is not a political subdivision at all.
+Section 23 of the California Irrigation District Act provides that precinct election officers shall count the votes cast and execute certificates showing the result thereof, in a manner similar to that provided by the general election laws of the state, and deliver the returns, including the ballots, to the secretary of the board of directors; “and if any person be of the opinion that the vote of any precinct has not been correctly counted, he may appear on the day appointed for the board of directors to open and canvass the returns, and demand a recount of the vote of the precinct that is so claimed to have been incorrectly counted.” The complaint alleges that at the time of canvassing the returns the “board of directors counted the ballots cast at said election.” Respondent contends that, even if it be conceded that section 1111 authorizes a contest in a case of the character here involved, the superior court under that section and the board of directors under section 23 of the irrigation act would have concurrent jurisdiction and that, since the board of directors has exercised jurisdiction by recounting the ballots and declaring the result, such determination is a bar to plaintiff’s contest herein. In support of his contention respondent cites McGregor v. Board of Trustees, 159 Cal. 441 [114 Pac. 566], Such contention need not be considered, however, because it clearly appears that an irrigation district is not a political subdivision of a comity and that a contest of the right of a person declared elected to the office of director thereof is not authorized by the provisions of section 1111.
+The judgment is affirmed.
+Plummer, J., and Hart, J., concurred.
