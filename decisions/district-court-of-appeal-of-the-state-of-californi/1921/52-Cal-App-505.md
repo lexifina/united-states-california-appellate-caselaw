@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3500"
+decided: "1921-05-04"
+citations: ["52 Cal. App. 505"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. M. JANSON, Respondent, v. JAMES BRYANT, Appellant."]
+source_url: "https://static.case.law/cal-app/52/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2075315
+cites_cases: ["100 Cal. 484", "139 Cal. 488", "35 Pac. 144", "73 Pac. 238"]
+---
+
+# Janson v. Bryant
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+In this case the judgment was in favor of the plaintiff and against the defendant Bryant, and was given upon a motion based upon the insufficiency of the answer interposed by said defendant. By the complaint it was sought to charge the defendant and his codefendant, as copartners, for the reasonable value of merchandise alleged to have been sold and delivered to them. The complaint was verified. The appellant first answered with an unverified answer, making a general denial. He later filed an amended answer which was verified. In this answer the only attempt at denial of any issue presented by the complaint was one upon information and belief as to the alleged copartnership relation existing between appellant and his codefendant Abbott. Upon the filing of this answer plaintiff gave notice of a motion for judgment on the pleadings. Several days later appellant gave notice to the plaintiff that he would apply to the court for leave •to amend his answer. The latter motion was noticed for a day subsequent to the day set for the hearing on the motion for judgment on the pleadings. The motion last referred to came on for hearing and was by the court granted. The motion for leave to amend the answer was later heard and in support of it was presented an alleged affidavit of merits. Coming as it did after the granting of the motion for judgment on the pleadings, the notice of motion to amend the answer amounted to an application for relief under the provisions of section 473 of the Code of Civil Procedure. The affidavit of merits was wholly insufficient to authorize the court to grant the relief. This affidavit was made by the attorney for appellant and he nowhere stated therein that the facts of the case had been stated to him by the appellant, but contented himself with the statement only “that defendant, James Bryant, has a good and just defense to plaintiff’s complaint and cause of action.” But had there been an affidavit of merits sufficient in form, still the amended answer offered to be made would not have been sufficient to raise an issue. By this amended answer appellant offered only to deny on “information and belief’’ that the merchandise mentioned in the complaint had been sold as alleged. This amendment would have been insufficient for precisely the same reason as justified the court in granting the motion for judgment on the pleadings. All of the matters sought to be so denied were matters which presumably were within the personal knowledge of the appellant and in that case an answer upon information and belief will not do. “It has been decided that an allegation of a verified complaint could not be controverted on information and belief where the alleged fact was presumably within the knowledge of the defendant, nor when the defendant had the means of ascertaining whether or not it was true.’’ (Mulcahy v. Buckley, 100 Cal. 484, [35 Pac. 144].) “Whether or not the plaintiff had sold and delivered to defendant, at the latter’s special instance and request, the property mentioned in the complaint was a matter presumably within the knowledge of defendant, and under the authorities the denial, for want of knowledge or belief on the subject, was insufficient.’’ (Raphael Weill & Co. v. Crittenden, 139 Cal. 488, [73 Pac. 238].)
+Appellant also complains that the court should have, on his motion, stricken from the judgment the amount of $30.90 costs. He states in his argument that no memorandum of costs was served upon him. Counsel for respondent asserts that a memorandum of costs was served. In the record presented (and it appears to contain everything that counsel for appellant required to be made up and inserted therein) it does not appear that a cost bill was actually filed, nor whether any ruling was ever made upon the motion of said defendant to have the costs stricken out or the judgment modified in the respect referred to. In such a state of the record we must apply the presumption favoring the regularity of the judgment and assume that all things were done as were required to be done to give the court authority to include the amount of the costs in favor of the plaintiff as the judgment shows them to be.
+The judgment is affirmed.
+Conrey, P. J., and Shaw, J., concurred.
