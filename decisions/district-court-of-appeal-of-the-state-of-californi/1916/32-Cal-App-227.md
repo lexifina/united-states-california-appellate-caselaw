@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2192"
+decided: "1916-11-28"
+citations: ["32 Cal. App. 227"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES H. BROWNELL, as Administrator, etc., Petitioner, v. SUPERIOR COURT OF SAN BERNARDINO COUNTY et al., Respondents."]
+source_url: "https://static.case.law/cal-app/32/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2022471
+cites_cases: ["147 Pac. 479", "151 Cal. 558", "26 Cal. App. 491", "91 Pac. 321"]
+---
+
+# Brownell v. Superior Court
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+Certiorari. The petitioner was plaintiff in an action against Bendigo Mines Company, a corporation, in the justice’s court of San Bernardino Township, county of San Bernardino. After judgment in that court in favor of the plaintiff, the defendant gave notice of appeal to the superior court of that county. On the same day that defendant filed in the said justice’s court an undertaking entitled the same as the title of the action from which the appeal was taken, but which did not describe any judgment of that justice’s court or refer to any appeal to the superior court of San Bernardino' County. The references to a judgment were as follows: “Whereas, in an action in the justice’s court of Los Angeles township, county of Los Angeles, and state of California, judgment was, on the 27th day of June, 1916, given and entered in said justice court, in favor of Charles H. Brownell, Administrator of Hanson A. B. Brownell, deceased, and against Bendigo Mines Company, . . . ; and, whereas the said Bendigo Mines Company is dissatisfied with said judgment and desirous of appealing therefrom to the Superior Court of the county of Los Angeles: Now, therefore,” etc. All further references are to the “said appeal,” and to the “said judgment,” and to the “said Superior Court.”
+After the papers filed in the justice’s court had been transmitted to the superior court of San Bernardino County, the plaintiff moved for a dismissal of the appeal upon the ground that no undertaking had been filed, or money deposited in lieu thereof at any time after the filing of the notice of .appeal from the judgment, and that the superior court was without jurisdiction over the action. When said motion was presented, the superior court permitted the defendant to withdraw said undertaking from the files and have it amended by substituting for the words “Los Angeles Township,” the words “San Bernardino Township”; and for “County of Los Angeles” the words “County of San Bernardino ’ ’; and for the words ‘ ‘ Superior Court of the county of Los Angeles,” the words “Superior Court of the county of San Bernardino”; all of which was done upon the original document, with memoranda placed in the margin signifying consent to such amendments by the surety company through its authorized officers. This having been done, the motion to dismiss the appeal was denied, and the respondent superior court intends to proceed to trial and judgment in the action. Section 954 of the Code of Civil Procedure provides for the substitution of a new undertaking on appeal where the undertaking first filed was insufficient. That section apparently refers only to appeals to the supreme court or district courts of appeal, and our attention has not been directed to any provision which would make it applicable to appeals from justices’ courts. But it has been held that in such cases it is an authorized practice for the superior court to allow the amendment of an undertaking on appeal on account of the insufficiency thereof in like instances where such relief would be granted on an appeal to the supreme court. (Cohen v. Connick, 26 Cal. App. 491, [147 Pac. 479].)
+The case now before us, however, is not one wherein such relief may be granted. The use of the phrase, “insufficiency of the undertaking, ’ ’ indicates a distinction between an undertaking which does not fully comply with the requirements of the statute and the entire absence of an undertaking. Where the undertaking is so defective as not to constitute any obligation upon the sureties therein, it is in reality no undertaking at all. Several times it has been decided by the supreme court that the recitals in an undertaking on appeal must identify the appeal which it is intended to support, and that if they fail to do so, the error is incurable. (Little v. Thatcher, 151 Cal. 558, [91 Pac. 321], and cases there mentioned.) Such is the case at bar. The undertaking wholly fails to identify the appeal which it may have been intended to support. Therefore, the superior court could not authorize the amendment, and is wholly without jurisdiction in the case.
+The orders of the superior court granting leave to amend said undertaking and denying petitioner’s motion for dismissal of the appeal are annulled.
+James, J., and Shaw, J., concurred.
