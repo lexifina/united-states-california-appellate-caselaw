@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9505"
+decided: "1935-01-28"
+citations: ["4 Cal. App. 2d 202"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MONS EVANS, Appellant, v. M. JAS. McGRANAGHAN, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/4/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259901
+cites_cases: ["10 Pac. (2d) 204", "105 Cal. 636", "117 Pac. 451", "160 Cal. 410", "208 Cal. 256", "280 Pac. 970", "38 Pac. 1110"]
+---
+
+# Evans v. McGranaghan
+
+## Majority (THE COURT.)
+
+THE COURT.
+Respondent is a licensed chiropractor under section 7 of the Chiropractic Act, Statutes of 1923, lxxxviii. Respondent and appellant entered into a contract in writing whereby respondent agreed to treat appellant for a period of one year. The contract contained the following provision: “The said services shall include chiropractic adjustment, and all mechanical, hygienic and sanitary measures incident to the care of the body deemed necessary by the party of the second part (respondent), and such mechanical, hygienic and sanitary measures shall include diet, concussion, traction, enemas, diathermy, sinusoidal, galvanic, Sun-lite, cold quartz, massage, baths, hot and cold packs, manipulation, massage, X-ray, Laboratory tests, and such other like measures, provided that such measures or modes of treatment are within the scope of the practice under the provisions of the Chiropractic Act of California. ...”
+Appellant filed a complaint alleging that respondent refused to give him any treatments under the contract except chiropractic adjustments, on the ground that the mechanical, hygienic and sanitary measures enumerated in the contract were not within the legal scope of his license under the Chiropractic Act, and prayed for a declaration of his rights under the contract pursuant to Code of Civil Procedure section 1060. Respondent, answering, admitted the contract and his refusal to perform beyond giving appellant chiropractic adjustments, and justified his refusal on the ground of a conflict as to the scope of his license and the danger of criminal prosecution and civil liability for negligence if he practiced any measure outside the scope of his license. The trial court gave judgment for defendant, from which this appeal is taken.
+The decision of the court recites that the case was submitted to the court without evidence being introduced.
+Section 7 of the Chiropractic Act authorizes the issuance of a license which “shall authorize the holder thereof to practice chiropractic in the State of California as taught in chiropractic schools or colleges; and, also, to use all necessary mechanical, and hygienic and sanitary measures incident to the care of the body, but shall not authorize the practice of medicine, surgery, osteopathy, dentistry or optometry, nor the use of any drug or medicine now or hereafter included in materia medica”.
+As we construe section 7 of the Chiropractic Act it authorizes the license holder to practice chiropractic as taught in chiropractic schools or colleges, regardless of whether such practice would have been construed as the practice of medicine, surgery, osteopathy, dentistry or optometry prior to the enactment of the Chiropractic Act. It contains no definition of “chiropractic as taught in chiropractic schools or colleges” and hence in the absence of evidence on that subject it is impossible of precise construction. The act further, in our judgment, authorizes the license holder to use all necessary mechanical and hygienic and sanitary measures incident to the care of the body which are included in chiropractic as taught in chiropractic schools or colleges, if any there be (a subject upon which in the absence of evidence as to what is included in chiropractic as so taught we cannot reach any conclusion), together with any other such necessary mechanical, hygienic and sanitary measures the use of which would not constitute the practice of medicine, surgery, osteopathy, dentistry or optometry, nor involve the use of any drug or medicine now or hereafter included in materia medica.
+While it is undoubtedly the rule “that there can be no intent in a statute not expressed in its words, and there can be no intent upon the part of the framers of such a statute which does not find expression in their words” (Ex parte Goodrich, 160 Cal. 410, 416, 417 [117 Pac. 451, Ann. Cas. 1913A, 56]), that rule is in no way violated by our holding in this case that in order to determine the scope of the words “chiropractic as taught in chiropractic schools or colleges” resort must be had to extrinsic evidence. The intent of the statute is clear upon its face: That the license shall authorize the holder to practice chiropractic as taught in chiropractic schools or colleges. But the court has no way of determining the scope of chiropractic as taught in such schools and colleges in the absence of evidence on that subject, and hence a resort to such evidence would be proper. (People v. Borda, 105 Cal. 636, 639, 640 [38 Pac. 1110]; 59 C. J., p. 1037.) This ruling comports with the holding of the appellate department of the Superior Court of Los Angeles County in People v. Schuster, 122 Cal. App. (Supp.) 790, 794, 795 [10 Pac. (2d) 204].)
+Plaintiff was seeking a construction of the contract which depended upon the determination of the scope of practice allowed to defendant under his license, and since the determination of such scope of practice depended upon evidence, it was incumbent upon plaintiff to produce it.
+The petition to take testimony in this court is denied. We will not take testimony for the purpose of reversing a judgment. (Tupman v. Haberkern, 208 Cal. 256 [280 Pac. 970].)
+The judgment is affirmed.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on February 25, 1935.
