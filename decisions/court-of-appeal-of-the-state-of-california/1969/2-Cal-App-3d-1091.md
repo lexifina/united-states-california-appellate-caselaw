@@ -1,0 +1,65 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 9379"
+decided: "1969-12-23"
+citations: ["2 Cal. App. 3d 1091"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PERRIETTA HESTER, Plaintiff and Respondent, v. HENRY HESTER, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/2/cases/1091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6037211
+cites_cases: ["103 Cal.App. 79", "169 Cal.App.2d 748", "185 Cal.App.2d 400", "190 Cal. 741", "194 P.2d 592", "214 P. 444", "222 Cal.App.2d 217", "257 Cal.App.2d 821", "283 P. 956", "309 P.2d 441", "337 P.2d 896", "35 Cal.Rptr. 111", "48 Cal.2d 259", "65 Cal.Rptr. 269", "8 Cal.Rptr. 323", "86 Cal.App.2d 324"]
+---
+
+# Hester v. Hester
+
+## Majority (WHELAN, J.)
+
+Opinion
+WHELAN, J.
+Henry Hester, defendant, appeals from an order of March 18, 1968, which continued in effect a permanent alimony provision of $700 per month in the interlocutory decree of divorce.
+The interlocutory judgment of divorce of January 6, 1967, based upon an oral stipulation of the parties, provided in part: “It Is Further Ordered, Adjudged and Decreed that defendant shall pay to plaintiff as and for her support and maintenance the sum of $700.00 per month commencing on the 14th day of December 14 [szc], 1966, and continuing at equal monthly periods to and including July 14, 1967. Commencing on the 14th day of August, 1967, defendant’s obligation for alimony to the plaintiff shall be reduced to $1.00 per year.
+“The Court specifically reserves jurisdiction to alter, modify or terminate said support payments upon proper showing first having been made to the Court herein.”
+Defendant was ordered to pay additionally $125 per month for support of each of three children of the 20-year marriage, then aged 15, 13 and 12 years, of whom the two younger were girls.
+Plaintiff received the use of a home, encumbrances on which at $250 per month were to be paid by her. Should she remarry or desire to sell, the house should be sold and the proceeds be divided equally between the parties.
+The final judgment of divorce of May 18, 1967, confirmed the provisions of the interlocutory judgment.
+On July 24, 1967, plaintiff sought modification of the interlocutory judgment to increase the alimony from $700 per month to $1,000 per month. In support of her request she declared that she had been unable to obtain gainful employment since the original alimony order of the court, and that her obtaining such employment would work a severe inconvenience on her supervision of the minor children of the parties; that her husband’s personal architectural^ practice had prospered to the extent that he would be well able to pay the sum of $1,000 per month for her support and maintenance. In opposition, defendant declared that since the entry of the interlocutory judgment of divorce his architectural practice had deteriorated and his wife’s circumstances had not changed to her detriment.
+The matter was heard by Judge Schwartz on September 12, 1967. His order, dated October 3, 1967, provided: “It Is Hereby Ordered that defendant pay to plaintiff the sum of $700.00 per month as and for her support and maintenance. That the first $700.00 payment shall be made by defendant to plaintiff as of the 15th day of September, 1967 and said payments shall continue at equal monthly periods for six (6) months, after which defendant shall pay to plaintiff the sum of $1.00 per year as and for her support and maintenance.
+“It Is Further Ordered that this matter is continued to March 1, 1968 at 2:00 p.m. in the Divorce Law and Motion Court at which time the plaintiff may make a showing of further need and shall further make an appropriate showing of her attempts to obtain gainful employment during said six month period and the results thereof.”
+On March 1, 1968, the matter was heard by Judge Hewicker. The court, after hearing the arguments of the parties, made the order of March 18, 1968, from which this appeal is taken. It ordered: “. . . that the defendant pay to plaintiff the sum of $700.00 per month as and for her support and maintenance. That the first $700.00 payment shall be made by defendant to plaintiff as of the 15th day of March, 1968, and said payments shall continue at equal monthly periods until further order of the Court herein.”
+Contentions on Appeal
+Defendant contends the trial court lacked authority to modify its prior alimony order absent substantial evidence showing that the circumstances of the parties had changed materially since rendition of that order.
+The general rule is: “[I]n any later modification proceeding, the evidence must show a material change of circumstances subsequent to the last prior order.” [Italics added.] (Engelberg v. Engelberg, 257 Cal.App.2d 821, 824 [65 Cal.Rptr. 269}.)
+In Marxer v. Marxer, 185 Cal.App.2d 400, 403 [8 Cal.Rptr. 323], the appellate court stated: “Where decisions have been made on motions for modification subsequent to the original award, the most recent decision is conclusive as to the circumstances existing when it was made, and on a new motion for modification the question whether there has been a substantial change in the needs of the parties and their abilities to meet them is determined with respect to facts arising during the period commencing with the date of the most recent order and not with respect to the time since the original decree was entered, [citations]”
+Without such evidence of a significant change, it is reversible error to grant a modification. (Molema v. Molema, 103 Cal.App. 79 [283 P. 956].)
+Defendant further contends that the moving party has the burden of showing such material change in circumstances occurring after a prior order. (Marxer v. Marxer, supra, 185 Cal.App.2d 400, 404; Grenall v. Grenall, 169 Cal.App.2d 748, 752 [337 P.2d 896].)
+Defendant argues that plaintiff neither produced evidence showing “further need” nor did she “further make an appropriate showing of her attempts to obtain gainful employment during said six month period and the results thereof.”
+The position of defendant logically must be that at the time the interlocutory judgment was made the trial court weighed the circumstances of the parties and with wise prescience determined that at the expiration of eight months plaintiff would be earning enough to make the payments on the house, support herself and pay for whatever help she needed to care for her children while she might be away.
+But in fact the order was based upon a stipulation. That stipulation, however, did not affect the court’s jurisdiction to modify the decree under the statute in accordance with the meaning of the decree.
+The provision for one dollar per year at the end of eight months is no more than a provision that the order shall be subject to review at the end of that period.
+That such is the purpose of such a provision is most apparent in those cases in which the only award in the interlocutory decree is of one dollar per month or per year. No one would consider that in a case of that sort the trial judge could foresee at what future time the need for substantial alimony would arise.
+It was not intended by the interlocutory decree to terminate support at the end of that period, or to say continued support would then become unnecessary, but to say that the court retained jurisdiction to modify the order in accordance with circumstances existing at the end of the eight-month period.
+Judges are not ex officio endowed with prevision. Such a provision as being based ujDon circumstances existing at the time of the interlocutory decree could only be based upon the expectations of one or both parties.
+When an award of alimony is made, not upon evidence as to the condition of the parties but upon stipulation, and when one of the circumstances in fixing the amount has been the expectation of one of the parties that there will be a future change in his or her income from outside sources, and no such change has occurred, the failure of such expectation may itself be considered a change in the circumstances existing at the time of the making of the award. (Bratnober v. Bratnober, 48 Cal.2d 259, 263 [309 P.2d 441].)
+If it were necessary for the wife to show a change of circumstances to have the $1 allowance increased to the amount earlier provided for, that failure of expectations constituted such change.
+We are .of opinion, however, that the $1 provision was no more than a device for the retention of jurisdiction to review the award in the light of circumstances existing at the end of eight months and thereafter; if there were then no change of circumstances justifying an increase or reduction, the court could and properly might continue the alimony in the original amount.
+Plaintiffs Lack of New Evidence at the March 1968 Hearing
+Plaintiff at the continued hearing on March 1, 1968, presented no affidavit or declaration to supplement that in support of her motion for an increased allowance filed in July 1967.
+Defendant presented a declaration designated as supplemental in which he described his claimed financial position, a picture hardly more dire than that shown in his original declaration made in August 1967. The declaration presented no new facts concerning plaintiff’s situation.
+It is claimed by defendant that plaintiff’s failure to present additional evidence deprived the court of the right to continue her allowance.
+There is no question as to the amount of the plaintiff’s needs.
+“[A] decree awarding alimony is conclusive as to the circumstances existing when it was entered (citation), and those ‘circumstances’ include practically everything which has a legitimate bearing on present and prospective matters relating to the lives of both parties, referring to their needs and their abilities to meet them.” (Marxer v. Marxer, 185 Cal.App.2d 400, 403 [8 Cal.Rptr. 323].)
+There was no change in the plaintiff’s circumstances by way of increased income or lessening of expenses as in the opinion of Judge Hewicker called for a reduction, and we cannot say as a matter of law that there should have been a reduction. “[T]he trial court is without authority to make an order reducing the amount of alimony awarded in an interlocutory decree of divorce in the absence of a showing that there has been a change in conditions subsequent to the entry of the interlocutory decree. (Ralphs v. Ralphs, 86 Cal.App.2d 324 [194 P.2d 592].)” (Friedman v. Friedman, 222 Cal.App.2d 217 [35 Cal.Rptr. 111].)
+It was the lack of evidence to show a change in plaintiff’s circumstances, other than the failure of expectations to obtain adequate income from employment, that made it proper to continue the allowance originally made.
+What has been said of the interlocutory decree as a binding prediction of plaintiff’s future circumstances applies to the provisions of the order of September 12, 1967.
+When that order was made, plaintiff had engaged in some part-time work as a substitute teacher, her first outside employment since the first few years of the marriage when defendant was preparing himself for practice as an architect. There had been no change in that situation when the March 1968 order was made.
+There is a certain anomaly in an order that provides that the recipient of an allowance for support must show at a certain future date a change of circumstances that would justify the practical elimination of such support.
+If such was the purport of the order made by Judge Schwartz, we are of opinion that his views as to the conditions that would justify the future continuance of support were not binding upon Judge Hewicker; but in fact the order of Judge Schwartz did not attempt to define the conditions upon which support should be either continued or terminated at the March 1 hearing.
+The verbal expressions of the various mental processes that led the two judges to make the orders they made, in the absence of any ambiguity in either order, are hardly relevant. (DeCou v. Howell, 190 Cal. 741, 751 [214 P. 444].)
+Defendant claims that plaintiff failed to carry the burden imposed upon her by Code of Civil Procedure, section 1008: “When an application for an order has been made to a judge, or to the court, and refused in whole or in part, or granted conditionally, or on terms, and subsequent application for the same order, upon an alleged different state of facts, shall be made, it shall be shown by affidavit what application was before made, when and to What judge, what order or decision was made thereon and what new facts are claimed to be shown.”
+Code of Civil Procedure, section 1008, has no application to the hearing on March 1, which was a continued hearing.
+The order appealed from is affirmed.
+Brown (Gerald), P. J., and Coughlin, J., concurred.
+A petition for a rehearing was denied January 9, 1970, and appellant’s petition for a hearing by the Supreme Court was denied February 18, 1970.
