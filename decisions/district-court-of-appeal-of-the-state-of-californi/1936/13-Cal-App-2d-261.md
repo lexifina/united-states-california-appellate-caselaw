@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10178"
+decided: "1936-04-16"
+citations: ["13 Cal. App. 2d 261"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. M. ADAMO, Plaintiff and Appellant, v. S. J. NICHOLAS, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/13/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263466
+cites_cases: ["195 Cal. 354", "233 Pac. 330", "252 Pac. 1071", "80 Cal. App. 752"]
+---
+
+# Adamo v. Nicholas
+
+## Majority (GOULD, J., pro tem.)
+
+GOULD, J., pro tem.
+Plaintiff and defendant were engaged in a merchandising copartnership. An attempt was made to settle certain differences by a formal arbitration, which was unsuccessful but which resulted in an agreement between the partners for the termination of their partnership, the adoption of certain findings of the arbitrators, the equal division of cash and the allotment of merchandise in equal shares by a new committee of arbitration. It was also provided that, in satisfaction of the balance due him upon a promissory note, plaintiff might select merchandise to the value of $2,500 from defendant’s allotment; but defendant, it is charged, removed and secreted the more valuable items from his merchandise allotment before plaintiff could make such selection therefrom.
+Plaintiff then instituted this suit for a breach of the agreement, for damages and for an accounting. Defendant countered with a cross-complaint, alleging that plaintiff had without defendant’s knowledge kept a separate bank account and secret books of account and that the figures exhibited to the arbitrators and which formed the basis of the settlement agreement did not truly reflect the actual business and accounts of the partnership, and asking for an accounting and money judgment for any balance found due him. Upon trial judgment was entered for plaintiff in the sum of $4,345 upon his complaint, and for defendant upon the cross-complaint to the extent that recovery was allowed to each party respectively for his share of commissions deposited in the separate bank account. The residue of partnership funds was divided equally between plaintiff and defendant. Two appeals are prosecuted, one by defendant from that part of the judgment based upon the complaint, and the other by plaintiff from that part of the judgment based upon the cross-complaint.
+The pleadings are long and involved, the testimony was in sharp conflict upon almost every point and the matter is presented upon appeal, at least as to appellant Nicholas, in a highly unsatisfactory manner. As to him, not enough of the record is printed to enable this court to determine the various points presented for review • and where, as here, the sufficiency of the evidence is in question it is incumbent upon appellant to print not only the evidence favorable to himself but the evidence upon both sides relating to the findings in question. It is manifest in the case at bar that appellant Nicholas has completely ignored the major part of the testimony offered at the trial, and failure to place the evidence adequately before this court is of itself sufficient to warrant an affirmance of the judgment from which he appeals. (Marsh v. Marsh, 80 Cal. App. 752 [252 Pac. 1071]; Estate of Berry, 195 Cal. 354 [233 Pac. 330].)
+We have, however, examined the transcript with care and are satisfied that ample and substantial evidence was before the trial court to sustain the findings and portion of the judgment of which appellant Nicholas complains. The case upon the complaint at most presents a conflict of evidence, resolved by the trial court in favor of respondent Adamo, and it is not our province to interfere with its decision.
+Appellant Adamo’s objection to the judgment in so far as it relates to the cross-complaint is based upon the contention that the judgment is not supported by the findings. The cross-complaint is replete with charges of fraud; the court found in effect that there was no fraud and yet entered a judgment thereon for a division of the commissions disclosed by the “secret”' books. Appellant Adamo takes too narrow and technical a view of the court’s action. As we view the matter, a case-was presented to the trial court where two warring partners, unsuccessful in settling their own disputes and unable to comply with the terms fixed by two successive arbitration committees, came into the judicial forum upon involved pleadings—complaint, cross-complaint and answers thereto—with charges and counter charges of bad faith and fraud. The court properly, we believe, seized the opportunity to settle all matters of dispute, and ignoring perhaps some of the technical distinctions for which the parties now contend, proceeded to. treat the case as a partnership accounting, with the added element of damages for certain breaches of contract on the part of the partner Nicholas. In both the complaint and cross-complaint the partners specifically asked for an accounting. The cross-complaint is designated as “cross-complaint for accounting”, etc., and the prayer of the complaint demands “that defendant be required to render an accounting”. Upon this reasonable theory of the litigation and the issues before it, we find ho error in that portion of the judgment based upon the cross-complaint.
+Judgment affirmed, each party to bear his costs of appeal.
+Wood, J., and Grail, P. J., concurred.
