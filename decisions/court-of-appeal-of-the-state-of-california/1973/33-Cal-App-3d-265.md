@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 12140"
+decided: "1973-02-08"
+citations: ["33 Cal. App. 3d 265"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LORIN OSWALD COOK, SR., Plaintiff and Appellant, v. DEPARTMENT OF MOTOR VEHICLES, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/33/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4446484
+cites_cases: ["101 Cal.Rptr. 227", "24 Cal.App.3d 492", "3 Cal.3d 335", "475 P.2d 858", "90 Cal.Rptr. 586"]
+---
+
+# Cook v. Department of Motor Vehicles
+
+## Majority (THE COURT.)
+
+Opinion
+THE COURT.
+Pursuant to Vehicle Code, section 15023, subdivision (a) (2), the Department of Motor Vehicles received notification that defendant had been convicted of driving while intoxicated on October 14, 1969, in the State of Arizona, and also was convicted of driving while intoxicated on January 11, 1971, in the State of Florida. Pursuant to Vehicle Code, section 13352, subdivision (c), on August 17, 1971, defendant’s driving privilege was suspended by the State of California for a one-year period commencing January 11, 1971.
+Defendant filed a petition for writ of mandate in the superior court to compel the Department of Motor Vehicles to annul its order of August 17, 1971. The petition alleged that the Department of Motor Vehicles in making its order of suspension exceeded its jurisdiction in that both out-of-state convictions were constitutionally invalid.
+The Department of Motor Vehicles brought a motion to dismiss the action. The court dismissed the writ of mandate pursuant to said motion and discharged the alemative writ of mandate because it was then moot. The dismissal was granted pursuant to Thomas v. Department of Motor Vehicles, 3 Cal.3d 335 [90 Cal.Rptr. 586, 475 P.2d 858].
+The facts of Thomas are virtually identical with those herein except that the two prior convictions were in California. In Thomas the trial court determined the convictions were invalid and granted the petition. The Supreme Court reversed.
+Thomas held that upon receipt of abstracts of judgments showing two drunk driving convictions within a seven-year period, the department pursuant to Vehicle Code, section 13352, subdivision (c) is required to suspend the driving privilege and it is not a part of the department’s duty to pass on the validity of the judgments. It further held that mandate does not lie against the department for the purpose of determining the validity of prior convictions as that agency is not empowered to make such a judicial determination. (Thomas v. Department of Motor Vehicles, supra, 3 Cal.3d 335, 338; Fitch v. Justice Court, 24 Cal.App.3d 492, 495 [101 Cal.Rptr. 227].)
+Thomas observed that petitioner could have sought to have the rendering court set the conviction aside at any time upon the grounds that it was constitutionally invalid. In the alternative, petitioner could have petitioned the superior court for mandate- against the rendering court and could have challenged the first judgment in the second proceeding.
+Where the convictions are in California courts, the petitioner must first move to vacate the alleged unconstitutional judgment in the court which rendered that judgment. (Fitch v. Justice Court, supra, 24 Cal.App.3d 492, 496.) Petitioner admits that the remedy of challenging the convictions in the rendering courts is available to him. He also admits that the department cannot be required through mandate to make a judicial determination of the constitutionality of his prior convictions.. The fact that petitioner’s convictions are out-of-state does not obviate the Thomas holding. (See dissent of Justice Peters in Thomas v. Department of Motor Vehicles, supra, at p. 341.) The trial court properly dismissed the action in accordance with Thomas.
+Petitioner challenges that Vehicle Code, section 13352, as it applies to him, is unconstitutional as it denies him due process. What petitioner fails to comprehend is that access to the courts in order to resolve the problem with the prior drunk driving convictions is not denied to him. He has full access to the Arizona and Florida courts to determine the issue of the constitutionality of the judgments entered in those courts either by an action, in the rendering courts to have the convictions set aside on the ground that they are constitutionally invalid or, in the alternative, by petitioning the proper court of general jurisdiction for appropriate relief against the rendering court. The fact of conviction in another state does not vest the Department of Motor Vehicles with jurisdiction to test the validity of conviction in those other states. Nor is he denied mandamus in California against the Department of Motor Vehicles if one or both of said courts should determine that their judgment was invalid. There is no indication in Thomas that petitioner is denied the privilege of bringing mandamus in the superior court if he has complied with the apparently only prerequisite available to him, attacking the judgments in the rendering courts. The only problem that petitioner faces is that he is unwilling to utilize the procedures laid down in Thomas. The argument that he has been denied due process is unmeritorious.
+Order affirmed.
+Appellant’s petition for a hearing by the Supreme Court was denied April 19, 1973.
+He alleged that the Arizona conviction was entered, with counsel, but at the time of entering his plea - of guilty he did mot freely and intelligently waive his right against compulsory self-incrimination, right to trial by jury, and right to confront his accusers, nor did he understand the nature and consequences of his plea, nor did the judge in that case actively participate in canvassing those matters with him. In the Florida case, petitioner alleged he pled guilty but was not represented by counsel, the court did not inform him of his right to counsel at any time before entering his plea of guilty, he did not freely and intelligently waive his right against compulsory self-incrimination, his right to trial by jury and his right to confront ihis accusers, nor did he understand the nature and consequences of his plea, nor did,.the judge in that case actively participate in canvassing those matters with him.
