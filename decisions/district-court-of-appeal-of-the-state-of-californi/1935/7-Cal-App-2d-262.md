@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9651"
+decided: "1935-05-29"
+citations: ["7 Cal. App. 2d 262"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. D. BASSETT MANUFACTURING CO. (a Corporation), Respondent, v. GEO. H. OSWALD, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/7/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2220531
+---
+
+# J. D. Bassett Manufacturing Co. v. Oswald
+
+## Majority (CRAIL, J.)
+
+CRAIL, J.
+This is an appeal from a judgment in favor of the plaintiff upon a written guaranty. The contentions of the defendant are (1) that the evidence does not support the findings of the trial court that trade acceptances which were received by the plaintiff from the principal debtor after the principal debt became due were not taken in payment of the debt, and (2) that the evidence does not support the findings of the trial court that the principal debt was not suspended.
+The plaintiff’s claim arose out of an order for a carload of furniture placed with it by Cross-Oswald, Ltd. On- the bottom of the order the defendant, who in addition to being the guarantor of the bill was the president of said corporation, wrote as follows: “I personally will guarantee this account as per letter hereto attached. Geo. H. Oswald.” The letter, which became a part of the guaranty, read in part as follows: “It is necessary that we have 90 days from date of invoice owing to the fact that from the time the ear leaves the factory it is sometimes from 30 to 40 days before we receive same. It has happened in the past that your merchandise lays on the docks at Norfolk sometimes two weeks before the boat picks it up and we feel we are entitled to the 90 days from date of shipment.” The furniture was duly shipped as per the order. Thereafter many demands for payment of the amount due were made, but no sum was ever paid on the amount due. Instead the principal debtor sent to the plaintiff certain trade acceptances which were payable at a later date, and thereafter the plaintiff attempted to collect on the trade acceptances by sending one to a bank for collection and by threatening to sue thereon. Nothing was said either in the correspondence or otherwise about the trade acceptances being forwarded or received in payment of the original account, although the following language was used in the letters: “ . . . kindly favor us. with interest-bearing Trade Acceptances payable thirty, sixty and ninety days hence, in equal amounts to take care of the balance you are due us.” Again, “Tour letter received regarding Trade Acceptances to settle your account. ’ ’ And again, ‘ ‘ Enclosed you will find Trade Acceptance to cover our account. ’ ’
+The question whether trade acceptances are received in payment of a preexisting debt and the question whether such acceptances suspend payment of the original debt are, in the absence of- any express agreement between the creditor and debtor thereon, to be determined by all the facts and circumstances in evidence bearing on them, and the intent with which the acceptances were given by the debtor and received by the creditor is an important element to be considered in their determination. In this case there was no express agreement on either question. There is clear and ample evidence in the record to sustain the finding that the trade acceptances were not received in payment of the original debt. As to whether payment of the original debt was suspended, we indulge the following observations: From an inspection of the original letter which was made a part of the guaranty, it is obvious that the date of payment for the furniture was not material to the guarantor, except that because of possible delays, which were mentioned in the letter, at least 90 days’ delay in payment was necessary. On the plaintiff’s part he was pressing for collection of the principal debt at all proper times with diligence and zeal, writing letters and telegrams, and threatening suits. Again, the plaintiff received no consideration for the delay which ensued, but on the contrary he took and retained the trade acceptances only when convinced on his part that to do so was the most likely and the quickest way to make collection of the original debt.
+Under the circumstances of this case, in order to relieve the guarantor from liability, there must be a valid extension supported by a sufficient consideration; an agreement to pay interest where the debtor is already legally bound to do so is insufficient consideration; and a guarantor is not discharged by an agreement founded on such insufficient consideration, even where the new agreement is attempted to be enforced by the creditor. (13 Cal. Jur. 119, and cases cited.) There is substantial evidence to sustain the findings of the trial court. As we view the facts and circumstances of this case, for us to hold otherwise would work a grave injustice.
+Judgment affirmed.
+Stephens, P. J., and Frieke, J., pro tem., concurred.
