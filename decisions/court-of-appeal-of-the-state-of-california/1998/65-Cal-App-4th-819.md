@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C027662"
+decided: "1998-07-23"
+citations: ["65 Cal. App. 4th 819"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. DARLENE LYN CHAMBERS, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/65/cases/0819-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 527394
+cites_cases: ["21 Cal.Rptr.2d 373", "22 Cal.Rptr.2d 278", "36 Cal.Rptr.2d 627", "42 Cal.App.4th 1582", "5 Cal.4th 1067", "5 Cal.4th 813", "50 Cal.Rptr.2d 421", "855 P.2d 391", "856 P.2d 1134", "885 P.2d 1040", "9 Cal.4th 331"]
+---
+
+# People v. Chambers
+
+## Majority (NICHOLSON, J.)
+
+Opinion
+NICHOLSON, J.
+We hold that a restitution fine imposed at the time probation is granted survives the revocation of probation. In this case, the trial court imposed a $200 restitution fine when it granted the defendant probation, but it also imposed a $500 restitution fine later when the defendant’s probation was revoked. Since the first restitution fine survived the revocation of probation, the second restitution fine was unauthorized. Accordingly, we modify the judgment by striking the second restitution fine and affirm the judgment as modified.
+Procedure
+In 1993, the defendant pleaded no contest to first degree burglary and was placed on probation. At the time probation was granted and as a condition of probation, the trial court ordered the defendant to pay a fine of $200 to the Restitution Fund. (See Pen. Code, § 1202.4, subd. (b).)
+In 1997, the trial court revoked the defendant’s probation and sentenced the defendant to nine years in state prison—four years for the first degree burglary (Pen. Code, § 461) and five years for a prior serious felony (Pen. Code, § 667, subd. (a)). The trial court also imposed a fine payable to the Restitution Fund of $500.
+Discussion
+The sole issue raised by the defendant on appeal is whether the trial court was authorized to impose the $500 restitution fine when it revoked the defendant’s probation in 1997. We conclude it was not authorized. (References to a “restitution fine” are to a fine payable to the Restitution Fund, not to the victim.)
+In 1993, when the defendant was granted probation, several provisions of the Government Code and Penal Code governed the restitution fine. Former Government Code section 13967 provided: “[I]f the person is convicted of one or more felony offenses, the court shall impose a separate and additional restitution fine of not less than two hundred dollars ($200), subject to the defendant’s ability to pay, and not more than ten thousand dollars ($10,000).” (Stats. 1992, ch. 682, § 4, p. 2922.) This provision required imposition of a restitution fine regardless of whether the defendant was placed on probation or sentenced to state prison. (See former Pen. Code, § 1202.4 [requiring imposition of restitution fine when probation granted and allowing stay of fine]; see also People v. Broussard (1993) 5 Cal.4th 1067, 1073 [22 Cal.Rptr.2d 278, 856 P.2d 1134].)
+The statutes provided that the payment of the restitution fine could be imposed as a condition of probation: “The court shall consider whether the defendant as a condition of probation shall make restitution to the victim or the Restitution Fund.” (Former Pen. Code, § 1203.1, Stats. 1988, ch. 975, § 2, p. 3153.) Accordingly, while imposition of the restitution fine was mandatory, except in unusual circumstances not relevant here, an order making payment of the restitution fine a condition of probation was discretionary.
+Even if the restitution fine was imposed as a condition of probation, the statutes contemplated that it would survive the probationary term. For example, former Penal Code section 1202.4, subdivision (c) provided that, if a restitution fine was imposed as a condition of probation but stayed, the stay would be lifted upon revocation of probation and imposition of sentence. While the restitution fine in this case was not stayed at the time probation was granted, it is apparent from the statutory scheme in existence in 1993 that it survived the revocation of the defendant’s probation because (1) the court was required to impose a restitution fine regardless of whether probation was granted, and (2) former Penal Code section 1202.4, subdivision (c) exhibits the Legislature’s intent not to void a restitution fine when probation is revoked. Furthermore, there was no provision for imposing a restitution fine upon revocation of probation and the triggering event for imposition of a restitution fine was conviction. (Former Gov. Code, § 13967; former Pen. Code, § 1202.4.)
+In 1994, the Legislature amended Government Code section 13967 and Penal Code section 1202.4, deleting the requirement of a restitution fine from section 13967 and incorporating it into section 1202.4. (Stats. 1994, ch. 1106, §§ 2, 3.) Present law still requires imposition of a restitution fine when a person is convicted of a felony, regardless of whether probation is granted. (Pen. Code, § 1202.4, subd. (b) [requirement of fine unless compelling and extraordinary reasons found].) If the defendant is granted probation, the court must make payment of restitution and the restitution fine conditions of probation. (Pen. Code, § 1202.4, subd. (m).) Restitution to a victim remaining unpaid at the end of the probationary term is enforceable against the defendant as if it were a civil judgment. (Pen. Code, §§ 1202.4, subd. (m), 1214.)
+There is nothing in the current statutory scheme to suggest any change in the Legislature’s intent to have a restitution fine survive the revocation of probation. Indeed, the statutory scheme suggests otherwise. Restitution fines are required in all cases in which a conviction is obtained. Furthermore, there is no provision for imposing a restitution fine after revocation of probation. The triggering event for imposition of the restitution fine is still conviction. (Pen. Code, § 1202.4, subd. (b).)
+Here, the trial court imposed two separate restitution fines for the same conviction: a $200 restitution fine at the time probation was granted and a $500 restitution fine at the time probation was revoked. There is no statutory authority justifying the second restitution fine because, as discussed above, the first restitution fine remained in force despite the revocation of probation. Accordingly, since the trial court was without statutory authority to impose the second restitution fine, it must be stricken. (See In re Harris (1993) 5 Cal.4th 813, 839 [21 Cal.Rptr.2d 373, 855 P.2d 391] [correction of illegal sentence].)
+Even though the defendant failed to object to imposition of the second restitution fine at the time of sentencing, she did not waive the issue because the trial court exceeded its statutory authority in imposing the second restitution fine. (See In re Paul R. (1996) 42 Cal.App.4th 1582, 1590 [50 Cal.Rptr.2d 421]; People v. Scott (1994) 9 Cal.4th 331, 354 [36 Cal.Rptr.2d 627, 885 P.2d 1040].)
+Disposition
+The judgment is modified by striking the $500 restitution fine imposed by the trial court. The $200 restitution fine remains in force. As modified, the judgment is affirmed. The trial court is directed to prepare an amended abstract of judgment in accordance with this disposition and deliver it to the Department of Corrections.
+Sims, Acting P. J., and Davis, J., concurred.
