@@ -1,0 +1,44 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 24045; Civ. No. 24046"
+decided: "1968-01-19"
+citations: ["258 Cal. App. 2d 71"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. A. WHEELON, Plaintiff and Appellant, v. PATCO, INC., et al., Defendants and Respondents; HELEN L. SKEELS, Third Party Claimant and Respondent. BRUCE GARDEN, Plaintiff and Appellant, v. PATCO, INC., et al., Defendants and Respondents, HELEN L. SKEELS, Third Party Claimant and Respondent."]
+source_url: "https://static.case.law/cal-app-2d/258/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179715
+cites_cases: ["186 P.2d 693", "247 Cal.App.2d 204", "267 P.2d 16", "354 P.2d 239", "42 Cal.2d 284", "54 Cal.2d 589", "55 Cal.Rptr. 455", "6 Cal.Rptr. 767", "82 Cal.App.2d 592"]
+---
+
+# Wheelon v. Patco, Inc.
+
+## Majority (TAYLOR, J.)
+
+TAYLOR, J.
+On these appeals from judgments awarding third party claims, the sole question presented is whether the evidence establishes that title to the funds in question had passed to respondent prior to the attachments of appellants.
+The facts are not in dispute. In March 1966, Pateo, Inc. (hereafter Pateo) sold its supermarket in Crescent City to Lehman Co., Inc. for about $52,000. This amount was deposited with the escrow holder, United California Bank (hereafter Bank). Pateo instructed the Bank to disburse all of the funds in accordance with its April 8, 1966 list of claims under notice to creditors. This list included $12,000 to be paid to respondent Skeels and her husband. Pateo, however, instructed the Bank to then pay only $7,000 of this amount and to hold the remaining $5,000 for instructions from Pateo.
+The Bank complied with these instructions and disbursed all of the funds except the above mentioned $5,000. On June 10 and June 14, appellants, both creditors of Pateo, attached the $5,000. The Bank answered the garnishments, indicating that at the time of the attachments, it was indebted to Pateo in the amount of $5,000. Respondent orally informed appellants that their claims would be paid, and attempted to obtain the $5,000 from the Bank. The Bank refused to do so as they needed further authorization from Pateo, since the letter dated June 17 instructing them to pay respondent was signed only by Pateo’s attorneys and not the president of the eorporation. Subsequently, the Bank received a letter signed by the president of Pateo and paid the approximately $2,300 of unattached funds in its possession to respondent.
+Thereafter, on August 5, 1966, respondent, pursuant to section 689 of the Code of Civil Procedure, filed petitions for hearings on her third party claims to the amount attached by each appellant. The matters were consolidated for a hearing by the court. The evidence adduced indicated that since April 20, 1963, respondent had been the manager of the market and had advanced $12,000 to Pateo for its operation. Pursuant to her written contract of employment, dated April 5, 1963, respondent obtained a 30-day option to purchase the market in the event the contract was in effect on April 1, 1966. To effectuate the sale of the market to Lehman, respondent agreed to release her option for the return of her $12,000. She did not know why Pateo had instructed the Bank to pay her only $7,000, except as a means of keeping her there until the end. Aside from Pateo’s instructions to the Bank concerning the disbursement of the escrow funds and respondent’s contract of employment, the documentary evidence included the June 17 letter from Pateo’s attorneys to the Bank (set forth below) and a covering letter from the attorneys to respondent and her husband.
+The trial court rendered a memorandum opinion stating that the oral and documentary evidence introduced at the hearing established the funds in question were deposited in escrow for respondent; that all conditions of the escrow had been met when the funds were attached and that the Bank was holding the funds as an agent for respondent. Accordingly, the court concluded that title had passed to respondent prior to the attachments and entered judgments in her favor. These appeals ensued.
+The burden of proof to establish her title to the $5,000 held in escrow by the Bank was on respondent (Butler v. Nepple, 54 Cal.2d 589, 602 [6 Cal.Rptr. 767, 354 P.2d 239]). The only question here presented is whether the evidence establishes that the funds in question were held in escrow for, or had been assigned to, respondent prior to the attachments of appellants.
+We can find no evidence that the $5,000 was held in escrow for respondent, apart from the letter written by Pateo’s attorneys on June 17. Pateo’s instructions to the Bank were to hold the remaining $5,000 due to respondent and her husband for further instructions from Pateo. The Bank interpreted these instructions to mean that all funds were under the control of Pateo, and it was powerless to release any funds until duly authorized by the president of Pateo to do so. The Bank could not act pursuant to the letter from Pateo '"s attorneys as such authorization was not sufficient to release the funds.
+Respondent, citing First Nat. Bank v. Pomona Tile Mfg. Co., 82 Cal.App.2d 592 [186 P.2d 693], contends that the funds in question were assigned to her and that as between successive assignees of the same chose in action she, having given notice to the Bank, prevails in ownership of the funds. This contention is based on the assumption that Pateo’s April 8, 1966 instructions to the Bank operated as an equitable assignment. While no particular form of an assignment is necessary, the assignment, to be effectual, must be a manifestation to another person by the owner indicating his intention to transfer, without further action or manifestation of intention, the right to such other person, or to a third person (Cockerell v. Title Ins. & Trust Co., 42 Cal.2d 284, 291 [267 P.2d 16]). As indicated above, the evidence established that Pateo retained control of the $5,000 in the possession of the Bank.
+Furthermore, personal property can only be transferred by delivery, actual or constructive. As the Bank held the funds subject to the control of Pateo, respondent had the burden of proving constructive delivery (cf. Dot Records, Inc. v. Freeman, 247 Cal.App.2d 204, 208 [55 Cal.Rptr. 455]). This, she failed to do as there was no evidence of Pateo’s unequivocal intent to transfer the funds to her without further action on its part.
+The judgments in favor of respondent on her third party claims are reversed.
+Shoemaker, P. J., and Agee, J., concurred.
+Appellant Wheelon, doing business as O. A. Wheelon Insurance Agency, filed on June 10 a writ of attachment and complaint for insurance premiums advanced, and obtained a default judgment for $925.80 plus costs and disbursements of $14.35 on July 8, 1966. Appellant Garden, individually and doing business as S. & E. Appliance Service, on June 14, filed a writ of attachment and complaint for refrigeration repair services rendered to Pateo, and obtained a default judgment for $1,723 plus costs and disbursements of $18.70 on July 8.
+A total of about $2,600.
+“United California Bank
+936 Third Street
+Orescent City, California 95531
+‘‘ Attention: Mr. Glen A. Gunderson
+“Gentlemen: Mr. Sharp, of Pateo, Inc., has referred to me your letters of June 13 and June 14, 1966, wherein you advise that there has been an ‘attachment against escrow funds’ held by the Bank for the ‘account’ of Pateo, Inc.
+“It is my understanding that the funds mentioned by you were deposited with the Bank in escrow by the purchaser, Lehman Company (under a contract of purchase from Pateo, Inc.), in compliance with the bulk transfer laws of the State of California.
+“It is my further understanding that the funds remaining in the possession of the Bank under said deposit are all ‘covered’ by a claim of a creditor of Pateo, Inc. duly and timely filed with the Bank, namely, the claim of Elvis L. Skeels and Helen L. Skeels.
+“If my understandings are correct, then the funds remaining in the possession of the Bank under the escrow are not held for the account of Pateo, Inc., but are held for the account of Mr. and Mrs. Skeels.
+‘ ‘ Mr. Sharp, on behalf of Pateo, Inc., has instructed me to advise you that if any authorization from Pateo, Inc. is necessary in order to enable you to make payment to Mr. and Mrs. Skeels, Pateo,- Inc. gives the necessary authorization.
+“We wish to thank you for calling these attachments to the attention of Pateo, Inc., and we propose to call the matter to the attention of Mr. and Mrs. Skeels. ’ ’
+This letter was sent with a copy of the letter sent to the Bank and advised respondent to employ an attorney to protect her interest.
