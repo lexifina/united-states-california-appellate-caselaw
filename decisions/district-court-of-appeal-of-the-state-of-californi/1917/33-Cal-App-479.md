@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2042"
+decided: "1917-04-20"
+citations: ["33 Cal. App. 479"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PETRONELLA CANER, Appellant, v. OWNERS REALTY COMPANY (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app/33/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2027169
+cites_cases: ["116 Cal. 56", "117 Cal. 215", "47 Pac. 877", "48 Pac. 1074"]
+---
+
+# Caner v. Owners Realty Co.
+
+## Majority (LENNON, P. J.)
+
+LENNON, P. J.
+Upon this appeal from a judgment entered in favor of the defendant following an order of the trial court sustaining a demurrer to the plaintiff’s first amended complaint, it appears from said complaint that the plaintiff individually and as the assignee of twenty-two other persons sought in twenty-three separately stated causes of action to recover damages from the defendant for the alleged breach of covenant of a contract to grade streets in a certain tract of land in San Mateo County known as the “Ocean Shore tract,” in which plaintiff and her assignors had purchased lots. The complaint also purported to plead twenty-three causes of action upon the same covenant for specific performance. To all of these causes of action the defendant demurred upon the ground that none of them stated facts sufficient to constitute a cause of action, and that each of them was barred by the provisions of sections 337 and 343 of the Code of Civil Procedure.
+Upon the oral argument it was conceded by counsel for plaintiff that the demurrer was well taken in so far as it was directed against the several causes of action attempted to be pleaded for specific performance.
+The covenant of the contract pleaded and relied upon to support the' plaintiff’s claim of damages for its breach is as follows: “The sellers [defendant] guarantee to grade all the streets in the Ocean Shore tract at their expense. Time is acknowledged to be of the essence of this contract. These covenants shall be binding on the parties to this contract, their heirs, successors and assigns.” It affirmatively appears upon the face of the complaint that the several contracts in suit were not made within four years prior to the' institution of the action; it is alleged that each and all of them were made at different times varying from five to seven years before the complaint was filed. It will be noted that the covenant in question does not specify, and the plaintiff’s complaint does not allege nor attempt to allege, the time within which the defendant was to grade the streets in the tract wherein plaintiff and her assignors had purchased lots. Furthermore, the complaint is devoid of an allegation that the plaintiff or her assignors ever demanded that the defendant perform the said covenant. Where no time is specified for the doing of an act other than the payment of money it is the rule of law that a demand for performance is necessary in order to put the promisor in default. (9 Am. & Eng. Ency. of Law, 200, 201.) . The reason for the rule in this behalf is to give the promisor an opportunity to perform before being subjected to the inconvenience and expense of litigation. (1 Cor. Jur. 979.) No time having been fixed by the covenant under consideration for the performance of the obligation thereof, and the complaint failing to allege a demand upon the defendant for performance, it is clear that the complaint, in so far as the several causes of action for damages are concerned, is fatally defective—when measured by the foregoing rule. Moreover, such a demand in addition to being essential to the creation of a cause of action, was necessary to toll the statute of limitations. In this behalf it is the rule, well settled we think, that where in a contract the time within which an act is to be performed is either indefinite or not specified it may and must be performed within a reasonable time; and ordinarily the statute of limitations commences to run against an action for a failure to perform such an obligation at the expiration of a reasonable time. (Williams v. Bergin, 116 Cal. 56, [47 Pac. 877].) And again, where, as in the present case, a demand for performance is essential to the creation of a cause of action it must be made within a reasonable time, which, it has been held, is the period of time prescribed by the statute of limitations for the outlawry of the action. (Meherin v. San Francisco Produce Exchange, 117 Cal. 215, [48 Pac. 1074].) An action upon any written contract founded upon an instrument in writing executed within the state is barred within four years (Code Civ. Proc., sec. 337); and as no demand was made within four years after the contracts in suit were executed all of the causes of action arising therefrom, and pleaded in the plaintiff’s complaint, were under the rule last above stated barred by the statute of limitations.
+It follows from what we have said that the demurrer to the plaintiff’s complaint was well taken and rightly sustained.
+The judgment is affirmed.
+Richards, J., and Kerrigan, J., concurred.
