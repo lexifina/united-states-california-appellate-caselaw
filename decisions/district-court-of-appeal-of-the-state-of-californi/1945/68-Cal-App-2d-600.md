@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14784"
+decided: "1945-03-29"
+citations: ["68 Cal. App. 2d 600"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O. C. RUDDELL, Respondent, v. WALTER E. WARNE et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/68/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2374536
+cites_cases: ["132 P.2d 205", "16 Am.St.Rep. 108", "21 Cal.2d 354", "22 P. 1145", "23 Cal.App.2d 107", "37 Cal. 176", "72 P.2d 225", "82 Cal. 226"]
+---
+
+# Ruddell v. Warne
+
+## Majority (WOOD (W. J.), J.)
+
+WOOD (W. J.), J.
+Defendants have appealed from an order of the superior court granting plaintiff’s motion for the issuance of execution more than five years after the entry of judgment.
+Plaintiff obtained a judgment on June 13, 1938, against defendant Walter E. Warne in the sum of $8,176.60 for injuries suffered in an automobile accident in which plaintiff was injured. At the same time plaintiff obtained judgment against defendant Kenneth Warne, who was the owner of the automobile being driven by his father, in the sum of $5,000. A writ of execution was issued on October 7, 1938, which was returned unsatisfied. Defendants were examined on supplementary proceedings on November 1, 1938. A similar order was made for the appearance of defendants on September 21, 1941, but they were excused without examination because it appeared from a co3iference then held that Kenneth Warne was about to enter the Navy and that both defendants were without property other than the homestead dwelling hereinafter referred to. Nothing further was done towards realizing on the judgment until August 16, 1944, when plaintiff filed an affidavit and asked that an order be made for the issuance of execution under the provisions of section 685 of the Code of Civil Procedure. The motion was heard upon plaintiff’s affidavit and that of defendant Walter B. Warne and the court made the order from which the appeal is now prosecuted.
+From the affidavits it appears that defendant Walter B. Warne and his wife purchased a lot and constructed a dwelling thereon in 1928 at a total cost of $4,800. They have lived on the property since that time. On June 14, 1938, a declaration of homestead was filed upon the property. From plaintiff’s affidavit, executed on September 16, 1944, the statement appears “that within three months last past, the aforesaid homesteaded real property has greatly enhanced in value and is now of the value of $8500.00 to $9500.00, all in excess of $5000.00 allowed the defendants, or either of them as a homestead.”
+The protection afforded by a declaration of homestead is limited to $5,000 in value and when the homesteaded property is enhanced in value any excess over the statutory limit of $5,000 is subject to the claims of the creditors of the owner. (Estate of Delaney, 37 Cal. 176, 180; Lubbock v. McMann, 82 Cal. 226 [22 P. 1145, 16 Am.St.Rep. 108].) The excess may be reached by following the procedure provided in sections 1245-1259 of the Civil Code. . Plaintiff refers to the amendment in 1911 to section 1265 of the Civil Code, providing that neither the homestead “or the products, rents, issues or profits thereof” shall be held liable for the debts of the owner. We see nothing in this amendment which prevents the subjection of the increased value of the property to the claims of the creditors of the owner. The statute refers to such items as rents and products and makes no reference whatever to the increased value of the property itself.
+It is contended that the court should have refused the order because, as claimed, the court should take judicial notice of the fact that property values greatly increased within the period of five years from the entry of the judgment and therefore plaintiff could have sought the issuance of execution within five years. The court cannot take judicial notice of the exact time during the present war conditions that property in any given locality has increased in value or of the exact amount of the increase in value. The court was justified in acting upon the statement in plaintiff’s affidavit that the property has enhanced in value “within three months last past.” Moreover, the court was not without authority, upon a showing of due diligence on the part of plaintiff, to order the issuance of execution after the lapse of five years even if defendants had shown that the property had enhanced in value during the period before the lapse of five years. (Butcher v. Brouwer, 21 Cal.2d 354 [132 P.2d 205].)
+It is within the sound discretion of the trial court to grant or refuse a motion for the issuance of execution after a lapse of five years from the entry of the judgment. (Butcher v. Brouwer, supra; McClelland v. Shaw, 23 Cal.App.2d 107 [72 P.2d 225].) In contending that the trial court abused its discretion in granting the motion defendants refer to the fact that the younger Warne is in the Navy and claims that “to force a sale of the property under present conditions would result in great hardship.” In response plaintiff urges that defendants are not in position to speak of hardship and draws a picture of an injured man “halt and crippled, sans spirit sans hope, uncertainly groping through life forever deprived of the blessings and privileges of the hearty and strong.” We may not reverse the order of the trial court except for a clear abuse of discretion. We see no such situation here.
+The order is affirmed.
+Moore, P. J., and McComb, J., concurred.
+A petition for a rehearing was denied April 13, 1945, and appellants’ petition for a hearing by the Supreme Court was denied May 24, 1945.
