@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 8732"
+decided: "1955-01-03"
+citations: ["130 Cal. App. 2d 64"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of IDA EVANIS, Deceased. CHARLES M. QUINN et al., Appellants, v. YACKIE EHRHARDT et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/130/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2164524
+---
+
+# Quinn v. Ehrhardt
+
+## Majority (VAN DYKE, P. J.)
+
+VAN DYKE, P. J.
+This appeal was initiated by a notice of appeal entered in the above entitled matter and stating that thereby the appellants appealed “from the order entered in the above matter denying the petition for distribution as prayed for and ordering that the estate be distributed one-half to the heirs of Ida Evanis and one-half to the heirs of John Evanis.”
+Respondents have moved to dismiss the appeal upon the ground that no appealable order, judgment or decree had been entered or made. The record shows the following: There had been filed in the estate proceedings a first and final account and petition for distribution wherein it was alleged that the appellants herein were the heirs of Ida Evanis, deceased, and entitled to distribution of all of the property in the estate. Distribution to them accordingly was prayed for. They were all heirs of Ida Evanis whose husband had predeceased her. Certain persons who were related to her predeceased husband claimed that they were entitled to distribution .of a portion of the property in Ida’s estate under the provisions of sections 228 and 229 of the Probate Code. These persons filed objections to the petition for distribution. The matter was heard by the court and after the issues had been briefed the trial judge filed in the cause a written “opinion” which closed with the following paragraphs:
+“From the foregoing authorities the Court concludes that the heirs of Ida Evanis and the heirs of John Evanis are each entitled to one half of the proceeds of the real property described in paragraph three of the stipulation, and also of the real property described in paragraph four of the stipulation, according to the laws of succession. As to the rest of the property, no dispute arises.
+“The decree will so provide.”
+On the same day the clerk entered in the minutes of the court a document entitled “Order,” which, after certain recitals not material here, read as follows:
+“. . . the Court being fully advised;
+“Orders that the account be settled and that the estate be distributed; the decree of distribution to provide that the heirs of Ida Evanis and the heirs of John Evanis are each entitled to one half of the proceeds of the real property described in paragraph three of the stipulation, and also of the real property described in paragraph four of the stipulation, according to the laws of succession. Opinion of court filed herein this day. ’ ’
+It is from this last order that the appeal is taken. It appears that no formal decree of distribution has ever been made or signed by the court or entered in the minutes.
+Under these circumstances we hold that there has been no decree of distribution in the estate of Ida Evanis; that the order entered, even when read in connection with the signed opinion filed, was never intended by the court to constitute such decree of distribution and for aught that appears in this record the trial court has still to perform the task of decreeing distribution of the property in said estate.
+The appeal purports to appeal only from that part of the entered order which has to do with the distribution of property and as to such matter appeals only from that part of the order which distributes property to the heirs of John Evanis, it being quite apparently the position of the appellants, who are heirs of Ida Evanis, that the court erred in distributing anything to the heirs of John. There was property in the estate other than that to which the heirs of John laid any claim. It is obvious, therefore, that the order entered could not be considered a complete decree of distribution in any event. Looking at the signed opinion for the limited purpose for which we may consider that document, it is made clear that nothing therein supports a conclusion that the court was concerning itself with a decree of distribution as a whole, but only with that part of the decree to be made which would decide the issues presented by the objections filed. Said the court: “As to the rest of the property no dispute arises.” As to the letting in of the heirs of John over the objections of the heirs of Ida, the court indicated that it would decree distribution of a part of the property to them, closing its opinion with the words: “The decree will so provide. ’ ’ The order from which the heirs of Ida have attempted to appeal equally shows upon its face that it was not intended in any way as a decree of distribution and that it has no further office to fulfill so far as distribution is concerned than to announce the intention of the court at that time with respect to such distribution. The trial court contemplated that a formal decree fully distributing all of the estate would be presented to him. The situation was tantamount to the familiar announcement to the attorneys of a proposed decision, with instructions to one or the other side to prepare findings for the court. These views are strengthened in consideration of the provisions of section 1221 of the Probate Code requiring that all orders and decrees of the court or judge must be entered at length in the minute book of the court or else signed by the judge and filed and that decrees of distribution must always be so entered at length; and by the provisions of section 1230 of the Probate Code that “All issues of fact joined in probate proceedings must be tried in conformity with the requirements of the rules of practice in civil actions,” which provisions bring into effect the provisions of section 634. of the Code of Civil Procedure concerning the way in which decisions of the court are to be made, signed and filed.
+The appeal is dismissed.
+Peek, J., and Schottky, J., concurred.
