@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5308"
+decided: "1927-04-11"
+citations: ["82 Cal. App. 265"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES A. JONES, Respondent, v. P. J. COONEY et al., Appellants."]
+source_url: "https://static.case.law/cal-app/82/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2207574
+cites_cases: ["189 Cal. 715", "190 Pac. 1075", "192 Pac. 464", "199 Cal. 508", "209 Pac. 1008", "249 Pac. 46", "250 Pac. 162", "47 Cal. App. 512", "48 Cal. App. 753", "79 Cal. App. 171"]
+---
+
+# Jones v. Cooney
+
+## Majority (HOUSER, J.)
+
+HOUSER, J.
+— This is an appeal from a judgment which resulted from the issuance of a peremptory writ of mandate in the court below.
+The following facts are taken nearly verbatim, from the statement of the ease appearing in appellant’s opening brief:
+Charles A. Jones, the respondent herein, for many years was a member of the police department of the city of Los Angeles. On or about the fourth day of January, 1922, he was the duly appointed, qualified, and acting chief of police in said city, at which time he was regularly retired from further service in said police department; that at the time of his retirement he had served more than twenty years in said police department, and at said time there was in effect an ordinance of the city of Los Angeles which, among other things, provided as follows:
+‘1 Whenever any member of the Police Department, as defined in section 13 hereof, shall have served for twenty (20) years or more in the aggregate in any capacity or rank whatever, said commission shall, upon his written request, or without such request if it be deemed for the good of said department, order and direct that such person be retired from further service in the police department. From the date of making such order, or from the date such order becomes effective, the services of such person in the Police Department shall cease, and such person so retired shall thereafter during his lifetime, be paid from such fund a yearly pension equal to one-half of the amount of the salary attached to the rank or position which he may have held in said Police Department at the time of such retirement. Such pension shall be payable in equal quarterly installments. ...”
+It also appears that at the date of respondent’s retirement the salary attached to the rank of chief of police was the sum of $400 per month; that after the retirement of respondent, to wit, on the eighth day of November, 1922, there was adopted by the electors of the city of Los Angeles an amendment to the charter of said city, which said amendment, among other things, contains the following provision:
+“ . . . The provisions as herein in this charter contained shall apply to all members of the Fire and Police Departments as in this section defined, and to all members of said departments who have heretofore been granted pensions; provided, however, that all pensions granted heretofore and still in operation shall remain and continue to operate the same as when granted.”
+That on the thirteenth day of November, 1923, there became effective as an ordinance of the city of Los Angeles an ordinance increasing the salary of the chief of police of said city from $400 to $500 per month; that on June 12, 1924, respondent presented to the official body of the city of Los Angeles, having jurisdiction thereof, to wit, to the fire and police pension department of the city of Los Angeles, composed of appellants herein other than Ned T. Powell and John S. Myers, and to said Ned T. Powell as treasurer, and to John S. Myers as auditor, of the city of Los Angeles, a demand for the sum of $328.33, which sum respondent claimed as due to him between the thirteenth day of November, 1923, and the twelfth day of June, 1924, because of the increase as aforesaid in the salary of the chief of police of said city of Los Angeles; that thereupon the said fire and police pension department rejected respondent’s demand, and the said Ned T. Powell, as treasurer of the city of Los Angeles, refused to pay the same, and the said John S. Myers, as auditor of the said city of Los Angeles, refused to audit said demand — on the ground that respondent was not entitled to the sum as set forth in said demand, and that respondent was entitled to only one-half of the sum of $400 per month and was not entitled to one-half of the sum of $500 per month, said latter sum at said time being the amount of the salary of the chief of police of the city of Los Angeles, as provided in the ordinance to which reference heretofore has been had herein; that thereafter respondent instituted an action in mandamus to compel appellants to allow, audit, and pay the claim of respondent as aforesaid, which action resulted in a judgment that' a peremptory writ of mandate should issue requiring appellants to approve, audit, and pay said demand of respondent. As hereinbefore noted, this appeal is from that judgment.
+The question is not a new one in this jurisdiction. Either directly or in principle it has been ruled upon adversely to each of the contentions of appellants in each of the following cases: Aitken v. Roche, 48 Cal. App. 753 [192 Pac. 464]; Rumetsch v. Davie, 47 Cal. App. 512 [190 Pac. 1075]; Whitehead v. Davie, 189 Cal. 715, 722 [209 Pac. 1008]; Klench v. Board of Pension Commrs., 79 Cal. App. 171 [249 Pac. 46]; Home v. Souden, 199 Cal. 508 [250 Pac. 162],
+Whatever may be the rule in other jurisdictions, the attention of this court has been attracted to no case decided by any court in this state which detracts from the line of authority as announced by the cases to which reference has been had. It would serve no useful purpose to restate the reasons for such decisions which have been so ably presented. Relying, therefore, upon such authorities, it is ordered that the judgment be and it is affirmed.
+Conrey, P. J., and York, J., concurred.
+A petition by appellants to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on June 9, 1927.
