@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1566"
+decided: "1935-03-04"
+citations: ["5 Cal. App. 2d 91"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AMY E. CONARD, Respondent, v. BURTON L. CONARD, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/5/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178923
+cites_cases: ["104 Cal. App. 613", "113 Pac. 160", "126 Cal. App. 106", "127 Cal. 137", "13 Pac. (2d) 513", "133 Cal. 462", "14 Pac. (2d) 317", "159 Cal. 197", "214 Cal. 767", "216 Cal. 23", "259 Pac. 984", "286 Pac. 439", "59 Pac. 389", "65 Pac. 1041", "7 Pac. (2d) 1003", "85 Cal. App. 683"]
+---
+
+# Conard v. Conard
+
+## Majority (ALLYN, J., pro tem.)
+
+ALLYN, J., pro tem.
+Appeal from a judgment granting to plaintiff wife a decree of divorce and setting aside to her certain property found by the trial court to be community property. Three grounds of reversal are urged: First, that the finding that the property was community is not supported by the evidence; second, that it was an abuse of discretion to set aside to the wife all of the property found to be community; and third, that it was error to disregard a prior decree of divorce granted by a district court of the state of Nevada upon substituted service of summons.
+At the time of their marriage each party had some property. The defendant, in addition to certain equities in real estate not involved in this action, owned two building and loan association accounts. After the marriage he caused new passbooks to be issued in the joint names of himself and wife. These accounts are referred to in the record as “joint accounts” although it does not appear that any such deposit agreement was signed or that plaintiff’s signature was filed with either of the associations. At any rate, defendant retained possession of the passbooks until they were taken surreptitiously by the plaintiff. The real property was purchased after marriage from funds of the separate estate of each spouse and was conveyed to them’ as joint tenants.
+The defendant was employed during most of the time that elapsed from the date of marriage to the date of separation but there is no evidence that his earnings did more than support the family. He was entitled to so apply his earnings and keep his separate estate intact. (Estate of Cudworth, 133 Cal. 462 [65 Pac. 1041]; Seligman v. Seligman, 85 Cal. App. 683 [259 Pac. 984].) Further, there is no evidence of any contribution by the wife to the community so there is no question involved of the commingling of separate and community funds.
+All property of a spouse owned before marriage and that acquired afterwards by gift, bequest, devise or descent, with the rents, issues and profits thereof, is the separate property of such spouse. All other property acquired after marriage is community. (Civ. Code, secs. 162, 163, 164.) The power of a court to assign property upon dissolution of marriage is limited to the community property and the homestead. (Civ. Code, sec. 146; Allen v. Allen, 159 Cal. 197 [113 Pac. 160]; Heintz v. Heintz, 126 Cal. App. 106 [14 Pac. (2d) 317].) The interest of the spouses in property held in joint tenancy must be classed as their separate but joint estates. (Siberell v. Siberell, 214 Cal. 767 [7 Pac. (2d) 1003].)
+The findings of the trial court that these items of property belonged to the community finds no support in the record, and that part of the judgment assigning them to the plaintiff must be reversed. The argument of respondent that appellant made a gift of the building and loan association accounts and hence that they lost their character of separate property by his voluntary act cannot be sustained. The record does not disclose that any agreement creating a joint account was executed or that plaintiff’s signature was filed with either of the associations and there is no evidence of delivery of the passbooks to her. Possession by her of these passbooks was not the equivalent of delivery. The theory of gift in this ease is inconsistent with the retention by the appellant of possession of the passbooks and of the right to himself withdraw the whole of these accounts. On the other hand, the form in which the deposits were made' is entirely consistent with the desire on his part to give his wife authority to draw money from time to time or, as stated by him, “in ease I passed on, she was to have the money and not otherwise”. It should not be held that he intended to part with his title thereto by an ambiguous phrase which is quite consistent with a contrary purpose. (Denigan v. Hibernia Savings & Loan Society, 127 Cal. 137 [59 Pac. 389] ; Estate of Nelson, 104 Cal. App. 613 [286 Pac. 439]; 3 Cal. Law Rev. 418.) Appellant’s action was entirely consistent with the retention of these accounts as his separate property.
+The foregoing conclusion disposes of the second ground of appeal, to wit, that it was error to assign all of the property found to be community to the respondent.
+The finding of the trial court that appellant’s decree of divorce granted by the Nevada District Court was secured upon simulated residence in that state, the decree being based upon a substituted service of summons, is in direct agreement with the authorities (Delanoy v. Delanoy, 216 Cal. 23 [13 Pac. (2d) 513]), and being based upon conflicting evidence cannot be disturbed on appeal.
+That part of the judgment setting aside the real property and the building and loan association accounts to respondent as community property is reversed and the cause remanded for such proceedings as are not inconsistent with this opinion. The judgment is otherwise affirmed.
+Barnard, P. J., and Marks, J., concurred.
