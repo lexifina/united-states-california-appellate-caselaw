@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 29847"
+decided: "1977-07-29"
+citations: ["72 Cal. App. 3d 214"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. BARBARA RUTH GARNER, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/72/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987665
+cites_cases: ["124 Cal.Rptr. 204", "133 Cal.Rptr. 144", "135 Cal.Rptr. 30", "138 Cal.Rptr. 66", "15 Cal.3d 286", "168 P.2d 186", "19 Cal.3d 338", "368 U.S. 448", "456 F.2d 1074", "461 F.2d 1148", "479 F.2d 616", "501 F.2d 1207", "508 F.2d 1403", "509 F.2d 1205", "540 P.2d 44", "562 P.2d 1315", "62 Cal.App.3d 9", "64 Cal.App.3d 873", "74 Cal.App.2d 215"]
+---
+
+# People v. Garner
+
+## Majority (COBEY, Acting P. J.)
+
+Opinion
+COBEY, Acting P. J.
+The People appeal from the trial court’s dismissal of their action before the defendant had been placed in jeopardy. (Pen. Code, § 1238, subd. (a)(8).) The dismissal was made following the granting of a Murgia motion by defendant, Barbara Ruth Garner. (See Murgia v. Municipal Court, 15 Cal.3d 286 [124 Cal.Rptr. 204, 540 P.2d 44].)
+Facts
+Defendant was charged with bookmaking in violation of Penal Code section 337a, subdivisions 1, 2 and 6. Defendant’s successful Murgia motion was based on undisputed evidence that the Los Angeles Police Department and the district attorney’s office have a policy neither to arrest nor to prosecute bettors while they do arrest and prosecute bookmakers. Based on this evidence, the trial court found that since the statute (subd, 6) makes it a crime to place as well as to receive a bet, the prosecution of the bookmaker alone and not the bettor as well constitutes unconstitutional discriminatory enforcement of the statute. (See U. S. Const., 14th Amend.; Cal. Const., art. I, § 7, subd. (a).)
+Discussion
+The sole issue that requires extended discussion is whether defendant has established an adequate defense of unconstitutional discriminatory prosecution with respect to her prosecution pursuant to Penal Code section 337a, subdivision 6. In Murgia v. Municipal Court, supra, 15 Cal.3d at page 298, our Supreme Court stated that the defendant must prove that he or she has been deliberately singled out for prosecution on the basis of some invidious criterion and that the prosecution would not have occurred except for the discriminatory design of the prosecutor. (See also People v. Superior Court (Hartway), 19 Cal.3d 338, 348 [138 Cal.Rptr. 66, 562 P.2d 1315].)
+Conscious selective enforcement of a penal statute, however, is not per se a denial of equal protection. (Oyler v. Boles (1962) 368 U.S. 448, 456 [7 L.Ed.2d 446, 453, 82 S.Ct. 501]; Murgia v. Municipal Court, supra, 15 Cal.3d at p. 299.) The selectivity must be deliberate and must also be based on an invidious or unjustifiable standard. (Oyler v. Boles, supra, 368 U.S. at p. 456 [7 L.Ed.2d at p. 453]; Murgia v. Municipal Court, supra, 15 Cal.3d at pp. 297, 300; People v. Serrata, 62 Cal.App.3d 9, 24 [133 Cal.Rptr. 144]; United States v. Swanson (8th Cir. 1975) 509 F.2d 1205, 1208.) Although no court has yet delineated the bounds of unjustifiable selective enforcement (see Bortin v. Superior Court, 64 Cal.App.3d 873, 877 [135 Cal.Rptr. 30]), courts have stated that when the discrimination is based on sex, religion, union membership, or the assertion of First Amendment rights, the selective enforcement is unjustifiable. (Murgia v. Municipal Court, supra, 15 Cal.3d at p. 302 (membership in United Farm Workers); United States v. Oaks (9th Cir. 1974) 508 F.2d 1403, 1404 (assertion of free speech rights); United States v. Berrios (2d Cir. 1974) 501 F.2d 1207, 1211 (assertion of First Amendment rights); United States v. Falk (7th Cir. 1973) 479 F.2d 616, 618-622 (assertion of First Amendment rights); United States v. Steele (9th Cir. 1972) 461 F.2d 1148, 1150-1152 (exercise of First Amendment rights); United States v. Crowthers (4th Cir. 1972) 456 F.2d 1074, 1078-1079 (exercise of First Amendment rights of speech and assembly).) When the discrimination is not based on an unjustifiable standard, the discrimination is not a denial of equal protection. (People v. Oreck, 74 Cal.App.2d 215, 221 [168 P.2d 186] (prosecution of horse race betting establishments and not election betting establishments did not violate equal protection). See People v. Serrata, supra, 62 Cal.App.3d at p. 24 (fact that prosecutions under Pen. Code, § 499c were rare even though offenses occurred did not violate equal protection).)
+Based on the record in this case, it is clear that defendant was prosecuted because she was a bookmaker and not a bettor. Thus, the prosecuting authorities discriminatorily enforced Penal Code section 337a against bookmakers and in favor of bettors.
+The selective enforcement of the statute against bookmakers and not against bettors, however, is not based on an invidious and unjustifiable standard. A distinction drawn on the basis of the difference in the kind of criminal conduct, even- though of equal culpability under the law, is neither suspect nor invidious. Moreover, this prosecutorial distinction may be justified on the basis that the police and the district attorney feel that their limited resources may be used most effectively in prosecuting those who generally profit most from the criminal activity and whose frequency of violation is generally much greater than those of their customers. (See People v. Superior Court (Hartway), supra, 19 Cal.3d at pp. 350-351.)
+Defendant did not assert that she was prosecuted because of her race, religion, sex, or exercise of First Amendment rights. She has thus not demonstrated that absent the announced policy, she would not have been prosecuted. She was arrested solely because she was a bookmaker and the police had probable cause to believe that she had committed the offense. (Id. at p. 351.) The selective enforcement of this statute against her was not a denial to her of constitutional equal protection since such discrimination was not based on an invidious or unjustifiable standard.
+Disposition
+The order of dismissal is reversed.
+Allport, J., and Potter, J., concurred.
+Although the clerk’s transcript indicates that defendant’s motion under Penal Code section 1538.5 was granted and the case dismissed for lack of evidence pursuant to Penal Code section 1385, the reporter’s transcript indicates that the trial" court never ruled on the 1538.5 motion and that the case was dismissed pursuant to the Murgia decision. On February 2, 1977, the trial court entered a nunc pro tunc order correcting this error.
+The trial court clearly erred in dismissing the entire action after it granted the Murgia motion. This motion could not apply to defendant’s prosecution under subdivisions 1 and 2 because these subdivisions cover only bookmakers and do not cover bettors.
+It can be argued, however, that optimum enforcement of this statute necessitates prosecution of both bettors and bookmakers. (See People v. Superior Court (Hartway), supra, 19 Cal.3d at p. 356 (italicized language), dis. opn. of Tobriner, J.)
