@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4795"
+decided: "1925-03-18"
+citations: ["71 Cal. App. 713"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LIONEL B. FEIGENBAUM et al., Respondents, v. FRANK AYMARD, Appellant."]
+source_url: "https://static.case.law/cal-app/71/cases/0713-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2180836
+cites_cases: ["114 Cal. 511", "46 Pac. 603"]
+---
+
+# Feigenbaum v. Aymard
+
+## Majority (TYLER, P. J.—)
+
+TYLER, P. J.—
+Action in unlawful detainer.
+The plaintiffs are the owners of certain premises known as the Hotel Lafayette, situated in San Francisco, and defendant entered into possession of. the hotel as a tenant under a written lease. This instrument provided for a three-year period commencing on the first day of November, 1919, and ending on the thirty-first day of October, 1922, at a monthly rental of $650. It also contained a clause to the effect that in the event the lessee should hold over beyond the term provided for, -such holding over would" be a month-to-month tenancy at a rental of $650, payable monthly in advance. At the expiration of the written lease defendant held over. On November 29, 1922, he was served' with a written notice, informing him that the terms of his then month-to-month» tenancy would be changed on and as of January 1, 1923, in respect of the amount of rent, which would be increased from $650 to $800 per month. Prior to the date named the parties met, and it is plaintiffs’ claim that it was finally agreed that the rental should be the sum of $700 under a month-to-month tenancy, and that under this arrangement defendant paid the $700 for the months of January and February, 1923. On January 29th plaintiffs served on defendant a written notice, terminating this tenancy, and which took effect February 28, 1923. Defendant refused to vacate and this action in unlawful detainer was thereupon commenced.
+Defendant in his answer denied the alleged tenancy from month to month and claimed that the agreement by which the rent was increased to the sum of $700 contemplated a new lease for a period of three years, to be secured by a chattel mortgage similar in effect to that which secured the terms of the written lease under which defendant originally entered in 1919. In this connection the answer alleged that plaintiffs drafted the lease agreed upon, which was fully executed by the parties. It is then charged that plaintiffs presented for execution a chattel mortgage entirely different from the one agreed upon, for which reason defendant refused to.sign the same. By way of further defense he alleged that possession was held by him under an executed parol agreement, the terms of which had been fully performed.
+Prior to the institution of this action defendant had filed a suit in specific performance. By stipulation that action was consolidated with the instant one.
+Upon the question of what agreement was reached by the parties upon the termination of the original lease with reference to an extension of the tenancy there Us evidence to show that they had in contemplation the execution of a new lease at the monthly rental of $700, which was to be secured by a chattel mortgage different in terms from the one given as security for the original lease, and that pending its execution defendant was to hold under a month-to-month tenancy at the monthly rental of $700, and that under this arrangement defendant paid two months’ rent. It appears therefrom that the negotiations for a new lease were carried on through the attorneys of the respective parties. A lease providing for a three-year extension was drawn and signed though it was never delivered to the lessee, for the reason that his attorney objected to the new conditions contained in the chattel mortgage. That the minds of the parties never met at any time upon the terms of the proposed three-year extension is clearly indicated by written communications had between the respective attorneys of the parties. The attorney for defendant addressed a letter to plaintiffs’ representative as follows:
+“It is now several days since I delivered to you the lease signed by Mr. Aymard for this hotel. Neither Mr. Aymard nor myself have received word that the lease with the corrections made at his suggestion have been accepted or signed by the owners, your clients. Mr. Aymard has refused to sign the chattel mortgage presented to him by the agent Louis Feigenbaum, who told him that he would either sign that chattel mortgage or he would get no lease. Mr. Aymard therefore notifies your clients and you, their attorney, that negotiations for the delivery of the lease to him are ended, and cancels the signature on the documents of proposed lease heretofore handed to you for submission to your clients. Be good enough to either return the same to me for canceling the signature of Mr. Aymard or in lieu of that you are hereby authorized to cancel such signature yourself.—Yours very truly,” etc.
+To this communication plaintiff’s attorney replied as follows:
+“I am in receipt of yours of the 24th inst. announcing your withdrawal of further negotiations on the subject of the lease of Feigenbaum et al. to Aymard and requesting your client’s name be eliminated from the document. I am authorized by Messrs. Feigenbaum _to communicate to you that in so far as Mr. Aymard is concerned at present all negotiations are concluded, and he is released subject to notice to vacate in thirty days.—Yours truly,” etc.
+This correspondence shows that the negotiations for an extension of the lease were not successful. Notice terminating the month-to-month tenancy immediately followed, and plaintiffs made a new lease with others at a rental of $800 per month.
+The trial court found in accordance with the facts we have recited and gave judgment for the restitution of the premises.
+The evidence is amply sufficient to support the findings. Defendant never agreed to the terms of the chattel mortgage, for which reason the contemplated lease was never executed. The mere fact that the lease was signed by the parties in no manner affects the question. It was never delivered to plaintiffs for the reason that defendant refused to comply with the terms demanded by the lessors. It was, therefore, never fully executed, and the parties never became obligated under its terms. (Stetson v. Briggs, 114 Cal. 511 [46 Pac. 603].) This being so, other questions based upon the assumption that the lease was executed became unimportant.
+The judgment is affirmed.
+Knight, J., and Cashin, J., concurred.
