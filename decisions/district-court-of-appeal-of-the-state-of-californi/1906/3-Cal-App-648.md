@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 27"
+decided: "1906-05-24"
+citations: ["3 Cal. App. 648"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. GLOVER H. ELDRIDGE, Appellant."]
+source_url: "https://static.case.law/cal-app/3/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1952583
+---
+
+# People v. Eldridge
+
+## Majority (ALLEN, J.)
+
+ALLEN, J.
+The defendant, under an information charging him with murder, was convicted of manslaughter. Prom the judgment and an order denying a new trial he appeals.
+Appellant contends that the information under which he was tried was uncertain as to the offense charged. This information charged the unlawful murdering and killing of a human being, to wit: “The infant, unnamed female child of said Glover H. Bldridge and Mabel Bldridge, wife of said Glover H. Bldridge, the said infant child being the child born to the said Glover H. Bldridge and said Mabel Bldridge on or about said twentieth day of February, 1905.” And it is insisted- that such charge might include the killing before birth, and therefore it cannot be determined from the information whether murder or abortion was intended to be charged. The only reasonable construction which can be given to the language employed in the information is to say that it charges that a child bom to the defendant was by him unlawfully killed and murdered. That it was born is clearly stated; that it could be killed after birth of necessity implies that it was bom alive, and we think the charge of murder was set forth with the degree of certainty required.
+Upon the trial of the case, the court properly instructed the jury as follows: “Without independent evidence which satisfies the minds of the jury beyond a reasonable doubt that the death of the infant referred to in the information here was caused by a criminal or unlawful act, the confession or admission of the defendant of his guilt would not be sufficient in law to warrant the jury in finding the defendant guilty.” A minute examination of the record, keeping in mind the rule of law above stated, discloses that, independent of the alleged confession, the following facts only were established by evidence which in any sense can be termed satisfactory,. namely: That a child was horn of defendant and his wife; that it died; that before it died, defendant, for the claimed purpose of alleviating the apparent pain of the child, at the instance of his wife, but under protest, administered not to exceed four drops of chloroform, which he dropped upon a handkerchief and placed the handkerchief for a few seconds on the child’s face and then removed it; that a moment thereafter the mother requested to see the child and when the defendant undertook to lift it found it was dead; that thereafter the defendant placed the child in a crude box and buried it in the garden adjacent to the house; that afterward the body was exhumed and a handkerchief was found over its face, not the same handkerchief, however, used in administering the chloroform. No trace of chloroform was discovered upon the handkerchief found upon the child’s face. It is in evidence and undisputed that the amount of chloroform placed upon the handkerchief would not produce death. A post-mortem examination revealed nothing as indicating a violent or unnatural death. A few weeks before the birth, the mother received an injury from which she suffered pain until the birth of the child. This child had been begotten before marriage. When confinement was imminent, a physician was summoned, but did not arrive until after the birth and burial of the child. An attendant, who was a sister of the defendant, told the physician upon his arrival that it was a premature birth and that the placenta had been removed. The physician, however, visited the sick room and removed what appeared to be a fully developed placenta, or one nearly so. It does not appear that the defendant, although present in the same room, was in a position where he could hear and understand what was said by the attendant to the physician. The foregoing being substantially all of the independent testimony introduced by the people, we are of opinion that the same falls short of establishing the commission of a crime, without the establishment of which no conviction could be had.
+Entertaining these views, it is not necessary to discuss the points involved in the admission of the alleged confession, nor of its scope or sufficiency to justify a conviction; nor the many other points raised by the specifications of error. There being no satisfactory evidence of the corpus delicti, the verdict and judgment as a matter of law are erroneous. Judgment and order reversed.
+Smith, J., and Gray, P. J., concurred.
