@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1599"
+decided: "1928-06-19"
+citations: ["92 Cal. App. 615"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. J. WALKER REMSBERG, Appellant."]
+source_url: "https://static.case.law/cal-app/92/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2114266
+cites_cases: ["100 Cal. 664", "110 Cal. 155", "13 Am. St. Rep. 96", "130 Cal. 449", "139 Cal. 66", "202 Cal. 159", "22 Pac. 67", "24 L. R. A. 33", "259 Pac. 750", "35 Pac. 326", "38 Am. St. Rep. 323", "42 Pac. 479", "62 Pac. 742", "72 Pac. 600", "80 Am. St. Rep. 141", "80 Cal. 49"]
+---
+
+# People v. Remsberg
+
+## Majority (THOMPSON, J.)
+
+THOMPSON, J.
+The defendant was convicted of the offense of forgery and appeals from the judgment and an order denying his motion for a new trial.
+In support of his appeal the appellant asserts that the evidence was insufficient to warrant the jury in saying that the intent to commit the crime of forgery was present, and also that no forgery was committed because there was no contract which could be the subject of forgery.
+The testimony discloses that the appellant and his father-in-law were engaged in the automobile business as partners at Santa Monica doing business under the name of Smith Motors. They had in their employ as a salesman one Earl L. Crane. On March 29, 1927, Earl Crane signed a conditional sales contract in blank, i. e., at the time he signed the paper it did not contain a description of the automobile nor a statement of the terms. He signed the name of Earl Lewis to the paper and said that he had some deals pending which would enable him to pay $600 down. The appellant signed the contract on behalf of the partnership, filled in the description of a 70 Chrysler sedan and the terms of $600 down and 12 monthly payments of $109.37, took the contract to one Claude Haworth, who was in the automobile finance business, and discounted it for $1,325. No part of the $600 was in fact paid by Crane nor was delivery of the automobile made to him. Crane testified that he signed the name of Lewis to the paper, as he had on a former occasion, because he had some creditors around the bay and did not want an attachment run. He also testified that nothing was said about filling in the blank portions of the contract. Edward I. Brack, an inspector for the motor vehicle department, testified that he called on appellant about April 19, 1927, and asked appellant why the department had received duplicate registration upon automobiles sold by Smith Motors and that appellant, after consulting his auditor and their records, furnished him with a list of automobiles in which was included a 70 Chrysler coupe, the motor number of which was Gr-167,371, which was the motor number given in the contract in question. The list further showed that “Haworth and Fredericks” had contracts on this machine. The witness further testified that “The question was asked Mr. Remsberg whether that was all the cars that were involved in the double financing and he stated yes,” and that appellant stated “that he had sold the cars for cash.” Fred Zimmerman, another inspector, testified substantially to the same effect clarifying it a bit by saying that “Mr. Remsberg stated that the cars had been sold for cash, that he owed Mr. Haworth the money for the cars and that he had never paid for them to him. In other words, had never taken up the contracts and had not made any clearance to the purchasers of the cars.” The appellant testified that the motor number inserted in the contract was a mistake; that they “didn’t have a 70 sedan with that motor number.”
+It cannot be denied that the question of intent is one for the jury and that if the evidence is such that the jury could reasonably draw therefrom the inference of guilty intent, its verdict cannot be disturbed by the appellate tribunal. (People v. Swalm, 80 Cal. 49 [13 Am. St. Rep. 96, 22 Pac. 67]; People v. Rushing, 130 Cal. 449 [80 Am. St. Rep. 141, 62 Pac. 742].) It is obvious from the circumstances of this case and the testimony which has been recited that the jury were reasonably justified in drawing the inference that the entire transaction with Crane, who signed as Lewis, was fraudulent and fictitious and took place for the sole purpose of enabling the appellant, on the strength of an apparently bona fide sale, to secure the sum of $1,325. In fact, no other suggested explanation rationally explains the sale or discount of the contract to Haworth without delivery of the automobile or the payment of any portion of the initial payment named in the writing.
+Appellant’s second contention that there was no contract the subject of forgery is based upon the testimony that there was no such automobile as that described by motor number in the writing. However, the infirmity of the contract is not apparent on its face. It could be used and was in fact used to defraud one acting upon it as though it were genuine. This is the test as announced in the following authorities: People v. Gayle, 202 Cal. 159 [259 Pac. 750]; People v. Munroe, 100 Cal. 664 [38 Am. St. Rep. 323, 24 L. R. A. 33, 35 Pac. 326]; People v. James, 110 Cal. 155 [42 Pac. 479]; People v. McGlade, 139 Cal. 66 [72 Pac. 600]. These cases effectually conclude appellant’s argument in this particular.
+Judgment and order affirmed.
+Works, P. J., and Craig, J., concurred.
