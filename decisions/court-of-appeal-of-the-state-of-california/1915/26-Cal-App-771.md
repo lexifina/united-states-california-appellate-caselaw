@@ -1,0 +1,25 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 1602"
+decided: "1915-03-16"
+citations: ["26 Cal. App. 771"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. L. GRIBLING, Respondent, v. E. R. BOHAN, Appellant."]
+source_url: "https://static.case.law/cal-app/26/cases/0771-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 332800
+cites_cases: ["126 Am. St. Rep. 84", "153 Cal. 509", "18 Am. St. Rep. 179", "24 Pac. 42", "31 Cal. 241", "84 Cal. 281", "96 Pac. 305"]
+---
+
+# Gribling v. Bohan
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+On September 7, 1912, an agreement in writing was made between respondent A. L. Gribling and L. Wether all whereby Wether all was to do certain painting and finishing in a building then under construction by Gribling as general contractor. Before any work was done under this contract of September 7th, Wether all executed to appellant Bohan a writing in which he said that for a valuable consideration “I hereby assign to Mr. Bohan” the said contract ami “I direct Mr. Gribling to pay all moneys to Mr. Bohan.” Thereafter work was done in part performance of the painting contract. This work was done by S. Thomas and men under his supervision, engaged therefor by appellant and payments on account were made by respondent to appellant. On December 21, 1912, appellant informed respondent that he would furnish nothing more on the job and that respondent could take any action or employ any men that he saw fit to employ to finish the work. The work having been abandoned by appellant, respondent caused it to be completed at a reasonable cost, which was in excess of the contract price. The appeal is taken by defendant from a judgment against him for the amount of this excess.
+Appellant contends that the .contract was assigned by him to Thomas; that respondent accepted Thomas as the party to perform the contract; and that the job was abandoned by Thomas. Written findings having been waived, we "must assume the facts against this contention, since there is evidence tending to support implied findings in favor of respondent as to these facts. The propositions of law urged by appellant’s counsel are, that the contract between Gribling and Wetherall is personal and could not be assigned; that the acceptance of the assignment by respondent and by appellant is not mutual, because they did not agree upon the same thing in the same sense, and that the acceptance is invalid because it is an alteration not in writing relating to a written contract; and that the assignment does not provide for performance of the contract by appellant.
+There are contracts for personal service or other personal performance which cannot be assigned so as to transfer the concurrent obligation without the consent of the person entitled to such performance. This is illustrated by the contract of an artist to paint a portrait; or a sale of land under agreement by the purchaser to execute his own promissory note for a part of the purchase price. (Taylor v. Palmer, 31 Cal. 241, 247; Montgomery v. De Picot, 153 Cal. 509, [126 Am. St. Rep. 84, 96 Pac. 305].) But the contract under consideration here is not one where there was any special reliance upon the personal skill and responsibility of Wetherall, the contractor, and respondent seems to have been satisfied to have the work done by another. If this contract had been fully performed by the assignee and payment refused, he could have recovered the contract price the same as if the work had been done by his assignor. The satisfactory performance of the work, not the fact of having it done by Wetherall, was the consideration for respondent’s obligation to pay therefor. (Taylor v. Palmer, 31 Cal. 241 ; La Rue v. Groezinger, 84 Cal. 281, 285, [18 Am. St. Rep. 179, 24 Pac. 42].) It is true that the assignment does not in specific terms provide for -the performance of the contract by appellant. But on receiving the assignment he informed respondent that Thomas, a person selected by him, was going to run the job. Appellant from that time treated the assignment as one obligating him to do or to be responsible for the doing of the work, and by his own act placed and left the job in condition where it could not be completed at a cost within the contract price. Having done a part of the work and having received practically the entire contract price upon the understanding that he was responsible for the job, appellant is bound by his own interpretation of the contract, and this, upon the principle of estoppel, he should not be permitted to refute upon finding the contract unprofitable. The assignment under these circumstances is not rendered invalid under the terms of section 1698 of the Civil Code, providing that “a contract in writing may be altered by a contract in writing, or by an executed oral agreement, and not otherwise.”
+The judgment is affirmed.
+James, J., and Shaw, J., concurred. ■
