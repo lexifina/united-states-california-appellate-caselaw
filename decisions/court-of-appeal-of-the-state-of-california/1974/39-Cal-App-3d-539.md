@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 12041"
+decided: "1974-05-28"
+citations: ["39 Cal. App. 3d 539"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. BILLY M. CLEM et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/39/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6037531
+cites_cases: ["162 P.2d 913", "174 Cal.App.2d 42", "27 Cal.2d 121", "344 P.2d 327", "39 Cal.Rptr. 361", "393 P.2d 673", "449 P.2d 230", "61 Cal.2d 529", "70 Cal.2d 123", "74 Cal.Rptr. 294", "8 A.L.R.3d 1092"]
+---
+
+# People v. Clem
+
+## Majority (CHRISTIAN, J.)
+
+Opinion
+CHRISTIAN, J.
+After a nonjury trial, Billy M. Clem and Walter Mengel appeal from a judgment which fined each of them $50 for each of six counts of selling securities without first qualifying the securities with the Commissioner of Corporations (Corp. Code, §§ 25110, 25540).
+Appellants formed three limited partnerships for the purpose of raising money to develop silver mines in Nevada. Without qualifying the securities with the Commissioner of Corporations as required by section 25110 of the Corporations Code, appellants sold interests in the limited partnerships to the public and capitalized their ventures in a total amount exceeding $300,000. Learning that they might be operating unlawfully, appellants arranged to buy back the interests of some of the investors; others consented to the conversion of their partnership interests into shares of stock in a new corporation. The trial court determined that the issuance of corporate stock did not violate California law because the transactions took place in Nevada. The ventures soon failed, and substantial losses were sustained by investors.
+Appellants contend that they should not have been found guilty in the absence of evidence that they acted with criminal intent. The appeal turns on the construction of the penalty provisions of the Corporate Securities Law of 1968 (Stats. 1968, ch. 88, operative Jan. 2, 1969). Section 25110 makes it “unlawful for any person to offer or sell in this state any security in an issuer transaction . . . unless such sale has been qualified . . .” Criminal penalties are provided in section 25540: “Any person who willfully violates any provision of this law, or who willfully violates any rule or order under this law, shall upon conviction be fined not more than ten thousand dollars ($10,000) or imprisoned in the state prison for not more than 10 years or in a county jail for not more than one year, or be punished by both such fine and imprisonment; but no person may be imprisoned for the violation of any rule or order if he proves that he had no knowledge of the rule or order.” (Italics added.)
+Appellants assert that in condemning only “willful” violations the Legislature exempted from prosecution any seller of unqualified securities who cannot be shown to have possessed some form of criminal intent, mens rea, or other moral culpability.
+Former section 26104, subdivision (a), repealed by the Corporate Securities Act of 1968, provided criminal penalties for any person who “knowingly” dealt with securities in an unlawful manner. It was established under the prior statute that “knowingly,” as used in the penalty provision, meant with “knowledge of the essential facts” and that advice of counsel or other showing of good faith was not a defense to a charge of unlawful dealing in securities. (See, e.g., People v. Sidwell (1945) 27 Cal.2d 121, 126 [162 P.2d 913]; People v. Acres (1959) 174 Cal.App.2d 42, 48 [344 P.2d 327].)
+The question is whether the new statute, in punishing only “willful” violations, creates a defense of good faith. That is to say, does “the governing statute, by implication or otherwise, [express a] legislative intent or policy to be served by imposing strict liability.” (People v. Hernandez (1964) 61 Cal.2d 529, 533 [39 Cal.Rptr. 361, 393 P.2d 673, 8 A.L.R.3d 1092]; see also People v. Superior Court (1969) 70 Cal.2d 123, 132 [74 Cal.Rptr. 294, 449 P.2d 230].)
+Among several connotations conveyed in common usage by the word “willfully” the one most fitting to the statutory context is “done deliberately: not accidental or without purpose.” (Webster’s Third New Internat. Dict. (1967).) Similarly, in legal usage “willful” has been defined as meaning “proceeding from a conscious motion of the will; voluntary.” (Black’s Law Dict. (4th ed. 1968).) As used in the Penal Code the word “willfully” has been defined by statute as implying “simply a purpose or willingness to commit the act, ... It does not require any intent to violate law, . . .” (Pen. Code, § 7, subd. 1.) It remains to be determined whether in the context of the Corporate Securities Law the word takes on a connotation different from its general meaning.
+The draftsmen of the Corporate Securities Law of 1968 have written that section 25540 was derived from two sources: section 409, subdivision (a), of the Uniform Securities Act approved in 1956 by the National Conference of Commissioners on Uniform State Laws, and section 26104 of the previous California Corporate Securities Law (2 Marsh & Volk, Practice Under the Cal. Corporate Securities Law of 1968 (1973) Draftsmen’s Commentary, App A-l-614; 7 U.L.A., pp. 691-692). Therefore, the decisions cited above, which held that under former section 26104 good faith was not a defense, support the Attorney General’s argument that the Legislature intended section 25540 to preserve strict criminal liability for violations of the Corporate Securities Law.
+Reference to section 409, subdivision (a), of the Uniform Securities Act points toward the same conclusion. The Commissioners’ Notes to the Uniform Securities Act explain the meaning of the word “willfully” as it is used in section 409, subdivision (a), as follows: “all that is required is proof that the person acted intentionally in the sense that he was aware of what he was doing. Proof of evil motive or intent to violate the law, or knowledge that the law was being violated, is not required. The principal function of the word ‘willfully’ is thus to serve as a legislative hint of self-restraint to the Administrator.” (Commissioners’ Notes, 7 U.L.A. 715, 769.)
+We conclude that except as provided by section 25700 advice of counsel or other evidence of good faith is not a defense to a charge of dealing in unqualified securities.
+Other insubstantial contentions advanced by appellants do not require discussion.
+The judgment is affirmed.
+Caldecott, P. J., and Rattigan, J., concurred.
+Unless otherwise indicated, all statutory references herein are to the Corporations Code.
+“No provision of this law imposing any liability applies to any act done or omitted in good faith in conformity with any rule, form, permit, order, or written interpretive opinion of the commissioner, or any such opinion of the Attorney General, notwithstanding that the rule, form., permit, order, or written interpretive opinion may later be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.”
