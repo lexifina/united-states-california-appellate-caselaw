@@ -1,0 +1,43 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 763"
+decided: "1910-04-11"
+citations: ["13 Cal. App. 198"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of JOSEPH GOETZ, Deceased. EMMA BOEHM et al., Appellants, v. LOUIS ALBERT GOETZ et al., Respondents."]
+source_url: "https://static.case.law/cal-app/13/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4592771
+cites_cases: ["105 Pac. 981", "155 Cal. 46", "156 Cal. 510", "18 Pac. 248", "22 Misc. Rep. 672", "23 Pac. 286", "28 Pac. 101", "36 Atl. 66", "49 N. Y. Supp. 942", "76 Cal. 212", "83 Cal. 185", "89 Me. 151", "9 Am. St. Rep. 199", "92 Cal. 83", "99 Pac. 476"]
+---
+
+# Boehm v. Goetz
+
+## Majority (KEBBIGAN, J.)
+
+KEBBIGAN, J.
+This is an appeal from an order of partial distribution, whereby a certain parcel of real estate in the city and county of San Francisco was distributed to the, respondents.
+The testator, Joseph Goetz, devised all his real estate-owned by him at the time of his death to the respondents, who were his nieces and nephews. The surplus of his estate which reniained after the payment of money legacies aggregating $180,000 was bequeathed by him to the appellants and others.
+Joseph Goetz executed his will May 11, 1904. He died July 1, 1907. On January 7, 1907, he and E. C. Chapman had executed an instrument in writing as follows:
+“Chatfield & Vinzent,
+“Real Estate, Mortgages, Loans and Insurance,
+“51 Post Street.
+“San Francisco, Jan. 7, 1907.
+“Received from E. C. Chapman the sum of $5,000.00, being deposit on account of $75,000.00, United States gold coin, the purchase price of the property this day sold to him, as per the owner’s authority, situated in the city and county of San Francisco, State of California, and described as follows.” (Here follows a particular description of the real property.)
+“Terms of sale: 90 days allowed to examine title and consummate sale; at the expiration of said time the balance of said purchase money is due and payable upon tender of the deed of the property sold. If title is defective, thirty days are allowed the seller to perfect the same, and if, aftef the expiration of said time (unless extended by mutual consent) the title is incurably defective, then the deposit is to be returned at once. If the sale is not consummated in accord; anee with the foregoing conditions the deposit is to be forfeited. Time is of the essence of the contract. Taxes for the fiscal year 1906-07 to be pro rated. Title is to- be approved by the Pacific Title Insurance Company, whose policy of insurance shall be evidence of good title.
+“CHATFIELD & VINZENT.
+“I, the said E. C. Chapman, hereby agree to purchase the above-described property and to comply with all the conditions therein contained.
+“ (Sale to be consummated at the office of Chatfield & Vinzent.)
+“E. C. CHAPMAN.
+“San Francisco, Jan. 7, 1907.
+“I hereby approve the above sale.
+“JOSEPH GOETZ.”
+Two days after the execution of this contract, to wit, January 9th, Joseph Goetz signed a grant, bargain and sale deed of said land to Chapman. On January '11th he duly acknowledged the same, and deposited it with the French-American Bank of San Francisco, with written instructions that it be delivered to Chapman on or before ninety days from date upon payment by Chapman of $70,000, which amount was stated to be the balance of the purchase price of said property “as per contract of sale dated January 7, 1907.” Subsequent to this date Chapman went into possession of said property and wrecked some of the buildings, and caused some of the bricks thereon to be cleaned. When the instrument of January 7th was executed Chapman paid the $5,000 deposit therein mentioned. On April 25, 1907, Chapman and Goetz signed an agreement wherein it was provided that in consideration of the sum of $2,000 additional deposit Chapman’s time for the carrying out of the contract of January 7th was extended up to and including May 10, 1907. On May 9, 1907, Goetz signed and delivered a receipt to Chapman for $93.10, being interest for ten days from the 10th to the 20th of May on $68,000, the balance due Goetz from Chapman on the “contract of sale” of said property. On May 24, 1907, in the presence of Goetz and Chapman, the contract of January 7th was marked “canceled”; the deed which had been on deposit with the French-American Bank was returned to Goetz, and, in the language of Chapman, “the deal was off.”
+The respondents claim under a devise by the testator of all the real estate owned by him at the time of his death, which includes the parcel now in dispute. Appellants, on the other hand, contend that the instrument of January 7th operated as a grant, bargain and sale deed from Goetz to Chapman, and that consequently Goetz at the time of his death no longer owned the land; or that if the instrument was not such conveyance it operated in equity to convert the realty into personalty; so that in either event the property would not be carried by the devise to the respondents.
+We cannot agree with the contentions of appellants. It is true that in the contract in question the word “sold” was used, and that Chapman went into possession of the property and wrecked some of the buildings. But it is conceded, as of course it must be, that the word “sold” does not conclusively show a present conveyance. (Blackwood v. Cutting Packing Co., 76 Cal. 212, [9 Am. St. Rep. 199, 18 Pac. 248]; Eaton v. Richeri, 83 Cal. 185, [23 Pac. 286] ; Shainwald, Buckbee & Co. v. Cady, 92 Cal. 83, [28 Pac. 101] ; Gallup v. Stering, 22 Misc. Rep. 672, 49 N. Y. Supp. 942; Brooks v. Libby, 89 Me. 151, [36 Atl. 66]; Cooley v. Miller & Lux, 156 Cal. 510, [105 Pac. 981]; Payne v. Neuval, 155 Cal. 46, [99 Pac. 476].) And the possession by Chapman only shows that the parties intended .to carry out the contract. Later, however, they changed their minds and canceled the arrangement. The instrument was not called by the parties a deed, nor was it executed with' the formalities of such a document, and it was not regarded as a conveyance by either Goetz or Chapman. The fact that a deed to the property was deposited with the bank by Goetz shows that Goetz at least did not regard the agreement of January 7th as a deed. Moreover, Chapman’s signature to the contract is preceded by the words “I agree to purchase.” The $2,000 paid by him was referred to in the receipt not as a part payment, but as an additional deposit. Finally the conduct of the parties to the transaction with reference thereto, and particularly on May 24th, when in the presence of Chapman the deed was returned to Goetz by the bank and the contract marked “canceled,” indicates that they never intended that the agreement of January 7th should divest Goetz of his title.
+Upon a consideration of the whole instrument, together with the conduct of the parties, it is very plain to us that the instrument was an agreement of sale and not a conveyance.
+Equally without merit'is appellants’ contention that if the agreement in question be construed as a contract of sale instead of a conveyance, it effected an equitable conversion of the property from real estate into personal estate, and that the property must therefore fall into the residue of personal estate and be distributed to the testator’s legatees. This contention is based upon the theory that the contract was -subsisting, valid and enforceable at the time of the death of Goetz; but the court found on ample evidence that on May 24th “the said agreement for the purchase of said property was entirely canceled and rescinded by agreement then entered into between the said decedent and the said Edgar C. Chapman,” and that thereafter Goetz “returned and paid to said Edgar C. Chapman the said sum of $5,000 paid on account of said purchase price as aforesaid. ’ ’ Another conclusive answer to this contention is that section 3301 of the Civil Code operated to prevent the application of the doctrine of equitable conversion (even if it had been otherwise applicable). That section reads as follows: “An agreement made by a testator for the sale or transfer of property disposed of by a will previously made does not revoke such disposal; but the property passes by the will, subject to the same remedies on the testator’s agreement for a specific performance or otherwise against the devisees or legatees as might be had against the testator’s successors if the same had passed by succession.”
+The order is affirmed.
+Hall, J., and Cooper, P. J., concurred.
