@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 671"
+decided: "1919-10-07"
+citations: ["43 Cal. App. 462"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Proceedings for the Disbarment of W. J. HITTSON, an Attorney at Law."]
+source_url: "https://static.case.law/cal-app/43/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041927
+cites_cases: ["108 Pac. 322", "157 Cal. 425", "177 Pac. 453", "179 Cal. 510"]
+---
+
+# In re Hittson
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+The judgment from which this appeal is taken is a judgment permanently disbarring the appellant from the right to practice as an attorney and counselor in the courts of this state. The accusation was filed on behalf of the Bar Association of Los Angeles County. The court found that the allegations contained in the first, third, and fifth counts of the accusation are true. The judgment is based upon those findings.
+Briefly stated, the first count charged that while appellant and one Cleveland Schultz, also an attorney at law, were employed by one Plevros to represent him in the defense of a certain action, Plevros paid into the hands of said attorneys $142.50 to be applied on the payment of any judgment rendered against Plevros in said action, and for no other purpose; that judgment was rendered against him in the sum of $22.05; that said attorneys, although having in their joint possession the money so delivered to them by Plevros, converted the money to their own use, did not pay the judgment and refused to return the money or any part thereof to Plevros. It appears from the evidence that Schultz did pay the amount of the judgment without formal entry thereof. The evidence is, however, sufficient to justify the finding on this count as to all other facts alleged. Plevros had paid said attorneys a separate cash fee for the defense of said action, and the evidence was sufficient to prove that they were not entitled to retain the additional sum for their services.
+The third count charges that in a criminal action in the justice court of Ballona Township, in Los Angeles County, appellant qualified as surety for the defendant on a bail bond in the sum of $250, and in connection therewith testified that he was at that time the actual owner of eight lots in the county of Riverside, that said lots were at that time of the value of $250 each, and were at that time assessed for the sum of fifty dollars each by the assessor of Riverside County. The accusation then alleged that in fact Hittson did not at that time own any lots whatsoever in Riverside County; that in making such affidavit he well knew that he did not own said lots and that his statement was made for the purpose of defrauding the justice of the peace and of enabling him to qualify on said bond. The justice of the peace in his testimony stated that at the time in question and upon becoming surety ón said bond Hittson was sworn as to his qualifications and testified that he owned eight lots just outside of the city of Riverside, in the county of Riverside, that they were assessed at fifty dollars each, and that their real value was $250 each; that Hittson gave no description of said lots, but promised to mail to the justice a detailed description thereof, which, however, he did not do. There is other evidence which, in our judgment, is sufficient to support the court’s conclusion that appellant did not own any such lots.
+The fifth count of the accusation alleges that appellant was employed by one Sagar to prosecute an action against one Lange for damages arising out of a collision with an automobile; that instead of commencing such action appellant framed a complaint as stating a cause of action for indebtedness for labor performed and services rendered, and in connection therewith filed an affidavit for attachment wherein it was stated that the amount demanded was due to the defendant upon an express or implied contract for the direct payment of money; that appellant knew when he commenced said action and when he filed said affidavit for attachment that said money was not due for services rendered or labor performed. The record shows that the complaint was made and the affidavit for attachment filed as stated in the accusation. The testimony of Sagar is to the effect that in his statement of facts to appellant he told appellant that his claim was for damages to the machine in the collision and that he did not tell Hittson that he had performed any labor for the defendant, or that he had any claim against the defendant for work and labor.
+The points urged in support of the appeal are each and all directed to the claim made on behalf of appellant that the evidence is insufficient to support these several ae eusations. It may be admitted that there is a conflict in the evidence relating to these several charges against appellant; nevertheless, after reading the record we are satisfied that there is evidence of a substantial nature supporting the material allegations on each of the three counts on which the judgment is founded. That is sufficient for the purposes of this appeal. (In re Morton, 179 Cal. 510, [177 Pac. 453]; In the Matter of Danford, 157 Cal. 425, [108 Pac. 322].) The facts found established appellant’s guilt of professional misconduct and showed that he is wanting in that integrity of character and conduct which the law rightfully requires from an attorney at law.
+The judgment is affirmed.
+Shaw, J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 4, 1919.
+All the Justices concurred, except Melvin, J., who was absent.
