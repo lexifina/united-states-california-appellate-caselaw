@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9781"
+decided: "1936-04-08"
+citations: ["13 Cal. App. 2d 140"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN F. EQUI, Respondent, v. CITY AND COUNTY OF SAN FRANCISCO (a Municipal Corporation) et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/13/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263424
+cites_cases: ["117 Cal. App. 583", "117 Pac. 991", "161 S. W. 1166", "211 Cal. 281", "253 Mo. 592", "253 U. S. 113", "295 Pac. 28", "30 Colo. 271", "4 Pac. (2d) 167", "59 Or. 598", "70 Pac. 416"]
+---
+
+# Equi v. City & County of San Francisco
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+Plaintiff individually and on behalf of all persons similarly situated, brought this action for declaratory and injunctive relief. Judgment was entered in favor of plaintiff and defendants have appealed.
+The complaint in this action shows that respondent sought to attack the validity of the provisions of Ordinance 5132 (New Series) of the City and County of San Francisco in so far as said ordinance imposed certain taxes upon automobile supply stations, commonly known as service stations. A reading of the judgment shows that the trial court declared that the license tax of $40 per quarter imposed upon automobile supply stations by the provisions of said ordinance was invalid (1) because it was a license tax for revenue rather than for regulation and (2) because it was unreasonable, oppressive and discriminatory. The trial court therefore enjoined its collection. Appellants do not complain of the portion of the judgment declaring said tax invalid because it was unreasonable, oppressive and discriminatory and enjoining the collection thereof. Their attack is directed solely at that portion of the judgment declaring said tax invalid because it was a tax for revenue rather than for regulation and declaring that the City and County of San Francisco was without power to impose such a license tax. In other words, appellants do not seek a reversal of the entire judgment, but state that “the judgment of this court should be to the effect that the City and County of San Francisco, under proper circumstances, has the right to levy license taxes for revenue and that the City and County of San Francisco is not confined to the levy of license taxes for regulation purposes only”.
+A motion to dismiss this appeal has been submitted with the cause on the merits. Said motion was made upon the ground that “said appeal and said cause have become moot”. In support of said motion, respondent filed affidavits showing that shortly after the judgment of the trial cr art was entered, the City and County of San Francisco adopted Ordinance 3.04123 which amended section 19 of said Ordinance 5132 to read as therein provided. The result of this amendment was to reduce the quarterly license tax upon automobile supply stations from $40 to $6.25. It therefore appears that the provisions of said Ordinance 5132 imposing a license of $40 per quarter have been repealed. Appellants do not deny the repeal of said provisions imposing the $40 tax upon automobile supply stations but contend that their attack upon a portion of the judgment should be considered in order that this court may determine whether the City and County of San Francisco has the power to license for revenue under the provisions of section 24 of the new charter. (Stats. 1931, p. 2973.)
+We are of the opinion that the motion to dismiss the appeal should be granted. The provisions of said Ordinance 5132 which were attacked in the complaint have been repealed. The judgment declaring invalid the $40 license tax imposed by the repealed provisions of said ordinance upon the ground that said tax was unreasonable, oppressive and discriminatory finds support in the record and is not challenged by appellants. Under the circumstances, we believe that the question of whether the license tax imposed by the repealed provisions of said ordinance was invalid upon the further ground that it was a license tax for revenue rather than for regulation and the question of whether the City and County of San Francisco had the power to impose such a license tax for revenue have become abstract, academic and dead issues which no longer present any actual controversy between the parties. It therefore appears that the only issues presented by this appeal have become moot and that “the appeal should not be entertained solely for the purpose of entering an academic discussion of the legal questions presented”. (Stockwell v. McAlvay, 117 Cal. App. 583 [4 Pac. (2d) 167]; see, also, Carter v. Stevens, 211 Cal. 281 [295 Pac. 28]; United States v. Alaska S. S. Co., 253 U. S. 113 [40 Sup. Ct. ,448, 64 L. Ed. 808]; City of Portland v. Investment Co., 59 Or. 598 [117 Pac. 991]; State Board of Equalisation v. People, 30 Colo. 271 [70 Pac. 416]; Union E. L. & P. Co. v. City of St. Louis, 253 Mo. 592 [161 S. W. 1166]; Borchard on Declaratory Judgments, pp. 282, 283.)
+The appeal is dismissed.
+Nourse, P. J., and Sturtevant, J., concurred.
