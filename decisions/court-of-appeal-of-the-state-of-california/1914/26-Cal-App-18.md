@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 1394"
+decided: "1914-11-20"
+citations: ["26 Cal. App. 18"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM F. HERRON, Respondent, v. LEWIS S. GEAR, Appellant."]
+source_url: "https://static.case.law/cal-app/26/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 332809
+---
+
+# Herron v. Gear
+
+## Majority (THE COURT.)
+
+THE COURT.
+This is an action to recover the sum of $2,313.00 and interest, alleged to be due upon a promissory note executed by the defendant for said sum, payable six months after date to the order of himself, indorsed by him in blank, and delivered to one Wilkie L. Edwards. This note was given by the defendant in payment of a balance due upon the purchase price of three thousand shares of the capital stock of the Pacific Slope Securities Co., a corporation, of which at the time of the transaction said Wilkie L. Edwards was president. At some time after its execution Wilkie L. Edwards indorsed, and transferred the note to Lula Edwards Chase, who in turn indorsed and transferred it to the plaintiff in this action.
+Practically the only questions arising upon this appeal turn upon the issues presented by the pleadings as to the nature of the transaction in the course of which the note was given, and as to the real parties in interest therein. The appellant asserted in his answer and insisted upon the trial that the transaction for the purchase of the stock of the Pacific Slope Securities Co., in part payment of which this note was given, was one between himself and the Pacific Slope Securities Co., and that the part which Wilkie L. Edwards took in that transaction was simply that of president and representative of that corporation; that he received the note in question in that capacity and in none other, and that the stock which was issued to the defendant and in part payment for which this note was given was the stock of the Pacific Slope Securities Co., owned by it at the time and issued to the defendant as its purchaser; and the defendant follows up these pleadings and proofs with the showing that before the note was due he went to the office of the corporation and there paid the whole amount of this note, which said payment the said corporation accepted, as he contends, either as payment in full of the amount due upon the sale of its stock, or as the trustee of Wilkie L. Edwards or his successors in ownership of this note; and that by such payment the liability of the defendant on account of this note has been fully discharged.
+These contentions on the part of the defendant were resisted by the plaintiff upon the trial, in the course of which evidence was presented on behalf of the plaintiff tending strongly to show that the original transaction was one between Wilkie L. Edwards individually and the defendant; that the stock transferred to the latter was the personal stock of Edwards, and that he was and was understood by the defendant to be the real party in interest in the matter, and as such the owner of the note. The evidence upon this subject being clearly conflicting, and the trial court having resolved such conflict in favor of the plaintiff’s contention this court will not undertake to disturb its findings in that respect.
+During the course of the trial the defendant offered in evidence a certain indorsement upon the certificate of stock issued to him in the following words:
+“This certificate of stock is sold to Lewis S. Gear upon the following terms of payment: Promissory note for 2313.00, dated May 13th, 1909, due November 15th, 1909, with interest at the rate of six (6%) per annum; and is delivered upon the express condition that the same shall not be sold, transferred, hypothecated, or otherwise disposed of, until the foregoing conditions of payment are fully met and completed, and a certificate of the same indorsed hereon by the president or secretary of this corporation; the above conditions subject, however, that any portion of this may be transferred upon the payment of a proportionate amount of money of said indebtedness.
+(signed) F. 0. Ballentine, Secretary.
+(signed) Lewis S. Gear.”
+The defendant insisted at the trial, and here insists, that the terms of this indorsement establish two things: 1. That the transaction was one with the corporation; and, 2. That by the terms of this indorsement the defendant was required, and hence entitled, to pay the sum due upon his note to the corporation; and that having done so he was thereby discharged from further liability upon his obligation.
+As to the first of these contentions it is disposed of by the findings of the court.
+As to the second, it appears that the indorsement does not upon its face purport to require that any money shall be paid to the corporation, or that it shall be entitled to demand or receive any, but only requires that before the stock is transferred upon the books of the corporation its officers shall be placed in a position to certify that the stock has been fully paid for through the payment of the promissory note which had been issued for a portion of its purchase price. That this is the proper construction to be placed upon this document would seem quite clear when it is read in connection with the testimony of the officers of the corporation and the findings of the court to the effect that this stock was not the property of the corporation, and that it had no interest in the promissory note which had been issued for a portion of its purchase price.
+The court further finds, and the evidence is sufficient to sustain it in so doing, that the defendant knew at all times that Wilkie L. Edwards and not the corporation was the owner and was in the actual possession of this note; and that in making whatever payment he did make on account of this note to the corporation, or to any person other than its holder, he was paying the amount due on the note to a person or persons not in or entitled to its possession, and hence not in a position to deliver up to him his note when paid. One who pays a negotiable note before its maturity to another not its possessor does so at his peril; and this seems from the evidence and findings in this case to be what the defendant has done.
+We find no error in the record sufficient to justify a reversal of the case.
+Judgment affirmed.
