@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2038"
+decided: "1918-02-01"
+citations: ["36 Cal. App. 116"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE H. PERKINS, Respondent, v. EVERETT EDINBURG et al., Appellants."]
+source_url: "https://static.case.law/cal-app/36/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4450871
+---
+
+# Perkins v. Edinburg
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+This is an action to recover a sum of money alleged to be due upon contract. Judgment by default was duly entered on the twenty-third day of June, 1914. On October 3, 1914, there was filed in the action a document marked “copy,” purporting to be a stipulation between the attorneys for the plaintiff and the attorney for the defendants to the effect “that the judgment heretofore entered therein upon default may be vacated without prejudice to either party, the said default set aside, and the defendants permitted to file their answer therein within five days after said judgment is so vacated and said default set aside.” Said copy was dated September 23, 1914. On October 14, 1914, a second entry of default of the defendants was indorsed upon the complaint and a second entry of judgment was made by the clerk on October 22, 1914. On May 28, 1915, a document purporting to be the original stipulation, of which a purported copy had been filed as above stated, was filed in this action. Thereupon on the same day, May 28, 1915, the court made its order reciting the terms of said stipulation and ordered “that the judgment heretofore entered in the above-entitled action, in favor of the plaintiff and against the defendants, is hereby vacated and set aside without prejudice to either party to said action, and the default of the defendants which was entered in said action is hereby set aside and the defendants are hereby given five days from this day within which to serve and file their answer to the complaint in said action. ’ ’ On the same day the answer (which had been verified on September 14, 1914) was filed. Thereafter, on July 12, 1915, upon due notice, the plaintiff moved the court to set aside the order of the court made on the twenty-eighth day of May, 1915, upon the following ground: “That the said stipulation was given to the attorney for the defendants upon the agreement that it be filed immediately, on or about the fifteenth day of July, 1914, and that a duplicate of the said stipulation was thereafter filed on the third day of October, 1914, and the terms of the said stipulation have been fully complied with by plaintiff.” The motion was granted by order made on said twelfth day of July, 1915, and the appeal is by the defendants from that order.
+Only a typewritten transcript on appeal has been filed herein. We assume that appellants have printed in their brief such portions of the record as they desire to call to the attention of the court, and our statement of facts is confined to the matters thus brought, to our attention. (Code Civ. Proc., sec. 953c.) There is no brief for the respondent.
+Counsel for appellants inform us in their brief that the motion of July 12, 1915, was heard upon affidavits and the records of the case. The minute order as printed in the brief shows that at least one affidavit was presented by the plaintiff’s attorney. There has not been printed with the brief a copy of the affidavits or any portion thereof. Counsel suggest that the motion could not have been granted upon the ground that the stipulation was given in July; and they further insist that the document filed on October 3, 1914, was not an original of the stipulation, but only a copy. As to these matters the facts may have been disputed, or may have been entirely favorable to the plaintiff as shown by the affidavits; and we must assume that they did support the motion, since the court granted that motion.
+Appellants contend that judicial action was necessary to vacate the judgment or set aside the default, and that since there was no judicial action to that effect until May 28, 1915, appellants were entitled under the stipulation to file their answer within five days after that date. Assuming that the filing of a copy or duplicate of the stipulation did not alone vacate the judgment or set aside the default, it does not necessarily follow that the court erred in setting aside the order of May 28th. The court may have found in the affidavits ample reason to be satisfied that the stipulation had been granted by plaintiff’s attorneys actually on July 14, 1914, upon the agreement stated in the motion; and that under the circumstances shown, no good reason existed for allowing the defendants to have their default set aside in order that they might then file an “answer and cross-complaint,” which on its face had been verified and ready for filing ever since the previous September.
+The order is affirmed.
+James, J., and Works, J., pro tem., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on April 1, 1918.
