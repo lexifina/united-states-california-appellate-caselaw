@@ -1,0 +1,38 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 437"
+decided: "1965-06-10"
+citations: ["235 Cal. App. 2d 40"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NIAGARA FIRE INSURANCE COMPANY, Plaintiff and Respondent, v. ALOHA JUANITA COLE, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/235/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2155595
+cites_cases: ["118 P.2d 815", "127 Cal. App.2d 597", "137 A.L.R 923", "15 Cal.Rptr. 576", "19 Cal.2d 1", "195 Cal.App.2d 236", "238 P.2d 982", "274 P.2d 476", "38 Cal.2d 119"]
+---
+
+# Niagara Fire Insurance v. Cole
+
+## Majority (STONE, J.)
+
+STONE, J.
+— This appeal is from a judgment for respondent insurance company in an action for declaratory relief, and for an injunction to restrain appellant from proceeding under the uninsured motorist statute with an arbitration hearing on her claim for injuries.
+Respondent issued to appellant an automobile insurance policy with uninsured motorist coverage for the period March 10, 1960, to March 10, 1961. On April 4, 1960, while driving a vehicle covered by the policy, appellant was injured; the driver of the other vehicle involved was and is unknown. Within 30 days appellant filed with respondent a statement concerning the accident, as required by the policy provisions relating to uninsured motorist coverage. On July 17, 1963, appellant made a claim and demand upon respondent for damages for bodily injuries, and a demand for arbitration with the American Arbitration Association. No action was filed against the uninsured motorist, and no arbitration proceeding was instituted prior to July 17, 1963.
+Following appellant’s demand for arbitration, respondent filed this action for declaratory relief and for an injunction staying arbitration proceedings, alleging that appellant’s cause of action under the uninsured motorist provisions of the policy was barred by section 11580.2, subdivision (h), of the Insurance Code.
+When the accident occurred the uninsured motorist statute embodied no period of limitations governing causes of action accruing thereunder, so that general statutes limiting the filing of actions were applicable. Effective September 15, 1961, which was after the occurrence of the accident, subdivision (h) was added to section 11580.2. It provides:
+“ (h) No cause of action shall accrue to the insured under any policy or endorsement provision issued pursuant to this section unless within one year from the date of the accident:
+“ (1) Suit for bodily injury has been filed against the uninsured motorist, in a court of competent jurisdiction, or
+“ (2) Agreement as to the amount due under the policy has been concluded, or
+“ (3) The insured has formally instituted arbitration proceedings.”
+The trial court found that appellant’s cause of action was barred by the one-year period of limitations.
+It is well established that the Legislature may reduce the period within which an action may be commenced, since a statute of limitations affects the remedy only and does not impair the cause of action itself. (Mitchell v. Automobile etc. Underwriters, 19 Cal.2d 1 [118 P.2d 815, 137 A.L.R 923] ; Scheas v. Robertson, 38 Cal.2d 119, 125 [238 P.2d 982].) However, a statute shortening the period of limitations cannot be applied retroactively to wipe out an accrued cause of action that is not barred by the then applicable statute of limitations. To avoid the unconstitutional effect of retroactive application, a statute must be applied prospectively to such causes of action. (Baldwin v. City of San Diego, 195 Cal.App.2d 236, 241 [15 Cal.Rptr. 576].) Even when applied prospectively, the claimant must be allowed a reasonable time within which to proceed with his cause of action. (Scheas v. Robertson, supra ; 31 Cal.Jur.2d § 5, p. 431.)
+More than one year elapsed from the date of the accident, April 4, 1960, and the effective date of section 11580.2, subdivision (h), September 15, 1961. Therefore the amendment cannot be applied retroactively, to deprive appellant of her cause of action. However, even by applying the amendment prospectively, we find that more than one year elapsed from the date of enactment and appellant’s demand for arbitration. Thus the question narrows to whether appellant was allowed a reasonable time to present her claim after the statute became effective.
+The period of limitations commenced to run September 15, 1961, the effective date of the enactment. Under the statute appellant had one year, the maximum period allowed under the statute, to take action on her claim.
+Were we to hold this an unreasonable limitation as to appellant, it would follow that we deem the one-year limitation provided by section 11580.2, subdivision (h), inherently unreasonable. We do not so hold, because the considerations which support the one-year period of limitations fixed by section 11580.2, subdivision (h), appear reasonable to us.
+A like question was presented in Olivas v. Weiner, 127 Cal. App.2d 597 [274 P.2d 476], which involved interpretation and application of section 29 of the Civil Code. In 1941 Civil Code section 29 was amended to limit the bringing of an action by or on behalf of a minor for personal injuries sustained prior to or in the course of his birth, to a period of six years from the date of the birth of the minor. In Olivas the minor’s cause of action had accrued prior to the 1941 amendment of section 29. The court held the minor’s right to bring an action was limited to a period of six years after enactment of the statute. On appeal the minor pressed an argument similar to that of appellant in this case, asserting that limiting the time within which he could maintain an action was an unconstitutional deprivation of a vested right to sue until he reached 22 years of age. The court said, at pages 600-601: “It has repeatedly been held that the Legislature may reduce a statute of limitations and that the new period applies to accrued causes of action provided a reasonable time is allowed within which to assert the cause. [Citations.]
+“Plaintiff argues that the amendment operates retrospectively because it starts the time running from the date of his birth, viz., December 1, 1931, and therefore purports to cut off his right of action immediately upon its passage; hence it is invalid as to him. Since, under most circumstances, such a result would be unconstitutional and, in any event, harsh and unreasonable, ‘It will be presumed that such was not the intent of the Legislature.’ [Citation.] Statutes are presumed to operate prospectively. [ Citations. ] This amendment is no exception to such rule. Anyone having a right of action under the statute had six years after the amendment became effective within which to file his complaint. A statute is not made retroactive merely because it draws upon facts existing prior to its enactment. Thus changes in procedural law have been held applicable to existing causes of action. The effect of such statutes is actually prospective in nature since they relate to the procedure to be followed in the future. ’ ’
+Since more than one year elapsed from September 15, 1961, the effective date of Insurance Code section 11580.2, subdivision (h), and the time appellant filed her demand for arbitration on July 17, 1963, the trial court’s finding that the statute of limitations barred the claim must be sustained.
+The judgment is affirmed.
+Conley, P. J., and Brown (R. M.), J., concurred.
