@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B142520"
+decided: "2000-12-21"
+citations: ["85 Cal. App. 4th 941"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re NICHOLAS Y., a Person Coming Under the Juvenile Court Law. THE PEOPLE, Plaintiff and Respondent, v. NICHOLAS Y., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/85/cases/0941-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1244230
+cites_cases: ["16 Cal.Rptr.2d 215", "242 Cal.App.2d 124", "4 Cal.4th 893", "51 Cal.Rptr. 131", "69 F.3d 1002", "844 P.2d 534"]
+---
+
+# People v. Nicholas Y.
+
+## Majority (EPSTEIN, Acting P. J.)
+
+Opinion
+EPSTEIN, Acting P. J.
+Appellant Nicholas Y. appeals from orders of the juvenile court finding that he vandalized property belonging to the AMC theater, declaring him a ward of the court pursuant to Welfare and Institutions Code section 602, and placing him home on probation. He contends the evidence was insufficient to prove he violated Penal Code section 594 (vandalism). In the published part of this opinion we hold that writing on the glass window of a projection booth of a motion picture theater constituted defacing, and hence vandalism within the meaning of the statute. Appellant also contends the juvenile court abused its discretion in denying his request to place him on probation pursuant to Welfare and Institutions Code section 725 without declaring him a ward of the court. For reasons explained in the unpublished portion of this opinion, we find no error and affirm the juvenile court’s orders.
+Factual Summary
+The evidence, briefly stated in the light most favorable to the judgment, proved that in the early morning hours of February 11, 2000, appellant wrote on a glass window of a projection booth at an AMC theater with a Sharpie marker. After his arrest, appellant admitted to police that he had written “RTK” on the window. Police saw “approximately 30 incidents” in red magic marker throughout the theater, including the one on the glass. Appellant said the initials stood for “The Right to Crime.”
+At the close of the prosecution’s case, appellant’s counsel argued that no defacing of or damage to property had been proved, stating: “[i]t’s a piece of glass with a marker on it. You take a rag and wipe it off. End of case. It’s ridiculous.” The prosecutor countered that appellant trespassed and left fresh marks on the window, thus defacing the window with graffiti. The court found that appellant violated Penal Code section 594, subdivision (a), a misdemeanor.
+Discussion
+I
+Penal Code section 594 provides, in relevant part: “(a) Every person who maliciously commits any of the following acts with respect to any real or personal property not his or her own, in cases other than those specified by state law, is guilty of vandalism: HQ (1) Defaces with graffiti or other inscribed material, ffl] (2) Damages, [f] (3) Destroys. HD . . . [f] (4)(A) If the amount of defacement, damage, or destruction is less than four hundred dollars ($400), vandalism is punishable by imprisonment in a county jail for not more than six months, or by a fine of not more than one thousand dollars ($1,000) or by both that fine and imprisonment. HQ . . . [ffl (e) As used in this section the term ‘graffiti or other inscribed material’ includes any unauthorized inscription, word, figure, mark, or design that is written, marked, etched, scratched, drawn, or painted on real or personal property.”
+Appellant contends he did not violate the statute because the word “deface” contemplates a “permanent alteration” of the surface of an object rather than the easily removed marking he placed on the window. He compares the facts of this case to chalk writing on a sidewalk held not to constitute vandalism in violation of Penal Code section 594 in MacKinney v. Nielsen (9th Cir. 1995) 69 F.3d 1002. As appellant acknowledges, however, the statutory language interpreted in that case was different, making it “illegal to (1) deface ‘with paint or any other liquid,’ (2) damage or (3) destroy any real or personal property that is not one’s own.” (Id. at p. 1005, italics added.) The Ninth Circuit Court of Appeals reasoned that chalk is not a liquid and did not damage the sidewalk. Therefore, it found the defendant did not violate the statute. (Ibid.) The Legislature subsequently amended the statute to delete the phrase “defaces with paint or any other liquid” and substitute in its place the phrase “defaces with graffiti or other inscribed material.” Accordingly, the MacKinney case is of no assistance to appellant’s cause.
+Appellant also seeks support in the holding of People v. Brumley (1966) 242 Cal.App.2d 124 [51 Cal.Rptr. 131], in which the defendant contended the evidence was insufficient to prove he altered or defaced a brand on an animal because the original brand could still be seen. The court rejected this contention, explaining: “To deface does not necessarily mean to obliterate . . . nor does ‘alter’ mean to change beyond recognition. There is no doubt from the evidence that although the [victims] were able to identify their brands on the cattle, defendant’s brand was superimposed upon a part of each brand and materially altered the same.” (Id. at p. 128.) Brumley is factually and legally distinguishable. It did not involve defacement with graffiti, but instead interpreted a statute criminalizing the alteration or defacement of a brand or mark on an animal with the intent to prevent identification by the true owner. But even in that context the court did not require obliteration. Certainly the case does not support appellant’s contention that there is no defacement unless the act makes a material alteration or permanent change to the surface of the defaced object.
+Graffiti may be, and regularly is, created with marker pens. (See SherwinWilliams Co. v. City of Los Angeles (1993) 4 Cal.4th 893, 901 [16 Cal.Rptr.2d 215, 844 P.2d 534].) It would be irrational to hold that use of a marker pen on, for example, a painted or stucco surface constitutes vandalism in violation of Penal Code section 594, subdivision (a)(1) while use of a marker pen on glass is not. Each mars the surface with graffiti which must be removed in order to restore the original condition. This pragmatic fact is consistent with the primary meaning of the word deface as defined in the Oxford English Dictionary: “To mar the face, features, or appearance of; to spoil or ruin the figure, form, or beauty of; to disfigure.” This definition does not incorporate an element of permanence. Thus, it appears that a marring of the surface is no less a defacement because it is more easily removed. It follows that appellant was properly found to have violated Penal Code section 594, subdivision (a)(1).
+II
+Disposition
+For the foregoing reasons, the judgment is affirmed.
+Hastings, J., and Curry, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied April 11, 2001.
+The entry for the word “deface” in the Oxford English Dictionary reads: “1. trans. To mar the face, features, or appearance of; to spoil or ruin the figure, form, or beauty of; to disfigure, b. fig. (of things immaterial). 2. To destroy, demolish, lay waste. Obs. 3. To blot out, obliterate, efface (writing, marks). B. fig. To blot out of existence, memory, thought, etc.; to extinguish. 4. To destroy the reputation or credit of; to discredit, defame. Obs. 5. To put out of countenance; to outface, abash. Obs. 6. To outshine by contrast, cast in the shade.” (Oxford English Diet. (2d ed. CD-ROM 1994).)
+See footnote, ante, page 941.
