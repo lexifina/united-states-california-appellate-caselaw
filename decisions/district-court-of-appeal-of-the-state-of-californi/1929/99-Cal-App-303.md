@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6815"
+decided: "1929-06-05"
+citations: ["99 Cal. App. 303"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT KILBRIDE, Respondent, v. CHARLES SWAFFORD, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app/99/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127660
+cites_cases: ["113 Pac. 663", "159 Cal. 368", "199 Pac. 550", "221 Pac. 681", "27 Pac. 29", "52 Cal. App. 617", "64 Cal. App. 364", "90 Cal. 95"]
+---
+
+# Kilbride v. Swafford
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Plaintiff: sued for damages for injuries ■resulting from an automobile collision. The cause was tried before the court sitting without a jury. The trial court awarded plaintiff judgment in the sum of $500 and the defendant Swafford appeals upon the judgment-roll alone.
+Iffie complaint alleged that “while plaintiff was driving a Ford roadster in a northerly direction over and along the east side of Shattuck avenue at or near the point where the said Shattuck avenue intersects Alcatraz avenue . . . at the same time and place the defendants . . . were operating a certain other automobile in an easterly direction on Alcatraz avenue in such a careless and negligent manner as to cause same to come into violent contact with the automobile that plaintiff was driving, damaging his automobile and injuring plaintiff.” It was further alleged that “as a result of the defendants’ carelessness . . . plaintiff sustained a great physical shock, fracture of two ribs on the left side, contusions, and wrenching of the right hip and a sprain of the back.” Special damages were also alleged and the complaint closed with a prayer for both general and special damages in the sum of $10,215. ■
+On this appeal the judgment is attacked' upon the sole ground that the complaint failed to state a cause of action. The argument is that the pleading is insufficient because it does not state facts showing how the respondent suffered physical injuries merely by the contact of the two cars. But. the complaint alleged that as a result of the negligent operation of the car by the appellant which caused the' two cars to come into violent contact the respondent sustained “a great physical shock” and damages to his automobile in addition to the physical injuries complained of. This was sufficient to support the cause for some damages at least, because it cannot be said that personal contact with appellants’ inachine was necessary to cause a shock to respondent.
+It is also argued that the complaint is insufficient because it does not state facts which show the damage to have been proximately caused by the negligent acts cited to defendants. Smith v. Buttner, 90 Cal. 95 [27 Pac. 29], and similar cases are cited to the point. It wpuld serve no purpose to discuss the cases cited, each one of which rests on the peculiar wording of the pleading involved. The complaint under attack is almost identical in wording to that considered in Wiley v. Cole, 52 Cal. App. 617 [199 Pac. 550], where the court said: “It clearly appears from the allegation that the, defendants were operating their automobile in a negligent manner, and that by reason of such negligence their automobile collided with that of plaintiff and thereby caused the injury.” Here the complaint alleged that the appellant was operating his automobile “in such a careless and negligent manner, as to cause same to come into violent contact with the automobile that plaintiff was driving, damaging his automobile and injuring plaintiff as hereinafter set forth.” . The “acts” which were alleged to have been negligently done was the careless operation of the automobile which caused the contact with respondent’s machine. It is conceivable that in these automobile cases the act of carelessly driving a car into another is the only act of negligence that can be truthfully alleged. If the plaintiff relies upon the fact that the defendant was driving at an excessive speed, or on the wrong side of the road, or in violation of some traffic regulation these are facts constituting negligence which may be pleaded, but where a collision is caused merely by one carelessly driving a car into another that is the act of negligence to be alleged. When it is pleaded that the plaintiff suffered injury because of such negligent act the element of proximate cause is properly put in issue.
+But if the pleading here has been too liberally construed we are satisfied that the appellant has suffered no prejudice. There is no complaint that the cause was not fairly tried. The court, sitting without a jury, found that the collision was caused simply by appellant’s careless and negligent operation of his car by which he caused his car .to come into contact with respondent’s car, and that such negligence was the direct and proximate cause of the injury. Thus, the appellant was not taken by surprise because of any issue not raised in the complaint. In such a ease the matter of pleading becomes less important. (Stein v. United Railroads, 159 Cal. 368, 370 [113 Pac. 663]; Tietke v. Forrest, 64 Cal. App. 364, 367 [221 Pac. 681].
+The rule is particularly applicable here where the trial court awarded the respondent but $500 in damages on a finding that he had suffered a great physical and mental shock, a fracture of a rib, and contusions of the hip. The judgment appears to be a fair and reasonable one under the circumstances.
+The judgment is affirmed.
+Koford, P, J., and Sturtevant, J., concurred.
