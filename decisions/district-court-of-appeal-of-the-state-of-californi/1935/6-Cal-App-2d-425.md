@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2720"
+decided: "1935-04-25"
+citations: ["6 Cal. App. 2d 425"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of JAMES SIMONIELLO for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-2d/6/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2200450
+cites_cases: ["3 Cal. App. (2d) 226", "3 Pac. 628", "39 Pac. (2d) 490", "65 Cal. 187"]
+---
+
+# In re Simoniello
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+In a civil action wherein the petitioner Simoniello was defendant, the court appointed a receiver of certain property of the defendant. Thereafter the receiver filed in said court an affidavit charging the defendant with contempt of court, in that he had committed certain acts calculated to interfere with and destroy the value of the property in the hands of the receiver. An order to show cause was issued, and at the hearing thereon the defendant was present in person and with counsel. Witnesses were sworn and testified and evidence received, and the matter having been submitted for decision the court found the defendant guilty of contempt, and ordered that the defendant-be imprisoned in the county jail for a period of five days and pay a fine in the sum of $500, with the usual alternative of imprisonment until the fine be paid. Thereupon the defendant applied to this court for a writ of habeas corpus and the writ was issued. This matter is now submitted for decision upon the petition, the writ and the return thereto.
+Petitioner’s attack upon the commitment is based upon the single proposition that in the affidavit upon which the order to show cause was issued, the facts are stated entirely upon information and belief, and that the source of the information is not shown or alleged. The facts contained in the affidavit are in themselves sufficient to constitute a contempt of court. But it is true that they were stated only on information and belief, and that they did not contain a statement of the source from which the information had been received.
+In support of his petition, the petitioner relies upon a recent decision entitled Ex parte Roth, 3 Cal. App. (2d) 226 [39 Pac. (2d) 490], In that decision the court, reviewing extensively the decisions bearing upon the question at issue, arrived at the conclusion that “an affidavit based wholly on information and belief, and without stating any authentic source of such information, is not an affidavit of the facts prescribed by section 1211 of the Code of Civil Procedure and is insufficient as a basis of jurisdiction to support a warrant or order to show cause or a judgment in a proceeding in constructive contempt”. The decision, however, does not refer to one very important decision of the California Supreme Court, and we assume that that decision was not brought to the attention of the court ill the Roth case.
+The case of Golden Gate Consolidated Hydraulic Min. Co. v. Superior Court, 65 Cal. 187 [3 Pac. 628], was a proceeding on writ of review of three orders by which the petitioner had been adjudged guilty of three several contempts in violating an injunction order in an action in which petitioner was defendant. Although the affidavits by which the contempt proceedings were initiated stated the facts wholly on information and belief, it was held that they were sufficient to give the court jurisdiction of the proceedings, and the orders were affirmed. The court said: “The facts are set out showing a clear violation of the injunction by the defendant, petitioner here. It is true they are stated on information and belief. But the jurisdiction of the court to adjudge a contempt, committed out of its presence, does not depend upon the form of the affidavit which sets the proceedings in motion. Here an order to show cause was made, and, if it was served, the defendant had an opportunity to. appear and answer any contempt alleged against it. The omissions in the affidavit., upon which the order was made, may have been irregularities, but the commitment was not based upon such affidavits, but upon the oral testimony of witnesses, and documentary evidence given and introduced on the return day of the order to show cause. In each ease the superior court found that the defendant, on a certain day, in violation of said injunction, and in contempt of the order of the court, did operate its mine, etc., and deposit and flow its debris, etc. It is not our province to inquire whether the court below was justified in finding the existence of the facts which constituted the contempt.” (Italics ours.)
+If it be true, as said by the Supreme Court in the Golden Gate case, supra, that every court has inherent jurisdiction to punish a contempt, then the rules of procedure should be so interpreted as reasonably to permit, the exercise of that jurisdiction. It does not appear that the Supreme Court has at any time overruled the decision of that court as set forth in the foregoing quotation from Golden Gate etc. Co. v. Superior Court, 65 Cal. 187, 190 [3 Pac. 628], We think that the more reasonable rule is there stated, and that it should be followed in the instant case.
+The writ is discharged and the petitioner is remanded to custody.
+Houser, J., and York, J., concurred.
