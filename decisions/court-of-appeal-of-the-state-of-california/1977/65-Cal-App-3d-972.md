@@ -1,0 +1,54 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 49493"
+decided: "1977-01-17"
+citations: ["65 Cal. App. 3d 972"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAN E. BUTCHER, Plaintiff and Appellant, v. OKMAR OIL COMPANY, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/65/cases/0972-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040753
+cites_cases: ["271 Cal.App.2d 1"]
+---
+
+# Butcher v. Okmar Oil Co.
+
+## Majority (FLEMING, Acting P. J.)
+
+Opinion
+FLEMING, Acting P. J.
+Plaintiff Dan E. Butcher appeals a summary judgment in favor of defendant Okmar Oil Company in an action to terminate Okmar’s right of entry to real property owned by Butcher.
+The action is based on Code of Civil Procedure section 751.3 [see Appendix,post, pp. 976-977] enacted in 1971 “in the public interest that due procedures be established to make it possible to free, for surface use, land in urban areas which is not reasonably needed for oil and gas operations.” (Stats. 1971, ch. 1586, § 3.) Section 751.3 provides in pertinent part that the owner of land encumbered by a right of entry in a lease for the production of oil may bring an action to terminate the right of entry to all or part of the land. The evidence must show (1) the lease or its latest amendment affecting the right of entry is more than 20 years old; (2) the land to be freed of the right of entry is not occupied by a producing well; and (3) termination of the right of entry will not significantly interfere with the right of the lessee to continue to produce oil in a practical and economic manner, utilizing appropriate production techniques consistent with good oil field practice, and to gather, transport, and market the oil. The court may qualify termination of a right of entry with equitable conditions, including imposition of limited easements in favor of the lessee and the requirement that the lessor pay for relocation of pipes, roads, and equipment to free the land for use while safeguarding oil operations in a practical and economic manner.
+Plaintiff owns three lots in the City of Torrance subject to an oil lease executed in 1938 by predecessors of plaintiff and defendant. The lease gives defendant exclusive right to drill for and extract oil and gas from, and to store the oil and gas upon, the land, “including all rights necessary and convenient thereto, together with rights-of-way for passage over, upon and across, and ingress and egress to and from, said land, for any or all of the above mentioned purposes. The possession by the Lessee of said land shall be sole and exclusive, excepting only that the Lessor reserves the right to occupy said land or to lease the same for agricultural, horticultural, or grazing uses, which uses shall be carried on subject to, and with no interference with, the rights or operations of the Lessee hereunder.”
+Plaintiff’s complaint, as amended at the hearing on the motion for summary judgment, seeks termination of defendant’s right of entry to that portion of the three lots not currently occupied by two producing oil wells and three oil tanks.
+On its motion for summary judgment, defendant offered the affidavit of Adolph Beren, a partner in the defendant lessee. Beren declared in pertinent part as follows:
+“[Defendant] is operating two (2) producing oil wells on the lands. Oil and other hydrocarbon substances from these wells is moved through a pipe network on the lands into large storage tanks on the lands. When repairs or well maintenance is required, large service trucks gain ingress and egress to the site over internal driveways and roads.
+“[Defendant] needs the entire surface of the described lands to continue to conduct operations in a practical and economic manner for production of oil. Good oilfield practice and techniques consistent therewith require that the surface of these lands be used or capable of use to gather, transport and market the large quantities of oil produced from this leasehold. [Defendant] requires means of ingress, egress, and surface access from one portion to another of the surface of the lands.
+“The present storage tanks on the lands occupy an area which bisects lands that may soon be required for street easements. At such time, [Defendant] will be required to relocate the tanks onto other portions of the lands. Relocation of the tanks will require re-routing of the pipeline network. Local ordinances require that when the storage tanks are relocated, they must be kept at least a substantial distance away from the nearest adjoining property line.
+“All of the leased facilities not on the land are used and are reasonably necessary for future use in connection with production of oil. Any reduction of [Defendant’s] use of the entire surface of the land would seriously impair the contract rights granted by Paragraph 8, 21 and 27 of the lease, and seriously interfere with [Defendant’s] production on such lands.”
+Beren’s affidavit established an absolute defense to the complaint in that a right-of-way cannot be terminated where termination would significantly interfere with the right of the lessee to continue to produce oil in a practical and economic manner, utilizing appropriate production techniques consistent with good oilfield practice, and to gather, transport, and market the oil. (Code Civ. Proc., § 751.3, subd. (b)(3).) Plaintiff put many points in issue in response to the motion for summary judgment, but offered nothing to rebut defendant’s affidavit on this defense.
+When an affidavit in support of a motion for summary judgment is uncontroverted, the trial court may accept as true the facts stated therein. When no triable issue of fact exists and the moving party’s affidavit sets forth sufficient facts to sustain a judgment in its favor, the trial court may grant summaiy judgment. (Code Civ. Proc., § 437c; Exchequer Acceptance Corp. v. Alexander (1969) 271 Cal.App.2d 1, 11 [76 Cal.Rptr. 328].)
+The judgment is affirmed.
+Compton, J., and Beach, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied March 17, 1977.
+APPENDIX
+Code of Civil Procedure, section 751.3:
+“(a) Whenever a mining rights lease, including a community lease, exists for the production of oil, gas, or other hydrocarbons, and a right of entiy or occupation provided by the lease encumbers all or part of the surface or surface zone of the leasehold lands, any person who owns a fee interest in the surface of the leasehold lands may bring an action in the superior court to terminate the right of entiy or occupation as to all or some described portion of the surface and surface zone of the leasehold lands in which such person owns an interest.
+“(b) The court may render a judgment or decree terminating such lessee’s right of entry or occupation of the surface and surface zone, subject to such conditions as the court deems fair and equitable, if the evidence shows each of the following:
+“(1) The document which created the leasehold interest was originally executed-more than 20 years prior to filing the action provided for in this section regardless of any amendments to such document. However, if any amendment was entered into expressly for the purpose of waiving, limiting, or rearranging surface rights of entry and occupation by the lessee, the 20-year period shall be computed as if the document was originally executed on the date of execution of such amendment.
+“(2) The subject land is not presently occupied by any of the following:
+“(i) A producing oil or gas well or well bore.
+“(ii) A well or well bore being utilized for injection of water, gas, or other substance into geologic substrata as an aid to oil or gas production or to ameliorating subsidence.
+“(iii) A well or well bore being utilized for the disposal injection of waste oil well brine and byproducts.
+“(iv) A well or well bore being utilized for the production of water for use in oil field injection, waterflood, and pressure maintenance programs.
+“(3) Termination of the right of entry or occupation within the subject land in the manner requested by the plaintiff, or subject to such conditions as the court may impose pursuant to this section, will not significantly interfere with the right of the lessee, under the lease, to continue to conduct operations for the continued production of oil from leasehold strata beneath the surface zone in a practical and economic manner, utilizing such production techniques as will be appropriate to the leasehold area, consistent with good oilfield practice, and to gather, transport, and market such oil.
+“(c) The court may qualify the decree terminating the surface and surface zone right of entry or occupation so as to provide for limited surface and surface zone easements which the lessee may continue to enjoy within the subject land. A decree may be conditioned upon the relocation of pipelines, roadways, equipment, or lease facilities in such manner. as will most effectively free the subject land for surface use while safeguarding continued oil and gas operations in a practical and economic manner. Any such condition of the decree shall require the plaintiff to pay the costs of the relocation. However, the plaintiff shall be entitled to a setoff against such costs to the extent of any •benefit to the lessee resulting from the installation of new equipment or material. The plaintiff shall have the burden of proving any such benefit accruing to the lessee.
+“(d) It shall be against public policy for any oil or gas lease, at its inception, to provide for the waiver of any rights created by this section, or for such rights to be waived by amendment to any oil or gas lease within 20 years of the date of its execution by a plaintiff or his predecessor in interest.
+“(e) As used in this section:
+“(1) ‘Surface zone’ means the zone which lies above a plane which is 500 feet below the surface of the land.
+“(2) ‘Subject land’ means that area occupied by the particular described surface and surface zone for which plaintiff seeks to terminate the leasehold right of entry and occupation.
+“(3) ‘Lease facilities’ means storage tanks, wash tanks, separators, heaters, and other facilities reasonably necessary for the production of oil or gas, including secondary recovery operations.
+“(0 No judgment rendered pursuant to this section shall change or affect the terms or operation of any valid unit agreement or valid operating agreement which comes within the provisions of Section 3301 or 3321 of the Public Resources Code.
+“(g) This section shall apply only to lands within a city in any county with a population exceeding 4,000,000, or with a population of more than 700,000 and less than 710,000 as determined by the 1960 Federal Decennial Census.”
