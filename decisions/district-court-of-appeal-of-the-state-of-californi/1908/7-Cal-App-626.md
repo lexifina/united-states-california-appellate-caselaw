@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 121"
+decided: "1908-03-03"
+citations: ["7 Cal. App. 626"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. AH LEAN, Appellant."]
+source_url: "https://static.case.law/cal-app/7/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4526287
+cites_cases: ["5 Cal. App. 587", "91 Pac. 105"]
+---
+
+# People v. Ah Lean
+
+## Majority (COOPER, P. J.)
+
+COOPER, P. J.
+The defendant is charged in the indictment with the crime of rape, in having had sexual intercourse on the eighth day of October, 1905, with one Lillie Ida Davis, an unmarried female under the age of sixteen years. A trial was had before a jury, and the jury returned a verdict of guilty, with a recommendation of the defendant to the mercy of the court, and judgment was thereupon entered, sentencing the defendant to a term of eight years in the state prison. This appeal is from the judgment and from an order denying the defendant’s motion for a new trial. The facts and .circumstances surrounding this case, and the character of the girl, Lillie Ida Davis, are fully set forth in People v. Fong Chung, 5 Cal. App. 587, [91 Pac. 105], a ease in which the defendant there was charged with rape upon the same girl on the twenty-sixth day of September, 1905, and such facts and circumstances need not be here repeated. In the record of this case at least some of the matters held to be error in the Pong Chung case are repeated.
+The prosecution called Dr. McMahon, who testified that he examined the girl on the twenty-fourth day of October, 1905, and found at that time that she had venereal, chancroids, which appeared to be about twelve days’ old. As this referred to a time only sixteen days after the alleged rape, it is apparent that the object, and the only object, of the testimony was to give the jury the impression that the venereal disease was contracted by the girl from the defendant. The testimony certainly did not tend to prove the age of the girl, nor the fact that the defendant had had sexual intercourse with her unless it had been proven that on the eighth day of October, 1905, the defendant had a venereal disease.
+Dr. Cothran testified in behalf of the defendant that the day before the trial he examined the defendant, and that he did not have any venereal disease, and that if he had had chancroids or venereal warts at any time within the prior three months he would have been able to detect signs of such disease, but that he found no signs of any venereal troubles of any kind.
+The defendant’s counsel, in cross-examination, asked the prosecuting witness whether or not she had chancroids or any sores inside her private parts on the eighth day of October, 1905. The prosecution objected to each question asked in regard to such matter on the ground that it was immaterial, irrelevant and incompetent, and the court sustained the objection. The rulings were clearly erroneous, and it is only necessary to refer to the Pong Chung ease as to the reasons. In that case the rape upon the same girl was alleged to have taken place on the twenty-sixth day of September, 1905, and the same physician was called to show that early in October the girl had a venereal disease or chancroids. In this case the alleged rape occurred on the 8th of October, and the same physician was again called to prove that on October 24th the girl had a venereal disease or chancroids of about twelve days ’ standing. In other words, in the Pong Chung case the act of sexual intercourse was proven to have occurred on the twenty-sixth day of September, 1905, and the physician was called to prove that a few days afterward the girl had chancroids. In the present ease the act of sexual intercourse is proven to have occurred with the same girl and this defendant on the eighth day of October, 1905, and the same physician was called to prove that the disease was contracted soon after the act of intercourse with this defendant. It would certainly be a remarkably quick cure if the girl contracted a disease from Pong Chung on the twenty-sixth day of September, 1905, and was suffering from it early in October, 1905, and yet was well and cured of it on October 8, 1905, when the intercourse that defendant is claimed to have had took place, and not only this, but that she again contracted it from this defendant.
+Other questions were asked of the girl by defendant in cross-examination as to whether or not she had had intercourse with other Chinamen, and as to how many Chinamen she had accused of having raped her. The court sustained objections made by the district attorney to each of such questions.
+The girl was also asked by defendant in cross-examination when she first told anyone of having had sexual intercourse with the defendant. The court sustained the objection of the district attorney to the question.
+Under the defendant’s objection the prosecution was permitted to prove by the girl that she had had intercourse with this defendant several times before; that the usual price he paid her was $1.50. The defendant was charged with only one offense, and that one alleged to have occurred on the eighth day of October, 1905. We know of no rule in cases of this class that will permit evidence to be introduced to show other and independent rapes to have been committed by the same defendant upon the same party. It is useless to discuss the rulings further. Upon the authority of the case of People v. Fong Chung, 5 Cal. App. 587, [91 Pac. 105], the judgment and order are reversed.
+Hall, J., and Kerrigan, J., concurred.
