@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1720"
+decided: "1916-01-28"
+citations: ["29 Cal. App. 476"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALEX BORGER, Respondent, v. THE CONNECTICUT FIRE INSURANCE COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/29/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020043
+cites_cases: ["113 Am. St. Rep. 276", "116 Pac. 294", "142 Pac. 115", "148 Cal. 357", "16 Cal. App. 143", "24 Cal. App. 696", "3 L. R. A. (N. S.) 908", "83 Pac. 151"]
+---
+
+# Borger v. Connecticut Fire Insurance
+
+## Majority (THE COURT.)
+
+THE COURT.
+This is an appeal from a judgment and order denying the defendant’s motion for a new trial.
+This cause was before the court upon a former appeal (24 Cal. App. 696, [142 Pac. 115]), wherein the facts of the ease in so far as required for the consideration of that appeal and of the present one are fully set forth. Upon the former appeal the judgment and order were reversed upon the ground that according to the terms of the insurance policy in question relating to the time when the loss should become payable, the action had been prematurely brought. Upon such reversal the plaintiff filed an amended complaint, wherein it was set forth that the defendant, upon the filing with it by the plaintiff of his proofs of loss, had denied liability upon its policy for such loss. Upon the second trial on the added issue thus presented the plaintiff again recovered judgment, upon which and upon the denial of his motion for a new trial the defendant has again appealed.
+The present case presents practically the same question that was presented and decided upon the prior appeal. The respondent contends, however, that the effect of the defendant’s denial of liability upon its policy for the loss in question, which plaintiff pleaded and proved upon the second trial, was to render the defendant’s obligation immediately due and payable,, notwithstanding the stipulation in the policy that the loss should not become due and payable until a certain time had elapsed after presentation of the proofs of loss, the action having been begun within such time. The respondent has collated a large number of cases from other jurisdictions in which the rule is laid down that a denial of liability by the insurer renders the loss immediately payable, if payable at all. The appellant, however, maintains that such is not the rule in this state, citing the case of Irwin v. Insurance Company of North America, 16 Cal. App. 143, [116 Pac. 294], wherein the contrary rule is laid down. In that case, which was an action to recover upon an insurance policy similar to the policy in the instant case as to its stipulation respecting the ownership of the property, and the time when the loss should become payable, the court says: “Respondent contends that the condition of the policy as to the time of payment was waived by reason of the action of the defendant in refusing payment on the ground that plaintiff was not the owner of the premises and possessed no insurable interest therein, the contrary of which was clearly established by the evidence, and for the further reason that by its answer it denied liability generally. We cannot construe such denial of liability, either before or after suit, as a waiver of the definite time fixed by contract for the payment of the loss. No breach of contract existed at the time the suit was brought; there was no sum due or payable to plaintiff. The terms of the contract gave to defendant sixty days, during which time it had a right to retain and use the money necessary to liquidate the loss. Within this time the defendant could make independent investigations in order to determine its liability. The loss was not payable until the time specified. A different rule might apply had the policy provided only that no action should be maintained for a period of sixty days, but we are not advised that a denial of liability before maturity can be said to have the effect to mature an obligation before the date fixed in the contract for its payment. (Tatum v. Ackerman, 148 Cal. 357, 360, [113 Am. St. Rep. 276, 7 Ann. Cas. 541, 3 L. R. A. (N. S.) 908, 83 Pac. 151].)”
+We are unable to distinguish the Irwin case from the case, at bar; and the fact that the supreme court has denied a petition for a rehearing renders the rule therein set forth binding upon this court, and constrains us to hold that the state of this case has not been changed by the plaintiff’s said-amendment to his complaint or by the retrial of the cause, and that the action must still be held to have been prematurely brought.
+For the foregoing reasons, and upon the authority of Irwin v. Insurance Co. of North America, 16 Cal. App. 143 [116 Pac. 294], and Borger v. Connecticut Fire Ins. Co., 24 Cal. App. 696, [142 Pac. 115], the judgment and order are reversed.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 27, 1916.
