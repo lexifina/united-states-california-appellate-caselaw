@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5535"
+decided: "1936-04-21"
+citations: ["13 Cal. App. 2d 350"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRACE BUSHEY, Respondent, v. UNION OIL COMPANY OF CALIFORNIA (a Corporation) et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/13/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263521
+cites_cases: ["247 Pac. 212", "249 Pac. 837", "77 Cal. App. 164", "79 Cal. App. 406"]
+---
+
+# Bushey v. Union Oil Co.
+
+## Majority (TUTTLE, J., pro tem.)
+
+TUTTLE, J., pro tem.
+Plaintiff recovered judgment for $6,500 on account of personal injuries received in an automobile collision, and defendants appeal from said judgment.
+The appeal is based entirely upon the insufficiency of the evidence to support the findings made by the trial court, the ease being tried without a jury.
+It is first contended that the evidence is insufficient to support the finding that the negligence of defendant was the proximate cause of the injury. The collision occurred within the intersection of Lincoln Avenue and Trancas Road, on the outskirts of the city of Napa, at the hour of 9:30 A. M. Plaintiff was driving a coupe on Trancas Road, which coupe was equipped with a governor which limited her speed to thirty-five miles per hour. The brakes on her car were in good order. She did not know of the existence of the intersection. Due to the obstructions of her view, she did not see the truck driven by defendant Brown until she was one hundred sixty feet from the intersection. She then applied her brakes and her car slowed down. Prior to that time, her speed was about twenty-eight miles per hour. In her attempt to apply her brakes she found that they did not work properly, as they held her in the center of the highway. She released the brakes, and then attempted to apply them a second time, and they still had the effect of holding her in the center of the highway. During this period the truck, which belonged to defendant company, entered the intersection from Lincoln Avenue to the right of plaintiff. The latter testified that the truck was on the left side of the avenue when it entered the intersection, and that while still in the intersection it turned to the right and the collision occurred.
+Plaintiff also testified that the truck “cut the corner” when it entered the intersection. This was a violation of section 540, subdivision (b), of the California Vehicle Act, as the driver testified that he was attempting to make a left turn when he entered the intersection. That such act constituted negligence and was the proximate cause of the collision, there can be no doubt. Prom the map in evidence, the course of the truck within the intersection is similar to the letter “S”. Entering the intersection on the left side of Lincoln Avenue, it swerved to the right and then went slightly to the left, turning over and landing on its side just as it was passing out of the intersection. The truck weighed some fifteen thousand pounds. It was struck by the car of plaintiff at the rear end, and while it was in the middle of the highway. Most of the foregoing facts are taken from the testimony of plaintiff. It is urged by appellant that the effect of this testimony was destroyed by the cross-examination of plaintiff. Where there is a conflict in the testimony of a witness, we are bound by a finding of the trial court in respect to such testimony, in the same manner as this court is bound by a finding based upon the conflicting testimony of the witnesses of opposing parties. (Pedrow v. Federoff, 77 Cal. App. 164 [247 Pac. 212].) It was for the trial court to say, from all the evidence before it, whether or not, in approaching such an intersection, defendant Brown was driving at a speed which endangered the safety of persons or property. (California Vehicle Act, sec. 510.) The court has made its findings on these issues adverse to defendants’ contention, and it cannot be said there is an absence of substantial evidence to justify the finding that the proximate cause of the injury was the negligence of defendants.
+As to the contention that there is no evidentiary support for the finding that plaintiff was not guilty of contributory negligence, the same rule is applicable. The argument of appellants is that plaintiff did not properly apply her brakes, that she was traveling at an excessive rate of speed, and that she could have avoided the collision by the exercise of due care. “But contributory negligence is not based upon the possibility of avoiding an accident. If a person does all that an ordinarily prudent person would do under the circumstances to avoid the accident, such person is not chargeable with neglect which proximately causes the accident and resulting damage. ’ ’ (Lloyd v. Boulevard Express, 79 Cal. App. 406 [249 Pac. 837].) The trial court not only heard the evidence, but also viewed the premises. Numerous photographs are in the record, and there is testimony concerning skid marks of both vehicles. Whether, under such circumstances, plaintiff exercised due care after she observed the approach of the truck, was a question for the trial court. We have gone over the entire record and are satisfied that there is sufficient evidence to justify the finding of the court that plaintiff was not guilty of contributory negligence.
+Other points urged for reversal arise out of the insufficiency of the evidence, and what we have said is applicable to them. We find them to be without merit.
+The judgment is affirmed.
+Thompson, J., and Pullen, P. J., concurred.
+A petition by appellants to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on June 19, 1936.
