@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2145"
+decided: "1919-07-29"
+citations: ["42 Cal. App. 456"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EUGENE L. KLEIN, Respondent, v. SAN PEDRO, LOS ANGELES & SALT LAKE RAILROAD COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/42/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044589
+---
+
+# Klein v. San Pedro, Los Angeles & Salt Lake Railroad
+
+## Majority (THOMAS, J.)
+
+THOMAS, J.
+In his complaint plaintiff alleged that he had sustained certain damages to his real property adjacent to and abutting upon the Arroyo Seco, in the city of Los Angeles, by reason of the wrongful acts of defendant in so constructing (1) its railroad trestle bridge, and (2) a certain rock bulkhead across and within said Arroyo Seco, as to obstruct the same in time of flood, and to cause the water therein to be dammed up and diverted from its regular course and channel over and across the real property of plaintiff, cutting and washing it away. There was a verdict for plaintiff for one thousand dollars, and judgment was accordingly entered in his favor. Defendant filed a motion for a new trial, which was denied. From the order denying said motion, and the judgment so entered, defendant appeals.
+Defendant urges that the order and judgment should be reversed upon several grounds, which, for convenience here, may be grouped under two heads, viz.: (1) Errors of law occurring during the trial, including errors in giving certain instructions to the jury; and (2) insufficiency of the evidence to justify the verdict.
+Much space is devoted by appellant in support of this appeal to the argument of the point that the lower court erred in denying its motion for a directed verdict, and which argument is indeed very persuasive. After quoting at length from the evidence, appellant, in its opening brief, says: “It results, therefore, that the witness Jessup’s testimony to the effect (1) that the bridge was constructed with due care and engineering skill, (2) that the bents thereof were practically parallel to the stream, (3) that the bridge was of approved construction and standard, (4) that the available waterway provided by it was infinitely more than was necessary for any flood which happened in the arroyo, (5) that it was constructed in such a manner as to afford security for life and property, (6) that the arroyo crossed by the bridge was restored to its former state' of usefulness, and (7) that the usefulness of the arroyo on the property adjoining it was not impaired, is absolutely uncontradicted by any witness, and stands unimpeached and is unimpeachable.” If this comprehensive and far-reaching statement is supported by the record here, it would seem that no other point need be considered. We shall see.
+Plaintiff, respondent here, seeks to support his contention that the evidence does not support the statement quoted above, by arguing that “counsel reviews the evidence presented by defendant, and concludes that the only conclusion which can be drawn is that the bridge ‘conformed to good engineering practice,’ thus entirely ignoring the statement of their own expert, Mr. Olmstead, that ‘it was not good engineering practice then or ever.’ ” The fact is defendant did not ignore such testimony, but used the very words which we have last italicized in referring to the testimony of the said witness. The conflict is not in the evidence, but in the construction which counsel places thereon. The fact is, also, that appellant’s statement of the evidence now under consideration is the one which agrees with the recorded testimony itself. Mr. Olmstead did testify that “the bridge as constructed conformed to the practice of building bridges at that time”; but he added that “it was not good engineering practice then or ever.” From the standpoint of bridge construction, it was all right. From a civil engineer’s view, it was not good engineering. We have not only read that portion to which our attention has been called, but have read the whole of the testimony of the witness Olmstead, and we think it is not susceptible to any other construction. But even so, this places the first claim of appellant, referred to above, viz.: “That the bridge was constructed with due care and engineering skill,” beyond the scope of appellant’s general statement in regard to Mr. Jessup’s testimony, i. e., that the same was “uneontradieted,” etc. On this first point alone there seems to be such a conflict in the testimony as to overcome the assignment that it was error not to grant defendant’s motion for a directed verdict.
+The instructions given by the court, to which appellant objects, were, we think, ample, and as favorable to appellant as they properly could be on the. questions presented. Especially is this so when the instructions objected to are considered in connection with, and in the light of, the other instructions given.
+The evidence, we think, amply supports the verdict upon which the judgment was entered.
+Finding no error in the record which would justify a reversal of the judgment entered herein, it is ordered that the appeal from the order denying defendant’s motion for a new trial be, and the same is hereby, dismissed, and the judgment appealed from is affirmed.
+Finlayson, P. J., and Sloane, J., concurred.
