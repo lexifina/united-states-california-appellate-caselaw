@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3245"
+decided: "1939-12-28"
+citations: ["36 Cal. App. 2d 278"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JACK WARREN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/36/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4450416
+cites_cases: ["159 Pac. 457", "18 Cal. App. (2d) 15", "30 Cal. App. 762", "62 Pac. (2d) 774"]
+---
+
+# People v. Warren
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+Defendant, Jack Warren, who was charged in an information with receiving stolen property, was found guilty thereof by a jury. He appeals from the judgment of conviction, and from the order denying a motion for a new tria-l.
+The record reveals that a robbery was committed on the night of December 23, 1938, in the home of Mr. and Mrs. Marvin Winthrop at 365 South Cloverdale Street in Los Angeles. Two rings and a bracelet were taken from Mrs. Winthrop, and a diamond ring from Mr. Winthrop.
+On January 9, 1939, William Allen Henry and Bud Lilly, ex-convicts, were arrested in an apartment house in Los Angeles. They admitted having committed the robbery. Later in the day appellant Warren was arrested in the hallway of the apartment house, while ringing the doorbell to their apartment. It appears that Henry had met both Warren and Lilly at San Quentin prison.
+The record discloses that some time around the middle of December, 1938, a meeting was held at the home of one Maynard Groom in Los Angeles; Groom had also served time for robbery. Present at this meeting were Groom, one Freddie Kessler, Henry, Lilly and Warren. Kessler told them that he knew where they could “pull a robbery job” on some people who were well off and had jewelry and furs, and that, in fact, these people lived in the apartment house where his mother resided. Kessler’s parents occupied the apartment directly under the apartment of the Winthrops; Kessler was living in a downtown hotel at the time. At this meeting the question arose as to who would drive the ear to the scene of the robbery and it was decided, according to Groom’s testimony, that Warren would drive his (Warren’s) car. Groom testified that he was asked to go with them but that he refused and said that he did not care to have any part in the robbery.
+There was evidence to the effect that about a month prior to the robbery, Warren had purchased an automobile on a conditional sales contract and that the car was in his possession until the time of his arrest on January 9, 1939.
+John K. McCloud, who was in the business of selling used cars, testified that some time in the early part of December, 1938, Warren came to the used-ear lot and they discussed the price of a ear. Warren returned about three days later and told McCloud that he might know some other people who would like to purchase a car. At that time Warren had sold some automobile tires to a man associated with McCloud on the lot. Warren was told that if he found a buyer for a ear he (McCloud) would pay him a commission. Some time around the 26th of December, Warren brought Henry and Lilly to the used-car lot and told McCloud that these men were interested in the purchase of an automobile. McCloud quoted them a price on a car, and Henry and Lilly left; Warren remained, however, and, according to McCloud, asked if the latter would accept a ring and some cash for the car. McCloud said that he would have the ring appraised and would allow the appraised value on a ear. The next day Warren returned. The ring was in his possession and also some $50 in cash. He refused to turn over the ring to McCloud for appraisal. The latter then suggested that a man by the name of Billy Berg, who was the manager of a restaurant in Los Angeles, could possibly lend some money on the ring, and the two men drove to the restaurant in McCloud’s car. On the way over Warren showed McCloud two rings, which were the rings taken from Mrsj. Winthrop in the robbery.
+Defendant Warren, who it appears had known Berg for some ten years, informed the latter that he desired to purchase an automobile and needed some additional money. He showed Berg three rings and a bracelet and asked if Berg could give him some money on the jewelry. Berg gave Warren $50 for the rings and returned the bracelet to him. Shortly thereafter, Warren took the bracelet to one Thomas Mascot, the owner of a cafe in Los Angeles, who advanced him $50 thereon. This bracelet was the one removed from Mrs. Winthrop in the robbery.
+After Warren was arrested he was questioned by the police, at which time he denied knowing anything about the rings and bracelet, denied having received any rings from Henry and Lilly, denied knowing Berg, denied having sold any rings to Berg, denied that he had shown a bracelet to Berg, denied knowing McCloud, denied having gone to McCloud’s place of business, denied having talked to McCloud, denied having met Mascot, and denied having received $50 on the bracelet from Mascot.
+Defendant Warren did not testify at the trial but submitted the defense upon the evidence of the prosecution and that given by the witnesses Henry and Lilly who testified for defendant and who in their testimony sought to exonerate Warren as a participant in the commission of the robbery, or of knowing that the jewelry was stolen. Henry and Lilly further testified that the prosecution’s witness Groom drove the car used in transporting them to the place of the robbery, and that Groom participated in the fruits of the crime.
+Appellant contends that the evidence is insufficient to sustain the verdict for three reasons: that there is no evidence of guilty knowledge; that the evidence is insufficient to prove that defendant “bought” and received,the jewelry, as alleged in the information; and that the evidence is insufficient to prove an intent “to prevent the owners from again possessing their personal property”.
+It is also contended in substance that the evidence for the prosecution tended to establish the fact that appellant had participated and was a principal in the robbery, and therefore could not be convicted of receiving stolen property. Such contention is without merit. The evidence was and is abundantly sufficient to support the verdict and judgment. The fact that the evidence was sufficient to support the conviction of a more serious offense furnishes no grounds for the reversal of the judgment. (People v. Day, 30 Cal. App. 762 [159 Pac. 457] ; People v. Bausell, 18 Cal. App. (2d) 15 [62 Pac. (2d) 774].)
+The three reasons above set forth as errors entitling appellant to a reversal of the judgment are likewise without merit; too trivial, indeed, to warrant further consideration.
+The instructions were adequate and proper.
+There being no errors in the record, the judgment and order appealed from are, and each of them is, affirmed.
+York, P. J., and White, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on January 25, 1940.
