@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11028"
+decided: "1936-10-14"
+citations: ["17 Cal. App. 2d 68"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALTER C. GRIFFIN et al., Respondents, v. TOBIAS E. JACOBSEN et al., Defendants; OLE HANSEN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/17/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2273329
+---
+
+# Griffin v. Jacobsen
+
+## Majority (HOUSER, P. J.)
+
+HOUSER, P. J.
+Plaintiffs brought an action against defendants for the purpose of recovering a judgment against them for damages that were alleged to have been sustained by plaintiffs as the result of a collision that occurred between an automobile that was owned and operated by them, and an automobile that was owned by defendant Hansen, in which he was then riding, but which at that time was not being driven by him. From a judgment that was rendered against both defendants, Hansen has appealed to this court.
+The principal criticism that appellant presents to the judgment is that, over the objection of defendants thereto, a court reporter who had taken stenographic notes of testimony that theretofore had been given by each of the defendants in a criminal action in which Jacobsen was the defendant, was permitted to read a part of such notes in evidence in the instant action. As is shown by the bill of exceptions herein, the said testimony consisted of the following statements, to wit:
+“That he [Jacobsen] and Ole Hansen left Los Angeles on or about 7:00 p. m. of August 24th, 1935, for the purpose of going to Mojave, California,- that both Tobias Emanus Jacobsen and Ole Hansen had indulged in a few beers and that Ole Hansen had indulged in a few drinks of whiskey; that Ole Hansen was driving the automobile from the time it left Los Angeles until it had proceeded approximately three miles North of Saugus on Mint Canyon Road, headed for Palmdale, California; that at that point, Ole Hansen -requested Tobias Emanus Jacobsen to drive the automobile because he, Ole Hansen, was dizzy, and that Tobias Emanus Jacobsen took the wheel of the automobile at that point and continued to drive and was driving at the time of the impact. That Ole Hansen testified in the same proceeding on -said October 21st, 1935, that he was not driving the Chrysler automobile at the time of the collision with the Ford of the Griffins but that Jacobsen was driving. The Chrysler car belonged to him, Ole Hansen.”
+The bill of exceptions also shows that:
+“To the introduction of this evidence, objection was made on behalf of Ole Hansen and Tobias E. Jacobsen, on the grounds that it was hearsay and not the best of evidence, and did not tend to prove any of the issues before the Court, which objection was overruled, and a motion having been made to strike such testimony as being hearsay, and not the best of evidence, and being incompetent, irrelevant, and immaterial, was denied.”
+Neither of the defendants was present at the trial of the instant action.
+From a consideration of the questioned evidence, it is apparent that, if properly admissible, it had a tendency to establish not only that each of the defendants was guilty of negligence in the operation of Hansen’s automobile, but as well, that although defendant Hansen was the owner thereof, at the time when the accident occurred, the automobile was being driven in the execution of his business and on his personal account; in other words, that defendant Hansen was the principal and that defendant Jacobsen was his agent;—consequently, that if the negligence of defendant Jacobsen could be made to appear, the doctrine of respondeat superior should be given application as to defendant Hansen.
+The several statements having been made by one party defendant, or the other, to the action, constituted an admission against interest as to such defendant; and therefore, as to him, could not be characterized as hearsay, as contended by appellant. Either the court reporter or any other person who had heard either of the defendants give his testimony in the other action was qualified to testify in the instant action regarding such admissions. (Code Civ. Proc., sec. 1870, subd. 2; 10 Cal. Jur. 1057 et seq.)
+Properly speaking, it may not be denied that, in the circumstances, an admission against interest made by one of the defendants to the instant action, would not have been admissible as against his codefendant. But the objection made to the questioned evidence did not specifically include any such ground as a reason why the objection should be sustained. To the contrary, the objection was general in its terms, and was so expressed that if sustained by the trial court, the result would have been that admissions against interest made by one of the defendants could not have been considered by the court as against him only. In that connection, since every legal intendment favors the validity of the judgment, it must be assumed that the trial court recognized the existence of the principles of law and procedure hereinbefore indicated, and that such principles were given their proper application. In other words, that the admissions that were made by each of the defendants were applied to him only.
+Reverting to the admissions made by defendant Hansen, it appears that, in substance and effect, in the criminal action he had testified that although he was the owner of the automobile that collided with that of the plaintiffs, at the time when the accident herein concerned occurred he was not driving his automobile, but that it was then and there being driven by his codefendant. Other evidence disclosed the fact that at the same time and place defendant Hansen was an occupant of his automobile. In such circumstances, it would seem clear that it was properly inferable that the automobile which was the property of defendant Hansen was being operated by defendant Jacob-sen in and about the execution of business or pleasure of said defendant Hansen, and consequently, that the doctrine of respondeat superior was given proper application by the trial court.
+No other points made by appellant require consideration by this court.
+The judgment is affirmed.
+York, J., and Doran, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on November 5, 1936, and an application by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on December 10, 1936.
