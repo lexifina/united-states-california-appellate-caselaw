@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 332"
+decided: "1907-11-07"
+citations: ["6 Cal. App. 741"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of MARY ELIZABETH CONROY, Deceased. ANTHONY BERNARD CONROY, Appellant, v. FRANK H. O'CONNELL, Administrator, Respondent."]
+source_url: "https://static.case.law/cal-app/6/cases/0741-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963966
+cites_cases: ["144 Cal. 665", "51 Cal. 640", "79 Pac. 383"]
+---
+
+# Conroy v. O'Connell
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+This is an appeal by Anthony Bernard Conroy from the decree of the superior court of Siskiyou county, made and entered November 10, 1906, making final distribution of said estate.
+It appears that Frank M. 0 ’Connell, respondent, as administrator of the estate of Mary Elizabeth Conroy, deceased, on October 20, 1906, filed his final account, together with a petition for the distribution of said estate. At the hearing it appeared, as shown by the decree of the court, that Bernard Conroy, to whom letters of administration were issued in said estate, died pending administration, and said Frank M. O’Con-. nell was duly appointed administrator do bonis non; that the sole estate belonging to decedent consisted of a house and lot in the town of Dunsmuir, being lot 5 in block 10; that Bernard Conroy was the father of Mary Elizabeth Conroy, deceased; that the mother of Mary Elizabeth had died previous to the death of the latter; that Mary Elizabeth was a single woman and died intestate, and that Bernard Conroy was her sole heir; that due notice to creditors was given by said Bernard, as such administrator, before his death, and no claims were presented against the estate of Mary Elizabeth, and no property of any Kind was received by said O’Connell, as administrator, other than $202.50 advanced by John F. Quinn to pay the costs of administration; that all taxes, state, county and municipal, together with all costs and charges against said estate of Mary Elizabeth, deceased, have been fully paid, and the estate is in condition to be closed; that Bernard Conroy, on April 21,1905, by deed granted said lot to said John F. Quinn, by virtue of which said Quinn “succeeded to the distributive right thereto of said Bernard Conroy, deceased”; that said final account “be and the same is hereby settled, allowed and approved as submitted; that the said real estate so comprising the estate of Mary Elizabeth Conroy, deceased, be and the same is hereby distributed to said John F. Quinn, as successor in interest of said Bernard Conroy, deceased.”
+It does not appear from anything in the record that appellant is the son and heir of Bernard Conroy or the brother of Mary Elizabeth; there is nothing but his notice of appeal to show any relationship of appellant to either of the above-named persons. It appears from the petition for distribution that Mary Elizabeth was the daughter of Bernard Conroy; that she was a single woman and died intestate, whose mother had died before her death, which would make Mary Elizabeth’s father her natural heir. Appellant’s kinship, if any, would be to Bernard whose estate, so far as appears, was not administered upon. The issue is not presented by the record. If there is any imperfection in the deed to Quinn the rights of appellant, Anthony Bernard Conroy, must be first asserted in proceedings to administer the estate of Bernard Conroy, deceased.
+Upon the merits of the matter, however, appellant’s contention cannot be maintained. He relies on the claim that the deed of Bernard Conroy to Quinn was as administrator. The deed reads: “This indenture, made the 21st day of April, 1903, between Bernard Conroy (Administrator of the Estate of Lizzie Conroy), of Dunsmuir,” etc. The deed is signed “Bernard Conroy,” and is acknowledged: . . . “personally appeared Bernard Conroy, known to me to be the person described in and whose name is subscribed to the within instrument, and acknowledged to me that he executed the same. ’ ’ There are no recitals in the deed showing that it was intended to be a deed by Bernard in his official capacity, as administrator, except as above appearing. The words in parentheses are surplusage and must be disregarded. They are repugnant to the terms of the deed which in all other respects show it to be the deed of Bernard Conroy individually. (Wilcoxson v. Sprague, 51 Cal. 640.) As Bernard's grantee, Quinn was entitled to have distribution made to him. (Code Civ. Proc., sec. 1678.)
+It is claimed that distribution should have been to the heirs of Bernard Conroy, inasmuch as he was then deceased; “that his heirs—this appellant as a son being one—were entitled to have the estate distributed to them, and their title became vested on the death of their father. ” (Citing Gutter v. Dallamore, 144 Cal. 665, [79 Pac. 383].) But if appellant be an heir of Bernard we have no proof of it in the record, and besides, the only way to establish heirship would be by proceedings in probate. Furthermore, Bernard Conroy in his lifetime conveyed to Quinn, and at his death he had no interest in the property, and hence his heirs, if he had any, took no interest.
+The judgment is affirmed.
+Hart, J., and Burnett, J., concurred.
