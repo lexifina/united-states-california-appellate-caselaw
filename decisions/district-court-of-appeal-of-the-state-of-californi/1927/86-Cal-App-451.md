@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3313"
+decided: "1927-10-31"
+citations: ["86 Cal. App. 451"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES E. WATTS, Respondent, v. ROBERT STEWART PEERS et al., Appellants."]
+source_url: "https://static.case.law/cal-app/86/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2103421
+---
+
+# Watts v. Peers
+
+## Majority (HART, J.)
+
+HART, J.
+The action is for damages for the alleged negligent maiming of two horses belonging to the plaintiff. Judgment was awarded the plaintiff in the total sum of $334, which included the sum of $9 for expenditures made by plaintiff in the procurement of the medicine necessary to the treatment of the injured animals. The case was tried by the court without the aid of a jury. The defendants appeal from the judgment.
+The defendant Robert Stewart Peers was, at the time of the filing of the complaint herein, a minor of the age of about nineteen years, and the defendant Robert A. Peers is the minor’s father. It is alleged in the complaint, and admitted by the answer, that upon an application in writing of Peers, Senior, prior to the accident in which the alleged injuries were inflicted upon the animals mentioned, the state division of motor vehicles issued to said minor a license authorizing him to operate a motor vehicle within the limits of the state of California, said application having also been signed by the defendant minor. It further appears that on the second day of January, 1925, at or about the hour of 5:35 P. M., the said defendant Robert Stewart Peers was in the act of driving or operating an automobile on the highway near a point about two miles in a general southerly direction from the town of Colfax, Placer County. The complaint alleges that the said automobile was at said time the property of the defendant Robert A. Peers “and was so being operated and driven by his said minor son” with his (the said Robert A. Peers’) assent. It is also alleged:
+“That on said day, and at or about said hour, said plaintiff commenced to drive his two horses across the state highway opposite his home adjoining said highway, and at the aforementioned place, about two miles in a general southerly direction from the said City of Colfax, in said county and. state; that said plaintiff was at that time within the side boundary lines of said highway right of way and immediately in the rear of said horses; that as plaintiff so started said horses across said highway he looked and saw said motor vehicle approaching at a rapid pace; that said plaintiff then and there had a lighted lantern in his hand, and immediately upon seeing said motor vehicle approaching proceeded toward the center of said highway, driving said horses ahead of him and waving said lighted lantern to warn the driver or operator of said motor vehicle, to wit, the said Robert Stewart Peers, of the danger before him.
+“That the said Robert Stewart Peers, notwithstanding the said warning signal of the said plaintiff, so carelessly, recklessly and negligently operated said motor vehicle that he drove the same into and struck down the smaller of said horses, then and there the property of said plaintiff; that said horse, as a result of being so struck down, was so injured that it was incapacitated and unable to perform the work which it was accustomed to perform for a period of fifty-four school days (said horse being a pony used by plaintiff’s child to ride to school); that said injuries are permanent in nature; and that by reason thereof the value of said'horse has been reduced to the extent and in the amount of $25.00.”
+In another count of the complaint it is alleged that another horse was likewise run into by said minor and was thereby so seriously injured as to wholly incapacitate said animal as a work horse, to which use the same had been put by the plaintiff. It may be stated that as to this particular animal, the evidence shows that some four or five months after it was injured it died.
+The damages claimed were for the value of the injured animals for the respective purposes for which they were and had been used by the plaintiff and the loss of the use thereof for the periods, respectively, of fifty-two and eighty-two working days.
+The answer specifically denies each of the material allegations of the complaint and also sets up the defense of contributory negligence.
+The testimony as presented by the record is such that a reviewing court would not perhaps legally be at liberty to hold, as a proposition of law, that proper findings made either in accord with the allegations of the complaint or in favorable response to the claim by the defendants of contributory negligence were without evidentiary justification. The case, however, presents an unusual situation, in that, while there was an attempt to make findings, such attempt was, so far as is concerned the essentially important issue made by the pleadings, entirely futile. "What purports, and undoubtedly was intended, to be a finding upon the pivotal issue in the case reads: “That on the 2nd day of January, 1925, the said defendant, Robert Stewart Peers, while operating a motor vehicle, ran into two horses of plaintiff, resulting in the death of one and the total uselessness of the other, plaintiff being thereby damaged in the sum of $325.00.”
+Obviously, unless the act of Robert Stewart Peers in running into and injuring the property of plaintiff was the direct result of his negligence, as charged in the complaint, then the defendants are not liable for damages for such injury to Ms horses as may have been sustained by plaintiff by reason of said act. There is no finding that the act of the defendant minor was negligent or that the injury to the horses was proximately caused by Ms negligence.
+The judgment is devoid of support and must be reversed. Accordingly, the judgment is reversed and the cause is remanded.
+Finch, P. J., and Weyand, J., pro tem., concurred.
