@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2846"
+decided: "1919-06-28"
+citations: ["42 Cal. App. 16"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY PROPERTIES CO. (a Corporation), Appellant, v. D. ISABELLE FITZMAURICE et al., Respondents."]
+source_url: "https://static.case.law/cal-app/42/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044508
+---
+
+# City Properties Co. v. Fitzmaurice
+
+## Majority (NOURSE, J., pro tem.)
+
+NOURSE, J., pro tem.
+Appeal from judgment for defendants in an action to quiet title to real property in Alameda County.
+On September 2, 1914, a judgment was recovered in the superior court of San Francisco in favor of Annie M. Cochran, a minor, by her guardian ad litem, and against Anne Marham. On September 5, 1914, a transcript of the docket of said judgment was recorded with the county recorder of Alameda County, Anne Marham being then the owner of the property involved in this proceeding. On October 8, 1914, Annie M. Cochran individually made and acknowledged a satisfaction of judgment, which was filed with the county clerk of San Francisco. On October 22d, of the same year, a transcript of the docket of the county clerk of San Francisco County, showing this satisfaction to have been filed, was recorded in Alameda County.
+On January 12, 1915, Anne Marham, for a valuable consideration, executed a trust deed to the property to secure a loan, and on October 9, 1916, the trustees under this deed conveyed to one. of the defendants through whom the other defendants claim.
+On August 19,1915, a notice was filed in Alameda County of the pendency of an action in San Francisco to set aside as fraudulent to creditors the satisfaction given by Annie M. Cochran on October 8, 1914. On January 12, 1916, said satisfaction was set aside by judgment of the superior court in San Francisco as a fraud upon the creditors of Annie M. Cochran. On February 21, 1916, the sheriff of Alameda County sold the property to appellant by virtue of an execution from San Francisco in the action entitled “Cochran v. Marham.” This was subsequent to the execution of the deed of trust of January 12, 1915, but prior to all sales and transfers of title thereunder.
+At the time of the trial the action was dismissed as to all defendants other than the actual occupant of the premises and those who held a deed of trust executed November 24, 1916. These all filed cross-complaints, and secured judgment against appellant.
+The main ground of attach on this judgment is that the recordation in Alameda County of the copy of the docket of the county clerk of San Francisco, showing the filing of satisfaction, was not notice in Alameda County of the satisfaction of the judgment sufficient to relieve the respondents’ predecessors in interest of further inquiry into the fact of satisfaction. In support of this proposition, appellant contends that the statute does not provide for such a method of releasing the lien previously placed by the recordation of the transcript of the judgment. In this appellant is technically correct. Section 674 of the Code of Civil Procedure authorizes the filing of a transcript of the original docket of a judgment in another county where real property is situated. Thereupon the judgment becomes a lien on all the real property of the defendant in such county. The same section then provides: “The lien continues for two years unless the judgment is previously satisfied or the lien otherwise discharged.”
+Respondents urge that the title of the property in Alameda County was cleared of the lien of the judgment when the certified copy of the county clerk’s docket, showing the filing of satisfaction, was recorded in that county. But the recording of a copy of. this document could not give it greater force than the record of the original docket in the county where made. (Civ. Code, sec. 1218.)
+Hence, when a transcript of judgment has been filed in another county under section 674 of the Code of Civil Procedure, the lien thereby placed is not discharged by the recordation of a copy of the clerk’s docket showing satisfaction. The lien is discharged by the satisfaction itself. Here the ease is that the judgment was obtained by the guardian ad liiem of Annie M. Cochran, and the satisfaction was signed by her individually on the representation that she had then become of age. If it be a fact that the ward was then of age she was competent to sign the satisfaction, because that fact alone terminated the guardianship. (Code Civ. Proc., sec. 1760.) The subsequent attack, which was made upon this satisfaction, was confined to the ground that it was in fraud of the creditors of the ward, and at no stage of the proceedings is it suggested that she was not of age and competent to give satisfaction of judgment at the time this document was executed. Such being the case those dealing with the property in Alameda County were not charged to look further than the fact that the judgment from which the lien arose had been satisfied by the actual plaintiff in the case in a manner and form fully meeting all the legal requirements.
+If the ward had not reached her majority, and if the satisfaction had been procured by the defendant or her agents through fraud upon the ward, then the trustees under defendant’s deed of trust and those deraigning title through them might be charged with the fraud, but there is no evidence of any such facts in the record. The lien upon the property having been discharged by satisfaction of the judgment it could not be restored except by the recordation anew of a transcript of judgment as required by section 674 of the Code of Civil Procedure.
+The filing of notice of the pendency of the new action to set aside the satisfaction as fraudulent to the creditors of the ward was not sufficient to put defendants on notice, as the title had previously been legally transferred by the defendant in the original action. The respondents accordingly took free from the cloud of the proceedings pending in San Francisco County and were entitled to judgment.
+For these reasons the judgment is affirmed.
+Waste, P. J., and Richards, J., concurred-
