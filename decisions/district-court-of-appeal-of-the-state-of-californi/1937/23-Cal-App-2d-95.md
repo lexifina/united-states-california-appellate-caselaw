@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1577"
+decided: "1937-10-06"
+citations: ["23 Cal. App. 2d 95"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of WILLIAM A. STANRIDGE for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-2d/23/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4520070
+cites_cases: ["116 Pac. 757", "160 Cal. 334", "257 Pac. 888", "35 L. R. A. (N. S.) 882", "65 Pac. (2d) 1305", "8 Cal. (2d) 378", "84 Cal. App. 269"]
+---
+
+# In Re Stanridge
+
+## Majority (THOMPSON, J.)
+
+THOMPSON, J.
+By means of a writ of habeas corpus the petitioner seeks to be released from custody on the ground that the committing magistrate exceeded his jurisdiction in holding him for trial in the superior court after a preliminary examination upon a charge of resisting a public officer in the discharge of his duties contrary to the provisions of section 148 of the Penal Code. It is contended the preliminary examination discloses no evidence that the petitioner was . aware of the fact that the persons were public officers who were threatened with bodily injuries if they attempted to enforce an ordinance of Stanislaus County which requires the vaccination of dairy cattle.
+There is also a motion which was presented at the same time to adjudge the attorney for the petitioner guilty of contempt for presenting and procuring the preliminary order for the writ of habeas corpus without disclosing the fact that the petitioner was not then in actual custody.
+There is no merit in the petition for a writ of habeas corpus. The evidence which was adduced at the preliminary hearing adequately discloses probable cause to believe that the accused person is guilty of resisting a public officer in the discharge of his duties by threatening him with violence and bodily harm if he attempted to enforce the Stanislaus ordinance to vaccinate the dairy cattle of one John Borba, and that the accused person then knew the threatened person was a public peace officer.
+Stanislaus County adopted an ordinance requiring the testing and vaccination of dairy cattle within that county. That ordinance has been declared valid. (Stanislaus County Dairymen’s Protective Assn. v. County of Stanislaus, 8 Cal. (2d) 378 [65 Pac. (2d) 1305].) John Borba owns a herd of dairy cattle which was kept on a ranch near Crows Landing in Stanislaus County. He opposed the inspection and vaccination of his cattle by the officers. On May 3, 1937, S. R. Briggs, a deputy sheriff of Stanislaus County, and five other deputies, accompanied the veterinarians to the ranch of Mr. Borba with the object of testing his cattle pursuant to the ordinance. When they arrived they found some 300 persons assembled on the ranch. Among them was this petitioner, who did not reside in Stanislaus County, but came from Hilmar in Merced County. He stood by the side of Mr. Borba and assumed to speak for him. There is substantial evidence that he heard the conversation of the officer with Borba, and must have known he was an officer who was then attempting to discharge his duties as a deputy sheriff. Regarding that subject the transcript of the preliminary examination consisting of 160 pages discloses the following evidence given by Mr. Briggs:
+“I . . . told Mr. Borba who we were, what we were there for. ... He (the petitioner) was standing alongside of Mr. Borba, and right in front of Deputy Sheriff Lockridge and myself. . . . Mr. Stanridge said, ‘I will talk for him, my voice is his voice. ... We are on a strike here, we don’t belong to this—not allied to or don’t belong to this damn fascist outfit, the 'Associated Farmers; ... We refuse to let you test the cows. We will use any force that is necessary. If you use clubs, we will use clubs, and if you use guns we will use guns. . . . Mr. Borba was directly in front of me and Mr. Stanridge was on Mr. Borba’s right, . . . about a foot and a half, two feet, if we were that far apart. ’ ’
+Mr. Borba testified regarding their knowledge of the fact that the persons to whom they were talking were public officers who had come to the ranch to test the cows, as follows: “Q. Do you know the Deputy Sheriff, Stanton Briggs? A. Yes. . . . Q. You know Mr. Lockridge? A. Yes. . . . Q. And did the others talk to you? A. Yes. . . . Q. Do you know the defendant, Mr. Stanridge? ... A. Oh, well, yes, I see him there, too, yes. Q. Was he with you when the officers walked up to you? A. Yes. ... I lmow them well, I know they were officers. . . . Q. You know they are Deputy Sheriffs, don’t you? A. Yes.”
+On account of the threats and to avoid an open conflict, the officers left without testing the cows.
+The evidence amply warranted the magistrate in holding the accused person for trial on the charge of resisting an officer in the discharge of his duties. The magistrate did not exceed his jurisdiction in making that order. The petition for a writ of habeas corpus is therefore without merit.
+The return of the sheriff to the application for a writ of habeas corpus clearly indicates that the petitioner was not in his custody at the time the petition was presented to this court. He had been released on his own recognizance. It appears that the attorney for the petitioner attempted to surrender him to the custody of the sheriff for the purpose of making the application for the writ. One who has voluntarily surrendered himself for the purpose of procuring a writ of habeas corpus is not entitled to the writ. It is said in that regard in 29 Corpus Juris, 23, section 15:
+“If the restraint is voluntary, as a general rule the writ ought not to issue, because unnecessary. So if a prisoner who has been released on bail surrenders himself of his own accord, it is held that habeas corpus will not lie.” (Ex parte Ford, 160 Cal. 334 [116 Pac. 757, Ann. Cas. 1912D, 1267, 35 L. R. A. (N. S.) 882]; In re Bocci, 84 Cal. App. 269 [257 Pac. 888].)
+It seems clear that the attorney for the petitioner did attempt to surrender his client for the purpose of procuring the writ of habeas corpus. That practice is not commended. It is a mere subterfuge of procedure. We are, however, unable to say that the attorney did not actually know his client was not then in the custody of the sheriff. While we do not approve of the methods resorted to in this ease to procure a writ of habeas corpus, we are of the opinion the motion to adjudge the attorney guilty of contempt on that account should be denied. It is so ordered.
+The writ is denied.
+Plummer, J., and Pullen, P. J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on October 23, 1937.
