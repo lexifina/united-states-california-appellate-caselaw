@@ -1,0 +1,40 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3511"
+decided: "1946-05-17"
+citations: ["74 Cal. App. 2d 523"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAXINE YOUNG ROBESKY, Respondent, v. DONALD A. ROBESKY, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/74/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6043337
+cites_cases: ["111 Cal.App. 148", "122 P.2d 96", "149 P.2d 206", "173 P. 582", "178 Cal. 352", "220 Cal. 34", "29 P.2d 206", "295 P. 93", "49 Cal.App.2d 581", "64 Cal.App.2d 631", "68 P.2d 719", "8 Cal.2d 719"]
+---
+
+# Robesky v. Robesky
+
+## Majority (MARKS, J.)
+
+MARKS, J.
+This is an appeal from an order modifying an interlocutory and a final decree of divorce by changing the custody of Maxine Edith Robesky from defendant, the father, to plaintiff, the mother.
+Plaintiff and defendant were married on July 18, 1936. Maxine was their only child. Plaintiff obtained an interlocutory decree of divorce from defendant on July 21, 1942. The final decree was entered on September 14, 1943. The parties had made a property settlement and the custody of Maxine, then four years of age, was given to her father by agreement of the parties.
+At the commencement of the hearing of the order to show cause why the custody of Maxine should not be awarded to plaintiff it was stipulated that both the father and the mother were fit and proper persons to have custody of the child.
+By stipulation the order to show cause was heard on affidavits. Many of them were filed and all of them contain much irrelevant, immaterial and redundant matter. When these matters are eliminated the material facts do not appear to be in serious dispute.
+At the time of the interlocutory decree of divorce defendant was a teacher in. a high school in Bakersfield. He placed Maxine with Edith Robesky, his mother, who lived in Glendale. Maxine remained with her grandmother until July, 1945.
+At the time of the divorce plaintiff was in poor health, weighing only 85 pounds. After a few months she sufficiently regained her health so that she entered the employment of the United States Government at San Bernardino, later being transferred to Los Angeles. She accepted this employment so she could be near and frequently visit Maxine.
+Defendant enlisted in the Navy in December, 1942. He was commissioned and served overseas from May, 1943, to December, 1944. He married Margaret Cain in that month. She was a teacher in the same high school where defendant had been employed and the affidavits picture her as a refined and competent lady.
+Defendant and Margaret eventually took up their residence at the Naval Advance Base, personnel department, at San Bruno, California, where Maxine lived with them from July, 1945, to August, 1945. In August, 1945, defendant and Margaret permitted plaintiff to take Maxine to her home in Bakersfield under the promise, as maintained by defendant, that Maxine would be returned in September, 1945. Plaintiff failed to return Maxine and defendant obtained possession of her through habeas corpus proceedings. It was stipulated that these proceedings should not be considered as having any bearing on this proceeding to modify the decrees.
+It appeared during the arguments that defendant has been discharged from the Navy and has returned to Bakersfield where he is living with his wife in their own home which is a suitable home for Maxine.
+Plaintiff is living with her parents in Bakersfield. They are substantial people of means with a very good home in which is an apartment which can be occupied by plaintiff and Maxine. They will furnish this apartment to plaintiff with sufficient money for her support and that of Maxine if the $30 per month which the trial court ordered defendant to pay for the support of the child should not prove sufficient for that purpose.
+It seems clear that either home open to Maxine is eminently suitable for her upbringing, moral and physical training and education. Thus it can be seen that the trial judge had a close and difficult question submitted to him when he was called upon to decide which parent should have the custody of the child.
+In divorce actions where the custody of a child is involved the trial court retains jurisdiction so that the decrees may be modified and the custody changed. It is usually, but not always true that the party seeking to change the custody should show a change of circumstances occurring since the rendition of an earlier order awarding the custody to one parent. (Foster v. Foster, 8 Cal.2d 719 [68 P.2d 719].)
+It is also established that the trial court, in determining which parent shall have custody of a child, is primarily concerned with the welfare of the child, not with the wishes of either parent. (Titcomb v. Superior Court, 220 Cal. 34 [29 P.2d 206].)
+An application to change the custody of a child from one parent to the other is addressed to the sound discretion of the trial judge and his order will not be reversed except on a clear showing of a breach of that discretion. (Bancroft v. Bancroft, 178 Cal. 352 [173 P. 582] ; Foster v. Foster, supra; Baldwin v. Baldwin, 111 Cal.App. 148 [295 P. 93].)
+Thus the ultimate question before us is this: was there any showing of such a breach of discretion in the instant case? The answer must be “No.” Maxine will live in a good home and will receive every attention and care necessary and proper for her physical, moral and educational development into childhood and womanhood. It is true that the affidavits indicate that defendant would have given Maxine an equally good home and proper care but this is not a sufficient basis for the conclusion that it was a breach of discretion to give the custody of a seven-year-old girl to her natural mother. (Civ. Code, § 138.) As was said in Peterson v. Peterson, 64 Cal.App.2d 631 [149 P.2d 206] :
+“Section 138 of the Civil Code provides that a court in awarding custody is to be guided (1) by what appears to be for the best interests of the child, and (2) as between parents adversely claiming the custody neither parent is entitled to it as of right, but other things being equal if the child is of tender years it should be given to its mother. Further amplification of the quoted portion of said section is found in the case of Washburn v. Washburn, 49 Cal.App.2d 581 [122 P.2d 96], wherein it is stated that the mother is the natural custodian of her young, and that the code exacts that she shall have custody of her child, everything else being equal, and that ‘In the case of girls it is obvious that they are particularly in need of the sympathy, affection, consideration and tender care which only a mother can give—and so normally they should be in her custody. ’ ”
+Defendant urges there was not a sufficient showing of any change of circumstances to justify the changing of the original award of the custody of Maxine to him. We cannot agree with this contention. Plaintiff was ill and therefore unable to care for her child when the award was first made. She has recovered her health and now can care for her daughter. Maxine was originally cared for in the home of her paternal grandmother who could not continue to care for her after July, 1945. These two changes in conditions are sufficiently material to fulfill the requirements of the law so we need not speculate on the care which would have been given the little girl by her stepmother. It is true that some mothers fail in their maternal duties while some stepmothers adequately substitute for1'the natural mother. Both women are pictured here as possessing high qualities of womanhood, but there is a change of circumstances in this which the trial judge might have considered.
+As there is ample proof of changed circumstances, and as there is no clear proof of a breach of discretion in giving the natural mother of Maxine the custody of the girl, we cannot disturb the order before us for review.
+The order is affirmed.
+Barnard, P. J., and Griffin, J., concurred.
