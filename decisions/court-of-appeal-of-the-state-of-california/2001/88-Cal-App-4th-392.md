@@ -1,0 +1,49 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "F032680"
+decided: "2001-04-10"
+citations: ["88 Cal. App. 4th 392"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. WILLIAM MURPHY, Defendant and Appellant"]
+source_url: "https://static.case.law/cal-app-4th/88/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 203593
+cites_cases: ["13 Cal.4th 497", "17 Cal.4th 253", "186 Cal.App.3d 401", "230 Cal.Rptr. 755", "280 Cal.Rptr. 424", "33 Cal.App.4th 531", "36 Cal.Rptr.2d 627", "41 Cal.Rptr.2d 1", "48 Cal.App.4th 1511", "53 Cal.3d 705", "53 Cal.Rptr.2d 789", "56 Cal.Rptr.2d 749", "70 Cal.Rptr.2d 334", "808 P.2d 1181", "885 P.2d 1040", "9 Cal.4th 331", "917 P.2d 628", "949 P.2d 31"]
+---
+
+# People v. Murphy
+
+## Majority (BUCKLEY, J.)
+
+Opinion
+BUCKLEY, J.
+Introduction
+A jury found the defendant, William Murphy, guilty of petty theft with three prior convictions. (Pen. Code, § 666.) It also found that each of the prior convictions was for first degree burglary, and thus each qualified as a “strike” for purposes of the three strikes law. (§ 667, subds. (b)-(i).) The court sentenced him to a prison term of 25 years to life.
+Murphy appealed. We remanded the case to the trial court to decide whether to exercise its discretion to vacate one or more of the jury’s strike findings. (People v. Superior Court (Romero) (1996) 13 Cal.4th 497, 529-530 [53 Cal.Rptr.2d 789, 917 P.2d 628].) In light of the remand, we rejected as premature Murphy’s contention his sentence constituted cruel and unusual punishment. We affirmed the judgment in all other respects.
+On remand, Murphy urged the court to exercise its discretion under Romero, and argued for similar reasons that the imposition of a life sentence in his situation would be cruel and unusual. The court rejected both positions and returned Murphy to prison. He now appeals for a second time.
+We will conclude the court did not abuse its discretion by refusing to vacate the strike findings, and that Murphy’s sentence is not cruel or unusual. Beyond that, we will conclude Murphy is precluded by the nature of our limited remand from challenging his sentence in any other respect.
+Facts
+Discussion*
+I., II.*
+III. Dual Use of Prior Convictions—Review Is Barred
+Murphy claims the trial court’s use of a prior burglary conviction both to elevate his petty theft to a felony and to invoke the sentencing provisions of the three strikes law violated constitutional due process and double jeopardy principles.
+In our earlier opinion, we remanded this case to the trial court for the sole purpose of deciding whether to exercise its discretion under Romero to vacate the jury’s strike findings (on the possible ground, among others, a three strikes sentence might amount to cruel or unusual punishment). We affirmed the judgment in all other respects. We did not reverse Murphy’s sentence. On remand, the court refused to vacate the jury’s strike findings and it returned Murphy to the custody of the Department of Corrections to serve out the remainder of his existing prison term. It did not resentence him.
+Given the limited nature of the proceeding from which Murphy appeals, we asked the parties to submit supplemental briefs on the question of whether Murphy is precluded from raising any issue other than the court’s refusal to exercise its Romero discretion. In other words, may Murphy now challenge, on entirely new and different grounds, the very same sentence that was the subject of his first appeal?
+In their responses, the parties have treated the question as one primarily of waiver. Murphy did not challenge the dual use of his prior conviction at his original sentencing hearing, in his first appeal, or during the proceedings on remand. Nonetheless, he argues the waiver rule does not apply because the sentence was legally unauthorized (People v. Scott (1994) 9 Cal.4th 331, 354 [36 Cal.Rptr.2d 627, 885 P.2d 1040]) or, alternatively, his counsel was ineffective for failing to raise the issue earlier.
+The People, in turn, rely on People v. Senior (1995) 33 Cal.App.4th 531 [41 Cal.Rptr.2d 1], where the court held that “when a criminal defendant could have raised an issue in a previous appeal but did not do so, the defendant may be deemed to have waived the right to raise the issue in a subsequent appeal, absent a showing of good cause or justification for the delay.” (Id. at p. 533.)
+In Senior, the defendant was held to have waived a sentencing issue he could have raised in either of two previous appeals. He could have raised it because in each instance the matter had been remanded for resentencing, and so the entire sentence was before the trial court. (People v. Senior, supra, 33 Cal.App.4th at p. 534.) The same is not true here. The court in Senior acknowledged the distinction. “[T]hough California law prohibits a direct attack upon a conviction in a second appeal after a limited remand for resentencing or other posttrial procedures [citation], we are not aware of any statutory or decisional authority barring a defendant from raising a new substantive issue which, though technically encompassed in the appellate court’s remand order, could have been raised in the previous appeal.” (People v. Senior, supra, 33 Cal.App.4th at p. 535.)
+Senior arose in the second situation, where the contested sentencing issue was “technically encompassed” within the remand order and so could have been raised but was not. The present case arises in the first situation where, given our limited remand, the issue Murphy now seeks to raise was not before the trial court once the court denied his request to vacate the strike findings. Murphy is precluded from raising his dual use argument not because he waived it, but because the time in which to make it has passed.
+In People v. Rodriguez (1998) 17 Cal.4th 253 [70 Cal.Rptr.2d 334, 949 P.2d 31], our Supreme Court discussed the nature of the proceeding in the trial court following a limited remand pursuant to Romero. The issue in Rodriguez was whether the defendant was entitled to attend the proceeding even when the court intended not to exercise its discretion to dismiss a strike prior. The People maintained the defendant’s statutory and constitutional rights to be present with counsel at all critical stages of a criminal prosecution were not implicated in that situation because he was not being sentenced nor was judgment being pronounced.
+The court began its discussion by noting: “We may assume that a reviewing court has the power, when a trial court has made a mistake in sentencing, to remand with directions that do not inevitably require all of the procedural steps involved in arraignment for judgment and sentencing. Section 1260, which sets out the permissible dispositions of a cause on appeal, permits the reviewing court to ‘remand the cause to the trial court for such further proceedings as may be just under the circumstances.’ . . . Thus, it appears we may properly remand to permit the trial court to make the threshold determination of whether to exercise its discretion in defendant’s favor without necessarily requiring resentencing unless the court does act favorably.” (People v. Rodriguez, supra, 17 Cal.4th at p. 258.)
+Even when the defendant is not resentenced, however, the court held section 1260 alone “provides sufficient authority to require defendant’s presence on remand” because it would be “manifestly unfair” to permit the trial court to decide how to exercise its discretion without giving the defendant an opportunity to address the issue. (People v. Rodriguez, supra, 17 Cal.4th at p. 260.) Therefore, the court concluded: “On remand, the superior court should conduct a hearing in the presence of defendant, his counsel, and the People to determine whether to dismiss one or more prior felony conviction findings pursuant to section 1385. If the court decides to dismiss one or more findings, the court should proceed to resentence defendant. If the court decides not to dismiss a finding, the court should remand defendant to the custody of the Department of Corrections to serve the remainder of his term.” (17 Cal.4th at p. 260.)
+Thus, Rodriguez provides support for the procedure utilized in this case, in that our remand did not require the trial court to resentence Murphy unless it first decided to vacate a strike finding. In an appeal following a limited remand, the scope of the issues before the court is determined by the remand order. (People v. Deere (1991) 53 Cal.3d 705, 713 [280 Cal.Rptr. 424, 808 P.2d 1181]; People v. Webb (1986) 186 Cal.App.3d 401, 410 [230 Cal.Rptr. 755].) Since the court in this case chose not to vacate a strike finding, the matter of Murphy’s sentence was not again before it. Therefore, Murphy cannot now argue improper dual use of his prior convictions. The time for him to have raised this objection was during his first appeal.
+Disposition
+The judgment is affirmed.
+Dibiaso, Acting P. J., and Cornell, J., concurred.
+A petition for a rehearing was denied May 3, 2001, and appellant’s petition for review by the Supreme Court was denied July 18, 2001. Kennard, J., was of the opinion that the petition should be granted.
+Except as noted, all further statutory citations refer to the Penal Code.
+We take judicial notice of our opinion in the earlier appeal (People v. Murphy (June 4, 1998, F024909) [nonpub. opn.]). (Evid. Code, §§ 452, 459) and incorporate the record by reference (Cal. Rules of Court, rule 11).
+See footnote, ante, page 392.
+We note that, were we to consider Murphy’s dual use argument, we would conclude it is meritless for the same reasons we rejected it in People v. White Eagle (1996) 48 Cal.App.4th 1511, 1519-1520 [56 Cal.Rptr.2d 749],
