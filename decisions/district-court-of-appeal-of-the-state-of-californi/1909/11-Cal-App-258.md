@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 687"
+decided: "1909-09-03"
+citations: ["11 Cal. App. 258"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN G. RITTER and ANNA M. RITTER, His Wife, Appellants, v. F. BRAASH, Respondent."]
+source_url: "https://static.case.law/cal-app/11/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649343
+cites_cases: ["103 Cal. 204", "128 Cal. 242", "134 Cal. 459", "37 Pac. 218", "60 Pac. 772", "66 Pac. 594", "8 Cal. App. 258", "96 Pac. 508"]
+---
+
+# Ritter v. Braash
+
+## Majority (TAGGART, J.)
+
+TAGGART, J.
+Action to cancel promissory note. Default judgment was entered on cross-complaint of defendant praying for judgment on the note. Appeal is by plaintiff from this judgment, from an order of the superior court denying his motion to strike defendant’s answer and cross-complaint from the files, and from an order of the court denying his motion to set aside the default entered on the cross-complaint.
+Complaint was filed December 3, 1908, demurrer thereto December 11th, and on December 18, 1908, demurrer was overruled. On December 23, 1908, an answer and cross-complaint separately stated, but bound as one instrument, stated in the transcript to have been “duly verified,” was served on the attorneys for plaintiff, their acceptance of service being as follows: “Received copy of within answer & cross this 23d day of Dec., 1908, Randall & Gaines, attorney for plaintiff,” their residence not being given. On January 18, 1909, personal service of the answer and cross-complaint was made on both plaintiffs in Los Angeles county, and default for failure to answer the cross-complaint was entered by the clerk of the superior court on January 22, 1909. The record also shows a minute entry of such default by the court on motion of attorney for defendant on January 29, 1909, and on February 2, 1909, judgment was entered by the clerk on default for failure to answer the cross-complaint, for the amount due on the note and for costs.
+On February 13, 1909, plaintiffs served notice that on February 19, 1909, they would move the court to set aside the default judgment and all subsequent proceedings for irregularity, in that the default was entered before the time to answer the cross-complaint had expired; also that they would move the court to strike out the paper purporting to be an answer and cross-complaint because not signed and verified; and also for judgment on the pleadings, for the reason that no answer to the complaint was filed in the time allowed by law. On the day noticed the motion to strike out was denied and the motion to set aside the default continued to February 26th, that plaintiffs might file affidavits in support of that motion, and on the last-named date the motion was denied. The affidavits filed appear to be framed upon the theory that they are intended to support an application for relief under section 473, Code of Civil Procedure, instead of a motion on the ground of “irregularity” in entering default before the time for answering had expired, but treated as a showing under section 473 they are insufficient and without any showing on the merits. The complaint, which was verified, was not made a part of the showing on the motion, but even if it had been, we are not prepared to say the court abused its discretion in denying the motion.
+There was no “irregularity” in the entry of the default of plaintiffs for failure to answer the cross-complaint. Prior to the entry of the judgment they were regularly served with the cross-complaint. Under section 1015 of the Code of Civil Procedure, the service made on their attorneys on December 23, 1908, set the time running within which, under the provisions of section 442, Code of Civil Procedure, they must answer or demur to the cross-complaint. (Estate of Nelson, 128 Cal. 242, [60 Pac. 772]; Rose v. Mesmer, 134 Cal. 459, [66 Pac. 594] ; Wood v. Johnston, 8 Cal. App. 258, [96 Pac. 508].) Whether the attorneys resided in Los Angeles county or elsewhere, the plaintiffs were in default at least as early as the twenty-second day of January, 1909. If they resided in Los Angeles county, the time expired in ten days after December 23, 1908. The second entry of default made on January 29, 1909, by the court, apparently based upon the service on the parties personally on January 18th in the county where the action was brought, was sufficient upon which to predicate the default judgment if personal service on the parties had been necessary, but such service was mere surplusage and without effect upon the question.
+Whichever service is relied upon, however, the time for plaintiffs to answer had expired before their default was entered. The entry of default in the minutes of the court did not render it invalid or ineffective, and the delay of the clerk in entering the judgment on the default is not a matter of which plaintiffs can complain. The provision that it shall be entered immediately is merely directory and for the benefit of the party in whose favor the judgment is given, and the plaintiffs cannot invoke such failure for the purpose of annulling the judgment in defendant’s favor. (Edwards v. Hellings, 103 Cal. 204, 207, [37 Pac. 218].)
+We see no error in the rulings of the trial court, and judgment and orders appealed from are affirmed.
+Allen, P. J., and Shaw, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on October 28, 1909.
