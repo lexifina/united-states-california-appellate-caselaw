@@ -1,0 +1,29 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 7914"
+decided: "1970-03-20"
+citations: ["5 Cal. App. 3d 724"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. WYATT KING, JR., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/5/cases/0724-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4382667
+cites_cases: ["1 Cal.3d 80", "454 P.2d 36", "458 P.2d 713", "460 P.2d 129", "70 Cal.2d 410", "71 Cal.2d 1096", "77 Cal.Rptr. 460", "80 Cal.Rptr. 633", "81 Cal.Rptr. 457"]
+---
+
+# People v. King
+
+## Majority (ELKINGTON, J.)
+
+Opinion
+ELKINGTON, J.
+This is an appeal by the People from an order setting aside an information under the provisions of Penal Code section 995. The only question raised is whether police, without a warrant, are permitted to travel over an open automobile driveway alongside a private house to its backyard while pursuing a felony investigation.
+Early one morning police officers observed in a vacant lot a stripped engineless Ford automobile that had not. been there the day before. An immediate investigation disclosed that it had recently been stolen from one William Parker. Defendant King, who was known to the officers, lived nearby at 1826 Chestnut Street from which area the car could have “been pushed.” He had “changed parts, put new car parts or newer car parts on old cars, old Fords.” Considering him a suspect they went to his home. Alongside the house was a driveway about 30 feet in length, running from the sidewalk to the backyard. The officers walked up the driveway to the rear edge of the house where in the backyard they saw bucket seats, an automobile transmission lying on the ground, and “a homemade wooden A-frame type of hoist with a chain hoist, and a Ford engine hanging from it.” They also observed lying on the ground gas receipts and an automobile registration certificate on which could be seen the name “William Parker.” All of the things seen were in plain sight of the officers. There was no gate or fence between the sidewalk and the property seen in the backyard. From the sidewalk the subject property could not have been seen. It is conceded that the officers, prior to entering upon the driveway, had no probable cause for a search warrant or an arrest.
+Defendant argues that the passage by the police over King’s driveway and into the backyard where they observed the stolen property was violative of Fourth Amendment standards. We have concluded that the argument is without merit, the question before us being resolved by the recent case of People v. Bradley, 1 Cal.3d 80 [81 Cal.Rptr. 457, 460 P.2d 129].
+In Bradley an officer was investigating information that Bradley was engaged in the narcotic traffic. There, also, no probable cause for arrest or a search warrant existed. “The premises [in question] included a house that faced the street; a driveway that ran along the east of the house and terminated in a garage at the rear and east of the house; defendant’s residence which was attached to the rear of the garage; and a large ‘fenced in yard’ to the west of defendant’s residence. The extent and the manner of the fencing are not disclosed by the record.” (People v. Bradley, supra, p. 83.) The officer went into the “rear yard area” to investigate. There he discovered a marijuana plant partially hidden by the foliage of a fig tree. The contraband plant could not be recognized at a distance of more than “almost a foot” from the fig tree.
+In resolving an argument that the officer’s conduct was violative of Fourth Amendment standards the Bradley court announced at page 84 (citing People v. Edwards, supra, 71 Cal.2d 1096 [80 Cal.Rptr. 633, 458 P.2d 713]: “[W]e believe that an appropriate test is whether the person has exhibited a reasonable expectation of privacy, and, if so, whether that expectation has been violated by unreasonable governmental intrusion.” The court then continued (p. 85): “Measured by that test we are satisfied that the officer’s discovery and seizure of the marijuana plants in the yard adjacent to defendant’s residence did not violate the constitutional prohibitions against unreasonable searches and seizures. From the recited evidence it may be inferred that the marijuana plants were partially but not totally covered by foliage. It does not appear that the plants were covered by nontransparent material, and it may be inferred that at least part of the plants were in plain sight of anyone within a foot of the tree. Although they were in a rear yard that was fenced to an undisclosed extent, they were located a scant 20 feet from defendant’s door to which presumably delivery men and others came, and the front house, as well as defendant’s house, apparently had access to the yard. Under the circumstances it does not appear that defendant exhibited a subjective expectation of privacy as to the plants. Furthermore, any such expectation would have been Unreasonable.”
+In the case before us it must be concluded that defendant King exhibited even a lesser “expectation of privacy” than did the Bradley defendant. Bradley’s marijuana plant was partially concealed, the court stating “that at least part of the plants were in plain sight of anyone within a foot of the tree.” (P. 85.) Here the property stolen by King and his co-defendant was visible from the driveway many feet way, and we may reasonably infer that it could also have been seen from windows of adjacent buildings. And it should be noted that the Fourth Amendment prohibits unreasonable searches and seizures, not trespasses. (People v. Edwards, supra, 71 Cal.2d 1096, 1104; People v. Terry, 70 Cal.2d 410, 427-428 [77 Cal.Rptr. 460, 454 P.2d 36].)
+The order is reversed.
+Molinari, P. J., and Sims, J., concurred.
