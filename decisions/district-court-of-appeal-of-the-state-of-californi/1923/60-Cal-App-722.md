@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4066"
+decided: "1923-02-08"
+citations: ["60 Cal. App. 722"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE ARGUS ENTERPRISES, INC. (a Corporation), Appellant, v. HENRY CALMY et al., Respondents."]
+source_url: "https://static.case.law/cal-app/60/cases/0722-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2092094
+cites_cases: ["109 Cal. 107", "113 Cal. 142", "148 Cal. 457", "38 Pac. 48", "41 Pac. 793", "45 Pac. 191", "68 Cal. 277", "83 Pac. 1003", "9 Pac. 157"]
+---
+
+# Argus Enterprises, Inc. v. Calmy
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+This is an appeal by the plaintiff from a judgment rendered against it upon a cause of action stated in the cross-complaint of the defendants. The sole ground for reversal now urged on behalf of the plaintiff is that the court erred in overruling plaintiff’s demurrer to the amended cross-complaint. The argument rests upon that part of the demurrer which alleged that said amended cross-complaint “does not contain facts sufficient to constitute a cause of action.’’’ It is not claimed that said cross-complaint did not state a cause of action except in this, that the case presented by the cross-complaint is in no manner related to the subject matter of the plaintiff’s action, and therefore that the cross-action does not lie in this case.
+For the purposes of this decision we shall assume that, as against objections properly urged, the right of the defendants to proceed by cross-complaint should have been denied. But, upon the record now before us we think that this objection really appears for the first time on this appeal from the judgment.
+Although it does not appear that the supreme court has ever directly stated that a general demurrer to a cross-complaint upon the ground that it does not state facts sufficient to constitute a cause of action is sufficient to raise the question of the right to file the cross-complaint, yet it does appear that a number of eases have been decided upon the assumption that the question could be so raised. In three cases judgments were reversed directly upon the ground that the demurrer had been improperly overruled where the case presented by the cross-complaint was not a proper case for cross-complaint. (Demartin v. Albert, 68 Cal. 277 [9 Pac. 157]; Silver Creek etc. Co. v. Hayes, 113 Cal. 142 [45 Pac. 191]; Yorba v. Ward, 109 Cal. 107 [38 Pac. 48, 41 Pac. 793].) However, in the Silver Creek etc. Co. case the supreme court held that the cross-complaint did not state a cause of action at all, as well as that it did not present a proper case for a cross-complaint. And in the Yorba case the plaintiff’s objection to the cross-complaint was presented by a motion to strike it out, as well as by demurrer. As far as we have been able to discover, Demartin v. Albert, supra, is the only decision wherein (the record showing a general demurrer that the cross-complaint did not state facts sufficient to constitute a cause of action) the judgment was reversed solely upon the ground that “the cross-complaint was not filed in the proper ease,” and that the court erred in overruling the demurrer.
+In the later case of Riverside Heights etc. Co. v. Riverside Trust Co., 148 Cal. 457, 469 [83 Pac. 1003, 1008], the question now under consideration was disposed of as follows: “The appellant appeared to the cross-complaint, filed a demurrer and answer thereto, and afterward went to trial, not only without objection to the propriety of the cross-complaint as a pleading in the action, but in pursuance of a stipulation to submit for decision a particular question arising out of its allegations. It is too late to object in this court for the first time that the cross-complaint was improperly filed and did not come within the scope of the provisions of section 442 of the Code of Civil Procedure.”
+In this present action the plaintiff, at the same time when it filed its demurrer, also filed a notice of motion to strike from the amended cross-complaint certain parts thereof. The motion was presented and was granted to the extent that one portion of the cross-complaint was stricken out. When the ease was called for trial, statements were made by counsel indicating that the action was to be tried on the cross-complaint. In response to the court’s remark, “Then the original complaint and original cross-complaint stand?” counsel for appellant responded, “There is an amended cross-complaint.” Thereupon counsel for appellant referred to his motion to strike, and brought to the attention of the court the particular part of the motion that had been granted, closing his statement with the words, “So the rest of it stands.” The case then proceeded to trial without any suggestion that the plaintiff was objecting to trial of the action as presenting a controversy relating to the cross-action. It may fairly he inferred that this objection was never brought to the attention of the trial court at any stage of the proceedings. It is not now claimed that on the merits of the ease (aside from this single question of being properly in court), the cross-complainants’ right of recovery was not fully established. Under these circumstances we think that the objection now comes too late.
+The judgment is affirmed.
+James, J., and Houser, J., concurred."
