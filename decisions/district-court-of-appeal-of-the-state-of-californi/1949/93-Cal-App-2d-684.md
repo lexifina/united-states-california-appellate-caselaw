@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3788"
+decided: "1949-09-20"
+citations: ["93 Cal. App. 2d 684"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["K. K. LOWE, Respondent, v. GEORGE LOYD et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/93/cases/0684-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253349
+cites_cases: ["112 P.2d 3", "164 P.2d 21", "17 Cal.2d 722", "185 P.2d 35", "214 Cal. 269", "4 P.2d 776", "72 Cal.App.2d 138", "78 A.L.R. 585", "81 Cal.App.2d 737"]
+---
+
+# Lowe v. Loyd
+
+## Majority (MUSSELL, J.)
+
+MUSSELL, J.
+This is an action by a real estate broker to recover commission.
+Plaintiff and defendants executed a written contract on August 24, 1946, by the terms of which plaintiff was given an exclusive agency to sell the premises known as the “Adobe Motel” near Madera, in Madera County, for the sum of $185,-000, cash and terms to be arranged. The contract contained the following provisions:
+“Should said agent or their authorized agent or agents be instrumental in procuring a person or persons ready, able and willing to osehango for or purchase the property described herein, in accordance with this agreement, I agree to pay said undersigned agent 5% of the selling price or exchange value as commission.
+“This Authorization to Sell is to continue in full force and effect for a period of 90 days from date hereof, and thereafter until revoked by me in writing, but to terminate automatically six months after end of listing period.”
+It is conceded that plaintiff did not procure a buyer for the premises in accordance with the terms of the contract. After the expiration of the 90-day period mentioned in the agreement, but within six months immediately following this period, defendants consummated an exchange of the property through another broker and did not pay plaintiff any commission. The escrow instructions on the exchange were dated March 17, 1947, and the deed by defendants conveying the property in the exchange was recorded on April 11, 1947. No written notice of the termination of the exclusive agency was given to plaintiff by defendants. It was stipulated that plaintiff was not in any way instrumental in procuring the exchange and there was no evidence that plaintiff or his agent or agents ever showed or submitted the property to the parties who acquired it in the exchange.
+The complaint contains two causes of action, one for damages in the sum of $9,250 occasioned by defendants’ breach of contract in exchanging the property, and the other in the form of a common count for the same amount.
+The- court found all of the allegations of the amended complaint to be true and judgment was entered in favor of plaintiff for the amount claimed.
+Defendants contend that the evidence is insufficient to support the findings and judgment, and that the provisions of the contract by which the exclusive agency is continued for six months after the expiration of the 90-day period, unless defendants gave notice of revocation in writing, is contrary to public policy and void.
+In connection with the first point urged, defendants assert that since plaintiff did not procure a purchaser ready, able and willing to purchase defendants’ property upon the authorized terms, or any other terms agreed to by defendants, and since plaintiff did not show or submit the property to the persons who acquired it in the exchange, that under these circumstances plaintiff cannot recover for services performed as real estate broker. While this may be true as to recovery on the theory of implied contract for the value of services rendered, an agent may recover damages for the breach of an exclusive agency contract by the principal, even though he has not procured a purchaser ready, willing and able to purchase, when the breach by the principal consists of preventing the agent from selling the property by selling it himself before the agency contract has expired. (Fitzpatrick v. Underwood, 17 Cal.2d 722, 733 [112 P.2d 3].) Plaintiff, in the instant case, was entitled to the exclusive right to contract for the sale of the property during the period specified, and the exchange by the defendants before the expiration of the agency destroyed that right and made performance by plaintiff impossible. Upon this breach by defendants, plaintiff was entitled to sue for the agreed commission, namely, $9,250. (Fleming v. Dolfin, 214 Cal. 269 [4 P.2d 776, 78 A.L.R. 585].) It is immaterial whether the recovery was for the damages for wrongful prevention of performance, or for payment of commissions under the contract, since in either case the action is on the contract. (Walter v. Libby, 72 Cal.App.2d 138, 142 [164 P.2d 21].)
+Defendants’ contention that the contract is void and against public policy is based on the assumption that it violates the provisions of section 10176 of the Business and Professions Code, which provides, among other things, that the commissioner may temporarily suspend or permanently revoke a real estate license where the licensee has been guilty of “the practice of claiming, demanding, or receiving a fee, compensation or commission under any exclusive agreement authorizing or employing a licensee to sell, buy or exchange real estate for compensation or commission where such agreement does not contain a definite, specified date of final and complete termination.”
+The contract before us has a definite date of final and complete termination in the provision that it terminates automatically six months after the end of the listing period, a situation factually different from that in Castleman v. Scudder, 81 Cal.App.2d 737 [185 P.2d 35], relied upon by defendants. In that case the proceedings were in connection with the revocation of a real estate broker’s license and the provisions for termination were as follows: ‘ ‘ This agency shall continue 30 days from the date hereof and thereafter until three days have elapsed after receipt of written notice from the Owner, terminating the agency, sent by registered mail, or delivered in person to said agent.” Obviously such a provision fails to set forth a definite date, and the contract continued indefinitely subject to a notice or revocation, a situation which does not exist in the contract in the present case. Moreover, it is conceivable that the regulation of “practices” by real estate brokers may be the subject of regulation without affecting the validity of contracts made by them, and we are not here considering what may or may not be sufficient cause to revoke or suspend the broker’s license.
+From what we have here said as to the right of plaintiff to recover the amount of the agreed commission, it follows that defendants’ contention that the damages are excessive and are not supported by the evidence, is without merit.
+Judgment affirmed.
+Griffin, Acting P. J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied November 17, 1949. Schauer, J., voted for a hearing.
