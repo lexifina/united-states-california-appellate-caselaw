@@ -1,0 +1,47 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6539"
+decided: "1941-11-19"
+citations: ["47 Cal. App. 2d 809"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of EMIL FLOOD, Deceased. JENNIE FLOOD, Appellant, v. CARYL FLOOD, as Executor, etc., Respondent."]
+source_url: "https://static.case.law/cal-app-2d/47/cases/0809-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039771
+cites_cases: ["104 N. E. 233", "140 Cal. App. 508", "185 Cal. 27", "188 Cal. 336", "195 Pac. 918", "199 Cal. 641", "206 Pac. 628", "21 Cal. App. (2d) 73", "250 Pac. 676", "262 Ill. 126", "35 Pac. (2d) 335", "50 L. R. A. (N. S.) 854", "68 Pac. (2d) 313"]
+---
+
+# Flood v. Flood
+
+## Majority (TUTTLE, J.)
+
+TUTTLE, J.
+This is an appeal from a judgment admitting a lost will to probate, and appointing an executor.
+Appellant is the widow of the decedent, Emil Flood. By the terms of said will she will receive $1000, plus one-ninth of the residue of the estate. If her husband died intestate, she would succeed to one-half of his property.
+The will was admitted to probate under the provisions of section 350 of the Probate Code, which reads in part as follows:
+“No will shall be proven as a lost or destroyed will unless proved to have been in existence at the time of the death of the testator, or shown to have been destroyed fraudulently or by public calamity in the lifetime of the testator, without his knowledge. ...” Appellant’s sole contention is that the evidence is insufficient to justify the trial court in making the order.
+The burden of proving that the will which respondent seeks to probate was either in existence at the time the testator died, or had been destroyed fraudulently or by public calamity without his knowledge during his lifetime, was upon respondents as proponents of the will. (Estate of LeSure, 21 Cal. App. (2d) 73 [68 Pac. (2d) 313].) There is no suggestion of fraud in the case, nor proof of a public calamity. The only question is whether or not there is sufficient evidence in the record to justify a finding that the will was lost, and that it was in existence at the time of death. This may sound contradictory, but it is obvious the words ‘1 in existence” import “unrevoked.”
+On September 9, 1938, the testator was visiting relatives at Newman Grove, Nebraska. His wife was then visiting at a point further east. On that day he called upon an attorney in said town, and executed a will, a carbon copy of which was retained by said attorney. The wife of testator (appellant herein), returned to Nebraska on October 1, 1938. The following testimony by appellant states what took place just prior to their departure to California:
+“Q. Did anything take place there at all, at his brother’s place there, in regard to a Will? A. Yes. Monday morning he was all ready to go, the car was packed, I was dressing, and he tossed a paper over on the bed and he said—he said, ‘Here’s my Will’. I said, ‘What Will?’ ‘My Will, here’s the Will,’he said. I said, ‘ What Will ? ’ ‘My Will.’ I tossed it back to him, I said, ‘I can’t read that now. Take care of it; put it away and take care of it.’ And that is the last I saw of it. ’ ’
+In October of 1938, the will was again discussed by them, according to the following testimony of appellant:
+“A. No, he came and said he couldn’t find it. Q. That he couldn’t find it in the suitcase? A. Yes. Q. Did you help him look for it? A. Yes, I says, ‘I will have to go back, look in the suitcase again. ’ He did. Q. Really, the first chance you had at Turlock, he did open the suitcase and empty it; he came to you and said, ‘It’s not there.’ Then that is the time he said, ‘Well, it must be at Charlie’s.’ A. Yes, that is the time he said, ‘I suppose it is at Charlie’s.’ (‘ Charlie’s’ referred to his brother’s place at Newman Grove, Nebraska, where Flood had showed the Will to his wife.) ”
+The will was next discussed, according to appellant, in the manner disclosed by her testimony, as follows:
+“A. Well, I said to him once, I said, ‘Did you write to Charlie about it ? ’ He said,‘No.’ Then another time I said, ‘Did you make a new Will?’ And then he said ‘No.’ That is all. Q. What was the general attitude when you talked to him about those matters, about the Will, what did he seem to appear? A. Well, he seemed to not care, he seemed indifferent. That is why I didn’t talk to him about it.” •
+The testator died June 16, 1940. Search for a will was made in his house, at his bank in Turlock, California, in his brother Charlie’s house in Nebraska, and in the office of the county judge of that state. No will was found.
+The contents of the lost will were attempted to be proven by a copy which the attorney testified (by way of affidavit) was a carbon copy of the original. Proof of due execution of the original was made. Such testimony was corroborated by a second witness. We think that the evidence shows due execution of a will on September 9, 1938, and that the record shows full compliance with the following portion of section 350 of the Probate Code:
+“No Will shall be proven as a lost or destroyed will . . . unless its provisions are clearly and distinctly proved by at .least two credible witnesses.”
+The foregoing was only a portion of the proof required by the statute. The burden still rested upon respondent to prove that the will was still in existence at the time of death. To do this, respondent was required to rebut the presumption of revocation.
+Appellant contends that the facts bring the case within the rule stated in 26 Cal. Jur. 807, section 3 41:
+“Where the evidence shows that the instrument cannot be found, and that when last seen or known to exist it was ;u the custody or possession of the decedent, the conclusion of law is that the writing was destroyed by the decedent, and that he acted with the intention of effecting a revocation thereof. Nothing else appearing, the admission of the writing to probate as a lost or destroyed will must be denied. ’ ’
+We are in accord with appellant’s view. In Estate of Ross, 199 Cal. 641 [250 Pac. 676], where an order establishing a lost will was reversed, the situation was identical. The court there states the facts as follows:
+“It was established beyond question that the will was last seen and known to have been in the possession of the deceased on April 19, 1923; that from that date until the day of her death she was in the possession of her physical and mental faculties and that the will could not be found after her death. From these facts the presumption arises that the will was destroyed by the testatrix with the intention of revoking the same. (Estate of Johnston, 188 Cal. 336 [206 Pac. 628]; Estate of Sweetman, 185 Cal. 27 [195 Pac. 918] ; Griffith v. Higinbotom, 262 Ill. 126, Ann. Cas. 1915B 250 [104 N. E. 233] ; see note, 50 L. R. A. (N. S.) 854.) ”
+Respondent contends that 1 ‘ there is not a single word in the record that the decedent was in the exclusive custody and possession of the will at all, at any time near Ms death.” The rule relating to the presumption does not refer to possession at the time of death. It only requires that when it was last seen or known to exist, it was in his possession. In Estate of Smith (discussed later), the presumption was applied, although the last time the will was seen in the possession of the testatrix was several years prior to her death.
+Respondent, to meet the foregoing presumption, relies upon another presumption, which is found in subdivision 32 of section 1963 of the Code of Civil Procedure: “That a thing once proved to exist continues as long as is usual with things of that nature.’’ Estate of Sweetman, siipra, is in accord with the view of respondent. However, in Estate of Ross, supra, the holding in the Sweetman Estate is expressly overruled, in the following language appearing at the end of a discussion of that case:
+“But if the opinion in that case be deemed to hold that when the facts which raise the presumption of revocation are shown such presumption is met and rebutted by the presumption of continuing existence, as announced in subdivision 32 of section 1963, or' that the latter presumption, coupled with proof of the existence of the will at some time prior to death, supplies the proof of the existence of the will at the time of death, as required by said section 1339, we are not in accord with that conclusion and the case is overruled to that extent.’’
+In Estate of Smith, 140 Cal. App. 508 [35 Pac. (2d) 335], an order of the trial court establishing a lost will was reversed upon the insufficiency of the evidence. There, the will was last seen in the possession of the testator, on August 16, 1929. She died on August 8, 1932. The court held that the presumption of revocation must prevail.
+The undisputed evidence shows that the will was last seen in the possession of the decedent on or about October 1, 1938. It could not be found. No proof was made of facts from which it could be inferred that the will was still in existence and which would overcome the presumption of revocation.
+The evidence is therefore insufficient to sustain the judgment. The judgment is reversed.
+Thompson, Acting P. J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied January 15, 1942.
