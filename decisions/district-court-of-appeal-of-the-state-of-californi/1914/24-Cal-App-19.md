@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1400"
+decided: "1914-02-14"
+citations: ["24 Cal. App. 19"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WESTERN IMPLEMENT COMPANY (a Corporation), Respondent, v. V. E. BLODGETT, Appellant."]
+source_url: "https://static.case.law/cal-app/24/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4494921
+---
+
+# Western Implement Co. v. Blodgett
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+This was an action brought to recover the sum of $952.33 alleged as due from defendant to plaintiff on account of the sale of a certain lot of merchandise. The court rendered judgment in favor of the plaintiff for the sum of $678.30, with interest. This appeal was taken from that judgment and from an order denying defendant's motion for a new trial.
+Defendant in the year 1909 was engaged in the business of a seller of farming implements at the city of Santa Ana. Through the representative of plaintiff company, he ordered a lot of implements, which lot contained 27 plows of a certain kind, his agreement being to pay five per cent over and above the price at which the implements were invoiced to plaintiff by the eastern manufacturers. The defendant, in his answer, after denying the general allegations of plaintiff’s complaint, alleged that the purchase was made upon the terms just stated, and further alleged that the plaintiff “agreed to give to said defendant a copy of the invoice showing the cost price of said goods to said plaintiff but that said plaintiff has never delivered to said defendant said invoice.” This allegation then followed: “But that said defendant denies that said invoice price to plaintiff, plus the sum of five per cent amounts to the sum of $1,797.03, or any other sum in excess of'the sum of $1,400.” By way of alleged cross-complaint, it was set up that the plows agreed to be furnished were furnished- under a representation and guaranty of plaintiff that they would be adapted to the particular needs of the farmers of Orange County, where the soil was very heavy, and that the plows would turn such soil satisfactorily and make a furrow of the depth desired. It was alleged that the plows would not so operate and that the defendant was unable to sell all of them, and that he was damaged in the sum of four hundred dollars. The trial judge in the findings of fact determined, that the amount of the invoice price, plus five per cent, was the sum.of one thousand four hundred dollars, as admitted in the answer of the defendant, and found against the claim of warranty as alleged. The evidence showed that a demand had been made, prior to the suit being brought, for payment of the sum of $1,737.49, that being the amount claimed by plaintiff to be due, and also, showed that after much negotiation had occurred between the plaintiff and defendant and his counsel, defendant made payments in the sum of $844.70, which sum deducted from the invoice price admitted by defendant left remaining the amount for which judgment was entered. It is claimed that the evidence was insufficient to warrant the court in fixing the amount of the invoice price as the findings determined it to be; but the answer to that contention is that, while plaintiff offered some evidence showing the invoice price to be of a greater amount than that allowed it. by the court, the trial judge based his judgment upon the sum which defendant by his answer admitted to be true. Of course, it was first necessary that the plaintiff should, under the general denial contained in the answer, make out a prima facie case, but this it did do quite clearly, and under the condition of the pleading as referred to herein, defendant was not in a position to complain of the finding as to the amount fixed as owing by him.
+And it may also be said that no damage was shown to have been caused to defendant by reason of any alleged breach of warranty. Defendant testified that he first sold several of the plows and that they failed to give satisfactory service and that he was unable to make sale of those remaining at retail. He testified further, however, that he did sell all of the plows later, along with his stock of merchandise, to a man who became his successor in the implement business. The burden was upon defendant to show both the making of the warranty, its breach and resulting damage. For aught that appeared in evidence, he may have received the full market price for all of the plows. Therefore, even though it be conceded that the evidence tended to show the making of the warranty as alleged, in opposition to the finding to the contrary, no prejudice could have resulted, for a different finding as to that fact would not have changed the judgment.
+A very careful examination of the entire record compels the conclusion that none of the alleged errors urged by appellant possesses substantial merit.
+The judgment and order are affirmed.
+Conrey, P. J., and Shaw, J., concurred.
