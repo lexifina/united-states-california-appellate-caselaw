@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3917"
+decided: "1924-01-11"
+citations: ["65 Cal. App. 249"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLAYTON W. BRIGGS et al., Appellants, v. NELLIE M. SHERMAN et al., Respondents."]
+source_url: "https://static.case.law/cal-app/65/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149415
+---
+
+# Briggs v. Sherman
+
+## Majority (WORKS, J.)
+
+WORKS, J.
+This is an action of unlawful detainer. The complaint alleges that defendants held over after breach by them of certain covenants of a lease under which they occupied the premises in question in the cause and after due notice to quit. Judgment went for defendants and plaintiffs appeal.
+The lease involved in the action was made to respondents by a predecessor in interest of the appellants. The latter, and their predecessor before them, occupied one-half of a certain storeroom and the lease to respondents demised the remaining half. The instrument contained a provision that the lessor “agrees to pay the water rate during the continuance of this lease, also to furnish free heat, electricity to be furnished by the lessee.” One of the allegations of the complaint is that respondents breached the covenant of the lease requiring them to furnish electricity for the premises. The trial court in effect found this averment to be untrue, for it found specifically that the predecessor of appellants, after the execution of the lease, entered into an agreement with respondents waiving the furnishing of electricity by them in consideration of the agreement of respondents to allow him the use of a certain space in the rear part of the half of the storeroom covered by the lease; that these mutual understandings were executed by appellants’ predecessor taking possession of and occupying thereafter the space mentioned and by his thereafter paying the bills for electricity; that the predecessor of appellants notified the latter of this modification of the lease prior to the transfer to them of his interest in the property; and that appellants thereupon entered into possession of the space mentioned and thereafter always continued to occupy it and thereafter paid and continued to pay all bills for electricity for the entire premises without objection and without demand upon or notice to respondents until shortly before the commencement of the action. Appellants contend that these findings are without support in the evidence, but the contention is baseless. There was ample testimony from several witnesses, including the predecessor of appellants, to support each of the findings mentioned. This evidence was so plain and direct that we do not find it necessary to recite it.
+The lease provided that the lessees should not “make or suffer any alterations to be made” on the premises without the written consent of the lessor. The complaint alleges that this covenant had been broken, but the trial court found that the allegation was untrue. Appellants insist that this finding is unsupported by any evidence. The portion of the premises covered by the lease was separated fijom the remaining half of the store by a partition a few feet high running from the back of the room to a point not far from the door at the front which gave ingress to the entire place. What appellants complain of as an “alteration” was a gate placed by respondents on their side of the room and swinging between the forward end of the partition and the frame of the common door at the front of the store. A witness i,aid of this gate that it was “about ten feet long, and about, five feet high, made with slats, oh, about three or four inches apart; they are pine wood made with slats to be folded back against the post in four sections, and was plain lumber, unplaned, hardly finished.” One of appellants testified that the gate could be fastened at the end near the front door by means of a latch which “corresponded to a screen-door latch or something of that sort,” and “was attached by light hinges and screws to the center part at the end of this center partition.” He also testified that “the whole Structure constituted a gate simply and effectively, simply for the purpose of keeping people out of the Shermans’ store when they were not there, when their business was closed.” This evidence amply supports the finding. The gate was not an “alteration” under the terms of the lease (2 C. J., sec. 1166). It did not substantially change the character of the building or of any part of it. It is apparent from the evidence that it could have been removed at any time without material change in or damage to the building.
+Other points are made by appellants, but they are in effect but statements in another form of the points of which we have already made disposition.
+Judgment affirmed.
+Finlayson, P. J., and Craig, J., concurred.
