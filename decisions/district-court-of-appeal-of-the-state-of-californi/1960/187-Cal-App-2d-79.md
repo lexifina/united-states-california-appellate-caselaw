@@ -1,0 +1,51 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 24592"
+decided: "1960-12-05"
+citations: ["187 Cal. App. 2d 79"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEONA LEGG, Appellant, v. EDWARD K. BRODY et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/187/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2341493
+cites_cases: ["107 Cal.App.2d 253", "15 Cal.App.2d 723", "237 P.2d 51", "248 P. 268", "59 P.2d 1046", "78 Cal.App. 284"]
+---
+
+# Legg v. Brody
+
+## Majority (FOURT, J.)
+
+FOURT, J.
+This is an appeal from a judgment rendered in favor of defendants after plaintiff’s failure to amend her first amended complaint within the time allowed by the court after demurrer sustained thereto.
+Plaintiff filed a complaint on June 10, 1959. A demurrer was interposed by defendants on July 3, 1959. The demurrer came on to be heard before Judge Breitenbach on July 10, 1959, at which time the demurrer was sustained and plaintiff was allowed 30 days within which to amend her complaint. On July 14, 1959, a notice of the ruling on the demurrer was served upon the plaintiff.
+A first amended complaint was filed by the plaintiff on August 26, 1959. The title to the amended complaint recited that it was in “Conspiracy, Fraud, Extortion, Nuisance, Wrongful Eviction, Injury and Damages. ’ ’
+It is difficult to make any sense whatever from the amended complaint. Apparently plaintiff was attempting to allege a conspiracy between the defendants to damage and injure her in ousting her from an apartment which the defendants apparently owned or controlled. The second cause of action seemingly attempts to allege that the defendants created a nuisance. The third cause of action seems to have to do with an eviction of the plaintiff from an apartment. The fourth cause of action is, among other things, for damages against the defendants for bringing about the “mental instability” of the plaintiff. In the first cause of action plaintiff asks for $90,000; in the second cause for $90,000; in the third cause for $122,000; and in the fourth cause for $50,000.
+Any reading of the amended complaint necessarily leads to the conclusion that it can only be characterized as a jumble of words. It is completely disordered and wholly foreign to any known or recognized form of pleading.
+Ordinarily the various elements of the amended complaint would be herein set forth in substance or effect and an analysis made thereof to ascertain whether, as a matter of law, the amended complaint states a cause of action. Here, however, as indicated, the amended complaint is a mass or collection of unintelligible phrases, disjointedly put together and completely at variance with recognized pleading. In short, it is the very epitome of confusion. We do not feel called upon, under the circumstances, even to attempt an analysis of the various allegations and statements contained in the amended complaint.
+A demurrer to the first amended complaint was filed by the defendants on August 28, 1959. In brief, the demurrer set forth that the amended complaint did not state facts sufficient to constitute a cause of action; that there was a misjoinder of causes of action which were not separately stated; that it could not he determined whether the so-called rental agreement referred to by plaintiff was written or oral; that the complaint was uncertain, unintelligible and ambiguous for many stated reasons; that a copy of any agreement referred to in the plaintiff’s complaint as Exhibit “A” was not attached to or made a part of the complaint and further that the plaintiff had previously instituted an action in the Superior Court in Los Angeles County covering the same subject matter and that said former action had been dismissed by the court. Plaintiff filed what she denominated “Notice of Plaintiff’s Objection to Demurrer of Defendants to the First Amended Complaint and Points and Authorities. ’ ’
+The demurrer was heard before Judge Breitenbach on September 4, 1959, and thereafter, on the same day, sustained. The plaintiff was given 10 days within which to amend her first amended complaint. A notice of the ruling on the demurrer was served upon plaintiff. That notice was dated the 8th of September, 1959, and was filed September 10, 1959.
+On September 25, 1959, there was filed by defendants a Notice of Motion to Dismiss the Action. An affidavit of one of the defendants set forth that the demurrer to the first amended complaint was heard and sustained on September 4, 1959, and that plaintiff was granted 10 days within which to file her second amended complaint; that on September 8th notice of the ruling was served upon the plaintiff; that more than 10 days had passed since the notice of the ruling and that plaintiff had failed to file her second amended complaint within the time allowed by the court.
+A person (not an attorney of law) who referred to himself, among other things, as a process server filed a “Declaration for Continuance of Motion to Dismiss Action.” The motion to dismiss was heard and granted on October 6, 1959. A notice of the ruling on the motion to dismiss was served upon the plaintiff.
+On September 10, 1959, the plaintiff filed a document titled ‘1 Request for Order to Stay Proceedings. ’ ’ At the end of that instrument the following is set forth: “It is hereby Ordered that the time is extended 30 Days or to and including October 9, 1959 within which plaintiff may file the Second Amended Complaint.
+“Sep 10 1959
+Rodda
+Judge pro tempore.”
+It is difficult indeed to interpret from the appellant’s brief just what it was in particular that the trial judge did which was in error. Suffice it to say that we have read the first amended complaint many times and we can see no error in the trial judge’s sustaining the demurrer thereto; indeed we cannot see how the trial judge could have avoided sustaining the demurrer. It became the duty of the appellant either to amend the first amended complaint in such fashion as to correct the defects mentioned in the demurrer or to stand upon the first amended complaint. In legal effect, under the circumstances, the plaintiff saw fit to stand upon the first amended complaint. The burden is now upon her to show that the first amended complaint was sufficient in its entirety and properly subject to none of the objections thereto as specified in the demurrer. (Robinson v. Godfrey, 78 Cal.App. 284, 288 [248 P. 268].) This she has not done in any respect.
+With reference to the supposed extension of time within which to amend the first amended complaint, the plaintiff apparently was attempting to proceed under section 1054 of the Code of Civil Procedure. In pertinent part that section reads as follows:
+“When an act to be done, as provided in this code, relates to the pleadings in the action, ... or of amendments thereto, or to the service of notices other than of appeal and of intention to move for a new trial, the time allowed therefor, . . . may be extended, upon good cause shown, by the judge of the court in which the action is pending, . . . but such extension so allowed shall not exceed thirty (30) days, without the consent of the adverse party.”
+Rule 22 of Rules for the Superior Courts provides as follows :
+“Orders extending time
+“ (a) [Application — to whom made] Applications for orders extending the time within which any act is required by law to be done shall be heard and determined by the judge before whom the matter is pending • provided, however, that in case of the inability, death or absence of such judge, the same may be heard and determined by another judge of the same court. (Emphasis added.)
+“(b) [Disclosure of previous extensions] Applicants for orders extending time shall disclose in writing the nature of the case and what extensions, if any, have previously been granted by order of court or stipulation of counsel.
+(c) [Piling and service] Orders extending time shall be filed forthwith and copies served within twenty-four (24) hours after the making thereof or within such other time as may be fixed by the court.” (Emphasis added.)
+It is evident from the face of the record that plaintiff did not go to Judge Breitenbaeh who had heard the matter; there was no showing that Judge Breitenbaeh was unable to act or that he was absent; there was no showing of the nature of the case or what other extensions had been granted. Furthermore, there is nothing in the record before this court which even suggests that plaintiff served a copy of the Rodda order on defendants. Under the circumstances, the order extending the time to amend the first amended complaint to October 9, 1959, was ineffective and of no force.
+It is to be noted that plaintiff made no motion under section 473 of the Code of Civil Procedure for any available relief.
+Respondents in this case have been of little, if any, assistance in presenting the law or the facts to this court. In the first instance they filed no brief within the time prescribed by law. Time to file such a brief was extended upon the court’s own motion to the end that the court would have before it the law with reference to respondents’ position. No brief was filed within the extended time. A brief was belatedly filed which, whether intentionally or not, misstates the law and the holding of authorities cited and, but for an independent research, would have misled this court. The respondents made no appearance at the oral argument. Such a course of conduct is not to be commended in any event, but it is inexcusable when one of the respondents is also the attorney for respondents.
+The purported appeal from “the order and procedure of the court denying and depriving the plaintiff of the extended time” is dismissed.
+The order of dismissal entered on the minutes of the court constitutes a final judgment from which an appeal can be taken. (Colby v. Pierce, 15 Cal.App.2d 723, 725 [59 P.2d 1046] ; Jeffers v. Screen Extras Guild, Inc., 107 Cal.App.2d 253, 254 [237 P.2d 51].)
+The judgment is affirmed.
+Lillie, J., concurred.
+Wood, P. J., concurred in the judgment.
+Appellant’s petition for a hearing by the Supreme Court was denied January 31, 1961.
