@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "33"
+decided: "1905-07-06"
+citations: ["1 Cal. App. 281"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PACIFIC PAVING COMPANY, Respondent, v. NICHOLAS VIZELICH, Appellant, and GEORGE FINKBOHNER, Co-Defendant."]
+source_url: "https://static.case.law/cal-app/1/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1180285
+cites_cases: ["109 Cal. 395", "123 Cal. 157", "139 Cal. 53", "25 Pac. 162", "28 Pac. 811", "42 Pac. 31", "55 Pac. 786", "67 Cal. 368", "7 Pac. 784", "72 Pac. 445", "87 Cal. 11", "93 Cal. 126"]
+---
+
+# Pacific Paving Co. v. Vizelich
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Appeal from a judgment in an action to foreclose a street-paving lien. A general demurrer to the complaint was overruled with leave to answer. The court found that subsequently the parties filed the following stipulation :—
+“It is stipulated and agreed that the defendants in the above-entitled actions need not file an answer in said actions, but that the said actions shall abide the result of the action of the Pacific Paving Company against J. L. Mowbray, 5163, and whatever judgment may be finally entered in said actions shall also be entered in each of the above-entitled cases, whether the same be in favor of the plaintiff or defendants; and if in favor of the plaintiff, then in each ease according to the prayer of the complaint.
+“Dated April 23rd, 1897.
+“Jas. A. Louttit,
+“Attorney for Plaintiff.
+“F. H. Gould, James H. & J. E. Budd,
+“Attorneys for Defendants. ”
+That judgment was finally entered in favor of plaintiff in the action referred to in said stipulation, and on these findings the court entered judgment for plaintiff “for the sum of $107.02, being the amount of principal and interest due on assessment against the lot in the complaint set forth, together with the further sum of fifteen dollars attorneys’ fees of plaintiff herein and $14.80 costs in this action.”
+Appellant makes two objections to the judgment: 1. That it is not supported either by the complaint or by the stipulation ; and, 2. That the court has failed to find all the material facts.
+1. The insufficiency of the alleged facts is grounded in part upon the decision in Buckman v. Hatch, 139 Cal. 53, [72 Pac. 445]. It is not contended that the court had not jurisdiction of the subject-matter and of the person. The defect in the complaint is not pointed out, but we may assume, as it seems not to be denied by respondent, that there was some defect in the complaint in some matter of substance. The record shows nothing but the complaint (filed December 2, 1893); demurrer (overruled January 29, 1894); stipulation (filed April 28, 1897); findings (filed September 12, 1900); judgment (entered September 12, 1900); and notice of appeal. We think the court was authorized to enter the judgment “according to the prayer of the complaint,” in accordance with the stipulation or written agreement of the parties. This agreement was entered into more than three years after the demurrer was overruled, and manifestly to avoid a trial of this action on its merits. We think also it should be deemed to constitute a waiver of defects in the complaint of which the demurrer was intended to take advantage. The plain and natural meaning of the agreement was, that plaintiff should have judgment “according to the prayer of the complaint,” regardless of defects in the complaint, on condition only that plaintiff recovered final judgment in the Mowbray case, presumably similar to this case. When the court found that such final judgment had been entered and that said stipulation had been entered into by the present parties, the conclusion of law, as the court found, followed from these facts “that plaintiff is entitled to judgment as prayed for in its complaint.” (See question in some particulars discussed in Cook v. Lion Fire Ins. Co., 67 Cal. 368, [7 Pac. 784].) It was held in Erlanger v. Southern Pacific R. R. Co., 109 Cal. 395, [42 Pac. 31], that judgment by consent will not be reviewed whether or not a motion to dismiss the appeal be made; and a judgment under stipulation is a judgment by consent. (See, also, Haskins v. Jordan, 123 Cal. 157, [55 Pac. 786]; 2 Spelling on New Trial and Appellate Practice, sec. 676, and notes.)
+But appellant suggests that if the judgment is based upon the complaint it is invalid because the amount is greater than prayed for. The prayer demanded $51.1898, with interest thereon at ten per cent per annum from September 13, 1892, to rendition of judgment; also for fifteen dollars attorneys’ fees and taxable costs. The Court gave judgment as herein-above quoted. Computation shows that by including the attorneys’ fees of fifteen dollars with the interest on the principal sum we have the amount of the judgment, $107.02, and eleven cents more. If the judgment will admit of this construction it is slightly less than prayed for. The costs are usually taxed separately because not ascertainable when the judgment is entered. We must give the judgment such construction as will support it, if this may be done within reason and accepted rules of construction. (Davis v. Lezinsky, 93 Cal. 126, [28 Pac. 811].) We think it reasonably clear that the sum of $107.02 was meant to include both interest and attorneys’ fees with the principal, for the judgment reads “the sum of $107.02, being the amount of”—and then enumerates principal and interest together with attorneys’ fees. It is true the language used does not point unmistakably to this meaning, but it is equally susceptible of this meaning as of the meaning contended for by appellant. Under such circumstances we do not think the ambiguity warrants reversal. Looking to the pleadings and findings, as we may do to ascertain the meaning of the judgment, the amount at once appears to include principal, interest, and attorneys’ fees allowed.
+2. The complaint alleged that defendant Finkbohner has or claims some interest in the lot involved, upon which there is no finding. Appellant contends that failure to find as to Finkbohner’s interest is fatal to the judgment. The action as to him was dismissed, as appears from the recitals of the judgment. What his interest in the lot was, if any, does not appear; the complaint alleged that defendant Vizelich was the sole owner, and it is the owner who is a necessary party. (Robinson v. Merrill, 87 Cal. 11, [25 Pac. 162].) In support of the judgment and in view of the stipulation we must presume that the action as to Finkbohner was properly dismissed, and hence no finding was necessary as to him.
+The judgment is affirmed.
+McLaughlin, J., and Buckles, J., concurred.
+A petition for a rehearing of this cause was denied by the district court of appeal on August 31, 1905, and a petition to have the cause heard in the supreme court after judgment in the district court of appeal was denied by the supreme court on September 2, 1905.
