@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A069328"
+decided: "1995-09-11"
+citations: ["38 Cal. App. 4th 141"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BAY AREA RAPID TRANSIT DISTRICT et al., Petitioners, v. THE SUPERIOR COURT OF ALAMEDA COUNTY, Respondent; CORNELIUS HALL et al., Real Parties in Interest."]
+source_url: "https://static.case.law/cal-app-4th/38/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4898551
+cites_cases: ["13 Cal.App.4th 1734", "17 Cal.Rptr.2d 291", "216 Cal.Rptr. 718", "257 Cal.Rptr. 865", "29 Cal.App.4th 1797", "35 Cal.Rptr.2d 282", "39 Cal.3d 311", "48 Cal.3d 644", "703 P.2d 58", "771 P.2d 814"]
+---
+
+# Bay Area Rapid Transit District v. Superior Court
+
+## Majority (KING, J.)
+
+Opinion
+KING, J.
+In November 1992, 19-year-old Jerrold Hall, who was Black, was shot and killed by a White police officer employed by the Bay Area Rapid Transit District (BART). The underlying litigation was commenced against BART by Mr. Hall’s parents, Cornelius and Rose Mary Hall (the Halls), who seek damages for wrongful death and for civil rights violations made actionable by the Bane Act (Civ. Code, § 52.1), an anti-hate-crime statute. In the unpublished portion of this opinion we hold that two of the three Bane Act causes of action were not fairly reflected in the Halls’ government tort claim. In the published portion of this opinion we hold that the third Bane Act cause of action is defeated by a lack of standing. The Halls’ two causes of action for wrongful death are not affected by our ruling.
+Petitioners, defendants below, are BART, BART Police Officer Richard Crabtree, and another BART employee. (Except when we are clearly referring to the individual actions of Crabtree, we will refer to petitioners in the collective as BART.) BART demurred to the three Bane Act causes of action in the Halls’ first amended complaint. The trial court overruled the demurrer, and BART seeks review by extraordinary writ. We issued the alternative writ and heard oral argument. We grant the requested relief.
+I. Procedural Background and Facts
+For the purposes of this writ proceeding, BART’s demurrer provisionally admits the facts well pleaded in the Halls’ first amended complaint. (Blank v. Kirwan (1985) 39 Cal.3d 311, 318 [216 Cal.Rptr. 718, 703 P.2d 58].) The complaint alleges that BART Officer Crabtree responded to a robbery call at the Hayward BART station. Jerrold Hall and a companion were waiting for a bus nearby. Allegedly, Crabtree got out of his car with his shotgun and his police dog, chambered a shell, and ordered Hall and his companion to lie on the ground. The complaint further alleges that Crabtree struck Hall twice with the shotgun; Hall turned and walked away. Crabtree then fired two shots at Hall; the second struck him in the back of the head, killing him.
+In the first two causes of action of the first amended complaint, the Halls seek damages for their son’s wrongful death. In the fourth cause of action, the Halls purport to seeks damages on their own behalf for violation of their civil rights under the Bane Act. The civil rights in question are the Halls’ “constitutional rights to parent and enjoy the society and companionship of their son.” In the third and fifth causes of action, the Halls allege Bane Act civil rights violations purportedly on behalf of Jerrold Hall’s estate. The third cause of action, referencing Civil Code section 52.1, alleges that Crabtree’s action violated Jerrold Hall’s civil rights “to be free from unreasonable seizure, to be free from discrimination on the basis of race, and not to be deprived of life without due process.” The fifth cause of action references Civil Code section 51.7, and alleges Crabtree’s actions violated Jerrold Hall’s statutory right to be free from violence committed against him because of his race.
+BART demurred to the third and fifth causes of action on the ground that they were not fairly reflected in the government tort claim filed by the Halls. That claim was limited only to wrongful death damages. The claim, prepared by counsel read: “claimants have suffered the following damage: Loss of aid, comfort and society of Jerrold Cornelius Hall.” BART argued that the limitation of the claim to wrongful death damages on behalf of the parents precludes the attempt to sue on behalf of Jerrold Hall’s estate for damages personally suffered by him before his death.
+BART also demurred to the fourth cause of action, on the ground that the Halls themselves had no cause of action under the statute because they were not personally the target of the violence or intimidation the statute makes actionable.
+The trial court overruled BART’s demurrer. This petition followed.
+II. Discussion
+A. The Government Tort Claim Issue
+B. The Bane Act Standing Issue
+The Bane Act and related statutes “are California’s response to [the] alarming increase in hate crimes.” (In re Joshua H. (1993) 13 Cal.App.4th 1734, 1748, fn. 9 [17 Cal.Rptr.2d 291].) Civil Code section 52.1 provides that a person may bring a cause of action “in his or her own name and on his or her own behalf’ against anyone who “interferes by threats, intimidation or coercion, with the exercise or enjoyment” of any constitutional or statutory right. In support of their fourth cause of action the Halls argue that Crab-tree’s coercive conduct, which resulted in their son’s death, has interfered with their constitutional right to parent.
+We have no wish to denigrate in any way the degree of the loss suffered by the Halls, or indeed for the loss of a child by any parent. We cannot, however, accept the particular legal theory advanced in support of the Halls’ attempt to include a Bane Act cause of action in their lawsuit for wrongful death. The Bane Act is simply not a wrongful death provision. It clearly provides for a personal cause of action for the victim of a hate crime. In Boccato v. City of Hermosa Beach (1994) 29 Cal.App.4th 1797, 1809 [35 Cal.Rptr.2d 282], the court held that Civil Code section 52.1 must be read in conjunction with section 51.7, which provides that all persons have the right to be free from “violence, or intimidation by threat of violence committed against their persons” because of race, color, religion, ancestry, etc. This reinforces the rational interpretation of the Bane Act, i.e., that it is limited to plaintiffs who themselves have been the subject of violence or threats. The Halls would interpret the statute to fashion derivative liability for persons not present and not witnessing the actionable conduct. As in the cases of bystander recovery for emotional distress (see generally, Thing v. La Chusa (1989) 48 Cal.3d 644 [257 Cal.Rptr. 865, 771 P.2d 814]), one could see the nightmare of trying to determine where the scope and extent of such liability would end. In the absence of a clear legislative intent, we cannot recognize derivative Bane Act liability as requested by the Halls.
+III. Disposition
+This litigation will continue on the two causes of action for wrongful death untouched by BART’s demurrer. However, the three Bane Act causes of action must be dismissed. Accordingly, let a peremptory writ of mandate issue commanding respondent superior court to vacate its order overruling BART’s demurrer to the third, fourth and fifth causes of action, and to enter a new and different order sustaining that demurrer without leave to amend. Each side shall pay its own costs.
+Peterson, P. J., and Haning, J., concurred.
+We remind the parties that this litigation is at the demurrer stage, and that no statement of fact in this opinion is intended to establish as actual fact any allegation of the complaint.
+See footnote, ante, page 141.
