@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2521"
+decided: "1918-06-26"
+citations: ["37 Cal. App. 657"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BURTON AUTO TRANSFER COMPANY et al., Petitioners, v. INDUSTRIAL ACCIDENT COMMISSION et al., Respondents."]
+source_url: "https://static.case.law/cal-app/37/cases/0657-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2034565
+---
+
+# Burton Auto Transfer Co. v. Industrial Accident Commission
+
+## Majority (WORKS, J., pro tem.)
+
+WORKS, J., pro tem.
+This proceeding was instituted for the purpose of annulling an award allowing the mother of George Fickett a certain sum of money because of his death, said to have been caused by an accident occurring in the course of as well as arising out of his employment by the petitioner, Burton Auto Transfer Company. The employer was engaged in the transfer business and Fickett was a driver of one of its automobile trucks. The business was operated from an office, in Los Angeles, where orders were received from patrons who required the service of the company, and the drivers of its vehicles were accustomed to remain about the office awaiting orders at all times during working hours when they were not engaged in the operation of their trucks in the performance of their actual work. The owner of the company testified that Fickett’s working hours were “any time from half-past 6 until he got through at night. Sometimes it was 4, sometimes it was 10, sometimes it was morning. ’ ’ No luncheon time was provided by the employer for the drivers. The owner said on this subject: “We leave that to the men. If they are in a hurry, or out in the country, it ain’t no object to them to sit around for an hour. They eat their lunch and go on and lots of times they take it with them and eat it on the truck going along.” He was then asked if that condition of affairs was changed to any degree when the men were in town and he said it was not. In response to a question as to whether the men could take longer than an hour for lunch if they desired, he said, “If they wished, if they weren’t busy— no rules about that at all. ’ ’
+On the day that the accident occurred which cost Fickett his life he had been ordered, at about 11 in the morning, to haul a load of pipe from a certain establishment to the Southern Pacific depot. He procured his load and trucked it as far as the employer’s office, where he arrived at 12 o’clock noon, the place being directly on his way to the depot. The depot was closed from noon until 1 o’clock, and Fickett stopped at the office on that account, instead of proceeding to his destination and being compelled to await the opening of the depot for the delivery of his load. He went into the office, leaving his truck on the opposite side of the street, where it was headed toward the depot and stood on the right side of the way. Moreover, the owner of the transfer company testified that, during the day, it was the custom of the drivers to park their trucks on either side of the street, in front of the office, and that space was reserved for that purpose on both sides. Trucks were run into the employer’s yard at night only. Fickett remained in the office at least a part of the time from 12 to 12:45, but the record does not show whether he ate luncheon there, or at his home, which was near at hand, or whether he went to a restaurant for it, or, in fact, whether he partook of lunch that day at all. At any rate', he was at the office at 12:45. At that time, the owner of the company said to him, “Georgie, you better start along and you will be at the S. P. at the time they open the doors and get away a little quicker. ’ ’ Fickett then left the office, started to cross the street toward his truck, and was run down by a passing automobile.
+The petitioner relies upon the many eases to the effect that one is not entitled to compensation under the Workmen’s Compensation Act if he is injured while on the way toward or from his employment. These eases are not in point, for the reason that, at the time he was stricken, Fickett was not on the way to his employment. He had never left it. Under the facts above stated, he was within the hours of his employment, he was in a place where he had a right to he, and he had left his truck in a place where he had a right to leave it, in the regular and usual discharge of the duties he owed his employer. We are satisfied, and we need not cite authority in support of our view, that Fickett’s death was occasioned by an accident that happened in the course of his employment and that it arose out of the employment.
+The award is affirmed.
+Conrey, P. J., and James, J., concurred.
