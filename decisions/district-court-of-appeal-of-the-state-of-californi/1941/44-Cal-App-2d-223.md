@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2529"
+decided: "1941-04-15"
+citations: ["44 Cal. App. 2d 223"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE’S FINANCE AND THRIFT COMPANY OF PORTERVILLE (a Corporation), Respondent, v. VAN MOON et al., Defendants; J. D. ARBAUGH, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/44/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4558889
+cites_cases: ["108 A. L. R 1080", "2 Cal. App. (2d) 456", "38 Pac. (2d) 163", "64 Pac. (2d) 138", "8 Cal. (2d) 110"]
+---
+
+# People's Finance & Thrift Co. v. Moon
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+This is an action on a promissory note. In 1931, Van Moore, needing funds to meet an obligation, applied to the plaintiff for a loan. At his request, the defendant Arbaugh signed the note which was given to the plaintiff, as a comaker. It is conceded that the plaintiff knew that Arbaugh received no part of the proceeds of the loan. In 1935, Moore and Arbaugh, as comakers, signed a renewal note, which is the basis of this suit, a copy thereof being set forth in the complaint. After the note became due, Moore died. His estate was probated in Tulare County and it appears that the plaintiff filed no claim therein on account of the debt represented by this note. In this action the defendant Arbaugh filed an answer denying the allegations of the complaint and affirmatively alleging, in substance, that he had signed the original note upon the representation that it was secured by a mortgage, and that he himself was incurring no obligation thereon; that when he signed the renewal note in 1935 he “believed that said note was secured”; and that he was merely a surety on the note, that this was known to the plaintiff, and that he was discharged from liability by the failure of the plaintiff to file a claim against Moore’s estate.
+Apparently, no attempt was made to serve Moore's administrator or representative, and the action was tried upon the issues raised by the complaint and the answer filed by the defendant Arbaugh. The court found in favor of the plaintiff and Arbaugh has appealed from the judgment which followed.
+Most of the points raised by the appellant depend upon his contention that since he signed the note for the accommodation of Moore, which fact was known to the respondent, he thereby became a surety on the note rather than a comaker thereof and that as such surety he was released from liability by the failure of the respondent to collect the amount due from Moore’s estate. This contention requires little consideration. This was a joint and several note and the appellant was an accommodation party and accordingly liable as one of the makers thereof. (Civ. Code, sec. 3110; Mortgage Guarantee Co. v. Chotiner, 8 Cal. (2d) 110 [64 Pac. (2d) 138, 108 A. L. R 1080]; First Nat. Bank v. Kinslow, 2 Cal. App. (2d) 456 [38 Pac. (2d) 163].) This also disposes of the contention that there was no consideration for this note.
+The appellant also contends that the court erred in permitting an amendment to the complaint. In the complaint as filed, Moore’s name appeared as “Moon”. At the beginning of the trial the respondent moved for permission to amend the complaint on its face by changing the word “Moon”, wherever it appeared, to “Moore”. This motion was granted over the objection of the appellant, although it does not appear that the change was actually made on the face of the complaint. The appellant used the name "Moore ’ ’ throughout his answer and in his briefs on this appeal, and at the trial he admitted that he signed the original note, which was produced, and that Mr. Moore signed it at the same time. The amendment, if it be considered as made, was merely a typographical correction in the name of the codefendant and the case was tried on the issues as between the respondent and the appellant, who was the other defendant. No prejudice appears.
+It is next contended,' with respect to the issues as to misrepresentation raised by the answer, that the evidence of the respondent “was not sufficient to overcome the weight of defendant’s evidence”. Not only was no issue as to misrepresentation raised in connection with the signing of the renewal note, the one here sued on, but, as the appellant himself indicates, the point as raised in connection with the original note is directed to the weight of the evidence. There is a conflict in the evidence on the matter in question and the court’s implied finding thereon cannot be disturbed.
+The appellant further contends that the court failed to find on material issues. The findings cover all of the material issues, and the facts which were found made certain other issues immaterial as a result of which findings thereon became unnecessary. It is also urged that the evidence does not sustain a finding to the effect that a claim for the obligation here sued upon had not been presented and filed in Moore’s estate. The court made a general finding that all of the allegations of the answer filed by the appellant were untrue. The evidence does not sustain this finding to the extent that it does not appear that such a claim was not filed in Moore’s estate. However, this finding is immaterial in view of the court’s finding that the appellant executed this note as one of the comakers thereof and since, under the law, the appellant was not a surety as between himself and the payee of the note.
+The judgment is affirmed.
+Marks, J., and Griffin, J., concurred.
