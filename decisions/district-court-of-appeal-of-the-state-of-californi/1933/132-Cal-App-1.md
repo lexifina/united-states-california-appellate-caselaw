@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2364"
+decided: "1933-05-15"
+citations: ["132 Cal. App. 1"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOE CHESTER, Appellant."]
+source_url: "https://static.case.law/cal-app/132/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2216477
+cites_cases: ["10 Pac. (2d) 154", "121 Cal. App. 711"]
+---
+
+# People v. Chester
+
+## Majority (DESMOND, J., pro tem.)
+
+DESMOND, J., pro tem.
+In this case appellant was charged with having violated the terms of his probation and upon a hearing the court made an order revoking probation and remanding defendant to the state prison at San Quentin. Prom this order defendant appeals claiming that it is contrary to law and unsupported by the evidence and that it constitutes an abuse of the discretion vested in the court in probation matters. It appeared upon the hearing that defendant, convicted of second degree burglary, was granted probation, the term of probation being fixed at ten years, conditions of probation including a period of eighteen months’ incarceration in the county jail. After his release from custody, November 1, 1932, and while still on probation the defendant was arrested shortly after midnight on January 13, 1933, in an automobile in which two other men were riding. These two men had police records, one of many items extending over a period of years, the other a juvenile record, and in the car at the time of arrest were two revolvers, one a Smith & Wesson .32, the other a German 765 automatic, together with six .32-20 cartridges and eight .32 automatic shells, all of which were found together by the arresting officer on the floor of the car immediately under a seat that tipped forward or back where defendant was sitting. One of defendant’s companions, who at the time of arrest was driving the car, entered a plea of guilty to violating the Deadly Weapon Act and was sentenced to six months in jail. He appeared as a witness for appellant at the hearing upon the violation and stated that the weapons belonged to two men who frequented a club where he was employed, and that he intended to deliver them to the owners, whose names he did not know, that night when the other men, the defendant and the third man whose sister owned the automobile in which the three were riding should have taken him to the club. This witness did not know whether or not the revolvers were loaded, not having examined them when he received them from the owners, nor when he put them in the car for the purpose of returning them. The defendant claimed that he had no knowledge of the criminal records of his associates, including, besides his two companions at the time of arrest, another witness who appeared for him and who also had a lengthy record; also claimed that he knew of no conditions that would make these men unfit associates for him. He denied that he knew the revolvers and shells were in the automobile.
+The instructions of the probation department which now form part of the transcript prohibited the probationer from being on public streets or highways at late or unusual hours of the night, and enjoined upon him the necessity of conducting himself in every way as an upright, law-abiding citizen. By these instructions the probationer was expressly forbidden to have in his possession any firearms or deadly weapons and was advised that any violation of his probation would be considered as sufficient cause for his return to court for further action. At the end of the instructions appeared the following: “I have read and fully understand the above instructions. Joseph L. Chester.”
+Section 1203 of the Penal Code provides in item 2, entitled “Re-arrest and Revocation of Probation,” that “if the interests of justice so require, and if the court in its judgment, shall have reason to believe from the report of the probation officer, or otherwise, that the person so placed upon probation is violating any of the conditions of his probation, or engaging in criminal practices, or has become abandoned to improper associates or a vicious life”, probation may be revoked and terminated. It is further provided that “if the judgment has been pronounced and the execution thereof has been suspended, the court may revoke such suspension, whereupon the judgment shall be in full force and effect, and the person shall be delivered over to the proper officer to serve- his sentence, less any credits herein provided for”.
+This course was followed in the present case, the court saying: “I am sorry that the defendant did associate with these people; it is most unfortunate for him that he was found with those deadly weapons,” and ordering the defendant to be credited with 469 days upon the term of any sentence that might be fixed by the board of prison terms and paroles.
+Whether or not probation in a given case shall be revoked rests in the sound discretion of the court upon the submission of facts pertinent to the inquiry. (In re Young, 121 Cal. App. 711, 714 [10 Pac. (2d) 154].) Having reviewed the testimony taken at the hearing of this case and having observed the purpose of the court not to act on that occasion until all the facts were before it we see no reason to disturb the order that was made.
+Order affirmed.
+Houser, Acting P. J., and York, J., concurred.
