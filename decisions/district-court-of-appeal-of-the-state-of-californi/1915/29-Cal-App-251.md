@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1775"
+decided: "1915-12-23"
+citations: ["29 Cal. App. 251"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DABNEY OIL COMPANY (a Corporation), Respondent, v. PROVIDENCE OIL COMPANY OF ARIZONA (a Corporation), et al., Defendants and Respondents; A. H. BUTLER & COMPANY et al., Interveners and Appellants."]
+source_url: "https://static.case.law/cal-app/29/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020069
+cites_cases: ["137 Cal. 360", "38 Cal. 608", "70 Pac. 166"]
+---
+
+# Dabney Oil Co. v. Providence Oil Co.
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+In this action a complaint was filed by the Dabney Oil Company to establish the plaintiff’s ownership of certain oil-bearing lands and to have certain of the defendants declared trustees for the plaintiff of property held in possession by them, and for an accounting. After the filing of plaintiff’s complaint an election of directors of plaintiff corporation was held and the control of the corporation passed from a board of directors which was acting in harmony with A. H. Butler & Company (a corporation) and others associated with them as stockholders in the Dabney Oil Company, to a new board of directors controlled by certain of the defendants. Under its new control the plaintiff caused a substitution of attorneys to be made herein and moved for a dismissal of plaintiff’s action as against the defendants A. T. Jergins, Palladium Investment Company, a corporation, and Midway Royal Petroleum Company, a corporation. At the time of substitution of a new attorney for the plaintiff corporation the court by order gave leave to said A. H. Butler & Company et al. (appearing by the same attorneys who had theretofore been employed as attorneys for the corporation), to file a complaint in intervention. That complaint was filed, and later an amended complaint in intervention was filed by the same interveners. The motion for dismissal of the action of the plaintiff as against the three defendants above mentioned and the demurrer of those defendants to the amended complaint in intervention came on for hearing at the same time. After argument it was ordered that the motion be granted; also that the demurrer of those three defendants to the amended complaint in intervention be sustained without leave to amend, and it was ordered that the action be dismissed as to the defendants Midway Royal Petroleum Company, A. T. Jergins, and Palladium Investment Company, and that the amended complaint in intervention be dismissed as to said defendants. The defendants named in the amended complaint in intervention are the same as the defendants named in the principal complaint. So far as the record shows, the action remains pending as to seven defendants other than the three affected by said orders of dismissal. The interveners have attempted to appeal “from the judgment of dismissal as to the defendants Midway Royal Petroleum Company, A. T. Jergins, and Palladium Investment Company, rendered in the above-entitled action on the first day of April, 1913, and from the whole of said judgment. ’ ’
+The respondents claim that the appeal should be dismissed, for the reason that the order of dismissal was not a final judgment and determination of the action. As authority for the proposition insisted upon by them they refer us to Nolan v. Smith, 137 Cal. 360, [70 Pac. 166], and other cases cited, in their brief. In response to these eases appellants direct attention to Stick v. Dickinson (Goldner), 38 Cal. 608, and other cases, which hold that an appeal lies where an order has been made refusing to allow the filing of a complaint in intervention, or where a judgment of dismissal has been entered against the interveners after an order sustaining a demurrer to their complaint. In Baxter v. Boege, (Civ. No. 1763), wherein our decision was filed on the twenty-first day of December, 1915, we have discussed those decisions and outlined our views upon the subject. We agree that if the order appealed from herein had been an order or judgment dismissing the intervention as to all of the parties, the interveners would have the right to appeal therefrom. But since the order does not attempt to dispose of all of the issues involved in the intervention, but is only a partial determination thereof, the ease is the same as where a dismissal is granted as to some but not all of the defendants to the action and the plaintiff attempts to appeal therefrom. As held in Baxter v. Boege, supra, such right of appeal does not exist.
+For these reasons we conclude that the objections made by respondents to further consideration of this appeal should be sustained, and the appeal is dismissed.
+James, J., and Shaw, J., concurred.
+On February 17, 1916, this case was by order of the supreme court transferred to the supreme court for further hearing.
