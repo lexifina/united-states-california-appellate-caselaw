@@ -1,0 +1,71 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B056777"
+decided: "1992-11-25"
+citations: ["11 Cal. App. 4th 126"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. EDGAR MORRIS HENDRICKS, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/11/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2323446
+cites_cases: ["14 Cal.2d 548", "211 P.2d 865", "225 Cal.App.2d 598", "238 Cal.Rptr. 66", "250 Cal.Rptr. 659", "273 P.2d 521", "34 Cal.2d 478", "37 Cal.Rptr. 454", "405 P.2d 862", "426 P.2d 900", "43 Cal.2d 342", "43 Cal.3d 584", "46 Cal.3d 612", "46 Cal.Rptr. 622", "58 Cal.Rptr. 332", "63 Cal.2d 386", "66 Cal.2d 524", "737 P.2d 1350", "758 P.2d 1189", "95 P.2d 936"]
+---
+
+# People v. Hendricks
+
+## Majority (WOODS (Fred), J.)
+
+Opinion
+WOODS (Fred), J.
+At a sanity retrial a jury found appellant sane at the time he committed two robbery-murders. Appellant claims three trial court errors require reversal: (1) permitting the prosecution to commence the sanity retrial (2) admitting evidence that when psychiatrists and psychologists interviewed appellant he had been sentenced to death and (3) exclusion of family mental illness evidence. We find no error and affirm the judgment.
+Procedural and Factual Background
+The initial background is described by Justice Mosk, reviewing appellant’s automatic appeal from a judgment of death: “In the summer of 1980 defendant was without money and was working in Los Angeles and San Francisco as a hustler—a male prostitute for men. In the course of his trade, he would also rob his customers. He met Harry Carter in Los Angeles and had sex with him for money. A week or two later he saw Carter again, and again engaged in an act of prostitution. He lived with Carter for two or three weeks. At the end of that time Carter told him to get out and called him a ‘low life’; defendant picked up a knife lying on the kitchen table and fatally stabbed him; defendant took various items belonging to the victim and left.
+“About a month later defendant met James Burchell while he was hustling in Hollywood and went home with him. Once there, Burchell agreed to pay him for sex. During intercourse Burchell expressed dissatisfaction with defendant’s performance, a fight ensued, and defendant shot him fatally in the neck. After taking various items belonging to Burchell, he left.
+“With regard to each victim defendant was charged with murder (Pen. Code,[] § 187) and robbery (§ 211). As to each murder four special circumstances were alleged: (1) defendant’s prior conviction for the murder of Parmer (§ 190.2, subd. (a)(2)); (2) his prior conviction for the murder of Haynes; (3) multiple murder in the present proceeding (id., subd. (a)(3)); and (4) felony murder-robbery (id., subd. (a)(17)(i)). Defendant pleaded not guilty and not guilty by reason of insanity.
+“At the guilty phase the jury found defendant guilty as charged and found all the special circumstance allegations to be true. At the penalty phase, they fixed the penalty at death and were subsequently discharged.
+“On the day set for sentencing, the parties reminded the court that a sanity hearing had not been conducted immediately after the guilt phase, as required by [ ] section 190.1, subdivision (c). Over defendant’s objection that the same jury must determine all the issues in a capital trial, the court empaneled a new jury to decide the issue of sanity alone. After deliberations that spanned 11 days the jurors reported they were hopelessly deadlocked, and a mistrial was declared. Over defendant’s further objection, the court then called back the original jurors—who had been discharged more than five months earlier—and reempaneled them without examining them itself or allowing voir dire by the parties. This jury returned a verdict that defendant was sane at the time of the crimes charged. Thereupon the court imposed the sentence of death.” (People v. Hendricks (1987) 43 Cal.3d 584, 588-589 [238 Cal.Rptr. 66, 737 P.2d 1350].)
+The California Supreme Court affirmed the judgment as to guilt, vacated the sanity verdict, reversed the judgment as to penalty, and remanded the matter to the superior court. (43 Cal.3d at p. 599.)
+The instant sanity retrial began in 1990. On September 11, 1990, the jury found appellant sane at the time of the commission of all four offenses.
+Thereafter, at the penalty phase, the jury was unable to render a verdict and was discharged. The prosecution declined another penalty trial. Appellant was sentenced to concurrent terms of life without possibility of parole.
+Discussion
+1. Appellant contends the trial court erred in permitting the prosecution to commence the sanity retrial.
+In asserting the defense of not guilty by reason of insanity, the burden of proof—by a preponderance of the evidence (§ 25, subd. (b))—is on the accused. For that reason, because he had the burden of proof, appellant contends it was error to permit the prosecution to commence the sanity retrial. Appellant is mistaken.
+Section 1093, which prescribes the procedure and chronology of a criminal trial, makes no reference to a sanity trial. Nor does any other statute. (5 Witkin & Epstein, Cal. Criminal Law (2d ed. 1989) § 2968, at p. 3646.)
+However, pursuant to section 1094, the trial court has discretion to control the order of a trial.
+Here, the trial court exercised its discretion by permitting the prosecutor to make the first opening statement, limited to the facts of the offenses, and to first offer evidence, also limited to the facts of the offenses. Following this restricted prosecution evidence, the defense commenced. It introduced evidence of appellant’s insanity at the times he committed the offenses. The prosecution then presented evidence of appellant’s sanity. The defense was then permitted to open and close argument to the jury. (Cf. People v. Bandhauer (1967) 66 Cal.2d 524 [58 Cal.Rptr. 332, 426 P.2d 900] prescribing order of argument in a penalty trial.)
+There was no abuse of discretion. Just as the trial court in People v. Greig found it useful to first hear evidence of the crimes before hearing evidence of insanity (People v. Greig (1939) 14 Cal.2d 548 [95 P.2d 936]), here the trial court properly believed it would be helpful to the jury to first hear evidence of the crimes. The California Supreme Court has consistently approved this procedure. (People v. Greig, supra, 14 Cal.2d 548, 558-559; People v. Letoumeau (1949) 34 Cal.2d 478, 495-496 [211 P.2d 865]; People v. Carmen (1954) 43 Cal.2d 342, 347 [273 P.2d 521]; People v. Cotter (1965) 63 Cal.2d 386, 398 [46 Cal.Rptr. 622, 405 P.2d 862]; see also People v. Jones (1964) 225 Cal.App.2d 598, 618 [37 Cal.Rptr. 454]; 5 Witkin & Epstein, Cal. Criminal Law, supra, § 2968, at p. 3646.)
+2. Appellant contends the trial court erred in admitting evidence that when a defense psychologist interviewed appellant he had been sentenced to death.
+In testifying that appellant was insane when he committed the instant murders in July and August 1980, defense psychiatrists and psychologists based their opinion, in part, on evidence that he was severely depressed and thus mentally ill when interviewed in 1982.
+The prosecutor, to impeach this testimony, sought to show that appellant’s extreme depression was a normal reaction to having just been sentenced to death and was not evidence of mental illness. In permitting the inquiry the trial court stated: “I really have given this a lot of thought. I have listened to counsel very carefully. I see the potential prejudicial effect, but it is so probative.
+“You have to get the state of mind of this defendant on the sanity issue. I said if this were the guilt phase or anything else I would probably not even consider it.
+“But based on what I have heard, I think I am going to rule that the People can ask the question[] and that the probative value outweighs the prejudicial effect based on the fact this is a sanity issue.”
+Appellant does not claim the subject evidence was not relevant but rather that its probative value was outweighed by its prejudicial effects. (Evid. Code, § 352.) Two effects are identified.
+First, appellant argues, “it led the jury to believe that appellant was sane at the time of his crimes; otherwise, he would not have been sentenced to death . . .” This argument is mistaken for two reasons. The murders for which appellant was sentenced to death were committed at different times (and places) than the subject murders. It was possible for appellant to be sane when committing those murders and insane when committing the subject murders. Additionally, as the jury was informed, sanity was not in issue in the San Francisco murder trials.
+The second prejudicial effect was, as appellant phrases it, “it led the jury to believe that their decision in this matter was academic; appellant was going to be executed whatever the jurors here decided.”
+We disagree. If the effect of learning about the San Francisco death sentence was to undermine the importance of the instant proceedings then why should the jury find appellant sane rather than insane? Further, such psychological speculation is inconsistent with the jury’s efforts to arrive at a penalty verdict—and to be unable to do so.
+We are satisfied the trial court did not exceed its “wide discretion in determining the admissibility of evidence.” (People v. Karis (1988) 46 Cal.3d 612, 637 [250 Cal.Rptr. 659, 758 P.2d 1189].) The context of the court’s ruling was this: the jury had been informed appellant had committed five murders, had been convicted of four, each in the first degree, and was awaiting trial on the fifth. Further, before the subject question was asked, evidence had been admitted without objection that appellant “was facing the prospect of execution.” In this context the prejudicial effect, if any, of the San Francisco death sentence evidence was minimal and harmless.
+3. Appellant contends the trial court erred in excluding family mental illness evidence.
+During the direct examination of Dr. Kaser-Boyd, a psychologist called by the defense, trial counsel for appellant asked the witness about information she (Dr. Kaser-Boyd) had received from another psychologist, Dr. Jenkins, who had apparently interviewed various members of appellant’s family. The prosecutor objected. During a protracted bench conference, when for the first time the prosecutor was provided a copy of the Dr. Jenkins material, the prosecutor argued the following:
+“All of the people interviewed in these reports appear to be relatives or distant relatives of the defendant. The majority of the reports go to these people’s own family history, regarding their own individual problems, the problems of their sisters, their brothers, their distant aunts and uncles and grandparents.
+“Most of the information has absolutely no bearing on the defendant. None of the information—most of that information is absolutely irrelevant to the defendant’s state of mind when he committed these crimes.
+“We have information about great aunts and uncles that committed suicide or killed people or cousins that are schizophrenic.” (Italics added.)
+Concerned about the relevancy of this family history information gathered by a nonwitness, the trial court stated: “The only relevant information this court is about to receive is information concerning the sanity of this defendant that this doctor has information about. No other information will be relevant. Whether the aunt has problems is just not relevant.”
+Trial counsel for appellant merely responded: “Or the amount of mental illness in the family?” The trial court rejoined: “I don’t think it is relevant” and trial counsel for appellant said “Okay.”
+Appellant now argues that the evidence was relevant because if members of appellant’s family were mentally ill it was more likely he was mentally ill. No such representation or offer of proof was made to the trial court. Evidence Code section 354 provides in pertinent part: “A verdict. . . shall not be set aside ... by reason of the erroneous exclusion of evidence unless ... it appears of record that: (a) the substance, purpose, and relevance of the excluded evidence was made known to the court. . . .”
+Trial counsel’s cryptic question (“Or the amount of mental illness in the family?”) falls far short of an offer of proof that Dr. Kaser-Boyd would testify that if members of appellant’s family were mentally ill it was more likely he was mentally ill. For this reason appellant’s argument fails.
+But assuming the trial court’s ruling was in error, it was harmless. Notwithstanding its ruling, much, if not all, of the family history information was admitted and it merely duplicated information appellant had himself provided.
+Disposition
+The judgment is affirmed.
+Lillie, P. J., concurred. Johnson, J., concurred in the judgment only.
+Appellant’s petition for review by the Supreme Court was denied February 25, 1993.
+Unless otherwise noted, all statutory references are to the Penal Code.
+The section provides: “When the state of the pleadings requires it, or in any other case, for good reasons, and in the sound discretion of the Court, the order prescribed in the last section may be departed from.”
+Greig, having withdrawn his not guilty plea, only had a sanity trial.
+The prosecutor asked Dr. Kaser-Boyd, a psychologist called by the defense, the following question: “Well, before you interviewed the defendant you knew that he had been convicted of two first-degree murders in San Francisco, received the death penalty and was sent to San Quentin, was on death row?”
+Evidence Code section 210 defines relevant evidence as “evidence . . . having any tendency in reason to prove or disprove any disputed fact that is of consequence to the determination of the action.”
+The trial court instructed the jury:
+“Certain evidence was admitted for a limited purpose.
+“Evidence that the defendant has been given the death penalty in San Francisco was admitted for its effect, if any, on defendant[’]s state of mind.
+“Do not consider such evidence for any purpose except the limited purpose for which it was admitted.”
