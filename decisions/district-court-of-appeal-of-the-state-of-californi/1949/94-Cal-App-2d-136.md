@@ -1,0 +1,38 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13986"
+decided: "1949-10-14"
+citations: ["94 Cal. App. 2d 136"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARL N. NELSON, Appellant, v. PETER T. ANGEL et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/94/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2255402
+cites_cases: ["146 P. 638", "161 P.2d 453", "169 Cal. 209", "26 Cal.2d 829"]
+---
+
+# Nelson v. Angel
+
+## Majority (GOODELL, Acting P. J.)
+
+GOODELL, Acting P. J.
+This is an appeal from a judgment in defendants’ favor after their demurrer- to the amended complaint had been sustained without leave to amend.
+The action was brought by the lessor against his two lessees of premises on Mason street, in San Francisco, to be occupied as a night club. The lease was dated April 30, 1947, to run for a term of 10 years commencing on August 1, 1947.
+The lease (which consists of some 33 articles) provides that it may be assigned to a California corporation organized by lessees. -Such corporation, named Hellenic Enterprises, Inc., was so organized, an assignment to it was made on July 1,1947, and the corporation on that day accepted and assumed the lease and agreed to perform and be bound by all its terms and conditions. Hellenic Enterprises, Inc., is not sued.
+Attached to the lease is an inventory of the equipment, furniture and other personal property located on the premises and owned by lessees, “subject to certain encumbrances.”
+By paragraph four lessees agreed to execute to lessor and record, not later than July 31, 1947, a chattel mortgage which would be a first lien (1) on all the inventoried property, free and clear of all encumbrances, and (2) on all equipment, furniture and personal property thereafter placed in the premises, which would be a first lien thereon subject to any conditional sale contracts covering such new property (with certain limitations respecting the amount or value thereof), to secure the faithful performance of the lease including the rent. Paragraph four provided, further, that whenever any personal property was placed by lessees on the property subject to conditional sales contracts, exact copies of such contracts would be immediately furnished to lessor, who would have the right to pay off such contracts, and to have them assigned to him by the conditional vendors.
+Paragraph five contains the provisions mentioned above respecting assignment to a corporation. Those provisions, however, contain the proviso that such assignment may be made only if lessees 11 are not then in default in the performance of any of the terms of this lease . ; and upon the written assumption of this lease by such corporation and the compliance by said Lessees or by said corporation of the terms of paragraph 4 above relating to the security for this lease, Lessees shall be personally discharged from all liability under this lease, except that Lessees shall severally remain liable to Lessor upon their covenants in said paragraph 4 to pay to the conditional vendors and to Lessor all balances due under all conditional sale contracts not later than July 31, 1948, and except that Lessees shall also at all times remain liable for all of the obligations of this lease pursuant to the terms of paragraph 6 hereof relating to alcoholic beverage licenses.”
+The amended complaint alleges that the lessee-defendants “failed, neglected and refused to execute and deliver the chattel mortgage and-or chattel mortgages referred to in paragraph 4” and that they purchased personal property under conditional sales contracts but did not immediately furnish lessor with exact copies thereof as agreed in the lease.
+The question for decision is whether these allegations show that the lessees continued to be liable for such alleged breaches after their assignment to Hellenic Enterprises, Inc.
+“Ordinarily an assignment of a lease does not release the lessee from his obligations even though the lessor consents to the assignment” (De Hart v. Allen, 26 Cal.2d 829, 832 [161 P.2d 453], citing Samuels v. Ottinger, 169 Cal. 209, 211 [146 P. 638, Ann.Cas. 1916E 830], and other cases) and it is apparent that the draftsman of this lease was careful, in paragraph five, to provide that the lessees would be freed from their primary obligations only on the concurrence of several conditions. First, they could assign if not in default. The assignment was made on July 1, before there was any default. However, the second condition was the assumption of the lease by the corporation “and the compliance by said Lessees or by said corporation of the terms of paragraph 4 above relating to the security for this lease.’ ’ The conjunctive “and” was used.
+Paragraph six imposes a further condition to the release of the lessees from their primary obligations. It is that the lessees at all times shall “maintain in effect for use upon the demised premises on-sale alcoholic beverage licenses for distilled spirits, wines and beer, whether in their own name or in the name of the corporation ...” and as long as they or the corporation do so, lessees shall not be personally liable on the lease ‘ ‘ other than as provided in said paragraph 5, but otherwise the said two Lessees shall be individually and personally liable to Lessor for each and every obligation.of this lease. ’ ’
+The language “other than as provided in said paragraph 5 ’ ’ shows an intent to hold the lessees bound by their primary obligations respecting security for the lease and conditional sales contracts, since paragraph five relates back to the obligations mentioned in paragraph four.
+Respondents claim that the lease provides two alternative methods for their release from liability. They argue that if the liquor licenses were maintained, as paragraph six requires, a form of security would be afforded different from, and in lieu of, that called for by paragraph four, hence that the provisions are alternative. They argue further in this connection that the reference to paragraph five is only to the part thereof dealing with the lessees’ obligation “to pay to the conditional vendors and to Lessor all balances due under all conditional sales contracts not later than July 31, 1948.” The answer to that argument is that paragraph five is all one sentence, and the reference found in paragraph six is to “said paragraph 5” and not to any particular part thereof. No reason appears why the reference to “said paragraph 5” does not mean just what it says and embrace everything contained in it.
+The allegations of a failure to execute the chattel mortgage or mortgages and to furnish exact copies of the conditional sales contracts clearly state that the lease was breached in those respects, and paragraphs four, five and six show that defendants were not released from their primary liability resulting from such breaches.
+It is not necessary to discuss the allegations respecting bankruptcy.
+The notice of appeal speaks of the “order” and not the “judgment” of June 24, 1948. This, obviously, was a mere inadvertence since the (nonappealable) order sustaining the demurrer was made on June 18 while the judgment thereon was entered on June 24. No ground exists for dismissing the appeal.
+The judgment is reversed.
+Dooling, J., and Bunnells, J. pro tern., concurred.
+A petition for a rehearing was denied November 12, 1949, and respondents’ petition for a hearing by the Supreme Court was denied December 12,1949.
