@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4607"
+decided: "1923-12-22"
+citations: ["65 Cal. App. 50"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS MONDADA, Appellant, v. MARIE BORDENAVE, Respondent."]
+source_url: "https://static.case.law/cal-app/65/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149437
+cites_cases: ["182 Pac. 766", "27 Pac. 186", "41 Cal. App. 280", "7 Cal. App. 23", "90 Cal. 324", "93 Pac. 289"]
+---
+
+# Mondada v. Bordenave
+
+## Majority (LANGDON, P. J.)
+
+LANGDON, P. J.
+This is an appeal by the plaintiff from a judgment against him in an action in which he sought to have a trust declared upon certain real property in Marin County, California. The legal title to said property was vested in the defendant, who is the mother of the plaintiff. Plaintiff alleged that prior to April 27, 1909’, he was the owner of said real property and that on that date he deeded the same to the defendant upon the oral agreement that the defendant would reside upon said property and keep the same as a home for both plaintiff and defendant and that” if defendant should leave said home she would reconvey the said property to the plaintiff. Defendant denied the making of any such oral agreement and alleged that the property was conveyed to her absolutely and free from any trusts in payment of an indebtedness of approximately one thousand dollars, which amount was due to defendant from the plaintiff at the time of the said conveyance. Thus were presented the only questions, which are ones of fact, involved in the case.
+The trial court found the allegations of the complaint regarding the oral agreement to be untrue and found that the plaintiff conveyed the property in question to the defendant “for and in consideration of the sum of one thousand dollars, in which amount plaintiff was indebted to defendant, said indebtedness being made up by and evidenced by a promissory note bearing date of October 14, 1907, for the sum of five hundred dollars and the additional sum of five hundred dollars which defendant had loaned to plaintiff.”
+At the time of the trial the defendant was\seventy-nine years of age. The plaintiff was, evidently, a man of mature years who had been working and earning his living for many years prior to the time he acquired the real property in question in 1902. It is true the evidence in the record is conflicting and that there is considerable evidence upon which the trial court might have based findings in favor of the plaintiff’s contention. However, the defendant told a story which supports the findings in her favor and the trial judge stated he was inclined to believe her testimony and found accordingly.
+The contention upon the appeal is that as the parties were mother and son and occupied a confidential relation one to the other, the burden was upon the defendant to show that no trust attached to the property; that as the record shows that the deed to the property was drawn up by the attorney for the mother and that the son had no attorney representing him, the transaction is presumably void and the burden was upon the mother to show that the son had independent advice upon the question of deeding the property to her. Reliance is placed upon the case of Nobles v. Hutton, 7 Cal. App. 23 [93 Pac. 289]. In that case the donor of the property was old and feeble in mind and body and the court found her to have been mentally incompetent at the time of the execution of the deed to her son. It was there said: “When, therefore, he [defendant] obtained from her [plaintiff], under the circumstances disclosed by the evidence, valuable property—in fact practically her entire estate—admittedly without a valuable consideration, the burden rested upon him to show that the fructification of the transaction was not attained through fraud or undue influence.” The circumstances disclosed by the evidence, in the present case, are exactly the reverse of those disclosed in the case last cited. In the present case the grantee was the mother. She was old and feeble, according to the testimony. The grantor was the son, so far as the record shows, entirely competent mentally and active physically. And one of the distinguishing features of the ease of Nobles v. Hutton and one which is stated as a part of the rule announced therein is that in that case there was no valuable consideration paid for the property, while in the present case the court has found, upon substantial evidence, that a valuable consideration was paid by the grantee.
+Two other cases are relied upon by appellant. They are: Mead v. Mead, 41 Cal. App. 280 [182 Pac. 766], and Brison v. Brison, 90 Cal. 324 [27 Pac. 186]. Both of these cases are distinguishable from the instant case in two important particulars. In the Mead case the property was conveyed by a father to a son, without any consideration. The grantor was a man of eighty-three years of age, quite deaf, stricken with paralysis, feeble in body and mind at the time of the trial, and the deed had been made by him five years earlier.
+In the case of Brison v. Brison the conveyance was from the husband to the wife, without any consideration whatsoever, and the trial court found that the conveyance was made with the understanding that the property would be reconveyed later.
+There are no other matters requiring consideration upon this appeal. The record merely presents a case of conflicting evidence upon the vital question involved, i. e., was the property conveyed to the defendant upon a trust or was it transferred to her free and clear of all equities for a valuable consideration, and the trial court, after seeing the witnesses, accepted as true the statement of the mother and found accordingly.
+The judgment is affirmed.
+Nourse, J., and Sturtevant, J., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on February 18, 1924.
