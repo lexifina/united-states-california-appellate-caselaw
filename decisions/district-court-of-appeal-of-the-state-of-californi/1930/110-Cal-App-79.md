@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 166"
+decided: "1930-11-25"
+citations: ["110 Cal. App. 79"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["I. N. GILBERT, Respondent, v. C. F. KRAUSS, Appellant."]
+source_url: "https://static.case.law/cal-app/110/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2168649
+---
+
+# Gilbert v. Krauss
+
+## Majority (CARY, P. J.)
+
+CARY, P. J.
+Plaintiff, a real estate broker, brought this action to recover from defendant, also a real estate broker, $607, being one-half of a commission received by defendant from the sale of, certain real estate belonging to a third party. The complaint alleged that plaintiff and defendant had entered into an agreement whereby if plaintiff either directly or by bringing defendant into communication with a prospective buyer should procure a purchaser for certain real estate for which defendant was the exclusive sales agent, defendant would pay to plaintiff one-half of any commission defendant might receive through such sale; that plaintiff had procured such a purchaser; that a sale had been made and defendant had received a commission, but had refused to divide it with plaintiff. Defendant’s answer denied the existence of such an agreement. The court found that the allegations of the complaint were true and gave judgment for plaintiff.
+The defendant urges as grounds for reversal (1) that the finding that there was such a contract is without support in the evidence and (2) that even though there were a contract, plaintiff did not perforin the services required of him.
+Viewing the evidence in the light most favorable to plaintiff, as is our duty where after a decision in his favor the sufficiency of the evidence is attacked, the facts follow. Plaintiff’s office was in the city of San Bernardino and defendant’s was some three miles north of the business-district of that city. Defendant came into plaintiff’s office and stated that he had the exclusive sales agency for the property in question and would like to have plaintiff help him sell it, stating the amount of the acreage and the price and telling plaintiff that he was willing to split commissions with plaintiff on a 50-50 basis on any deal made with plaintiff’s assistance. At this interview a subagent in the employ of plaintiff copied off from defendant’s blue-print the outlines of the property in question. The subagent told defendant that plaintiff had a client who he thought would be interested in the land. Defendant told plaintiff he need not bring the client out to the property, but could send him to defendant, who would show him the property and if a sale was made plaintiff would get one-half of the commission. Plaintiff’s subagent testified that he took the prospective buyer to the land, explained to him that it would be to the buyer’s advantage to purchase it and that for h month and a half he discussed the matter daily with the prospective purchaser both while on the land and off of it. He further testified that he gave the prospective purchaser the sketch of the property taken from defendant’s blue-print and told the purchaser that it was satisfactory for the purchaser to deal direct with the defendant. The prospective purchaser, who eventually did purchase the property, testified that he became interested in the deal through plaintiff’s subagent, that the subagent took him to the property many times and pointed out its advantages and gave him the details regarding price, acreage, etc. He corroborated generally the statement of plaintiff's subagent and testified that, although the deal was closed with defendant direct, yet it was the efforts of- plaintiff’s subagent which caused him to purchase the property. On the witness-stand defendant, while denying the agreement, did admit that he had told plaintiff he would be glad to have plaintiff co-operate with him and on cross-examination stated by that that he had meant that if plaintiff actually made a sale for him there would be something in it for plaintiff, although he had not told plaintiff so. .
+In defendant’s brief a very earnest argument is made as to why the court should have disbelieved the evidence offered on behalf of the plaintiff and why the inferences from the admitted facts would tend to substantiate defendant’s version of the transaction. However, the fact remains that the plaintiff, his employee and the person who actually bought the property all gave testimony in support of plaintiff’s claim and directly contradicted the evidence of the defendant, while the testimony of the defendant in its most material parts was not corroborated from any source. The entire matter is therefore one of conflict of the evidence and, there being sufficient evidence in the record to support the findings of the trial court, that court’s conclusion as to where the truth lay is conclusive.
+The judgment is affirmed.
+Marks, J., and Barnard, J., concurred.
