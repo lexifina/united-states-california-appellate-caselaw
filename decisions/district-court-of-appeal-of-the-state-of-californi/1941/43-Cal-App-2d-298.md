@@ -1,0 +1,39 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1745"
+decided: "1941-03-01"
+citations: ["43 Cal. App. 2d 298"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. ROBERT CHATHAM, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/43/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4541678
+cites_cases: ["14 Cal. App. (2d) 548", "235 Pac. 69", "28 Cal. App. (2d) 455", "58 Pac. (2d) 684", "71 Cal. App. 239", "82 Pac. (2d) 698"]
+---
+
+# People v. Chatham
+
+## Majority (PULLEN, P. J.)
+
+PULLEN, P. J.
+Appellant was convicted of a violation of section 501 of the Vehicle Code (driving a vehicle while • under the influence of intoxicating liquor and causing bodily harm to another), and now prosecutes this appeal.
+The facts are not in dispute. As appellant was driving his automobile around a curve in the highway he crossed the center of the highway, marked by a white line, over on to the left side thereof and struck a motorcycle rider coming in the opposite direction, inflicting severe injury. It is not disputed upon this appeal that appellant was intoxicated.
+The principal point relied upon for reversal is that section 501 of the Vehicle Code is unconstitutional, being violative of article I, section 11 of the state Constitution, which requires all laws of a general nature shall have a uniform operation, and also of section 21 of the same article, which prohibits any citizen or class of citizens being granted privileges or immunities not accorded all citizens, and of the provisions of the Constitution of the United States, granting to everyone the equal protection of, and due process of the law.
+Section 501 of the Vehicle Code reads in part as follows:
+“Any person who, while under the influence of intoxicating liquor, drives a vehicle and when so driving does any act forbidden by law or neglects any duty imposed by law in the driving of such vehicle, which act or neglect proximately causes bodily injury to any person, is guilty of a felony. ...”
+It seems to be the contention of appellant that to punish, as a felon, an intoxicated driver of an automobile for doing an act forbidden by law, whereby bodily injury is caused to another, while for the same act by a sober operator the penalty would have been a misdemeanor only, is violative of the several constitutional inhibitions above referred to. As an illustration appellant compares two men, one intoxicated, one sober, committing exactly the same act, each causing identical injury to another. What reasonable ground is there, he asks, to find one guilty of a misdemeanor, and the other guilty of a felony? He also contends that the intoxication of the driver need not have anything to do with the injury in order to establish the offense, and therefore contends the distinction which the legislature has endeavored to make results from no natural or constitutional distinction, but is arbitrary and unreasonable.
+As pointed out in the dissenting opinion by Mr. Justice Houser in People v. Smith, 14 Cal. App. (2d) 548 [58 Pac. (2d) 684], before section 501 of Vehicle Code may furnish the basis for a valid judgment of conviction it must appear in evidence that the defendant was (1) driving an automobile (2) while under the influence of intoxicating liquor, (3) and while in that condition he committed some act forbidden by law, and (4) that such act or neglect proximately caused bodily injury to someone.
+In People v. Levens, 28 Cal. App. (2d) 455 [82 Pac. (2d) 698], it is again indicated that to sustain a conviction under section 501 of the Vehicle Code, a defendant, while driving an automobile and being under the influence of intoxicating liquor, must have committed some forbidden act, which proximately caused bodily injury to another. This offense is distinct from that of driving while intoxicated (section 502 of the Vehicle Code) and is a more serious offense in that so driving in an intoxicated condition proximately caused bodily injury to another.
+It is a well recognized fact that one under the influence of intoxicating liquor is dangerous to others upon the highways, and the legislature is within its rights in doing all it can to discourage such a menace. It may entirely forbid, to one in an intoxicated condition, the use of the highway, and to enforce such prohibition may penalize one, even to the extent of increasing the punishment for an unlawful act upon the highway committed by an intoxicated driver over one not in such a condition.
+There is no reason why the state • may not add a further penalty where an intoxicated driver, insisting upon driving an automobile in the face of statutes prohibiting such conduct, commits an unlawful act, or neglects to perform some duty imposed by law, and as a result some innocent traveler is injured by such wilful violation of the law. We have a law imposing a greater punishment upon an ex-convict for possessing a concealed weapon than is imposed upon another; drug addicts are classified as such and greater punishment imposed upon them in certain instances. The theory of the legislature in imposing additional penalties upon intoxicated persons or drug addicts might well be that such condition sets in motion other causes concurring in the injury to the other person.
+Appellant argues it makes no difference to the person injured whether he was hurt by a sober man or an intoxicated man, and contends that the receiving of bodily injuries is the gist of the offense. In this, however, appellant is in error,—-it is not the receiving of the injury that concerns the state, but the causing of such injuries which the state seeks to minimize.
+As said in People v. Ekstromer, 71 Cal. App. 239 [235 Pac. 69], in discussing section 112 of the California Vehicle Act, the predecessor of the present section 502 of the Vehicle Code :
+“Section 112 of the California Vehicle Act was designed to protect the public from the menace of automobiles operated upon the public highway with inadequate or no efficient control, in the world of traffic difficult of management under normal conditions, and should be liberally construed to effect its purpose. We think that such legislation is well in line with and motivated by the same impulses that inspired the enactment of statutes prohibiting railroad employees from drinking intoxicants while on duty; ...”
+An automobile is a dangerous instrumentality, and in the hands of a drunken man is likely to become a deadly weapon.
+Appellant also claims the court should have given two proffered instructions, upon the right of a juror to adhere to his honest convictions, and to refuse to surrender such conviction for the mere purpose of agreeing upon a conviction. The court gave the following instruction which fully covered the principles contained in the refused instructions :
+“I charge you, members of the jury, that it is 3rour duty to reason together and to try honestly and conscientiously to agree upon a verdict. Bach side is entitled to the independent judgment of every juror. No juror is required by law to surrender his or her honest convictions for the sole purpose of agreeing upon a verdict. It is the duty of every juror to carefully consider all the evidence in the ease and to attempt to arrive at a true and just verdict based upon the evidence and the instructions of the court, and in arriving at your verdict you and each of you have the right to stand by your own independent judgment as to the weight, sufficiency, and effect of the evidence in the case.”
+The judgment is affirmed.
+Thompson, J., and Tuttle, J., concurred.
+A petition for a rehearing was denied March 15, 1941, and appellant’s petition for a hearing by the Supreme Court was denied March 28, 1941.
