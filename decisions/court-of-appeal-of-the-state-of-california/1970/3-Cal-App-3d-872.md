@@ -1,0 +1,40 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 34084"
+decided: "1970-01-26"
+citations: ["3 Cal. App. 3d 872"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARMANDO FEDERICO, Plaintiff and Respondent, v. JEROME H. FRICK, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/3/cases/0872-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4415335
+cites_cases: ["245 Cal.App.2d 630", "257 Cal.App.2d 71", "258 Cal.App.2d 57", "261 Cal.App.2d 255", "271 Cal.App.2d 675", "271 Cal.App.2d 703", "276 Cal.App.2d 240", "419 P.2d 168", "54 Cal.Rptr. 104", "54 Cal.Rptr. 206", "64 Cal.Rptr. 699", "65 Cal.2d 263", "65 Cal.Rptr. 255", "67 Cal.Rptr. 791", "76 Cal.Rptr. 902", "77 Cal.Rptr. 100", "81 Cal.Rptr. 63"]
+---
+
+# Federico v. Frick
+
+## Majority (COBEY, J.)
+
+Opinion
+COBEY, J.
+Jerome H. Frick appeals from a judgment for $12,627 confirming an arbitration award against him. The appeal lies. (Code Civ. Proc., § 1294, subd. (d).) The basis of the appeal, broadly stated, is that there was no agreement to arbitrate and the arbitration was not an impartial one. We find no merit in the appeal.
+The Facts Generally
+On August 23, 1967, Armando Federico was hired for a period of one year as a pianist at the Mikado, a restaurant and cocktail lounge owned and operated by Frick. This employment was made under a standard printed contract of Local 47 of the American Federation of Musicians. Federico was a member of the local.
+The employment contract contained a Paragraph 11, reading in relevant part as follows: “. . . All controversies involving matters within the competence of Locals of the Federation arising out of this contract, [sic] shall be submitted to, heard, arbitrated and determined by the person, persons or body specified by the rules, By-laws or practices of the Local in whose jurisdiction the services have been or are to be performed in accordance with the procedures in such rules or By-laws. . . .” Furthermore, Paragraph 10 of this contract provided that such rules and bylaws, among other things, were incorporated into the contract and “the employer acknowledges his responsibility to be fully acquainted, now and for the duration of this contract, with the contents thereof.”
+Some weeks later Frick discharged Federico for conduct on the job allegedly offensive to certain female customers. On November 22, 1967, Federico filed a formal claim with the local for the balance of his year’s salary. Arbitration hearings were thereafter held by a five member trial board of the local which made the arbitration award at issue on January 17, 1968. Upon Frick’s failure to pay the award, Federico commenced in timely fashion the confirmation proceedings which are now before us. (Code Civ. Proc., § 1288.)
+The record on appeal contains nothing with respect to the factual basis for the award. We, therefore, know nothing of its merit.
+Frick’s position is that we should reverse the judgment confirming the arbitration award against him because: (1) he was unaware of the existence of the arbitration provisions in the contract as he failed to read that portion of the contract prior to signing it; (2) he never knew until he received the award that the proceedings before the trial board were arbitration proceedings; (3) the contract was one of adhesion and, therefore, against public policy; and (4) the arbitration procedure provided by the contract was not an impartial one since the arbitration board was composed of Federico’s fellow members of Local 47 which would also receive a portion of the award.
+The Award Must Be Confirmed
+Code of Civil Procedure section 1281 of the California Arbitration Act provides in relevant part that, “. . . A written agreement to submit to arbitration ... a controversy thereafter arising is valid, enforceable and irrevocable save upon such grounds as exist for the revocation of any contract.” Frick asserts Paragraph 11 of the employment contract, which we have quoted in relevant part, is not a valid and enforceable arbitration agreement because he signed the contract without reading this provision and therefore was unaware of its existence, and because the contract itself is one of adhesion. In determining the validity of this position, we are first faced with the trier of fact’s specific finding that all of the affirmative allegations of Frick’s response to the petition to confirm the award were untrue. These included the allegations of his verified declaration since these were incorporated in his response. These findings are, however, without any evidentiary support. Therefore we will disregard them.
+But, doing this does not make Frick’s position a tenable one. Failure to read an entire contract is not a basis for its revocation. (See California State Auto. etc. Bureau v. Barrett Garages, Inc., 257 Cal.App.2d 71, 76 [64 Cal.Rptr. 699].) Similarly, ignorance of the arbitral nature of the proceedings is not one of the statutory grounds for vacation of an arbitration award. (See Code Civ. Proc., § 1287.2; cf. Sanserino v. Shamberger, 245 Cal.App.2d 630, 634-636 [54 Cal.Rptr. 206].)
+The standard union employment contract before us may well be a contract of adhesion (see Gray v. Zurich Insurance Co., 65 Cal.2d 263, 269-271 [54 Cal.Rptr. 104, 419 P.2d 168]), but there is nothing in the record providing evidentiary support for this conclusion. Furthermore, in this state arbitration is entirely a creature of statute and is a favored method for the expeditious settlement of disputes. (See Horn v. Gurewitz, 261 Cal.App.2d 255, 261 [67 Cal.Rptr. 791]; Leon Handbag Co. v. Local 213, 276 Cal.App.2d 240, 243 [81 Cal.Rptr. 63]; Lesser Towers, Inc. v. Roscoe-Ajax Constr. Co., 271 Cal.App.2d 675, 702 [77 Cal.Rptr. 100]; Canadian Indem. Co. v. Ohm, 271 Cal.App.2d 703, 707 [76 Cal.Rptr. 902].) This being so, we are reluctant to amend the California Arbitration Act by declaring that contracts of adhesion are beyond its coverage. That is a task for the Legislature if it desires to do so.
+This brings us to Frick’s final argument against confirmation of the award. This is that the arbitration board was neither impartial nor neutral and, therefore, presumably unfair to any employer caught in its toils. It may be argued that this is a realistic appraisal, but, again, potential unfairness resulting from the nonneutral nature of the controlling arbitrator is not a statutory ground for either vacation of the award or dismissal of the confirmation proceedings. (See Code Civ. Proc., §§ 1286, 1286.2, 1287.2; cf. Gear v. Webster, 258 Cal.App.2d 57 [65 Cal.Rptr. 255].) Elementary fairness may seem to demand that arbitration proceedings be under the control of a neutral and impartial arbitrator, but we note that section 1282 of the Act expressly permits the parties to an arbitration to agree to the conduct of arbitration proceedings by a nonneutral arbitrator. Again, arbitration being a creature of statute, the statute controls.
+The judgment is affirmed.
+Schweitzer, J., and Allport, J., concurred.
+A petition for a rehearing was denied February 19, 1970, and appellant’s petition for a hearing by the Supreme Court was denied March 25, 1970.
+These bylaws contained provisions covering trial boards, contracts, claims, penalties and remedies, rehearings and appeals. (See Art. I, § 8, Arts. VI, VIII, X and XI thereof.)
+The award contains no provision for deduction of possible unemployment insurance benefits paid Federico or of any earnings by him during the remainder of the contract term. Frick, however, did not seek correction of the award. (See Code Civ. Proc., §§ 1284, 1285, 1285.2.)
+We note that Frick failed to exhaust his rights of review under the local’s bylaws.
+We note that many government contracts customarily provide that all disputes arising under them shall be arbitrated by a specified official of the governmental entity which is one of the contracting parties. (See Domke, Commercial Arbitration, § 11.03, pp. 93-96.)
