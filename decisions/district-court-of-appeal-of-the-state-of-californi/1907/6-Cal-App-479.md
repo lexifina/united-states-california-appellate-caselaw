@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 387"
+decided: "1907-09-30"
+citations: ["6 Cal. App. 479"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLEMENTINE P. MARX, Respondent, v. RALEY & COMPANY, Appellant."]
+source_url: "https://static.case.law/cal-app/6/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963867
+cites_cases: ["1 Cal. 411", "28 Cal. 295", "87 Am. Dec. 121"]
+---
+
+# Marx v. Raley & Co.
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+Action for the price and value of personal property sold and delivered. Judgment for plaintiff. Order denying a new trial. From the judgment and order defendant appeals.
+The unverified complaint alleges the sale and delivery by plaintiff’s assignor to defendant, a corporation, of a car of oranges and pomelos at a guaranteed price of $2.25 per box, nonpayment of which is averred. The answer comprises a general denial and a special defense that the goods were shipped to defendant to be sold on commission, and alleges a full compliance upon defendant’s part and a tender to plaintiff’s assignor of the proceeds, less certain expenses. And in the answer it is averred that the goods were received and shipped pursuant to a letter alleged to have been sent by defendant and deposited in the United States mail on December 9, 1904, before the shipment of said ear. This letter was set out in the answer in haec verba, and, omitting date and address, is as follows:
+“In our letter to you a few days ago referring to price on the car of oranges you are to ship for Xmas trade, at $2.25 per box, the said price means consignment basis, same as all the shipments we handled for you, freight, commission, and drayage to be deducted from this amount. If you understand it this way ship the car as per our order; if not, don’t ship it, as we are certain this is the very highest price that can be obtained this month. ...”
+Upon the trial the court admitted testimony upon the part of plaintiff that no letter as set out in the answer, had ever been received; and the evidence being' satisfactory that the shipment was under an express contract to pay the price alleged in the complaint, judgment was accordingly rendered for plaintiff.
+The principal contention of appellant is that the letter set out in the answer was a written instrument upon which its defense was based, and- its execution was not denied under oath. Hence, under section 448, Code of Civil Procedure, no proof was admissible controverting its due execution. If the paper set out is an instrument upon which the defense rests, its execution, which comprehends delivery, is admitted, and it is immaterial how this delivery was effected, whether personally or by mail. In our opinion, however, the letter embodied in the answer is not an instrument upon which the defense is founded in contemplation of the code. Heath v. Lent, 1 Cal. 411, declares: “It is clear that the statute does not extend to any other parties than those who are alleged to have signed the instrument. ’ ’ In this case, as in that, it would be unreasonable to say that the plaintiff was bound to know the genuineness of the signature of the defendant. In addition, the letter set out does not purport to contain any contract or obligation on the part of plaintiff, but refers to certain written communications not set out and undertakes only to give a construction thereof as intended by the writer; in other words, it is merely explanatory of the language used in a former letter which, by inference, may be said to contain the original terms of the contract, and which original letter appears in the record and is susceptible of no such construction or intendment. Further, the explanatory letter set out in the answer referred to another letter, dated several days prior to December 9th, while on December 9th, as is shown by the record, a written proposition to guarantee $2.25 per box for both kinds of fruit was sent to plaintiff, and on the faith of which, as an original promise and as ratifying previous personal negotiations by telephone, the goods were shipped. The previous letters and the explanatory letter were then immaterial, and no prejudice resulted from the admission of such testimony, were the error even conceded.
+It is suggested that no proof of defendant’s incorporation was made. It does appear, however, in the record that defendant represented in one of its letters to plaintiff’s assignors that it was a corporation, which is sufficient to support the finding of the corporate character of the defendant.
+Certain of the goods shipped were furnished by parties other than Marx & Rice, plaintiff’s assignors, but it is clear that whatever rights those persons acquired to the proceeds when sold were through Marx & Rice, with whom alone defendant contracted and to whom alone defendant was liable. The assignment of Marx & Rice was sufficient to transfer to plaintiff the entire cause of action. Treating the contract, as shown by the record, to be one guaranteeing $2.25 per box, and not a contract promising to pay that sum upon delivery of the fruit, nevertheless it was a guaranty that when sold the defendant would pay at least $2.25 per box therefor. It appears that before January 14, 1905, the goods had been sold, and under the contract the right of plaintiff to receive at least the price guaranteed became fixed, and from the date of sale plaintiff, as assignee of Marx & Rice, was entitled to interest, under section 3287, Civil Code. (Lane v. Gluckauf, 28 Cal. 295, [87 Am. Dec. 121].) The exact date of the sale not being shown, we cannot say that the court was in error when it found, by implication, that such sale was made December 21, 1904.
+We find no error in the record, and the judgment and order are affirmed.
+Taggart, J., and Shaw, J., concurred.
