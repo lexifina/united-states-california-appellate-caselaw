@@ -1,0 +1,29 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Crim. A. No. 17636"
+decided: "1980-12-23"
+citations: ["115 Cal. App. 3d Supp. 7"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. DIANA LYNN SINGER, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/115/cases/Supp. 7-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6043277
+cites_cases: ["111 Cal.Rptr. 409", "141 Cal.Rptr. 506", "154 Cal.App.2d Supp. 888", "158 Cal.Rptr. 420", "193 P.2d 734", "31 Cal.2d 801", "316 P.2d 784", "36 Cal.App. 3d 379", "74 Cal.App.3d 397", "96 Cal.App.3d 913"]
+---
+
+# People v. Singer
+
+## Majority (SAETA, J.)
+
+Opinion
+SAETA, J.
+Defendant was charged with and convicted of nine violations of law stemming from her failure to properly account for employee taxes and withholding. Specifically, she was charged with two counts of violating Revenue and Taxation Code section 19409 (failure to withhold taxes or pay over withheld taxes); two counts of Unemployment Insurance Code section 2110 (failure to pay deductions); two counts of Unemployment Insurance Code section 2110.5 (failure to hold deductions in trust); two counts of Unemployment Insurance Code section 2108 (failure to make unemployment contributions); and one count of Unemployment Insurance Code section 2106 (failure to make a timely report of wages). These charges all relate to defendant’s activities as administrator of a hospital during the first five months of 1978. The double charges of most of the code sections relate to the first two calendar quarters of 1978.
+As part of the probationary order, defendant was ordered to spend one year in county jail. With respect to the two convictions of Revenue and Taxation Code section 19409, she claims that under article I, section 10 of the California Constitution she may not be imprisoned for the failure to pay a debt. Section 19409 does not expressly include a requirement of proof of willfulness in not withholding or in failing to pay over withheld taxes. Applying Penal Code section 20 to this statute, we construe section 19409 to require the proof of willfulness. (See In re Trombley (1948) 31 Cal.2d 801, 807 [193 P.2d 734]; People v. Neal C. Oester, Inc. (1957) 154 Cal.App.2d Supp. 888 [316 P.2d 784].) So construed, the willful refusal to withold or pay over withholdings does not run afoul of the imprisonment for debt provision under the following two bases of analysis: (1) In People v. Neal C. Oester, Inc., supra, the “fraud” exception to the imprisonment for debt provision was applied to affirm a conviction of Unemployment Insurance Code section 2110, equating the willful failure to pay contributions with a fraudulent act.
+(2) In In re Marriage of Fithian (1977) 74 Cal.App.3d 397, 404-405 [141 Cal.Rptr. 506] the imprisonment provision was skirted by application of the theory that a debt is an obligation to pay over one’s own money, not someone else’s. As withheld wages belong to the employees, not defendant, the constitutional debt provision does not apply.
+Defendant complains that the evidence was insufficient to show that willfulness as the hospital she was running was forced to cease doing business May 11, 1978, for lack of funds. However, the People point to the record to show that defendant had paid to herself, from at least the last part of 1977, a secret second salary at a rate of $25,000 per year, double billed for expense reimbursement, and appropriated to herself $39,000 of insurance payments to the hospital after closing. The sum of improper payments to her while she was in control of the financial affairs of the hospital greatly exceeded the amounts proved against her, i.e., $26,130. This evidence was sufficient to show that defendant had the financial ability to pay the amounts required of her in the management of the hospital.
+The court trial was conducted over parts of eight days from February 6, 1979, to March 30, 1979. On February 9 the case was recessed to February 14. At that time defendant did not personally appear but her attorney was present in court and advised the court that defendant voluntarily absented herself from the trial in order to maintain her employment. The court found that defendant was knowingly absenting herself deliberately and intentionally. The trial proceeded in defendant’s absence. The People rested on February 26 and defendant’s counsel obtained a continuance to March 30 so that defendant could testify. However, on March 30 defendant did not appear, apparently because she was afraid of being subpoenaed in civil litigation stemming from her operation of the hospital. The court declined to give defendant another continuance.
+Defendant now claims that there is no showing that anyone explained to her that she had the right to be present and that by absenting herself she gave up her right to testify and to confront witnesses. There are several answers to this contention. The docket reflects that defendant first appeared by counsel and that arraignment and a reading of constitutional rights was waived. Additionally, the docket reveals that on the first day of trial defendant personally waived her right to confrontation as well as her right to a jury trial. Defendant had the right to appear only by counsel in this misdemeanor proceeding, and the judge had the right to rely on counsel’s representations that defendant was knowingly absenting herself from her trial. (People v. Kriss (1979) 96 Cal.App.3d 913, 919 [158 Cal.Rptr. 420]; People v. Connolly (1973) 36 Cal.App. 3d 379 [111 Cal.Rptr. 409].)
+The judgment is affirmed.
+Bigelow, Acting P. J., and Fainer, J., concurred.
