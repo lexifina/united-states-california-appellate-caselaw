@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3497"
+decided: "1947-10-29"
+citations: ["82 Cal. App. 2d 141"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY JOSEPHINE JACOBS, Appellant, v. CLIFFORD H. MOFFETT et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/82/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2354201
+---
+
+# Jacobs v. Moffett
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+The parties hereto entered into a contract under which it was agreed that the defendants would support the plaintiff for the remainder of her life, that they would have the use of her home property, and that she would make a will leaving all of her property to them. She made such a will, and the defendants moved into her home and later installed certain improvements on the property.
+About a year after the contract was made the plaintiff brought this action seeking a cancellation of this contract and will. The defendants answered and also filed a cross-complaint alleging that in reliance upon the contract they had made certain improvements on the premises in question and, among other things, seeking to recover the value of these improvements.
+When the case was called for trial the defendants conceded that the terms of the contract could not be enforced and the trial proceeded on the issues raised by the cross-complaint and the answer thereto. Findings were waived in open court, and a judgment was entered canceling the agreement between the parties and awarding the defendants $3,000 on their cross-complaint. From this judgment the plaintiff presents this appeal, based upon a clerk’s transcript alone.
+The appellant concedes that the respondents should be compensated for any improvements which they placed upon the property which would tend to enhance its value or which would inure to the benefit of its owner, but contends that it cannot be told whether or not the judgment entered took into consideration certain monies which were advanced to the respondents by the appellant; that the appellant was entitled to have the rental value of the property, during the time it was occupied by the respondents, offset against any allowance made to the respondents; and that the evidence does not support the amount of the judgment.
+The record before us discloses that the respondents occupied the premises with the consent of the appellant, but it does not disclose whether or not any allowance therefor was made in adjusting the various claims made by the respective parties in the accounting which was apparently had. All of the questions raised depend, for an answer, upon a consideration of the evidence which was received by the court. What that evidence was, we have no means of knowing. No record of that evidence is here and no attempt was made to secure or produce such a record. The only record before us fully supports the judgment as entered.
+The judgment is affirmed.
+Marks, J., and Griffin, J., concurred.
