@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 3883"
+decided: "1970-06-05"
+citations: ["8 Cal. App. 3d 497"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. FLOYD WAYNE STINSON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/8/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4397476
+cites_cases: ["129 Cal.App. 300", "18 P.2d 741", "231 Cal.App.2d 460", "245 Cal.App.2d 383", "259 Cal.App.2d 82", "408 P.2d 100", "41 Cal.Rptr. 875", "47 Cal.Rptr. 772", "53 Cal.Rptr. 877", "63 Cal.2d 614", "66 Cal.Rptr. 177"]
+---
+
+# People v. Stinson
+
+## Majority (TAMURA, J.)
+
+Opinion
+TAMURA, J.
+Following jury trial, defendant was found guilty of possession of a sawed-off rifle in violation of section 12020 of the Penal Code. He admitted two charged prior felony convictions. Probation was denied and defendant was sentenced to state prison for the term prescribed by law with reservation of jurisdiction pursuant to section 1168 of the Penal Code. Defendant appeals from the judgment of conviction.
+A California Highway Patrol officer stopped an automobile with three occupants for a suspected Vehicle Code violation. Defendant was sitting alone in the rear seat. The officer observed a rifle lying on the rear seat next to the defendant. He reached into the car and, without comment, removed it. One of the occupants of the car stated, “That’s mine.” Not knowing which one made the remark, the officer asked who owned the rifle. Defendant replied it was his. There was no bolt in the weapon at that time.
+The officer called for reinforcements and upon their arrival, he measured the rifle. The barrel was 2114 inches in length; a line drawn outward from the back of the barrel to a point above the end of the stock measured 4 inches; a line drawn from the tip of the barrel to the back of the stock measured 2514 inches; and the stock from the back of the barrel to the back of the stock, measured 514 inches.
+On request, defendant produced from his pocket the bolt for the rifle. The officer concluded that the rifle could be easily assembled to be made operable. Defendant was thereupon arrested.
+Defendant testified that the rifle had been in possession of his family for several years in the same condition and that he had never altered it. He testified that he and his companions were on their way to hunt “varmints.”
+In rebuttal, the prosecution put on defendant’s wife who testified that about a week or 10 days prior to his arrest she saw defendant cut the barrel to the length found at the time of arrest.
+Defendant contends: (1) The weapon was not a sawed-off rifle proscribed by section 12020 of the Penal Code; (2) the court erred in refusing to instruct the jury that in order to convict defendant of the offense charged, they must find that he contemplated an unlawful use of the weapon.
+Section 12020 of the Penal Code provides in pertinent part: “Any person in this state who . . . possesses any . . . sawed-off shotgun ... is guilty of a felony. . . .
+“As used in this section a ‘sawed-off shotgun’ means ... a rifle having a barrel or barrels of less than 16 inches in length, or any weapon made from a rifle or shotgun (whether by alteration, modification, or otherwise) if such weapon as modified has an overall length of less than 26 inches.”
+The evidence established the fact that measured in a straight line from the tip of the barrel to a point above the back of the stock, the rifle was 2514 inches long and that measured in a straight line from the tip of the barrel to the back of the stock, the rifle was 25Vz inches. Either method of determining the “overall length” of the weapon would render it impermissibly short. However, defendant contends if the rifle is measured from its tip to the back of the barrel and thence down along the stock to its back, it measures 26Vz inches, and is therefore a legal firearm.
+Section 12020 does not specify the manner in which the “overall length” of a rifle is to be determined. Webster’s Third International Dictionary (1964) defines the term “length” as “. . . the longer of the 2 straight-line dimensions of a surface or plane or the longest of the 3 straight-line dimensions of a solid....” “Overall length” should thus be determined by a single measurement taken in a straight line. Were “overall length” to be ascertained by the addition of a number of separate straight lines, imagination alone places the limit on the number of combinations which might be suggested in determining “overall length.” The legislative purpose underlying section .12020 of the Penal Code was to outlaw possession of weapons common to the “criminal’s arsenal.” (People v. Grubb, 63 Cal.2d 614, 620 [47 Cal.Rptr. 772, 408 P.2d 100]; People v. Wasley, 245 Cal.App.2d 383, 386 [53 Cal.Rptr. 877].) “Sawed-off” shotguns and rifles are suitable for unlawful purposes because of their concealability and ease of handling. The determination of “overall length” by a single straight line best comports with the legislative purpose, In the present case either of the two single straight line measurements shows the weapon to be a “sawed-off” rifle within the meaning of section 12020.
+Defendant contends that in order to convict for the offense charged, the jury must find not only that a defendant possessed the sawed-off rifle, but also that he intended to use it for an unlawful purpose and that the court erred in refusing to give the following instruction offered by defendant: “Where there is evidence that the alleged illegal object has a legitimate and lawful use as well as an unlawful use, there must be evidence tending to show that, at the time and place of the illegal possession, the possessor contemplated an unlawful use of the object.”
+It was not error for the court to refuse the offered instruction. In People v. Wasley, supra, 245 Cal.App.2d 383, 386, the court stated: “The sawed-off shotgun is contraband. Its possession by anyone is a crime (Pen. Code, § 12020). The purpose is to outlaw a class of instruments (e.g., blackjack, sawed-off shotgun, metal knuckles) normally used only for criminal purposes. . . .” Thus it was not necessary that defendant have intended to put the rifle to an unlawful use. Possession was illegal per se. (See People v. Ferguson, 129 Cal.App. 300 [18 P.2d 741].) Defendant’s reliance on People v. Grubb, supra, 63 Cal.2d 614, and People v. Deane, 259 Cal.App.2d 82 [66 Cal.Rptr. 177], is misplaced. Those cases involved possession of an altered baseball bat (People v. Grubb, supra) and a metal bar with attached metal strap (People v. Deane, supra). The question was whether the articles were in fact a “billy” and “metal knuckles” proscribed by section 12020 of the Penal Code. The courts held that where the object may have a legitimate and lawful use, there must be evidence tending to show that the possessor contemplated an unlawful and not a lawful use. However, the illegal nature of defendant’s rifle in the instant case was unambiguous; it was a “sawed-off” rifle and nothing else. Consequently it was not incumbent on the prosecution to show that defendant contemplated an unlawful use of the weapon.
+Judgment is affirmed.
+Kerrigan, Acting P. J., and Kaufman, J., concurred.
+The fact that the weapon was not assembled for immediate use at the time of its discovery did not make its possession legal. (People v. Guyette, 231 Cal.App.2d 460, 467 [41 Cal.Rptr. 875].)
+We have examined the weapon and have confirmed the measurements made at trial as well as those made by defendant.
