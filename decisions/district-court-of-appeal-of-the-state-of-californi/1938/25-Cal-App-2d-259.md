@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3035"
+decided: "1938-03-07"
+citations: ["25 Cal. App. 2d 259"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOHN R. NOKES, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/25/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4506673
+cites_cases: ["10 Pac. (2d) 109", "101 Md. 465", "122 Cal. App. 505", "208 Pac. 340", "22 A. L. R. 879", "227 Fed. 314", "236 Fed. 300", "258 U. S. 254", "58 Cal. App. 257", "61 Atl. 631"]
+---
+
+# People v. Nokes
+
+## Majority (WHITE, J.)
+
+WHITE, J.
+In an amended indictment containing four counts, the defendant was charged with the crime of robbery. The jury returned separate verdicts finding him guilty upon each of the several counts. A separate judgment was entered upon each conviction. Prom those judgments, and from an order denying his motion for a new trial, he now appeals. He also appeals from the sentences imposed, but as no appeal lies from the sentences, the attempted appeal therefrom must be dismissed.
+Although appellant has failed to file a brief, we are constrained to consider in lieu thereof, because he is now without counsel, his written answer to the order directing that he show cause why his appeal should not be dismissed and which he characterizes as “Motion to Set Aside Judgment and Dismiss Case”. From this document we glean that appellant’s sole contention is that the state courts, for reasons presently to be stated, are without jurisdiction of his person. The facts upon which appellant bases his contention that the court was without jurisdiction to try him are as follows: He was arraigned in the Superior Court of Los Angeles County on July 19, 1937. His trial in that court was commenced on August 6, 1937, and continued until August 9th, on which date he was convicted as aforesaid. On July 6, 1937, a judgment was' rendered against the defendant in the United States District Court by which he was sentenced to confinement in a federal penitentiary for the term of four years. It appears, however, that at all times, whenever any proceedings were had in connection with the indictment returned in the state court, the defendant was personally present and was at all times represented by counsel except at the time of his arraignment, upon which latter occasion the court designated the public defender as his counsel, and in whose place and stead private counsel was later substituted.
+There is no merit in the claim that the court did not acquire jurisdiction of appellant’s person. It probably is true, as appellant contends, that after the sentence by the federal court and until the end of his term and discharge, no state court could assume control over his body without the consent of the United States (Ponzi v. Fessenden, 258 U. S. 254 [66 L. Ed. 607, 42 Sup. Ct. 309, 22 A. L. R. 879]); but there is no force in the contention that because he was in the custody of the United States he could not be tried in the state courts. It is true that as between the federal and state courts, the one which first acquires jurisdiction and custody of the prisoner may retain it to the exclusion of the other court until the judgment is satisfied (Marsino v. Hogsett, 37 Fed. (2d) 409, 413) ; but, by consent of the sovereignty holding jurisdiction of the prisoner, he may be subjected to trial in the courts of the other government by conferring custody of his person for that purpose. (People v. South, 122 Cal. App. 505, 509 [10 Pac. (2d) 109].) It is said in the Ponzi case, supra, “He (the prisoner) may not complain if one sovereignty waives its strict right to exclusive custody of him for vindication of its laws in order that the other may also subject him to conviction of a crime against it. (In re Andrews, 236 Fed. 300; United States v. Marrin, 227 Fed. 314.) Such a waiver is a matter that addresses itself solely to the discretion of the sovereignty making it, and of its representatives with power to grant it. . . . The fact that he may have committed two crimes gives him no immunity from prosecution for either.” (See, also, Rigor v. State, 101 Md. 465 [4 Ann. Cas. 719, 61 Atl. 631].) Under the comity which exists between federal and state courts, upon proper application to the United States authorities, who have custody of a federal prisoner, jurisdiction of the person of one who is charged with another crime may be conferred upon the state court for the purpose of a trial. When, therefore, appellant was produced in the state court, and was personally present there, with full opportunity to make his defense, jurisdiction of his person was had by the superior court, exactly as if he had been brought before that court by its own officer. (People v. Sichofsky, 58 Cal. App. 257, 258, 262 [208 Pac. 340] ; Ponzi v. Fessenden, supra.)
+The appeal from the sentences is dismissed. The judgments and order denying the motion for a new trial are affirmed.
+York, J., and Doran, J., concurred.
