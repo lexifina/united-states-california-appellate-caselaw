@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5334"
+decided: "1928-12-13"
+citations: ["95 Cal. App. 452"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATHAN GOLDBERG, Respondent, v. A. REMPP et al., Appellants."]
+source_url: "https://static.case.law/cal-app/95/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2137982
+cites_cases: ["119 Cal. 47", "119 Cal. 51", "136 Ind. 339", "143 Pac. 540", "164 Pac. 38", "208 Pac. 188", "21 Pac. 971", "22 Pac. 660", "23 Pac. 1091", "25 Cal. App. 282", "30 Pac. 1024", "32 Cal. App. 751", "33 Pac. 836", "36 N. E. 254", "40 Cal. 614", "50 Pac. 1066", "57 Cal. App. 623", "79 Cal. 556", "84 Cal. 61", "96 Cal. 73", "99 Cal. 104"]
+---
+
+# Goldberg v. Rempp
+
+## Majority (CRAIL, J., pro tem.)
+
+CRAIL, J., pro tem.
+This is an action upon a joint and several bond given to release certain property from an attachment. The conditions of the undertaking were such that in order to maintain the action against appellant it was necessary for the plaintiff to demand of the principal in the bond the redelivery of the attached property and to demand of the sureties the payment of the amount of the judgment in the original action. It was necessary also to allege such demands.
+In lieu of an allegation of the demand for the redelivery of the property the plaintiff alleged: “That on the 5th day of March, 1925, an execution was issued the sheriff of said Los Angeles County, against the property of the said A. Rempp (the principal) under said judgment, but that the sheriff made return on the 6th day of June, 1925, that no property was found and that writ of execution is wholly unsatisfied. ’ ’
+The facts as stated constitute a sufficient demand for the redelivery of the attached property. (Hammond v. Starr, 79 Cal. 556 [21 Pac. 971]; 3 Cal. Jur., p. 520.) And the allegation of the facts was a sufficient allegation of the demand for the purpose of sustaining the judgment on appeal. No stereotyped form of allegation of demand is necessary. (Mullally v. Townsend, 119 Cal. 51 [50 Pac. 1066].) It follows that the court’s order overruling appellant’s demurrer to the complaint, based on the failure to allege such demand, will not be disturbed.
+The allegation of the complaint with reference to the demand on the sureties is as follows: 11 That on the 5th day of July, 1925, the plaintiff demanded of the defendants herein (including the sureties) the payment of said judgment, which was by each and all of them refused.”
+After the demurrer to the complaint was overruled the appellant filed an answer denying on information and belief certain parts of plaintiff’s complaint containing matters of public record. The answer also contained the following denial: “Denies that on the 5th day of July, or any other time, plaintiff demanded of said defendant, Thelma H. Davis, the payment of said judgment.” But she did not deny the remainder of plaintiff’s allegation, to wit, “which was by each and all of them refused.” To this answer the plaintiff interposed a general demurrer. The demurrer was sustained and defendant was given ten days to amend, which defendant declined to do. Thereafter default was entered, and judgment rendered against the defendants. Appellant’s second and last contention is that the court erred in sustaining the demurrer to the answer.
+Coupled with the allegation of demand on the sureties in plaintiff’s complaint it was necessary to allege the refusal to pay; otherwise it could not be determined that the demand had not been compiled with. Thus the refusal to pay was a material'allegation of the complaint. The failure to deny the allegation that payment “was by each and all of them refused” was equivalent to an admission that appellant refused to pay. For upon appeal it will be presumed that appellant in his pleading has stated his case as favorably for his side of the controversy as the facts will justify, and the failure to deny a material averment in a complaint is an admission of the truth of the fact stated, which is conclusive against the pleader. (21 Cal. Jur., sec. 29, p. 51, and sec. 106, p. 155; Code Civ. Proc., sec. 462.)
+Since appellant admits in her answer that she refused to pay the judgment, a demand would have been useless and the law does not require the performance of a useless act. (Northern Light Co. v. Blue Goose Co., 25 Cal. App. 282, 288 [143 Pac. 540]; Cox v. Delmas, 99 Cal. 104 [33 Pac. 836] ; Smith v. Dorn, 96 Cal. 73 [30 Pac. 1024].) If one refuses to pay without a demand, this is a waiver of demand, an act that releases the plaintiff from the necessity of making one. (Ferguson v. Hull, 136 Ind. 339, 348 [36 N. E. 254].)
+The legitimate object of a demand is to enable a party to perform without a suit at law. (Mullally v. Townsend, 119 Cal. 47 [50 Pac. 1066].) It is sometimes unjust and inequitable to subject a defendant to litigation without first notifying him of plaintiff’s claim. (Cox v. Delmas, 99 Cal. 104 [33 Pac. 836].) But where the defendant has refused to pay, the defense of want of demand becomes a technical one; and it has been held that where it is plain from the answer that if a demand had been made it would have been refused, it does not lie in the mouth of an appellant to object that no demand was made. {Turton v. Shinn, 32 Cal. App. 751 [164 Pac. 38]; Ashton v. Dashaway Assn., 84 Cal. 61 [7 L0. R. A. 809, 22 Pac. 660, 23 Pac. 1091]; Parrott v. Byers, 40 Cal. 614.)
+It is equally true that where it is plain from the answer that a demand has been waived, a denial of a demand will not raise an issue and will not constitute facts sufficient to raise a defense.
+There was also a denial in the answer, based on information and belief, that demand was made on the other defendants. But the bond was a joint and several bond; and for the purpose of a judgment against appellant, no demand for payment upon them was necessary. {Ward v. Massachusetts B. & I. Co., 57 Cal. App. 623 [208 Pac. 188] ; 3 Cal. Jur., p. 519.)
+The demurrer was properly sustained. Appellant should have availed herself of the opportunity which the trial court gave her to plead. Upon appeal from a judgment rendered after refusal to amend a pleading to which a demurrer has been sustained, every intendment and presumption not contradicted by or inconsistent with the record on appeal must be indulged in favor of the judgment of the trial court. (2 Cal. Jur., p. 852, and cases cited.)
+The judgment is affirmed.
+Houser, Acting P. J., and York, J., concurred.
