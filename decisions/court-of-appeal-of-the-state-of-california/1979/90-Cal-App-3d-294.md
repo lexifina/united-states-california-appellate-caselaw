@@ -1,0 +1,43 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 53397"
+decided: "1979-03-09"
+citations: ["90 Cal. App. 3d 294"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PACIFIC HOSPITAL OF LONG BEACH, Plaintiff and Respondent, v. JEROME A. LACKNER, as Director, etc., et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/90/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2048526
+cites_cases: ["149 P.2d 19", "5 Cal.2d 103", "53 P.2d 929", "64 Cal.App.2d 522"]
+---
+
+# Pacific Hospital of Long Beach v. Lackner
+
+## Majority (KINGSLEY, Acting P. J.)
+
+Opinion
+KINGSLEY, Acting P. J.
+The Director of the Department, of Health and the department appeal from a summaiy judgment against them in an action involving the Health and Planning Act adopted in 1976. We affirm the judgment.
+On August 5, 1976, petitioner hospital entered into an agreement to acquire the use of a nuclear full-body scanner. Admittedly, the value of that scanner exceeded $500,000. On September 9, 1976, the statute in question came into force. In general, the statute required that no future acquisition of a capital improvement exceeding in value $500,000 could be undertaken except under a permit issued by the department. The present case involves the application of that statute to the transaction herein involved. The department denied a permit; the judgment herein appealed from adjudicated, on a cause of action for declaratory judgment, the statute was inapplicable. We affirm that decision.
+In its appeal, appellant contends: (1) that the agreement was a lease or an agreement comparable to a lease, within the meaning of section 437.10 of the statute; (2) that the hospital had not acquired the scanner prior to the effective date of the act; and (3) that findings of fact made by the trial court are so inconsistent as to require a reversal. Since we conclude that the second and third contentions are without merit, we need not, and do not, determine the correctness of the first contention.
+I
+Under the terms of the agreement herein involved, a corporation known as Nuclear Medical Services, Inc., (Nuclear) agreed to provide a nuclear full-body scanner and the hospital agreed to install the scanner in its hospital and operate it for a period of seven years, dividing equally any profits from the operation. By its terms, the agreement was cancellable by either party on certain conditions, in which case the hospital was required to pay to Nuclear 50 percent of any then outstanding costs to Nuclear regarding the scanner.
+Nuclear purchased the scanner from its manufacturer on September 8, 1976, and it was thereafter delivered to the hospital. The necessary construction work involved in its installation was thereafter completed by the hospital and the scanner is now ready for operation but operation has been postponed pending the present litigation.
+The briefs before us seem to agree that, if the scanner was “acquired” by the hospital prior to September 9, 1976, the statute is not applicable and no permit is required. They differ in the meaning to be attached to that term. The trial court determined that acquisition did predate September 9, 1976, and its judgment is to that effect. We agree.
+The briefs for the appellants appear to contend: (1) that the scanner was not “acquired” until possession was delivered to the hospital; and, or alternatively, that there was no “acquisition” until the hospital had paid the agreed upon consideration—an event which, including the termination clause, might not occur for five or seven years after delivery of possession.
+(1) Contrary to some suggestion in the appellants’ briefs, it is immaterial that Nuclear did not own the scanner on August 5th when the agreement with the hospital was executed. A party may lawfully agree to transfer property that he does not own and be compelled to secure and deliver it. The hospital’s rights as against Nuclear were unaffected by the nonownership on August 5, 1976.
+(2) A lessee, or a purchaser, has “acquired” property as soon as his right to it has become fixed by a final and enforceable agreement. Without exploring all of the dictionary and other definitions to which we are cited in the briefs, we conclude that, once that right has so become fixed, the lessee or purchaser, has “acquired” the property involved, even though transfer of possession is to be delayed or the payment of consideration is also delayed. In the case of ordinary leases, the total consideration is spread over the life of the lease; in most cases of purchase, a substantial balance of the purchase price is deferred and evidenced only by a note payable in the future. We see no difference in the case at bench. The hospital “acquired” the scanner when Nuclear agreed to deliver it and the hospital agreed to pay the agreed consideration. That “acquisition” preceded the effective date of the act by over a month. The trial court’s determination was correct.
+II
+The complaint in this case set forth two inconsistent causes of action. One was in mandate to compel the department to process and grant the hospital’s application for a permit, even though that application had not been filed within the period required by the statute. The other cause of action was in the form of declaratory relief, based, as we have discussed above, on the theory that no permit was required. The case was first heard before Judge Phillips. He severed the two causes of action and made findings of fact and conclusions of law on the mandate cause, denying mandate. In that connection he made the following finding:
+“7. That the petitioner knew or reasonably should have known that the project did come under the purview of Assembly Bill No. 4001.” The cause of action thereafter was heard by Judge Fainer, whose judgment contained the following:
+“After full consideration of moving and responding papers, all supporting papers, and the oral argument of counsel, it appears and the Court finds that Petitioner, Pacific Hospital of Long Beach, by judicial admissions, judicial notice property [j/c] taken, admissible evidence and reasonable inferences from admissible evidence and the findings of fact and conclusions of law entered by the Court on the first cause of action, has shown that there is no defense to the second cause of action for declaratory relief; that the ruling by this Court in granting the summary judgment on the second cause of action is not inconsistent with the Court’s prior ruling on the first cause of action or with the findings of fact and conclusions of law entered in connection therewith; that Defendants, The Director of the Department of Health, State of California; and The Department of Health, State of California, have presented no triable issue of fact, and the Court orders the following judgment:
+“Judgment
+“It Is Adjudged that on the complaint that the provisions of Assembly Bill No. 4001, Chapter 854, Statutes of 1976, and specifically Health and Safety Code Section 437.10, do not apply to Petitioner, Pacific Hospital of Long Beach’s agreement with Nuclear Medico Services, Inc., for the installation of a full-body CT Scanner in Pacific Hospital of Long Beach.”
+Relying on the general rule that, where a judgment rests on inconsistent findings of fact, the judgment must be reversed, appellant here seeks a reversal. But that rule is subject to an important exception. Where one of the two inconsistent findings is without support in the record, an appellate court will strike the unsupported finding and, if the other finding supports the judgment, will affirm. (Wallace Ranch W. Co. v. Foothill D. Co. (1935) 5 Cal.2d 103, 118 [53 P.2d 929]; Mirich v. Underwriters at Lloyd's London (1944) 64 Cal.App.2d 522, 528-529 [149 P.2d 19]; 4 Witkin, Cal. Procedure (2d ed. 1971) Trial, § 344, p. 3146.) In this case, the finding by Judge Phillips above quoted, is, as we have above discussed, legally without foundation and, under the authorities just cited, we strike it.
+The judgment is affirmed.
+Jefferson (Bernard), J., and Alarcon, J., concurred.
+California Statutes 1976, Chapter 854, adding section 437 et seq. to the Health and Safety Code. All statutory references herein are to the sections of that code.
+The amount of the construction cost involved was $49,833.54, bringing that item below the amount required by subdivision (e) of section 437.10 of the code. The contentions here involve only the scanner itself, admittedly involving over the statutory amount.
+In any event, Nuclear owned the scanner one day before the act became effective.
