@@ -1,0 +1,73 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 56221"
+decided: "1979-09-18"
+citations: ["97 Cal. App. 3d 12"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PETER THOMAS, Plaintiff and Respondent, v. DEPARTMENT OF MOTOR VEHICLES, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/97/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999104
+cites_cases: ["11 Cal.3d 28", "112 Cal.Rptr. 805", "147 Cal.Rptr. 354", "263 Cal.App.2d 682", "4 Cal.3d 130", "481 P.2d 242", "520 P.2d 29", "59 Cal.App.3d 293", "70 Cal.Rptr. 1", "82 Cal.App.3d 799", "93 Cal.Rptr. 234"]
+---
+
+# Thomas v. Department of Motor Vehicles
+
+## Majority (ROTH, P. J.)
+
+Opinion
+ROTH, P. J.
+Respondent was stopped by police officers while he was driving his automobile in the early morning hours of January 30, 1978, and was subsequently arrested for violation of Vehicle Code section 23102, subdivision (a) (driving under the influence of intoxicating liquor.) Having failed to submit to any of the chemical tests specified in Vehicle Code section 13353 and having been later advised by appellant of the suspension of his driver’s license, he thereafter was afforded a hearing, all in accordance with subdivisions (a), (b) and (c) of that statute.
+The referee before whom the hearing was held was of the opinion the suspension was improper because the testimony presented was such as to justify the conclusions respondent was initially detained on less than probable cause and therefore was subsequently unlawfully arrested. After its own review of the matter, however, appellant rejected those suggestions, made its own findings to the contrary and upheld the suspension. On respondent’s petition for mandamus pursuant to Code of Civil Procedure section 1094.5, the trial court concluded: “The Court announces its intention to find for Petitioner on the basis of insufficiency of the evidence to sustain Respondent’s findings “A” and “B.” It appears that the Court is bound to apply the substantial evidence test by McGue vs. Sillas, 82 CA (3) 779. Nevertheless, the Court’s view is that under the circumstances of this case, where the Respondent’s own Referee, made “negative findings on reasonable cause and lawful arrest,” which clearly were based upon his determinations of the credibility of Hartz and Petitioner. Respondent’s opposite determination on a cold record does not rest upon substantial evidence. Petition for Writ of Mandate granted. Alternative Writ of Mandate discharged.”
+The appeal challenges the validity of this determination.
+We note at the outset our serious reservations respecting the reasoning and result found in McGue v. Sillas (1978) 82 Cal.App.3d 799 [147 Cal.Rptr. 354], relied upon by the court below. We conclude nevertheless, that however the requirements of Code of Civil Procedure section 1094.5 are or should correctly be understood, the trial court’s determination under the circumstances here present was in error. That is to say, upon the facts contained in this record, whether one’s right to drive a motor vehicle in the State of California be viewed as fundamental, so as to require an independent judicial review of the evidence, or as not fundamental, so as to limit review to the question whether substantial evidence supports the administrative decision, (Strumsky v. San Diego County Employees Retirement Assn., supra, 11 Cal.3d 28; Bixby v. Pierno, supra, 4 Cal.3d 130), is without significance, since under either test the issuance of the writ here was without foundation.
+Evidence from the arresting officer concerning his reasons for stopping respondent consisted of the following:
+[Direct Examination]
+“Ref. Tillema: All right, all right. Fine. Now officer will you tell us why you stopped the vehicle in the first place.
+Off. Knopp: Basically because of the erratic driving and the weaving, westbound on Santa Monica Blvd.
+“Ref. Tillema: All right. What were your observations of this?
+“Off. Knopp: All right. I first observed the defendant’s vehicle, a brown Mercedes, westbound in the # 1 lane west of Fairfax.
+“Ref. Tillema: Ummmm hummn.
+“Off. Knopp: Observed it approximately 35 miles per hour and observed it to weave across the double yellow lines by approximately two feet and jerk the vehicle back into the # 1 lane.
+“Ref. Tillema: Did this happen more than once?
+“Off. Knopp: Yes, it did.
+“Ref. Tillema: How many times did you observe it do you remember?
+“Off. Knopp: From first observation until the stop was two to three over the double yellows.
+“Ref. Tillema: Now what’s the speed limit there?
+“Off. Knopp: Thirty miles an hour.
+“Ref. Tillema: And this occurred at 1:50 you said in the report here. Were there any oncoming cars during this period of observation?
+“Off. Knopp: Yes there were. If I remember correctly it was a weekend night, Friday or Saturday, I’m not sure which one which would preclude ahh—Somewhat heavy traffic, yes.
+“Ref. Tillema: I see, this was the morning of January 30 huh? The night is January 29.
+“Off. Knopp: It was Sunday morning, I think.
+“Ref. Tillema: Sunday morning, yes.
+“Off. Knopp: It would be Saturday night traffic.”
+[Cross Examination]
+“Atty. Manes: O.K. Now when you approached his vehicle sir, oh, by the way on these two occasions that you say he may have gone over the yellow line, double yellow line, it was a matter of only a foot or two is that right sir?
+“Off. Knopp: That’s approximately two feet, yes on both occasions.
+“Atty. Manes: All right. And on both occasions he would jerk back into the former lane is that right sir?
+“Off. Knopp: Well on the first occasion yes he jerked back. On the second occasion he changed lanes from the westbound #2 across the # 1, across the double yellows and then jerked back.”
+The only testimony tending to dispute these observations was that of respondent to the effect:
+“Ref. Tillema: Do you remember any particular times when your left wheels were across the center line?
+“Mr. Thomas: No, I don’t.”
+By any adequate measure and no matter how generously this ambiguous disclaimer is treated, we deem it insufficient to obviate otherwise uncontroverted evidence of the fact respondent was observed to engage in such actions as would have justified his initial detention. Beyond this, the record is clear that respondent’s breath contained the odor of alcohol, that his reactions to five different field sobriety tests were unsatisfactory, that his eyes were bloodshot and his speech slow and slurred, and that, by his own admission, he had previously in the evening consumed “a couple of beers.”
+Under such circumstances, we conclude appellant’s findings in support of its suspension of respondent’s license were not subject to judicial modification by either standard of review referred to above.
+Nor is this conclusion varied by the suggestion that because the referee appointed to conduct the section 13353 hearing rejected the testimony of the arresting officer, his findings were binding upon appellant. On the contrary, the ability and the requirement for appellant’s making its own determination are established both by case law and statute. (Serenko v. Bright (1968) 263 Cal.App.2d 682 [70 Cal.Rptr. 1]; Veh. Code, §§ 14109, 14110.)
+The judgment appealed from is reversed.
+Fleming, J., and Compton, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied November 15, 1979.
+The subdivisions provide in pertinent part:
+“(a) Any person who drives a motor vehicle upon a highway shall to given his consent to a chemical test of his blood, breath or urine for the purpose of determining the alcoholic content of his blood if lawfully arrested for any offense allegedly committed while the person was driving a motor vehicle under the influence of intoxicating liquor. The test shall be incidental to a lawful arrest and administered at the direction of a peace officer having reasonable cause to believe such person was driving a motor vehicle upon a highway while under the influence of intoxicating liquor. Such person shall be told that his failure to submit to or complete such a chemical test will result in the suspension of his privilege to operate a motor vehicle for a period of six months. . . .
+“(b) If any such person refuses the officer’s request to submit to, or fails to complete, a chemical test, the department, upon receipt of the officer’s sworn statement that he had reasonable cause to believe such person had been driving a motor vehicle upon a highway while under the influence of intoxicating liquor and that the person had refused to submit to, or failed to complete, the test after being requested by the officer, shall suspend his privilege to operate a motor vehicle for a period of six months. . . .
+“(c) The department shall immediately notify such person in writing of the action taken and upon his request in writing and within 15 days from the date of receipt of such request shall afford him an opportunity for a hearing in the same manner and under the same conditions as provided in Article 3 (commencing with Section 14100) of Chapter 3 of this division. For the purposes of this section the scope of the hearing shall cover the issues of whether the peace officer had reasonable cause to believe the person had been driving a motor vehicle upon a highway while under the influence of intoxicating liquor, whether the person was placed under arrest, whether he refused to submit to, or failed to complete, the test after being requested by a peace officer, and whether,... he had been told that his driving privilege would be suspended if he refused to submit to, or failed to complete the test.”
+The statute provides in pertinent part:
+“(a) Where the writ is issued for the of inquiring into the validity of any final administrative order or decision made as the result of a proceeding in which by law a hearing is required to be given, evidence is required to be taken and discretion in the determination of facts is vested in the inferior tribunal, corporation, board or officer, the case shall be heard by the court sitting without a jury. All or part of the record of the proceedings before the inferior tribunal, corporation, board or officer may be filed with the petition, may be filed with respondent’s points and authorities or may be ordered to be filed by the court. . . .
+“(b) The inquiry in such a case shall extend to the questions whether the respondent has proceeded without, or in excess of jurisdiction; whether there was a fair trial; and whether there was any prejudicial abuse of discretion. Abuse of discretion is established if the respondent has not proceeded in the manner required by law, the order or decision is not the or the are not the evidence.
+“(c) Where it is claimed that the findings are not supported by the evidence, in cases in which the court is authorized by law to exercise its independent judgment on the evidence, abuse of discretion is established if the court determines that the findings are not supported by the weight of the evidence; and in all other cases, abuse of discretion is established if the court determines that the findings are not supported by substantial evidence in the light of the whole record.”
+In McGue it was held a driver’s license, while constituting a vested right when once obtained, is nevertheless not a fundamental right as contemplated by Bixby v. Pierno (1971) 4 Cal.3d 130 [93 Cal.Rptr. 234, 481 P.2d 242] and Strumsky v. San Diego County Employees Retirement Assn. (1974) 11 Cal.3d 28 [112 Cal.Rptr. 805, 520 P.2d 29] because:
+“In weighing the relative importance to individuals in the life situation, we are of the opinion that the public’s interest in strict enforcement of traffic laws designed to eliminate drunken driving far outweighs the right of an individual to drive. (Cf. Mobil Oil Corp. v. Superior Court (1976) 59 Cal.App.3d 293, 305 . . . .) Enforcement of this rule does not effectively deny an individual transportation, not even by private automobile. At most, it puts an economic burden on him by requiring that he use other means of transportation. The resulting expense and inconvenience are not sufficient to raise the right to drive to the stature of a fundamental right.” (Fn. omitted.) (McGue v. Sillas (1978) 82 Cal.App.3d 799, 805 [147 Cal.Rptr. 354].)
+In our opinion this formulation of the test whereby fundamental rights are determined is misconceived. While the weighing process described may well be appropriate in limiting or divesting such a right, it would not seem germane to its ascertainment. Stated otherwise, how is the fact there may be conflicting interests involved with any given “right” relevant to the basic question dealt with in Bixby and Strumsky, i.e., whether abrogation of the right is too important to the individual to relegate it to exclusive administrative extinction. (See Bixby v. Pierno, supra, 4 Cal.3d 130 at pp. 144-147; Strumsky v. San Diego County Employees Retirement Assn., supra, 11 Cal.3d 28 at pp. 34, 45.)
+When a right is fundamental and vested, Bixby and its progeny define the procedure for divestment or other limitation of any such rights. The procedure so defined does not contain any exception for a variance of such procedure to revocation of a license to drive because of “the public’s interest in the strict enforcement of traffic laws ....”
+The sections provide respectively: (§ 14109) “Upon the conclusion of a formal hearing the referee or board shall make findings on the matters under consideration and may prepare and submit recommendations to the director.”
+(§ 14110) “The director, or an employee at or above the level of assistant division chief of the Department of Motor Vehicles designated by the director to act on his behalf, following a formal hearing, upon review of the records, evidence, and of the findings, if any, shall render his decision concerning the refusal to issue or renew a driver’s license, the imposing of terms or conditions of probation, or concerning the suspension or revocation of the privilege of operating a motor vehicle, or in those cases in which an action has been previously taken by the department, the director, or his designee shall render his decision sustaining, modifying, or reversing the order of suspension or revocation or the refusal to issue a license or the order imposing terms or conditions of probation, or he may set aside the prior action of the department and direct that probation be granted to the applicant or licensee and fix the terms and conditions of the probation.”
