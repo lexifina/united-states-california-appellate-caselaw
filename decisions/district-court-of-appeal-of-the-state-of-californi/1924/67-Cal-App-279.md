@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4778"
+decided: "1924-05-15"
+citations: ["67 Cal. App. 279"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY J. E. HILL-TELLMAN, Appellant, v. MUSICIANS’ UNION OF SAN FRANCISCO et al., Respondents."]
+source_url: "https://static.case.law/cal-app/67/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2145768
+cites_cases: ["12 N. J. L. 36", "120 Pac. 780", "14 Cal. 479", "16 Cal. 208", "162 Cal. 14", "52 Cal. 132"]
+---
+
+# Hill-Tellman v. Musicians' Union
+
+## Majority (LANGDON, P. J.)
+
+LANGDON, P. J.
+This is an appeal by the plaintiff from a judgment against her after a demurrer had been sustained to her petition for a writ of review, without leave to amend. Plaintiff sought to have a writ of review issue from the superior court of the state of California, in and for the city and county of San Francisco, directed to the defendants, Musicians’ Union of San Francisco, an unincorporated volunteer association, and certain of its officers, for the purpose of inquiring into the action of defendants in imposing a fine upon plaintiff. She alleged that the fine was imposed after her resignation from the Musicians’ Union, but does not seek reinstatement therein nor claim to be a member of such Union. She prayed that the judgment and penalty imposed upon her by said defendants be vacated and annulled.
+Defendant demurred and moved to quash the alternative writ issued at the time of the filing of the petition. The demurrer was sustained and the motion granted and judgment for costs entered in favor of the defendants.
+The action of the trial court was based upon the ground that writs of review issue only to governmental bodies and not to voluntary unincorporated associations such as the Musicians’ Union. No authority is cited by the appellant to contradict this holding, and, as pointed out by the learned trial court, the cases relied upon deal with boards or officers acting as public agents and invested by law with judicial or q-itasi-judicial authority in the administration of the business of the state or a political subdivision thereof. No case has been cited which authorizes a writ of certiorari when complaint is made of the action of a private association such as the organization involved here. We disagree with appellant in her contention that this fact is without significance in the absence of a direct holding in the state denying the writ under such circumstances. We think the absence of any instance in this state or elsewhere of the issuance of this writ against a nongovernmental body indicates that the writ is not the proper remedy in such situations. In the case of Whitehead v. Gray, 12 N. J. L. 36, the supreme court of New Jersey denied the issuance of a writ to review the proceedings of private arbitrators saying: “There is no precedent of such a certiorari, in this court; in the other states of the Union; or in the English reports, so far as I am able to learn, either from my own researches or from the brief of the plaintiff’s counsel. Hence a very cogent and almost irresistible argument results against the present employment of this writ. So frequent here and elsewhere are arbitrations; so numerous are awards; so invariably is the losing party dissatisfied; so commonly are the very complaints made which are here urged; so usual is it for the unsuccessful litigant to suppose, and oftentimes most sincerely, that the arbitrators have done too little for him and too much against him; and the common modes of redress against awards are deemed so arduous and straitened, that we may presume, if not conclude, the omission to use the writ of certiorari, is from the conviction of the profession, that it cannot lawfully be done. In The King v. Whitbread, Doug. 589, Lord Mansfield said: ‘Though great industry has been employed, no case was produced in which a certiorari has been granted to remove proceedings before the commissioners of excise. This circumstance alone affords strong ground to suspect that none is grantable.’ ”
+In the case of Whitney v. The Board, 14 Cal. 479, cited by appellant, it was said, with reference to the propriety of the issuance of a writ of review: “The only question is, does the body whose acts are to be reviewed, exercise judicial functions under the constitution and laws, of the state?”
+In the case of Spring Valley Water Works v. The Board of Supervisors, 52 Cal. 132, 137, the court said: “Prom the foregoing and other cases heretofore decided, it sufficiently appears that it has always been considered by this court that the office of certiorari is to bring here for review the proceedings of governmental boards exercising a mixed authority only when the matter is one in which they have acted judicially.”
+In the case of Imperial Valley Water Co. v. Supervisors, 162 Cal. 14 [120 Pac. 780], a writ was issued to review the acts of the board of supervisors in the organization of an irrigation district. It was there said: “Although such boards do not have the character of an ordinary court of law or equity, they frequently are required to exercise judicial functions in the course of the duties enjoined upon them. In Robinson v. Board, 16 Cal. 208, the court says: ‘It is sufficient if they are invested by the legislature with power to decide on the property or rights of the citizens. In making their decision they act judicially whatever may be their public character.’ ... It is sufficient to come within the purview of the writ if such proceedings are of a judicial nature and are exercised by a quasi-judicial body. ’ ’
+It appearing from the foregoing authorities that the plaintiff has mistaken her remedy, it becomes unnecessary for us to consider the further question discussed by the parties with reference to the adequacy of plaintiff's remedy at law.
+The judgment and orders appealed from are affirmed.
+Sturtevant J., and Nourse, J., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on July 14, 1924.
+All the Justices concurred, except Sturtevant, J., pro tem., who did not participate.
