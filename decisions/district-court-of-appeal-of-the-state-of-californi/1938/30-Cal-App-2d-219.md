@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10834"
+decided: "1938-12-29"
+citations: ["30 Cal. App. 2d 219"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JULIA MARTIN et al., Respondents, v. FRANCIS T. DONOHUE, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/30/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038510
+cites_cases: ["1 Cal. App. (2d) 737", "125 Cal. App. 410", "13 Pac. (2d) 986", "37 Pac. (2d) 97", "46 Cal. 26"]
+---
+
+# Martin v. Donohue
+
+## Majority (KNIGHT, J.)
+
+KNIGHT, J.
+An automobile driven by the defendant Francis T. Donohue collided with one driven by Albert Martin at the intersection of Flournoy Street and San Jose Avenue in Daly City, San Mateo County, as the result of which Martin was fatally injured and died the following day. He was survived by a widow and an infant son, and they joined in bringing this action for damages against Donohue, alleging that the collision was proximately caused by his negligence. Upon trial a jury returned a verdict in favor of plaintiffs for $2,500, and judgment was entered accordingly. Deeming the amount of the award grossly inadequate, plaintiffs moved for a new trial on several statutory grounds, including insufficiency of the evidence; and the trial court granted their motion, vacated those portions of the verdict and judgment determining the amount of damages, and limited the retrial to the issue of damages alone. From the orders so made defendant took this appeal, it being contended in support thereof that the trial court abused its discretion in granting a new trial, and especially in limiting the retrial to the issue of damages alone. There is no merit in the contention.
+As to the law of the case, it is well settled that where the amount of damages awarded is grossly inadequate the trial court may, as' it did here, grant a new trial upon the ground of insufficiency of the evidence (20 Cal. Jur. 104), and under the authority conferred by section 657 of the Code of Civil Procedure may limit the retrial to the issue of damages alone. Among the many cases so holding are Amore v. Di Resta, 125 Cal. App. 410 [13 Pac. (2d) 986] ; Rigall v. Lewis, 1 Cal. App. (2d) 737 [37 Pac. (2d) 97]; Mariani v. Dougherty, 46 Cal. 26.
+Here the record discloses the following facts -. At the time of Martin’s death he was 24 years of age, his wife was 20, and their infant son only four months. The decedent had always enjoyed excellent health, and was steadily employed as a boiler maker’s helper at a salary of $27 a week, or $1404 a year. His life expectancy was practically forty years, and his earning capacity was steadily increasing, his wages having been raised only a short time before he met his death. He lived with his family, maintained a good home, turned over his weekly pay check to his wife, and according to the testimony was a kind and affectionate husband and father. Neither before nor after marriage was Mrs. Martin engaged in any gainful occupation. It was stipulated at the trial that the expenses for decedent’s funeral amounted to more than $475. Therefore, taking into consideration the decedent’s earning capacity, his life expectancy, the right of his wife and child to his support, and the several other elements of damage necessarily involved in an action of this kind, it is quite evident that there is no ground upon which it may be held as a matter of law that the trial court abused its discretion in declaring that an award of damages of $2,500 under the circumstances was entirely inadequate, and in granting a new trial for that reason.
+Defendant contends, however, that before a trial court is justified in granting a new trial upon the ground of insufficiency of evidence, based on inadequacy of damages, and in limiting the retrial to the question of damages alone, it must consider not only the evidence relating to the issue of damages, but also all evidence bearing upon the question of liability, for the purpose of ascertaining whether the verdict as rendered was in fact a compromise verdict and consequently not a real determination of either the issue of damages or liability; and that if it reasonably appears that it was a compromise verdict and a new trial is granted, it is an abuse of discretion to limit the retrial to the issue of damages alone. Assuming that such is the law, there is nothing in the record in the present ease to warrant the belief that this was a compromise verdict. Quite to the contrary, there is an abundance of evidence supporting the conclusion reached by the jury and the trial court that defendant’s negligence was the sole proximate cause of the accident which resulted in Martin’s death. It cannot be fairly held on appeal, therefore, that in limiting the retrial to the issue of damages alone, there was an arbitrary refusal on the part of the trial court to exercise a reasonable discretion.
+The orders appealed from are affirmed; and the motion heretofore made by plaintiffs to dismiss the appeal or affirm the judgment upon the ground that the appeal was taken merely for delay, is dismissed.
+Tyler, P. J., and Cashin, J., concurred.
