@@ -1,0 +1,41 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12363"
+decided: "1943-06-26"
+citations: ["59 Cal. App. 2d 402"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ETHEL M. SCHOLEY, Respondent, v. MARSHALL STEELE, JR., Appellant."]
+source_url: "https://static.case.law/cal-app-2d/59/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2352496
+cites_cases: ["1 Cal.2d 625", "107 Cal.App. 662", "119 Conn. 398", "120 N.J.L. 94", "123 A.L.R. 863", "124 Cal. 520", "125 Conn. 515", "125 P.2d 626", "128 N.J.L. 79", "128 Neb. 590", "129 N.E. 433", "13 Cal.2d 1", "161 So. 686", "173 Miss. 343", "177 A. 262", "180 P. 837", "198 A. 375", "237 Mass. 249", "237 Wis. 117", "24 A.2d 198", "259 N.W. 512", "290 P. 660", "295 N.W. 14", "36 P.2d 618", "4 P. 1188", "40 Cal.App. 383", "51 Cal.App.2d 623", "57 P. 567", "66 Cal. 182", "7 A.2d 215", "87 P.2d 830"]
+---
+
+# Scholey v. Steele
+
+## Majority (DOOLING-, J. pro tem.)
+
+DOOLING-, J. pro tem.
+Defendant Marshall Steele, Jr., appeals from a judgment for $500 rendered against him for personal injuries suffered by the plaintiff. The plaintiff’s injuries were caused by a fall from the front steps of a dwelling house of which appellant is the owner and Mrs. Mary Enos the tenant under a month to month tenancy. The fall was caused by the giving way of a decayed step and railing. The trial court found that as one of the terms of the tenancy appellant had covenanted through his agent E. E. Webster, Inc., to assume the ordinary upkeep, maintenance and repair of the premises and that he knowingly, negligently and carelessly failed and neglected to make ordinary and necessary repairs to the steps.
+This finding is attacked as being without support in the evidence. The tenant testified that when she first rented the premises through E. E. Webster, Inc., she was told “that they would repair it whenever it should need anything”; that subsequently at her request the roof, drain board, wash trays, pipes, lavatories, sink, garage and windows had been repaired from time to time; and that she had requested B. E. Webster, Ine., to repair the steps and railing on several occasions and they had promised to do so. The house at the beginning of the tenancy was not owned by appellant but when he acquired it in 1936 the month to month tenancy was not interrupted and E. E. Webster, Inc., as real estate agent, continued to look after the premises and collect the rents as before. Appellant gave the following testimony:
+“Q. Mr. Webster (of E. E. Webster, Inc.) was authorized to make whatever repairs were necessary, isn’t that correct?
+“A. I have to qualify my answer on him to this extent, any minor repairs, yes; involving a substantial outlay of capital, no, not without my' consultation. . . .
+“Q. He services that for you and acts as your agent, isn’t that correct?
+“A. Yes.”
+Respondent attempted to prove that these were minor repairs, costing when afterwards made only about $13. Appellant objected to this proof on the ground that it was incompetent, irrelevant and immaterial, and his objection was sustained.
+The evidence is sufficient to .support the finding attacked. The promise “to repair it whenever it would need anything” is sufficiently definite to support the finding that the owner covenanted to assume the ordinary upkeep, maintenance and repair of the premises, particularly in view of the subsequent conduct of the landlord in making the repairs shown by the evidence. As said by the Supreme Judicial Court of Massachusetts in Crowe v. Bixby, 237 Mass. 249 [129 N.E. 433, 435], in construing a promise “to keep the place in repair and safe to live in”;
+“Where the language of a contract is open to doubt and the parties to it have adopted and acted upon a particular construction, such construction will be considered as of great weight by the court and will usually be adopted by it. ’ ’
+The authority of Webster to make minor repairs was established by appellant’s own testimony and, after shutting out the offer to prove that the repairs in question were minor, appellant is in no position to claim on this appeal that they were not. The fact that appellant acquired the property after the inception of the tenancy is immaterial. He took it subject to the terms of the existing lease and although it was in his power to change those terms by written notice (Civ. Code, § 827) he did not avail himself of that right.
+In giving judgment against the landlord the trial court followed the rule laid down in the Restatement of the Law of Torts, volume II, section 357. The law in California is not settled by any controlling decision on the question here involved, whether a landlord who has covenanted to repair the leased premises is liable in tort for negligent failure to do so. There are dicta in Jessen v. Sweigert, 66 Cal. 182 [4 P. 1188] and Runyon v. City of Los Angeles, 40 Cal.App. 383 [180 P. 837] that “If the owner had covenanted with her tenant to keep the premises in repair, any one injured by reason of her failure to do" so might have maintained an action against her or the tenant. ’ ’
+There is respectable authority pro and contra elsewhere in the courts of this country, the rule announced in section 357, Restatement of Torts being followed in the following cases, among others: Dean v. Hershowitz, 119 Conn. 398 [177 A. 262]; Hodges v. Hilton, 173 Miss. 343 [161 So. 686]; Baum v. Bahn Frei Mut. Bldg. & Loan Assn., 237 Wis. 117 [295 N.W. 14]; Fried v. Burhmann, 128 Neb. 590 [259 N.W. 512] ; Watkins v. Feinberg, 128 N.J.L. 79 [24 A.2d 198]; Granato v. Howard Sav. Institution, 120 N.J.L. 94 [198 A. 375].
+In the absence of controlling California authority to the contrary our Supreme Court has followed the restatement in Canfield v. Security-First Nat. Bank, 13 Cal.2d 1, 20-31 [87 P.2d 830]. (See, also, Speck v. Wylie, 1 Cal.2d 625, 627-8 [36 P.2d 618].) We are satisfied to do so in this instance.
+In so holding we limit ourselves to the case of an express covenant to make the repairs included in the terms of the lease or otherwise supported by consideration. The rule is settled otherwise in this state in the case of the statutory duty to repair under sections 1941, 1942, Civ. Code (Gately v. Campbell, 124 Cal. 520, 523 [57 P. 567]) and in the case of a mere promise to repair unsupported by consideration (Dorswitt v. Wilson, 51 Cal.App.2d 623 [125 P.2d 626]).
+It is further argued, because of the language used in some of our decisions that an invitee to the premises “stands in the shoes of the tenant, and therefore may not recover if the tenant cannot” (Runyon v. City of Los Angeles, supra), that plaintiff is barred from recovery by Mrs. Enos’ negligence.
+It may be doubted whether the statement that the invitee stands in the shoes of the tenant is intended to be so sweeping as to impute the tenant’s negligence to his invitee. Rather it would seem to be a catch phrase to indicate that the duty owed to the invitee by the landlord is identical with the duty owed by him to the tenant. The Supreme Court of Connecticut expressed this view in Webel v. Yale University, 125 Conn. 515 [7 A.2d 215, 123 A.L.R. 863] saying at p. 217 [A.2d] :
+“. . . it certainly is not just to charge one who visits the premises at the invitation of the tenant with the knowledge which the tenant has or with which he is chargeable when the invitee may have neither actual notice nor, upon the facts known or reasonably observable by him, be chargeable with notice. ’ ’
+Furthermore, even if the doctrine of imputed negligence is applicable, it would still present a question of fact for the trial court as to whether a person of ordinary prudence with the tenant’s knowledge would continue to use the steps. (Watkins v. Feinberg, supra, 128 N.J.L. 79 [24 A.2d 198]; Baum v. Bahn Frei Mut. Bldg. & Loan Assn., supra, 237 Wis. 117 [295 N.W. 14, 17] ; Finch v. Willmott, 107 Cal.App. 662 [290 P. 660] ; Restatement of the Law Torts, vol. II, § 360, illustration 2).
+The judgment is affirmed.
+Nourse, P. J., and Spence, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied August 23, 1943.
