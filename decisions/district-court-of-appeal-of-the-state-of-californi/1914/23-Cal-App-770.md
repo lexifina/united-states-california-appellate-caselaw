@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 470"
+decided: "1914-02-06"
+citations: ["23 Cal. App. 770"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JAMES E. HUNT, Appellant."]
+source_url: "https://static.case.law/cal-app/23/cases/0770-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452452
+---
+
+# People v. Hunt
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+The defendant was charged by information with the crime of forgery. He was tried and convicted. This appeal is from the judgment and from an order denying his motion for a new trial.
+The defendant contends that the evidence is insufficient to support the verdict. This contention is based on the theory that while the evidence may be sufficient to show that the check described in the information was forged, it does not sustain the finding of the jury that it was uttered by the defendant with knowledge that it was forged.
+The check was for the sum of fifty dollars, and was made payable to “Cash.” It purported to have been made by one E. R. Hayden, but the signature was forged. When the check was presented to the paying teller of the bank on which it was drawn, it being what is known as a “cash check,” it was promptly paid without the requirement of identification, notwithstanding that the person presenting it was a stranger to the teller. There was, however, something about the transaction that aroused a slight suspicion in the mind of this official concerning the regularity of the matter, so that when a little later in the afternoon E. R. Hayden came into the bank, he called Hayden’s attention to the check, who at once characterized the paper as a forgery. The description of the man who cashed the check, given by the paying teller, fitted in a general way the defendant, who had desk room in Hayden’s office. Hayden immediately went to his office; and on examining his desk found that several blank checks had been extracted therefrom, one of which bore the number of the check here involved. The next day, on being requested by Hayden for a small loan, defendant said that he had but a few cents on his person; but on being searched by the detective who was within call, it was disclosed that he had two twenty dollar pieces, a five dollar piece and three dollars in silver coin. The check had been paid by the teller of the bank with two twenty dollar pieces, one five dollar piece, four silver dollars and two half dollars; so that the amount of money thus found on the defendant was made up of coins of exactly the same denomination (allowance being made for the difference of two dollars .in the amount) as the sum paid by the bank teller on the forged cheek on the previous day. The paying teller identified the defendant as the person who cashed the cheek. The evidence further showed that the defendant was in straitened circumstances, being behind with his rent to Mr. Hayden and his telephone bill, which he had not paid, notwithstanding a demand therefor.
+We think that the appellant’s contention that the evidence is insufficient to sustain the verdict, in that there is no evidence of knowledge on the part of the defendant of the spurious character of the check, cannot be sustained. We are free to say that the case against him is by no means strong; but we cannot hold that it is insufficient to support the verdict. We think the identity of denomination of the money found on the person of the defendant with that by which the check was paid on the previous day is highly significant, and went far to corroborate the testimony i f the paying teller that the defendant was the man to whom he had paid the money. The assertion may be ventured that if the amount of money on each of ten thousand persons taken at random were examined, probably not one would be found having upon his person the sum found upon the defendant, made up of coins of given denominations, unless a few hours previously such person had received approximately the same amount of money composed of coins of those given denominations. The defendant’s denial of having money on his person except a few cents may also be regarded as not without significance; for a person who has obtained property illegally is quite likely to wish to conceal it, even though the nature of the property be such as not to afford very conclusive evidence of guilt. These circumstances ‘ no doubt went far toward satisfying the jury that the paying teller’s testimony was true. Being satisfied on this point, they no doubt regarded the defendant’s denial of cashing the check as false, and in itself indicative of guilty knowledge on his part of the spurious character of the check.
+The contention is also made by the appellant that the court was in error in refusing, as it is claimed, to hear argument by his counsel as to the insufficiency of the evidence on the motion for new trial; and also erred to the prejudice of the defendant in not granting his motion for new trial on the ground of newly discovered evidence. We have examined both these points, and find no occasion for discussing them, as they are without substantial merit.
+The judgment and order are affirmed.
+Lennon, P. J., and Richards, J.;, concurred.
