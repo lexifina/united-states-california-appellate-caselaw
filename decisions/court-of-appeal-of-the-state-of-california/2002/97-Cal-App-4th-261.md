@@ -1,0 +1,42 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A094922"
+decided: "2002-03-29"
+citations: ["97 Cal. App. 4th 261"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARDA WONG, Plaintiff and Appellant, v. THRIFTY CORPORATION et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/97/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1066692
+cites_cases: ["109 Cal.Rptr.2d 442", "113 Cal.Rptr.2d 579", "155 Cal.App.3d 997", "17 Cal.4th 599", "177 Cal.App.3d 181", "202 Cal.Rptr. 484", "223 Cal.Rptr. 32", "64 Cal.App.4th 698", "71 Cal.Rptr.2d 830", "75 Cal.Rptr.2d 376", "90 Cal.App.4th 919", "93 Cal.App.4th 986", "951 P.2d 399"]
+---
+
+# Wong v. Thrifty Corp.
+
+## Majority (REARDON, Acting P. J.)
+
+Opinion
+REARDON, Acting P. J.
+The attorney fee provision at issue in this case provided for payment of reasonable fees to lessor in an enforcement action in which it was “determined” that lessees were in default. Judgment below was entered in favor of appellant Harda Wong, successor lessor under a commercial lease, after he accepted lessees’ Code of Civil Procedure section 998 (section 998) offer to compromise. He challenges the trial court’s denial of his attorney fees, arguing that the contractual fee provision conflicts with the purposes and provisions of Civil Code section 1717 (section 1717). We agree and accordingly reverse the judgment.
+I. Background
+In June 1979 Rite Aid, as tenant, entered into a 20-year lease with Arthur and Gladys Nearon for retail space in the shopping center located at 122 Peabody Road, Vacaville. Wong ultimately succeeded as lessor under the lease when he purchased the property in 1996.
+Rite Aid vacated the premises and in August 1999 the parties’ joint inspection of the property revealed substantial damages. Wong submitted a letter to Rite Aid detailing $73,188.59 in repairs. Upon receiving Rite Aid’s offer of $8,794.09, Wong sued for breach of contract and breach of statutory duty.
+Wong included a prayer for attorney fees in his complaint. The lease specifically provided: “If Lessee shall be in default in the performance of any of its obligations under this lease and an action shall be brought for the enforcement thereof in which it shall be determined that Lessee was in default, Lessee shall pay to Lessor the expenses incurred in connection therewith including reasonable attorneys’ fees.”
+Thereafter, Rite Aid served Wong with a statutory offer to compromise in the amount of $35,000. The offer included costs and attorney fees. Rejecting the offer, Wong informed Rite Aid that his attorney fees alone exceeded the amount of the offer.
+Rite Aid served a new offer in the amount of $43,600. That offer was silent as to fees and costs. Wong accepted and judgment was entered accordingly.
+The trial court entered a tentative ruling awarding Wong $131,062.50 in fees and $6,145.75 in costs, but ultimately denied Wong’s motion for attorney fees. This appeal followed.
+II. Discussion
+Section 1717, subdivision (a) provides in part: “In any action on a contract, where the contract specifically provides that attorney’s fees and costs, which are incurred to enforce that contract, shall be awarded either to one of the parties or to the prevailing party, then the party who is determined to be the party prevailing on the contract. . . shall be entitled to reasonable attorney’s fees in addition to other costs.” In such an action, a party who accepts a section 998 offer may recover attorney fees under section 1717, as an item of costs after judgment, where the compromise agreement is silent on costs and fees. (Lanyi v. Goldblum (1986) 177 Cal.App.3d 181, 182 [223 Cal.Rptr. 32]; see Ritzenthaler v. Fireside Thrift Co. (2001) 93 Cal.App.4th 986, 989 [113 Cal.Rptr.2d 579].)
+The attorney fee language here provided for fees in the event an action was brought to enforce the lease and it was “determined” that lessee was in default. Rite Aid has argued consistently that Wong had no right to fees because the section 998 judgment did not constitute a determination that it was in default under the lease. Denying a fee award, the trial court was swayed by the holding of Milicevich v. Sacramento Medical Center (1984) 155 Cal.App.3d 997, 1004 [202 Cal.Rptr. 484], that a section 998 agreement “does not as such constitute an adjudication of either liability or damages.”
+Under the trial court’s analysis, short of going to trial and winning, lessor cannot recoup attorney fees under the lease and is not the prevailing party for purposes of an attorney fee award pursuant to section 1717. However, section 1717, subdivision (b)(1) defines prevailing party as “the party who recovered a greater relief in the action on the contract.” This definition is mandatory and cannot be avoided or altered by contract; contractual provisions conflicting with it are void. (See Santisas v. Goodin (1998) 17 Cal.4th 599, 615-617 [71 Cal.Rptr.2d 830, 951 P.2d 399] (Santisas); Exxess Electronixx v. Heger Realty Corp. (1998) 64 Cal.App.4th 698, 707 [75 Cal.Rptr.2d 376].)
+In both Santisas and Exxess, the contract actions had been dismissed, thus bringing into play section 1717, subdivision (b)(2) which states: “Where an action has been voluntarily dismissed or dismissed pursuant to a settlement of the case, there shall be no prevailing party [on the contract] for purposes of this section.” As our Supreme Court in Santisas explained, the legislative history of section 1717 reflects an intent “to establish uniform treatment of fee recoveries in actions on contracts containing attorney fee provisions and to eliminate distinctions based on whether recovery was authorized by statute or by contract. A holding that in contract actions there is still a separate contractual right to recover fees that is not governed by section 1717 would be contrary to this legislative intent.” (Santisas, supra, 17 Cal.4th at p. 616.) Moreover, such a holding would, in the case of voluntary dismissals, defeat the purpose of section 1717 to assure mutuality of remedy for attorney fee claims based on contractual attorney fee provisions. This is because the right to recover fees would be governed entirely by contract law and would result in exactly the sort of one-sided enforcement of contractual provisions that section 1717 sought to avoid. (Santisas, supra, 17 Cal.4th at pp. 616-617.)
+Similarly, a ruling that parties can contractually preclude fee awards when the action on the contract results in settlement as opposed to an adjudication of liability would (1) result in uneven treatment of fee recoveries in actions on contracts and (2) create distinctions based on whether recovery was authorized by statute or contract. Moreover, such a holding would relegate the right to recover fees solely to the arena of contract law, which would negate the fundamental purpose of the statute.
+Wong is entitled to reasonable attorney fees because the conditions of section 1717 have been met: There was an action on the contract; the contract provided that fees incurred to enforce the contract be awarded to one of the parties (in this case, the lessor); and Wong—who recovered greater relief in the action—clearly was the party who prevailed on the contract. Language in the attorney fee provision that conflicts with the prevailing party definition is void. (See Santisas, supra, 17 Cal.4th at p. 617; see also Fairchild v. Park (2001) 90 Cal.App.4th 919, 929 [109 Cal.Rptr.2d 442].) By confining entitlement to attorney fees to those who prevail upon a “determination” of liability, the attorney fee clause conflicts with the section 1717 definition of “prevailing party.” To give it effect would thwart the statutory purpose.
+III. Disposition
+The judgment is reversed and remanded for determination of reasonable attorney fees. Wong to receive costs on appeal.
+Sepulveda, J., and Rivera, J., concurred.
+Lessees, respondents herein, are Thrifty Corporation, Thrifty Payless, Inc., and Rite Aid Corporation (hereafter Rite Aid).
+Wong holds the property as Trustee for The Wong 1992 Family Trust.
+Milicevich v. Sacramento Medical Center, supra, 155 Cal.App.3d 997 is inapplicable because it did not address attorney fees under section 1717 and did not hold that such fees were unavailable in the context of a section 998 offer to compromise.
