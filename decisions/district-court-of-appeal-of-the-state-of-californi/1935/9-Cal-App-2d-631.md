@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9694"
+decided: "1935-11-01"
+citations: ["9 Cal. App. 2d 631"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRANT CARVER, Respondent, v. ABE DONIN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/9/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2261455
+cites_cases: ["103 Cal. App. 124", "121 Cal. App. 198", "283 Pac. 958", "8 Pac. (2d) 883"]
+---
+
+# Carver v. Donin
+
+## Majority (SHINN, J., pro tem.)
+
+SHINN, J., pro tem.
+Appeal by defendant Abe Donin, operator of an automobile, from a judgment in plaintiff's favor resulting from a motor vehicle collision on a highway.
+The evidence in the case was such as to justify the trial court in finding the following facts to be established: that plaintiff, a member of the state highway motor patrol, was riding his official motorcycle northerly upon a highway between the cities of Long Beach and Los Angeles escorting an automobile, in which professional men were riding to Los Angeles to obtain surgical supplies for use among persons, who that evening had been injured by reason of an earthquake shock. The time was after dark and a red and a white light were burning on the motorcycle and the siren was being sounded. The speed was not over thirty-five miles per hour. Plaintiff swerved his motorcycle to the left or westerly side of the highway, in order to go around a barricade that had been erected around a crack across the easterly twenty feet of the pavement that had been caused by the earthquake. This barricade, consisting of barrels and boxes, and lighted with four red lanterns, extended from the center of the pavement to its easterly edge. Plaintiff’s motorcycle was struck head-on by defendant’s automobile traveling south, a coupe with four persons in a single seat. The highway was wide and defendant driver had ample room to his right, but instead of driving toward the.outer or west edge of the highway, he approached along the middle thereof and, according to some of the testimony, he swerved his car to the left or toward plaintiff’s motorcycle immediately before the collision. There were patches of fog along the highway, but at the point of collision there was visibility variously estimated at from two hundred feet to half a mile. Plaintiff’s injuries were such that he retained no recollection of the circumstances of the accident.
+There was testimony to the effect that defendant driver had been drinking. By his own admission, he did not see the lights of the approaching motorcycle until warned of its approach by one of his passengers, when the motorcycle was within ten or fifteen feet of him. The pavement showed skid marks of defendant’s car for a distance of forty-five feet, and there was testimony to the effect that plaintiff’s motorcycle was thrown back some eighteen feet by the impact. There was also sufficient evidence that the barricaded portion of the highway was out of repair and impassable, and it does not appear that there was sufficient highway on the easterly side thereof to allow passage of vehicles. Under these circumstances, plaintiff's passing the barricade on the left-hand side thereof would not be negligence per se. (California Vehicle Act, sec. 122 [a], [Stats. 1931, p. 2124]; Buzby v. Lewis, 103 Cal. App. 124 [283 Pac. 958]; Anderson v. Dahl, 121 Cal. App. 198 [8 Pac. (2d) 883].) The court might well have believed from this evidence that defendant driver was negligent in failing to observe the headlights of the motorcycle before he came directly upon it. If, as he claimed, the fog prevented his observing the lights at a greater distance, this fact, together with testimony as to the skid marks and the force of the impact, furnished evidence that he was driving at a negligent rate of speed under the circumstances. Giving full consideration to the earnest argument of appellant, and without reference to other evidence tending to support the findings, we find nothing in this brief statement of facts that would justify this court in saying that, as a matter of law, defendant driver was not guilty of negligence, or that plaintiff was guilty of contributory negligence. The judgment, therefore, should not be reversed.
+The judgment was in favor of plaintiff and against defendant Bonin, operator of the car, in the sum of $7,653.95, and against defendant owner Cora Girino in the sum of $5,000. Because of the claimed uncertainty as to the rights of the judgment debtors as between themselves under this form of judgment, which we think is more fancied than real, but principally because respondent stipulates to the modification of the judgment, said judgment is modified to read as follows: “That the plaintiff Grant Carver do have and recover of and from the defendant Abe Donin the sum of $2,653.95, and that said plaintiff do have and recover of and from the' defendants Abe Donin and Cora Girino jointly the further sum of $5,000.00 together with his costs which are hereby taxed in the sum of $69.75.”
+The judgment is affirmed as modified.
+Houser, P. J., and York, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on December 30, 1935.
