@@ -1,0 +1,28 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 36099"
+decided: "1975-08-08"
+citations: ["50 Cal. App. 3d 556"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re the Marriage of AUDREY C. and JAMES H. GABRIEL. JAMES H. GABRIEL, Appellant, v. AUDREY C. GABRIEL, Respondent."]
+source_url: "https://static.case.law/cal-app-3d/50/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039903
+---
+
+# Gabriel v. Gabriel
+
+## Majority (CHRISTIAN, J.)
+
+Opinion
+CHRISTIAN, J.
+James H. Gabriel appeals from a judgment determining arrearages in the payment of spousal support and in respondent wife’s community interest in military retirement pay. Husband appeared specially, by counsel, and moved to quash service of wife’s notice of motion, contending that there had been no effective service of the notice of motion. The court denied the motion to quash, and made an order specifying that there were arrearages in payments totaling $10,067.40. A judgment was later entered, awarding the wife the amount of the arrearages plus interest.
+Husband points out that the clerk’s transcript on appeal does not show that the notice of motion had been served by mail upon his attorneys of record. The observation is correct, but unavailing. Proofs of service of papers included in the clerk’s transcript are to be omitted “unless one of the parties expressly requests their inclusion, . . .” (Rule 5(e), Cal. Rules of Court.) It is the responsibility of the appellant to designate for inclusion in the record all materials necessary for the support of his contentions.. (6 Witkin, Cal. Procedure (2d ed. 1971) Appeal, § 373, p. 4345.) Husband did not request inclusion in the clerk’s transcript of proofs of service. Therefore, the claim that there was no showing of mail service upon counsel cannot be reached.
+Husband contends that under Civil Code section 4809 no order modifying a decree of dissolution, or other order in a dissolution proceeding subsequent to the decree, is valid without notice served upon the party himself. Wife contends in response, that service upon the party is required by section 4809 only when modification of the decree of dissolution is sought. But the statute explicitly provides that after entry of a final decree service upon the attorney is insufficient to support any “subsequent order in such proceedings.” (Civ. Code, § 4809.) The court proceeded on the assumption that there had been no service upon husband; the court nonetheless denied the motion to quash, taking the view that section 4809 applies only to a modification of a decree; the court considered that the motion did not seek modification, as it only called for calculation of arrearages, which wife could have achieved ex parte by applying to the clerk for issuance of a writ of execution. Of course it is true that a writ of execution could have been obtained ex parte. But an order of the court, determining the amount of arrearages, may not be so obtained. The distinction must be made, if the purpose of section 4809 is to be given full effect; a judgment settling arrearages, obtained without personal service upon the judgment debtor, could otherwise be sued upon in the courts of other states without a full opportunity for the debtor to contest the amount of the accrued obligation. Moreover, it might in practice be easier, even in the court which rendered the judgment, to obtain an order recalling a writ of execution which had been issued ex parte by the clerk than to persuade the court, after it had taken evidence at a hearing, to vacate its own order settling arrearages and set a new hearing to allow the judgment debtor to contest the amount due. We conclude that notice to husband himself was required, though no modification was sought.
+Because further proceedings may ensue, it is appropriate to take up husband’s contention that the order was unsupported, insofar as it determined arrearages of military retirement pay, in that respondent’s moving papers spoke only of reducing to judgment arrearages of spousal support. This contention is contrary to the record. The notice of motion stated that orders would be sought “as set forth in the attached Request for Order and Declaration, to which is attached: Declaration of Audrey C. Gabriel Exhibit ‘A’.” While the request for order and declaration contained within its own text only a prayer relating to spousal support, it incorporated by reference a separate declaration in which arrearages of community property retirement income are specified and an order reducing such arrearages to judgment was prayed for.
+Reversed.
+Caldecott, P. J., and Emerson, J., concurred.
+Civil Code section 4809: “After the entry of a final judgment decreeing the dissolution of the marriage or the legal separation of the parties, or after a declaration of void or voidable marriage, or after a permanent order in any other proceeding in which there was at issue the custody, support, maintenance, or education of a minor child, no modification of such judgment, order, or decree, and no subsequent order in such proceedings shall be valid unless any prior notice otherwise required to be given to a party to the proceeding be served, in such manner as such notice is otherwise permitted by law to be served, upon the party himself. For such purpose, service upon the attorney of record shall not be sufficient.”
+Retired judge of the superior court sitting under assignment by the Chairman of the Judicial Council.
