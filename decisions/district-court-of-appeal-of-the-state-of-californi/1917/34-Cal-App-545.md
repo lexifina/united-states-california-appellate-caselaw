@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 398"
+decided: "1917-09-05"
+citations: ["34 Cal. App. 545"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. M. D. NOLAN, Appellant."]
+source_url: "https://static.case.law/cal-app/34/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029458
+cites_cases: ["1 Cal. 379", "156 Pac. 73", "165 Pac. 715", "29 Cal. App. 526", "33 Cal. App. 493", "56 Cal. 327"]
+---
+
+# People v. Nolan
+
+## Majority (BURNETT, J.)
+
+BURNETT, J.
+It being suspected that defendant, Nolan,was “blind-pigging,” one Baroni was employed by the sheriff of Mendocino County to purchase liquor from defendant, and succeeded in doing so. Defendant was thereupon charged, by indictment of the grand jury of the county of Mendocino, with the offense of keeping and conducting, in no-license territory, a place where alcoholic liquor was sold and distributed, and keeping and conducting, in no-license territory, a place where alcoholic liquors were kept for the purpose of sale and distribution.. He was thereupon duly tried and convicted of the offense charged in the indictment. Defendant moved for a new trial, which motion was denied, and he was thereupon sentenced to pay a fine of five hundred dollars, and to six months’ imprisonment in the county jail. Defendant prosecutes this appeal from the order and the judgment.
+The several points urged by appellant for reversal are as follows: (1) That the court erred in refusing to grant defendant’s motion for a change of venue; (2) That the court committed prejudicial error in that it made certain statements which improperly affected the verdict of the jury; (3) That it was error to admit evidence of sales of liquor on dates immediately prior to that charged in the indictment; and (4) That the verdict was not supported by the evidence.
+As to the point that the court erred in refusing to grant defendant’s motion for a change of venue made on the ground that a fair and impartial trial could not be had in the county, it need only be said that defendant failed to properly raise that point. Section 1034 of the Penal Code requires that the application for change of venue be in writing. (See, also, People v. McGarvey, 56 Cal. 327.) The motion of the defendant here was made orally. In addition, the affidavit of defendant in support of his motion is insufficient. It merely states “that said affiant firmly believes and in -fact knows that it is impossible for him to secure a fair and impartial trial at the hands of a jury drawn from this particular com-munity.” But it is settled that “affidavits for such a motion must state the facts and circumstances from which the conclusion is deduced that a fair and impartial trial cannot be had. The conclusion is to be drawn by the court and not by the defendant and his witnesses, and the court must be satisfied from the facts and circumstances positively sworn to in the affidavits, and not from the general conclusions to which the defendant may swear, or which his witnesses may depose that they firmly believe to be true.” (People v. McCauley, 1 Cal. 379.)
+Upon witness Baroni testifying on cross-examination that a peddler had warned defendant that the sheriff was in town, the following took place:
+“Q. Do you know what the object was? Do you know what the peddler meant when he said to Nolan, ‘Look out, the sheriff is in town?’
+“Mr. McCowen: Object to that as incompetent, irrelevant, and immaterial, and the thing speaks for itself.
+“Court: Well, I think it speaks for itself. I think it carries its own meaning with it pretty conclusively.”
+It is claimed that the utterance of the court improperly influenced the verdict of the jury. While we cannot too forcefully urge trial courts to exercise great care in making such statements in the jury’s presence, we are not satisfied that defendant was prejudiced here. It is apparent that the court was addressing its remarks to the attorneys and not to the jury. And any possible prejudice that might have resulted must have been dispelled by the peddler and defendant himself, who both testified that the words of warning were made merely in a jocular manner and as a joke on Nolan. We cannot say that there is anything in the words which would impress the jury that the court was of the opinion that they ought to convict upon the evidence.
+The objections that the court erred in admitting evidence of sales of liquor made April 15th, 16th, and 17th, and that the evidence was insufficient to support the verdict, may be briefly disposed of. The indictment charges that the defendant did “willfully and unlawfully keep and conduct” a place where alcoholic liquor was sold, served, and distributed on April 18, 1916. As bearing upon this issue the evidence of prior sales, not too remote, was competent. (People v. Cavallini, 29 Cal. App. 526, [156 Pac. 73].) And there is sufficient evidence in the record to support the verdict. Witness Baroni testified positively to having purchased beer from the defendant on several different occasions. The foregoing shows the inconsequence of appellant’s contention that certain gifts of liquor were made to guests, and, therefore, not to be considered as evidence of guilt. As before stated, there was a sufficient showing of sales to make out the case charged in the indictment. The circumstance as to said donations might therefore be eliminated from consideration. However, as to this there was room for a rational conclusion that the parties were not guests, and hence within the inhibition of the Wyllie law, and if the verdict was in any manner based upon such theory, it finds support in the record. Nor is there any weight in the contention that it was not proved that Mendocino city was in no-license territory on April 18, 1916, the date of the offense charged. At the close of the ease the following proceedings took place:
+“Mr. McCowen: Will you stipulate the required proof as to the territory and as to the liquor?
+“Mr. Hurley: We will stipuláte that.
+“Mr. McCowen: It is stipulated that Mendocino City is in the fourth supervisor district of Mendocino County, that the fourth supervisor district is no-license territory, and that Mendocino is not an incorporated town, and it is also stipulated that the liquor introduced in evidence here is alcoholic liquor as defined by the Wyllie Local Option Law.”
+There can be no doubt that the above referred to the date charged in the indictment, and was offered in support of the allegation in the indictment that Mendocino City was “then and there” (April 18, 1916) no-license territory. It cannot reasonably be supposed that the prosecuting attorney would offer proof as to no-license territory as of the date of the trial in support of an allegation referring to a date six months previous. (People v. Nolan, 33 Cal. App. 493, [165 Pac. 715].)
+The judgment and order are affirmed.
+Chipman, P. J., and Hart, J., concurred.
