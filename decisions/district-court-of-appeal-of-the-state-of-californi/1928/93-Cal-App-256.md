@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6202"
+decided: "1928-07-25"
+citations: ["93 Cal. App. 256"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT C. SCOTT et al., Plaintiffs, v. J. J. DONAHUE et al., Defendants; GEORGE D. COLLINS, Jr., et al., Plaintiffs and Appellants, v. ROBERT C. SCOTT, Respondent."]
+source_url: "https://static.case.law/cal-app/93/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2111915
+cites_cases: ["269 Pac. 455", "54 Cal. 386"]
+---
+
+# Scott v. Donahue
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Plaintiff brought two separate actions in the superior court on behalf of himself and other members of San Francisco Lodge No. 198 of the Brotherhood of Railroad Trainmen. One action was in replevin to recover bonds claimed to be the property of the members of the local lodge. The other action was in assumpsit to recover money which was also claimed to be the property of the members of this lodge. In both actions a complaint in intervention was filed on behalf of a minority of the members of the lodge claiming the property to be held in trust for the benefit of the minority alone. The actions were tried together and resulted in judgments in favor of the intervener, the trial court finding that all the property was a trust fund held for the benefit of the minority members represented by the intervener. On appeal to this court these judgments were reversed upon the ground that the property was found to be a trust fund for all the members of the local who were in good standing at the time of its dissolution. (Scott v. Donahue, ante, p. 126 [269 Pac. 455, 458].) After the entry of the judgments in the superior court and pending the appeal therefrom, Scott applied to the superior court for an order substituting J. H. Morris as his attorney in place of George D. Collins, Jr. These motions were resisted and in support of the opposition affidavits were filed from which it appears that Collins was employed by Scott at the instance of two hundred and fifty-nine other members of Local No. 198 to prosecute the actions to final determination upon a specified contingent fee to be paid him upon recovering the property and to be paid solely out of the property recovered. It also appears that, prior to the attempted substitution of attorneys, Scott assigned all his interest in the property to an association known and designated as Local No. 52 and that the other members of Local 198 in whose behalf the actions were commenced, as well as Scott’s assignee, oppose the substitution of attorneys and desire Collins to continue to represent them. Upon the oral argument it was stated by counsel for respondents on the main appeals that the purpose of the substitution was to obtain an attorney who would consent to a dismissal of those appeals.
+In our opinion on the main appeals we pointed out that both actions were really tried upon the complaints in intervention which transformed them into actions in equity for the purpose of discovering a trust fund. Though Scott was the nominal plaintiff upon the original complaints he was in fact the representative of all the other members of Local 198 and upon the complaint in intervention he in effect became their representative as parties defendant. Respondent concedes that the other members of Local 198 are parties plaintiff with Scott and entitled to oppose his substitution of attorneys-, but argues that this opposition could be voiced only by a formal meeting and ballot taken for that purpose. The burden of proof was on the respondent to show that the “client” referred to in section 284 of the Code of Civil Procedure (here the associates of Scott as parties plaintiff) had joined in the application for a substitution of their attorney. The only proof before the trial court on the hearing of the motions was that all the other members of the local as well as Scott’s assignees opposed the substitution and desired Collins to continue to represent them. The other members of Local 198 were the real parties in interest. When Scott assigned his individual interest the action could still be continued in his name (sec. 385, Code Civ. Proc.) and, having assigned his interest, he had no further control or direction of the litigation. (Walker v. Felt, 54 Cal. 386.) His attempt to defeat the interests of his associates by the substitution of an attorney adverse to their interests was a flagrant breach of good faith and wholly beyond his power. (Walker v. Felt, supra.)
+The two orders appealed from are reversed with directions to the trial court to set aside the orders and deny the motions.
+Koford, P. J., and Sturtevant, J., concurred.
