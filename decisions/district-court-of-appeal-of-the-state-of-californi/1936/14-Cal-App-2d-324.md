@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11003"
+decided: "1936-05-27"
+citations: ["14 Cal. App. 2d 324"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of ELIZABETH WHITCOMB, Deceased. WARD CHAPMAN, Executor, etc., et al., Appellants, v. WILLIAM CARD WHITCOMB et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/14/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2270924
+cites_cases: ["120 Pac. 33", "123 Pac. 371", "147 Cal. 148", "161 Cal. 654", "162 Cal. 559", "214 Cal. 199", "4 Pac. (2d) 948", "50 Pac. (2d) 70", "81 Pac. 406", "9 Cal. App. (2d) 374"]
+---
+
+# Chapman v. Whitcomb
+
+## Majority (CRAIL, P. J.)
+
+CRAIL, P. J.
+This is an appeal from an order construing the will of Elizabeth Whitcomb, deceased. Boiled down the pertinent parts of the will read as follows: “I am possessed of certain liquid bonds, mortgages, stock and cash on hand, from which funds can be readily realized for payment,” etc. [The will then proceeds to provide bequests to various of her friends and to her sister. Then in the sixth paragraph it continues as follows:] ‘‘The remainder of the estate, derived from the sale of my home place at 337 So. Harvard Blvd., when an advantageous opportunity offers, and whatever other securities remain, shall be divided as follows into eight shares and distributed among the following as designated. ’' At the time of testatrix’s death her mother had been dead for more than a year. At the time of the mother’s death there was a savings account in the bank standing in the mother’s name, and to a share of which the testatrix was entitled, but the account was not administered upon until four years later for the reason that the existence of said account was unknown to the heirs of the mother. From this account there was distributed to testatrix’s executor the sum of $2,502.63. The trial court by its decree dated December 10, 1935, held that the testatrix died intestate as to said money and that the distribution of said sum was not governed by the terms of the will. It is from this order the appeal is taken.
+In the Estate of Farelly, 214 Cal. 199 [4 Pac. (2d) 948], reference is made to section 1326 of the Civil Code which provides that “of two modes of interpreting a will that is preferred which will prevent a total intestacy”, and this reference is followed by the statement “that the same rule has been applied to partial intestacy”, citing O’Connor v. Murphy, 147 Cal. 148 [81 Pac. 406]. In Estate of Spreckels, 162 Cal. 559 [123 Pac. 371], it is said: .“Where a will may be reasonably interpreted in two ways, one of which results in intestacy, while the other leads to an effective testamentary disposition, the interpretation which will prevent intestacy is to be preferred.” Also, see, Estate of O’Gorman, 161 Cal. 654 [120 Pac. 33], and Estate of Olsen, 9 Cal. App. (2d) 374 [50 Pac. (2d) 70.]
+It is apparent from the will itself that except for the bequests of personal effects the testatrix contemplated a distribution of her entire estate in the form of cash. The intent .of the testatrix to distribute fractional parts to numerous beneficiaries could not from a practical standpoint be carried out except by distributions in cash, and this intent is further manifested by the provision in the will for the sale of her home.
+The fact that the words “remainder of the estate” are followed by the words “derived from the sale of my home . . . and whatever other securities remain” does not restrict the residuary clause so as to exclude the fund above referred to. The testatrix inserted a comma after the phrase “remainder of the estate”, and it is manifest that the words which follow are not used as words of limitation but rather as a confirmation of the plan of testatrix that her estate should be converted into cash for the purpose of distribution. The word “securities” in the phrase “whatever other securities remain” manifestly refers back to and is a short way of repeating what she has already said in the first sentence, ‘ ‘ certain liquid bonds, mortgages, stock and cash on hand”. The Estate of Olsen, 9 Cal. App. (2d) 374 [50 Pac. (2d) 70], involved an holographic will which, after leaving various sums of money to various people, then provided “to Hellen Landgren Katie McDonald and her sister Mrs. Hertel all my personal property”. No mention was made of real property though the estate had two lots which represented about one-half of the estate. It was there held that the provision of the will above quoted should be construed as a residuary clause disposing of all the estate including the real property. “The words of a will are to receive an interpretation which will give to every expression some effect, rather than one which will render any of the expressions inoperative. ’ ’ (Probate Code, sec. 102.) It is the duty of the court in this ease to give some effect to the words “the remainder of the estate”. It will not suffice to construe them as if they read “a portion of the estate”. It is our conclusion that the terms of the will included said funds.
+Judgment reversed.
+Wood, J., and McComb, J., pro fern., concurred.
