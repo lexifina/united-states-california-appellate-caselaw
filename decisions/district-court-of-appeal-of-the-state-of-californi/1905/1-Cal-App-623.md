@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "58"
+decided: "1905-09-21"
+citations: ["1 Cal. App. 623"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OTTO GRUNSKY, and J. F. DIETRICH, etc., Respondents, v. J. L. FIELD, Appellant."]
+source_url: "https://static.case.law/cal-app/1/cases/0623-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1180241
+cites_cases: ["100 Cal. 1", "102 Cal. 52", "105 Cal. 9", "110 Cal. 319", "120 Cal. 125", "144 Cal. 548", "26 Cal. 393", "34 Pac. 490", "36 Pac. 364", "37 Cal. 15", "38 Pac. 513", "42 Pac. 804", "48 Cal. 354", "48 Cal. 537", "52 Pac. 159", "78 Pac. 3", "99 Am. Dec. 237"]
+---
+
+# Grunsky v. Field
+
+## Majority (McLAUGHLIN, J.)
+
+McLAUGHLIN, J.
+Defendant prosecutes this appeal from the judgment and from an order denying his motion for .a new trial. The action was brought to recover commissions on a sale of real estate, under a contract which reads as follows: “Field Ranch March 11, 1903. In consideration of one dollar the receipt of which is hereby acknowledged, I authorize Grunsky & Dietrich, for five months, to sell my farm of 160 acres, including standing crop, for $65.00 per acre, and I agree if any sale results through the efforts of said Grunsky & Dietrich, at above or less price, to pay them the commissions of 5 per cent. J. L. Field.”
+On April 17, 1903, the property was sold to C. J. Bender for the sum of $10,400, and the court found that such sale resulted through the efforts of the respondents.
+The main point urged upon this appeal is that such finding is not supported by the evidence. An examination of the record, however, discloses a substantial conflict in the evidence on this point, and under the well-settled rule such finding will not be disturbed. (White v. Beer, 105 Cal. 9, [38 Pac. 513]; Taylor v. McConigle, 120 Cal. 125, [52 Pac. 159]; Raymond v. Glover, 144 Cal. 548, [78 Pac. 3].).
+The bill of exceptions shows that upon a former trial of the cause, the jury disagreed and that upon the second trial, which was before the court without a jury, the respective parties, in open court, stipulated and agreed: “That the cause be submitted to the court for decision upon the record of a former trial of this action before a jury as shown by the reporter’s notes taken upon such former trial.” The cause was thereupon argued and submitted for decision, upon such record, a copy of which is set forth in the bill of exceptions.
+Numerous assignments of error, based upon rulings made and exceptions reserved at such former trial, are urged by appellant, but respondents insist that rulings made at the first trial cannot be reviewed upon this appeal, for the reason that the stipulation contains nothing to warrant such review or justify the assumption that the rulings of the court would have been the same at the second as at the first trial. The stipulation contains no recital saving or reserving objections or exceptions taken at the first trial, and there is nothing in the record here to indicate that the trial court reviewed or passed upon the alleged errors when the motion for a new trial was heard. No authorities have been cited to sustain or defeat respondents’ contention, and none have been found which bear upon the novel question thus presented.
+It is the duty of an appellant to show error affirmatively, and every intendment favors the action of the trial court. (People v. Douglas, 100 Cal. 1, [34 Pac. 490]; Landers v. Bolton, 26 Cal. 393; Doyle v. Franklin, 48 Cal. 537.) It follows that unless the legal effect of the stipulation is to compel such review, or it is clearly apparent from the record that the parties and the court understood that such should be its effect, we must presume that nothing of the kind was intended.
+There is nothing in the subsequent conduct of the parties as shown by the record here to throw any light on the intention of the parties; hence it must be assumed that the stipulation fully and clearly expresses the intention of the parties thereto.
+At the time the stipulation was made the parties to the action stood at the threshold of a new trial. The record of •the former trial was functus officio, and they were about to make up a new record upon which the cause would be decided and reviewed. (Code Civ. Proc., secs. 646, 650, 657, 661.) Under these circumstances, by full consent of the appellant, the cause was submitted for decision upon the old record, which was impotent to help or harm him until such consent was given. It is clear that the parties to the action could not by stipulation or otherwise forecast the action of the trial court. They were powerless to make, up a new record based upon the assumption that the same rulings would be made at the new as at the former trial, unless the court clearly and distinctly consented to such an arrangement. No such consent is here shown. There is nothing in the stipulation hinting at the proposition that the parties agreed and the court (-consented to have objections, rulings, and exceptions at the former trial, considered as made and reserved at the new triaL
+Under such circumstances we are of the opinion that the assignments of error above mentioned cannot be considered. Moreover, the effect' of granting a hew trial would virtually be to ignore appellant’s act in consenting to and sanctioning this record, and to place him in a position practically the same as that occupied by him before he entered into the stipulation.
+We believe that where a party to an action is entitled to a. rehearing in the trial court, he cannot waive such right and then expect the appellate court to award him privileges and opportunities thus voluntarily relinquished. “He who consents to an act is not wronged by it.” And “acquiescence in error takes away the right of objecting to it. ’ ’ Therefore, in the absence of an express agreement to that effect sanctioned by the trial court, the appellant will not be allowed to predicate error on a record to which he consented. This is the rule applied in analogous eases, and we think it should be-applied here. (Hess v. Bolinger, 48 Cal. 354; Brewster v. Hartley, 37 Cal. 15, [99 Am. Dec. 237]; Gregory v. Gregory, 102 Cal. 52, [36 Pac. 364]; Muller v. Rowell, 110 Cal. 319, [42 Pac. 804].)
+The judgment and order are affirmed.
+Chipman, P. J., and Buckles, J., concurred.
