@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1530"
+decided: "1929-04-25"
+citations: ["98 Cal. App. 499"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. PAUL HIRSCHLER, Appellant."]
+source_url: "https://static.case.law/cal-app/98/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2125924
+cites_cases: ["245 Pac. 781", "76 Cal. App. 688"]
+---
+
+# People v. Hirschler
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The district attorney filed an information against Paul Hirschler and Edward Haight which purported to plead against both defendants the charge of robbing A. F. Bouvier and George Deline. The information alleged two counts and further alleged that both acts were part of one transaction. The defendants pleaded not guilty and a trial was had before the trial court sitting with a jury. The jury returned four separate verdicts, finding each defendant guilty on each count. The defendants each made a .motion for a new trial. The motions were denied. The defendant Hirschler has appealed from the order and judgment and has brought up a typewritten record.
+The charging part of each count in the information followed the same form. That in the first count alleged that “they robbed Alfred F. Bouvier of one purse containing $44.80, more or less, lawful money’ of the United States, one California Diamond Jubilee 1925 one-half dollar and one United States 1872 half dime.” The alleged offense was committed on the eleventh day of September, 1928, and the information was filed October 16, 1928. The defendant contends (1) that the elements of force and/or fear are lacking and no substitution for them is anywhere attempted in the pleading; (2) that an allegation of the use of dangerous and deadly weapon was omitted, and (3) that the information is entirely uncertain, as it does not alleged that the taking was from the possession or immediate presence of the victims. No demurrer was interposed. The attorney-general cites section 1012 of the Penal Code and contends that the objections presented come too late. The defendant does not claim that in so far as his objections rest on uncertainty that the same can be presented at this time. However, he does claim that the allegations are insufficient except as a statement of larceny. That exception in itself is a public offense, therefore it cannót be said that the information wholly failed to state a public offense. That being so, it follows that no one of the "contentions is available to the defendant at this time.
+In what we have just stated we have considered the rules of pleading in criminal eases as they existed prior to the amendments of 1927; but the statutes adopted in 1927 enacted important amendments regarding the rules of pleading. Section 951 of the Penal Code, as amended (Stats. 1927, p. 1043), is as follows: “ . . . The people of the State of California against A. B. In the superior court of the State of California in and for the county of . . . The grand jury (or the district attorney) of the county of . . . hereby accuses A. B. of a felony (or misdemeanor), to-wit: (giving the name of the crime, as murder, burglary, etc.), in that on or about the - day of -, 19—, in the county of . . . State of California, he (here insert statement of act or omission, as for example, 'murdered C. D.’).” The enactment of that amendment presents another reason why no one of the objections presented by this defendant is tenable.
+The defendant complains of a remark alleged to have been made by the trial court which he sets forth in his brief. He does not inform us as to where the alleged remark is to be found in the record. An examination of the reporter’s transcript does not disclose the incident. Neither one of the parties is entitled to go outside of the record and neither is this court entitled to go outside of the record.
+The offense alleged in the information consisted of the robbery of an alleged bootlegger’s place of business and the persons there present. It was the theory of the prosecution that the defendants formed a conspiracy to commit the alleged offense and to rob such places and persons in general; that because the business of selling intoxicating liquor is proscribed by law persons found in such places could be robbed with impunity and there would be little probability of a prosecution because each individual would hesitate to appear and give testimony. For the purpose of presenting this theory to the trial court the prosecution introduced evidence to the effect that on a different date at a different- place the. defendants committed a similar offense. It is conceded by the defendant that by a proper instruction the evidence so admitted was duly limited to the proof of the issue of conspiracy. Nevertheless the defendant claims that he should not have been confronted with evidence of other crimes. That contention may not be sustained. (People v. Wilson, 76 Cal. App. 688 [245 Pac. 781].) If, at the time the taking of evidence closed, the prosecution had not succeeded in connecting the theory of conspiracy with the main offense on trial, the defendant might have made a motion to strike out, but no such motion was made.
+We find no error in the record. The order and judgment are affirmed.
+Koford, P. J., and Nourse, J., concurred.
