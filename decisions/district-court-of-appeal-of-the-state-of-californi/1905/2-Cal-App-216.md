@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 83"
+decided: "1905-11-17"
+citations: ["2 Cal. App. 216"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PROVIDENT MUTUAL BUILDING AND LOAN ASSOCIATION, Appellant, v. SUSAN E. SHAFFER, and J. W. SHAFFER, Respondents."]
+source_url: "https://static.case.law/cal-app/2/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954409
+cites_cases: ["18 Pac. 435", "23 Pac. 6", "32 Pac. 801", "76 Cal. 508", "82 Cal. 101", "97 Cal. 646"]
+---
+
+# Provident Mutual Building & Loan Ass'n v. Shaffer
+
+## Majority (ALLEN, J.)
+
+ALLEN, J.
+Action to foreclose mortgage. Finding of the court that one note alleged to be secured thereby was never executed. Judgment and decree for amount of one note only, and for defendant upon the second note, from which judgment plaintiff appeals.
+It appears from the record that defendant Susan E. Shaffer was a married woman, the wife of her codefendant, J. W. Shaffer, that she owned as her separate estate the premises described in the complaint; that on July 18, 1899, she and her husband executed to the plaintiff a mortgage on said premises to secure a note for $1,600 and any further advances by the mortgagee, and all other indebtedness of the mortgagors to the mortgagee existing or thereafter arising, or to be contracted for before satisfaction of the mortgage, not exceeding $1,599, with a covenant to pay all encumbrances on said premises, and, upon default, authorizing the mortgagee to pay the same. Before the execution of the mortgage defendant Mrs. Shaffer had commenced the construction of a house on said premises. In September, 1899, plaintiff, ascertaining that a lumber company had a bill amounting to $300 for lumber used in constructing such house, paid the same without the knowledge of Mrs. Shaffer. Afterward the husband signed a note for such amount, and some one, without authority, signed the wife’s name to such note. She never had knowledge of the payment of the money or the execution of the note, until the time of the trial of this action.
+It is insisted by appellant that, regardless of the note her property was liable on account of such payment under the terms of the mortgage, upon the theory that it was either an advancement for her use and benefit, or paid in order to relieve her property from an encumbrance, or was a debt which arose between the parties after the mortgage. That it should be an advancement as contemplated by the mortgage would, of necessity, involve a contract relation, express or implied. No such relation is shown by the record, and the court finds against the plaintiff upon such issue. It does not appear that the husband knew of the payment to the lumber company, but, if he did have such knowledge, it appears that he was acting as agent for plaintiff during the • whole time within which the house was being constructed, ■ and was not acting for the wife at any time except in supervising the construction of the house. Neither were there any facts alleged or found from which it may be inferred that the claim of the lumber company was an encumbrance upon the premises; it is not shown when the lumber was purchased, by whom, when the house was completed, or that any steps had been taken, or even contemplated, by the lumber company to assert a lien on account of such debt. The lumber company, at most, was but a creditor of the wife, if she authorized or knew of the purchase. The inchoate right of lien existed in virtue of the admitted furnishing of lumber actually used in the house. If, however, sixty days had elapsed between its completion and the payment by plaintiff, such lien no longer existed. (Morris v. Wilson, 97 Cal. 646, [32 Pac. 801]; Weithoff v. Murray, 76 Cal. 508, [18 Pac. 435].) If the fact was that the house had not been completed sixty days before payment by plaintiff, we should have no hesitancy in saying that a lien existed under the constitution of this state, and that plaintiff possessed the right under the mortgage to extinguish the same; but the burden of establishing the existence of such a lien at the date of the payment was upon the plaintiff. We are not of opinion that from the record any debt or obligation in favor of the lumber company is shown by reason of the furnishing of the lumber to be used in Mrs. Shaffer’s house. For aught appearing therein, the circumstances might have been such as to have precluded a personal liability upon her part. In addition to this, even were she a general’debtor of the lumber company, we do not think that by fair construction of the mortgage the plaintiff could go out and buy up obligations of the mortgagor disconnected from the mortgage or the premises, and hold the same secured by such mortgage. This, we think, is warranted by the decision in Moran v. Gardemeyer, 82 Cal. 101, [23 Pac. 6]. There is nothing in the record showing any agency of' the husband, nor that he even contracted for the lumber on behalf of the wife, or assumed any authority in relation thereto.
+Judgment affirmed.
+Gray, P. J., and Smith, J., concurred.
+A petition for a rehearing of this cause was denied by the district court of appeal on December 16, 1905.
