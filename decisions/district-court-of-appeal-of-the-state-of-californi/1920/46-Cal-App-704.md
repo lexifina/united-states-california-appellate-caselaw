@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3313"
+decided: "1920-03-26"
+citations: ["46 Cal. App. 704"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. H. JARVIS et al., Plaintiffs, v. A. FREY et al., Defendants; UNIVERSAL LUMBER & MILLING COMPANY, Cross-complainant and Respondent; PACIFIC SURETY COMPANY (a Corporation), Cross-defendant and Appellant."]
+source_url: "https://static.case.law/cal-app/46/cases/0704-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052435
+cites_cases: ["101 Cal. 1", "101 Pac. 910", "113 Cal. 385", "119 Pac. 663", "149 Cal. 514", "155 Cal. 520", "161 Cal. 502", "166 Pac. 997", "175 Cal. 687", "180 Pac. 58", "39 Cal. App. 776", "45 Pac. 700", "87 Pac. 200"]
+---
+
+# Jarvis v. Frey
+
+## Majority (WASTE, P. J.)
+
+WASTE, P. J.
+The respondent, Universal Lumber & Mill Company, was a party to and a cross-complainant in a consolidated action to enforce the payment of certain mechanics’ liens. Defendant Frey was the owner, defendant Campbell was the original contractor and cross-defendant, and the cross-defendant and appellant Pacific Surety Company was the surety upon' the contractor’s undertaking, conditioned on the faithful performance by him of his contract, and binding the súrety, if Campbell failed to do so, to pay for any materials or supplies furnished for and in performance of his contract. The trial court denied the Lumber Company relief by reason of certain infirmities in its claim of lien which, it held, rendered it invalid. It likewise denied it judgment against the Surety Company, based upon the same.ground, to wit, the invalidity of the lien. On appeal the supreme court held that “the trial court ruled all too rigidly in holding this lien claim to be invalid.” The judgment appealed from was, therefore, “reversed, and the cause remanded.” (Jarvis v. Frey, 175 Cal. 687, 690, [166 Pac. 997].)
+When the case came on for trial the second time the respondent Lumber Company introduced evidence, both oral and documentary, as to the existence of its lien, the amount and value of the material furnished by it to Campbell, and in support of the amount remaining unpaid. After allowing the introduction of this testimony, the trial court, over the objection of this appellant, held the issue as to the validity of the lien and as to the amount and value, if any, of the materials furnished by the Lumber Company conclusively established, and foreclosed as to all parties, and the Surety Company estopped to offer any evidence thereon, by reason of the findings of fact made in the first trial, which findings the court held to be conclusive as to the facts therein stated.
+In keeping with this ruling, the court permitted the cross-defendant Surety Company to introduce testimony in an endeavor to establish a special defense it alleged, by way of a subsequent release of the lien, but denied it the right to dispute the claim of the Lumber Company against its principal, Campbell, the contractor, and its own liability under the lien. New findings were thereupon made, “that all the allegations in the cross-complaint of the cross-complainant Universal Lumber Company are true,” and that there had been no release of the lien. Judgment was entered against the Surety Company for the sum established by the former findings, as the amount of the claim due from the contractor to the Lumber Company.
+From this judgment the Surety Company has appealed, urging, as the principal ground for a reversal, the action of the trial court in refusing it a trial de novo upon all the issues presented by the pleadings to which it was a party.
+The court was in error in so ruling. While the appellate court may, and often does, remand a cause with directions to the trial court to find upon a single issue, leaving the other findings to remain as part of the record Duff v. Duff, 101 Cal. 1, 4, [35 Pac..437]), in this instance that was not done. The judgment of the supreme court was that judgment be “reversed, and the cause remanded,” the effect of which was that the cause was remanded to the lower court for a trial of all the issues made by the pleadings. (Rossi v. Caire, 39 Cal. App. 776, [180 Pac. 58] ; Stein v. Leeman, 161 Cal. 502, [119 Pac. 663]; Davies v. Le Mesnager, 155 Cal. 520, [101 Pac. 910]; Glassell v. Hansen, 149 Cal. 514, [87 Pac. 200]; Heidt v. Minor, 113 Cal. 385, [45 Pac. 700].)
+Appellant complains that the court erred in holding the evidence sufficient to justify its finding to the effect that no release or satisfaction, of any kind or character, was ever given to the appellant Pacific Surety Company by the respondent Universal Lumber & Mill Company for any part of the claim sued upon in this action. There is no merit in this contention. At the former trial of this case the trial court gave judgment in favor of various lienholders, including the respondent, and against W. P. Campbell, the contractor. It ordered that the balance of the funds remaining in the hands of Frey, the owner, after the payment of the claims of all the other lien claimants, which balance amounted to the sum of $1,716.83, be paid to the Lumber Company on account of its judgment. It is conceded that the Lumber Company accepted this sum and satisfied the judgment to that extent. The entry in the judgment-book, introduced by the appellant, amounts to no more than a satisfaction of the judgment in that amount.
+The judgment appealed from is reversed.
+Richards, J., and Knight, J., pro tern., concurred.
