@@ -1,0 +1,43 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 27227"
+decided: "1976-01-27"
+citations: ["54 Cal. App. 3d 862"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. RICK HIROYUKI HASHIMOTO, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/54/cases/0862-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6041369
+cites_cases: ["1 Cal.Rptr. 789", "107 Cal.Rptr. 256", "111 Cal.App.2d 201", "117 P.2d 437", "120 Cal.App. 733", "151 Cal.App.2d 28", "176 Cal.App.2d 731", "2 Cal.Rptr. 117", "20 Cal.App.3d 481", "218 Cal.App.2d 812", "242 Cal.App.2d 645", "256 P.2d 911", "273 Cal.App.2d 848", "3 Cal.3d 421", "31 Cal.App.3d 421", "310 P.2d 997", "32 Cal.Rptr. 653", "40 Cal.2d 876", "401 P.2d 382", "44 Cal.Rptr. 30", "47 Cal.App.2d 1", "475 P.2d 649", "51 Cal.Rptr. 702", "62 Cal.2d 692", "78 Cal.Rptr. 736", "8 P.2d 206", "90 Cal.Rptr. 417", "97 Cal.Rptr. 722"]
+---
+
+# People v. Hashimoto
+
+## Majority (COMPTON, J.)
+
+Opinion
+COMPTON, J.
+Defendant appeals from a judgment of conviction entered in a nonjury trial for pandering in violation of Penal Code section 266i, which statute condemns among other things, the inducing, persuading or encouraging a female to become a prostitute.
+Carlene Moriarty, a fulltime regularly employed policewoman assigned to the vice squad of the Los Angeles Police Department, undertook to investigate a complaint that prostitution was being conducted through the Japan Travel Bureau. Using the alias “Cici,” the officer called the travel bureau and talked to defendant Hashimoto on the telephone. She told him that she had received his name and telephone number from a young lady at the Hilton Hotel in Los Angeles and had been informed that he was hiring girls to work for him. The defendant invited the officer to come to his office to discuss employment.
+That evening Officer Moriarty accompanied by a male vice officer went to defendant’s office. Officer Moriarty was wearing a Fargo device in order to transmit conversations to the other officer who was equipped with a receiver.
+Officer Moriarty represented herself to be a model. Defendant asked for a telephone number that he would provide to clients of the Japan Travel Bureau that desired to obtain her services as a prostitute.
+According to defendant’s proposal, Officer Moriarty would engage only in what was described as “normal” sex with Japanese tourists. Defendant’s interest in the plan was not the receipt of any remuneration but rather the satisfying of the travel agency’s clientele by augmenting the usual services which were offered.
+During the conversation the defendant asked Officer Moriarty how much she charged, demurred at the price of $75 as being too high and stated that the prearranged price was $50 for tourists. Defendant represented to Officer Moriarty that the volume of customers that would be supplied to her through the bureau would more than make it worthwhile for her to reduce her price. He did impose one additional condition and that was that the 16th customer who would be an important person should be entertained free. The other officer who overheard the transmitted conversation fully corroborated Officer Moriarty’s version of the conversation.
+The defendant, at trial maintained that he was merely joking with Officer Moriarty when talking to her about prostitution. He portrayed himself as being curious about all aspects of American life and claimed that the conversation with the officer, whom he believed to be a prostitute, was merely another opportunity to find out about some of the unique aspects of the American scene. He maintained that he at no time had any serious intent to engage Officer Moriarty as a prostitute.
+On appeal defendant contends that (1) the evidence is insufficient to support the judgment of conviction, and (2) Penal Code section 2661 is overly broad, vague and thus unconstitutional.
+The evidence must be viewed in the light most favorable to supporting the judgment and all reasonable inferences must be drawn from the evidence that tend to support that judgment. The credibility of the witnesses is an issue for the trier of fact and the judgment of the trial court will not be reversed unless there is no substantial evidence in the record that will support the conclusion of the trier of fact. (People v. Reilly, 3 Cal.3d 421 [90 Cal.Rptr. 417, 475 P.2d 649]; People v. Hillery, 62 Cal.2d 692 [44 Cal.Rptr. 30, 401 P.2d 382]; People v. Daugherty, 40 Cal.2d 876 [256 P.2d 911].)
+When these tests are applied to the evidence here it is patent that the trial court’s judgment cannot be assailed for lack of evidentiary support.
+The fact that the defendant apparently was not to receive any money from the venture directly is not fatal to the conviction. The purpose of the anti-pandering statute (Pen. Code, § 266i) is to “cover all the various ramifications of the social evil of pandering and include them all in the definition of the crime, with a view of effectively combating the evil sought to be condemned.” (People v. Montgomery, 47 Cal.App.2d 1, at p. 24 [117 P.2d 437]; also see People v. Lax, 20 Cal.App.3d 481 [97 Cal.Rptr. 722]; People v. Charles, 218 Cal.App.2d 812 [32 Cal.Rptr. 653].)
+The defendant offered to provide a ready-made clientele with fixed prices and a reasonable assurance of a continuous volume of business should Officer Moriarty agree to the plan. This constituted active encouragement within the purview of section 266i of the Penal Code, and neither success nor consummation of the proposal, was a necessary element of a violation of the pandering statute. (People v. Bradshaw, 31 Cal.App.3d 421 [107 Cal.Rptr. 256].)
+It was held in Bradshaw, at page 426, that Penal Code section 266i covers cases “. . . where a defendant has solicited one whom he believes to be a former prostitute to re-enter the profession and a defendant who solicits , one whom he believes presently to be a prostitute to change her business relations. ” (Italics added.)
+Defendant, with his proposal, was inducing or encouraging a female that he believed to be a prostitute to continue in the profession and to change her business relations by reducing her price in exchange for volume. Defendant’s plan contemplated that the prostitute would use her own place of abode to handle customers that he, as her agent, would provide.
+In this latter regard defendant was not unlike the defendant in Aguilera v. Superior Court, 273 Cal.App.2d 848 [78 Cal.Rptr. 736], where a maitre d’ at an expensive restaurant who referred customers to a prostitute that operated in her own apartment was found to have violated Penal Code section 266i.
+The pandering statute and Penal Code section 266h (pimping) are both designed to discourage prostitution by discouraging persons other than the prostitute from augmenting and expanding a prostitute’s operation, or increasing the supply of available prostitutes. (People v. Courtney, 176 Cal.App.2d 731 [1 Cal.Rptr. 789]; People v. Montgomery, 47 Cal.App.2d 1 [117 P.2d 437].)
+The weight to be attributed to defendant’s testimony that he lacked criminal intent was for the trier of fact to determine. The trial judge had the power to reject that testimony in its entirety. (People v. Carlson, 111 Cal.App.2d 201 [2 Cal.Rptr. 117]; People v. Jaggers, 120 Cal.App. 733 [8 P.2d 206].)
+We find nothing vague or overly broad in the language of Penal Code section 266i. The statute is presumed to be constitutional. (In re Davis, 242 Cal.App.2d 645 [51 Cal.Rptr. 702].) It is not reasonably susceptible of being interpreted to cover any activity beyond that involved in the social evil of pandering. (People v. Lax, supra.) The terms “procuring, persuading and encouraging” are all words capable of precise definition. (See People v. Bradshaw, supra; People v. Drake, 151 Cal.App.2d 28 [310 P.2d 997].)
+The test is whether the conduct of the defendant meets the commonly accepted definitions of the words used in the statute. Encourage means to urge, foster, stimulate, to give hope or help. (Webster’s Seventh New Collegiate Dict. (1967); also see Hayakawa, Use the Right Word (1968) p. 188.) The promise of active help in the form of providing a volume of business such as was made by defendant here amounted to encouragement.
+The judgment is affirmed.
+Roth, P. J., and Fleming, J., concurred.
+A petition for a rehearing was denied February 11, 1976, and appellant’s petition for a hearing by the Supreme Court was denied March 24, 1976.
