@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1569"
+decided: "1914-05-01"
+citations: ["24 Cal. App. 386"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN B. MASON, Petitioner, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY et al., Respondent."]
+source_url: "https://static.case.law/cal-app/24/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4493396
+---
+
+# Mason v. Superior Court
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Upon application of petitioner, an alternative writ of mandate was heretofore issued, directed to the Honorable Charles Monroe, judge of the superior court of Los Angeles County, department thirteen thereof, commanding him to proceed with the trial of a certain case, entitled, John B. Mason v. Mamie Wallick Neilly, also known as Mamie Wallick Mason, then pending therein, or show cause at a time and place specified why he should not so proceed.
+It appears from the petition that petitioner, as plaintiff, commenced an action in said court the purpose of which was to obtain a decree for the annulment of the marriage of himself and the defendant named in said action. Due service was had Upon defendant, who made default therein; whereupon the ease was set for trial in said department thirteen of said superior court on March 12, 1914, at which time it was called for trial, and plaintiff by his attorneys, after paying the fees of the reporter and complying with all rules prevailing in said court, proceeded with the trial of the case, when, after certain proceedings had and testimony taken, said court did, as alleged, “arbitrarily and without any reason whatsoever, stop the said trial, refuse to hear any other or further testimony or to proceed in any other respect with the said trial, or to grant or deny a decree, or to take the matter under consideration, or to dismiss the said cause, or to nonsuit the plaintiff, or to take any step whatsoever in relation thereto, except to so refuse to further proceed”; all of which the return to the court admits, with the qualification, however, that at said time the court continued the further hearing of the case to the thirteenth day of October, 1914; the reason assigned for so doing being, as appears from a transcript of the testimony taken in said matter, though no answer was filed, that plaintiff in said action had theretofore, on October 9, 1913, obtained an interlocutory decree of divorce from the defendant in said action. The learned judge, as appears from this transcript, was of the opinion that plaintiff was desirous of marrying again. In speaking of the decree of divorce, the judge stated: “He (plaintiff) got what he asked for. Now what does he want to do, marry right away!” And when plaintiff’s attorney suggested that since it had been discovered that defendant was not capable of contracting the marriage (a fact not known to petitioner when the decree of divorce was granted), plaintiff was entitled to an annulment thereof, notwithstanding the fact that an interlocutory decree of divorce had been granted, and asked to submit authorities upon the question, the court replied: “Well, you could submit authorities, but I am going to continue the case. I am not going to hurry this up just because a man wants to hurry it up to get married.” There was no evidence that petitioner contemplated marriage.
+When properly in court and complying with the rules thereof, litigants are entitled to an orderly, and timely determination of causes wherein they are interested, even though they “want to get married.” While the law and public policy may place restrictions upon the contracting of marriage, it is not the province of a court so to do. According to the admitted facts, plaintiff was clearly entitled to a trial of his case and to the judgment of the court upon the facts adduced, and the action of the court in arbitrarily continuing the trial thereof was, as shown by the return, wholly without warrant.
+It further appears from the return that, since the unwarranted continuance of the case and refusal to try the same, the court has set forty to fifty cases for trial, which will occupy the time of the court until June 12th or 35th, and that this case cannot be tried earlier than June 15th without discommoding other litigants. Plaintiff should not be deprived of an early trial of this case because of the unwarranted action of the court in continuing the same, and his right and convenience entitle him to have his case restored to the place upon the trial calendar in advance of the cases so wrongfully given precedence in setting them for trial.
+The alternative writ will be made peremptory, and the trial court directed to set the case down for trial at the earliest date consistent with the orderly and usual disposition of cases, save and except that this case shall be given precedence over all cases set for trial subsequent to March 12, 1914.
+Gonrey, P. J., and James, J., concurred.
