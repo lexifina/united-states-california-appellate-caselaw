@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "8"
+decided: "1905-05-31"
+citations: ["1 Cal. App. 90"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAWRENCE H. BITHER, Respondent, v. ANDREW CHRISTENSEN, and UNITED STATES FIDELITY GUARANTY COMPANY, Appellants."]
+source_url: "https://static.case.law/cal-app/1/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1180276
+cites_cases: ["11 Pac. 244", "2 Pac. 260", "64 Cal. 489", "69 Cal. 550"]
+---
+
+# Bither v. Christensen
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Foreclosure of mortgage. Plaintiff had judgment, from which defendants appeal on the judgment-roll alone. The only question presented is the claim of defendants that the action was prematurely brought.
+From the findings of the court it appears that on August 8, 1898, plaintiff, defendant Christensen, and one Copsey entered into an agreement by which Christensen agreed to purchase certain lands, situated in Mendocino County, owned by plaintiff and Copsey as tenants in common, being the premises described in the complaint; that in payment to Copsey for his interest therein said defendant should convey to him certain real property in San Francisco, and in payment to plaintiff for his interest therein he should pay plaintiff the sum of two thousand dollars five years after date, with interest thereon from said date at the rate of six per cent per annum, payable semiannually, the payment of the same to be secured by mortgage on the premises described in the complaint; that the note evidencing said payment and the mortgage securing the same were to be at once delivered to one Pemberton “to be held by him and withheld from record and from absolute delivery until such time as the said Christensen and the said Copsey should have time to investigate the title to the properties to be respectively conveyed and to be respectively satisfied regarding such titles”; and upon being so satisfied Pemberton was to make delivery of said note and mortgage to plaintiff, pursuant to which agreement the note and mortgage were executed and left with Pemberton; thereafter, on or before September 3, 1898, Christensen declared himself satisfied with the title, and although informed that the title to a portion of the land was not perfect, “he insisted on the sale being fully consummated, and agreed to accept the deed to said lands as conveying sufficient title thereto,” and directed Pemberton to complete the delivery of the said note and mortgage, and thereupon, “all the parties to the said transaction consenting thereto, ’ ’ Pemberton delivered the note and mortgage to plaintiff. It is further found that Christensen, with full knowledge of all the facts affecting the title of the portion of the land as to which title was not perfect, conveyed the San Francisco property to Copsey and insisted on having the lands, as to which the title was imperfect, included in said mortgage. It is further found “that the time of payment of each installment of [as] provided for in said promissory note was according to the intention and agreement of the parties to be computed according to the terms of the writing itself; that is, of the terms of said promissory note; that the installments of interest fall due thereunder on the 8th day of February and 8th day of August in each year respectively after the date on the face of the note.” It is further found that the mortgage provided in case of default in the payment of any installment of interest, “the whole principal and interest shall be due at the option of the holder of the said obligation”; that plaintiff exercised his option on February 12, 1901, on which day he commenced this action; that defendant Christensen did not, before the commencement of this action, tender to plaintiff any installment of interest due under the terms of said note and mortgage other than the installments due August 8, 1900, and prior thereto, which by the complaint are admitted to have been paid.
+Appellants contend that the interest became due March 3d and September 3d, instead of February 8th and August 8th, as found by the court. Appellants rely on Collins v. Driscoll, 69 Cal. 550, [11 Pac. 244], (and other cases to like effect,) where it was held that the statute of limitations begins to run against a promissory note from the date of its actual delivery, and not from the date it bears. And it was there said: “Whatever may be its date, a note takes effect only on ‘delivery. ’ ” But it was also said: “A note may be antedated or postdated, and ‘where the purposes of justice require it, the real date may be inquired into, and effect given to the instrument. ’ ” (Citing Story on Promissory Notes, sec. 48; Paige v. Carter, 64 Cal. 489, [2 Pac. 260].)
+The court found that the time of payment of each installment of the interest on said note “was according to the intention and agreement of both parties to be computed according to the terms of the writing itself” and that “the installments fall due thereunder on the 8th day of August of each year respectively after the date on the face of the note.”
+It was perfectly competent for the parties to so agree, and we must assume that the evidence supported this finding.
+The judgment is affirmed.
+Buckles, J., and McLaughlin, J., concurred.
