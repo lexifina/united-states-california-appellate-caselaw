@@ -1,0 +1,39 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15322"
+decided: "1947-04-17"
+citations: ["79 Cal. App. 2d 191"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVID P. NEILL, Plaintiff and Appellant, v. FIVE C. REFINING COMPANY (a Corporation) et al., Respondents; R. H. HAWN, Cross-defendant and Appellant; MAGUIRE OIL AND REFINING CORPORATION (a Corporation), Intervener and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/79/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4453304
+cites_cases: ["117 P.2d 898", "140 P.2d 666", "187 Cal. 116", "200 P. 104", "205 Cal. 496", "22 Cal.2d 685", "227 F. 928", "271 P. 898", "47 Cal.App.2d 275"]
+---
+
+# Neill v. Five C. Refining Co.
+
+## Majority (DRAPEAU, J. pro tem.)
+
+DRAPEAU, J. pro tem.
+Sunshine Oil Company was the owner of an oil lease in the Santa Maria field in Santa Barbara County. From producing wells on the lease crude oil was sold to an assignor of Maguire Oil & Refining Company. As security for payment of the purchase price of the oil, a chattel mortgage of the personal property on the lease was executed and delivered, which Maguire assumed and agreed to pay.
+Maguire refined the oil and extracted from it the more volatile and valuable portions, an oil product generally known as “tops.” That part of the oil which was left after the tops were taken out may be denominated “residuum.” And it is concerning the ownership of this residuum with which this case has to deal.
+The residuum was conducted through pipes from the refinery to sumps prepared for its storage. These sumps were areas of land, upon which power shovels or clam-shells were used for excavations, the excavated earth being piled around the sides to increase storage capacity. There were seven sumps in all, five constructed by Maguire, and two later on by a liquidating corporation named Silver Wing Oil Company. Into these sumps residuum from the refining operations of Maguire and Silver Wing was piped and stored.
+The residuum was commercially valuable as a base for preparation of different grades of asphalt and oil for road purposes. During the second world war there was little demand for this product, hence its storage in large quantities in the seven sumps.
+Sunshine Oil Company was adjudged bankrupt, and its affairs were administered in the federal court. The trustee in bankruptcy brought an action in the superior court against Maguire Oil & Refining Company to foreclose the mortgage heretofore mentioned. The files in that action disclose that the Maguire Company consented to a judgment against it, as prayed. This judgment in due time became final, and by process based upon it the residuum was sold by the sheriff of Santa Barbara County to the trustee in bankruptcy.
+To facilitate liquidation, all of the creditors and the bankrupt entered into an agreement, conveying all of the assets in bankruptcy to a corporation named Silver Wing Oil Company. This corporation was given the power to sell the assets and to operate the property, subject to the approval of the referee in bankruptcy, to make payments of liquidating dividends to creditors, and to convey any balance to the bankrupt.
+Silver Wing operated the refinery, excavated two new sumps as stated, and added additional residuum to the sumps. Silver Wing, with the approval of the referee in bankruptcy, sold 250,000 barrels of residuum to Five C. Refining Company, and granted an option to the latter company to purchase an additional 150,000 barrels. This sale is evidenced by a written agreement, dated February 26, 1942. Later, in February, 1944, Silver Wing sold to Hawn (predecessor to plaintiff Neill) the real property upon which were located the sumps, and the refinery. But both Hawn and Neill agreed in writing to assume and to be bound by the agreement of sale of Silver Wing to Five C.
+In 1944, Neill as plaintiff brought action against Five C., and certain operating assignees of Five C., to wit: Guy Cherry, Sr., and Guy Cherry, Jr., and Independent Asphalt Company. Other parties were brought into the action; R. H. Hawn, cross-defendant, and the Maguire Oil and Refining Corporation, intervener. But the issues may be simply stated as between Neill, plaintiff, and Five C. Refining Company, and between Five C. and Maguire.
+During the trial it developed upon interrogation of counsel by the trial judge that there was an agreement between Maguire, Hawn and Neill that if any one of them was successful in the action in securing the residuum, it would be sold and the proceeds divided among these three parties. This makes any controversy as between them moot. An action not founded upon an actual controversy, or prosecuted “for the gratification of the curiosity of the litigants” is collusive and will not be entertained. (San Francisco v. Boyd, 22 Cal.2d 685, 694 [140 P.2d 666], and cases there cited; 1 Cal.Jur. 335; Southern Pacific Co. v. Eshelman, 227 F. 928.)
+After weeks of trial, the trial court found that 400,000 barrels comprised practically all of the recoverable residuum in the sumps, and that Five C. Refining Company was the owner of all of it, either by prior purchase or upon payment therefor under its option.
+A review of the reporter’s transcript, consisting of 2,192 pages, mostly interminable argument, and inspection of the exhibits, establishes that there was substantial evidence to support the findings and judgment of the trial court. Hence, it is elementary law that it becomes the duty of this court to affirm the judgment.
+In passing it must be observed that this case presents an exaggerated example of a fundamental weakness of the appellate system in the State of California. Surely counsel, with the forensic ability to argue a ease for five weeks, were equipped to condense a reporter’s transcript of over 2,000 pages into a bill of exceptions, which should have been not more than 100 pages. Review of this ease has taken weeks of reading of argument in the reporter’s transcript, and reviewing of voluminous exhibits, in order to conscientiously pass upon the questions involved. This case causes unnecessary delay in deciding other cases on appeal, and is unfair to litigants generally.
+Maguire contends that the judgment which it consented to against itself is not binding in this case, because it was thereafter reversed by the District Court of Appeal. (Coates v. Maguire etc. Corp., 47 Cal.App.2d 275 [117 P.2d 898].)
+However, the judgment which was reversed by the District Court of Appeal was against another defendant in the same action. No appeal was perfected by Maguire, and the two judgments are separate. (Code of Civ. Proc., § 579.) Therefore, the judgment against Maguire was not considered by the District Court of Appeal, and remained final despite the reversal of the judgment as to the other defendant. (Lake v. Superior Court, 187 Cal. 116 [200 P. 104] ; Smith v. Anglo-California Trust Co., 205 Cal. 496 [271 P. 898].)
+Even if the judgment against Maguire may not stand, the trial court found that that company was estopped to question the rights of Five C., and there is substantial evidence in the record to support this finding.
+Appellants attack the agreement conveying the bankrupt estate to Silver Wing. This agreement was made under the provisions of section 27 of the Bankruptcy Act, and was authorized and approved by all of the parties having any in-, terest in the bankrupt estate. Moreover, there is substantial evidence to support the finding of the trial court that neither Neill nor his predecessor, Hawn, may equitably question this sale.
+The judgment is affirmed.
+York, P. J., and White, J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied June 12, 1947.
