@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14027"
+decided: "1950-01-06"
+citations: ["95 Cal. App. 2d 503"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH GHIRINGHELLI, Appellant, v. HENRY RIBONI, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/95/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257250
+cites_cases: ["14 Cal.2d 47", "2 A.L.R.2d 514", "201 P.2d 418", "205 Cal. 581", "21 P. 963", "23 Cal.App.2d 298", "271 P. 1083", "275 P. 503", "47 Cal. 542", "72 P.2d 895", "79 Cal. 603", "89 Cal.App.2d 520", "92 P.2d 804", "97 Cal.App. 193"]
+---
+
+# Ghiringhelli v. Riboni
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+In this action for an accounting, when it appeared from the opening statement of counsel for plaintiff and from two exhibits offered by defendant that the identical issues in this action had been in issue in a prior action between the same parties, and that upon agreement of the parties the former action had been dismissed with prejudice, the trial court entered judgment for defendant. Plaintiff appeals.
+Plaintiff makes no attack upon the agreement which was the basis of the dismissal of the prior action, but simply contends that he is entitled to an accounting. He makes no attempt at all to meet the argument that the dismissal with prejudice of the prior accounting suit, is a bar to this action. The appeal lacks merit.
+The facts, as disclosed from the pleadings in this action, and from the exhibits introduced into evidence, one of which is the entire file in the prior action, are as follows: The plaintiff and. defendant are sister and brother. Before his death, their father, Antonio Eiboni, conveyed to them, and to two other children, as tenants in common, certain real property. The complaint in the present action alleges that defendant undertook the full management of the property, collected the rents, paid taxes, made expenditures for repairs, and performed other acts in connection with the property; that the defendant acted as a trustee for the other tenants in common, including plaintiff, and, although requested to do so, has never rendered an accounting to plaintiff. It is then alleged: “That an action was brought in the Superior Court . . . for the County of Santa Cruz, and numbered 20276, for the partition of the property herein set out, wherein said Henry Eiboni, . . . was one of the defendants therein, and an accounting was requested of said Henry Eiboni of his receipts and expenditures in connection with said properties, during the time of his stewardship, but said defendant failed, refused and neglected to file or render any accounting therefor; that said property was partitioned by the order of said Superior Court, and the action was dismissed on said 15th day of May, 1946 . . .”
+The complaint prays that defendant be ordered to file a complete accounting of his stewardship.
+The answer admitted that no accounting had ever been filed by defendant, but avers that a full accounting was in fact made to plaintiff each month. As one defense, it alleges the commencement of the prior action and its dismissal with prejudice; that prior to such dismissal the property, with the consent of plaintiff, was sold by the coowners; that plaintiff has been guilty of laches. The statute of limitations is also set up as a defense.
+It appears that the former action for an accounting and for partition was dismissed when an opportunity arose,, while that action was pending, for the parties to sell the property which was the subject of the action. An escrow was set up with specific instructions as to how the escrow holder was to distribute rentals and the proceeds of the sale. The parties, so far as the then proceeding for an accounting was concerned, then entered into a stipulation “that at the sole expense of plaintiff above named, without any liability whatever herein upon the defendants for the cost thereof, plaintiff may employ an accountant to audit the accounts and records of defendant Henry Riboni covering collection of rentals and disbursement thereof in connection with the property which is the subject of the above entitled cause. ’ ’
+The prior action was dismissed, with prejudice, by an order filed May 29,1946, pursuant to the request signed by plaintiff’s counsel, reading as follows:
+“You are hereby authorized and directed to enter dismissal of the above entitled action as against the above named defendants in said action with prejudice.
+‘ ‘Dated: May 151946
+“J Maxwell Peyser_
+“Attorney for Plaintiff”
+When these facts were admitted by all concerned in the present proceeding the trial court ordered judgment for the defendant. Findings of fact and conclusions of law were waived by stipulation, but it clearly appears from the reporter ’s transcript that the trial court based its present judgment on the dismissal with prejudice of the prior accounting action, holding that such a dismissal wiped out every issue involved in that action, and was tantamount to a judgment on the request for an accounting, since no question of fraud or undue influence in obtaining the agreement was raised or alleged.
+The position taken by the trial court was clearly correct. The compromise agreement made while the first action was pending has the legal effect of a judgment in determining the rights of the parties. (Lamb v. Herndon, 97 Cal.App. 193 [275 P. 503]; Silver v. Shemanski, 89 Cal.App.2d 520 [201 P.2d 418].) The present case falls squarely within the rule stated in Goddard v. Security Title Ins. & Guar. Co., 14 Cal.2d 47, 55 [92 P.2d 804]: “Other cases are concerned with dismissals by consent or stipulation of the parties, after compromise or settlement of the suit, where the dismissal is intended to operate as a retraxit and end the litigation. In such cases the judgment of dismissal is entered ‘with prejudice’ and is of course a bar to a subsequent suit. [Cases cited.] ”
+At common law for a retraxit to be sufficient to bar the bringing of the same cause of action thereafter, there had to be an open and voluntary renunciation of the suit in open court. In this state the statutory method of dismissal provided in section 581, subdivision 1, of the Code of Civil Procedure, which was followed in this case, dispenses with the requirement of renunciation in open court, but a dismissal under that section has the same legal effect as a common law retraxit. (Estate of Cook, 205 Cal. 581 [271 P. 1083]; Merritt v. Campbell, 47 Cal. 542.) The basic question in such cases under the statute is whether or not the parties fully understand that the requested dismissal is to be “with prejudice.” Here the dismissal was, at the request of plaintiff, made “with prejudice.” That is determinative of the accounting issue, and precludes plaintiff from litigating that issue again. (Breznikar v. T. J. Topper Co., 23 Cal.App.2d 298 [72 P.2d 895]; Crossman v. Davis, 79 Cal. 603 [21 P. 963]; Lamb v. Herndon, 97 Cal.App. 193 [275 P. 503]; see, also, 2 Freeman on Judgments § 757, p. 1596; 2 A.L.R.2d 514, 567.)
+The judgment is affirmed.
+Ward, J., and Bray, J., concurred.
