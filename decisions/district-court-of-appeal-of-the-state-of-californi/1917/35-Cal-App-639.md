@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2232"
+decided: "1917-12-18"
+citations: ["35 Cal. App. 639"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. A. CALDWELL, Appellant, v. REGENTS OF THE UNIVERSITY OF CALIFORNIA et al., Respondents."]
+source_url: "https://static.case.law/cal-app/35/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024974
+---
+
+# Caldwell v. Regents of University
+
+## Majority (LENNON, P. J.)
+
+LENNON, P. J.
+This is an appeal by plaintiff from a judgment and order denying a new trial. The action is ostensibly an action for partition, but in reality, so far as the defendant-respondents are concerned, it is an action to quiet title, and the sole issue in the action as 'between the plaintiff and these defendants is as to the title of the property in question.
+• The facts are as follows: The Regents of the University of California purchased‘the property in question at a foreclosure sale made under a foreclosure decree in a foreclosure action wherein the mortgagor was served with summons, appeared, and answered. No appeal was taken, and upon the period of redemption expiring the Regents took possession of the property, fenced it, and ever since have had possession. Just two days before the expiration of five years from the date of the foreclosure sale the mortgagor quitclaimed the property to the plaintiff, who, on the last day of the five years filed a complaint against the Regents to quiet title. The plaintiff never served summons in this action to quiet title, and after about twenty months it was dismissed for want of prosecution. The plaintiff appealed from the order of dismissal and the order was affirmed. Shortly after the affirmance of the order of dismissal the plaintiff conveyed a half interest in the property to one Shea, and within a few days thereafter commenced the present suit for a partition between himself and Shea, making, however, over one hundred persons other than Shea, and including the Regents and their vendee, the Country Club Heights Company, parties defendant. The Regents and the Country Club Heights Company answered, claiming to be the sole owners of the property. So far as the record shows, neither Shea nor any of the other defendants save the respondents were served with summons, and none of them appeared. The respondents moved to have the cause set for trial for the determination of the issue of title between themselves and the plaintiff, and the plaintiff sought to have the trial postponed until the action should be at issue as to all the other defendants. However, the action was set for trial and tried and judgment rendered in favor of the respondents.
+The plaintiff now claims that it was error on the part of the court below to proceed with the trial of the issues raised by the pleadings between the plaintiff and the defendants without awaiting for the appearance in the action of the remaining defendants. There is no merit in this contention. Manifestly the remaining defendants were not concerned with, and were not necessary parties to, a determination of the issue of title as joined between the plaintiff and the defendants here. It is a matter of discretion on the part of the trial court to grant separate trials as between the plaintiff and separate defendants, which discretion will not be interfered with on appeal except in the case of abuse which is not made manifest here. •
+Plaintiff contends that the sale under foreclosure of mortgage by Knowles to the Regents, by which sale the Regents have the record title, is void for the alleged reason that the decree of foreclosure upon which the sale was based was void in this, that it declared that the mortgage debt was barred as to any sum in excess of ten thousand dollars, and yet-directed a sale to pay a sum in excess of this amount.
+The findings, conclusions, and decree show the contrary. The trial court simply found that the mortgage debt was barred as to certain defendants as to any claim in excess of ten thousand dollars. The court then specifically found and designated the particular lots that were owned by these particular defendants and as to which a part of the mortgage debt was barred, and .accordingly ordered the sale of the various lots comprising the mortgaged property, directing that the sale was to proceed until the sum of ten thousand dollars, as to which the statute of limitations had not run as to any of the defendants, with interest and costs, had been realized, and that when this sum was realized the lots, specifically enumerating them, which belonged to the defendants as to whom the remainder of the mortgage debt was barred, should be withdrawn from the sale, which should continue only as to lots owned by defendants as to whom none of the mortgage debt was barred. It appears from the record that the sale followed these provisions of the foreclosure decree.
+Upon the oral argument it was conceded by counsel for plaintiff that there was no merit in the contention made in the opening brief filed upon behalf of the plaintiff to the effect that the trial court had erred in making an amendment to the findings and judgment as originally made and rendered, and therefore that point need not now be discussed.
+This disposes of all the points made in the printed brief of counsel for the plaintiff. We are not required and we will not discuss and decide points made for the first time upon oral argument.
+Judgment affirmed.
+Kerrigan, J., and Richards, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in. the district court of appeal, was denied by the supreme court on February 14, 1918.
