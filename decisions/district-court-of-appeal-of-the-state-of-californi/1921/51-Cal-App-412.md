@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2228"
+decided: "1921-02-16"
+citations: ["51 Cal. App. 412"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM ROSS, Appellant, v. JOHN M. GOINS et al., Defendants; AMELIA E. PODESTA et al., Respondents."]
+source_url: "https://static.case.law/cal-app/51/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094660
+cites_cases: ["129 Cal. 640", "22 Am. St. Rep. 189", "28 Pac. 444", "40 Cal. 657", "62 Pac. 261", "88 Am. St. Rep. 779", "92 Cal. 412"]
+---
+
+# Ross v. Goins
+
+## Majority (PREWETT, P. J., pro tem.)
+
+PREWETT, P. J., pro tem.
+A demurrer to the second amended complaint was sustained by the trial court and the plaintiff declined further to amend. He appeals from the judgment following such refusal. The interest of defendant John M. Goins is not involved in this appeal. .The grounds of demurrer are various. It is claimed that the complaint fails to state a cause of action; that it is unintelligible, uncertain, and ambiguous and that several causes of action have been improperly united. The portions of the complaint material to this, inquiry read as follows:
+“That on the said second day of February, 1918, plaintiff was rightfully in possession of said premises and occupying the same as the tenant thereof under the aforesaid owners and their said agent John M. Goins.
+“That on and prior to the said second day of February, 1918, defendant John M. Goins was the duly authorized agent, servant and employee of the above named owners of said real property, for all purposes connected with the leasing and collecting of rents on the premises above described, and in securing tenants therefor and in discharging and ejecting tenants therefrom.
+“That on the said second day of February, 1918, the said defendant owners by and through their said agent, servant, and employee, John M. Goins, undertook to remove and did remove the plaintiff herein from said building and premises by force and violence and against his will and without due process of law, and more particularly as follows : ’ ’
+Then follows a long array of events, all of which relate back to said introductory words, “more particularly as follows,” and none of which in any way or degree show or tend to show any removal or attempted removal of the plaintiff.
+Said long array of events comprises an allegation that the defendants entered by force and violence and ransacked the house, removed plaintiff’s personal property therefrom, destroyed portions of his machinery therein, broke open and destroyed a ease of dyes, carried away three suits of clothing, knocked the plaintiff to the floor with great force and violence, sat upon his body, struck plaintiff in the face, knocked out several of his teeth, gagged him and hurt and bruised him about the chest, right shoulder, left leg, and left foot to his damage in the sum of ten thousand dollars.
+Many of these events, if standing alone and tendered as independent averments, would doubtless state causes of action, but when averred as a particularization of the act of removal of the plaintiff from the premises, they fail to have any meaning. E'aeh one of them shows upon its face that it constitutes no part of the act of removal, yet it is only for the purpose of particularizing the alleged removal that they are offered.
+Nor does the paragraph which alleges the removal state a cause of action. By its own terms it is incomplete, since it is limited and particularized by the closing clause thereof, which reads, “and more particularly as follows,” but the parts that follow do not relate to the matter of removal. It does not, therefore, in its present shape, state a cause of action. It would perhaps state a cause of action if we excised therefrom the particularization clause, but it is unnecessary to consider the point.
+If we disregard the language and purpose of the complaint in attempting to make this long array of events a part of the paragraph charging an unlawful removal of the plaintiff from the premises, and make an effort to consider them each as an independent averment, we encounter various difficulties. , Considering them as applicable to all the defendants, we find that they are improperly joined in the same complaint with a cause of action for unlawful removal; that allegations charging injuries to person and property are improperly joined with a cause of action for conversion of personal property, and that all these are joined with a cause of action for trespass upon real property.
+There is no allegation that the unlawful removal is a part of the same general series of torts stated in the following paragraph. The allegations charging crimes are quite insufficient to show that the respondents authorized, directed, or commanded the criminal acts. (Fogel v. Schmalz, 92 Cal. 412, [28 Pac. 444]; Mendelsohn v. Anaheim etc., 40 Cal. 657.) In the Mendelsohn case the court said: “It is well settled that though a principal is liable for actual damage caused by the act of his agent done in the usual course of his employment, he is not responsible for wanton and malicious damage done by the agent without the consent, approval, or subsequent ratification of the principal.”
+Sections 23-38 and 2339 of the Civil Code are conclusive on this point. The allegation of the complaint as to the agency of Goins in the commission of the assault is: “John M. Goins, as such agent, servant and employee of said owners and while acting in their behalf, then and there knocked the plaintiff,” etc. A general allegation of agency is wholly insufficient to charge a principal with liability for the agent’s wanton and malicious acts, but it must be averred that the principal “authorized or ratified them.” (Sec. 2339, supra.) The rule holding carriers liable for the- torts of their conductors and brakemen in no way conflicts with this principle. A cause of action- for assault is stated against defendant Goins and not against the respondents, and therefore this cause of action is improperly joined with causes of action against respondents.
+■ The trial court sustained the demurrer as to certain grounds and some months later inadvertently entered an order purporting to overrule it on certain other grounds. On discovering this it set aside this inadvertent order, as it had a lawful right to do.
+When the, court sustained the demurrer it was deemed to be sustained on any and every tenable ground, whether general or special. Under our practice a demurrer sustained is sustained for all purposes and upon every issue and in its entirety, so far as involves the count toward which it is directed. (Sechrist v. Rialto Irr. Dist., 129 Cal. 640, [62 Pac. 261].)
+The complaint does not state a cause of action against the respondents; the cause of action for removal is improperly joined with other causes of action; a number of causes of action are not separately stated; some are against all the defendants and some against only defendant Goins, and the demurrer was properly sustained on the ground of uncertainty and ambiguity. The judgment is affirmed.
+Hart, J., and Burnett, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on April 14, 1921.
+All the Justices concurred.
