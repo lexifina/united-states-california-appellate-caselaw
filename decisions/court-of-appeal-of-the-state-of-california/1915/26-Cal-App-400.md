@@ -1,0 +1,26 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 1435"
+decided: "1915-01-25"
+citations: ["26 Cal. App. 400"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ASHCROFT ESTATE COMPANY (a Corporation), Respondent v. AUGUST NELSON et al., Defendants; W., HENDERSON, Cross-complainant and Appellant."]
+source_url: "https://static.case.law/cal-app/26/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 332693
+cites_cases: ["128 Cal. 489", "135 N. Y. Supp. 1093", "135 Pac. 41", "143 Pac. 423", "143 Pac. 52", "166 Cal. 157", "169 Cal. 143", "25 Cal. App. 575", "41 Minn. 218", "43 N. W. 137", "6 Cal. App. 455", "61 Pac. 84", "92 Pac. 393"]
+---
+
+# Ashcroft Estate Co. v. Nelson
+
+## Majority (THE COURT.)
+
+THE COURT.
+This is an action to foreclose a chattel mortgage. The plaintiff and defendants were respectively lessor and lessees of premises under a written instrument, for the performance of the conditions of which the chattel mortgage was given as security. The defendant W. Henderson, who is the appellant here, held a second mortgage on the personal property forming the subject of the chattel mortgage involved in this action. The court gave judgment foreclosing both chattel mortgages, and found that appellant’s mortgage was subordinate to that of the plaintiff. The appeal is from the judgment and from the order denying appellant’s motion for a new trial.
+The sole question in this case is whether a lessor may maintain an action for the foreclosure of a chattel mortgage given to secure the faithful performance of the covenants and conditions of a lease, where prior to the institution of such action the lessor has recovered a judgment in an unlawful detainer proceeding for restitution of the premises, forfeiture of the lease, and for the sum of four hundred and sixteen dollars, the actual amount .due for the rent of the premises involved, and where this breach of the lease, viz., the nonpayment of rent, is the basis of both actions.
+Section 726 of the Code of Civil Procedure provides in part that “There can be but one action for the recovery of any debt, or the enforcement of any right secured by mortgage upon real or personal property.” If the unlawful detainer action may be regarded as one for the recovery of a debt, then plaintiff under this section of the code must be held to have waived the security of the chattel mortgage. It seems clear, however, from the authorities that an action of unlawful detainer must be regarded as having for its purpose primarily the recovery of the possession of real property, and that the part of the judgment recovered therein declaring the lease forfeited and awarding damages is merely incidental, so that such action cannot be classed as one for the recovery of a debt. (Toplitz v. Standard Co., 25 Cal. App. 575, [143 Pac. 52] ; Arnold v. Krigbaum, 169 Cal. 143, [143 Pac. 423], decided by the supreme court January 19, 1915.) The rights determined in an unlawful detainer suit are entirely different from those litigated in a suit to foreclose a chattel mortgage; and as both remedies may not be embraced in one action, it would seem to follow that separate actions to enforce the different rights may be maintained. Especially is that true in this case, for here the mortgagor in express terms in the mortgage waived the very defense here interposed. In the case of Ely v. Williams, 6 Cal. App. 455, [92 Pac. 393], the chattel mortgage by its terms gave to the mortgagee the right to take possession of the mortgaged property upon default in the payments therein provided to be made; and the court held that a prior action to foreclose the mortgage was not a bar to an action in claim and delivery; that the provisions of section 726 of the Code of Civil Procedure, “must be construed to have reference to the enforcement of. those rights only which are necessary to the recovery of the debt and the foreclosure of the lien given to secure it, and not to any collateral contract in the mortgage which does not affect the interests of the parties in the mortgaged property.” Continuing, the court says: “The judgment in the replevin action will in no way affect the issues tried in the foreclosure proceeding, and, if in favor of the plaintiff, will only operate to aid in the proper execution of the decree rendered in that proceeding.” The same in a measure is true here. The judgment in the unlawful detainer action can in no way affect the issue in this case, and will operate only as an aid in compelling performance of the covenants of the chattel mortgage. In that case, too, as in this, the defense interposed was waived by express provision of the chattel mortgage.
+Other cases bearing on the point are: Schehr v. Berkey, 166 Cal. 157, [135 Pac. 41] ; Harper v. Gordon, 128 Cal. 489, [61 Pac. 84]; Ludlum v. Rothschild, 41 Minn. 218, [43 N. W. 137] ; Mohegan Athletic Club v. Eberhart, 135 N. Y. Supp. 1093.
+The judgment and order are affirmed.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 25, 1915.
