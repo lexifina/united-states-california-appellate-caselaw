@@ -1,0 +1,46 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3431"
+decided: "1946-01-14"
+citations: ["72 Cal. App. 2d 545"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WOODROW WILSON FITZSIMMONS, Appellant, v. GLENDORA A. FITZSIMMONS, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/72/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377001
+cites_cases: ["100 Cal.App. 28", "102 P. 927", "120 Cal. 184", "126 Cal. 123", "131 P.2d 562", "148 Cal. 239", "155 Cal. 665", "16 L.R.A. 660", "166 P. 330", "170 P. 658", "175 Cal. 571", "195 P. 715", "222 P. 377", "230 P. 209", "25 L.R.A. N.S. 45", "25 L.R.A.N.S. 45", "279 P. 458", "30 P. 298", "33 Cal.App.2d 274", "35 Cal.App. 646", "50 Cal.App. 676", "52 P. 298", "55 Cal. App.2d 703", "58 P. 456", "64 Cal. App. 632", "68 Cal.App. 725", "68 P.2d 351", "8 Cal.2d 762", "82 P. 967", "91 P.2d 238", "95 Cal. 171"]
+---
+
+# Fitzsimmons v. Fitzsimmons
+
+## Majority
+
+MARKS, J.
+This is an appeal from a judgment denying plaintiff a divorce and awarding defendant the custody of the minor child of the parties, allowing her $29 a week for the support of herself and the child and dividing the community property.
+Plaintiff filed his action seeking a divorce- on the ground of extreme cruelty. Defendant answered denying the extreme cruelty and filed a cross-complaint for separate maintenance, alleging extreme cruelty, to which plaintiff filed an answer denying the cruelty.
+We have studied the entire record and it is apparent from the evidence that the marital troubles of the couple grew out of the drinking habits of both parties. They both drank frequently together, usually in moderation but occasionally to excess. The greater part of this drinking occurred at the home of plaintiff’s mother, whom he insisted they visit frequently. On several occasions after consuming too much liquor, each of the parties used vile and profane language.
+The trial court found that on one occasion plaintiff became angry, left the home of the parties and stayed away several days; that he was quiet, moody and often unsociable and refused to talk with defendant; that he gambled, used vile language in her presence, and withheld financial information from her; that he insisted on handling all family funds and only entrusted defendant ■ with a few cents at a time. The parties acquired a residence and at one time plaintiff had accumulated $1,300 in cash and bonds from his wages and gambling.
+The trial court found that because of the background, training and associates of plaintiff, defendant’s conduct did not constitute mental cruelty, and also because of the circumstances of the parties and the feelings and propensities of defendant, plaintiff's conduct did not cause her extreme mental suffering.
+Plaintiff argues that while the trial judge found acts and conduct on the part of defendant which were not proper and which in numerous cases have been held to constitute extreme cruelty, he found that these acts did not cause plaintiff grievous mental suffering which was an abuse of discretion sufficient to justify a reversal of the judgment.
+The same argument was made in Parnay v. Parnay, 55 Cal. App.2d 703 [131 P.2d 562], and was disposed of as follows:
+“Here the court has found to be untrue, not only the allegations of plaintiff’s complaint as to the asserted acts of defendant, but also her allegations that said acts caused her grievous mental suffering. Unless defendant’s acts did have that effect, they cannot be said to have constituted extreme cruelty even though they may have made it unpleasant for plaintiff to live with defendant. It was said in MacDonald v. MacDonald, 155 Cal. 665, 670-1 [102 P. 927, 25 L.R.A. N.S. 45] :
+“ ‘ “Whether in any given case there has been inflicted .this ‘grievous mental suffering’ is a mere question of fact, to be deduced from all the circumstances of each particular case, keeping always in view the intelligence, apparent refinement, and delicacy of sentiment of the complaining party, and no arbitrary rule as to what probative facts shall exist in order to justify a finding of the ultimate facts of its existence can be given. ... A correct decision must depend—as most cases depend—upon the sound sense and judgment of juries and courts.” (Barnes v. Barnes, 95 Cal. 171 [30 P. 298].) From the very nature of the question it results that in its determination the trial judge, who has the parties before him for observation in the light of the evidence, must be invested with a wide range of discretion. It is settled that the finding of the trial court on this question will not be disturbed on appeal unless the evidence in support thereof is so slight as to indicate a want of ordinary good judgment and an abuse of discretion by the trial court. (Andrews v. Andrews, 120 Cal. 184, 187 [52 P. 298]; Avery v. Avery, 148 Cal. 239, 244 [82 P. 967]).’
+“In Maloof v. Maloof, 175 Cal. 571, 573 [166 P. 330], the court said: ‘The appellant’s case must rest upon the inflicting of “grievous mental suffering” . . . Whether or not harsh treatment, unaccompanied by physical violence, has caused “grievous mental suffering,” is a “question of fact, to be deduced from all the circumstances of each particular case.” (Barnes v. Barnes, 95 Cal. 171 [16 L.R.A. 660, 30 P. 298] ; Andrews v. Andrews, 120 Cal. 184 [52 P. 298] ; MacDonald v. MacDonald, 155 Cal. 665 [25 L.R.A.N.S. 45, 102 P. 927.’ ”
+As the question was one of fact and as there are reasonable inferences supporting the conclusions of the trial judge, we cannot disturb the judgment on that ground.
+Plaintiff argues that a wife who seeks separate maintenance in an action brought for divorce by her husband cannot obtain any relief under section 136 of the Civil Code but must obtain it under section 137 of that code, citing Sweasey v. Sweasey, 126 Cal. 123 [58 P. 456] ; Helpling v. Helpling, 50 Cal.App. 676 [195 P. 715]; and Tayian v. Tayian, 64 Cal. App. 632 [222 P. 377]. He also argues that a guilty wife cannot obtain separate maintenance from an innocent husband. (Cardinale v. Carcbinale, 8 Cal.2d 762 [68 P.2d 351].)
+These arguments cannot affect the ultimate decision of the case and need not be further considered.
+In finding numbered six the trial court found:
+“That on the 22nd day of September, 1944, plaintiff wrongfully deserted and abandoned defendant, and ever since said date has continued to live separate and apart from her against her will and without her consent.”
+Plaintiff points out that there is no allegation of wilful desertion in the cross-complaint and that this finding goes beyond the issues made by the pleadings, which is true.
+The evidence of plaintiff's desertion of defendant is found in his own testimony and that of John R. Wellington, the stepfather of defendant. This evidence shows that either on the 22nd or 24th of September, 1944, plaintiff took defendant to the home of her mother and left her there; that he told her in effect that this was the end; that he was suing her for divorce. This evidence was received without objection and supports the finding of desertion of defendant by plaintiff.
+Good practice should have required the filing of an amended cross-complaint to conform to the proof, alleging wilful desertion. While this was not done, we need not reverse the judgment as the evidence was received without objection and is sufficient to support a finding of wilful desertion and the judgment for separate maintenance. The error could have been corrected in the trial court, had timely objection been made, and the question should not be raised here for the first time.
+Plaintiff points out that sections 137 and 92 of the Civil Code provide that desertion must be wilful in order to support a judgment for separate maintenance or for divorce on that ground and that the trial court found the desertion to be wrongful but did not find it to be wilful. This is true.
+The uncontradicted evidence to which we have already alluded clearly shows that plaintiff’s desertion of defendant was wilful. No other finding on that question could have been made.
+It is well settled that when a finding, if made, of necessity would have been adverse to an appellant, the failure to make such a finding is not a ground for a reversal of the ‘judgment. Many cases supporting this rule are cited in 24 Cal. Jur., pages 944 and 945, section 188, and in volume 10 of the Ten-year Supplement, pages 741 and 742, section 188. Further, we have authority to amend the findings to conform to the proof, which we will do in this case.
+The judgment rendered in this ease is supported by the cases of Booth v. Booth, 100 Cal.App. 28 [279 P. 458]; Broad v. Broad, 35 Cal.App. 646 [170 P. 658]; Jacobs v. Jacobs, 68 Cal.App. 725 [230 P. 209]; and Mohr v. Mohr, 33 Cal.App.2d 274 [91 P.2d 238],
+Finding of fact number six is amended by adding the words “wilfully and” after the word “plaintiff” and before the words “wrongfully deserted.”
+The judgment is affirmed.
+Barnard, P. J., and Griffin, J., concurred.
+A petition for a rehearing was denied February 5,1946.
