@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 25278"
+decided: "1969-01-23"
+citations: ["269 Cal. App. 2d 60"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel. DEPARTMENT OF PUBLIC WORKS, Plaintiff and Respondent, v. REDWOOD HOTELS CORPORATION et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-2d/269/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2229963
+cites_cases: ["125 Cal. 687", "170 P. 426", "177 Cal. 249", "18 Cal.Rptr. 710", "199 Cal.App.2d 311", "248 Cal.App.2d 27", "56 Cal.Rptr. 352", "58 P. 308"]
+---
+
+# People ex rel. Dep't of Pub. Works v. Redwood Hotels Corp.
+
+## Majority (TAYLOR, J.)
+
+TAYLOR, J.
+On this appeal, the only questions presented concern the amount of interest on a judgment in condemnation to which appellants are entitled pursuant to Code of Civil Procedure section 1255b, subdivision (c).
+As this is the second appeal on this matter, a brief chronology of the pertinent facts is necessary. On April 15, 1965, a judgment in condemnation was entered awarding to appellants the sum of $85,000 for certain property in Santa Rosa. On June 4, 1965, respondent deposited the principal amount of the judgment and costs but did not deposit the amount of interest because of its appeal from the portion of the judgment for interest. Appellants did not withdraw the $85,000 until October 8,1965.
+On the prior appeal, People ex rel. Dept of Public Works v. McCoy, 248 Cal.App.2d 27 [56 Cal.Rptr. 352], respondent argued for an offset against all interest due on the judgment for the rents collected by appellants, who remained in possession from February 15, 1963 (the date of the order of possession) until May 1, 1964, when respondent took actual possession. This court (Division Three) held that respondent was entitled to an offset against the interest due between February 15, 1963, and May 1, 1964, but was not entitled to any offset against interest accruing after May 1, 1964. Accordingly, the judgment was affirmed as to the principal of $85,000, but reversed as to interest, and remanded the matter to the court below for a determination of the amount of offset to be allowed and deducted from the award (People ex rel. Dept, of Public Works v. McCoy, supra, p. 32).
+Thereafter, the trial court, after a hearing, found: that the reasonable value of appellants’ use between February 15. 1963, and May 1, 1964, was at least equal to the amount of interest during that period; appellants were not entitled to any interest on the judgment award prior to May 1, 1964; appellants were entitled to interest in the amount of $6,504.25 from May 1, 1964, to June 4, 1965, the date of the deposit; and that respondent was not obligated to pay any further interest as a final determination of the total amount was not made until the instant proceeding and the deposit stopped the running of interest.
+On this appeal, appellants contend that they are entitled to interest from June 4, 1965, the date of deposit, until October 8, 1965, the date of withdrawal, and that the trial court erred in depriving them of interest on that part of the judgment representing accrued interest from May 1, 1964 (the date respondent took actual possession) to April 15, 1965 (the date of the judgment).
+The applicable statute is Code of Civil Procedure, section 1255b, subdivision (e), that provides, so far as pertinent: “(c) The compensation and damages awarded in an eminent domain proceeding shall cease to draw interest on the earliest of the following dates: . . .
+“ (3) As to any amount paid to the person entitled thereto, the date of such payment.
+“ (4) If the full amount the defendant is then entitled to receive as finally determined in the eminent domain proceeding together with the full amount of the interest then due thereon is paid into court for the defendant after entry of judgment, the date of such payment. ’ ’
+Appellants contend that subdivision (3) supports their contentions ; respondent, that the trial court’s determinations were proper under subdivision (4).
+As to the contention that appellants are entitled to interest from the date of the deposit to the date of withdrawal, the statute clearly indicates that interest shall cease on the earliest of the various dates, set forth in subdivision (c). Where deposit is made after entry of a judgment, as in the instant case, and is for the full amount thereof, interest thereon stops (City of Burbank v. Nordahl, 199 Cal.App.2d 311, 321 [18 Cal.Rptr. 710], citing Vallejo etc. R.R. Co. v. Reed Orchard Co., 177 Cal. 249 [170 P. 426]). To accomplish this result, the deposit must be for the defendant and must be withdrawable by him. Appellants have not indicated that the deposit in the instant case was not so made and have not indicated why they should be able to collect interest on the principal after the deposit was made and they were able to withdraw the $85,000. The fact that they did not do so on June 4, but waited until October 8, was a matter of their own choice.
+Appellants next argue that since respondent failed to deposit the full amount of interest on June 4 (because of the appeal then pending), respondent made a strategic election that precluded the application of subdivision (4) of section 1255b, which requires the payment of the full amount of principal together with the full amount of interest. This contention overlooks the fact that on reversal of the interest portion of the prior judgment relating to interest, that portion of the prior judgment was completely wiped out (City of Burbank v. Nordahl, supra, p. 311). Thus, there was no amount of interest “then payable’’ and the amount of interest due was not finally determined until the trial court’s order of October 4, 1967, in the instant proceeding. On that date, the trial court entered its judgment in the instant matter in accordance with the remand of People ex rel. Dept, of Public Works v. McCoy, supra.
+Affirmed.
+Shoemaker, P. J., and Agee, J., concurred.
+Reed held that a deposit of the amount of the judgment in order to obtain possession under Code of Civil Procedure section 1254 is in effect a tender of payment and stops the accrual of interest under Code of Civil Procedure section 1504 if the judgment is affirmed. The court relied on the rule applicable to all civil judgments that interest does not accrue if the amount is deposited in court pending an unsuccessful appeal (Ferrea v. Tubbs, 125 Cal. 687 [58 P. 308]).
+Interest ceases to accrue at the time of the deposit of the judgment in court for the eondemnee rather than upon the date of the withdrawal if the judgment is ultimately affirmed. This conclusion seems proper for the rights of the parties in the property and their share of the award have already been determined (Cal. Law Revision Com. (1960) Recommendations re: Eminent Domain, p. B-60).
