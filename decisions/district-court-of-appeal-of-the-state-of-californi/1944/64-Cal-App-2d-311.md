@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14351"
+decided: "1944-05-09"
+citations: ["64 Cal. App. 2d 311"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. ALLEN et al., Appellants, v. FLETCHER BOWRON, as Mayor, etc., et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/64/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4583074
+cites_cases: ["105 P. 582", "156 Cal. 483", "200 Cal. 1", "213 P. 707", "251 P. 784", "60 Cal.App. 680"]
+---
+
+# Allen v. Bowron
+
+## Majority (WOOD (W. J.), J.)
+
+WOOD (W. J.), J.
+The plaintiffs are employees of the city of Los Angeles working as building, plumbing and electrical inspectors in the Department of Building and Safety. In their petition they have named the mayor and the members of the city council and various other officials of the city of Los Angeles and have asked that a writ of mandate issue ordering defendants to pay to those plaintiffs who are “inspectors” the sum of $325 per month and to those who are “senior building inspectors, assistant senior plumbing inspectors and chief electrical inspectors,” the sum of $425 per month. Their petition is founded upon the claim that the sums demanded are in accordance with the prevailing salaries paid in private employment. Plaintiffs have appealed from the judgment entered in favor of defendants.
+Section 425 of the charter of the city of Los Angeles, which according to the contention of plaintiffs gives them the right to a judgment, provides as follows: “Sec. 425. In fixing the compensation to be paid to persons in the city’s employ, the Council and every other authority authorized to fix salaries or wages, shall, in each instance, provide a salary or wage at least equal to the prevailing salary or wage for the same quality of service rendered to private persons, firms or corporations under similar employment, in case such prevailing salary or wage can be ascertained.”
+In their petition plaintiffs alleged that they are receiving salaries varying from $200 per month to $250 per month and that the prevailing wage or salary for the same quality of services rendered to private persons, firms or corporations under similar employment can be readily ascertained and is from $325 to $425 per month. Defendants denied these allegations and alleged that the City Council of the City of Los Angeles has enacted an ordinance increasing the compensation of all officers and employees of the city whose salaries and wages are fixed by ordinance to the extent of $20 per month for every such officer or employee and that in doing so they took into consideration the cost of living and the prevailing wage rates for the same quality of service rendered to private persons. Findings were made by the trial court in favor of defendants on all of these issues.
+The question whether the findings are supported by the evidence or whether, as claimed by plaintiffs, they are in large part mere conclusions, need not be given consideration, for we are satisfied that plaintiffs are seeking to control the exercise of the discretion which is reposed in the members of the city council. It is fundamental that a public officer may be compelled by mandate proceedings to perform an act which it is his legal duty to perform, but the court in such proceedings may not control the exercise of discretion on the part of the officer and may not substitute its own discretion for the discretion vested in the officer. A writ of mandate will not issue to force the exercise of discretion in a particular manner. (Bank of Italy v. Johnson, 200 Cal. 1 [251 P. 784], Browning v. Dow, 60 Cal.App. 680 [213 P. 707]; Inglin v. Hoppin, 156 Cal. 483 [105 P. 582].)
+The fixing of the salaries of the many employees of a large city, especially in a period of great emergency when conditions are subject to frequent change, undoubtedly calls for the exercise of a wise discretion. A number of new housing projects have been commenced or authorized by the government to provide living quarters for the many thousands of additional workers who have recently come to or are arriving in the city. The city council in enacting the ordinance, and the trial court in making its findings, doubtless took into consideration the fact that plaintiffs are city employees under civil service with permanent employment, entitled to vacations with pay, sick leave and the benefit of the retirement system; that the employment of those claimed to be doing work similar to that of plaintiffs is not only temporary during war times but is subject to fluctuation as to the amount of compensation; and that the work of a building inspector in private employment is unlike that of plaintiffs, who, being public employees, are mainly called upon to see that the building codes are enforced.
+It is apparent that the city council has in fact acted to comply with the cited charter provision, for in the preamble to the ordinance increasing the salaries of the city’s employees, which was adopted on December 11, 1942, effective before the commencement of the present action, mention is made of the increased cost of living and of the fact that compensation paid by private employers has been substantially increased. In taking this action defendants performed the duty required of them and exercised the discretion reposed in them. Whether that discretion was exercised wisely or unwisely is not a question which the court is authorized to decide.
+The judgment is affirmed.
+Moore, P. J., and McComb, J., concurred.
+A petition for a rehearing was denied May 26, 1944, and appellants’ petition for a hearing by the Supreme Court was denied July 6, 1944. Carter, J., and Schauer, J., voted for a hearing.
