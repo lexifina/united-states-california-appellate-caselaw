@@ -1,0 +1,33 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 36551"
+decided: "1971-04-29"
+citations: ["17 Cal. App. 3d 270"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BENJAMIN RAY GREEN, Plaintiff and Appellant, v. AMERICAN CASUALTY COMPANY OF READING, PENNSYLVANIA, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/17/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4430582
+cites_cases: ["13 N.E.2d 619", "152 Tex. 316", "183 Cal.App.2d 289", "257 S.W.2d 943", "263 F.Supp. 565", "274 N.Y. 64", "300 Mass. 5", "38 A.L.R.2d 764", "387 F.2d 564", "408 P.2d 135", "432 P.2d 746", "47 Cal.Rptr. 807", "6 Cal.Rptr. 608", "63 Cal.2d 643", "63 Cal.Rptr. 50", "67 Cal.2d 527", "8 N.E.2d 279"]
+---
+
+# Green v. American Casualty Co.
+
+## Majority (FLEMING, J.)
+
+Opinion
+FLEMING, J.
+Green brought suit against American Casualty Company to recover $50,000 in benefits under a group accidental-death and dismemberment insurance policy. The trial court concluded he was not covered by the policy at the time of his loss and entered judgment in favor of defendant. Green appeals.
+Green was an employee of Farmer Brothers Company, which on 8 August 1962 contracted with American Casualty for a group policy providing accidental-death and dismemberment indemnity. Green joined the group and obtained coverage which included $50,000 for loss of a foot. Farmer Brothers paid in advance to American Casualty the $9 monthly premium on the 8th of each month, and then deducted $4.15 from Green’s paycheck every two weeks to cover the approximate cost of the premium. Green’s employment with Farmer Brothers terminated on 6 February 1967, when he disclosed to Farmer Brothers his embezzlement of its funds. On the evening of 8 February 1967 Green discharged a shotgun, as a result of which his left foot was amputated.
+1. Green’s certificate of insurance from American Casualty provided:
+“The individual coverage with respect to any Insured Person shall immediately terminate ... on the first premium due date following the date on which the Insured Person ceases to be an employee of the Policyholder. . . .”
+The key issue is whether Green was covered by the policy on the evening of 8 February 1967. American Casualty argues that the policy’s coverage became effective at 12:01 a.m. on 8 August; that a monthly premium covered the period from the 8th of one month to the 7th of the following month; that 8 February was a premium due date; that since Green’s employment terminated prior to that date, his coverage ceased at 12:01 a.m. on 8 February 1967.
+We do not accept this argument. Green’s certificate of insurance mentions the time “12:01 a.m.” only once and then says no more than “This insurance is effective on [8 August] at 12:01 a.m. . . .” The termination clause in the certificate of insurance merely provides that coverage terminates “on the first premium due date following the date on which the Insured Person ceases to be an employee.” Because uncertainties in an insurance policy must be construed in favor of the imposition of liability (Humphrey v. Equitable Life Assur. Soc., 67 Cal.2d 527, 532 [63 Cal.Rptr. 50, 432 P.2d 746]), we construe the clause which states that coverage ends “on the first premium due date following the date on which the Insured Person ceases to be an employee” to mean that coverage ends on the expiration of the premium due date. This construction is consonant with general rules for interpretations of periods of time, since “a day is the period of time between any midnight and the midnight following” (Gov. Code, § 6806), and the law does not take fractions of a day into account unless provision is specifically made for them. (City of Pleasanton v. Bryant, 63 Cal.2d 643, 646 [47 Cal.Rptr. 807, 408 P.2d 135].) When an act must be performed on a specified day, performance does not relate to any particular time of day but extends throughout the day. (47 Cal.Jur.2d, Time, § 10; 52 Am.Jur. 339, Time, § 15.) Fanner Brothers could have rehired Green on the premium due date and paid the premium for his insurance any time during that day, and Green’s coverage would have continued Without interruption. Our construction of the termination clause thus conforms duration of coverage to duration of opportunity to continue coverage, and we hold that Green was covered by the policy on the evening of 8 February 1967.
+Leary v. Bankers Life and Casualty Company, 263 F.Supp. 565, affd. (8th Cir.) 387 F.2d 564 is precisely in point. In Leary the group policy provided that coverage would cease on the first day of the month following termination of employment. Leary resigned on 16 December 1965 and suffered an insured loss at 10:20 a.m. on 1 January 1966. Held, his coverage did not cease until the end of the first day of the month. “If defendant wanted the coverage to cease at 12:01 a.m. on the first day of the month following termination of employment . . . defendant could and should have expressly provided. . . .” (263 F.Supp. at p. 569 (accord, Bouvier v. Craftsman Ins. Co., 300 Mass. 5 [13 N.E.2d 619]; Garelick v. Rosen, 274 N.Y. 64 [8 N.E.2d 279]; cf. National Security Life & Cas. Co. v. Davis, 152 Tex. 316 [257 S.W.2d 943, 38 A.L.R.2d 764], where the policy specifically provided the time of day at which coverage would end).)
+2. The insurance policy at bench excluded coverage for self-inflicted injury. Although the trial court heard evidence on the question whether Green intended to injure himself it made no finding on the subject. Green asks this court to find that his injury was accidental. (Code Civ. Proc., § 909.) We decline to do so because, absent exceptional circumstances not present here, fact-finding is a function of the court which has heard the testimony and observed the witnesses. (Lesem v. Board of Retirement, 183 Cal.App.2d 289, 302-303 [6 Cal.Rptr. 608].)
+The judgment is reversed, and the cause is remanded to the trial court with instructions to determine whether the injury was accidental or self-inflicted.
+Roth, P. J., and Herndon, J., concurred.
+A petition for a rehearing was denied May 26, 1971, and respondent’s petition for a hearing by the Supreme Court was denied June 23, 1971.
+The master policy held by Farmer Brothers provides that “All periods of insurance shall begin .and end ait 12.01 a.m. . . .” But this provision specifically relates only to the termination of Farmer Brothers’ master policy and is not found in Green’s certificate of insurance.
