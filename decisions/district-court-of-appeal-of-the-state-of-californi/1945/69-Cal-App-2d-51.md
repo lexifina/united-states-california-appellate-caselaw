@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14789"
+decided: "1945-04-30"
+citations: ["69 Cal. App. 2d 51"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY L. LYNCH, Appellant, v. CLAUDE A. WATSON, as Administrator, etc., Respondent."]
+source_url: "https://static.case.law/cal-app-2d/69/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4596644
+cites_cases: ["10 P.2d 459", "114 Cal.App. 24", "127 P.2d 970", "137 Cal.App. 474", "15 Cal.App.2d 293", "162 P. 1019", "174 Cal. 256", "212 Cal. 309", "215 Cal. 378", "298 P. 968", "299 P. 565", "30 P.2d 535", "46 P.2d 991", "53 Cal.App.2d 272", "59 P.2d 606", "8 Cal.App.2d 101"]
+---
+
+# Lynch v. Watson
+
+## Majority (FOX, J. pro tem.)
+
+FOX, J. pro tem.
+Defendant contends that the plaintiff filed his notice of appeal from a judgment of dismissal too late and that therefore his appeal must be dismissed. This contention is correct.
+Plaintiff, on August 9, 1940, filed an action against John S. Holmstrand, who, on September 5, 1940, filed his answer and cross-complaint. On October 7, 1940, plaintiff filed his answer to the cross-complaint. On July 7, 1942, Mr. Holmstrand died. On October 14, 1943, the administrator of his estate was substituted as defendant and cross-complainant. The case not having been brought to trial, the administrator, on November 10, 1943, pursuant to due notice, made a motion, supported by affidavits, to dismiss the action upon three grounds: (1) that plaintiff had failed to file or present any claim against the estate of Holmstrand as required by section 709, Probate Code; (2) that he had failed to prosecute said action with due or any diligence; and (3) that he had failed to file a nonresident cost bond as required by section 1030, Code of Civil Procedure. Plaintiff filed counteraffidavits. The motion to dismiss was granted, the minute order directing the “Attorney for the Defendant to prepare Judgment.” The formal judgment dismissing the action was signed and filed on November 16, 1943. Plaintiff, on December 22, 1943, made a purported motion for a new trial. It was denied on that date. On January 19, 1944, plaintiff filed his notice of appeal “from the judgment herein made on the 22 day of December, 1943.” There was, however, no judgment made in said case on December 22, 1943. The only thing that happened on that date was the denial of plaintiff’s purported motion for a new trial. This order, however, is not appealable (Code Civ. Proc., § 963; Confar v. Whelan (1935), 8 Cal.App.2d 101 [46 P.2d 991]; 20 Cal.Jur. § 139, p. 213).
+If, however, we disregard the date stated in plaintiff’s notice of appeal and consider that the appeal was taken from the judgment dismissing the action, said notice of appeal was not filed within the time required by law. Under rule 2(a) of Rules on Appeal, “notice of appeal shall be filed within 60 days from the date of entry of the judgment, unless the time is extended as provided in Rule 3.” (Italics added.) Under rule 2(b) of said Rules on Appeal, the date of entry is the date of the filing Of the signed order when the minute order expressly directs that a written order be prepared, as it did in this case. The notice of appeal should therefore have been filed within 60 days from November 16, 1943, unless the time for filing same was extended by the purported proceedings on motion for a new trial. Under rule 3(a) of Rules on Appeal, “When a valid notice of intention to move for a new trial is served and filed . . . the time for filing the notice of appeal from the judgment is extended for all parties until 30 days after denial of the motion by order of court or by operation of law.” Plaintiff’s notice was not a “valid” one. The filing of the alleged notice of motion for a new trial by plaintiff did not have the effect of extending the time for filing the notice of appeal because a motion for a new trial is not a proper proceeding to review the action of the court in dismissing a case where there has been no trial upon the issues presented by the pleadings. In such case there is no provision for a new trial and the notice of intention to so move is ineffectual for any purpose. (Code Civ. Proc., § 656; Gray v. Cotton (1917), 174 Cal. 256 [162 P. 1019]; City of Pasadena v. Superior Court (1931), 212 Cal. 309 [298 P. 968]; City of Pasadena v. Grace (1931), 114 Cal.App. 24 [299 P. 565]; Hotel Park Cent, v. Security-First Nat. Bk. (1936), 15 Cal.App.2d 293 [59 P.2d 606]; Mann v. Superior Court (1942), 53 Cal.App.2d 272, 285 [127 P.2d 970].) In Gray v. Cotton, supra, the court said (p. 258) : “It is well settled that proceedings for a new trial do not lié to secure the re-examination of the decision of a motion.”
+The appeal not having been taken within sixty days from the entry of the judgment the court has no jurisdiction to consider the case on the merits and the appeal must be dismissed. (Lawson v. Guild (1932), 215 Cal. 378 [10 P.2d 459]; Kocher v. Fidelity & Deposit Co. (1934), 137 Cal.App. 474 [30 P.2d 535]; Confar v. Whelan, supra, 8 Cal.App.2d 101.)
+The appeal is dismissed.
+■ Desmond, P. J., and Shinn, J., concurred.
+A petition for a rehearing was denied May 25, 1945, and appellant’s petition for a hearing by the Supreme Court was denied June 28, 1945, Carter, J., voted for a hearing.
