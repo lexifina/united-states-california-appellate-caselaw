@@ -1,0 +1,44 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 38867"
+decided: "1972-05-08"
+citations: ["25 Cal. App. 3d 354"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELLEN MOSLER, Plaintiff and Appellant, v. WILLIAM E. PARRINGTON, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/25/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2343988
+cites_cases: ["1 Cal.3d 41", "101 Cal.Rptr. 143", "216 Cal.App.2d 476", "22 Cal.App.3d 841", "232 Cal.App.2d 85", "238 Cal.App.2d Supp. 937", "239 Cal.App.2d 99", "274 Cal.App.2d 573", "31 Cal.Rptr. 30", "42 Cal.Rptr. 603", "459 P.2d 680", "48 Cal.Rptr. 445", "57 P.2d 901", "6 Cal.2d 154", "79 Cal.Rptr. 309", "81 Cal.Rptr. 264"]
+---
+
+# Mosler v. Parrington
+
+## Majority (COBEY, Acting P. J.)
+
+Opinion
+COBEY, Acting P. J.
+Ellen Mosler, plaintiff, appeals from an order staying proceedings in her action against William Farrington, defendant. This order was made on “the ground that the commissioner in this contested .case had no jurisdiction to- hear and determine the merits of plaintiff’s claim and make findings respecting any alleged fraud of defendant except upon written stipulation of the parties litigant or upon written notice of a default hearing to be heard by the Court.”
+This order is appealable as an order made after an appealable judgment (see Code Civ. Proc., § 904.1, subd. (b)) because the judgment referred to in the order is a purported default judgment rendered in 1968 for $66,000 following “dismissal” of defendant’s answer (see 6 Witkin, Cal. Procedure (2d ed. 1971) Appeal, §§ 81, 82, pp. 4091-4094) and because the order under appeal would appear to be equivalent in its effect to an order vacating the judgment as a nullity. (See 6 Witkin, op. cit, § 88, p. 4097.)
+The sole question on. this appeal is whether the purported 1968 default judgment is a nullity. We hold that it is. Article VI, section 21 of the California Constitution provides that on stipulation of the parties litigant the court may order a case to be tried by a temporary judge. Subdivision 4 of Code of Civil Procedure section 259a empowers superior court commissioners in Los Angeles County to act as temporary judges, when otherwise qualified so to act and when appointed for that purpose. Subdivision 6 of section 259a further enables superior court commissioners in Los Angeles County, when ordered by the court appointing them so to do, “to hear, report on and determine all uncontested actions and proceedings” other than domestic relations actions.
+In this case a commissioner of the Los Angeles County Superior Court was apparently duly appointed to hear plaintiff’s motion that defendant’s answer be stricken and that a judgment by default be rendered against defendant pursuant to Code of Civil Procedure section 2034, subdivision (b) (2) (iii). Defendant, appearing in propria persona, failed to appear at the hearing of the motion and, contrary to the minutes of the court, no stipulation was obtained from defendant that the commissioner, as a temporary judge, might hear and determine the motion.
+People v. Tijerina, 1 Cal.3d 41, 48-49 [81 Cal.Rptr. 264, 459 P.2d 680], holds that in the absence of the aforementioned stipulation, required by our Constitution, a Los Angeles County Superior Court commissioner may not act as a temporary judge pursuant to section 259a, subdivision 4 because under the Constitution he is not then “otherwise qualified so to act.” (See also Lovret v. Seyfarth, 22 Cal.App.3d 841, 852-853 [101 Cal.Rptr. 143].)
+Plaintiff contends that this constitutional requirement of a stipulation of the parties litigant does not apply in the instant case because defendant was not a party litigant or litigating party since he did not appear at the hearing on the motion either in person or by counsel. We do not agree. At the time of the hearing on the motion defendant was a party litigant because his answer (his appearance) had long been on file. (See Estate of Kent, 6 Cal.2d 154, 162 [57 P.2d 901].) Therefore the commissioner was in error when he rendered a judgment by default. The matter before him was not a default matter; it was rather an uncontested one. (See Wilson v. Goldman, 274 Cal.App.2d 573, 576 [79 Cal.Rptr. 309]; 4 Witkin, op. cit., Judgment Without Trial, § 124, pp. 2791-2792; cf. Barfield v. Superior Court, 216 Cal.App.2d 476, 479 [31 Cal.Rptr. 30], and Bill Benson Motors, Inc. v. Macmorris Sales Corp., 238 Cal.App.2d Supp. 937, 943 [48 Cal.Rptr. 123], contra.)
+Plaintiff further contends that if this be the case, then the commissioner was empowered to render judgment pursuant to subdivision 6 of section 259a. Again, we do not agree. It is true that Tijerina did not involve this precise point, but Tijerina is based upon the familiar rationale that our statutes are subject to our Constitution. In view of the noncompliance with the constitutional requirement of a stipulation of the parties litigant, the commissioner had no more power to act under subdivision 6 than he had to act under subdivision 4 of section 259a.
+Plaintiff challenges this conclusion with the argument that article VI, section 22 of our Constitution, a constitutional provision not involved in Tijerina, authorizes “officers such as commissioners to perform subordinate judicial duties,” that the phrase “subordinate judicial duties” was substituted for the phrase “chambers business” in the 1966 revision of our Constitution, that “chambers business” includes under Code of Civil Procedure section 166, subdivision 3 the hearing and determination of, among other things, uncontested motions. Therefore, according to plaintiff, the superior court commissioner in this case was empowered by subdivision 6 of Code of Civil Procedure section 259a to hear and determine plaintiff’s uncontested motion that defendant’s answer be stricken and, having granted it, then to enter judgment by default against defendant, all pursuant to Code of Civil Procedure section 2034, subdivision (b) (2) (iii).
+We believe that this argument embodies an unsound interpretation of both article VI, section 22 of our Constitution and of subdivision 6 of Code of Civil Procedure section 259a. According to the comment of the constitutional revision commission accompanying its 1966 proposed revision of article VI, the change in the phrasing of section 22, alluded to in plaintiff’s argument, was made advisedly so that officers such as commissioners would be restricted to “subordinate judicial duties.” (Proposed Revision, Cal. Const., Feb. 1966, p. 99.) Determining a contested action by the granting of an uncontested motion to strike the defendant’s answer is hardly a “subordinate judicial duty.”
+Furthermore, the powers of a Los Angeles County Superior Court commissioner under subdivision 6 of section 259a are much less detailed than those granted to a judge in chambers by section 166, subdivision 3. A commissioner is empowered to hear and determine, with an exception here immaterial, only “uncontested actions and proceedings.”
+Accordingly, we hold the purported default judgment to be a nullity and therefore void.
+The stay order is affirmed. In so deciding we deem it effectual only until the judgment is vacated.
+Schweitzer, J., and Allport, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied July 5, 1972.
+Neither West v. U.L.C. Corp., 232 Cal.App.2d 85 [42 Cal.Rptr. 603], upholding the constitutionality of subdivision 6 otherwise, nor People v. Superior Court, 239 Cal.App.2d 99 [48 Cal.Rptr. 445], explaining the subdivision, considered this point.
+It should be noted that Code of Civil Procedure section 259a applies to some counties other than Los Angeles.
+In relevant part, section 166, subdivision 3 reads:
+“The judge or judges of the superior, municipal and justice courts may, at chambers, in the matters within the jurisdiction of their respective courts:
+tt
+“3. Hear and determine all uncontested actions, proceedings, demurrers, motions, petitions, applications, and other matters pending before the court . . . .”
+Code of Civil Procedure section 22 defines “action” as follows: “An action is an ordinary proceeding in a court of justice by which one party prosecutes another for the declaration, enforcement, or protection of a right, the redress or prevention of a wrong, or the punishment of a public offense.”
+Code of Civil Procedure section 23 reads: “Every other remedy is a special proceeding.”
+The procedure in actions is governed generally by Code of Civil Procedure sections 307 through 1062a; that in special proceedings is governed generally by Code of Civil Procedure sections 1063 through 1822.57.
