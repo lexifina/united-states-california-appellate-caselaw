@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 12163"
+decided: "1974-09-04"
+citations: ["41 Cal. App. 3d 557"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. RODNEY GEORGE RAFTER, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/41/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4413276
+cites_cases: ["1 Cal.3d 641", "100 Cal.Rptr. 590", "103 Cal.Rptr. 567", "105 Cal.Rptr. 305", "106 Cal.Rptr. 51", "23 Cal.App.3d 883", "265 Cal.App.2d 463", "27 Cal.App.3d 31", "27 L.Ed.2d 88", "29 Cal.App.3d 891", "400 U.S. 851", "408 U.S. 471", "463 P.2d 734", "503 P.2d 1313", "7 Cal.App.3d 604", "71 Cal.Rptr. 152", "8 Cal.3d 451", "83 Cal.Rptr. 382", "86 Cal.Rptr. 726", "91 S.Ct. 71"]
+---
+
+# People v. Rafter
+
+## Majority (THE COURT.)
+
+Opinion
+THE COURT.
+This is an appeal by the People under the provisions of subdivision (a)(5) of section 1238 of the Penal Code from an order of the San Mateo County Superior Court reinstating respondent Rodney G. Rafter on probation after a hearing on a motion to revoke probation. The theory of this appeal is that the trial court committed prejudicial error in refusing to admit and consider relevant and admissible evidence which the People sought to introduce át the revocation hearing.
+The People attempted to introduce evidence that respondent was in possession of drugs in violation of the terms of his probation. This evidence took the form of a certified abstract of judgment of the United States District Court for the Southern District of California finding him guilty of possession of a controlled substance with intent to distribute, and a certified copy of an opinion of the United States Court of Appeals for the Ninth Circuit reversing that conviction solely on the ground that the evidence was the product of what the court deemed an unreasonable search. The trial court rejected the evidence on the grounds that the rationale of In re Martinez (1970) 1 Cal.3d 641, 649-651 [83 Cal.Rptr. 382, 463 P.2d 734] (cert. den., 400 U.S. 851 [27 L.Ed.2d 88, 91 S.Ct. 71]) does not apply to revocation of probation and that neither the documents nor proof of the conviction would be competent evidence.
+Although the revocation or reinstitution of probation is a matter within the sound discretion of the trial court, the court may not act arbitrarily or capriciously in exercising that discretion. (People v. Robart (1973) 29 Cal.App.3d 891, 893 [106 Cal.Rptr. 51].) Failure to consider relevant and competent evidence bearing on the issue of revocation is an abuse of discretion.
+In In re Martinez, supra, it was held that on revocation of parole all relevant evidence should be considered, and that the Fourth Amendment and Dorado exclusionary rules are not applicable to such proceedings. The argument that Martinez is not applicable to probation revocation hearings, as opposed to parole revocation hearings, has been persuasively rejected in People v. Hayko (1970) 7 Cal.App.3d 604, 609-611 [86 Cal.Rptr. 726], (See also People v. Vickers (1972) 8 Cal.3d 451, 458 [105 Cal.Rptr. 305, 503 P.2d 1313].)
+Regarding the relevancy and competency of the evidence, there is no question but that the reversal of the conviction does not preclude the use of the evidence regarding the course of conduct involved in the charges to determine if probation should be revoked. (People v. Vanella (1968) 265 Cal.App.2d 463, 465-470 [71 Cal.Rptr. 152].) The People offered the evidence for this purpose, and not merely to show that a conviction had occurred; thus the evidence was relevant. (Cf. People v. Robart, supra, 29 Cal.App.3d at p. 893.)
+It is also settled that the court could consider evidence which the exclusionary rule would render inadmissible in a criminal trial unless the police conduct involved has been such as to shock the conscience. (In re Martinez, supra, 1 Cal.3d at pp. 648-652; People v. Petersen (1972) 23 Cal.App.3d 883, 896 [100 Cal.Rptr. 590].) Respondent has argued that this rule conflicts with federal authority, but this court is bound by the California Supreme Court’s expression to the contrary in Martinez.
+The evidence itself was not incompetent because of a hearsay or secondary nature since such evidence is admissible at a probation revocation hearing. (See People v. Vickers, supra, 8 Cal.3d at pp. 457-458.) Section 1203.2 of the Penal Code itself contemplates the use of probation reports, themselves obviously of a secondary and hearsay nature, and any other relevant evidence, even if such evidence would not be admissible at trial. (See In re Thomas (1972) 27 Cal.App.3d 31, 34-35 [103 Cal.Rptr. 567].)
+Although not raised by the parties, we have considered whether the lower court’s exclusion of the evidence was justified by considerations expressed in Morrissey v. Brewer (1972) 408 U.S. 471 [33 L.Ed.2d 484, 92 S.Ct. 2593] regarding the rights of one in respondent’s position to confront adverse witnesses, or in this case, to attack adverse evidence. In light of the fact there was a stipulated set of facts presented to the federal appellate court, there would be no reason to exclude those facts from consideration at a probation revocation hearing when introduced to present a prima facie case of probation violation. The People concede in their brief that considerations of fairness would require that respondent be allowed to contest the prima facie evidence by presenting his own evidence.
+In light of the above, the lower court’s determination was in error because it wrongfully failed to consider competent, relevant, and admissible evidence regarding respondent’s alleged violation of probation as to allegation two of the amended affidavit of probation violation. The decision must therefore be reversed to this extent. As noted by the People on appeal, all that is required upon remand is that, the court consider this evidence, along with any presented by respondent. The lower court could still, in the exercise of its discretion, reinstate probation.
+The order reinstating probation is reversed. The matter is remanded to the trial court for further proceedings in accord with this decision.
