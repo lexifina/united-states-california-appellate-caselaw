@@ -1,0 +1,45 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 18063"
+decided: "1989-08-23"
+citations: ["214 Cal. App. 3d Supp. 7"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLIE SIMPSON, Plaintiff and Appellant, v. GEORGE MICHAEL SMITH, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/214/cases/Supp. 7-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035886
+cites_cases: ["100 Cal.Rptr. 140", "108 Cal.Rptr. 782", "124 Cal.App.3d 586", "133 Cal.Rptr. 649", "159 Cal.Rptr. 811", "177 Cal.Rptr. 434", "180 Cal.App.3d 668", "191 Cal.Rptr. 8", "199 Cal.App.3d 203", "225 Cal.Rptr. 645", "244 Cal.Rptr. 632", "25 Cal.3d 626", "33 Cal.3d 778", "33 Cal.App.3d 116", "493 P.2d 868", "6 Cal.3d 673", "602 P.2d 731", "63 Cal.App.3d 86", "661 P.2d 1088"]
+---
+
+# Simpson v. Smith
+
+## Majority (ROBERSON, J.)
+
+Opinion
+ROBERSON, J.
+Appellant lessor challenges the trial court’s order awarding attorney fees to respondent, the lessee, in an unlawful detainer action. We conclude that the trial court properly awarded attorney fees and affirm the order.
+I
+Appellant sued respondent and respondent’s business, a fast-food store, in unlawful detainer. On May 4, 1988, judgment was rendered in favor of respondent and against appellant. On May 12, 1988, respondent filed his cost bill in the sum of $17,148.55. On May 25, 1988, appellant filed his motion to tax and strike costs. Several days later, the court amended the judgment nunc pro tunc to provide: “[Appellant] to take nothing from [respondent] and that [respondent] recover from [appellant].” On June 10, respondent filed his opposition to appellant’s motion to tax costs. The court later entered its judgment and ordered appellant to pay respondent $7,276.25 in attorney fees. Appellant filed a timely notice of appeal.
+II
+Preliminarily, we note this is an appeal from an order awarding attorney fees. The order is appealable as a final determination on a collateral matter. (People v. McKale (1979) 25 Cal.3d 626, 639, fn. 5 [159 Cal.Rptr. 811, 602 P.2d 731]; Associated Convalescent Enterprises v. Carl Marks & Co., Inc. (1973) 33 Cal.App.3d 116, 120 [108 Cal.Rptr. 782].)
+The issue raised by this appeal is whether a prevailing party in an unlawful detainer action must file a noticed motion for attorney fees before the trial court may award such fees pursuant to Civil Code section 1717.
+There is support for appellant’s position in a superceded version of section 1717. That section formerly provided in part: “Reasonable attorney’s fees shall be fixed by the court, upon notice and motion by a party, and shall be an element of the costs of suit.”(§ 1717, subd. (a), italics added.) Based upon this earlier version of section 1717, two appellate courts, in cases involving facts similar to the facts in the instant case, interpreted section 1717 to require a noticed motion. (See Christensen v. Dewor Developments (1983) 33 Cal.3d 778 [191 Cal.Rptr. 8, 661 P.2d 1088]; California Recreation Industries v. Kierstead (1988) 199 Cal.App.3d 203 [244 Cal.Rptr. 632].)
+After those cases were decided, however, the Legislature amended section 1717 by deleting the reference to a “notice and motion” for attorney fees. (Stats. 1987, ch. 1080, § 1, No. 10 West’s Cal. Legis. Service, p. 488, No. 4 Deering’s Adv. Legis. Service, p. 3755, eff. Jan. 1, 1988.) Section 1717 now provides: “Reasonable attorney’s fees shall be fixed by the court, and shall be an element of the costs of suit.” (§ 1717, subd. (a).)
+Section 1717, as amended, is applicable here. The question is how we should interpret this new version of section 1717. “‘It is ... [a canon of statutory construction] that an amendment materially changing a statute following a court decision interpreting the statute in its original form is to be regarded as an indication of legislative intent to change the meaning of the law.’ (Verreos v. City and County of San Francisco (1976) 63 Cal.App.3d 86, 99 [133 Cal.Rptr. 649].)” (In re Amie M. (1986) 180 Cal.App.3d 668, 673 [225 Cal.Rptr. 645].)
+This canon of statutory construction has specifically been applied to a situation, as in the instant case, where the Legislature deletes a phrase which had been interpreted by appellate courts. (In re Amie M., supra, 180 Cal.App.3d at p. 673.) Given the fact the Legislature deleted the express requirement of a noticed motion for attorney fees, it is apparent the Legislature intended to change the meaning of section 1717. Thus, the requirement of a noticed motion, as affirmed by Christensen, supra, 33 Cal.3d 778, and California Recreation Industries, supra, 199 Cal.App.3d 203, does not apply to cases arising under the new version of section 1717.
+The amended statute only requires that the trial court hold a hearing, upon notice and motion by a party, to determine who is the prevailing party on a contract. (§ 1717, subd. (b)(1), italics added.) In light of the amendment of section 1717, which deletes the express requirement of a noticed motion, we conclude that appellant’s interpretation of section 1717 is incorrect and the trial court properly awarded attorney fees upon submission of respondent’s cost bill, which included a request for attorney fees.
+Appellant contends that, in addition to section 1717, California Rules of Court, rule 870.2 also requires respondent to file a noticed motion for attorney fees. The Judicial Council has authority to adopt rules of court practice and procedure not inconsistent with any statute. (In re Marriage of McKim (1972) 6 Cal.3d 673, 678 [100 Cal.Rptr. 140, 493 P.2d 868].) As long as there is no inconsistency, the court rules have the force of procedural statutes. (Alsavon M. v. Superior Court (1981) 124 Cal.App.3d 586, 594 [177 Cal.Rptr. 434].)
+In this case, we have concluded the Legislature intended to eliminate the requirement of a noticed motion in order for a prevailing party to collect attorney fees under section 1717. When rule 870.2 became effective, January 1, 1987, it was consistent with section 1717. Since then, as we have discussed, section 1717 was amended, so that rule 870.2 is now inconsistent with section 1717. Thus, rule 870.2 is contrary to the Legislature’s newly expressed intent, and does not control here.
+Finally, even under the earlier version of section 1717 this appellant could not prevail. Respondent’s failure to file a noticed motion certainly did not deprive the court of jurisdiction to award attorney fees. And in the two cases applying the earlier requirement of a noticed motion, it was held that where a respondent had timely filed and served a memorandum of costs on the other party, the “spirit, if not the letter [of such a noticed motion requirement] was complied with.” (Christensen v. Dewor Developments, supra, 33 Cal.3d at p. 786; California Recreation Industries v. Kierstead, supra, 199 Cal.App.3d at p. 209.)
+Here, respondent filed a memorandum of costs, thus submitting the issue of attorney fees to the court for decision. Appellant challenged respondent by submitting his motion to tax costs. Respondent then submitted his opposition to appellant’s motion to tax, which included an extensive summary of his time and costs, points and authorities, his declaration and various other documents. Appellant was represented by counsel and the court afforded a hearing. As a result of the hearing, respondent’s award was reduced from the $17,010 he requested to only $7,276.25.
+Under these circumstances, appellant “suffered no prejudice as a result of the cost bill procedure. In effect, [appellant] obtained all the procedural protection which [he] would have enjoyed had [respondent] initiated [his] claim for attorney’s fees by noticed motion.” (California Recreation Industries v. Kierstead, supra, 199 Cal.App.3d at p. 209.)
+The order awarding attorney fees to respondent is affirmed. Respondent to recover his costs on appeal.
+Margolis, P. J., and Hinz, J., concurred.
+The order challenged on appeal awarded attorney fees to respondent only.
+All further statutory references are to the Civil Code.
+Added by Stats. 1968, ch. 266, § 1, p. 578; amended by Stats. 1981, ch. 888, § 1, p. 3399; Stats. 1983, ch. 1073, § 1, p. 3785.
+The amended version of section 1717 became effective on January 1, 1988. The lawsuit in the instant case was commenced after that date.
+The instant case required no such determination, since it was clear respondent prevailed. Nor is it appellant’s position that respondent was not the prevailing party.
+California Rules of Court, rule 870.2 provides: “Any notice of motion to claim attorney fees as an element of costs under Civil Code section 1717 shall be served and filed before or at the same time the memorandum of costs is served and filed. If only attorney fees are claimed as costs, the notice of motion shall be served and filed within the time specified in rule 870(a)(1).”
