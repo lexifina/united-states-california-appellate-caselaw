@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9575"
+decided: "1935-03-27"
+citations: ["5 Cal. App. 2d 540"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PACIFIC INDEMNITY COMPANY, Appellant, v. PATHE STUDIOS, INC., Respondent."]
+source_url: "https://static.case.law/cal-app-2d/5/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179124
+cites_cases: ["1 Cal. (2d) 250", "268 U. S. 145", "289 U. S. 439", "34 Pac. (2d) 716", "52 Sup. Ct. 571", "82 A. L. R 696"]
+---
+
+# Pacific Indemnity Co. v. Pathe Studios, Inc.
+
+## Majority (SCOTT, J., pro tem.)
+
+SCOTT, J., pro tem.
+Plaintiff sued to recover premium alleged to have been earned by it for a policy of workmen’s compensation insurance issued by it to defendant, and recovered judgment in the trial court for an amount substantially less than that prayed for in its complaint. Prom such judgment this appeal is taken by plaintiff on the ground that the award is insufficient.
+Defendant had been carrying its compensation coverage under the California law with plaintiff for some time, when it determined to make a desert motion picture in the Western Navajo Indian reservation in Arizona. Certain employees hired in California went over to that state, joined other employees hired in Arizona and proceeded to make the picture. Before the project got under way defendant requested plaintiff to issue a policy to complete its compensation and liability coverage while the work on the picture was being carried on. Details were not discussed, but a policy was issued which was adequate to cover contingencies arising by reason of the Workmen’s Compensation Law of Arizona. When the undertaking was at an end plaintiff asked payment of a premium which was calculated on the basis of insurance covering all employees at work on the picture in Arizona and at the rate prescribed by the law of that state, and this suit was instituted to collect that amount. A defense was interposed that plaintiff was already under contract to fully protect defendant as to liability to its employees hired in California, even though they worked outside of the latter state. The trial court took the view advanced by defendant and awarded judgment for the premium for insurance as to Arizona hired employees only.
+Attached to and made a part of the California policy issued by plaintiff to defendant was an “endorsement covering operations outside of the state of California” which recited notice of the fact that defendant’s employees would be called upon to go outside the state to do some of their work, and in consideration of the premiums set out in the policy agreed to “indemnify the assured against loss by reason of liability to pay compensation benefits or to provide medical, surgical or hospital services a's imposed upon or accepted by the Assured under the provisions of any statute law”. The trial court found “that there was no consideration whatever on the part of plaintiff for the promise asserted by plaintiff to have been made by defendant to pay a premium on said Arizona policy, computed on earnings of California hired employees”. Plaintiff was obligated under the California policy containing the endorsement quoted to protect defendant against liability to pay compensation benefits to California hired employees arising under the Arizona law. There was no reason why defendant should ask plaintiff to issue another costly policy insuring defendant against the identical risk already covered by the California policy. The only reasonable construction of the Arizona policy as accepted by defendant, in the light of the circumstances under which it was issued, was that it was intended to cover Arizona hired employees only. The finding of the trial court on that issue is obviously correct.
+Interesting and important questions are raised by both parties involving the interpretation and application of numerous cases, including Alaska Packers Assn. v. Industrial Acc. Com., 1 Cal. (2d) 250 [34 Pac. (2d) 716]; Bradford Electric Light Co. v. Clapper, 268 U. S. 145 [52 Sup. Ct. 571, 76 L. Ed. 1026, 82 A. L. R 696]; Ohio v. Chattanooga Boiler & Tank Co., 289 U. S. 439 [53 Sup. Ct. 663, 77 L. Ed. 1307]. We have examined these authorities with care, but conclude that they are not applicable to the instant case by reason of the contract and finding above quoted.
+Under the Arizona policy, which the trial court properly concluded did apply to Arizona hired employees, a sliding scale of premiums was provided, based partly on the distance from the place of work to the nearest licensed surgical practitioner. The court found that there was such licensed surgical practitioner at Tuba City, Arizona, and fixed premiums thereon. That city is within the Indian reservation and the surgeon had been sent out there by the United States government. He was well qualified by education and experience and had been admitted to practice in the states of Washington, Oregon and Illinois, but not in Arizona. Since emergency treatment was the only service required which would make the proximity of a competent surgeon important under the Workmen’s Compensation Act, and since the surgeon at Tuba City was legally enabled to practice his profession on the reservation without a license from the state of Arizona, the finding on this point was proper.
+Judgment affirmed.
+Stephens, P. J., and Grail, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on May 24, 1935.
