@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14049"
+decided: "1943-06-26"
+citations: ["59 Cal. App. 2d 407"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ZONE C. KENT, Respondent, v. I. W. LAMPMAN et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/59/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2352344
+cites_cases: ["219 Cal. 249", "26 P.2d 293"]
+---
+
+# Kent v. Lampman
+
+## Majority (DRAPEAU, J. pro tem.)
+
+DRAPEAU, J. pro tem.
+Three individuals and a corporation, .as joint makers, made, executed and delivered to plaintiff a profaissory' note for $6,000. In preparing the note a mimeographed form was used, and the blank for a maturity date was not filled in, so that that portion of the note read: “-after date for value received.” The note also recited that collateral security was deposited for the payment thereof, with the following provision: 18That lone C. Kent has the right'tó call for such additional security as she may deem, proper^ and. on failure to respond forthwith to such call, this obligation shall immediately thereupon become due and payable.; . . .” Notice of demand for additional security was served upon the makers of the note and not complied with, whereupon complaint was filed in the superior court to enforce the obligation. ■ .
+- Default of - one of the individual defendants was entered; the' action was dismissed without prejudice as to another individual defendant. The trial court found in favor of plaintiff and' rendered judgment for the principal sum of the note, together with attorney’s fees and interest against tlie corporation defendant and two of the individual defendants, one of whom had answered and one of whom had defaulted.
+Upon áppeal from this judgment by one of the individual defendants and the corporation, five defenses are presented:
+First: The provision above quoted in the note relative to calling for additional security is so ambiguous and uncertain as to make it void, and that in any event, the plaintiff in her demand for additional security did not specify what security was required, thus making the demand void and of no force and effect.
+Second: Action was prematurely filed because the note did not contain a due date, and at the time of its execution an agreement was entered into between plaintiff and the makers which established a condition precedent upon which payment depended; and, in any event, the collateral security constituted a mortgage on personal property which may be foreclosed in only one way.
+Third: Neither the conditions precedent upon which the maturity of the note depended had come to pass, nor had a reasonable length of time elapsed within which such conditions could have been performed, so that the plaintiff might declare the note to be due.
+Fourth: An agreement by the defendant corporation to pay a bonus to the plaintiff rendered the whole transaction usurious.
+Fifth: At the time the note was made plaintiff and defaulting defendant conspired to make a secret profit out of the transaction.
+To understand these contentions, it is necessary to set forth in some detail the dealings between the several parties. The two defendants, one of whom defaulted and one of whom was dismissed, were members of The State Bar. They maintained a law office with a common reception room. The plaintiff, a widow, called at this law office and propounded questions to one of the lawyers about legal matters. The lawyer was unable to give her satisfactory answers, no charge was made for his services, and that matter concluded.
+Two or three weeks later one of the lawyers called the widow on the telephone and invited her to come back to the law offices. When she called in response to this invitation a proposition was put before her by the two lawyers to loan the corporate defendant, a Nevada mining corporation, $6,000, for which she was to receive the promissory note here in question, executed by the corporation and signed by the individuals already named. All of the individual makers of the note were officers of the corporation. The ore to be mined was to be scraped with a bulldozer out of an open pit in Nevada. The corporation not only had no assets to support a credit of $6,000, but had already assigned future proceeds from its operations, so that at the time suit was commenced it had never received any money whatever therefrom, and the market for its product had disappeared.
+The plaintiff turned over to the defendants cashiers’ checks for $6,000, whereupon the defendants delivered to her the promissory note, and an agreement executed on behalf of the corporation to pay her a bonus of $10 per ton on the first 560 tons of ore to be shipped from the mine of the corporate defendant. This, despite the prior assignment of the ore. Finally, the plaintiff and one of the attorneys executed what might be termed a side agreement whereby the plaintiff was to pay one-half of the “bonus” to him. All of these agreements were prepared by the attorneys or their stenographers, and presented to the plaintiff at the same time, and on the same day she had been summoned to the law office. From the record it cannot be determined whether the last agreement was an attorney’s fee for services by the defendant lawyer to the plaintiff, or whether it was executed by the lawyer for his own private benefit and without the knowledge of the corporation of which he was an officer.
+This being a controversy between the original parties, the note and the bonus agreement are to be construed together as part of a single transaction. (Symonds v. Sherman, 219 Cal. 249 [26 P.2d 293].) Obviously the agreement between the defendant lawyer and the plaintiff is no part of the transaction. Neither the corporation nor any defendant other than the attorney who executed it were parties to it.
+Applying this rule, it becomes apparent that there is no ambiguity in the language set forth in the promissory note. The payee had the right to call for additional security; the call was made and not complied with; and thereupon, in accordance with the terms of the note, it forthwith became due and payable. The payee was not required to specify the character of the additional security. It was the obligation of the makers of the note to furnish additional security, which they wholly failed to do. And if the agreement relative to collateral security were ambiguous, the blank for maturity date having been left unfilled, it was a demand note. (Civ. Code, see. 3088.)
+There is no merit in the second and third defenses that the action was prematurely filed for the reason as stated that the bonus agreement constituted a condition precedent before suit could be brought. It is elementary law that the makers of a promissory note engage to pay it according to the tenor of the instrument. (Civ. Code, sec. 3141.) The trial court properly found that the bonus agreement did not modify the obligation to pay the note. There was no reference to any mortgage security and no intention evident by any of the parties to make any mortgage.
+The defense of usury is just as inapplicable. There is no usury evident in the transaction. And the agreement between the lawyer defendant and the plaintiff did not destroy the obligation of the note.
+The judgment is affirmed.
+York, P. J., and Doran, J., concurred.
