@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 769"
+decided: "1910-03-09"
+citations: ["12 Cal. App. 783"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE W. RANDALL, Respondent, v. D. R. GLASS, Appellant."]
+source_url: "https://static.case.law/cal-app/12/cases/0783-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4569339
+cites_cases: ["26 Fed. 443", "48 Fed. 828", "52 Fed. 120"]
+---
+
+# Randall v. Glass
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+This is an action to recover the agreed price of certain metallic disks which plaintiff made and delivered to defendant pursuant to an order for the same given by defendant. The disks were not designed to represent money, but intended to be used in place thereof in pretended business transactions conducted by the students of the business college of defendant. Defendant appeals from the judgment and an order of court denying his motion for a new trial.
+As a defense to the cause of action defendant alleged: “That said disks are in likeness and similitude as to design, color and inscription of the coins of the United States, . . . issued as money by and under the authority of said government”; his contention being that the disks are counterfeits of the United States coins, the making of which is contrary to law, and hence the agreement to pay for the same is nonenforceable. As to the issue thus tendered the court found: “That none of said disks so made and delivered to defendant by plaintiff are in likeness and similitude as to color, design and inscription of any of the coins issued as money by the United States government, or the republic of Mexico. ’ ’ Other than the criticism of the use of the conjunctive “and” instead of the disjunctive “or” in this finding, which under the facts of the case is without merit, the sole ground upon which appellant contends for a reversal is that the finding is not supported by the evidence, appellant insisting that the disks so nearly resemble United States coins as to constitute counterfeits thereof. At the trial, samples of the pieces of metal were introduced in evidence as ocular proof in support of the allegation of the answer and these exhibits are brought up with the record. They consist of copper pieces in size similar to the five, ten and twenty-dollar gold coins of the United States, and aluminum pieces similar in size to the minor silver coins of the United States. The edges are not milled, and in color the copper disks bear no resemblance to gold coin, and the specific gravity of the aluminum coins clearly distinguishes them from silver. The inscriptions upon these disks, while not entirely alike, are similar, and that upon one will serve as an illustration of all. On one side thereof in raised letters is the following: “San Bernardino Business College. The Famous Lightning, Legible Shorthand Taught in three months or no charge. San Bernardino, Cal.” On the obverse side in raised characters covering nearly half the length of the diameter of the disk, which is otherwise smooth, is the following: “$20.00.” Aside from the fact that the disks are similar in size to gold and silver coins of the United States, they bear no resemblance whatever to such coins, or those of the republic of Mexico. They do not purport to be money, and it is clear from the record that they were not intended to be passed or used as money. Appellant might with equal reason insist that a piece of paper similar in size to a twenty-dollar bill of United States currency, one side of which contained an advertisement of his “famous lightning, legible shorthand,” with the characters “$20.00” printed upon the obverse side thereof, constituted a counterfeit of the United States currency. It is incredible that anyone, how-ever illiterate or unskilled in business dealings, could be deceived into the belief that these disks constituted coins of the United States. They are not counterfeits in resemblance or similitude of the gold or silver coins of the United States, nor of any foreign country, the coins of which are current or in actual circulation in the United States. (U. S. Comp. Stats. 1901, secs. 5457, 5458; United States v. Sprague, 48 Fed. 828; United States v. Stevens, 52 Fed. 120; United States v. Hopkins, 26 Fed. 443.)
+The defense set up and supported -by appellant's testimony is, nevertheless, unique in that he testifies in support of an allegation to such effect that the disks are not in the likeness and similitude of genuine coins, by reason of which fact “the college would be ridiculed by the scholars using it”; hence he is not bound by the contract; and, if this position be deemed inadequate as a defense, he then insists that the disks bear such a striking resemblance and similitude to United States coins as to constitute counterfeits thereof, and, hence, upon grounds of public policy, he is entitled to judgment relieving him from his contractual obligations. Neither position is sustained by the record.
+Judgment and order affirmed.
+Allen, P. J., and Taggart, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on April 29, 1910.
