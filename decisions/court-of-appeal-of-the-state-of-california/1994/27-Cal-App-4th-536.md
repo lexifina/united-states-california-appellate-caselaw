@@ -1,0 +1,41 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A063763"
+decided: "1994-08-08"
+citations: ["27 Cal. App. 4th 536"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KEET NERHAN, Petitioner and Appellant, v. STINSON BEACH COUNTY WATER DISTRICT, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/27/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4582797
+cites_cases: ["109 Cal.App.3d 738", "123 Cal.Rptr. 669", "128 P.2d 357", "15 Cal.App.4th 892", "159 Cal.App.3d 185", "167 Cal.Rptr. 429", "19 Cal.Rptr.2d 344", "20 Cal.2d 697", "205 Cal.Rptr. 433", "221 Cal.App.3d 1072", "271 Cal.Rptr. 44", "29 Cal.Rptr.2d 804", "50 Cal.App.3d 401", "7 Cal.4th 725", "872 P.2d 143"]
+---
+
+# Nerhan v. Stinson Beach County Water District
+
+## Majority
+
+Opinion
+HANING, J.
+Appellant Keet Nerhan, doing business as KN Properties (Nerhan) appeals the dismissal of his petition for writ of mandate to compel granting of a zoning variance. Respondent Stinson Beach County Water District’s demurrer was sustained without leave to amend on the grounds that the petition failed to state a claim because appellant did not own the subject property. We conclude the appeal is premature under Morehart v. County of Santa Barbara (1994) 7 Cal.4th 725 [29 Cal.Rptr.2d 804, 872 P.2d 143], and dismiss.
+Procedural History and Facts
+Prior to bringing the instant petition for writ of mandate, appellant owned a parcel of real property in Stinson Beach utilized as a retail gasoline service station. Appellant submitted applications to recondition and reconstruct the gas station, and replace the existing sewage system. After respondent approved appellant’s preliminary application, it was determined that the proposed conventional septic system design could not be constructed due to soil contamination. Thereafter, appellant applied for a variance to install an above-ground sewage holding tank for disposal of waste water. At its February 20, 1993, hearing, respondent denied appellant’s variance application.
+On April 5, 1993, appellant sold his interest in the subject property. On April 20, 1993, he filed the instant action to set aside denial of the variance application. The action also included a complaint for damages for regulatory taking of the property.
+Respondent demurred to the petition on the grounds that due to appellant’s sale of the property he lacked the requisite beneficial interest necessary to obtain writ relief; appellant’s transfer of his interest in the property and abandonment of efforts to develop it mooted the action; and the petition failed to state whether relief was requested under Code of Civil Procedure section 1085 or section 1094.5. The trial court sustained the demurrer without leave to amend and dismissed appellant’s petition on the ground that his sale of the property deprived him of the beneficial interest necessary to seek a writ of mandate.
+Discussion
+I
+As we previously noted, the petition for writ of mandate herein was accompanied by a complaint for damages, which is still pending. This raises the question whether this appeal from the judgment dismissing the petition violates the single judgment rule. (§ 904.1, subd. (a)(1)(D); Bank of America v. Superior Court (1942) 20 Cal.2d 697, 701-702 [128 P.2d 357].) On our own motion we asked the parties to brief this issue in light of the Supreme Court’s recent decision in Morehart v. County of Santa Barbara, supra, 7 Cal.4th 725.
+In Morehart, plaintiffs brought an action against the county seeking a writ of mandate, declaratory and injunctive relief, and damages. The trial court ordered that the causes of action for mandate, declaratory relief and injunctive relief be tried separately, and entered judgment thereon in plaintiffs’ favor. The county appealed while the severed causes of action for damages were still pending.
+In determining the appealability of the judgment the Supreme Court considered a line of cases beginning with Schonfeld v. City of Vallejo (1975) 50 Cal.App.3d 401, 418-419 [123 Cal.Rptr. 669], which held that an appeal can be taken from a judgment on causes of action that have been severed from other separate and independent causes of action alleged in the same complaint. Morehart criticized in part Schonfeld's holding because it made it “ ‘inherently difficult to determine by any automatic standard.' ” which claims were sufficiently separable to qualify for appealability or whether “ ‘hardship or inconvenience’ ” would result from postponing an appeal until all claims could be resolved. (Morehart v. County of Santa Barbara, supra, 7 Cal.4th at pp. 742-743.) Morehart held that “an appeal cannot be taken from a judgment that fails to complete the disposition of all the causes of action between the parties even if the causes of action disposed of by the judgment have been ordered to be tried separately, or may be characterized as ‘separate and independent’ from those remaining.” (Id., at p. 743.) Statements to the contrary in Schonfeld and its progeny were disapproved in Morehart. (Ibid., fn. 11, citing list of disapproved cases.)
+Despite its holding that the appeal was premature under the single judgment rule, Morehart reached the merits of the controversy by treating the appeal as a petition for writ of mandate because the case presented unusual circumstances, including (1) considerable prior case law indicating that the appeal was proper, (2) the merits of the controversy had been briefed by the parties and numerous amici curiae, and (3) the decision would impact vast areas of California land. (Morehart v. County of Santa Barbara, supra, 7 Cal.4th at pp. 744-746.)
+A separate line of cases, not mentioned by Morehart, holds that even where there are issues that remain to be tried, a trial court’s decision on a petition for mandate is appealable. (See California Teachers Assn. v. Board of Education (1980) 109 Cal.App.3d 738, 751 [167 Cal.Rptr. 429]; Elmore v. Imperial Irrigation Dist. (1984) 159 Cal.App.3d 185, 190-191 [205 Cal.Rptr. 433]; Bullock v. City and County of San Francisco (1990) 221 Cal.App.3d 1072, 1086 [271 Cal.Rptr. 44]; Native Sun/Lyon Communities v. City of Escondido (1993) 15 Cal.App.4th 892, 896, fn. 1 [19 Cal.Rptr.2d 344].) The theory of these decisions is that the appealability of the denial of a petition for writ of mandate is based on whether the trial court contemplated taking any further action. Where no further action is contemplated, the order denying the petition for writ of mandate is a final judgment in a special proceeding under section 1064. Where further action is contemplated, the order denying the writ petition is not final and therefore is not appealable. (California Teachers Assn. v. Board of Education, supra, 109 Cal.App.3d at pp. 751-752; Elmore v. Imperial Irrigation Dist., supra, 159 Cal.App.3d at p. 191.)
+In the instant case, appellant concedes, and we agree, that although Morehart did not specifically mention the California Teachers!Elmore line of decisions, it must be read as impliedly disapproving them. Morehart held, in part, that “even if the causes of action disposed of by the judgment. . . may be characterized as ‘separate and independent’ from those remainingf,]” a judgment that fails to dispose of “all the causes of action between the parties” is not appealable. (Morehart v. County of Santa Barbara, supra, 7 Cal.4th at p. 743.) Although a petition for writ of mandate is a special proceeding, and “[a] judgment in a special proceeding is the final determination of the rights of the parties therein[]” (§ 1064), we conclude Morehart holds that absent unusual circumstances, the denial of a petition for writ of mandate is not appealable if other causes of action remain pending between the parties.
+II
+Disposition
+The appeal is dismissed.
+Peterson, P. J., and King, J., concurred.
+Pursuant to rules 976 and 976.1 of the California Rules of Court, this opinion is certified for publication except for part II.
+Unless otherwise indicated, all further statutory references are to the Code of Civil Procedure.
+See footnote, ante, page 537.
