@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 44862"
+decided: "1979-01-02"
+citations: ["87 Cal. App. 3d 996"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAPISCEAN CORPORATION, Petitioner, v. ALCOHOLIC BEVERAGE CONTROL APPEALS BOARD, Respondent; DEPARTMENT OF ALCOHOLIC BEVERAGE CONTROL, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/87/cases/0996-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1994211
+cites_cases: ["146 Cal.Rptr. 585", "21 Cal.3d 431", "579 P.2d 476"]
+---
+
+# Capiscean Corp. v. Alcoholic Beverage Control Appeals Board
+
+## Majority (ROUSE, J.)
+
+Opinion
+ROUSE, J.
+In this extraordinary writ proceeding, authorized by section 23090 of the Business and Professions Code, we consider the validity of fair trade laws regulating the sale of wine in this state, in light of the ruling in Rice v. Alcoholic Bev. etc. Appeals Bd. (1978) 21 Cal.3d 431 [146 Cal.Rptr. 585, 579 P.2d 476], which invalidated California’s price maintenance laws relating to distilled spirits. The matter arose as follows:
+On November 22, 1976, petitioner, holder of an off-sale general alcoholic beverage license issued by the Department of Alcoholic Beverage Control (hereafter Department) sold a quart of Old Crow whiskey to an employee of the Department for $1.63 less than the minimum price and a magnum of Cresta Blanca wine for 92 cents less than the posted price. On November 30, 1976, petitioner sold another bottle of Old Crow whiskey to the same employee for $1.63 less than the minimum price. After notice and hearing, the Department found that petitioner had violated section 24755 and title 4, section 99, subdivision (a), of the California Administrative Code in the sale of distilled spirits, and section 24862 and title 4, section 101, subdivision (a) in the sale of wine. The Department ordered petitioner’s license suspended for 10 days on each of the three counts, the penalties to be served concurrently. On appeal to the Alcoholic Beverage Control Appeals Board (hereafter Board), the Board, following Rice, reversed the decision of the Department with respect to the counts alleging sale of distilled spirits below the minimum price, but affirmed the decision of the Department with respect to the count alleging sale of wine below the posted price. The Board believed itself prohibited from declaring the wine price maintenance provisions invalid by reason of article III, section 3.5 of the California Constitution. Petitioner seeks annulment of that portion of the Board’s order affirming the decision of the Department, contending that the ruling in Rice, supra (21 Cal.3d 431) should be extended to invalidate wine price maintenance provisions as well.
+We have compared the statutes and regulations relating to price maintenance of distilled spirits invalidated in Rice with the statutes and regulations relating to price maintenance of wine challenged in this proceeding, and find no significant differences. Although the statute invalidated in Rice (§ 24755) is more comprehensive than the statute challenged in this proceeding (§ 24862), section 24862, construed in conjunction with the other sections contained in chapter 11 (§ 24866 et seq.), accomplishes the same end. Section 24866, for example, requires winegrowers, wholesalers licensed to sell wine, wine rectifiers and rectifiers to post schedules of selling prices of wine, make and file fair trade contracts and file schedules of resale prices. Section 24862 prohibits an off-sale retail licensee from selling at less than that prescribed price.
+We agree with petitioner that the wine price maintenance provisions of section 24862 and related statutes differ from the price maintenance provisions relating to distilled spirits only in the type of beverage and the precise language of the respective sections, and that the impact of the restrictions is identical. As respondent Board acknowledges, the arguments in favor of retail price maintenance rejected by the California Supreme Court in Rice, supra (21 Cal.3d 431) cannot be accepted here. We conclude that the wine price maintenance provisions cannot be distinguished from the price maintenance provisions invalidated in Rice and, for the reasons stated in Rice, must also fall.
+That portion of the Board’s order affirming the decision of the Department with respect to alleged violations of the wine price maintenance schedule (count two) is annulled. The Board is directed to enter its order reversing the decision of the Department with respect to count two.
+Taylor, P. J., and Kane, J., concurred.
+Unless otherwise indicated, all statutory references are to the Business and Professions Code.
+Article III, section 3.5 of the California Constitution, approved by the people at the primary election held June 6, 1978, provides: “An administrative agency, including an administrative agency created by the Constitution or an initiative statute, has no power: [¶] (a) To declare a statute unenforceable, or refuse to enforce a statute, on the basis of it being unconstitutional unless an appellate court has made a determination that such statute is unconstitutional; [¶] (b) To declare a statute unconstitutional; [¶] (c) To declare a statute unenforceable, or to refuse to enforce a statute on the basis that federal law or federal regulations prohibit the enforcement of such statute unless an appellate court has made a determination that the enforcement of such statute is prohibited by federal law or federal regulations.”
+Section 24862: “No licensee shall in this state sell or resell to a retailer, and no retailer shall in this state buy any item of wine except at the selling or resale price thereof contained either in an effective price schedule or in an effective fair trade contract as authorized by Chapter 10 of this division [commencing with Section 24749], unless otherwise provided in this chapter.
+“No licensee in this state shall sell or resell to a consumer any item of wine at less than the selling or resale price thereof contained either in an effective price schedule or in an effective fair trade contract as authorized by Chapter 10 (commencing with Section 24749) of this division unless otherwise provided in this chapter.
+“Wine pursuant to a bona fide order accepted on day any month may be delivered to the purchaser, at the price in effect during said month, within two business days immediately following the last day of the month in which the sale was made.”
+Section 24866: “Each wine grower, wholesaler licensed to sell wine, wine rectifier, and rectifier shall:
+“(a) Post a schedule of selling prices of wine to retailers or consumers for which his resale price is not governed by a fair trade contract made by the person who owns or controls the brand.
+“(b) Make and file a fair trade contract and file a schedule of resale prices, if he owns or controls a brand of wine resold to retailers or consumers.”
