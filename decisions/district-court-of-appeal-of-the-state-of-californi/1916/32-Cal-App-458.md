@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1528"
+decided: "1916-12-30"
+citations: ["32 Cal. App. 458"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. E. SEELY, Respondent, v. STOLTZ'S, INC. (a Corporation), et al., Defendants; C. A. MEYER, Appellant."]
+source_url: "https://static.case.law/cal-app/32/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2022465
+---
+
+# Seely v. Stoltz's, Inc.
+
+## Majority (THE COURT. THE COURT.)
+
+THE COURT.
+Mrs. C. A. Meyer, one of the defendants in this action, was an accommodation indorser of a negotiable promissory note executed to the plaintiff by the defendant Stoltz’s, Inc. Defendant Meyer alone appeals from the judgment entered in favor of the plaintiff, and from an order denying a new trial.
+The plaintiff’s original complaint, in so far as it purported to state a cause of action against the defendant Meyer as an indorser, proceeded upon the theory that she had been given the notice of dishonor required by section 3116 of the Civil Code, and that such notice had been given in the manner and within the time required by sections 3147 and 3148 of the same code. During the progress of the trial, however, it doveloped that the plaintiff had not strictly complied with the statutory requirements concerning the giving of notice of dishonor, and thereupon, in response to defendant’s motion for nonsuit, the plaintiff sought and was granted permission to amend his complaint to conform to the proof by alleging that his failure to give the required notice was attributable to the fact that, after due and diligent search, he was unable to ascertain the residence, place of business, or whereabouts of the defendant Meyer. With the complaint thus amended the trial of the action proceeded, and when the plaintiff again rested, the motion for nonsuit upon behalf of the defendant Meyer was renewed upon the ground that the plaintiff’s evidence failed to show that he had exercised reasonable diligence to ascertain the place of residence and whereabouts of said defendant, and that therefore his failure to give the notice of dishonor was not excused by the provisions of section 3155 of the Civil Code.
+Upon this phase of the case the evidence was to the effect that on the afternoon of the day when the note in suit fell due the agent of the plaintiff called at the office of the defendant corporation, the maker of the note, for the purpose of demanding payment, and was informed by a stenographer in charge of the office that both the president and secretary of the corporation were not in., Later on the same day the plaintiff’s agent again called, and meeting either the president or secretary, demanded payment of the note. Payment was refused. At about 5 o’clock on the same day plaintiff’s agent called upon the defendant Aronsohn, who was also an indorser on the note, and presented him with a written notice of dishonor and a demand for payment. Plaintiff’s agent at the same time asked Aronsohn for the address of the defendant Meyer. Aronsohn thereupon gave to him a written memorandum showing the resident address of Mrs. Meyer to be 1654 Devisadero Street in the city and county of San Francisco. Plaintiff’s agent then proceeded to the office of the defendant corporation, where he met Stoltz Sr. and Jr., respectively the president and secretary of the corporation, and after some conversation concerning the note and its nonpayment, rewrote on an envelope, in the presence of the Stoltzes, the address of defendant Meyer as previously given him by Aronsohn. On the following day, close to the noon hour, plaintiff’s agent went to the address given him by Aronsohn, but was unable to find the defendant Meyer there or ascertain her whereabouts. Plaintiff’s agent then proceeded to his office, arriving there about 1 o’clock, and there prepared a notice of nonpayment and dishonor, which was mailed to Mrs. Meyer later in the afternoon.
+This evidence, we think, justified the denial of the motion for nonsuit, and sufficiently supports the finding of the trial court to the effect that the plaintiff, by his agent, had made-due and diligent search to locate the residence and place of business of the defendant Meyer for the purpose of serving her with notice of presentment, dishonor, and nonpayment of the note in suit.
+We see no abuse of discretion in the ruling of the trial court permitting the plaintiff to amend his complaint.
+The judgment and order appealed from are affirmed.
+A petition for a rehearing of this cause was denied by the district court of appeal on January 29, 1917, and a petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on February 29, 1917, and the following opinion then rendered thereon:
+THE COURT.
+The petition for a rehearing is denied. It is based upon the sole ground that the court failed to consider and pass upon the sufficiency of the complaint as finally amended at the trial. The only appellant herein is the defendant Meyer. The original complaint was insufficient in its averments as to notice of dishonor as against the special demurrer of Meyer. The amendment, however, made during the trial pleaded an excuse for giving Meyer notice of dishonor substantially in the language of subdivision 1 of section 3155 of the Civil Code. To this amendment, which obviated the effect of appellant’s original special demurrer, no demurrer, either general or special, was presented. We think it sufficiently rectified the defect in the original complaint in the absence of a special demurrer.
