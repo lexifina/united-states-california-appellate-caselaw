@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1588"
+decided: "1914-06-01"
+citations: ["24 Cal. App. 656"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY TOMPKINS, Petitioner, v. SUPERIOR COURT OF SAN BERNARDINO COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app/24/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4492605
+cites_cases: ["103 Pac. 486", "156 Cal. 89"]
+---
+
+# Tompkins v. Superior Court
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Prohibition. Upon application therefor, an alternative writ was issued herein directed to the superior court of San Bernardino County, commanding it to appear and show cause why it should not be prohibited from proceeding with the trial of a certain cause pending therein, wherein the petitioner as plaintiff had, in the justice’s court, obtained a judgment against one Charles C. Smithson, from which judgment said Smithson had appealed to said superior court.
+In response to the writ a return was made, from which and the petition it appears that the judgment of the justice was rendered on March 28, 1914; that on April 1st following Smithson appealed therefrom to the superior court, but neglected to perfect the appeal by giving the undertaking required by section 978 of the Code of Civil Procedure. Notwithstanding such neglect, the justice duly certified and transmitted to the superior court the record in the cause. A demurrer to the complaint was, on April 3d, interposed by Smithson, and by the court overruled on April 13tli, and the case set for trial on May 15th. Thereafter, on April 15th, within the time allowed him for appealing in said cause, Smithson filed another notice of appeal and gave the required undertaking therein; whereupon the justice, on May 11th, transmitted to the superior court a copy of his docket, but did not send up the papers and pleadings in the case for the apparent reason that he had theretofore transmitted them at the time when defendant purported to appeal on April 1st. On May 4th, pursuant to notice, petitioner moved the court to dismiss the purported appeal had and taken on April 1st, upon the ground that no sufficient undertaking had been given, and likewise pursuant to notice, at the same time moved to dismiss the appeal had and taken on April 15th, upon the ground that two appeals had been taken from the same judgment, and the further ground that said last appeal was unaccompanied by any record, papers, and pleadings, or any certified copy of the justice’s docket from which the appeal could be identified. At the hearing of these motions the purported appeal of April 1st was withdrawn, and as to the motion to dismiss the appeal of April 15th, the motion was denied without prejudice.
+Clearly the first appeal was, and is conceded to be, a nullity by reason of the fact that no sufficient undertaking was filed as required by section 978 of the Code of Civil Procedure. Hence, the transmission of the record to the clerk made at this time by the justice was unwarranted, as the same is deemed to be in the office of the justice. The court having no jurisdiction to entertain it, the overruling of the demurrer interposed could not give it jurisdiction. (Estate of Brewer, 156 Cal. 89, [103 Pac. 486].) Hence, on April 15th, the case stood as though no appeal had been attempted.
+The appeal had on April 15th was, in so far as concerned the steps required to be taken by Smithson as appellant, duly taken and perfected within the time allowed by law therefor. Section 977 of the Code of Civil Procedure, provides that the justice must transmit to the clerk of the superior court the record and papers therein designated, “and the justice or judge may be compelled by the superior court, by an order entered upon motion, to transmit such papers, and may be fined for neglect or refusal to transmit the same. ’ ’ It appears that, following the taking of this last appeal, the justice neglected to transmit to the clerk of the superior court the papers and record required by the provisions of this section. His omission so to do, however, cannot be attributed to appellant. For obvious reasons the court would be unable to try the case in the absence of the pleadings and record; but since section 977 makes provision for compelling the justice to perform his duty and file same with the clerk, we must assume that prior to the time Avhen the court will try the case the record will be transmitted to the clerk. OtherAvise, in the absence of any steps, taken by appellant to compel the performance of duty on the part of the justice, the court might refuse to try the case, or dismiss the same. The court evidently made the order denying the motion without prejudice so that, if the defect in the record avbs not cured at the time of the trial, petitioner might at that time renew his motion upon such ground. Being improperly transmitted before an appeal was taken, the record should be re-filed as accompanying the appeal had and taken April 15th.
+The peremptory writ is denied, and the alternative writ of prohibition heretofore issued is dismissed.
+Conrey, P. J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on July 30, 1914.
