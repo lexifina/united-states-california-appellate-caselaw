@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 361"
+decided: "1915-02-01"
+citations: ["26 Cal. App. 449"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. W. T. KAHLER, Appellant."]
+source_url: "https://static.case.law/cal-app/26/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 332758
+cites_cases: ["100 Cal. 84", "34 Pac. 623", "35 Misc. Rep. 182"]
+---
+
+# People v. Kahler
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Defendant was convicted upon an information charging him with the crime of obtaining money under false pretenses. He prosecutes this appeal from the judgment and an order of court denying his motion for a new trial.
+The offense with which defendant is charged is alleged in the information to have been committed-as follows:
+(1) “ That the said W. T. Kahler . . . with intent then and there to cheat, wrong and defraud Richard J. Cogan out of his money and property, did . . . represent and pretend to the said Richard J. Cogan that he, the said W. T. Kahler, had contracts for furnishing orchestras for forty-two moving picture shows and theaters in the city of Los Angeles, . . . and that particularly he, the said W. T. Kahler, had the exclusive contract for furnishing orchestras for Hamburger’s Cafe, for Clune’s Broadway Theater and for the Princess Theater, each of said theaters hereinbefore mentioned being located in the city of Los Angeles, California. (2) And he, the said W. T. Kahler, then and there sold to the said Richard J. Cogan a set of drums and traps for the use of one William J. Cogan, a minor son of Richard J. Cogan. And he, the said W. T. Kahler, then and there promised to give the said William J. Cogan instructions as to playing the said drums and traps, and then and there promised and agreed to and with the said Richard J. Cogan that when the said William J. Cogan had become sufficiently proficient in the playing of said drums and traps that he, the said W. T. Kahler, would give the said William J. Cogan a position in one of his many orchestras.
+“(3) And the said Richard J. Cogan, then and there believing and relying upon the statements so made to him as aforesaid by the said W. T. Kahler, then and there paid to the said W. T. Kahler seventy-five dollars ($75.00) in lawful money of the United States, the same being then and there the personal property of said Richard J. Cogan.
+“ (4) And the said Richard J. Cogan then and there believed the said representations and pretenses so made to him as aforesaid by the said W. T. Kahler to be true, and then and there relied upon the same, and was then and there induced thereby to and did then and there deliver and turn over to the said W. T. Kahler the said sum of seventy-five dollars ($75.00), lawful money of the United .States, as aforesaid.”
+Continuing, it is alleged that “each and all and every of the said representations and pretenses so made by the said W. T. Kahler to the said Richard J. Cogan were then and there false and untrue, ’ ’ to the knowledge of Kahler.
+Defendant’s demurrer to the information, upon the grounds that it not only failed to state facts which constituted a public offense, but failed to conform to the requirements of sections 950, 951, and 952 of the Penal Code, was overruled. It should have been sustained.
+The only fact which it is alleged defendant represented to exist is that he had contracts for furnishing orchestras for certain cafes and theaters. That part of the information which we have designated “ (2) ” consists merely of promises made by defendant, together with the statement that he sold to Cogan a set of drums and traps for the use of his minor son. It is not alleged, however, that Cogan was induced to buy the drums and traps from defendant upon the strength of the representation that defendant had contracts for furnishing these orchestras; indeed, that part of the information designated as “(2)” is wholly disconnected with the alleged false representations and should he disregarded as surplusage. Disregarding this redundant matter, it is merely alleged that defendant, knowing the same to be untrue, falsely represented to Richard J. Cogan that he had contracts for furnishing orchestras to certain cafes and theaters; that Cogan believing the representations to be true and relying thereon, paid and delivered to defendant the sum of seventy-five dollars. For what purpose is not disclosed. Conceding the representation made by defendant to have been false, there is no causal connection between the payment of the money and the representation. Bishop (2 Grim. Law, sec. 415) defines a false pretense as “such a fraudulent representation of an existing or past fact, by one who knows it not to be true, as is adapted to induce the person to whom it is made to part with something of value.” We are unable to perceive any connection between the alleged false representation and the paying or giving to defendant the seventy-five dollars; nor how, in the absence of further allegations, such representations should have induced, or were calculated to induce Cogan to pay defendant seventy-five dollars in money. While not alleged, it is no doubt true that Cogan was induced to buy the drums and traps in reliance upon defendant’s promise to give his son musical instruction and to secure him employment as soon as he was sufficiently proficient. It was this promise which induced the prosecutor to deal with him, and not the representation of existing facts in reliance upon the truth of which Cogan believed that defendant would fulfill his promise. (People v. Morphy, 100 Cal. 84, [34 Pac. 623]; People v. Hart, 35 Misc. Rep. 182, [71 N. Y. Supp. 492].)
+This view renders it unnecessary to discuss errors predicated upon want of sufficient evidence to justify the verdict, and the reception of improper evidence, in both of which contentions we find much merit.
+It is apparent, we think, from an examination of the instructions given, when taken in connection with the information, that the jurors were of the opinion that the unfulfilled promises made by defendant constituted a “deception deliberately practiced (by defendant) for the purpose of gaining an unfair advantage of another,” which the court stated to them “was fraud,” and that “one deprived of his property by such means is defrauded.”
+The judgment and order are reversed.
+Conrey, P. J., and James, J., concurred.
