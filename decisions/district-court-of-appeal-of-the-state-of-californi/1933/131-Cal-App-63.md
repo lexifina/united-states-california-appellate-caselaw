@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4900"
+decided: "1933-04-06"
+citations: ["131 Cal. App. 63"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KLEIN BROS., Petitioner, v. SUPERIOR COURT OF SUTTER COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app/131/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2230316
+---
+
+# Klein Bros. v. Superior Court
+
+## Majority (PLUMMER, J.)
+
+PLUMMER, J.
+In this proceeding the petitioners seek a writ of review of a certain order made and entered in the Superior Court of Sutter County granting a new trial in an action pending in said court, wherein the Standard Oil Company of California, a corporation, is plaintiff, and Klein Bros., R. W. Jones et al., are defendants.
+The record before us shows that Klein Bros, is a co-partnership composed of Sol D. Klein and Jack Klein; that on or about the seventeenth day of February, 1932, the Standard Oil Company commenced an action in the Justice’s Court of Yuba Township against the above-named defendants, and obtained judgment against Klein Bros, and R W. Jones for the sum of $287 principal, $30.25 interest, and $20 costs. From this judgment the defendants Klein Bros., alone, took an appeal to the Superior Court of Sutter County. After the entry of the judgment in the justice’s court, execution was issued against the defendant R W. Jones, and returned unsatisfied. The appeal by Klein Bros, was taken as to both questions of law and fact, and the action was thereafter tried in the Superior Court of Sutter County and judgment entered in favor of the defendants Klein Bros. A motion for a new trial was made by the plaintiff Standard Oil Company, which motion was granted. The petition in this action alleges that the Superior Court of Sutter County had no jurisdiction to enter such order.
+The notice of motion for a new trial specified the following grounds upon which it would be asked, to wit:
+1. Insufficiency of the evidence to justify the decision;
+2. That the decision is against law;
+3. Errors in law occurring at the trial and excepted to by the plaintiff.
+It was further set forth that the motion would be made upon the minutes of the court.
+The complaint in the action begun by the Standard Oil Company does not disclose the relationship existing between Klein Bros, and R W. Jones, it being alleged therein only that the defendants executed and delivered to the plaintiff a certain undertaking and agreement in writing whereby said defendants, for value received, guaranteed and agreed to pay for gasoline up to the value of $200, that should be delivered by the plaintiff to one Walter Ronelsbacher, a farmer raising beans, upon which crop the defendants Klein Bros., held a chattel mortgage.
+The findings of the trial court are to the effect that Klein Br.os., as principals, by and through their agent R W. Jones, executed and delivered to the plaintiff the written guarantee herein mentioned. Upon the trial of the action in the superior court it would appear from the findings that testimony was introduced showing the prosecution of the action against the defendant R W. Jones, in the justice’s court, the entry of judgment against him, the issuance of an execution, and the return of the execution unsatisfied, upon which basis the trial court held that the plaintiff had elected to proceed against the agent, R W. Jones, and therefore was not entitled to judgment against his principals, Klein Bros. Judgment was therefore entered in favor of the defendants Klein Bros, for their costs. The motion for a new trial was directed against this judgment on the grounds which we have stated, and was granted by the superior court.
+The petition for a writ of review sets forth that there was no reporter present upon the trial of the action; that no bill of exceptions was ever prepared, and nothing presented to the trial court upon which to base this action, other than as specified in the notice of motion.
+The record further shows that after the entry of judgment in the superior court, the judge presiding at the trial had been succeeded in office, and the motion for a new trial was heard by a judge other than the one presiding at the trial of the action. The order of the superior court granting a new trial appears to have been based upon the cases having to do with an election of remedies; as where one has a cause of action against another, upon which he may sue either in contract or in tort, and an action is begun upon one of the grounds, which fails, the party instituting the action cannot retrace his steps and proceed upon the other ground instead of upon the rule of law which prevents a plaintiff relying upon a contract executed by an agent for his principal, from maintaining an action against both the agent and the principal. The fact, however, that the trial court apparently based its ruling upon the law relating to an election of remedies, rather than upon the law relating to the right of a plaintiff to sue either the agent or the agent’s principal, does not warrant the issuance of a writ of review. If the trial court had jurisdiction to entertain the motion for a new trial and enter an order granting the same, the fact that the order sets forth an erroneous reason therefor is immaterial.
+As we have stated, the grounds set forth in plaintiff’s motion for new trial herein specifies that the decision is against law, and also errors in law occurring during the course of the trial.
+The record before us shows that the trial court, on the hearing of the motion, had before it a transcript of the docket of the justice’s court, the complaint in the action, the answer of the defendants thereto, the findings and conclusions of law of the trial court, and the judgment based thereon. This gave the trial court upon motion for new trial, jurisdiction to pass upon the correctness of the conclusions of law drawn by the court upon which the judgment is based and against which the motion for new trial was directed. Irrespective of the reasons set forth in the order granting the motion, the trial court had jurisdiction to pass thereon. It is not for us to determine whether the conclusions of law drawn by the court in the first instance or the conclusions arrived at by the court in the second instance, are correct. The trial court, upon motion for new trial, had jurisdiction to determine whether the decision was or was not against the law, and whether the record before it showed errors in law upon which the judgment was predicated. A writ of review cannot be made to serve the purposes of an appeal. It goes only to the question of the jurisdiction of the trial court to act.
+The notice of motion for new trial herein set forth grounds included within section 657 of the Code of Civil Procedure.
+Being -of the opinion that the trial court had jurisdiction to entertain the motion, the writ must be, and the same is hereby denied, and the order is affirmed.
+Thompson, J., and Pullen, P. J., concurred.
