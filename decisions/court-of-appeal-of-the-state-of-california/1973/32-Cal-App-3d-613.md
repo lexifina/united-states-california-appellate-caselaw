@@ -1,0 +1,50 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 22106"
+decided: "1973-05-24"
+citations: ["32 Cal. App. 3d 613"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JON PATRICK DONELL, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/32/cases/0613-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4448589
+cites_cases: ["228 Cal.App.2d 716", "242 Cal. App.2d 294", "39 Cal.Rptr. 802", "51 Cal.Rptr. 415"]
+---
+
+# People v. Donell
+
+## Majority (JEFFERSON, J.)
+
+Opinion
+JEFFERSON, J.
+In a 21-count information, defendant was jointly charged with codefendant Bittman (not appealing here) with various counts of violating sections 472, 496, 470 of the Penal Code, and section 10851 of the Vehicle Code and section 11911 of the Health and Safety Code.
+Defendant’s motion pursuant to section 995 of the Penal Code was denied as to all counts, except count XV, which charged a violation of section 470 of the Penal Code (forgery). Subsequently, the court dismissed count XV. A jury found defendant guilty of count XIX (joyriding) in violation of section 10851 of the Vehicle Code. The court, in the interest of justice, dismissed all of the remaining counts of the information. Defendant’s motion for a new trial and probation were denied and defendant was sentenced to one year in the county jail. Defendant appeals from the judgment of conviction.
+David Schoppe was an employee of Country Club Chevron in Sacramento. Among his duties was to rent Hertz cars for the club. On May 19, he rented a 1971 Thunderbird, hcense number 789BTU, to a person who presented him a driver’s license under the name of Ernest Johnson. A Hertz credit card was presented which entitled the holder to rent a car from Hertz. The card bore the name of Ernest Carl Johnson.
+Ernest Carl Johnson resided in Sacramento. He did not rent a 1971 Thunderbird from Country Club Chevron. He did own a Hertz credit card No. 5658-335-4. He did not give anyone permission to use his credit card or his name to rent a car from Hertz.
+On May 21, 1971, Deputy Sheriffs Ward and Nottingham of Los Angeles County observed a 1971 Thunderbird, a Hertz rental, parked in front of a residence, 3037 Zane Grey Terrace, Los Angeles. On May 25 and 27, 1971, the deputies observed the same Thunderbird parked in front of the same residence. On May 28, Deputy Cuccia observed the same Thunderbird again parked at 3037 Zane Grey Terrace. He ran a “make” with the Department of Motor Vehicles and discovered that the Thunderbird was the property of the Hertz Company of Sacramento and had been reported stolen.
+Deputy Cuccia went to the residence, in front of which was parked the stolen Thunderbird. The defendant answered his knock and told the deputy in response to the question: “Who owns, the Thunderbird,” that it was owned by an Eleanor Johnson; that she had given him tfie keys to the automobile and also permission to drive it. The deputy asked for the keys and told the defendant that the car had been stolen. The defendant refused to give up the keys and asked the officer to leave his residence; the defendant stated that he had been driving the automobile while Eleanor Johnson was away.
+Karon Mittleider resided at 3037 North Zane Grey Terrace with defendant. She testified she had a conversation with the defendant about the Thunderbird that had been rented from the Hertz Company of Sacramento. She asked the defendant if the credit card and the keys to the car were still in the house and he told her that he got rid of them after the police came to the house and inquired about them. He said that he had made a mistake in keeping the car too long; that one of the girls rented the car in Sacramento, but he could not remember which one, but it was either Carol Bittman, Cassandra Filipiak or Joanne Lavrigate.
+Fingerprints were lifted from the Thunderbird and compared and Officer Leslie testified that in his opinion the prints lifted matched defendant’s prints.
+Defendant testified in his own behalf: He did drive the Thunderbird on May 21 and 28, 1971; he did not know that it was taken from Sacramento; he would not have driven the car if he had known that it was stolen or was obtained by illegal means; Eleanor Johnson brought the T-Bird to his home where she remained for a couple of days. She gave him permission to drive the car; he remembered that an Officer Cuccia had come to his home and told him that the T-Bird parked in front of his home was a stolen vehicle; he told the officer the car had been left there by Eleanor Johnson.
+The defendant further testified that Officer Cuccia asked him about the keys to the Thunderbird and the defendant told Cuccia that they had been misplaced. The officer wanted to search his home; the defendant explained that he could not look around for the keys as it would be a violation of his constitutional rights, and he told the officer to leave his residence.
+Defendant argues many contentions for the reversal of his conviction but we need only to consider one.
+Defendant was charged and tried for the violation of section 10851 Vehicle Code, which in part reads as follows: “Any person who drives or takes a vehicle not his own, without a consent of the owner thereof, and with the intent either permanently or temporarily to deprive the owner thereof of his title to or possession of the vehicle, whether with or without intent to steal the same, or any person who is a party or accessory to or an accomplice in the driving or unauthorized taking or stealing is guilty of a public offense, ...”
+Defendant contends that the court misintructed the jury on the law applicable to violation of section 10851 of the Vehicle Code. With this we agree. The court read the following offending instructions: “CALJIC No. 1.23: To constitute consent on the part of a person to a transaction, he must act freely and voluntarily and not under the influence of fraud, threats, force or duress; he must have knowledge of the true nature of the act or transaction involved; ... In law, consent differs very materially from assent. The former denotes a free will, a positive state of mind, and positive cooperation in act or attitude. Assent, however, means mere passivity or submission and does not amount to consent.”
+The court, on its own motion, read the following: “The rental of the Hertz car in this case is what in law is called a bailment. While bailments take various forms, as to the Hertz contract here involved we have a leasing of personal property. If the obtaining of a car by fraud is practiced the element of consent is lacking. You will note that while paragraph 6 of the Hertz contract makes this explicit, this is but a legal truism.
+“You must keep in mind that the matter of consent arises between Hertz and the person leasing the car. Consent or lack of it does not in and of itself connect any third person with any wrongdoing.
+“So in this case you must first consider whether in fact there was fraud practised by someone on Hertz insofar as the T-Bird obtained in Sacramento is concerned. If you find none proven under the law as stated to you, then under the facts of this case you must find the defendant not guilty.
+“However, if you find that the T-Bird was obtained by fraud this does not in and of itself mean that someone else, given permission to drive the car by the fraudulent procurer, is knowledgeably and with intent driving the subject car without the consent of Hertz.
+“Three elements must be proven beyond a reasonable doubt by direct or circumstantial evidence, or a combination of both before the defendant can be found guilty of joyriding.
+“First, that the defendant knew the subject vehicle was not the property of the person entrusting the car to the defendant’s possession.
+“Secondly, that the defendant knew the person entrusting the subject car to his possession did not himself have legal possession of the car.
+“And, thirdly, the defendant by his use intended to deprive the owner of its title to or possession of such vehicle.
+“If any of the foregoing elements are not proven beyond a reasonable doubt, you must find the defendant not guilty.”
+The instant case falls squarely within the principles we set forth in People v. Cook, 228 Cal.App.2d 716 [39 Cal.Rptr. 802], in which we reversed a conviction for violation of section 10851 Vehicle Code.
+The court in the instant case instructed the jury that consent to take and drive another vehicle could not be obtained by fraud and that was incorrect. We said in the Cook case, supra, at pages 718, 719 that “[o]ne of the earliest cases holding that fraudulently induced consent is consent nonetheless and that such consent prevents a violation of a vehicle joyride statute is [citation] ... the basic common law rule [is] that, unless there is statutory language to the contrary, whenever lack of consent is a necessary element of a crime, the fact that consent is obtained through misrepresentation will not supply the essential element of nonconsent.”
+Section 10851 of the Vehicle Code makes no reference to fraud, false pretense or trick or device, but is specifically based upon the taking without consent.
+For some purposes in the law a consent induced by fraud is no consent at all, but that theory does not apply in a prosecution for joyriding.
+The Attorney General points out that the defendant might have been convicted upon the theory that he had withheld the car, after the Hertz rental agreement had expired. (See People v. Hutchings (1966) 242 Cal. App.2d 294 [51 Cal.Rptr. 415].) That might be so, but we cannot determine from the record whether the jury convicted on that theory or upon the erroneous theory contained in the instructions quoted above. The error must therefore be held prejudicial.
+Judgment of conviction is reversed.
+Files, P. J., and Kingsley, J., concurred.
