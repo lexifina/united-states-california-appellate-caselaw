@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5852"
+decided: "1937-05-26"
+citations: ["21 Cal. App. 2d 156"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATIONAL AUTOMOBILE INSURANCE COMPANY (a Corporation), Petitioner, v. INDUSTRIAL ACCIDENT COMMISSION OF THE STATE OF CALIFORNIA, C. R. WILLIAMSON et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/21/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4443076
+cites_cases: ["167 Pac. 539", "176 Cal. 24", "220 Cal. 642", "32 Pac. (2d) 356"]
+---
+
+# National Automobile Insurance v. Industrial Accident Commission
+
+## Majority (PULLEN, P. J.)
+
+PULLEN, P. J.
+—Petitioner seeks, by this writ of review, to annul an order of the Industrial Accident Commission awarding compensation to George Lehman, for injuries sustained while working as a laborer for Williamson & Son, one of the respondents herein.
+It appears from the evidence before the commission that Lehman sustained certain injuries while engaged in sewer construction work in the city of Sonora. The employer claimed to have been insured against liability by a policy issued by the National Automobile Insurance Company, petitioner herein.
+It is the contention of petitioner that the particular policy of insurance issued by it to Williamson & Son, the employer, was so limited as to exclude the operations out of which this claim arose. After a hearing before the commission an award was filed based upon a finding that at the time of the injury to said employee, the National Automobile Insurance Company was the insurance carrier of respondent employer, and made an award against petitioner and in favor of the employee. From these findings and award this writ is sought.
+It appears without conflict that the National Automobile Insurance Company, on December 19, 1935, issued a policy of workmen’s compensation insurance to Williamson & Son, a copartnership. This policy was in the standard approved form, and at the date of the issuance of the policy Williamson & Son being engaged in such work in San Francisco, contained the following classification of operations:
+“6041—Grading land—excluding clearing of land, not canal or cellar excavation—quarrying, railroad or street or road construction. Payroll to include drivers, chauffeurs and their helpers.-—Bate 5:35.”
+Thereafter on March 11, 1936, a further endorsement upon this policy was added in the following language:
+“Item 3—b—6319—-Water Mains and Connections—construction work (excluding tunneling except at street crossings)—Bate—5.12.”
+The evidence shows that the employee, at the time of receiving his injuries, was doing labor work on a sewer line in the city of Sonora, Williamson & Son having undertaken to construct a sewer line as evidenced by a contract entered into between themselves and the city of Sonora.
+To have been properly covered, such work would have required an additional classification of operation, viz.: “Code No. 6306—Sewer Construction—All operations—excluding tunneling, except at corners—rate 11.36.” One of the members of Williamson & Son, a copartnership, testified that before undertaking the job at Sonora he called upon his insurance broker in regard to compensation insurance, and in particular whether or not-his policy then in force with National Automobile Insurance Company would cover the particular type of work they were about to undertake. The broker testified that he referred the matter to a member of another brokerage firm and told them that Williamson & Son was going to put in a pipe line about 6,000 feet long at Sonora, the pipe line to be connected to a septic tank. The witness testified he told the broker that he had been informed that such pipe line would take the classification of “water mains”. The witness, after receiving the policy, again called the broker and had the classification confirmed and then delivered the policy to Williamson & Son. A witness called upon behalf of the petitioner testified she was an underwriter for that company and had received an application for compensation insurance from the broker of Williamson & Son and received a request that a change by endorsement in the classification of operations under the policy be made to include “water mains and connections”, which was done. Neither the underwriter nor the insurance carrier knew until after the accident that the Sonora job was a sewer job.
+Upon this evidence the commission found that the work engaged in by the employer was not excluded by the endorsement attached to the policy March 9, 1936. With this we cannot agree. There is no evidence in the record that there was a full disclosure to the National Automobile Insurance Company as to the character and type of material to be used or type of construction on this particular work, nor is there any evidence in the record that any agent of the insurance company was given the particulars or a true description of the work to be performed. In fact the request for the extension of coverage asked for a rider on the policy to include “water mains and connections”, and the insurance company did not know that the employer was engaged on a sewer job until after the accident.
+Inasmuch as sewage is moved by gravity it is necessary for sewer lines to be built on a uniform grade regardless of contour of surface of the ground, often necessitating a deep trench, and for that reason carries a much higher rate than does water pipe, for water in mains is propelled by force, and is not usually dependent upon gravity for flow, and therefore need not be placed in deep trenches and can establish its own grade regardless of the contour of the surface of the land. The rate for sewer mains is almost double that of the water mains, principally on that account.
+The commission, ih its order, attempted to construe the policy as meaning that water mains and connections included sewer construction, but we believe this would be extending the language of the policy to an unreasonable extent. In Pacific Coast Cas. Co. v. Industrial Acc. Com., 176 Cal. 24 [167 Pac. 539], the court was considering a policy of insurance which was limited to miners, hoistmen and timekeepers, and it was there held not to cover or include the superintendent. Also in National Automobile Ins. Co. v. Industrial Acc. Com., 220 Cal. 642 [32 Pac. (2d) 356], it was held that the classification of truckmen did not include the operator of a power shovel, although there were similarities in the nature of the work involved.
+For the foregoing reasons the findings and award of the Industrial Accident Commission should be annulled, and it is so ordered.
+Thompson, J., and Plummer, J., concurred.
