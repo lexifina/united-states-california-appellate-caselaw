@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4004"
+decided: "1924-04-15"
+citations: ["66 Cal. App. 538"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. T. WILES, Respondent, v. P. W. HAMMER, Appellant."]
+source_url: "https://static.case.law/cal-app/66/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2147545
+cites_cases: ["161 Pac. 1157", "174 Cal. 60", "19 L. R. A. 92", "200 Pac. 814", "21 Pac. 11", "30 Pac. 783", "53 Cal. App. 559", "78 Cal. 454", "95 Cal. 615"]
+---
+
+# Wiles v. Hammer
+
+## Majority (CURTIS, J.)
+
+CURTIS, J.
+This action is for the recovery of a money judgment against the defendant. The complaint contains three causes of action. The first, upon a contract for the drilling of a well; the second, for the value of certain well-casing, and the third, for services performed in the development work on wells belonging to the defendant. The answer consists of a denial of the allegations of the complaint and affirmative matter in the nature of an affirmative defense to each of the three causes of action set out in the complaint. Defendant also filed a cross-complaint, but no point seems to be made by appellant regarding any issue involved in the latter pleading. The court found in favor of plaintiff upon all three causes of action set forth in said complaint and awarded judgment in his favor for the amount prayed for, less the amount of a counterclaim set up by defendant in his answer. The counterclaim was no part of, and was entirely independent of, the matters set forth in the affirmative defenses of the answer.
+In the findings of fact filed, the court, after finding in favor of plaintiff upon the allegations of the complaint, found also upon the issues made by defendant’s affirmative defenses. Upon these issues it is apparent that the court intended to find in plaintiff’s favor, but many of the findings upon this branch of the case were prepared by using the statement, “It is not true,” and following such statement with a copy of the "allegations of the affirmative defense, with the result that the findings thus prepared and signed by the court contained many contradictory and inconsistent statements. Accordingly we find that ■ in many instances where it was evidently the intention of the court to find in favor of the plaintiff, on account of the erroneous method employed in drafting the findings, the very opposite result was obtained. Take, for instance, the findings upon the issues presented by plaintiff’s second cause of action. The plaintiff alleged and the court found as true that the plaintiff furnished and delivered to defendant, at defendant’s special instance and request, well-casing of the reasonable value of $117.58, no part of which had been paid. In addition to his denial of these allegations of the complaint, the defendant alleged in substance that all well-casing furnished by plaintiff was furnished at plaintiff’s own cost and expense, by reason of his careless, negligent, and unskillful construction of two other wells which he had drilled for the defendant, and by reason of the fact that plaintiff had wasted and lost a large quantity of casing belonging to defendant in the worthless construction of these other wells, and that any and all casing furnished by plaintiff was furnished under an agreement on the part of plaintiff to drill for defendant, without further cost to defendant, a good and sufficient well.
+The finding of the court upon this allegation of "defendant’s answer was as follows: “That it is not true as alleged in the answer and| cross-complaint that all casing furnished by plaintiff was furnished at his own cost and expense by reason of his careless, negligent, and unskillful construction of the first two wells, and by reason of the fact that in the construction of said last-mentioned well the plaintiff had wasted and lost a large quantity of casing belonging to the defendant in the I worthless and useless wells above mentioned, and that all of the casing furnished by plaintiff was furnished under and pursuant to the agreement of plaintiff above mentioned to finish and complete defendant a good and sufficient well.”
+It is apparent from the reading of this finding that it does not negative the allegations of defendant’s answer above referred to, but is in the nature of a negative pregnant and implies the truth of at least some of these allegations without showing which ones, if any, are untrue. A finding in the form of a negative pregnant, attempting to negative an affirmative allegation, implies the truth of the allegation. (Tormey v. Anderson-Cottonwood Irr. Dist., 53 Cal. App. 559 [200 Pac. 814]; Auerbach v. Healy, 174 Cal. 60-65 [161 Pac. 1157]; Southern Pacific R. R. Co. v. Dufour, 95 Cal. 615-619 [19 L. R. A. 92, 30 Pac. 783].) We find this condition exists in respect to the findings upon the issues in all three causes of action.
+The findings, therefore, being inconsistent and contradictory upon the material issues in the case, do not support the judgment.
+“The rule on this subject may safely be said to go this far, at least,—that where there are contradictory findings about matters material to the merits of the case, and the determination of which, one way or the other, is essential to the correctness of the judgment, there the judgment cannot stand. If one part of the contradictory findings would support the judgment, and another part would necessarily upset it, then the judgment must be reversed.” (Learned v. Castle, 78 Cal. 454-460 [21 Pac. 11, 13].)
+We regret the necessity of reversing the judgment under these circumstances, especially where the intention of the
+i court to find in plaintiff’s favor is so apparent, but if we give to the findings their proper construction and meaning, no other result can follow.
+Judgment is reversed.
+Conrey, P. J., and Houser, J., concurred.
