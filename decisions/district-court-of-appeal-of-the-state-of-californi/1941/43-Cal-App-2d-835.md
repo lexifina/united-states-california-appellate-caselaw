@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6563"
+decided: "1941-04-01"
+citations: ["43 Cal. App. 2d 835"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUIS L. SILVER, Plaintiff and Appellant, v. BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSOCIATION (a National Banking Association) et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-2d/43/cases/0835-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4544501
+---
+
+# Silver v. Bank of America National Trust & Savings Ass'n
+
+## Majority (TUTTLE, J.)
+
+TUTTLE, J.
+The following judgment was entered in the above-entitled action:
+“This action came on regularly for trial on the 29th, 30th, 31st of July, and 1st, 2nd, 5th, 6th, 7th and 8th day of August, 1940. The said parties appeared by their attorneys, Messrs. Burke & Rawles, Esq., counsel for plaintiff, and Messrs. Preston & Gibson for defendant. A jury of twelve persons was regularly empanelled and sworn to try said action. Witnesses on the part of plaintiff and defendants were sworn and examined. After hearing the evidence, the arguments of counsel, and instructions of the court, the jury retired to consider of their verdict, and subsequently returned into court, and, being called, answered to their names, and say: ‘We, the Jury, find in favor of plaintiff, Louis L. Silver, against defendants on Count I of the complaint for the sum of $250.00 compensatory damages and no punitive damages.’
+“ ‘We, the Jury, find for the defendant, Bank of America National Trust & Savings Association, a corporation, on Count II of said complaint’. ‘We, the Jury, find for the defendant, California Lands, Inc., a corporation, on Count II of said complaint’. ‘We, the Jury, find in favor of plaintiff, Louis L. Silver, against the defendants on Count III of the complaint for the sum of $1881.60 compensatory damages.’
+“And whereas, a motion for judgment, notwithstanding the verdict having been made and granted as to Count I of the complaint, and the court having ordered judgment entered in favor of defendants under said Count I of the complaint,
+“Wherefore, by virtue of the law, and by reason of the premises aforesaid, it is ordered, adjudged and decreed that said plaintiff, Louis L. Silver, have and recover nothing from defendants, Bank of America National Trust & Savings Association, a corporation, and California Lands, Inc., a corporation, under Counts I and II of said complaint, and that said plaintiff, Louis L. Silver, have and recover from said defendants, Bank of America National Trust & Savings Association, a corporation, and California Lands, Inc., a corporation, the sum of One Thousand Eight Hundred Eighty-one and 60/100 ($1881.60) Dollars, together with his costs and disbursements incurred in this action, amounting to the sum of $466.85 Dollars.”
+Thereafter, both parties moved for a new trial. Plaintiff’s motion on count I was denied, and his motion on count II was granted. Defendants’ motion in respect to count III was denied. Defendants then gave notice of appeal on October 21, 1940, from the order granting the motion for new trial on count I, and from the judgment on count III, and on the following day its request for a transcript under section 953a of the Code of Civil Procedure was filed, and an order made pursuant thereto. On December 11, 1940, transcripts of the clerk and reporter were filed in this court (Pile No. 3, Civ. 6563). On January 17, 1941, plaintiff filed in this court a clerk’s transcript pursuant to his notice of appeal. No request for a transcript under said section was ever made by plaintiff, and no order for said transcript was ever made.
+At the request of plaintiff, and under the purported authority of the provisions of said section, there was included and inserted in the reporter’s transcript, by order of the trial court, the notice of appeal filed by plaintiff which also appears in the clerk’s transcript filed later by plaintiff pursuant to the appeal by plaintiff.
+Defendants now move this court for an order striking the notice of appeal from the reporter’s transcript. Plaintiff also moves for an order consolidating said appeals.
+We are of the opinion that the motion of defendants should be granted. Although these appeals arise out of the same action, they are, for all purposes, as separate and distinct as though they were taken from judgments rendered in different actions. It is incumbent upon each appellant to prepare and file his own separate record, in the absence of an agreement to the contrary. Although section 953a, supra, permits the respondents, upon the settlement of the reporter's transcript, to “require the insertion therein of such other papers, files, documents, records and proceedings of said cause, including the proceedings on motion for a new trial, as they then desire to have incorporated therein, ’ ’ such language must be reasonably construed, and where the legislature has, under sections 951 and 952, provided for the certification by the clerk of certain records to be included in his transcript on the appeal, it is unreasonable to presume or hold the legislature ever intended that the identical record supplied by the clerk shall be duplicated in the reporter’s transcript. Said last-named sections expressly provide that the clerk’s transcript shall contain a copy of the notice of appeal. It follows that the notice of appeal upon the part of plaintiff which appears in the reporter’s transcript, filed by defendants, was improperly inserted therein, and should be stricken therefrom.
+The motion to consolidate the appeals should also be denied. As plaintiff’s authorities indicate, this is a matter entirely within the discretion of the court. Such action may be taken in the matter of the preparation of briefs and oral argument, but we have never gone to the extent of compelling one appellant to supply the record on appeal to another, in the absence of a stipulation to that effect. We doubt our authority to do so.
+The motion to strike is granted. The motion to consolidate is denied.
+Pullen, P. J., and Thompson, J., concurred.
