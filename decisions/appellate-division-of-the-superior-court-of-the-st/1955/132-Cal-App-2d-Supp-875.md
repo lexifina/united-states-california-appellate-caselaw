@@ -1,0 +1,41 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 8638"
+decided: "1955-03-03"
+citations: ["132 Cal. App. 2d Supp. 875", "281 P.2d 650"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. G. OPPENHEIMER, Appellant, v. JULIUS DEUTCHMAN et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/132/cases/Supp. 875-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035425
+cites_cases: ["100 Cal.App. 64", "129 P. 981", "144 Cal. 650", "150 P.2d 816", "164 Cal. 532", "279 P. 669", "279 P.2d 8", "34 Cal.App.2d 383", "4 P. 195", "43 Cal.2d 856", "65 Cal. 340", "65 Cal.App.2d 467", "79 P. 381", "93 P.2d 572"]
+---
+
+# Oppenheimer v. Deutchman
+
+## Majority (SWAIN, J.)
+
+SWAIN, J.
+The plaintiff appeals from a judgment of dismissal with prejudice and from the order taxing costs.
+The action was originally brought in the Municipal Court of San Antonio Judicial District. A motion for change of venue to the Municipal Court of Beverly Hills Judicial District was granted. Plaintiff appealed from that order. Pending that appeal, the case was transferred, and the defendant’s demurrer to the complaint was sustained with 10 days to amend. The plaintiff, though duly notified of that order, did not amend the complaint, and, on ex parte motion of the defendant, the action was dismissed with prejudice.
+The appellant contends: 1. That the Municipal Court of Beverly Hills Judicial District had no jurisdiction to proceed, pending the appeal. (Note. After the demurrer was sustained the order for change of venue was affirmed. (Civ. A. No. 8314).) 2. That appellant was entitled to notice of the motion for judgment. 3. It was error to dismiss with prejudice. 4. That the court erred in sustaining the demurrer to the complaint. 5. It was error to deny motion to retax costs.
+I.
+Taking an appeal from an order of a municipal court granting a change of venue does not of itself stay proceedings in the court to which the case was transferred.
+The modern rule is that the matter of stay of judgments, etc., when an appeal is taken, is regulated by statute. 4 Corpus Juris Secundum, 1108: “Whether a supersedeas or stay of proceedings is effected by an appeal or writ of error without more is largely dependent on the statutes of the particular jurisdiction.’’ 3 Am.Jur. 196: “The general rule in the various jurisdictions in this country is that the writ of error or appeal under modern statutes, which is in effect an error proceeding, does not of itself operate as a supersedeas. This matter is now governed by statute in most jurisdictions, which authorizes the supersedeas upon certain conditions.''
+Stays on appeal from superior courts are governed by Code of Civil Procedure, section 949, which lays down the general rule, “. . . the perfecting of an appeal stays proceedings in the court below upon the judgment or order appealed from.” That section also lists certain exceptions to this general rule, one of which is an appeal from an order granting a change of venue, which may be stayed only by a writ of supersedeas. This section does not apply to appeals from municipal courts. (Code Civ. Proc., § 959.)
+Stays on appeal from municipal courts are governed by Code of Civil Procedure, section 985, which provides: “If a stay of execution is desired on any appeal from a municipal court, an undertaking must be filed on the part of the appellant with two or more sureties, for the sums and containing the conditions hereinafter stated, to wit. ’ ’ Then follows a list of four kinds of appeals in which a stay bond may be filed; none of these four includes an appeal from an order granting a change of venue. Such a stay may be obtained by a writ of supersedeas (3 Cal.Jur.2d p. 733) obtained under rule 19 of Rules on Appeal from Municipal Courts in Civil Cases.
+There is this fundamental difference between stays on appeal from superior courts and stays on appeal from municipal courts. Under the language of Code of Civil Procedure, section 949, an appeal from the superior court stays all judgments, etc., appealed from except those for which a stay bond is required; under Code of Civil Procedure, section 985, an appeal from the municipal court does not stay any judgment, etc., unless a stay bond is provided for and filed.
+There having been no supersedeas pending the appeal from the order for change of venue, the Municipal Court of Beverly Hills Judicial District had jurisdiction to hear the demurrer to the complaint.
+II.
+After failing to amend his complaint within the time allowed by law, the plaintiff was not entitled to notice of the motion to dismiss. Code of Civil Procedure, section 581, subdivision 3, provides that the court may dismiss an action “when, after a demurrer to the complaint has been sustained, the plaintiff -fails to amend it within the time allowed by the court, and the defendant moves for such dismissal.” This part just quoted was added to Code of Civil Procedure, section 581, subdivision 3, in 1933. The first part of the foregoing was taken from Code of Civil Procedure, section 890, subdivision 3, which applied only to justice courts. The words “and the defendant moves for such dismissal” were new. Prior to that time no notice of motion to dismiss was necessary after failure to amend within the time allowed. (Saddlemire v. Stockton Sav. & Loan Soc. (1904), 144 Cal. 650, 655, 656 [79 P. 381].) The general rule as to when notice is required is stated in 18 California Jurisprudence 651. “Aside from certain motions as to which notice is specifically required, ‘the codes do not specify the motions which may be heard only on notice, but leave the courts to determine whether each motion requires or does not require notice.’ ” (Citing Arata v. Tellurium G. & S. Min. Co. (1884), 65 Cal. 340 [4 P. 195, 344].) “It is held that where a motion is required to be made for an order in a cause whereby the right of an adverse litigant may be affected, it must be upon notice to such party ...” (Citing Bohn v. Bohn (1913), 164 Cal. 532 [129 P. 981].) Of course, the power of a court to dismiss an action is not limited to cases authorized by statute (Cunha v. Anglo Calif. Nat. Bank (1939), 34 Cal.App.2d 383, 388 [93 P.2d 572].) But it is inescapable that if a dismissal, after failure to amend within the time allowed by law, had ‘ ‘ affected the right of an adverse litigant,” a notice of motion to dismiss would have been required prior to 1933. Also, notice of motion to dismiss is not required after a demurrer has been sustained without leave to amend. (Berri v. Superior Court (1955), 43 Cal.2d 856, 860 [279 P.2d 8].) The judgment of dismissal in such cases does not affect the right of adverse litigants because the losing party has already had his hearing. The statute itself (Code Civ. Proc., § 581, subd. 3) does not require notice. The words “on motion” mean that the court cannot dismiss the action without the request of a party.
+III.
+Although the court properly dismissed the action, it should not have done it mth prejudice (Matteson v. Klump (1929), 100 Cal.App. 64, 65 [279 P. 669]).
+IY.
+The special demurrer was properly sustained. Further elaboration of this would be of no assistance to the parties or the profession.
+V.
+The plaintiff objected to the following items of cost claimed by the defendants: two affidavits (apparently notary fees) in support of motion for change of venue, the affidavit on the memorandum of costs, and the transmittal fee ($1.00) and the appearance fee in Beverly Hills Judicial' District ($6.00). The defendant had the right to pay the fees for transfer to the Beverly Hills court (Matmor Olive Co. v. Du Bois (1944), 65 Cal.App.2d 467, 471 [150 P.2d 816]). The objection to the notary fees was frivolous.
+The judgment must be modified by striking therefrom the words “with prejudice.” As thus modified, the judgment and the order taxing costs are affirmed. Bach party will bear his own costs on appeal.
+Bishop, Acting P. J., and Patrosso, J., concurred.
+Appellant’s petition for rehearing was denied on March 25, 1955.
