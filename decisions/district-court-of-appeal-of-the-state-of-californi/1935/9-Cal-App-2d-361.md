@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9541"
+decided: "1935-10-07"
+citations: ["9 Cal. App. 2d 361"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROY MEYER, a Minor, etc., Respondent, v. CITY AND COUNTY OF SAN FRANCISCO (a Municipal Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app-2d/9/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2261464
+cites_cases: ["128 Cal. App. 57", "133 Cal. App. 624", "16 Pac. (2d) 768", "163 Pac. 361", "174 Cal. 426", "178 Pac. 505", "179 Cal. 605", "24 Pac. (2d) 846", "27 Pac. 590", "91 Cal. 48"]
+---
+
+# Meyer v. City & County of San Francisco
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+On the twenty-third day of June, 1931, the plaintiff, a minor thirteen years of age, was riding on a miniature train which was being operated by the defendant in the “Fleishhacker Playground”, one of the public parks of San Francisco. He fell off one of the cars and was injured. For the injuries so suffered he brought this action and it was tried by the court sitting with a jury. When the plaintiff rested the defendant made a motion for a nonsuit, its motion was denied and it proceeded to introduce its evidence. After all of the evidence had been introduced the defendant made a motion for a directed verdict and that motion was denied. Later counsel made their arguments, the court instructed the jury, and the cause was submitted. The jury returned a verdict in favor of the plaintiff. Before the verdict was entered counsel for defendant made a motion for judgment notwithstanding the verdict and at the same time- asked that the defendant be allowed to move for a new trial if its motion for judgment be denied. That motion was denied and, from the order denying it, the defendant has appealed.
+The plaintiff did not introduce evidence showing the train or any part thereof was “dangerous or defective”. The cars did not, at the time of the accident, have side gates. The evidence showed, however, that the 'entire train was at that time standard construction. It had been operated eight years without an accident. Subsequent to the accident wire panels were inserted on the right-hand side between the seats so that the passengers were compelled to board the train from the left-hand side instead of boarding from both sides. If, in the operation of the miniature railway, the defendant was acting in a governmental capacity, in the absence of a statute to the contrary the defendant was not liable. (Kellar v. City of Los Angeles, 179 Cal. 605 [178 Pac. 505].) That, under the facts recited above, the defendant was acting in a governmental capacity is a proposition that in this state is not open to debate. (Kellar v. City of Los Angeles, supra; Crone v. City of El Cajon, 133 Cal. App. 624 [24 Pac. (2d) 846].) But, it is asserted, we have a statute changing the rule. (Stats. 1923, p. 675.) The assertion is not a sufficient answer. Under that statute four elements must be established to prove a case. (Pittam v. City of Riverside, 128 Cal. App. 57 [16 Pac. (2d) 768, 769].) In that case, at page 59, the court said:
+“Under the provision of that portion of section 2 of the act, which we have quoted, the following conditions must exist to support the judgment of the court below: (1) The injuries to respondent through the destruction of his personal property must have resulted from a dangerous or defective condition of the dumping ground; (2) the city council of the City of Riverside, or some officer or person having authority to remedy such condition, must have had notice or knowledge thereof; (3) it, or he, must have failed or neglected to remedy such dangerous or defective condition within a reasonable time after acquiring such knowledge or receiving such notice; or (4) must have failed to take such action as might be reasonably necessary to protect the public against such dangerous or defective condition within a reasonable time after such knowledge or notice.” No one of those elements was proved in the instant case. However, the plaintiff claims the defendant maintained and operated a defective device. As evidence thereof he points to the fact that, after the accident the defendant made certain alterations. It caused the wire panels to be installed. Such fact was not evidence of an admission of negligence. (45 C. J., p. 1232; Webster v. Orr, 174 Cal. 426, 428 [163 Pac. 361]; Sappenfield v. Main St. etc. R. R. Co., 91 Cal. 48, 61, 62 [27 Pac. 590].) It follows that the plaintiff did not prove a case under the statute relied on.
+The defendant’s motion for judgment notwithstanding the verdict should have been granted. The order appealed from is reversed and judgment is ordered in favor of the defendant.
+Nourse, P. J., and Spence, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on November 6, 1935, and an application by respondent to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on December 5, 1935.
