@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6158"
+decided: "1928-03-09"
+citations: ["90 Cal. App. 19"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PAUL BERGER, Appellant, v. R. E. LODGE et al., Respondents."]
+source_url: "https://static.case.law/cal-app/90/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2105546
+cites_cases: ["202 Cal. 557", "217 Mo. App. 466", "261 Pac. 1017", "268 S. W. 683"]
+---
+
+# Berger v. Lodge
+
+## Majority (MURPHEY, J., pro tem.)
+
+MURPHEY, J., pro tem.
+This is an action for declaratory relief and to determine the legality of a conditional sales contract for the purchase of an automobile. The question at issue is whether or not the contract violates the Usury Law of the state of California. The trial court held the contract was legal and enforceable and gave judgment in favor of the defendants and against the plaintiff on which judgment the plaintiff prosecutes this appeal.
+After disposing, by stipulation, of the formal and generally immaterial paragraphs of the pleadings by the respective parties, the cause was submitted to the court upon a stipulated statement of facts, substantially as follows: That at the time the conditional sales contract, referred to in the complaint, was executed the plaintiff inquired of the defendants if it was not possible for him to purchase said automobile on time, rather than for cash. Defendants informed plaintiff that the price of $1,010 was a cash price, but that if the plaintiff desired to purchase the said automobile on time payments, the times sales price on said automobile would be $1,112.69. It was further stipulated that there was no conversation between plaintiff and defendants relative to any interest charge or a charge for the loan or forbearance of money and there was no conversation that the sum of $102.69, being the difference between the cash price and the time sales price, was to be in any way interest or a charge for the loan or forbearance of money. It was further stipulated that at no time did the plaintiff state to the defendants that he was unable to pay the full purchase price of said automobile in cash and in this behalf it is further stipulated that the plaintiff informed the defendants that he preferred to buy said automobile at the time sales price rather than for the cash price. This latter stipulation negatived an allegation in plaintiff’s complaint to the effect that at the time of the negotiations for the purchase of the car the plaintiff informed the defendants that he was unable to pay the full purchase price of the car in cash.
+At the time the appeal in this case was taken the question as to whether a transaction of this character fell within the purview of the Usury Laws of this state had not been specifically passed upon by our appellate or supreme courts. The great weight of authority, however, in other jurisdictions having similar laws extend little comfort to the appellant’s contention. However, since this case was briefed the supreme court in the case of Verbeck v. Clymer, 202 Cal. 557 [261 Pac. 1017] (decided in December of 1927), has definitely and finally determined that under conditions disclosed by the stipulated facts of this case there is no infringement upon or invasion of the provisions of our Usury Law. The court says:
+“But we have no hesitancy whatsoever in declaring that the transaction set up in the answer and cross-complaint is not in any sense a loan within the meaning of said usury law. The contract is admitted by a bona fide one of sale and purchase of real property where the title is retained by the vendor. The purchase price is therein named and the terms of sale are fixed and certain deferred payments are provided for. There is in the transaction no element of a loan. The parties were unfettered, dealt with each other at arm’s length and in apparent good faith. The transaction was not a subterfuge devised to conceal what was in fact a loan. In view of this conclusion there is no room whatsoever for the contention that the usury law will intervene to give equitable relief to defendants or to penalize the plaintiffs. . . . This principle is announced as follows in 39 Cyc., p. 626: ‘It is manifest that any person owning property may sell it at such price and on such terms as to time and mode of payment as he may see fit, and such a sale, if bona fide, cannot be usurious, however unconscionable it may be.’
+“The principle is stated in 27 R. C. L., pages 213, 215, sections 14, 15, as follows: 1 . . . On principle and authority, the owner of property, whether real or personal, has a perfect right to name the price on which he is willing to sell, and to refuse to accede to any other. He may offer to sell at a designated price for cash or at a much higher price on credit, and a credit sale will not constitute usury however great the difference between the two prices, unless the buying and selling was a mere pretense. ’ . . .
+“In the case of Holland-O'Neal Milling Co. v. Rawlings, 217 Mo. App. 466, 479 [268 S. W. 683, 686], the court said: ‘The owner of property, whether real or personal, has a right to name the price at which he is willing to sell. He may offer to sell at a designated price for cash, or at a higher price on a credit, and a credit sale will not constitute usury.’ ”
+It is apparent that the contract involved in this action, in view of the stipulated facts, was not a subterfuge designed to conceal a loan, nor is there a suspicion of any undisclosed purpose lurking in the background. The contract was exactly what it purported to be and is not tainted with any suggestion of unlawful purpose.
+The judgment is affirmed.
+Koford, P. J., and Sturtevant, J., concurred.
