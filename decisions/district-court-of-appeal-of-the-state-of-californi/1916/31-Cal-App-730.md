@@ -1,0 +1,22 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 494"
+decided: "1916-10-25"
+citations: ["31 Cal. App. 730"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOSE ANDRADE, Appellant."]
+source_url: "https://static.case.law/cal-app/31/cases/0730-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039279
+---
+
+# People v. Andrade
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+The defendant was convicted of the crime of murder and by the verdict of the jury his punishment was fixed at imprisonment for life. Judgment in accordance with that decision was regularly made. A motion for a new trial being presented was denied by the court, and an appeal was taken from the judgment and order. The transcript on appeal was filed on May 13, 1916. No brief was offered to be filed on the part of appellant until October 17th. At the last-mentioned date a brief was deposited in the office of the clerk of this court. At the time set for oral argument on the calling of the calendar on October 24, 1916, appellant’s counsel did not appear, and the attorney-general moved for an affirmance under the provisions of section 1253 of the Penal Code. The motion was properly made under the sanction of the statute, and it would have been altogether appropriate that the judgment asked for be entered. However, as the charge is that of murder, and the defendant was convicted of the first degree of that crime, we have felt it fitting that some examination be made of the record in order to determine as to whether the defendant was properly convicted. There was a former trial in this case and upon an appeal being taken, a new trial was ordered to be had because of certain errors committed by the trial court. It was from the judgment pronounced and order made after the second trial that this appeal was taken. We have carefully examined the record and are convinced that the evidence heard by the jury fully sustains the verdict, and that no material errors were committed by the trial judge which would entitle defendant to have the judgment set aside. The facts of the case, as disclosed by the evidence, were in brief as follows : Defendant in January, 1915, was one of a party of woodehoppers engaged on a ranch in the county of Tulare; on about the ninth day of January, their work at the ranch being finished, they prepared to go to Visalia. The deceased happened by their camp, riding in a country wagon and driving a mule. He stopped and talked with the men, all of whom were Mexicans, and offered them wine which he had in a jug, of which all partook. Deceased assisted them in repairing a wagon, and then requested the defendant to accompany him while he went to secure more wine. The defendant at first demurred, but was finally persuaded to go, and the two men rode away together. They visited an Italian, who sold them more wine, and later left his place. Cook, the deceased, was not seen again alive, but on the following morning his dead body was found in a road. The post mortem examination disclosed that Cook had been struck on the back of the head, where the blow had cut the scalp and slightly fractured the skull; there were two bruises upon his face, a bruise upon a shoulder, and a bullet wound near one of his ears. The bullet which produced this wound was found lodged in the brain of the deceased near the side of the head opposite from the point of its entrance. The defendant was arrested in another county. After being brought back to Tulare he made a statement to the sheriff in which he admitted having killed Cook, but said that Cook had gotten out on the ground and after abusing him (the defendant), had pulled him roughly out of the wagon and kicked him in the side; that he (the defendant) had thereupon shot Cook and had immediately gone away. This statement was shown to have been repeated in the presence of other persons, and it was shown to have been voluntarily made. Taking all of the circumstances disclosed by the evidence, including the condition of the body of the deceased and the statements made by the defendant, the jury was fully authorized to conclude that the use of the deadly weapon by defendant was unjustified and that his act in shooting Cook was malicious.
+The judgment and order are affirmed.
+Conrey, P. J., and Shaw, J., concurred.
