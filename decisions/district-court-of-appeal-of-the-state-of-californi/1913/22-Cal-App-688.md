@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1328"
+decided: "1913-09-17"
+citations: ["22 Cal. App. 688"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. WEILL, Respondent, v. J. M. DANZIGER, Defendant and Appellant; J. M. KENT et al., Defendants."]
+source_url: "https://static.case.law/cal-app/22/cases/0688-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2364667
+---
+
+# Weill v. Danziger
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Plaintiff herein brought this action to recover for goods, wares, and merchandise which he alleged he had furnished to defendant. Collins and Wiltsee were not served with process, and the cause proceeded to trial as against defendants Danziger and Kent. Judgment was in favor of plaintiff and against defendant Danziger alone. Motion for a new trial was made and denied, and an appeal was then taken from that order and from the judgment.
+The merchandise on account of the purchase price of which this action was brought, was all ordered by and first charged to defendant Kent. Later the charge, at Kent’s direction, was transferred to the name of “Lost Hills Syndicate.” The trial court found that Kent in making the purchase of the goods acted as the agent of his eodefendants and not as a principal. The evidence which it is claimed is insufficient to support this finding was mainly given by Kent himself, who testified that he was conducting the business for Danziger and Wiltsee in moving rig irons and operating in the Lost Hills territory. He testified as follows: “They were building rigs and holding down located ground. They were purchasing supplies. I purchased supplies for them from Mr. Weill. They were part of them charged to my account, in my name, with the understanding from Mr. Danziger and Mr. Wiltsee that they would reimburse me when they named the company and then change the account to the company’s name. I told Mr. Weill that Mr. Wiltsee and Mr. Danziger would be responsible for these bills. I had authority from them for giving such instructions.” A letter from Danziger to Kent was introduced in evidence, also a telegram. The letter informed Kent that a cheek for seven hundred dollars to be used in connection with expenditures in the Lost Hills was inclosed. The telegram contained instructions from Danziger to Kent to sacrifice rigs and rig irons if necessary to pay the King Lumber Company one thousand dollars. Kent testified that the goods which he purchased from the plaintiff and for which the action was brought were all used in connection with the operations which he was conducting and managing for Wiltsee and Danziger. The haze which enveloped the question as to the precise agreement under which defendants were operating was not clearly dispelled by any of the evidence. Danziger by his testimony admitted that he was associated in some way (not precisely defined or explained) with Kent and Wiltsee, and did not deny that the goods for which plaintiff’s charge was made were used in the transaction of that business. He was extremely hazy in his explanation of how he was to be reimbursed for large sums of money which he admitted he furnished to Kent, but he denied that Kent was authorized to make the charge on his behalf for the merchandise which was furnished by plaintiff. All of the evidence introduced seems to have been competent for the purpose of proving the general business in which defendants were engaged and in illustrating the representative capacity in which Kent claims to have acted. It cannot be said that there was no evidence to sustain the finding of the trial court wherein it is held that Kent acted as the agent for Danziger and his codefendants. If from a consideration of the evidence on this review it appears, as it does, that there was any substantial evidence introduced which supports the findings of the court, that is all that can be inquired into, for the question as to where the preponderance of the proof may lie is one which addresses itself to the trial court and to that court only.
+There are no other errors specified which call for separate or particular discussion, unless it be the objection raised to that portion of the testimony of Kent wherein he stated that the goods were charged to his account “with the understanding from Mr. Danziger and Mr. Wiltsee that they would reimburse me.” Counsel for defendant Danziger moved to strike out this answer as stating a conclusion of the witness, which motion was denied. While technically the objection as framed was pertinent, still it cannot be said that there was any prejudicial error in allowing the testimony to remain, for the witness thereafter was sufficiently examined as to the foundation which he had for this “understanding.”
+The judgment and order are affirmed.
+Allen, P. J., and Shaw, J., concurred.
