@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6766"
+decided: "1929-07-16"
+citations: ["100 Cal. App. 24"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IONA BOYER, Appellant, v. LOUISA CRICHTON, Respondent."]
+source_url: "https://static.case.law/cal-app/100/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2129692
+cites_cases: ["104 Okl. 180", "122 N. W. 149", "135 Pac. 961", "138 Pac. 1002", "143 Iowa, 359", "147 Pac. 466", "16 Ind. 125", "166 Cal. 235", "167 Cal. 216", "169 Cal. 628", "204 Cal. 191", "230 Pac. 878", "267 Pac. 537", "28 Ga. 435", "4 Cal. Unrep. 539", "79 Am. Dec. 414"]
+---
+
+# Boyer v. Crichton
+
+## Majority (THE COURT.)
+
+THE COURT.
+An appeal from a judgment dismissing the above action for want of prosecution.
+The action was one to quiet the title to certain real property situated in San Francisco, the complaint (which was filed on June 17, 1919) alleging title in the plaintiff with the right to possession. The original defendants were Louisa and William Crichton, who, on September 3, 1919, filed an answer to the complaint, denying plaintiff’s alleged title and right to possession, and averring title in themselves by virtue of a tax deed and that they were in possession of the property. To this answer the plaintiff filed a general demurrer, following which, on February 3, 1922, the court made the following order: “It is ordered demurrer to answer be sustained; defendants granted permission to file amendment to answer setting up items of reimbursement.” Thereafter, on March 24, 1922, Louisa Crichton again answered, setting forth substantially the same denials and allegations as were contained in her original answer, and additional allegations as to the amounts paid to the tax collector of the city and county of San Francisco as the purchase price of the property and the amount subsequently disbursed in payment of taxes assessed thereon, with a further allegation that her co-defendant, William Crichton, had, before the commencement of the action, conveyed his interest in the property to her. On March 31, 1922, the plaintiff moved the court to strike out the answer last mentioned, upon the ground that the same did not conform to the order permitting an amendment to the original answer, and on October 21, 1922, the motion was granted, the material portion of the order being as follows: “It is ordered by the court that the above motion be and the same is hereby granted with leave for defendant to file items for reimbursement.” No other pleading by way of answer was filed by defendant or further proceedings had in the cause until May 6, 1927, when defendant moved to dismiss under section 583 of the Code of Civil Procedure, more than five years having elapsed since the above answers were filed. Thereupon the plaintiff moved for judgment on the pleadings, which the court denied, and entered its order dismissing the action for want of prosecution.
+Appellant claims that, as the effect of the orders with respect to the pleadings of the defendant, no answer remained on file in the case and no dismissal under the provisions of section 583 of the Code of Civil Procedure could properly be made.
+The intention of the court, in making the first order is doubtful, for, as contended by respondent, to sustain a general demurrer to the answer and at the same time allow an amendment to the same pleading was contradictory. As held in Watson v. Lawson, 166 Cal. 235 [135 Pac. 961], in case of doubt regarding the signification of a judgment, or any part thereof, the whole record may be examined, and when the judgment admits of two constructions, that one will be adopted which is consonant with the judgment that should have been rendered on the facts and law of the case.
+In the present instance the original answer not only denied specifically the material allegations of the complaint, but also alleged facts showing prima facie the title to the property, with the right to possession, to be in the defendants. In view of the facts we are satisfied that no more was intended by the order than to direct the filing of an amendment to the answer setting up the items of disbursement in connection with the purchase of the property and taxes subsequently assessed against the same, and that such is the true construction to be given the order. So construed the original answer was not superseded, the effect of the subsequent order striking out the amended answer being to restore the original pleading. (Spooner v. Cady, 4 Cal. Unrep. 539 [36 Pac. 104] ; Wapello State Sav. Bank v. Colton, 143 Iowa, 359 [122 N. W. 149]; Adams v. Webb, 104 Okl. 180 [230 Pac. 878]; Hill v. Jamieson, 16 Ind. 125 [79 Am. Dec. 414] ; Bealle v. Day, 28 Ga. 435.)
+More than five years having elapsed since the filing of the original answer by the defendants, and the parties not having stipulated in writing that the time be extended, a dismissal, as provided by section 583 of the Code of Civil Procedure was proper. Moreover, the court, under the circumstances, which disclose a failure on the part of the plaintiff to exercise due diligence in the prosecution of the action, had discretionary power to dismiss (Romero v. Snyder, 167 Cal. 216 [138 Pac. 1002]; Overaa v. Keeney, 169 Cal. 628 [147 Pac. 466]; Wutchumna Water Co. v. Stevenson, 204 Cal. 191 [267 Pac. 537], and no abuse of its discretion has been shown.
+The judgment is affirmed.
