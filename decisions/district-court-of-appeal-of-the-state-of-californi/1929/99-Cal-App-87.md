@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6111"
+decided: "1929-05-22"
+citations: ["99 Cal. App. 87"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY COWELL LIME AND CEMENT COMPANY (a Corporation), Appellant, v. JAP E. MITCHELL et al., Respondents."]
+source_url: "https://static.case.law/cal-app/99/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127587
+---
+
+# Henry Cowell Lime & Cement Co. v. Mitchell
+
+## Majority (TYLER, P. J.)
+
+TYLER, P. J.
+Action to recover the value of certain personal property alleged to belong to plaintiff, which was sold at sheriff’s sale. The property so sold is claimed to be of the value of $6,674.16. Plaintiff acquired the property by assignment from one W. W. Taft, as hereinafter set forth. Defendant Mitchell by separate answer denied that plaintiff owned the property or that it was of the value alleged in the complaint or had a greater value than $1,540. As a separate defense he further alleged that it consisted of certain concrete building blocks and was purchased by him at sheriff’s sale, the same having been seized by virtue of a writ of attachment in an action brought against the Fresno Glazed Cement Pipe Company. Defendant Grummett, by separate answer, also denied that the property was of the value alleged and further denied that plaintiff was the owner thereof or entitled to its possession. The court found plaintiff not to be the owner of the property and judgment was in favor of the defendant.
+It is claimed in support of the appeal that there is no evidence in the record to sustain the findings. The history of the case as disclosed by the evidence shows that in February, 1917, one W. W. Taft leased from the Fresno Glazed Cement Pipe Company, a corporation, its plant for the manufacture of cement pipe for irrigation purposes. Taft entered into possession under the lease and manufactured a quantity of pipe, which he kept on hand in the yard of the premises. In the same year the Riverside Portland Cement Company, a creditor of the Fresno Glazed Cement Pipe Company, the lessor, attached the plant and all material, raw and manufactured, in Taft’s possession. Taft replevined the property in an action against the sheriff, giving the usual bond and retaking possession. This action was finally determined in the year 1921. Meantime Taft, while in possession of the property, sold out in 1917 all of the pipe so attached in said action.
+The findings in the case above referred to show that Taft’s lease was void in fraud of creditors and the property seized was held to be the property of the Fresno’ Glazed Cement Pipe Company. Taft thereafter continued in possession, of the plant and manufactured certain pipe, buying and paying for the needed material, and also paying for the necessary labor to manufacture it. While thus employed, respondent John Grummett had obtained a judgment against the Fresno Glazed Pipe Company, and he caused an execution to issue thereon, commanding the sheriff to levy upon the property of the cement company to satisfy the judgment. Under this writ the sheriff levied upon a quantity of material at the plant and the pipe manufactured by Taft during the year 1921, and advertised it for sale. Taft thereupon served a third-party claim upon the sheriff. At the time this notice was served, the pipe on hand had been struck off to respondent herein, Jap B. Mitchell. The remaining property was turned over to Taft on his third-party claim. Taft assigned his interest to the plaintiff herein, Henry Cowell Lime and Cement Company, and this action was brought by such company for the conversion of the pipe sold under the Grummett execution.
+The trial court found, in effect, that the execution sale was legal in all respects; that Taft stood by and permitted the sale to be made; that he was not entitled to the possession of the property sold and was not the owner thereof. A reading of the record shows that the conclusion of the trial court was based upon the mistaken theory that the pipe sold was the property involved in the case of Riverside Portland Cement Co. v. Fresno Glazed Cement Pipe Co., and which had been repossessed by Taft in his action against the sheriff, as above set forth. There is no evidence in the record to sustain this finding or that the Fresno Glazed Cement Pipe Company had any interest in the property sold under the Grummett judgment. On the contrary, the only evidence upon the subject shows that the pipe repossessed by Taft in the Riverside Portland Cement Company action was disposed of by Taft and that the property here involved was subsequently manufactured by him at his own expense.
+The evidence without conflict supports plaintiff’s allegations as to its ownership of the property. This being so, it follows that the judgment must be reversed. It is so ordered.
+Knight, J., and Cashin, J., concurred.
