@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3746"
+decided: "1943-10-29"
+citations: ["61 Cal. App. 2d 213"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. DAVE POLLOCK, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/61/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4682369
+cites_cases: ["101 P.2d 531", "137 Cal.App. 737", "141 P. 1075", "24 Cal.App. 522", "31 P.2d 410", "38 Cal.App.2d 387"]
+---
+
+# People v. Pollock
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+Appellant was charged by information with the violation of section 288 of the Penal Code and was convicted by the court, sitting without a jury. Appellant admitted a prior conviction of violation of the same section, for which he served a term of imprisonment in the State Prison. This appeal is taken from the judgment of conviction and from the order denying appellant’s motion for a new trial.
+The prosecutrix is a nine year old girl. She testified that on the afternoon of February IS, 1943, she. accompanied appellant to his room in an apartment house and that appellant there pulled down her pants and placed his private parts “beside” hers. The testimony also clearly permits an inference that appellant then had a seminal emission in the presence of the child, catching the fluid in his handkerchief. Appellant was arrested in his room on the evening of the same day and the arresting officer testified at the trial. Appellant’s only defense appears to be that he was so drunk he did not remember what happened on the afternoon in question. Appellant testified in effect that he remembered being in his apartment or elsewhere up until about' noon and going out to eat about that time and that he remembered nothing more until he was awakened in his room by the arresting officers that night.
+The sole ground of appeal is that the judgment is contrary to the law and the evidence. Appellant contends that the evidence fails to show satisfactorily that he touched the prosecutrix and in that connection attempts to stress certain testimony of the prosecutrix as to the distance she stood from appellant when the acts in question were said to have-been committed, which testimony, appellant argues, is “potent evidence that in truth and in fact she was not touched.” There is, however, testimony on the part of prosecutrix of equal or of even greater potency that she was in very close proximity to appellant when the alleged acts were committed. The question was one for the determination of the trial court in judging the facts of the case. It is not necessary to decide here whether the crime denounced by section 288 of the Penal Code is complete without any actual physical contact. In considering the evidence of the removal or pulling down of the child’s underclothing by appellant reference may be had to People v. Lanham, 137 Cal.App. 737 at 740 [31 P.2d 410], wherein it is stated: ‘ ‘ The testimony shows that the defendant placed his hands under the clothing of the child and removed from her person the panties she was wearing. It is common knowledge and common experience to conclude that in removing the panties of the child the hands of the one removing the panties would necessarily and undoubtedly come in contact with the body of the child so outraged.” Appellant alludes to inconsistencies in the testimony of the prosecutrix. The record reveals that the prosecutrix was carefully examined not only by the prosecutor and defense counsel but also by the court. The child was nervous and upset by her ordeal upon the witness stand; and many of the claimed inconsistencies occurred under cross-examination. None of the instances to which appellant alludes serves to do more than to present a question of fact for the determination of the trial court and the testimony as a whole was ample to support the judgment of the court.
+The facts in People v. McCullough, 38 Cal.App.2d 387 [101 P.2d 531], cited by appellant, are markedly distinct from those presented here. In that case the child was very uncertain as to the time and place when the acts complained of occurred, and was also uncertain as to the manner in which the crime was accomplished. There was no such uncertainty in the testimony of the prosecutrix in the present case. Any discrepancy in the child’s judgment of the measurement of a relatively small space was not of such a nature or so great as to prevent credence being given to the rest of her testimony. Furthermore, in the McCullough case, supra, the defense was an alibi of a substantial character. In the present case the only defense was a lapse of memory brought on through alleged drunkenness. It should be stated that the arresting officer at the trial gave his opinion that at the time of his arrest appellant did not appear intoxicated, though his breath smelt of what the arresting officer considered to be beer. The facts in People v. Harden, 24 Cal.App. 522 [141 P. 1075], also cited by appellant, are equally distinguishable from those of the present case. The appeal is devoid of merit.
+The judgment and the order denying the motion for a new trial are, and each of them is affirmed.
+York, P. J., and White, J., concurred.
