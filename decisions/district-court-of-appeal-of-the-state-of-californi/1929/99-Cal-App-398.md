@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3805"
+decided: "1929-06-12"
+citations: ["99 Cal. App. 398"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AUGUSTA WERNER, Appellant, v. CHARLES J. BRYDEN, Respondent."]
+source_url: "https://static.case.law/cal-app/99/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127625
+cites_cases: ["103 Cal. 377", "169 Pac. 443", "190 Cal. 526", "200 Pac. 745", "213 Pac. 947", "35 Cal. App. 70", "37 Pac. 179", "53 Cal. App. 616"]
+---
+
+# Werner v. Bryden
+
+## Majority (FINCH, P. J.)
+
+FINCH, P. J.
+This is an appeal by the plaintiff from an order denying her motion for a change of the place of trial from the county of Yuba to the city and county of San Francisco, made on the following grounds: “1. That there is reason to believe that an impartial trial . . . cannot be had in the County of Tuba; ... 2. That the convenience of witnesses and the ends of justice would be promoted by the change.”
+The case has already been tried twice. It appears from the affidavits used at the hearing of the motion that the jury in the first trial was unable to agree, standing six for the plaintiff and six for the defendant. In the second trial a verdict was returned in favor of the defendant. A new trial was granted on the ground of insufficiency of the evidence to justify the verdict. There appears to have been no difficulty in securing a jury at either trial. The plaintiff challenged but eight jurors for cause at the first trial and twelve at the second. The defendant owns property of the value of about one hundred thousand dollars, while the plaintiff is dependent “upon her daily labor in the City and County of San Francisco.” In plaintiff’s affidavit it is stated that the grandmother of the defendant, Mary J. Bryden, has resided in the city of Marysville, Tuba County, for fifty years and “is one of the best known and most highly respected residents of the County of Tuba”; that the defendant’s father, James R. Bryden, died in the year 1922 and had lived all his life in Tuba County; that he was “very well and favorably known all throughout the County of Tuba. . . . The family of the defendant . . . has been for many years, and now is, highly respected and very well known all throughout the County of Tuba. The citizens and residents of the said County of Tuba, owing to their respect for the said Mrs. Mary J. Bryden and for the said James R. Bryden ... all sympathize with the family of said' defendant by reason of the matters disclosed by the filing of the complaint in the above-entitled action, and by the trial of said action, as well as by the publicity given thereto by the press, and by reason thereof, affiant is informed and believes, and therefore alleges, that it is impossible for affiant to have a fair and impartial trial of the above-entitled action in the said County of Tuba.” There is nothing in the affidavit to show what, if any, publicity was given the proceedings at the trial by the press.
+The defendant’s affidavit “denies that plaintiff cannot have an impartial trial in . . . the County of Tuba; . . . denies that any prejudice exists in said County of Tuba against plaintiff, either personally or against her ease; denies that there is anything existing in the public minds or otherwise, in said County of Tuba, to prevent plaintiff from having a fair and impartial trial; . . . denies that the reputations of (Mary 'J. Bryden and James R. Bryden) ... in the former trials of this action in any way influenced or in any subsequent trial of this action in any way will influence the minds of the people of said County of Tuba, or any thereof.” It appears that it would be more convenient for three of the plaintiff’s witnesses to attend the trial of the case in San Francisco and that it would be more convenient for two of the defendant’s witnesses, one of whom is the court reporter of Tuba County, to attend such trial at Marysville.
+“ The right of defendants to have their case tried in the county wherein they and their witnesses reside is a substantial one and is not to be set aside unless it actually conflicts with the higher right of a plaintiff to have an impartial trial.” (Ross v. Kalin, 53 Cal. App. 616, 619 [200 Pac. 745].) “Applications like this are addressed to the sound legal discretion of the trial court, and its action cannot be disturbed on appeal unless it clearly appears that there was an abuse of that discretion.” (Stockton C. H. & A. Wks. v. Houser, 103 Cal. 377, 380 [37 Pac. 179, 180]; J. I. Case T. Co. v. Copren Bros., 35 Cal. App. 70, 76 [169 Pac. 443]; Ross v. Kalin, supra.) “The determination'of a motion of this character upon the ground of the convenience of witnesses rests largely in' the sound discretion of the court to which it is addressed, and its order thereon will be disturbed only for an abuse of such discretion. ... A mere preponderance in number of the witnesses which either party expects .to produce will not necessarily determine the Order to be made.” (Scott v. Stuart, 190 Cal. 526, 527 [213 Pac. 947, 948].)
+It so clearly appears from the facts stated in the affidavits that the denial of the motion was not an abuse of discretion that no further discussion or citation of authorities is deemed necessary.
+The order is affirmed.
+Plummer, J., and Thompson (R. L.), J., concurred.
