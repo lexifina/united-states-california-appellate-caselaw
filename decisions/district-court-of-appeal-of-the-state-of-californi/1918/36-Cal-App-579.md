@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 675"
+decided: "1918-03-25"
+citations: ["36 Cal. App. 579"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. LOUIS FRAYSIER, Appellant."]
+source_url: "https://static.case.law/cal-app/36/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4451998
+cites_cases: ["117 Pac. 615", "117 Pac. 941", "123 Pac. 225", "144 Cal. 298", "16 Cal. App. 478", "16 Cal. App. 731", "18 Cal. App. 367", "33 Pac. 1092", "77 Pac. 948", "99 Cal. 327"]
+---
+
+# People v. Fraysier
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+The defendant was convicted of the crime of statutory rape. This appeal is from that judgment and from an order denying his motion for a new trial.
+The defendant was a gardener making his living by growing and selling vegetables in San Francisco. His garden lay in the center of a city block shut in by fences and dwellings. Into that somewhat secluded place customers often sent their children to buy vegetables. Without elaborating the revolting details it will suffice to say that according to the testimony of the prosecutrix, a girl twelve years of age, she went to the defendant’s garden one day in September, 1916, and was there ravished by the defendant. As is unfortunately often the case in prosecutions of this character, the testimony relied upon by the state is not as satisfactory as might be desired. This perhaps is inevitable. The prosecution was unable to fix the time of the day, whether in the forenoon or afternoon, nor the day of the week nor the date on which the assault occurred nearer than that it was some time three or four weeks before Labor Day. The prosecutrix testified that immediately after the assault she went home but said nothing to her mother about the unusual occurrence, and straightway went out to play with some chums and forgot the matter; indeed, she thought no more abput it until-the arresting officer called on her one day at school, when, to avoid being “put away” until she was twenty-one years of age, during which time she would not see her father and mother, she told the officer the story subsequently related by her in court.
+With respect to the arresting officer it appears that on the day before, or not more than three days before the arrest of the defendant, he had visited the defendant’s garden, and finding there a little girl, the defendant, and a woman, drove the defendant and the woman from the premises, took the girl into a shack near by, and questioned her concerning her relations with the defendant. Failing to find them incriminating, he took her to her home and told her to stay away from the defendant. The same night the defendant, the woman above mentioned, and the father of the little girl called at police headquarters and complained of the treatment to which the girl had been subjected. Not more than three days thereafter the same officer questioned the prosecutrix and caused the present charge to be brought against the defendant.
+Conceding that the officer may have been hostile to the defendant, it of course does not follow that his testimony was false or that he attempted to induce the prosecutrix to testify falsely. As to her testimony, while she stated that she told the officer the story about the assault in order to avoid being punished, still she did not testify that she had related a false story against the defendant, nor can we conclude, that she did so. The criticism of these witnesses is as to a matter going to the weight and credibility to be given their testimony, which are considerations for the jury. We cannot say from a review of the entire record that the evidence of the prosecution was inherently improbable. The most that can be said is that its truth was open to suspicion. If believed by the jury, it was sufficient to support their verdict and the judgment.
+Passing to the next point, there are no doubt cases where a defendant in making his defense would be seriously embarrassed by the failure of the prosecution" to definitely fix the date of the alleged crime; but it does not appear that this defendant was prejudiced by such failure in this case. The prosecutrix gave the date of the assault as nearly as she could; and the case falls within the general rule that the proof need not show that the offense was committed on the day named in the charging paper. (People v. Squires, 99 Cal. 327, [33 Pac. 1092]; People v. Allen, 144 Cal. 298, [77 Pac. 948].)
+The court committed no error in refusing to give an instruction to the effect that if the jury found from the evidence that the prosecutrix made no complaint of the alleged act of the defendant, they should view such failure as a suspicious circumstance indicating that her story was a fabrication. (People v. Jacobs, 16 Cal. App. 478, [117 Pac. 615].)
+We think, too, that the jury were sufficiently cautioned by the court in the instruction advising them in effect that a charge of rape is one easy to make and difficult to disprove; that the testimony of a child of tender years “such as the prosecuting witness here” ought to be viewed with great care and caution; and that the evidence in a ease of this kind was to be weighed with the utmost care, without bias or prejudice. (People v. Currie, 16 Cal. App. 731, [117 Pac. 941]; People v. Liggett, 18 Cal. App. 367, [123 Pac. 225].) The jury were fully and fairly instructed in every phase of the law applicable to the facts of the case.
+Respecting a remark made by the trial judge of which complaint is made by the appellant, it was directed to counsel during a discussion as to the admission of certain evidence. It was quite harmless. It did not amount to misconduct. Counsel must have taken this view of it at the time it was made, for he did not assign it as misconduct or request the appropriate admonition.
+The judgment and order are affirmed.
+Beasly, J., pro tern,., and Zook, J., pro tern,., concurred.
