@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2404"
+decided: "1933-08-26"
+citations: ["134 Cal. App. 61"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. GEORGE E. FRANK, Appellant."]
+source_url: "https://static.case.law/cal-app/134/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2198069
+cites_cases: ["131 Pac. 697", "17 Cal. App. 737"]
+---
+
+# People v. Frank
+
+## Majority (CRAIG, J.)
+
+CRAIG, J.
+Upon charges by information of robbery and burglary, and the allegation of a prior conviction of felony in another state, verdicts of guilty were returned by the jury, and the defendant appealed from the judgments entered accordingly.
+It was alleged, and the prosecuting witness testified, that the offense was committed on or about the second day of February, 1932. The defendant swore that he was not at the scene of the robbery on that date. However, said witness was not positive as to the exact date thereof, and police records proved by the People showed the same offense to have been committed on the thirteenth day of February, 1932. “The precise time at which the offense was committed need not be stated in an indictment or information, but may be alleged to have been committed at any time before the filing thereof, except where the time is a material ingredient in the offense.” (Pen. Code, sec. 955.)
+It is contended that the trial court abused its discretion in denying a motion for a continuance, and that the appellant was deprived of an opportunity to produce a material witness. It was shown by affidavit that said witness had left the state, but no showing was made as to diligence in attempting to locate or communicate with him, nor as to the date of his departure, the date of his expected return, or where he might be found. The trial had been continued from various dates over a period of more than a month. Affirmative proof of facts tending to show that the ends of justice required a further continuance not having been offered, it cannot be said that it was error to deny the same.
+The information charged a prior conviction of a felony in another state for which the defendant had served a term in the penitentiary. Motions were interposed to dismiss said charge, based upon an affidavit that the defendant had been pardoned, which motions were denied. A form of pardon naming another person or the defendant by a different name appears in the appellant’s brief, but it does not appear to have been signed nor offered in evidence upon the trial. The weight to be given such evidence if it really was offered was for the trial court to determine and it cannot, be afforded greater weight on appeal than it can be said to have received below. Nor did the allegation and proof of a prior conviction place the defendant again in jeopardy therefor, nor amount to assessing for the same offense a double penalty therefor, as contended. Section 668 of the Penal Code provides that in case of a conviction outside this state, a person thereafter convicted in this state is punishable for the subsequent offense in the manner prescribed in section 644, which requires imprisonment for life and forbids release on parole for at least twelve years. The prior conviction having been properly charged by information, and admitted by the defendant, the trial court cannot, in view of the foregoing, be held to have abused its discretion in refusing to permit him to withdraw his plea and to deny the same.
+The contention that the jury might have been influenced by remarks of the trial judge and the curtailment of examination of witnesses upon matters which appeared to be immaterial is also untenable. It was the duty of the court to expedite the hearing and determination of the proceedings in a manner commensurate with the serving of the ends of justice. (Pen. Code, sec. 681a.) The jury were instructed to disregard any expressions by the trial judge which might indicate an opinion in the matters before them, and examination of the record fails to reveal any instance wherein the defendant was deprived of the right to evidence which was material to the issues. He does not show how he was prejudiced by the procedure to which he would take exception.
+Further, it is insisted that certain of the jurors may have been present in the courtroom during the trial of another case in which the appellant here was being tried for assault with a deadly weapon with intent to commit murder, and have been prejudiced by the evidence therein. We cannot presume that jurors in the subsequent trial falsely testified as to their qualifications, nor that the defendant was deprived of an opportunity to examine them fully, in the absence of such showing. The record contains no evidence of unfairness. Objection to the jurors was overruled by the statement of the court that no juror who sat in the former trial was a juror in the second. In the absence of showing to the contra it must be presumed that they were not disqualified. (People v. Gilmore, 17 Cal. App. 737 [131 Pac. 697].)
+The defendant was positively identified by the prosecuting witness, and a watch which she testified he had taken at the time of the robbery was identified by description and number. It is contended that such identification was insufficient, but we are furnished with no suggestion of more complete evidence that might have been demanded. Other points raised by the appellant’s brief are covered by what has been said herein.
+The judgment and order denying a new trial are affirmed.
+Works, P. J., and Stephens, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on September 8, 1933, and an application by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on September 22, 1933.
