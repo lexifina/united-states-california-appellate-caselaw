@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2963"
+decided: "1937-04-01"
+citations: ["20 Cal. App. 2d 91"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. WALTER HERMAN WIER, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/20/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040687
+cites_cases: ["108 Cal. App. 26", "108 Cal. App. 721", "114 Cal. App. 133", "137 Pac. 917", "166 Cal. 570", "204 Cal. 109", "266 Pac. 807", "290 Pac. 292", "293 Pac. 72", "299 Pac. 555"]
+---
+
+# People v. Wier
+
+## Majority (GRAIL, P. J.)
+
+GRAIL, P. J.
+This appeal is taken by the defendant from a judgment of conviction of robbery and of violation of section 503 of the Vehicle Code, and from an order denying defendant’s motion for a new trial.
+A robbery was committed on September 29, 1936, in which a substantial sum was taken from a cash register in a Los Angeles cafe. Three eye-witnesses to the crime testified that the person who committed it was wearing a pair of dark pants, a light-colored' felt hat and a brown jacket—two witnesses testifying that the jacket was made of suede. At the time of his arrest, defendant had in his possession a pair of pants and a suede jacket, which were identified by two of the witnesses as being similar to those worn by the perpetrator of the crime. The three eye-witnesses testified that defendant resembled the person who committed the robbery. Two of the witnesses had, prior to defendant’s arrest, identified certain photographs as being likenesses of the person who committed the robbery. These photographs were pictures of the defendant. The defendant by his ©wn admission left California and showed up at Phoenix, Arizona, in the early morning of October 1, 1936, and remained out of the state until his arrest about a month later. Defendant testified that during the return trip to California, he made the following statement to the arresting officer: “Well, if it looks too hot it is a cinch that I will be convicted. I would be willing to plead guilty on one count, if you would be willing to cooperate and drop the other two counts. ’ ’ The defendant testified that, at the time the robbery was committed, he was in bed in a house in San Bernardino. This testimony was supported by the testimony of two witnesses, who said they were in the house with the defendant at that time.
+Defendant’s first contention is that the evidence identifying him as the person who committed the crime is insufficient to support the verdict. The second contention is that there is no conflict in the evidence establishing an alibi, and therefore it must be taken as true. These contentions may be answered together. On appeal the question for this court to determine as to both contentions is whether there is any substantial evidence identifying defendant as at the scene of the crime and as the person who committed it. In our view there is. (People v. Griggs, 114 Cal. App. 133 [299 Pac. 555], and cases therein cited.) The weight to be given such testimony was a question for the jury.
+The defendant’s next contention, although vaguely stated, is that the court committed prejudicial error in permitting the district attorney to produce testimony with reference to an endeavor to locate a witness who would contradict the statement of one of the defendant’s witnesses. The name of this witness had been mentioned by the prosecutor in his question to the witness for the defendant. The record shows that the defendant also put on a witness who testified that he had made a search for the absent witness. Thereafter the jury was instructed by the court to disregard the whole matter and treat it as if it had never been mentioned, and that no inferences were to be drawn from the fact that a witness was mentioned but not produced. There is no merit in this contention of defendant. If the district attorney had not produced testimony that a search had been made for the witness the defendant might well have contended that the question was asked in bad faith. (People v. Stafford, 108 Cal. App. 26 [290 Pac. 292].)
+The defendant’s next contention is that the court erred in giving a certain instruction on alibi testimony, but he does not set out in his brief in what respects the instruction was erroneous and this court should not exercise its ingenuity in an effort to find ways in which to upset a judgment of the trial court. A similar instruction was approved in People v. Dowell, 204 Cal. 109 [266 Pac. 807].
+The court gave the, following instruction on flight: “The flight of a person immediately after the commission of a crime, or after he is accused of a crime that has been committed, is not sufficient in itself to establish his guilt, but is a fact which, if proved, the jury may consider in deciding his guilt or innocence. The weight to which such circumstance is entitled is a matter for the jury to determine.” The defendant’s final contention is that the instruction was erroneous because it “clearly presupposes the commission of the crimes charged in the information by the defendant”, and he cites in this behalf People v. Lee Nam Chin, 166 Cal. 570 [137 Pac. 917], and People v. Sheffield, 108 Cal. App. 721 [293 Pac. 72]. In defense of this instruction the attorney-general takes recourse in article YI, section 4% of the Constitution. The proper answer to the contention is that the instruction is the one prescribed by statute where an instruction on flight is given. (Pen. Code, sec. 1127c.)
+Judgment and order affirmed.
+Wood, J., and McComb, J., concurred.
