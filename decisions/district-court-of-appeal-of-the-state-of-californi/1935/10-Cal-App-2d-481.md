@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10655"
+decided: "1935-12-05"
+citations: ["10 Cal. App. 2d 481"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of NELLIE F. COWDEN, Deceased. E. W. COWDEN et al., Respondents, v. EARL C. FRENCH, Administrator, etc., Appellant."]
+source_url: "https://static.case.law/cal-app-2d/10/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269450
+cites_cases: ["135 Cal. App. 166", "136 Cal. App. 286", "19 Pac. (2d) 793", "217 Cal. 451", "26 Pac. (2d) 530", "28 Pac. (2d) 711", "91 A. L. R. 480"]
+---
+
+# Cowden v. French
+
+## Majority (SHINN, J., pro tem.)
+
+SHINN, J., pro tem.
+Appeal from an order construing a will.
+The provisions of the will in question read as follows: “ To my brother E. C. French the sum of two hundred dollars & my clothing & personal property. To my stepchildren by my husband Forbes C. Cowden I bequeath the rest of my estate both real & personal & wherever situated share and share alike. ” In a proceeding initiated to obtain an interpretation of these conflicting provisions, the court held that the brother took the sum of $200 and the clothing and personal effects of the decedent, including “only such items as jewelry and other articles of personal adornment ’ ’, and that the residue of the estate, which included stocks and bonds of the value of some $1500 and household furnishing of the value of $300 went to the stepchildren under the residuary provision.
+Upon this appeal, the brother contends that the will should be so construed as to give him all of the personal property. He relies upon certain well-established rules of construction, namely, that a specific bequest will control a general bequest where the two are in conflict (69 C. J. 115); a clear and distinct bequest cannot be affected by . . . any other words not equally clear and distinct, or by inference or argument from other parts of the will, . . . (Probate Code, sec. 104); that the law presumes an intention that the property should go in the legal channels of descent (26 Cal. Jur. 209); and that the words of a will are to be taken in their ordinary and grammatical sense, unless a clear intention to use them in another sense can be collected, . . . (Probate Code, see. 106.) If these rules are controlling the position of appellant is correct. Other rules declare that effect must be given to every expression in a will when that can be done, and the entire will must be construed so "as to form one consistent whole (Probate Code, secs. 102, 103). Under section 101, which was followed by the trial court, the will must be construed according to the intentions of the testatrix and where such intention cannot be given effect to its full extent, it must have effect as far as possible. All of these rules of interpretation have as their ultimate object the ascertainment of the intentions of the maker of the will and they may be applied to support but not to defeat such intention. (Estate of Layton, 217 Cal. 451 [19 Pac. (2d) 793, 91 A. L. R. 480].) It is not to be doubted that the testatrix did not intend to give all of her personal property to either appellant or respondents. Having provided for her brother she believed there was personal property left to give to the stepchildren. The second bequest was in just as clear terms as the first one. She, therefore, had in her mind some intended limitation of the first bequest. We think an interpretation is to be preferred which will give effect to both bequests rather than one which would disregard the residuary bequest to the defeat of testatrix’ obvious wishes. There is direct authority for the determination of the trial court that the personal property given to the brother should be limited to the personal effects of the deceased. (Estate of Norrish, 135 Cal. App. 166 [26 Pac. (2d) 530]; Estate of Combs, 136 Cal. App. 286 [28 Pac. (2d) 711].) In each of these cases the words “personal property” were so construed. In the latter case it was pointed out that the words “personal property” taken in the popular sense may mean only goods and chattels which are the subject of personal use, while in a legal sense they embrace all classes of property except real property, and it was held that the former definition should be accepted because the will as a whole showed that the words were not used in their more comprehensive sense. The interpretation contended for by appellant would not only defeat the bequest of the residue of the personal property to respondents, but it would also defeat-certain other bequests, namely, one of '$200 to B. J. Cowden, one of $350 to Dora A: Cowden, and a bequest of a diamond ring, to Eva Price, a sister, for if appellant is to take all of the personal property the others mentioned would take nothing. Such a disposition of the estate would be quite foreign to the wishes of the testatrix as expressed in the will.
+The order interpreting the will is affirmed.
+Houser, P. J., and York, J., concurred. •
+A petition by appellant- to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on February 3, 1936.
