@@ -1,0 +1,50 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 53667"
+decided: "1978-10-11"
+citations: ["86 Cal. App. 3d 72"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD B. BARTLETT, Petitioner, v. THE SUPERIOR COURT OF SANTA BARBARA COUNTY, Respondent; COUNTY OF SANTA BARBARA, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/86/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1992220
+cites_cases: ["131 Cal.Rptr. 246", "436 U.S. 84", "53 L.Ed.2d 683", "60 Cal.App.3d 38"]
+---
+
+# Bartlett v. Superior Court
+
+## Majority (FILES, P. J.)
+
+Opinion
+FILES, P. J.
+This petition for writ of mandate filed May 17, 1978, sought review of a trial court order denying a motion to quash service of summons and complaint.
+Real party in interest, County of Santa Barbara, commenced a civil action in respondent court seeking reimbursement from petitioner for welfare funds used to support a minor child, whose mother, Tracey, is a resident of Santa Barbara County. Petitioner and Tracey were never married. Petitioner is not now and never has been a California resident; he is a civilian employee of the United States Navy presently stationed in Jacksonville, Florida. She claims to have conceived the child during a visit to petitioner at Jacksonville, Florida, between December 1976 and February 1977. Petitioner denies parentage.
+Procedurally, the following events have occurred in this case: The County of Santa Barbara filed its petition for child support and reimbursement of welfare funds in the Santa Barbara County Superior Court. The Santa Barbara district attorney sent the complaint to the state attorney at Jacksonville, Florida, with the request that, it be filed in the Jacksonville County Superior Court under the Uniform Reciprocal Enforcement of Support Act (URESA). (See Code Civ. Proc., §§ 1676, 1680.) Petitioner made an affidavit denying parentage, and for this reason the state attorney in Jacksonville declined to file the case.
+The County of Santa Barbara then caused the California summons and complaint to be served on petitioner in Florida on January 25, 1978, and petitioner made a special appearance and moved to quash in the Santa Barbara County Superior Court.
+Petitioner filed a declaration in support of his motion, and the county filed declarations of Tracey and a deputy district attorney. Upon this record the court denied the motion to quash.
+The material facts, as established by the respective declarations of petitioner and Tracey, are not in substantial dispute.
+Those parties first became acquainted in Jacksonville, Florida, in 1975. In 1976 Tracey returned to California to divorce her husband.
+In July 1976 petitioner was in California on Navy business. At petitioner’s invitation Tracey visited him in San Diego for five days and in Los Angeles for one night. Petitioner gave Tracey money for her expenses. In October 1976 petitioner traveled to California on Navy business and spent four or five days at a motel in Santa Barbara. He expressed his intention to marry Tracey when his divorce was final.
+In December 1976 at petitioner’s invitation, Tracey traveled to Jacksonville, where she remained until her return to Santa Barbara February 1977. Petitioner paid the airplane fare to and from Jacksonville. In May 1977 on another trip on Navy business, petitioner visited Tracey.
+In July 1977 (Tracey’s declaration says 1976, but this appears to be a typographical error) Tracey visited petitioner in Jacksonville for two weeks. Petitioner paid the round trip air fare.
+Tracey’s declaration also states that petitioner paid the bills for one visit to a physician in Jacksonville and one visit to a physician in Santa Barbara concerning the pregnancy.
+The decision of the United States Supreme Court filed May 15, 1978, in Kulko v. Superior Court, 436 U.S. 84 [56 L.Ed.2d 132, 98 S.Ct. 1690] is dispositive here.
+The Kulkos resided in New York when they separated. After a Haitian divorce, Mrs. Kulko moved her residence to California, while Mr. Kulko and the two children remained in New York except for vacation visits by the children to their mother in California. Their daughter expressed a preference to live with her mother in California, whereupon Mr. Kulko provided plane fare for her to make the move. Mrs. Kulko then brought an action against Mr. Kulko in California to obtain additional child support for the daughter. The holding of the United States Supreme Court is summarized in the first two sentences of its opinion: “The issue before us is whether, in this action for child support, the California state courts may exercise in personam jurisdiction over a nonresident, nondomiciliary parent of minor children domiciled within the State. For reasons set forth below, we hold that the exercise of such jurisdiction would violate the Due Process Clause of the Fourteenth Amendment.”
+The county relies upon the following acts as a basis for its claim of California jurisdiction:
+1. “Petitioner caused a California resident to become pregnant.” This is an apparent effort to invoke the doctrine that jurisdiction attaches to one who causes an effect within the state. The Kulko opinion points out that this principle, applied in cases involving torts and commercial activities is not applicable to personal domestic relations.
+2. “Petitioner travelled to California and visited with [Tracey] during courtship and pregnancy.” Such personal visits within the state are not the kind of contact which can subject the traveller to the jurisdiction of the California courts. (See Judd v. Superior Court (1976) 60 Cal.App.3d 38, 45 [131 Cal.Rptr. 246].) In this case petitioner came to California for a business reason unrelated to his personal association with Tracey.
+3. “Petitioner sent [Tracey] home to California when she was pregnant with his child.” Paying Tracey’s air fare back to her home in California while she was pregnant is no more significant than the act of Mr. Kulko in sending his daughter to California to become a resident here.
+4. “Petitioner paid a doctor bill in Santa Barbara in connection with the pregnancy.” This may constitute some evidence on the liability issue, but it is a far-fetched argument for subjecting petitioner to the jurisdiction of the California courts.
+No authority has been cited by the county in support of its contention that any of the four supposed bases of jurisdiction meets the constitutional standard for compelling petitioner to defend the pending action in California.
+The county points out that the Kulko court mentioned that Mrs. Kulko had a remedy through the use of the URESA procedure. The county seeks to distinguish Kulko here upon the ground that the Jacksonville state attorney declined to file the requested URESA proceeding. Counsel for Santa Barbara County explains that the reason for the refusal is that Florida regards its reciprocal support act (Florida Stats., ch. 88), based upon the 1950 uniform act, as inapplicable to cases in which paternity is in issue.
+We do not read the Kulko decision as limited to cases in which the father is found in a state which will act under the more convenient procedure of one of the uniform acts. The Kulko decision rests upon the high court’s conclusion that the father did not have such a connection with California as to make it fair to require him to conduct his defense in California.
+Pertinent here is this language of the Kulko opinion: “It cannot be disputed that California has substantial interests in protecting resident children and in facilitating child-support actions on behalf of those children. But these interests simply do not make California a ‘fair forum,’ Shaffer v. Heitner, supra, 433 U.S., at 215 [53 L.Ed.2d 683, 97 S.Ct. 2569], in which to require appellant, who derives no personal or commercial benefit from his child’s presence in California and who lacks any other relevant contact with the State, either to defend a child-support suit or to suffer liability by default.” (436 U.S. at pp. 100-101 [56 L.Ed.2d at pp. 146-147].)
+Furthermore, an advantageous feature of the reciprocal act emphasized in Kulko is not available when paternity is in issue: That is, the ability of a California resident seeking support “to file a petition in California and have its merits adjudicated in the State of the alleged obligor’s residence, without either party having to leave his or her own State.” (436 U.S. at p. 99 [56 L.Ed.2d at pp. 145-146].)
+That convenient procedure may be available when a judgment of the demanding state has already established the obligor’s duty of support, but we have no such judgment in the present case.
+Here the party seeking to collect child support will be obliged to prove the disputed fact of paternity in a court having jurisdiction over the defendant. Thus, whether the proceeding is under the reciprocal act or not, the testimony of the mother, residing in Santa Barbara, will probably be required in the Florida court, to support the allegation of paternity. The principal difference between proceeding under the reciprocal act and proceeding without it in Florida is that the claimant will not have the benefit of representation by the local public prosecutor under Florida Statutes section 88.181.
+That distinction is not. sufficient to require a man who denies paternity to defend in a state where he could not be required to appear if his duty of support had been previously established.
+Let a writ of mandate issue requiring the superior court to set aside its order of April 13, 1978, denying the motion to quash and make a new order quashing the service of process of petitioner in the action entitled County of Santa Barbara, Plaintiff, v. Donald B. Bartlett, Defendant, No. 120791.
+Jefferson (Bernard), J., and Alarcon, J., concurred.
+A petition for a rehearing was denied November 2, 1978, and the petition of the real party in interest for a hearing by the Supreme Court was denied December 6, 1978.
