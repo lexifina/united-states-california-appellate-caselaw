@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5106"
+decided: "1925-02-24"
+citations: ["71 Cal. App. 386"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DANIEL O’CONNELL, Appellant, v. ANTONE JUDNICH et al., Respondents."]
+source_url: "https://static.case.law/cal-app/71/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2180757
+cites_cases: ["111 Cal. 31", "43 Pac. 402"]
+---
+
+# O'Connell v. Judnich
+
+## Majority (TYLER, P. J.)
+
+TYLER, P. J.
+Action for money had and received.
+What is described as a bill of particulars forms a part of the complaint. Recitals contained therein allege Anna M. O’Connell to have been the owner of certain real property which, together with all her right, title, and interest thereto and therein, she assigned to the plaintiff. Other recitals are to the effect that with full knowledge of such facts defendants have collected certain rents and sold the property, in consequence of which there is in their hands a total sum of $4,321.91, to which plaintiff is entitled. The complaint concludes without a prayer.
+Defendant Antone Judnich demurred upon numerous grounds; at the same time a motion was filed to strike the complaint from the files upon the ground that plaintiff was a disbarred attorney, and as such, under section 300 of the code of Civil Procedure, had no right to prosecute the action. This motion was granted by reason of a judgment of disbarment at that time existing against plaintiff, who nW appeals from the final judgment entered upon such order.
+The section of the code invoked reads as follows: “No person who has been an attorney and counsellor shall, while a judgment of disbarment or suspension is in force, appear in his own behalf as plaintiff in the prosecution of any action where the subject of said action has been assigned to bim subsequent to the entry of the judgment of disbarment or suspension.” This act became effective August 17, 1923.
+The original complaint, it is admitted, was filed prior to the time when the act took effect, but the amendment to the complaint was filed subsequent thereto and on the thirty-first day of August, 1923.
+It is here urged that the judgment of dismissal was erroneous and void for the reason that the section involved is violative of several sections of the federal and state constitutions. In this contention we are of the opinion that appellant is correct.
+Mr. Kerr, in an editorial note to the section in his Annotations to the Code of Civil Procedure, states that the provision is thought to be plainly unconstitutional (1) as class legislation and (2) as invading a fundamental right guaranteeing to every citizen the right to personally conduct his own business if he so desires.
+The very first section of the constitution of this state declares that all persons have certain inalienable rights, among which are the rights to acquire .and protect property. The right to acquire and protect property must of necessity include the right to use all proper and legal means to accomplish those ends. While the legislature may in its discretion, for the public good, regulate the pursuit of a remedy, it cannot thereby destroy the right. One of the prime objects of the courts is to protect the constitutional rights of the citizen. To say that one may not defend his own property is a "usurpation of power by the legislature. If by legislation a right vouchsafed by the constitution could be so abridged or limited, the right would not be an absolute or inalienable one but a mere privilege revocable at the will of the law-making body.
+It is suggested by respondent that to permit appellant to act as his own attorney in the pursuit of his property is to permit him to do by indirection that which he has been directly forbidden to do.
+While the right to practice law is not a constitutional right but rather a mere statutory privilege, the plaintiff here does not purport to be practicing law. He is not acting as an attorney. One acts as such only when he represents another, not when he appears for himself. Appellant, having the right to lawfully acquire property, has under the constitution the equal right to its perfect enjoyment, and, as a necessary incident to that right, the full power accorded to all of appearing in person to prosecute or defend all actions for its protection or preservation (Philbrook, v. Superior Court, 111 Cal. 31 [43 Pac. 402]). In so far, therefore, as the section purports to prevent one from personally appearing in a court of justice in pursuit or defense of a constitutional right—whether of person or property—it must be regarded as unconstitutional.
+For the reasons given the judgment is reversed.
+St. Sure, J., and Knight, J., concurred.
