@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 17729"
+decided: "1950-08-10"
+citations: ["98 Cal. App. 2d 826"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ISABELLA SIMONS et al., Appellants, v. JANE MELVILLE EDOUARDE et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/98/cases/0826-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2283542
+cites_cases: ["100 Cal.App. 201", "112 P. 883", "114 P.2d 370", "129 Ga. 532", "13 L.R.A.N.S. 549", "134 P. 993", "137 Cal. 257", "151 P. 1156", "159 Cal. 104", "165 P.2d 260", "166 Cal. 33", "177 S.E. 601", "19 P. 382", "20 Cal.App.2d 226", "207 P. 59", "27 Cal.App.2d 119", "28 Cal.App. 254", "280 P. 163", "4 Cal.App.2d 604", "41 P.2d 366", "45 Cal.App.2d 464", "50 Ga.App. 237", "57 Cal.App. 343", "59 S.E. 232", "66 P.2d 1247", "70 P. 87", "72 Cal.App.2d 550", "77 Cal. 208", "80 P.2d 740"]
+---
+
+# Simons v. Edouarde
+
+## Majority (McCOMB, J.)
+
+McCOMB, J.
+From a judgment in favor of defendants predicated upon the sustaining of a demurrer to their complaint without leave to amend in an action to recover damages for fraudulent abuse of process, plaintiffs appeal.
+Fads: Plaintiffs filed a complaint seeking to recover damages for an abuse of process alleging (1) that plaintiffs and a cotenant, namely, Edward H. Simons, husband of plaintiff, Isabella Simons, were tenants of defendants, occupying a rent-controlled apartment from and after November 12, 1946; (2) that defendants herein caused an unlawful detainer action to be instituted in the Municipal Court of the City of Los Angeles against the plaintiffs herein for the recovery of possession of the said rent-controlled apartment; and (3) that in such action defendants alleged as their sole ground for evicting the plaintiffs herein that one of the defendants herein, to wit, Jane Melville Edouarde, “seeks in good faith to recover possession of the said housing accommodations for her own and personal use and occupancy as housing accommodations. ’ ’ Plaintiffs filed an answer in said action denying the above quoted allegation. Thereupon a trial was had upon the issues. A judgment was thereafter rendered and entered in said action for the plaintiffs therein (respondents herein) against the defendants therein (appellants herein) on October 2,1947. Plaintiffs in said action did not vacate the premises but remained in possession of same, and on November 3, 1947, defendants caused a writ of possession to be issued in the aforesaid action and to be placed in the hands of the marshal of the said municipal court for execution.
+Under and pursuant to the said writ of possession, the plaintiffs were, on November 4, 1947, forcibly evicted from the leased premises by said marshal, and plaintiffs ón the same day, namely, November 4, 1947, moved back into said premises and continued to occupy the same until May 18, 1948, at which time they were adjudged guilty of contempt of the said municipal court and imprisoned for a period of five days. Plaintiffs’ cotenant, husband of plaintiff, Isabella Simons, continued to occupy the aforesaid premises until December 13, 1948.
+Defendants never intended, in good faith, to use said premises as housing accommodations for their own personal use and occupancy during all of the times therein mentioned but did make a different disposition of said premises by selling the same on November 26, 1948.
+The present complaint was filed on November 1, 1949. Defendants demurred to the complaint on the ground that the cause of action was barred by the provisions of section 340(3) of the Code of Civil Procedure.
+Question: Was plaintiffs’ cause of action barred by section 340 (3) of the Code of Civil Procedure?
+This question must be answered in the affirmative. An action for injury to the person is barred within one year after the wrongful act is committed. (Code Civ. Proc., § 340(3).) The clause “or for injury to or the death of one caused by the wrongful act or neglect of another,” in subdivision 3 of section 340, Code of Civil Procedure, embraces therein all infringements of personal rights as opposed to property rights. (Huntly v. Zurich General Accident & Liability Ins. Co., 100 Cal.App. 201, 212 [280 P. 163]. Cf., Basler v. Sacramento Electric, Gas & R. Co., 166 Cal. 33, 35 et seq. [134 P. 993]; Groff v. Du Bois, 57 Cal.App. 343, 345 [207 P. 59].)
+Likewise an action for abuse of process falls within the provisions of statutes of limitations covering “injuries done to the person.” (Gordon v. West, 129 Ga. 532 [59 S.E. 232, 13 L.R.A.N.S. 549]; McCullough v. Atlantic Refining, 50 Ga.App. 237 [177 S.E. 601, 602].)
+Appellants’ Authorities: Merron v. Title Guarantee & Trust Co., 27 Cal.App.2d 119 [80 P.2d 740], Meigs v. Pinkham, 159 Cal. 104 [112 P. 883], Italiani v. Metro-Goldwyn-Mayer Corp., 45 Cal.App.2d 464 [114 P.2d 370], Argyropolus v. Barnes, 28 Cal.App. 254 [151 P. 1156], DeGarmo v. Mayo, Inc., 4 Cal.App.2d 604 [41 P.2d 366], Howard v. Security Title Ins. & Guar. Co., 20 Cal.App.2d 226 [66 P.2d 1247], and Lowe v. Ozmun, 137 Cal. 257 [70 P. 87], relied on by appellants were not actions for injuries to the person but involved damages for injuries to property and are therefore not here in point. The statement in Merron v. Title Guarantee & Trust Co., supra, page 122, “Undoubtedly it is the law that where the gist of the action is a malicious prosecution, the statute begins to run when the wrongful act is done, and the limitation is two years,” was dictum and failed to note that the authority, McCusker v. Walker, 77 Cal. 208, 212 [19 P. 382], cited, was decided prior to 1905, the date of the amendment to subdivision 3 of section 340, Code of Civil Procedure, which brought within the scope of such section “injuries to the person.”
+There is likewise no merit in plaintiffs’ contention that the statute of limitations was tolled by fraudulent concealment of defendants. Mere failure of a defendant to disclose to a plaintiff the existence of facts in the absence of a confidential relationship between the parties does not constitute fraudulent concealment of a cause of action. (Scafidi v. Western Loan & Building Co., 72 Cal.App.2d 550, 562 [165 P.2d 260].)
+Clearly in the present ease there was no fiduciary or confidential relationship between the plaintiffs and defendants. Hence there was no duty upon defendants’ part to disclose any facts to plaintiffs. The cause of action having been barred by the statute of limitations, the trial court properly sustained the demurrer without leave to amend.
+Affirmed.
+Moore, P. J., and Wilson, J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied October 2, 1950.
+Section. 340(3), Code of Civil Procedure, reads: “340. Within one year: ... 3. An action for libel, slander, assault, battery, false imprisonment, seduction of a person below the age of legal consent, or for injury to or for the death of one caused by the wrongful act or neglect of another, . . ..”
