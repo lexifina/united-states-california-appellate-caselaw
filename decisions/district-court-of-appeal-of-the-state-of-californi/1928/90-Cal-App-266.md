@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1570"
+decided: "1928-03-20"
+citations: ["90 Cal. App. 266"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. WALTER RUSSELL, Appellant."]
+source_url: "https://static.case.law/cal-app/90/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2105558
+---
+
+# People v. Russell
+
+## Majority (CRAIG, J.)
+
+CRAIG, J.
+The material facts as set forth in appellant’s brief are that Laura Connerley and Guy Connerley, husband and wife, had a bank account with the Security Trust & Savings Bank in Los Angeles, upon which each was authorized to draw checks; that Guy Connerley owed defendant a certain amount of money and told the defendant Russell that he might sign the name “Lura Connerley” to a check therefor, “By Guy Connerley,” or “Guy Connerley”; that Russell drew a check as charged in the information and signed the name “Lura Connerley” to it.
+Appellant's contention is that since Guy Connerley could have authorized the signing of his own name, he had the right to authorize the signing1 of Laura Connerley’s name. No authority is cited to sustain this novel proposition, and it does not appeal to us on principle. Under our statute, forgery, the offense with which the defendant was charged and of which he was found guilty, is, among other things, committed by one who with intent to defraud signs the name of another person, knowing that he has no authority so to do, to any check. Under appellant’s own statement of the case he had no authority to sign the name “Lura Connerley.” The mere fact that both Guy and Laura Connerley had the right to draw checks on the same account would not authorize either to sign the other’s name, much less to give someone else the right to do so, and counsel for appellant expressly disclaims an attempt to justify the signing of Mrs. Connerley’s name upon the theory of agency for her.
+It was shown that the defendant had drawn a check upon the Bank of Italy at Long Beach, which was presented to the Long Beach office of that bank and refused payment. The check purported to be drawn on the “Belmont Heights Branch,” although the name of another branch had apparently been crossed out. In the form of check used by the various Bank of Italy offices at Long Beach, a blank is provided in which the drawer may insert the number of the branch. This space was- left blank. A witness, E. IT. App ell, assistant cashier of the Long Beach office of the Bank of Italy, by whom the above facts were established, testified that there were eleven branches of the Bank of Italy in that city, that he ascertained that the check in question had been presented to the main office of the bank at Long Beach, and refused payment, by examining a record of rejected checks which showed that this check had been rejected. He admitted that this book had no reference to other branches of the Bank of Italy; that he had not examined the record of rejected checks from other branches or obtained any other information from them as to whether or not the defendant had an account with either of them. The witness further stated that as this check was drawn it might have been presented to any branch of the bank at Long Beach, and if the defendant had an account therein, would have been paid. He also testified that although there were eleven branch offices at Long Beach, there is no central office where a list of depositors in all branches is kept, but that it is usual if a check such as that here presented is offered to a branch in which the drawer has not an account for the bookkeeper to telephone the other branches to ascertain if he may have an account in any of them, and if so the check is paid by him.
+A motion was made to strike out all testimony pertaining to this check and the check itself, which was denied. Upon this statement of the evidence the proof was insufficient to establish the commission by defendant of any offense having to do with the Belmont Heights branch check. It is obvious that to make the proof complete it would have been necessary to have introduced evidence tending to show that Bussell had no account in any branch of the Bank of Italy at Long Beach. Bespondent argues that the evidence showed that the defendant drew a check upon a nonexisting bank, but if the testimony of the only witness by which this was sought to be proved is to be accepted, the check was in such form that it could not be said to have been drawn upon the particular branch known as “Belmont Heights Branch” alone, but really was drawn upon any branch of the Bank of Italy at Long Beach.
+It follows that this evidence was inadmissible, and should have been stricken out. We think the error in this instance was prejudicial. The element of intent with which the check was signed for the making of which the defendant was under prosecution is in this case of unusual importance. If the jury believed that the defendant signed the name of “Lura Connerley ’ ’ with fraudulent and felonious intent, knowing he had no authority so to do, he was properly found guilty, but we think the circumstances under which the check was made and uttered were such as to make it extremely doubtful as to whether he knew that he was violating the law, or honestly believed that he had a right to sign that name. Of course, the purpose of permitting evidence of another offense of a similar character was to negative the idea that the defendant might have acted without fraudulent or felonious intent, and we think it highly probable that such evidence may have been determinative of that question in the minds of the jury. Hence the refusal of the court to grant the motion to strike was prejudicial to the substantial rights of the defendant.
+The judgment is reversed.
+Thompson, J., concurred.
+
+## Concurrence (WORKS, P. J., Concurring.)
+
+WORKS, P. J., Concurring.
+I concur in the conclusion reached in the foregoing opinion to the effect that the trial court improperly admitted certain evidence, and I also concur in the judgment of reversal which is pronounced on that ground. Appellant presents the contention that the evidence was insufficient to support the verdict of guilt, and I think, with the evidence above mentioned out of the ease, that the contention is well made and that the insufficiency of the evidence should be assigned as an additional ground for reversal.
+A petition by respondent to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on May 17, 1928.
+All the Justices concurred.
