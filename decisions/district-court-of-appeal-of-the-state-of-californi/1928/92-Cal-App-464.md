@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6340"
+decided: "1928-06-09"
+citations: ["92 Cal. App. 464"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEATRICE MAYER, Respondent, v. GEORGIA MALLOY, Appellant."]
+source_url: "https://static.case.law/cal-app/92/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2114337
+---
+
+# Mayer v. Malloy
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The plaintiff obtained a judgment against the defendant awarding her damages for the alienation of the affections of her husband. The defendant has appealed, bringing up the judgment-roll and a bill of exceptions. In framing her complaint the plaintiff in certain instances pleaded her evidence. The findings as signed followed the allegations of the plaintiff’s complaint and are quite long.
+In presenting her case on appeal the defendant makes nine different attacks, claiming that certain findings are not supported by the evidence. We have read the bill of exceptions from cover to cover. The material findings are supported by substantial evidence. True it is that there are some conflicts, but the fact that there are conflicts in the evidence does not justify this court in disturbing the judgment of a trial court.
+When the plaintiff was testifying in her own behalf her attorney had developed the fact that on certain occasions the plaintiff’s husband did not come home at night. Thereupon her attorney asked her what was the cause of his inability to come home. The defendant objected on the ground that the question called for hearsay. The objection was overruled. No error appears from the ruling. In the first place, the question did not necessarily call for hearsay; in the second place, the answer was that the plaintiff found in her garage three barrels and that upon making inquiries of her husband he told her that he would subsequently explain. There was no motion to strike out. What the husband told her was not addressed at all to why he did not come home. Furthermore, the answer made to the question was apparently wholly immaterial to the issue on trial. Continuing, plaintiff’s attorney asked her if the three barrels were in any way connected with the defendant. The defendant objected that the question called for the conclusion of the witness. The court ruled that she could state what she knew, but not her conclusions. Her reply was that she later learned that the three barrels were connected with the defendant. The ruling made by the trial court was clearly correct. There was no motion to strike out and furthermore the answer, as made, does not show that any error was committed. The same witness had stated that in the month of July, 1924, she learned the reason why her husband was staying away from home. That she got the first statement from him. Her attorney then propounded to her the question, “What did he state to you in that regard?” The defendant objected that the question called for hearsay and that no proper foundation had been laid. After some argument it was claimed by the plaintiff that the subject matter was admissible as showing what were the feelings of the plaintiff’s husband. The court ruled that the question could be asked and answered for that purpose alone. The record does not disclose that the evidence was used for any other purpose. The defendant now argues that if the evidence was considered for any other purpose then the ruling of the court was erroneous. Conceding, for the purposes of this ease, that the contention is well made, as the record does not show that the evidence was used for any other purpose, no error appears.
+During the trial the plaintiff introduced several photographs. The defendant asserts that there was no foundation laid as to when the photographs were taken. In making this assertion the defendant is mistaken. It may be claimed that there was some conflict in the evidence on the subject, but it may not be claimed that there was no evidence.
+The jury returned a verdict in the sum of $6,000. The defendant claims that the verdict was excessive. In making this contention the defendant calls attention to the fact that in her complaint the plaintiff alleged that the defendant was worth $100,000; that in her answer the defendant alleged that she was not worth to exceed $5,000; and that no evidence was introduced by either party regarding the value of the defendant’s properties. Conceding, without deciding, that the issue as to the worth of the defendant was properly inserted in the pleadings, and that no evidence was introduced on that issue, it does not follow as a matter of law that the verdict was excessive. Among other things, the trial court found that the defendant “wilfully, wickedly and maliciously gained the affections of said George P. Mayer” away from the plaintiff; and that the plaintiff and her minor daughter of eight years were thus left entirely without support. There was evidence in the record tending to support each one of these findings. This court may not say, as a matter of law, that the verdict was excessive.
+We find no error in the record. The judgment is affirmed.
+Koford, P. J., and Nourse, J'., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on August 6, 1928.
