@@ -1,0 +1,75 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C037797"
+decided: "2002-03-07"
+citations: ["96 Cal. App. 4th 987"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ERIC HOWARD MOODY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/96/cases/0987-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 987338
+cites_cases: ["21 Cal.4th 197", "24 Cal.4th 301", "32 Cal.App.4th 656", "38 Cal.App.4th 410", "38 Cal.Rptr.2d 776", "45 Cal.Rptr.2d 153", "6 P.3d 713", "87 Cal.Rptr.2d 198", "980 P.2d 905", "99 Cal.Rptr.2d 792"]
+---
+
+# People v. Moody
+
+## Majority (SIMS, Acting P.J.)
+
+Opinion
+SIMS, Acting P.J.
+Defendant Eric Howard Moody appeals, contending his sentence on count one was unlawful.
+Defendant, who was a “Second Strike” defendant, was convicted by plea of a variety of offenses and was sentenced to a total of 44 years and eight months in state prison for crimes committed in June and July, 2000.
+In count one, defendant was convicted of attempted second degree robbery (Pen. Code, §§ 211, 213, subd. (b), 664; further statutory references are to the Penal Code) and admitted he personally used a firearm in the commission of the offense within the meaning of section 12022.53, subdivision (b).
+At sentencing, count one was made a consecutive, subordinate term. For the attempted robbery, the trial court imposed a consecutive term of one-third the midterm of two years (or eight months), doubled to one year and four months because defendant had a prior “strike.” (§ 667, subds. (b)-(i).) The trial court also imposed a 10-year term for the enhancement pursuant to section 12022.53, subdivision (b).
+Defendant contends the sentence imposed on count one was unlawful in two respects.
+Defendant first argues that since second degree robbery is punishable by imprisonment for two, three or five years, the triad for attempted robbery pursuant to section 664 is one-half the triad, or one year, 18 months, or 30 months. (§§ 213, subd. (a)(2), 664, subd. (a).) Defendant therefore contends the starting point midterm for this count should have been 18 months, not the two years selected by the trial court. We do not agree.
+Section 664 is inapplicable to convictions for attempted second degree robbery. Section 664 provides in pertinent part: “Every person who attempts to commit any crime, but fails, or is prevented or intercepted in its perpetration, shall be punished where no provision is made by law for the punishment of those attempts, as follows: [¶] (a) If the crime attempted is punishable by imprisonment in the state prison, the person guilty of the attempt shall be punished by imprisonment in the state prison for one-half the term of imprisonment prescribed upon a conviction of the offense attempted.” (Italics added.)
+However, section 213, subdivision (b) specifically provides for the punishment of attempted second degree robbery, stating: “Notwithstanding Section 664, attempted robbery in violation of paragraph (2) of subdivision (a) [robbery of the second degree] is punishable by imprisonment in the state prison.” (Italics added.) Section 18 further provides that “[e]xcept in cases where a different punishment is prescribed by any law of this state, every offense declared to be a felony, or to be punishable by imprisonment in a state prison, is punishable by imprisonment in any of the state prisons for 16 months, or two or three years . . . .”
+Thus, the appropriate triad for the count one attempted second degree robbery offense is that selected by the trial court: 16 months, two years, or three years. Accordingly, the trial court’s imposition of one-third the middle term of two years (or eight months), doubled to 16 months pursuant to section 667, subdivisions (b)-(i), was proper.
+Defendant next contends the trial court erred in imposing the full 10-year term for the section 12022.53 enhancement. Defendant argues the trial court should have imposed one-third of the 10-year term pursuant to section 1170.1. The People concede defendant’s contention on this point is correct. For reasons that follow, we accept the People’s concession.
+Our Supreme Court has held that “the Three Strikes law’s basic sentencing provision for two strikes defendants . . . incorporates the principal term/subordinate term methodology of section 1170.1 . . . .” (People v. Nguyen (1999) 21 Cal.4th 197, 207 [87 Cal.Rptr.2d 198, 980 P.2d 905].)
+Section 1170.1, subdivision (a) provides in relevant part that where a defendant is sentenced to consecutive terms, “[t]he subordinate term for each consecutive offense shall consist of one-third of the middle term of imprisonment prescribed for each other felony conviction for which a consecutive term of imprisonment is imposed, and shall include one-third of the term imposed for any specific enhancements applicable to those subordinate offenses.” (Italics added.)
+Section 12022.53 provides in pertinent part:
+“(a) This section applies to the following felonies:
+“(1) Section 187 (murder).
+“(2) Section 203 or 205 (mayhem).
+“(3) Section 207, 209, or 209.5 (kidnapping).
+“(4) Section 211 (robbery).
+“(5) Section 215 (carjacking).
+“(6) Section 220 (assault with intent to commit a specified felony).
+“(7) Subdivision (d) of Section 245 (assault with a firearm on a peace officer or firefighter).
+“(8) Section 261 or 262 (rape).
+“(9) Section 264.1 (rape or sexual penetration in concert).
+“(10) Section 286 (sodomy).
+“(11) Section 288 or 288.5 (lewd act on a child).
+“(12) Section 288a (oral copulation).
+“(13) Section 289 (sexual penetration).
+“(14) Section 4500 (assault by a life prisoner).
+“(15) Section 4501 (assault by a prisoner).
+“(16) Section 4503 (holding a hostage by a prisoner).
+“(17) Any felony punishable by death or imprisonment in the state prison for life.
+“(18) Any attempt to commit a crime listed in this subdivision other than an assault.
+“(b) Notwithstanding any other provision of law, any person who is convicted of a felony specified in subdivision (a), and who in the commission of that felony personally used a firearm, shall be punished by a term of imprisonment of 10 years in the state prison, which shall be imposed in addition and consecutive to the punishment prescribed for that felony. The firearm need not be operable or loaded for this enhancement to apply.”
+Because section 12022.53, subdivision (b) begins with “Notwithstanding any other provision of law . . .” the statute could be read as requiring imposition of the full 10-year enhancement notwithstanding section 1170.1.
+However, another statute—section 1170.11—demonstrates that this construction of section 12022.53 is untenable. Thus, section 12022.53, subdivision (b) was enacted in 1997 by Statutes 1997, chapter 503, section 3. The next year, 1998, the Legislature amended section 1170.11 so that it made express reference to section 12022.53 and read in relevant part as follows: “As used in Section 1170.1, the term ‘specific enhancement’ includes, but is not limited to, the enhancements provided in Sections . . . 12022.53 ... of this code . . . .” (Stats. 1998, ch. 936, § ll.)
+In section 1170.1, the term “specific enhancement” is used to compel reduction of the term of an enhancement, imposed in a consecutive subordinate term, to one-third of the enhancement term. Thus, as we have seen, section 1170.1 expressly says a subordinate, consecutive term “shall include one-third of the term imposed for any specific enhancements applicable to those subordinate offenses.” (Italics added.) Section 1170.11 therefore commands that an enhancement pursuant to section 12022.53 is subject to the one-third limitation of section 1170.1.
+This express command of section 1170.11 prevails over the more general “Notwithstanding any other provision of law” language of section 12022.53 because section 1170.11 is the later enacted statute. Thus, as we have recounted, subdivision (b) of section 12022.53, containing the “Notwithstanding” language, was enacted in 1997. Section 12022.53 was expressly made subject to section 1170.1 by amendment of section 1170.11 in 1998. “If conflicting statutes cannot be reconciled, later enactments super-cede earlier ones [citations] . . . .” (Collection Bureau of San Jose v. Rumsey (2000) 24 Cal.4th 301, 310 [99 Cal.Rptr.2d 792, 6 P.3d 713].) Section 1170.11 therefore prevails.
+We note that this conclusion does not leave the language in subdivision (b) of section 12022.53 without meaning. The enactment of section 12022.53 did not result in the repeal of the more general firearm use enhancement, section 12022.5. At a minimum, the “Notwithstanding any other provision of law” language in subdivision (b) of section 12022.53 means that, where the conditions for imposition of that enhancement are satisfied, that enhancement controls over the more general firearm use enhancement, section 12022.5.
+From the foregoing, it appears that the proper calculation for the section 12022.53, subdivision (b) sentence enhancement connected to the subordinate count one offense is one-third of the 10-year period set forth in section 12022.53, subdivision (b), or three years and four months. Since the trial court imposed the full 10 years, the judgment must be modified. This will reduce defendant’s aggregate term from 44 years, eight months to 38 years.
+Disposition
+The judgment is modified to reflect an enhancement term, pursuant to section 12022.53, subdivision (b), on count one, of three years and four months, with the aggregate term being 38 years in state prison. As modified, the judgment is affirmed. The trial court shall prepare an amended abstract of judgment showing this modification and shall forward a copy to the Department of Corrections.
+Raye, J., and Callahan, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied May 15, 2002.
+Current section 1170.11 continues this express reference to section 12022.53: “As used in Section 1170.1, the term ‘specific enhancement’ means enhancements that relate to the circumstances of the crime. It includes, but is not limited to, the enhancements provided in Sections 186.10, 186.11, 186.22, 186.26, 186.33, 273.4, 289.5, 290, 290.4, 347, and 368, subdivisions (a), (b), and (c) of Section 422.75, paragraphs (2), (3), (4), and (5) of subdivision (a) of Section 451.1, paragraphs (2), (3), and (4) of subdivision (a) of Section 452.1, subdivision (g) of Section 550, Sections 593a, 600, 667.8, 667.85, 667.9, 667.10, 667.15, 667.16, 667.17, 674, 12021.5, 12022, 12022.2, 12022.3, 12022.4, 12022.5, 12022.53, 12022.55, 12022.6, 12022.7, 12022.75, 12022.8, 12022.85, 12022.9, 12022.95, 12072, and 12280 of this code, and in Sections 1522.01 and 11353.1, subdivision (b) of Section 11353.4, Sections 11353.6, 11356.5, 11370.4, 11379.7, 11379.8, 11379.9, 11380.1, 11380.5, 25189.5, and 25189.7 of the Health and Safety Code, and in Sections 20001 and 23558 of the Vehicle Code, and in Sections 10980 and 14107 of the Welfare and Institutions Code.” (Italics added.)
+Section 12022.5 provides:
+“(a)(1) Except as provided in subdivisions (b) and (c), any person who personally uses a firearm in the commission or attempted commission of a felony shall, upon conviction of that felony or attempted felony, in addition and consecutive to the punishment prescribed for the felony or attempted felony of which he or she has been convicted, be punished by an additional term of imprisonment in the state prison for 3, 4, or 10 years, unless use of a firearm is an element of the offense of which he or she was convicted.
+“(2) If the person described in paragraph (1) has been convicted of carjacking or attempted carjacking, the additional term shall be 4, 5, or 10 years. The court shall order imposition of the middle term unless there are circumstances in aggravation or mitigation. The court shall state its reasons for its enhancement choice on the record at the time of sentencing.
+“(b)(1) Notwithstanding subdivision (a), any person who is convicted of a felony or an attempt to commit a felony, including murder or attempted murder, in which that person discharged a firearm at an occupied motor vehicle which caused great bodily injury or death to the person of another, shall, upon conviction of that felony or attempted felony, in addition and consecutive to the sentence prescribed for the felony or attempted felony, be punished by an additional term of imprisonment in the state prison for 5, 6, or 10 years.
+“(2) Notwithstanding subdivision (a), any person who personally uses an assault weapon, as specified in Section 12276 or Section 12276.1, or a machinegun, as defined in Section 12200, in the commission or attempted commission of a felony, shall, upon conviction of that felony or attempted felony, in addition and consecutive to the sentence prescribed for the felony or attempted felony, be punished by an additional term of imprisonment in the state prison for 5, 6, or 10 years.
+“(c) Notwithstanding the enhancement set forth in subdivision (a), any person who personally uses a firearm in the commission or attempted commission of a violation of Section 11351,11351.5, 11352, 11366.5,11366.6,11378,11378.5,11379,11379.5, or 11379.6 of the Health and Safety Code, shall, upon conviction of that offense and in addition and consecutive to the punishment prescribed for the offense of which he or she has been convicted, be punished by an additional term of imprisonment in the state prison for 3, 4, or 10 years in the court’s discretion. The court shall order the imposition of the middle term unless there are circumstances in aggravation or mitigation. The court shall state the reasons for its enhancement choice on the record.
+“(d) The additional term provided by this section may be imposed in cases of assault with a firearm under paragraph (2) of subdivision (a) of Section 245, or assault with a deadly weapon which is a firearm under Section 245, or murder if the killing was perpetrated by means of shooting a firearm from a motor vehicle, intentionally at another person outside of the vehicle with the intent to inflict great bodily injury or death.
+“(e) When a person is found to have personally used a firearm, an assault weapon, or a machinegun in the commission or attempted commission of a felony as provided in this section and the firearm, assault weapon, or machinegun is owned by that person, the court shall order that the firearm be deemed a nuisance and disposed of in the manner provided in Section 12028.
+“(f) For purposes of imposing an enhancement under Section 1170.1, the enhancements under this section shall count as one, single enhancement.”
+In a two strikes case such as this one, the enhancement term is not doubled. (People v. Dominguez (1995) 38 Cal.App.4th 410, 424 [45 Cal.Rptr.2d 153]; People v. Martin (1995) 32 Cal.App.4th 656, 666 [38 Cal.Rptr.2d 776].)
