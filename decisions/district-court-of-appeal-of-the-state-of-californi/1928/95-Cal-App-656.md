@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5898"
+decided: "1928-12-21"
+citations: ["95 Cal. App. 656"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. D. WOLFE et al., Respondents, v. CARRIE M. MORGAN, Appellant."]
+source_url: "https://static.case.law/cal-app/95/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2138072
+---
+
+# Wolfe v. Morgan
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Plaintiffs sued for the reformation of a written contract for the purchase of a lot of real property. They had judgment and the defendant has appealed on a typewritten record.
+The contract was executed by respondents and the agents of appellant, who had theretofore been authorized in writing by appellant to execute such contracts with purchasers of lots owned by appellant and placed in the hands of her agents for sale. As an inducement for the sale these agents assured respondents that the cost of street improvements then contemplated and proposed by the city had been or would be paid for by the owner (appellant) and that the purchasers would be required to meet the cost of future assessments for future street improvements. The contract between respondents and appellants’ agents merely provided that “said buyer shall pay all assessments which may be levied on the premises.” The theory of the complaint is that, through the mistake of the parties, the contract failed to express their real intention and the respondents prayed that it be reformed accordingly.
+On October 10, 1922, appellant entered into a written contract of employment with her agents for the subdivision and sale of a tract of land which was conditional upon appellants securing a loan in the sum of $6,900 to defray expenses to be incurred by her agents, included in which was the cost of the street improvements which is the basis of this controversy. Paragraph seven of this .contract provided that of this loan “4000 should be available when needed to pay the cost of the improvement now pending to the portion of Peralta Avenue adjoining the said property.” Paragraph four of this contract -provided that all contracts of sale of the lots should obligate the purchaser to pay all “assessments of every kind thereafter levied or thereafter becoming a lien” upon the lot sold. Paragraph eight of this contract provides that it is “understood and agreed . . . that in the event . . . the payment of the cost by the party of the first part of the improvement of Peralta Avenue, shall exceed the said sum of $6900, then any excess cost, plus the cost of any sewer improvements and of any and all other improvements” shall be added to the price of the lots in such manner as the contracting parties should agree. Before any lots were offered for sale the appellant and her agent discussed the cost of the street work then pending on Peralta Avenue and other contemplated improvements, and fixed the sale price of each lot accordingly.
+On this appeal the appellant has designated sixteen specifications of error, no one of which has a shadow of merit. The only issue in the case is whether a written contract may be reformed to express the true intention of the parties when the mistake of one party has occurred through oral representations of the agent of the other. It seems to be the theory of appellant that, because the purchasers called particular attention to the clause in the contract relating to payment of assessments and objected to it until assured by appellants’ agents that it referred to future assessments only, there is no mistake in the contract which would support an action to have it reformed. The right of action is statutory. (Sec. 3399, Civ. Code.) It lies when a written contract does not truly express the intention of the parties either because of fraud or mistake. When a party is induced to sign through a misrepresentation as to the meaning and effect of the writing, it is immaterial whether the misrepresentation is the result of fraud or mistake. The concern of the court of equity is to make the contract express the true intention of the parties. If the agent’s representations that the cost of the Peralta Avenue improvements had been paid by the owner were false or fraudulent, the fraud goes back to the appellant because of the express terms of her contract with the agent, and the respondents were entitled to have the contract reformed, because of the fraud. On the other hand, if these representations were neither false nor fraudulent, and the appellant herein intended to obligate herself to pay for the Peralta Avenue improvement, the failure to so provide in the contract was a mutual mistake of the parties which would warrant a reformation of the contract under the code section.
+For the reasons given the judgment must be affirmed, and it would serve no purpose to discuss the other points raised. In the main they are based on the false premise that the agency contract did not cover the matter of the payment of the cost of the Peralta Avenue improvement and that the agent’s representations relating thereto were unauthorized by the appellant.
+Judgment affirmed.
+Sturtevant, J., and Koford, P. J., concurred.
