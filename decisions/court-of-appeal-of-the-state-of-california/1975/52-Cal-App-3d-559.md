@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 13584"
+decided: "1975-10-30"
+citations: ["52 Cal. App. 3d 559"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. HERMAN GARDNER, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/52/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039835
+cites_cases: ["121 Cal.Rptr. 62", "18 A.L.R.3d 1416", "21 Cal.App.3d 96", "22 Cal.App.3d 197", "252 Cal.App.2d 932", "380 U.S. 202", "4 Cal.3d 735", "410 P.2d 838", "426 P.2d 161", "457 P.2d 575", "47 Cal.App.3d 654", "484 P.2d 77", "49 Cal.Rptr. 302", "492 P.2d 1", "5 Cal.App.3d 865", "58 Cal.Rptr. 1", "6 Cal.3d 441", "61 Cal.Rptr. 1", "64 Cal.2d 159", "66 Cal.2d 390", "71 Cal.2d 843", "79 Cal.Rptr. 743", "85 Cal.Rptr. 718", "94 Cal.Rptr. 405", "98 Cal.Rptr. 365", "99 Cal.Rptr. 192", "99 Cal.Rptr. 313"]
+---
+
+# People v. Gardner
+
+## Majority (DRAPER, P. J.)
+
+Opinion
+DRAPER, P. J.
+Admissibility of appellant's prior conviction of was discussed out of the jury’s presence well before appellant testified. The court ruled that the crime of manslaughter tended to show only violence, and not lack of honesty. (People v. Beagle, 6 Cal.3d 441 [99 Cal.Rptr. 313, 492 P.2d 1].) The judge stated expressly that it could not be used by the prosecution • to impeach appellant unless the latter’s testimony on direct included assertions which it could rebut. On direct examination, appellant said “I don’t threaten people. I never threatened anybody,” and also testified “I am thirty some years old, and I never first thought about. . . committing any kind of crime against a person.” The charge against him here is that, by violence and threats thereof (striking the victim with his fists), he had compelled the prosecutrix to engage in acts of intercourse and sex perversion. His defense was that the acts were wholly consensual. Thus his statements were designed to aid his defense. It was only in response to this direct examination that the prosecution, on cross, asked him about his conviction of manslaughter of a woman in which he had used only his fists as weapons.
+Appellant asserts error, relying on a Supreme Court decision. (People v. Beagle, 6 Cal.3d 441 [99 Cal.Rptr. 313, 492 P.2d 1].) Beagle, however, turns upon the statute (Evid. Code, § 788) which permits an attack upon credibility of a witness by showing his prior conviction of a felony. As pointed out by Beagle (p. 452), this is the only exception to the rule which bars “evidence of specific instances of. . . conduct relevant only as tending to prove a trait of his character” as an element of credibility (Evid. Code, § 787). It may be conceded that, under Beagle, the manslaughter conviction would not be admissible to attack credibility by proving a trait of his character—i.e., his “general credibility.” But the trier of fact “may consider in determining the credibility of a witness any matter that has any tendency in reason to prove or disprove the truthfulness of his testimony at the hearing.....”, (Evid. Code, § 780.) Specifically included in this section is “[t]he existence or nonexistence of any fact testified to by him” {id., subd. (i)). Here, the conviction was not offered or asserted as a specific instance of conduct “tending to prove a trait of his character,” and thus was not within the bar of section 787. It was not offered to show his lack of “general credibility” of his character for integrity. Rather, it was offered to show that he had lied as to a material issue in the particular testimony he gave in this case.
+Of course, the trial court retained the right to exclude evidence of the conviction under section 352. (People v. Lavergne, 4 Cal.3d 735, 742 [94 Cal.Rptr. 405, 484 P.2d 77].) The trial judge did consider these factors. Here, in contrast to the situation in Lavergne, the evidence sought to be rebutted was brought out by defendant on direct examination, even though the court’s initial ruling had rather clearly warned on the point. “No witness including a.defendant who elects to testify in his own behalf is entitled to a false aura of Veracity.” (People v. Beagle, supra, 6 Cal.3d at p. 453.) To exclude the impeaching evidence would permit appellant, without contradiction, to create just such an aura from his claim of lifetime aversion to violence. We find no abuse by the trial judge of the discretion granted him by section 352.
+We find no error in denial of appellant’s motion to suppress, made only after commencement of trial, and after some of the items sought to be suppressed had been admitted in evidence. Nor, on the merits, do we find reversible error in denial.
+Nor do we find an abuse of discretion in the trial judge’s refusal to order a psychiatric examination of the prosecutrix. (Ballard v. Superior Court, 64 Cal.2d 159, 174-177, esp. fn. 10 [49 Cal.Rptr. 302, 410 P.2d 838, 18 A.L.R.3d 1416].)
+The claim of discrimination in choice of the juiy was not raised at trial, and thus is not to be considered on appeal. (People v. Gardner, 71 Cal.2d 843, 854-855 [79 Cal.Rptr. 743, 457 P.2d 575].) Moreover, the claim of racial discrimination by exercise of peremptoiy challenges is not supported. (Swain v. Alabama, 380 U.S. 202, 221-222 [13 L.Ed.2d 759, 773-774, 85 S.Ct. 824]; People v. Allums, 47 Cal.App.3d 654, 663 [121 Cal.Rptr. 62].)
+Similarly meritless is the contention that jurors might have observed appellant in shackles as he was taken to and from the courtroom. (People v. Merriam, 66 Cal.2d 390, 397 [58 Cal.Rptr. 1, 426 P.2d 161]; People v. Ray, 252 Cal.App.2d 932, 973-975 [61 Cal.Rptr. 1].)
+The prosecution concedes that appellant’s sentence for false imprisonment constitutes double punishment. The concession is compelled. (People v. Rocco, 21 Cal.App.3d 96, 109-110 [98 Cal.Rptr. 365].) The remaining convictions of sex offenses do not constitute double punishment. (People v. Smith, 22 Cal.App.3d 197, 203 [99 Cal.Rptr. 192]; People v. Hurd, 5 Cal.App.3d 865, 872-873 [85 Cal.Rptr. 718].)
+The judgment is reversed insofar as it imposes a sentence for false imprisonment, and in all other respects it is affirmed.
+Brown (H. C.), J., and Scott, J., concurred.
