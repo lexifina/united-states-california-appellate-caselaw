@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 20172"
+decided: "1962-04-02"
+citations: ["202 Cal. App. 2d 48"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHARD T. HARVILLE et al., Plaintiffs and Respondents, v. CLARENCE LELAND RICE et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-2d/202/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2298528
+cites_cases: ["150 N.C. 447", "244 N.C. 1", "57 A.L.R.2d 818", "64 S.E. 200", "92 S.E.2d 435"]
+---
+
+# Harville v. Rice
+
+## Majority (DRAPER, P. J.)
+
+DRAPER, P. J.
+Defendants appeal from the judgment in an action for declaratory relief. The case turns on construction of a contract.
+In 1951, plaintiffs sold to defendants some 24,000 acres of land, but specifically excepted the timber thereon and reserved it to themselves. When plaintiffs owned both land and timber, they had from time to time sold timber to loggers who were given the right to enter upon the land to remove it. This practice continued after sale of the land to defendants. Disputes arose, largely relating to the question whether plaintiffs retained title to all the timber, or only to that which had been cruised before the conveyance. These disputes were settled by an “agreement of compromise” executed in April, 1954. This agreement recognized that plaintiffs’ “timber rights and ownership” extended to all timber, whether or not cruised. Plaintiffs agreed that their title and rights in the timber should cease as of January 1, 1961.
+The agreement required plaintiffs to continue paying all taxes on the timber; reaffirmed plaintiffs ’ right to contract for the sale and removal of timber; provided for termination of that right on the agreed date; and further provided that all contracts for such removal should include certain clauses specifically for the benefit of defendants, principally to minimize interference with their ranching operations. Among these clauses were requirements that each logger contracting with plaintiffs should agree to log “in a consistent, complete and progressive manner,” and to “log clean as he goes and to remove all merchantable timber as he goes, without hi-grading, and to not move his operations indiscriminently [sic].”
+In October 1954, plaintiffs sold the timber on much of the land to one Emmerson, limiting his right of removal to January 1, 1960, and providing that title to all timber not removed by that date should “revert to and revest in” plaintiffs. The required clauses for defendants’ benefit were included. Upon expiration of the term of Emmerson’s contract, there remained on the land a substantial amount of timber he had not removed. Most of this timber was in patches or stands which Emmerson had by-passed or “leapfrogged” in his logging. Plaintiffs sold this timber to one Bullman, limiting to December 31, 1960, his right to remove it.
+Defendants asserted that plaintiffs had no right to contract for removal by Bullman of timber which had been left after the area was logged over by Emmerson. This declaratory relief action followed. The trial court ruled that plaintiffs’ contract with Bullman does not contravene their agreement with defendants, and the latter appeal.
+It is conceded that Emmerson could not, under his contract, have returned to log stands of timber which he had passed over in his operations.
+The question is whether plaintiffs themselves are barred from contracting with other loggers to remove such timber. Conspicuously absent from the agreement of compromise is any provision restricting sale by plaintiffs of timber which has been by-passed by purchasers from them. Defendants, however, argue that the express limitation upon individual contractors of plaintiffs impliedly limits the right of plaintiffs themselves. We cannot agree.
+Defendants’ agreement expressly recognizes plaintiffs’ ownership of all timber on the land. This ownership is emphasized by the requirement that plaintiffs pay all taxes on the timber. Logging had been conducted on portions of the land before the 1954 agreement of compromise. Thus the failure of that agreement to restrict plaintiffs’ right to contract for logging in the same logged areas is significant. Even more impressive is the express recognition of the agreement of compromise that plaintiffs’ “timber rights and ownership . . . include all timber.” To imply the covenant urged by defendants would transfer title to some 3,000,000 board feet of merchantable timber to defendants, although no express provision even hints at such transfer.
+Under the agreement of compromise, plaintiffs retained title to the timber but limited to slightly less than seven years their right to remove it. Increase in the price of lumber, development of more economical logging methods, and, to a slight extent, natural growth of the trees, has made merchantable timber which was not so when the agreement was executed. It is difficult, in the absence of some express provision, to hold that plaintiffs were waiving, for so long a term, the right to timber which might become merchantable within the period of their continuing title. The numerous clauses plaintiffs were required to include in their agreements for sale to loggers clearly were designed to protect defendants’ cattle ranching operations on the land. Yet the record contains little, if any, showing that the proposed Bullman operations would adversely affect such operations.
+The North Carolina decisions relied on by defendants (Scarborough v. Calypso Veneer Co., 244 N.C. 1 [92 S.E.2d 435, 57 A.L.R.2d 818]; Davis v. Frazier, 150 N.C. 447 [64 S.E. 200]), are not in point. In each of those cases, a landowner sold timber, providing that the purchaser should not have the right “to cut over the lands ... a second time for timber” and that the landowner should have the right to the timber remaining after the land had been once cut over. Here the agreement of compromise contains no provision affecting plaintiffs ’ title to timber passed over in a first logging. The clauses here relied upon by defendants are found in the agreements between plaintiffs and their contractors. Even if construed to be as broad as those in the North Carolina cases, these clauses at most would leave title in plaintiffs, the owners of the timber, rather than in defendant landowners.
+Judgment affirmed.
+Salsman, J., and Devine, J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied May 29, 1962.
