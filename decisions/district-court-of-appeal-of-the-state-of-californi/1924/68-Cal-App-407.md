@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 4752"
 decided: "1924-08-28"
-citations: ["68 Cal. App. 407", "68 Cal. App. 418"]
+citations: ["68 Cal. App. 407"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["JOHN LAPIQUE, Petitioner, v. SUPERIOR COURT OF LOS ANGELES COUNTY et 
 source_url: "https://static.case.law/cal-app/68/cases/0407-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2141995
-cites_cases: ["1 Cal. 152", "11 L. R. A. (N. S.) 619", "111 Cal. 106", "121 N. Y. 678", "121 Pac. 1010", "126 Cal. 244", "131 Cal. 280", "146 Cal. 132", "146 Pac. 690", "151 Cal. 460", "154 Cal. 534", "18 Cal. App. 52", "191 Cal. 501", "20 Pac. 24", "217 Pac. 73", "229 Pac. 1010", "24 N. E. 1095", "26 Cal. App. 258", "3 Cal. Unrep. 36", "39 A. L. R 127", "43 Pac. 580", "45 N. W. 1113", "5 Cal. App. 371", "56 Hun. 351", "58 Pac. 549", "63 Pac. 372", "79 Pac. 853", "82 Mich. 75", "9 N. Y. Supp. 321", "90 Pac. 478", "91 Pac. 101", "98 Pac. 540"]
+cites_cases: ["1 Cal. 152", "11 L. R. A. (N. S.) 619", "111 Cal. 106", "121 N. Y. 678", "121 Pac. 1010", "126 Cal. 244", "131 Cal. 280", "146 Cal. 132", "146 Pac. 690", "151 Cal. 460", "154 Cal. 534", "18 Cal. App. 52", "191 Cal. 501", "20 Pac. 24", "217 Pac. 73", "24 N. E. 1095", "26 Cal. App. 258", "3 Cal. Unrep. 36", "39 A. L. R 127", "43 Pac. 580", "45 N. W. 1113", "5 Cal. App. 371", "56 Hun. 351", "58 Pac. 549", "63 Pac. 372", "79 Pac. 853", "82 Mich. 75", "9 N. Y. Supp. 321", "90 Pac. 478", "91 Pac. 101", "98 Pac. 540"]
 ---
 
 # Lapique v. Superior Court
