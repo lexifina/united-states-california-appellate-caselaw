@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2350"
+decided: "1917-12-27"
+citations: ["35 Cal. App. 681"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LONDON & LANCASHIRE COMPANY, etc., et al., Petitioners, v. INDUSTRIAL ACCIDENT COMMISSION et al., Respondents."]
+source_url: "https://static.case.law/cal-app/35/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2025108
+cites_cases: ["145 N. W. 238", "150 N. W. 325", "153 Pac. 239", "156 Wis. 68", "158 N. W. 851", "159 Pac. 149", "163 Pac. 664", "171 Cal. 334", "173 Cal. 83", "174 Cal. 457", "184 Mich. 87", "192 Mich. 435"]
+---
+
+# London & Lancashire Co. v. Industrial Accident Commission
+
+## Majority (THE COURT.)
+
+THE COURT.
+The facts of this proceeding are these: The respondent S. M. Summers was employed by the California Iron Works as a millwright. His duties were to assist in the manufacture and assembling of machinery. Whenever his employer secured a contract for the installation of machínery in any particular place, Summers was required to go to that place for that purpose. He thus traveled from place to place for his employer, and was allowed pay for the time consumed in making these journeys and also was allowed a sum to pay his traveling expenses. In going and coming he was allowed to use any means of conveyance he desired. At the time of the injuries for which he sought compensation he had been directed to go to the town of Alhambra, and undertook to make the journey in an automobile belonging to his son. During the trip Mr. Stamm, the manager of the employer, preceded Mr. Summers and his son in another machine, directing the journey and showing them the road. While on the way the automobile in which Summers was riding turned over and he sustained the injuries for which he seeks compensation. The Industrial Accident Commission allowed him compensation upon a showing of the foregoing facts.
+The petitioner herein seeks to have reviewed the order of the commission in that regard, basing its application upon the contention that the undisputed evidence showed that the injury did not arise out of the applicant’s employment, for the reason that the risk of injury to which the applicant was exposed was one of those common risks to which the public generally are exposed and to which every employee who travels the streets or highways in any sort of vehicle going to or returning from his work is exposed.
+On behalf of the respondent herein it is conceded that the general rule governing ordinary cases arising under the Workmen-’s Compensation Act is that for which the petitioner herein contends; but the respondent herein argues, we think convincingly, that the facts of this case bring it within the exceptions to the general rule. The exceptional cases are those wherein the employment itself is one in which the employee is required to travel from place to place at the will of tlie employer, and hence where the risks of such travel are directly incident to the employment itself, and hence wherein the accident occurring by reason of such risk is one arising out of the employment, and therefore a proper subject of compensation under the Employers’ Liability Act.
+The evidence in this case shows that the employment of the employee was in the nature of a traveling employment. It differed from the employment in the case of Hopkins v. Michigan Sugar Co., 184 Mich. 87, [L. R. A. 1916A, 310, 150 N. W. 325]—upon which the petitioner herein strongly relies—in the respect that in that case the injured employee was chief engineer of his employer, supervising the installation and operation of machinery in six of its plants located in different .cities, and that his injuries occurred while returning from a tour of inspection of one of these plants, and for which injury he was denied compensation; and also in the respect that the several places of his employment and service were at all times defined—the fact that there were several of them instead of one not preventing the application of the general rule; while, on the other hand, in the case at bar the particular destination to which the employee should go from time to time in the course of his duty was not defined in advance, but was the subject of selection and direction from time to time by the employer to an extent which rendered the travel of the employee to such places a part of the employment itself sufficient to bring him within the category of a traveling employee, and thus to make this case one of those exceptional eases to which the general rule for which the petitioner herein contends has no application.
+We are of the opinion that the evidence in this case fully sustains the position for which the respondent herein contends, and that the following authorities as a matter of law support that contention: Garratt-Callahan Co. v. Industrial Acc. Comm., 171 Cal. 334, [153 Pac. 239] ; Brown v. Industrial Acc. Comm., 174 Cal. 457, [163 Pac. 664] ; Cameron v. Pillsbury, 173 Cal. 83, [159 Pac. 149] ; Kunze v. Detroit Shade-tree Co., 192 Mich. 435, [L. R. A. 1917A, 252,158 N. W. 851]; Milwaukee v. Althoff, 156 Wis. 68, [L. R. A. 1916A, 327, 145 N. W. 238].
+It follows that the writ should be denied, and it is so ordered.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeals, was denied by the supreme court on February 25, 1918.
