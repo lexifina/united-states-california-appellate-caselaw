@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4879"
+decided: "1924-08-29"
+citations: ["68 Cal. App. 484"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARA FOTOS, Respondent, v. A. H. BARTCHER et al., Appellants."]
+source_url: "https://static.case.law/cal-app/68/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2141972
+---
+
+# Fotos v. Bartcher
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The plaintiff was awarded a judg ment in the trial court for damages sustained, and both defendants have appealed under section 953a of the Code of Civil Procedure.
+During the evening of the 17th of August, 1922, many persons were guests on board a vessel anchored at the Hyde Street dock, San Francisco. At about midnight some of the guests started for their respective homes. The defendant A. H. Bartcher had an automobile of the roadster type and invited his party to be seated in the automobile. The plaintiff Clara Fotos thereafter took a position on the running-board of the automobile. Whether she did so with the consent of the operator or in direct opposition to his protest the evidence is conflicting. Loaded as above stated the automobile proceeded toward Market and Mason Streets. When it reached the intersection of those streets a collision occurred between the automobile and a west-bound Market Street car.
+At the time of the collision the automobile was passing from Mason Street across Market Street. The plaintiff was on the right-hand side of the automobile and on the opposite side from the impact with the street-ear. The striking of the two vehicles was of such a nature that the street-car was not injured nor any of the passengers thereon. The automobile was slightly injured as to one of the fenders and the running-board at the point of contact with the street-car. But those riding inside of the automobile were not. injured. However, the plaintiff, being on the opposite side of the automobile, was thrown on the pavement and at least some of her clothing was caught under the wheels of the automobile at the time that both vehicles had come to a standstill.
+The plaintiff sued A. H. Bartcher as the operator of the automobile and the Market Street Railway Company as the operator of the street-car. In its answer the Market Street Railway Company denied any negligence on its part or on the part of its agents; and as an affirmative defense it pleaded the contributory negligence of the plaintiff. The defendant Bartcher denied negligence on his part and affirmatively pleaded negligence on the part of the Market Street Railway Company and contributory negligence on the part of the plaintiff. ‘ During the trial evidence was tendered on each of the issues so made by the pleadings. At the proper time the trial court read its charge to the jury and also gave many instructions tendered by each defendant. On this appeal several points are made but each one of them is an attack on an instruction given by the trial court. All of the attacks are more or less sound, but as we view the case it is unnecessary for us to pass on but one of the alleged errors.
+Commencing on page 292 of the transcript the court instructed the jury as follows:
+I. “The Court instructs the jury that if you believe, from the evidence, that the defendant, A. H. (Bartcher, was negligent in the operation of the automobile, at the time and place in question, and that the defendant, Market Street Railway Company, was not negligent in the operation of the street ear at the time and place in question, and that the plaintiff did not proximately cause the accident which contributed to, and resulted in, her injuries, if any, then I instruct you that your verdict must be in favor of the plaintiff and against the defendant, A. H. Bartcher.
+II. “I instruct you that if you find, from the evidence, that the defendant, Market Street Railway Company, was negligent in the operation of the street ear at the time and place in question, and that the defendant, A. H. Bartcher, was hot negligent, and that the plaintiff did not proximately cause the accident which contributed to, or resulted in, her injuries, if" any, then I instruct you that, your verdict must be in favor of the plaintiff and against the Market Street Railway Company.
+III. “The Court instructs the jury that, in order to find a verdict for the plaintiff in this ease, it is not necessary to find that both of the defendants are guilty of negligence, but if you find that either of the defendants were guilty of negligence and the plaintiff did not proximately cause the accident which contributed to her injuries, if any, then I instruct you that your verdict should be in favor of the plaintiff and against the defendant which you find was negligent.”
+Following those instructions the court instructed the jury, “The proximate cause of an event must be understood to be that which, in the natural and continuous sequence, unbroken by any new, independent cause, produces that event, and without which that event would not have occurred.”
+It is perfectly clear that the instructions which we have numbered I, II, and III, each directed a verdict if the jury found certain facts. Each directed a verdict in favor of the plaintiff, wholly ignoring the element of contributory negligence. True it is that each instruction contained a clause in the nature of a proviso if “plaintiff did not proximately cause the accident.” But that proviso was wholly immaterial. No issue of that nature was before the court. No party had even claimed that the plaintiff caused the cars to collide. However, each defendant throughout the case had claimed that if the plaintiff had not taken a position on the running-board she would not have fallen, or been thrown, to the pavement, and therefore would not have been injured at all. This error is of such a nature that the judgment must be reversed. It is so ordered.
+Nourse, J., and Langdon, P. J., concurred.
