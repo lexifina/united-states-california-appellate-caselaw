@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12430"
+decided: "1943-06-24"
+citations: ["59 Cal. App. 2d 322"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CALIFORNIA EMPLOYMENT COMMISSION, Appellant, v. GEORGE MALM, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/59/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2352538
+cites_cases: ["104 U.S. 557", "109 Ore. 562", "133 F. 440", "69 C.C.A. 274"]
+---
+
+# California Employment Commission v. Malm
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+Plaintiff sued to collect delinquent contributions, interest and penalties, due under the Unemployment Insurance Act (Stats. 1935 p. 1226, Deering’s Gen. Laws, Act. No. 8780 d). Plaintiff had judgment for the contributions found due and for interest and costs. It appeals from the portion of the judgment denying recovery of the sum of $38.97 claimed as penalties for non-payment. The appeal is prosecuted upon a clerk’s and reporter’s transcript which .the parties have stipulated may be treated as a bill of exceptions and clerk’s transcript.
+The appellant rests its cause for reversal on the want of evidence to support the conclusion of the trial court that “good cause existed for excusing defendant from payment of the penalty.” The record does not call for an extended review of the evidence. Appellant attached to its complaint an exhibit consisting of two pages of typed figures in columns indicating dates of delinquency, taxable wages, contributions assessed, and penalties assessed. The document was unsigned, unverified and uncertified. At the opening of the trial, counsel for the commission offered a copy of a “certificate” in evidence which, we may assume, was a copy of the document attached to the complaint. But the record does not disclose that the offered document was identified, marked, or received in evidence. Counsel offered to put a witness on the stand to testify to the correctness of the figures, but this evidence was waived. Counsel for respondent thereupon stated that he made three defenses—that one of those listed as an employee was an independent contractor, that certain deductions should be made for use of a privately owned automobile, and that the penalties were unwarranted. Other than the tender of the copy of the “certificate” the appellant made no further proof in relation to the penalties.
+We are thus confronted with the settled rule that when a party seeks relief the burden is upon him to prove his case, and he cannot depend wholly upon the failure of the defendant to prove his defenses.
+The provisions of the statute under which this suit is brought are clear and call for no judicial interpretation. Section 45.3 of the act provides that if an employer “without good cause” fail to pay the contributions at the specified time he “shall pay” a penalty of 10%, or an additional penalty of 15% if his failure to pay “is due to intentional fraud.” The section then provides that “the finding of the commission that there exists no good cause excusing the delinquency, or that the failure of the employer is due to intentional fraud shall be for all purposes prima facie evidence of the existence of such facts.”
+Section 45.1 of the act provides that “a certificate attested to by the commission . . . shall be prima facie evidence of the payment ... of the amount of wages ... of the levy of the contributions; of the delinquency. ...” (Emphasis in both sections ours.)
+It should be noted that before the certificate may be received in evidence it must be attested, and that before a penalty may be imposed either for want of good cause or for intentional fraud, there must be a finding of the commission to support the penalty. Now a “certificate” has been defined in Merrell v. Tice, 104 U.S. 557, 561 [26 L.Ed. 854] : “A certificate under seal, when invested with legal force and effect, is a solemn instrument, and ought to be complete, certain, and final in itself, without any collateral addition or commentary. Its very form and character as a certificate presuppose that it has the verification and protection of the authenticating signature and seal. Any matter extraneous, that is, not contained in the body of the instrument, has not this verification and protection.” And in Dolan v. United States, 133 F. 440, 449 [69 C.C.A. 274], a certificate is defined as “ ‘a written testimony to the truth of any fact; a written declaration legally authenticated;’ ... as ‘a writing giving assurance that a thing has or has not been done, that an act has or has not been performed.’ . . . Popularly the term ‘certificate’ would import a document in which the officer issuing the same purports to state on his own authority that certain acts have been done.”
+A “finding” is a word in common use implying some sort of judicial or quasi-judicial determination of a disputed state of facts. In Maeder Steel Products Co. v. Zanello, 109 Ore. 562 [220 P. 155, 158], it is said: ‘ ‘ Finding. A word which imports the ascertainment of a fact in a judicial proceeding, and commonly is applied to the result reached by a judge. . . . Finding of Fact. A determination by a court, found on the evidence of a fact averred by one party and denied by the other. ...” Where the word is used in a statute conferring quasi-judicial functions upon an administrative body it implies that the body has conducted some sort of a hearing, or investigation of the facts, upon which it may reach the conclusion that those facts are true.
+Here we have nothing in the record but the auditor’s copy of matters appearing in the books of account. There is no evidence that the commission made any investigation, held any hearing, or reached a conclusion that there was “no good cause excusing the delinquency.” So far as the evidence goes the imposition of the penalties may have been made by the bookkeeper. We conclude that the appellant failed to prove its case.
+The judgment is affirmed.
+Spence, J., and Dooling, J. pro tern., concurred.
