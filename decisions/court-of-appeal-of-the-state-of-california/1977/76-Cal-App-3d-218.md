@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 2964"
+decided: "1977-12-23"
+citations: ["76 Cal. App. 3d 218"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. EDWARD VALENZUELA, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/76/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040399
+cites_cases: ["10 Cal.Rptr. 267", "101 Cal.Rptr. 804", "141 Cal.App.2d 688", "188 Cal.App.2d 248", "198 P.2d 325", "25 Cal.App.3d 414", "253 Cal.App.2d 396", "297 P.2d 658", "299 P.2d 243", "46 Cal.2d 818", "61 Cal.Rptr. 225", "88 Cal.App.2d 99"]
+---
+
+# People v. Valenzuela
+
+## Majority (FRANSON, J.)
+
+Opinion
+FRANSON, J.
+Appellant was convicted following trial by jury of burglary in the first degree and four counts of robbery in the first degree, The sole contention on appeal is that the trial court prejudicially erred in failing to instruct the jury about the credibility of witnesses at the close of argument even though it had instructed the jury on this subject three days earlier, following the opening statements. For the reasons to be explained we hold that while the trial court did not prejudicially err in failing to reinstruct the juiy, it would have been the better practice to have done so.
+The pertinent facts giving rise to appellant’s convictions are as follows: On July 1, 1976, seven persons were residing in a house at 312 North A Street, Arvin, California. Sometime after 1 a.m. a man subsequently identified by five of the victims as appellant forcibly entered the house with a .22 caliber rifle. He was accompanied by two other men. The trio proceeded to take money at gun point from five of the occupants of the house. At trial appellant denied his guilt.
+The trial court instructed the jury at the close of the opening statements concerning the credibility of witnesses. (CALJIC Nos. 2.20, 2.21, 2.22.) During the closing arguments both counsel discussed the law on the credibility of witnesses and attempted to paraphrase part of the instructions previously given on the subject. Thereafter, the trial court gave its final instructions to the jury but did not repeat the instructions on credibility.
+Discussion
+Penal Code section 1093 sets forth the order of procedure in a criminal trial. Subdivision 6, which is numbered after the introduction of evidence and argument to the jury, provides: “The judge may then charge the jury, and must do so on any points of law pertinent to the issue, if requested by either party, ... At the beginning of the trial or from time to time during the trial, and without any request from either party, the trial judge may give the jury such instructions on the law applicable to the case as he may deem necessary for their guidance on hearing the case ....” (Italics added.)
+Penal Code section 1094 provides: “[F]or good reasons, and in the sound discretion of the Court, the order prescribed in the last section may be departed from.”
+We glean from these statutes two rules: First, when to instruct a juiy is a matter within the sound discretion of the trial judge; he may instruct at any time during the trial. Second, even when a party requests instructions at the close of argument, if the court has already instructed on the subject it may in its sound discretion refuse to reinstruct. This necessarily follows from the broad discretion vested in the trial court by virtue of section 1094. (Cf. People v. Frazier (1948) 88 Cal.App.2d 99, 106 [198 P.2d 325].)
+In the instant case, the record shows that counsel failed to request that the instructions on credibility be repeated after closing argument. Although defense counsel’s declaration in support of the motion for a new trial suggests that such reinstruction was requested, the court disagreed and noted “not true” in the margin of the declaration. We accept the trial judge’s implied finding in this regard.
+Nevertheless, regardless of the discretion vested in the trial judge not to instruct after closing argument, we express a caveat: the judge must always be alert to the possibility that counsel in the course of argument may have befuddled the juiy as to the law. If this occurs, then either at the time the confusion arises or as part of the final instructive process the judge should rearticulate the correct rule of law. Just as the law imposes a sua sponte obligation to instruct on certain principles of law in the first place (those rules openly and closely connected with the case) so does it impose on the judge a duty to reinstruct on the point if it becomes apparent to him that the jury may be confused on the law.
+In the present case, almost three full days had elapsed between the preinstruction and closing argument. Counsel, as was their right, had argued at length the credibility of the witnesses who had identified appellant as the robber and had attempted in a disjointed fashion to paraphrase a portion of the law on credibility. As a consequence, it is only reasonable to conclude that some jurors might have been unclear on the law and others would tend to emphasize the portions argued by counsel to the exclusion of the parts not mentioned. It also is reasonable to conclude that at this juncture some jurors would be unable to remember with certainty the court’s preinstructions three days earlier. Therefore, the trial court should have exercised its discretion within the bounds of caution by taking the time required to reread the instructions.
+We wish to emphasize that by these comments we do not intend to discourage the practice of preinstructing a jury. To the contrary, we commend the astute judge who tries to give the juiy advance notice of the law applicable to the case. Instruction prior to closing argument has been encouraged by the appellate courts (see People v. Pena (1972) 25 Cal.App.3d 414, 429 [101 Cal.Rptr. 804] (overruled on other grounds); People v. Johnson (1967) 253 Cal.App.2d 396, 399 [61 Cal.Rptr. 225]; People v. Hernandez (1961) 188 Cal.App.2d 248, 253-254 [10 Cal.Rptr. 267]; People v. Reinschreiber (1956) 141 Cal.App.2d 688, 702 [297 P.2d 658] (conc. opn. of Shinn, P. J.)). However, as we see it, the purpose of preinstructing jurors is not to avoid the necessity of instructing at the close of argument; rather, it is to give them some advance understanding of the applicable principles of law so that they will not receive the evidence and arguments in a vacuum.
+Nonetheless, because of the overwhelming evidence of guilt in the present case (five witnesses identified appellant as the man who had entered their residence with a rifle in his hand and robbed them), any abuse of discretion which might have occurred because of the trial court’s failure to reinstruct on the credibility of witnesses was harmless. (People v. Watson (1956) 46 Cal.2d 818 [299 P.2d 243].)
+The judgment of conviction is affirmed.
+Brown (G. A.), P. J., and Hopper, J., concurred.
