@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6076"
+decided: "1928-05-04"
+citations: ["91 Cal. App. 596"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES LANINI et al., Respondents, v. H. ROSA et al., Appellants."]
+source_url: "https://static.case.law/cal-app/91/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2107149
+cites_cases: ["195 Cal. 354", "233 Pac. 330"]
+---
+
+# Lanini v. Rosa
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+The defendants were sued as members of the Salinas Valley Dairymen’s Association, "a nonprofit cooperative corporation, for their proportionate share of an indebtedness created under the authority of the board of directors of the corporation. Plaintiffs had judgment, from which the defendants have appealed upon a typewritten record under section 953a of the Code of Civil Procedure.
+The single ground urged on the appeal is that the evidence is insufficient to justify the decision and that the decision is against law. We have said that this is a single ground because the contention that the decision is against law is predicated wholly upon the theory that the decision is not supported by the evidence. The appellants have cited in their brief portions of the articles of incorporation and by-laws of the association from which it appears that the organization was created for the purpose of marketing the dairy products of the members of the association and that the property rights and interest of each member were unequal, being based upon the proportion which the amount of the membership fees actually paid in by each bore to the total amount of all membership fees paid by all members of the association. The by-laws contained a provision that all expenses of maintaining the association should be distributed over the entire volume and value of business and charged against each member proportionately to the volume of business done by the association for each. We gather from the briefs that the trial court followed this method of apportioning the indebtedness found to be due the respondents and rendered judgment against the respective appellants accordingly.
+It is the contention of the appellants that each member of the association was individually and personally liable for an equal share of its debts and liabilities unless a different measure of liability was fixed by the association in its articles of incorporation or by-laws. Having quoted one paragraph of the by-laws fixing the liability of the members for expenses of maintaining the association the appellants then argue that the indebtedness upon which the respondents sue was created for a capital expenditure upon the plant of the association, which cannot be treated as an expense of maintenance under this provision of the by-laws. Respondents appropriately reply that the appellants have failed to quote other material portions of the articles of incorporation and by-laws; that they have failed to print in their brief any portion of the evidence heard by the trial court; that they have failed to print any of the twenty-one exhibits offered in evidence; and that this evidence and these exhibits were offered for the purpose of enabling the trial court to interpret the meaning of the articles of incorporation and by-laws touching the liability of the members of the association. For these reasons the respondents insist that the judgment must be affirmed because of appellants’ failure to meet the terms of section 953c of the Code of Civil Procedure, which require an appellant who has taken an appeal under section 953a et seq. to print in his brief or in the supplement thereto such portion of the record as he desires to call to the attention of the appellate court. The failure of the appellants to comply with the terms of these sections is inexcusable in a case such as this where the appeal is based upon a claim that the evidence is insufficient to support the findings of the trial court. They do not print any of the findings which they attack or any of the evidence upon which the findings were based. They concede that they are liable for the debts incurred by the association during their period of membership, but they do not contend that they were not members at the time that any of this indebtedness arose. They concede that they are liable in proportion to the amount of business done by the association for them for all debts incurred in the maintenance of the association, but they do not print any evidence or refer us to any portion of the record which would tend to show that the indebtedness here in suit did not come within that category.
+The case is controlled by Estate of Berry, 195 Cal. 354, 358 [233 Pac. 330], where the court had occasion to consider the failure of an appellant to comply with section 953e of the Code of Civil Procedure, as amended in 1923 (Stats. 1923, p. 748), and held that a judgment appealed from in such manner should be affirmed on the ground that the record failed to show error. The rule of that case requires an affirmance of the judgment.
+Judgment affirmed.
+Sturtevant, J., and Koford, P. J., concurred.
