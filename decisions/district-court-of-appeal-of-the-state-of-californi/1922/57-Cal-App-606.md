@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1032"
+decided: "1922-05-05"
+citations: ["57 Cal. App. 606"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. CHEW JUEY, etc., Appellant."]
+source_url: "https://static.case.law/cal-app/57/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2081729
+---
+
+# People v. Juey
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Appellant was convicted of the crime of murder in the first degree and the penalty of life imprisonment was imposed. Thereafter he moved for a new trial and for an arrest of judgment, both of which motions were denied. He appeals from the final judgment of conviction and the order denying his motion for a new trial.
+Appellant attacks the judgment upon the ground that the verdict is not sustained by the evidence. The case against appellant rests upon the testimony of the two Chinese witnesses, Yee Young and Wong Kai. From the testimony of these witnesses it appears that three or four Chinese entered a gambling-room where the deceased was playing dominoes, one of whom shot the deceased while standing behind him. This assailant then fled from the room. The deceased followed his assailant into the hallway, shooting at him as he ran, and then fell to the floor. Three other Chinese were wounded. The appellant, it was said, approached the deceased as he was lying upon the floor and emptied his revolver into his body. Tee Toung testified that he thereupon followed the appellant out into Grant Avenue and had him in sight until he pointed him out to the officer who made the arrest.
+It is the contention on the part of the appellant that the shooting was the result of a Tong war in which the deceased and the two Chinese witnesses who testified against the appellant were members of one Tong and the appellant was a member of another Tong. For this reason it is argued that the testimony of these two witnesses should not be believed, and particular attention is drawn to the fact that their testimony is so closely identical that it bears evidence of having been memorized by them for the purpose of the trial. But these are matters which even in a case of this nature must be left to the judgment of the trial jury and to the discretion of the trial judge, who had this same question before him in passing upon the motion for a new trial.
+It is further argued that appellant’s motion for a new trial should have been granted upon the showing that Lum Tap Wan, one of the Chinese who had been wounded at the time, was not available at the time of the trial but had thereafter made his affidavit to the effect that he had witnessed the shooting of Go Foin; that two shots were fired into his body by a Chinese wearing an army overcoat who was not the appellant in this case; that thereafter Go Foin started to run after his assailant when he was attacked by another Chinese named Leong Tong, who shoved Go Foin over in the hallway and then fired at least two shots into his body; and that Chew Juey was not either of the men who participated in the shooting. Though the evidence which appellant proposed to present through this witness would have been sufficient to warrant the granting of a new trial if the trial court had made the order, it is merely cumulative and would not justify our saying that the trial court abused its discretion in denying the motion.
+Criticism is made of the instruction of the trial court to the effect that in weighing the testimony given by the witness Yee Young the jury should disregard any of the testimony tending to show that he had been indicted by the grand jury for criminal conspiracy. The subject matter of the instruction was the question of impeachment of witnesses. Section 2051 of the Code of Civil Procedure provides that a witness may not be impeached by evidence of particular wrongful acts, except that it may be shown that he had been convicted of felony. The testimony relating to Yee Young’s indictment was introduced for the purpose of showing that he was a member of a certain Chinese Tong which had been having some trouble with the Tong of which appellant was a member and that the witness had been charged with a conspiracy to commit a murder growing out of this Tong war. The testimony was admitted without objection from the prosecution and was admissible for the purpose of showing the interest of the witness in the prosecution of the appellant. As a general rule, it is not advisable for the trial court to single out a particular witness and to instruct the jury in any manner as to how it may weigh the testimony of that witness, but we do not believe that the instruction under consideration is so prejudicial to the interests of the appellant as to require a reversal of the judgment.
+Other points raised do not require consideration. Judgment affirmed.
+Langdon, P. J., and Sturtevant, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on July 3, 1922.
+All the Justices concurred, except Wilbur, J., Lawlor, J., and Lennon, J., who were absent.
+Shurtleff, J., was also absent and Richards, J., pro tern., was acting.
