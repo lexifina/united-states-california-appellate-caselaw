@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 357"
+decided: "1916-11-03"
+citations: ["31 Cal. App. 793"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. J. E. CARRELL, Appellant."]
+source_url: "https://static.case.law/cal-app/31/cases/0793-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039293
+cites_cases: ["128 Pac. 419", "20 Cal. App. 153", "28 Pac. 680", "92 Cal. 648"]
+---
+
+# People v. Carrell
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+Defendant was convicted of a felony under section 288a of the Penal Code, and was sentenced to imprisonment at San Quentin for the period of seven years. He appeals from the judgment of conviction and from the order denying his motion for a new trial.
+The charging part of the information is as follows: “Did willfully, unlawfully and feloniously commit the acts technically known as fellatio upon the person of one Ethel Carrell, a human being, by force and violence and against the will of the said Ethel Carrell, contrary,” etc.
+Section 288a of the Penal Code was passed in 1915 and is as follows: “The acts technically known as fellatio and cunnilingus are hereby declared to be felonies and any person convicted of the commission of either thereof shall be punished by imprisonment in the state prison for not more than fifteen years.” .
+Defendant demurred to the information on the ground that it “does not contain a statement of the acts constituting the offense, in ordinary and concise language, and in a manner to enable a person of common understanding to know what is intended”; that the information is not direct and certain “as it regards the crime charged therein”; and that the facts stated do not constitute a public offense. The demurrer was overruled. The motion for a new trial was on the grounds that the court misdirected the jury in that the offense defined by the court “is not included in the word fellatio as defined in its technical use”; also, on the ground that the prosecuting witness was an accomplice, and her testimony was not corroborated as required by section 1111 of the Penal Code. Upon the denial ■ of defendant’s motion for a new trial, he moved in arrest of judgment on the foregoing grounds, which motion was also denied. Neither the statute nor the information defines what is meant by the term “fellatio.” No definition of this word have we been able to find in any English dictionary. The particular • acts constituting the crime of fellatio are not set forth in the information, and as none of the ordinary sources of information would enlighten defendant on the subject, how can it be said that “the acts constituting the offense” were charged in such a manner as to enable “a person of common understanding to know what is intended?” (Pen. Code, sec. 950.) In People v. Ah Sum, 92 Cal. 648, [28 Pac. 680], the information was held insufficient and judgment arrested because in a portion of the information the lottery ticket involved in the transaction was set out in Chinese characters. The court said: “An indictment or information must contain a statement of acts constituting the offense in ordinary and concise language, and in such manner as to enable a person of common understanding to know what is intended. (Pen. Code, see. 950.) An information partly in English and partly in Chinese cannot be said to be in ordinary language. The constitution requires judicial proceedings to be conducted, preserved, and published in no other language than the English language. (Const., art. IV, see. 24.) Mr. Bishop says: ‘In some of our states there are statutes expressly excluding all languages but the English, and such is clearly the general American law.’ ” See, also, Stevens v. Kobayshi, 20 Cal. App. 153, [128 Pac. 419], where the rule was applied in a civil case for libel.
+Unexplained, the word “fellatio” would, to a man of common understanding (indeed, we think also to one of uncommon understanding), be as cabalistic as if written in Egyptian or Mexican hieroglyphics or in Japanese or Chinese characters. The attorney for the defendant says in his brief: "The defendant entered into the trial of this case, and so did his attorney, without any knowledge of what the word ‘fellatio’ would be defined to mean as used in the statute, or what the elements constituting the offense might be, but rather supposed” the court would instruct in accordance with a definition the attorney found in Andrew’s Latin-English Lexicon. In this sense the definition might not meet the act proven but would seem to apply to the woman rather than the man. This is mentioned to emphasize the soundness of the statutory rule that the offense must be so stated as to be intelligible to a person of common understanding. Under no other rule could a defendant safely go to trial. The circumstance is mentioned also for the reason that it is by no means certain what acts the legislature intended to characterize as the crime of fellatio. We do not find it spoken of in any work on criminal law, and its introduction into our statutes is of so recent a date that the courts have not been called upon to deal with it so far as we are aware until this case arose.
+The exigencies of the case do not seem to require that we should stain the pages of our reports with the definition as given, or to enlighten the profession or the public as to what the learned trial judge found it necessary to inform the jury the legislature meant when it announced “fellatio” as a felony.
+We are entirely satisfied that the defendant should not have been forced to trial upon this information; that his demurrer should have been sustained, failing in which his motion in arrest of judgment should have been granted and a new trial accorded him.
+The judgment and order are reversed.
+Hart, J., and Burnett, J., concurred.
+A petition to have the cause heard in the supreme court; after judgment in the district court of appeal, was denied by the supreme court on January 2, 1917.
