@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 40"
+decided: "1906-11-09"
+citations: ["4 Cal. App. 396"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOSE MELANDREZ, Appellant."]
+source_url: "https://static.case.law/cal-app/4/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1941435
+cites_cases: ["62 Cal. 52"]
+---
+
+# People v. Melandrez
+
+## Majority (GRAY, P. J.)
+
+GRAY, P. J.
+The defendant was convicted of the crime of grand larceny, and appeals from the judgment and from an order denying his motion for a new trial.
+1. The information in appropriate language charged the defendant with the stealing of a horse in the county of Riverside and thereafter feloniously bringing the said horse into the county of Los Angeles. The proof taken at the trial shows that the horse stolen was a mare. The first point urged for reversal is the variance, as to the sex of the animal, between the proof and the information. This question is settled adversely to appellant’s contention in the case of People v. Pico, 62 Cal. 52, wherein it was held that the word “horse” in section 487, subdivision 3, of the Penal Code, is used in its generic sense and includes all animals of the horse species, whether male or female, and that the legislature of this state in using the word “mare,” also, in the same section did not intend to modify or change the common-law rule, “but inserted the word possibly for more definiteness. ’ ’
+2. Nor can we agree with appellant’s contention that the evidence was insufficient to support the verdict. In addition to the evidence showing without conflict that the defendant exercised actual control and ownership over the mare in question in the county of Los Angeles, and that the same had been prior to its being impounded actually in the possession of the defendant in said Los Angeles county, declarations, conversations and conduct of the defendant in connection with the disposition of the mare all indicate guilty knowledge and tend to show a consciousness that he had obtained possession of the animal by criminal means. The fact of his guilt does not rest alone upon the possession of a stolen animal, but the fact that the animal was originally stolen and did not stray away and that defendant was directly connected with the original larceny of the animal in another county is substantiated by the facts that he sold the animal for almost nothing, that he made a false statement as to the period of time during which he had owned her, and that he admitted that the witness Miranda had betrayed him. In admitting this betrayal he did not deny that he had placed himself in a situation to be betrayed, but all his language and conduct seems to admit his guilt. If we were to concede that the witness Miranda was an accomplice, still his testimony showing defendant’s guilt was amply corroborated by the declarations of the defendant himself made in the presence of the officers.
+' 3. No exception was taken to the ruling of the court on any matter in connection with the argument of the district attorney. Consequently, we find no error or alleged error in that direction which this court can review.
+4. As to the admission of the transcript of the testimony of Canuto Miranda taken at the preliminary examination in the police court, the question of the sufficiency of the preliminary evidence as to the whereabouts of that, witness and the efforts that had been made to secure his attendance was in the first instance for the trial court. The record discloses evidence showing that a considerable search had been made for the witness in and about the places that he had formerly frequented and that the officers had been unable to find him. We cannot say as a matter of law that this evidence was insufficient to reasonably satisfy the trial court that the witness could not be found in the state; and for this reason we cannot agree with appellant’s contention that the deposition should have been excluded.
+5. The accusatory statements testified to by the police officers as having been made by witness Miranda in the presence of the defendant, taken with the response thereto made by the defendant, were properly received in evidence. In reply to statements of Miranda showing defendant’s claims concerning the mare in question, the defendant said, as the witness testifies: “Miranda has thrown me down. Miranda has given me away; and there is two witnesses, so I have no more to say that I brought the horse here. ’ ’ The witness then testifies that he said to the defendant: “Will you go and show me where you brought that horse from?" and the defendant replied: “No, let whoever claims that horse come here—whoever claims the horse come here." To be sure, previous to this the defendant had said to the officer that he knew nothing about the horse, never had seen the horse until Miranda had brought it there for sale in the stable, but his subsequent statements made after he had listened to the declarations of Miranda were in effect a contradiction of his previous declaration, and we are clearly of the opinion that the whole conversation between police officer, Miranda and the defendant constituted a proper matter of evidence to be submitted to the jury. This is not the case of a mere charge of facts made in the presence of the defendant without any reply thereto, the defendant denying all connection with the alleged crime, but we have here the charge accompanied with a reply in the nature of an admission.
+We have examined the record carefully and find ho prejudicial error.
+The judgment and order are, therefore, affirmed.
+Smith, J., and Allen, J., concurred.
