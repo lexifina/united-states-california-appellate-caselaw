@@ -1,0 +1,39 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 17536"
+decided: "1950-10-23"
+citations: ["100 Cal. App. 2d 81"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BERTHA M. COLEMAN, Respondent, v. ANNA M. SATTERFIELD, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/100/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2285575
+cites_cases: ["105 P.2d 1018", "105 P.2d 971", "130 A.L.R. 1003", "146 P.2d 424", "16 Cal.2d 253", "195 P. 274", "196 P.2d 150", "197 Cal. 577", "210 Cal. 656", "241 P. 861", "293 P. 26", "41 Cal.App.2d 58", "50 Cal.App. 377", "63 Cal.App.2d 214", "87 Cal.App.2d 36"]
+---
+
+# Coleman v. Satterfield
+
+## Majority (McCOMB, J.)
+
+McCOMB, J.
+This is an action to require specific performance of an agreement to convey an interest in real property and for an accounting of rents received from said property. The action was tried before the court without a jury. Defendant appeals from the judgment in favor of plaintiff and also attempts to appeal from the order denying her motion for a new trial.
+The evidence being viewed in the light most favorable to plaintiff (respondent) and pursuant to the rules set forth in Estate of Isenberg, 63 Cal.App.2d 214, 216 [146 P.2d 424], discloses the following facts:
+On or about the first day of April, 1943, plaintiff and defendant verbally agreed to purchase a duplex known as 1489-1491 South Beverly Drive, Los Angeles, California. It was agreed that each should pay 50 per cent of the purchase price of the real property; that plaintiff and defendant should each have a full one-half interest in and to the entire property ; that defendant should occupy one of the apartments and the other should be rented; that plaintiff should receive the rental therefrom after deducting one half of the necessary expenses of maintenance, taxes and related matters; that title should be taken in the name of defendant but that she would deliver to plaintiff a grant deed representing an undivided one-half interest on her demand. Title was taken in the name of defendant and plaintiff contributed one half of the purchase price of the property. However when plaintiff demanded at a subsequent date that defendant give her a grant deed to an undivided one-half interest in and to the property defendant refused to comply with plaintiff’s request.
+Judgment was entered decreeing that plaintiff was entitled to a one-half interest in the property, ordering defendant to execute a grant deed conveying such interest, and giving plaintiff a money judgment for $1,476, representing the balance due from defendant to plaintiff for rents collected, etc.
+Question: First: Was there substantial evidence to sustain the finding that plaintiff and defendant each paid and contributed one half of the purchase price of the property in question?
+This question must be answered in the affirmative. Plaintiff testified that she turned over to defendant $3,600 which represented a partial distribution from the estate of her father. Subsequently $500 of this amount was repaid to plaintiff and defendant executed to her a promissory note foi; $3,100. Thereafter plaintiff delivered to defendant an additional $2,600 of which a total of $474 was returned. In 1943, when plaintiff and defendant agreed to purchase the duplex, there was due defendant from plaintiff $3,100 on the note which defendant had executed and $2,126 on the $2,600 subsequently advanced. The total purchase price for the duplex was $15,500, the vendor requiring a cash down payment of $7,500. Plaintiff and defendant each contributed $3,750 of the down payment; it being agreed that defendant should apply the sum of $3,750 for plaintiff as a payment of the note which was outstanding and $650 on account of the $2,126 still owing plaintiff from defendant. Plaintiff gave direct testimony as to each and every fact above stated.
+Clearly such evidence sustained the trial court’s findings of fact set forth above, including the finding that plaintiff and defendant had each paid one half of the amount paid on the purchase price of the proper tv.
+Second: Is there substantial evidence to support the trial court’s finding that there is $1,476 due from defendant to plaintiff ?
+This question must be answered in the affirmative. The evidence disclosed that plaintiff had given defendant $2,600, of which various amounts totaling $474 were repaid to plaintiff; that $650 was applied on behalf of plaintiff’s payment for purchasing the duplex mentioned above; that no other payments were made on account of said advance of $2,600; and therefore there remains due and unpaid to plaintiff the sum of $1,476.
+Third: Bid plaintiff fail to allege or prove a cause of action against defendant because the complaint alleged that the agreement between the parties was verbal and the proof supported, such allegations, hence it violated section 1624, subdivision 4, of the Civil Code?
+This question must be answered in the negative for the reason that defendant has waived any right to rely upon any provisions of the statute of frauds (Civ. Code, § 1624), by failing (a) to demur to the complaint, or (b) to object to the introduction of testimony to prove the oral agreement at the time of trial.
+The rule is established that where a complaint alleges facts showing that the agreement is within the statute of frauds and defendant neither demurs nor objects to the introduction of oral testimony to prove the agreement, he waives the defense of the statute of frauds and may not thereafter raise it on appeal. (Aaker v. Smith, 87 Cal.App.2d 36, 43 [196 P.2d 150]; Howard v. Adams, 16 Cal.2d 253, 257 [105 P.2d 971, 130 A.L.R. 1003].)
+This rule is applicable to the facts of the present case. In California a contract not executed in conformity with formality required by the statute of frauds is not void but merely voidable. (O’Brien v. O’Brien, 197 Cal. 577, 586 [241 P. 861].)
+Durbin v. Hillman, 50 Cal.App. 377 [195 P. 274], and Pollak v. Staunton, 210 Cal. 656 [293 P. 26], relied on by defendant, are inapplicable to the facts of the instant case. Pollak v. Staunton was a case involving the issuance of stock without first obtaining a permit from the commissioner of corporations. By the terms of the Corporate Security Act such an issuance of stock is made void and not merely voidable. Durbin v. Hillman holds directly contrary to the position taken by defendant since such case held that even though the authorization of the agent which was questioned in such case was oral and not reduced to writing as required by sections 1624 and 2309 of the Civil Code, defendant lost the right to object for the first time on appeal that the contract of authorization was invalid because not reduced to writing since he did not at the trial object to the admission of oral evidence to prove the authority of the agent. (See p. 379 et seq., Durbin v. Hillman, supra.)
+The judgment is affirmed and the purported appeal from the order denying the motion for a new trial is dismissed. (Baker v. Rodriguez, 41 Cal.App.2d 58, 63 [105 P.2d 1018].)
+Moore, P. J., and Wilson, J., concurred.
+A petition for a rehearing was denied November 13, 1950, and appellant’s petition for a hearing by the Supreme Court was denied December 21, 1950.
+Section 1624 of the Civil Code reads in part: "The following contracts are invalid, unless the same, or some note or memorandum thereof, is in writing and subscribed by the party to be charged or by his agent: . . .
+"4. An agreement for the leasing for a longer period than one year, or for the sale of real property, or of an interest therein; and such agreement, if made by an agent of the party sought to be charged, is invalid, unless the authority of the agent is in writing, subscribed by the party sought to be charged; ’’
