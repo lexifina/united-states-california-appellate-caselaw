@@ -1,0 +1,44 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 20440"
+decided: "1955-02-21"
+citations: ["131 Cal. App. 2d 39"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHARD GOLD, a Minor, etc., et al., Respondents, v. JOHN HLIVYAK et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/131/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2166535
+cites_cases: ["120 Cal.App.2d 105", "151 P.2d 556", "240 P.2d 580", "260 P.2d 621", "265 P.2d 904", "29 Cal.App.2d 728", "38 Cal.2d 375", "42 Cal.2d 158", "46 P.2d 774", "66 Cal.App.2d 22", "7 Cal.App.2d 484", "85 P.2d 560"]
+---
+
+# Gold v. Hlivyak
+
+## Majority (DRAPEAU, J.)
+
+DRAPEAU, J.
+Richard Gold, hereinafter referred to as plaintiff, is a 12-year-old boy. John Hlivyak, hereinafter referred to as defendant, operated a boys’ club for compensation.
+On Saturday mornings, defendant usually picked up a group of boys in his Plymouth station wagon and supervised them in a program of athletics and recreation.
+On May 3, 1952, he was transporting a group of 16 boys in and around Beverly Hills on their way to a playground in Culver City. The station wagon had a rear window opening upward.
+Plaintiff was one of the first to be picked up. When he got into the station wagon he was carrying a new toy called a “slinky.” This was a coil of fine steel wire, two to three inches in diameter and four inches in length when in repose. When in operation it expanded lengthwise a distance of from 10 to 15 feet.
+The club had a rule that nothing should be dropped or thrown from the windows of the station wagon. However, plaintiff began playing the toy out of the rear window, allowing it to bounce along on the pavement behind the ear.
+Defendant warned plaintiff to be careful with the slinky and not to let it out the back window. But plaintiff continued to do so and defendant took it away from him and put it in the glove compartment of the station wagon.
+After several minutes, plaintiff asked for the return of his toy and promised defendant he would not let it drop out of the window any more. Defendant returned the slinky to him, and plaintiff immediately dropped it out the window. As he did so, he observed other automobiles near the station wagon, and also that the slinky stretched out about 14 feet —far enough to reach a parked car. Shortly thereafter the toy caught, either on a parked car or a passing Cadillac, the coil of wire tightened and amputated three of plaintiff’s fingers.
+The instant action is one for damages for these personal injuries sustained by plaintiff on account of defendants’ alleged negligence and lack of supervision of the minor.
+Defendants denied the negligence and áffirmatively pleaded contributory negligence and assumption of risk.
+At defendants’ request, the trial court instructed the jury-on both of these defenses, including an instruction that voluntary assumption of risk does not require a showing of proximate cause.
+The jury returned its verdict in favor of defendants. And then the trial court granted plaintiffs’ motion for a new trial on the ground of error in giving the instructions based on the defense of assumption of risk.
+Defendants appeal from the order granting such new trial.
+“ The defenses of assumption of risk and contributory negligence are based on different theories. Contributory negligence arises from a lack of due care. The defense of assumption of risk, on the other hand, will negative liability regardless of the fact that plaintiff may have acted with due care. (See Prosser on Torts (1941), p. 377.) It is available when there has been a voluntary acceptance of a risk and such acceptance, whether express or implied, has been made with knowledge and appreciation of the risk. (See Rest., Torts, § 893.) Where the facts are such that the plaintiff must have had knowledge of the hazard, the situation is equivalent to actual knowledge, and there may be an assumption of risk, but where it merely appears that he should or could have discovered the danger by the exercise of ordinary care, the defense is contributory negligence and not assumption of risk. (Hayes v. Richfield Oil Corp., 38 Cal.2d 375, 385 [240 P.2d 580]; see Prosser on Torts (1941), p. 386.) In the present case, the instructions are erroneous since they permitted the jury to find that plaintiff had assumed the risk without finding that she had actual knowledge of the danger. (Hayes v. Richfield Oil Corp., 38 Cal.2d 375, 384-385 [240 P.2d 580]; Plotts v. Albert, 120 Cal.App.2d 105 [260 P.2d 621].)” Prescott v. Ralphs Grocery Co., 42 Cal.2d 158, 161 [265 P.2d 904].
+In his order granting the new trial, the judge gave as his reasons therefor the following:
+“However, as contributory negligence had been pleaded and the jury fully instructed thereon, the giving of these instructions on the subject of ‘assumption of risk,’ with the accompanying declaration of law that proof thereof deprived plaintiff of his right of recovery of damage without proof of proximate cause, was misleading and conducive to a misunderstanding on the part of the jury, resulting in a con- - fusion as to whether proof of proximate cause was any longer in the consideration of the jury, should they adopt the basis upon which risk is assumed by the injured party. The verdict for defendant herein creates an implication that plaintiff had actual knowledge of the danger which resulted in his injury, or it could be interpreted as implying a finding of contributory negligence on plaintiff’s part which in some degree was a proximate cause of his unusual injury.
+“In view of the evidence as a whole, going to make up this case, it becomes apparent that the giving of these instructions on the subject of ‘assumption of risk’ must have resulted in the jury deciding that plaintiff was barred from recovery, regardless of the issue and its component elements based upon the doctrine of contributory negligence. ... It follows herein that the instructions in question should not have been given, particularly when it is made manifest that plaintiff could not have had actual knowledge of any danger whatever in playing his ‘Slinky’ out of the rear window of the station wagon down to, and upon the street pavement.
+“Without that knowledge, required by law to be found to have been established by evidence, the doctrine of assumption of risk is not admissible as a defense herein, and the giving of the instruction thereon was error which requires that the verdict and judgment be set aside and a new trial granted.”
+It is fundamental that a trial judge has a wide discretion in passing upon motions for new trials and “there is no abuse of discretion if a trial judge is justified in feeling that the jury might have been misled by an instruction.” Roberts v. Salmon, 66 Cal.App.2d 22, 26 [151 P.2d 556].
+And as said in Barber v. Quatacker, 29 Cal.App.2d 728, 731 [85 P.2d 560]: “The trial judge has a wide discretion in passing upon motions for a new trial and the fact that a certain instruction has been held proper under certain circumstances does not necessarily mean that it would not be error to use the same or similar language in a case involving different circumstances. In Olinger v. Pacific Greyhound Lines, 7 Cal.App.2d 484 [46 P.2d 774], in considering the relation of the provisions of section 4% of article VI of the Constitution to the granting of a new trial, this court said:
+“ ‘Of course, these provisions are as binding on the trial judge as on the members of an appellate court. This being so we must assume that the trial judge in granting the motion for new trial performed his duty, examined the entire cause including the evidence and concluded that the errors resulted in a miscarriage of justice. In so doing he was required to consider the credibility of the witnesses, their manner of testifying on the stand, and the weight and sufficiency of the evidence. While the trial judge should not lightly set aside a judgment still it is his duty in passing on a motion for new trial to review the cause a second time as a trier of fact and after such review decide the motion. Trial judges are given a wide latitude in exercising a sound discretion in passing on motions for new trial and an order granting such a motion will not be disturbed on appeal unless there has been an abuse of such discretion.’ ”
+An examination of the record herein discloses a failure to establish that the minor plaintiff knew, or was warned, that playing with the slinky was a dangerous pastime and likely to result in serious bodily injury.
+Consequently, assumption of risk was not a defense and it was error to give instructions on that subject.
+The order granting a new trial is affirmed.
+White, P. J., and Doran, J., concurred.
