@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1870"
+decided: "1938-04-14"
+citations: ["25 Cal. App. 2d 714"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. P. GRIGSBY, Respondent, v. CLYDE HAGLER, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/25/cases/0714-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4515161
+cites_cases: ["1 Cal. App. (2d) 470", "100 Am. St. Rep. 154", "100 Md. 558", "107 App. Div. 115", "112 Neb. 154", "120 Cal. 46", "124 Pac. 704", "132 Atl. 278", "140 Am. St. Rep. 21", "142 Cal. 681", "144 Pac. 961", "15 L. R. A. 475", "150 Md. 24", "163 Cal. 31", "167 Ala. 134", "168 Cal. 715", "183 Cal. 149", "190 Pac. 635", "198 N. W. 868", "225 Pac. 19", "27 Am. St. Rep. 223", "29 Pac. 234", "33 A. L. R. 85", "36 Pac. (2d) 1088", "39 L. R. A. 697", "41 L. R. A. (N. S.) 529", "51 So. 951", "52 Cal. 280", "52 Pac. 115", "60 Atl. 469", "65 Cal. App. 634", "65 L. R. A. 88", "76 Pac. 659", "93 Cal. 558", "94 N. Y. Supp. 918"]
+---
+
+# Grigsby v. Hagler
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+This is an action to recover for damages alleged to have been suffered by the plaintiff as a result of frauds practiced by the defendant Belli.
+The facts are not disputed and it was stipulated that the plaintiff had been damaged in the sum of $731. The defendant Hagler was engaged in the wholesale beverage business and the defendant Belli was in his employ. Belli was furnished with a motor truck and sales pad and was authorized to make deliveries of beverages to customers of Hagler and to collect moneys due for products sold to them. The plaintiff was one of these customers and Belli regularly made collections from him. The collections were based upon the number of empty kegs and he was supposed to make out a sales slip, in triplicate, in an amount corresponding with the empties. Instead of doing this he placed a cardboard between the original and the copies and made out the original for the correct amount and the copies for a greater amount than was actually due. He collected from Grigsby upon the copies, turned in the original or correct slip to his employer with the amount of money corresponding thereto, and pocketed the difference. This went on for some months before it was discovered. It is conceded that Hagler had no knowledge of these practices, that he had never authorized such a course of conduct, and that he received none of the excess moneys collected.
+The court found that these acts were done by the defendant while acting in the scope of his employment and in connection with the execution of the duties imposed by his agency. Judgment was entered against both defendants and the defendant Hagler has appealed.
+The appellant contends that these wrongful acts committed by his agent were not within the scope of the employment. He relies on such cases as Miller v. Citizens Nat. Trust etc. Bank, 1 Cal. App. (2d) 470 [36 Pac. (2d) 1088], Walsh v. Hunt, 120 Cal. 46 [52 Pac. 115, 39 L. R. A. 697], Copelin v. Berlin Dye Works etc. Co., 168 Cal. 715 [144 Pac. 961, L. R. A. 1915C, 712], Stephenson v. Southern Pac. Co., 93 Cal. 558 [29 Pac. 234, 27 Am. St. Rep. 223, 15 L. R. A. 475], and Rahmel v. Lehndorff, 142 Cal. 681 [76 Pac. 659, 100 Am. St. Rep. 154, 65 L. R. A. 88]. Those cases are not controlling here since it appears in each of them that the wrongful act in question was one entirely unrelated to the purpose of the agency or was one committed independently of the transaction of any of the principal’s business.
+It is well settled in this state that a principal is liable to third parties not only for the negligence of his agent in the transaction of the business of the agency but also for the frauds or other wrongful acts committed by such agent in and as a part of the transaction of such business. (Civ. Code, sec. 2338; Bank of California v. Western Union Tel. Co., 52 Cal. 280; Johnson v. Monson, 183 Cal. 149 [190 Pac. 635]; Otis Elevator Co. v. First Nat. Bank, 163 Cal. 31 [124 Pac. 704, 41 L. R. A. (N. S.) 529] ; Muehlebach v. Paso Robles S. Hotel, 65 Cal. App. 634 [225 Pac. 19].) In other jurisdictions liability has been imposed upon the principal under circumstances quite similar to those here involved. (New England Mut. Life Ins. Co. v. Swain, 100 Md. 558 [60 Atl. 469]; Jones v. Sherwood Co., 150 Md. 24 [132 Atl. 278] ; Cleaney v. Parker, 167 Ala. 134 [51 So. 951, 140 Am. St. Rep. 21]; Birkett v. Postal Tel. & Cable Co., 107 App. Div. 115 [94 N. Y. Supp. 918] ; Berkovitz v. Morton-Gregson Co., 112 Neb. 154 [198 N. W. 868, 33 A. L. R. 85].)
+Belli was authorized to make these collections, and each was made in the regular course of the employer’s business and in connection with an actual delivery and sale. The only variance from the authorized course of procedure was that the amounts due were misrepresented and sums in excess of the correct amounts were collected. He was able to commit these frauds only because of his possession of the truck and sales pad and because of the fact that he was regularly carrying on this part of his employer’s business. In committing these wrongful acts he did not step aside from the business of his employer but he used that business as a means to accomplish the fraud which was directly connected therewith. Although he exceeded his authority he was not acting without the scope of his employment, and the facts bring this case within the liability imposed upon an employer by section 2338 of the Civil Code.
+The judgment is affirmed.
+Marks, J., and Jennings, J., concurred.
