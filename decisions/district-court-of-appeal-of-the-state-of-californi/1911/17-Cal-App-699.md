@@ -1,0 +1,40 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 885"
+decided: "1911-12-21"
+citations: ["17 Cal. App. 699"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAUD McLAUGHLIN, Respondent, v. RALPH McLAUGHLIN, Appellant."]
+source_url: "https://static.case.law/cal-app/17/cases/0699-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4609880
+---
+
+# McLaughlin v. McLaughlin
+
+## Majority (HALL, J.)
+
+HALL, J.
+This is an appeal by defendant from a judgment in favor of plaintiff and against defendant for the sum of $355.
+Plaintiff, defendant and one Juanita Dowd, who are sisters and brother, were, on the third day of October, 19*09, equal copartners in a certain drug-store or business conducted by them upon property owned by defendant.
+On said day plaintiff and defendant entered into an agreement in writing, signed and executed by them in duplicate, wherein defendant agreed to purchase from plaintiff, and plaintiff agreed to sell to defendant, the interest of plaintiff in said business for the sum of $750, which by the terms of the contract was to be paid by defendant to plaintiff within forty days from the date of said contract. Defendant did not pay said money or any part thereof within said forty days, or at all, but refused to perform said contract, and repudiated the same.
+This action was brought on the eighteenth day *of February, 1910, to recover damages for the breach of said contract on the part of defendant in refusing to pay for and purchase said interest of plaintiff in said business as he had agreed.
+The contract is perfectly certain and unambiguous in its terms, and, as stated in appellant’s brief, “The answer of defendant .admits the execution of the contract, but seeks to avoid the same upon the following grounds:
+“1. The contract alleged does not express all of the agreement of the parties in that the contract was intended to be an option to purchase and not an absolute contract to purchase.
+“2. That the defendant was not competent to execute the contract, and therefore the same was void.
+“3. That the defendant rescinded the contract within a reasonable time, after discovering that the same did not express the contract as he understood it. ’ ’
+Defendant also pleaded that plaintiff, after the expiration of forty days and before the commencement of this action, had brought and prosecuted an action against defendant and the other copartner, Juanita Dowd, to judgment for a dissolution of said copartnership in said drug-store business, and claimed that by such action she was estopped from recovering damages for defendant’s breach of his contract to purchase.
+The court found the facts against the claim of defendant pleaded by him in support of his alleged grounds for avoiding the contract, and also held that the bringing and prosecution of the action for a dissolution did not bar or estop plaintiff from recovering damages for defendant’s breach of said contract to purchase said business.
+We understand appellant to ask for a reversal of the judgment for insufficiency of the evidence to support the findings of the trial court upon the matters above set forth as pleaded as grounds for avoidance of the contract. It is sufficient to say that there is abundant evidence in the record to support the finding of the court. We do not deem it necessary to recite the testimony, for appellant in his brief, as we understand it, only claims that the affirmative matters relied on by him were supported by a preponderance of the evidence. Thus as .to the first ground he states: “In this case by a preponderance of testimony and by the circumstances surrounding the making of the contract it is established that the appellant did not understand the contract to be one of purchase and sale, but merely an option for forty days.” Again he says: “The second defense depends upon practically the same evidence as the first defense. The preponderance of evidence shows that the defendant was drunk or just getting over the effects of a spree. ’ ’
+There is thus no real, contention that there does not exist a conflict in the evidence as to the facts relied on by appellant as constituting what he is pleased to designate his first and second defenses. At any rate, the evidence in the record abundantly supports the findings of the court.
+As to the finding of the court that the defendant did not rescind the contract, it is sufficient to say that the findings being against him as to the matters above discussed, he had no right to rescind. As the contract was not entered into by him through mistake, fraud, or because of any other reason that would make it voidable, he had no right to rescind. (Civ. Code, sec. 1689.) Further, the testimony of plaintiff shows that he never did give her any notice of rescission, the nearest approach thereto being his statement to her that “If he could get out of it, he would not keep his contract. ’ ’
+Appellant further contends that the evidence does not support the finding made by the court that plaintiff was damaged by the refusal of defendant to perform the contract in the sum of $355. The contract called for the payment by defendant of the sum of $750 to plaintiff for her one-third interest in the business. Defendant himself testified that her one-third interest at the time of making the contract and at all subsequent times was of a no greater value than $250. A pharmacist, who had been employed as such for the three years preceding the closing out of the business, testified to the effect that the entire business (that is, the interest of the .three owners), including stock, fixtures, bills receivable and goodwill was worth but $1,000 to a good pharmacist, and but $750 to anyone else. This evidence afforded ample basis for the finding that plaintiff, by defendant’s breach of the contract to purchase her one-third interest, had suffered a damage of $355.
+Appellant in his closing brief also contends that the finding as to damage is not sufficient to support' the judgment. The finding is “That by reason of defendant’s refusal to perform his said part of said agreement to purchase the interest of plaintiff in the property hereinbefore described, plaintiff has been and is damaged in the sum of three hundred and fifty-five dollars.” This finding is ample. It substantially finds in the language of the complaint which sought the recovery of general damages only. The natural and ordinary damages resulting from a breach of a contract may be recovered under a general allegation of damages. (13 Cyc. 175, and eases there cited under note 99.) And a finding that follows the language of a good complaint is all that is required.
+The only other matter that remains to be considered is the contention of the appellant that plaintiff, by bringing and prosecuting to judgment the suit for dissolution of the copartnership, had estopped herself from claiming damages for defendant’s breach of his contract to purchase her interest in said business.
+We can see no element of estoppel in her action. The two actions had no connection with one another. The breach of the contract to purchase w.as complete, and the damages for such breach had accrued before the suit for dissolution was instituted. She had a right to recover her damages for such breach, and as the partnership still existed, she had a right by her action to compel a dissolution and settlement of the partnership affairs.
+Appellant had defaulted and refused to perform his contract to purchase. The subsequent bringing of the action for a dissolution did not alter or in any way change his position with regard to the contract to purchase, which he had already repudiated.
+Neither did plaintiff seek two inconsistent remedies. The remedies she sought grew out of different facts and had no relation to one another.
+The judgment must be affirmed, and it is so ordered.
+Lennon, P. J., and Kerrigan, J., concurred.
