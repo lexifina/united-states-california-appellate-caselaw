@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10502"
+decided: "1937-05-11"
+citations: ["21 Cal. App. 2d 1"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KYOKO NISHI et al., Minors, etc., Respondents, v. VIRGINIA S. DOWNING, Administratrix, etc., et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/21/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4442475
+cites_cases: ["113 Cal. 153", "122 Cal. 114", "214 Cal. 786", "218 Cal. 685", "24 Pac. (2d) 815", "45 Pac. 267", "54 Pac 536", "7 Pac. (2d) 1011"]
+---
+
+# Kyoko Nishi v. Downing
+
+## Majority (NOTJRSE, P. J.)
+
+NOTJRSE, P. J.
+—The plaintiffs are the minor children of K. Nishi, who appears herein as their guardian ad litem, and sue to quiet title to two parcels of real property. The defendants claim under a lien of a judgment entered against one Takeyama, the record holder of the property at the time an attachment was levied. Plaintiffs had judgment from_ which the defendant Downing appeals upon a bill of exceptions.
+K. Nishi was an alien ineligible to acquire this class of property. Takeyama was an American citizen experienced in the purchase and sale of real property. K. Nishi desired to purchase the. property for the benefit of his minor children, who as minors were unable to take title in their own names, <*and Takeyama agreed to act as agent for these parties to bring about the desired result. For this purpose transfers were made in the name of Takeyama, down payments were made by K. Nishi, and two deeds of trust were executed by Takeyama to cover the balance of the purchase price. These called for instalment payments, all of which were made by K. Nishi by checks drawn by him to Takeyama, who immediately paid the same amount by his own check to the grantors. No payments were made by Takeyama at any time from his own funds and no consideration passed from him to the grantors, except that which might have arisen from the promissory notes which he executed at the time of the purchase. Takeyama was sued on an obligation unrelated to this transaction, and a judgment was obtained against him in the sum of $2,062.75. Execution was issued, but restrained in this proceeding. Pending the trial of that action Takeyama transferred all his interest in the property to these plaintiffs. K. Nishi had paid $1800 in cash at the time of the original purchase and instalments aggregating $2,000, leaving a balance of $2,300 due. The plaintiffs had taken immediate possession at the time of the sale, and had erected improvements upon the land so that at the time of the trial the property was found to have a value of $20,000.
+Though several points are advanced in the briefs, the controlling question is whether the creditors may take property standing in the name of the judgment debtor which he holds merely as trustee for another. That such property cannot be subjected to the payment of the debts of the trustee is settled by unquestioned authority. (25 Cal. Jur., p. 212; Murphy v. Clayton, 113 Cal. 153 [45 Pac. 267].)
+Objection is also made to the use of parol evidence to show the existence of the trust, the appellants arguing that a trust in real property can be created only by an instrument in writing within the provisions of section 852 of the Civil Code. But, by the same section, such a trust may be created “by operation of law”, and section 853 declares that a trust results “when a transfer of real property is made to one person, and the consideration therefor is paid by or for another”. It is such a trust that respondents contend for here. The parol evidence was not received to create the trust but to prove its existence. If such evidence were not admissible there would be no need for the third subdivision of section 852, nor for the provisions of section 853, because, if the trust can be created by an instrument in writing only, the so-called resulting trust would be found in the instrument itself and would not arise from the conditions mentioned in section 853. This principle is approved to the extent that parol evidence is admissible to prove the existence of a resulting trust in Polk v. Boggs, 122 Cal. 114, 116 [54 Pac 536],
+Appellants criticize the finding that Takeyama “did not pay any money, purchase price or consideration of any kind of his own in the acquisition of said property”. They argue that he did furnish part of the consideration when he executed the promissory notes for payment of the balance of the purchase price. These notes were secured by deeds of trust covering the properties purchased. The principal sum of the notes was $4,300; the value of the property at the time of the trial was $20,000. In support of the finding the inference could have been drawn that the notes were not taken as a part of the consideration; that the security of the trust deed was deemed sufficient; and that Takeyama did not lend any credit as consideration for the purchase. There is no evidence that he had any credit to lend as consideration.
+Appellants attack the judgment on the ground that the trust was created by an ineligible alien in disregard of the Alien Land Law. This ground is not available to them. If the transaction' offended the alien statute, that was the exclusive concern of the state, and the state alone could challenge it. (Shiba v. Chikuda, 214 Cal. 786 [7 Pac. (2d) 1011]; Hart v. Kanaye Nagasawa, 218 Cal. 685, 696 [24 Pac. (2d) 815].)
+The judgment is affirmed.
+Sturtevant, J., and Spence, J., concurred.
