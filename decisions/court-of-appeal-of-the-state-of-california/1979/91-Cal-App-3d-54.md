@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 16787"
+decided: "1979-03-27"
+citations: ["91 Cal. App. 3d 54"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Staniforth, Acting P. J., and Wiener, J., concurred."]
+parties: ["JOHN C. GREATOREX, Plaintiff and Appellant, v. BOARD OF ADMINISTRATION OF THE CITY EMPLOYEES’ RETIREMENT SYSTEM OF THE CITY OF SAN DIEGO, Defendant and Respondent; CITY OF SAN DIEGO, Real Party in Interest and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/91/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4230942
+cites_cases: ["102 Cal.Rptr. 815", "124 Cal.Rptr. 105", "142 Cal.App.2d 350", "144 P.2d 665", "186 Cal.App.2d 574", "215 Cal.App.2d 587", "254 P.2d 26", "298 P.2d 598", "30 Cal.Rptr. 407", "40 Cal.2d 477", "498 P.2d 1063", "51 Cal.App.3d 300", "62 Cal.App.2d 328", "7 Cal.3d 616", "9 Cal.Rptr. 549"]
+---
+
+# Greatorex v. Board of Administration of City Employees' Retirement System
+
+## Majority (EHRENFREUND, J.)
+
+Opinion
+EHRENFREUND, J.
+John C. Greatorex appeals from a denial of his writ of mandamus by the Superior Court of San Diego County. The single issue on appeal is whether a Workers’ Compensation Appeals Board’s finding that an injury is work related is res judicata in a later application for benefits made to a City Employees’ Retirement Fund. We hold it is and reverse the denial of the writ.
+Greatorex had a heart attack while employed as a fireman by the City of San Diego. He applied to the Workers’ Compensation Appeals Board (Appeals Board) for compensation benefits. The City of San Diego stipulated his injury was work related. On March 30, 1977, the Appeals Board, adopting the stipulation, granted compensation benefits.
+Greatorex also applied to the Board of Administration of the City Employees’ Retirement System (Retirement Board) for a service-connected disability allowance (San Diego Mun. Code § 24.0501). Such allowance is granted only if the injuiy is work related. The application was denied on May 26, 1977.
+Greatorex then petitioned the superior court for a writ of mandamus to set aside the Retirement Board’s decision. He claimed the Appeals Board’s determination of a work-related injuiy was res judicata and the Retirement Board was collaterally estopped from finding his injuiy was not work related. The writ was denied. Greatorex appeals the denial, asserting the same res judicata and collateral estoppel claim.
+For a claim of collateral estoppel to be valid there must be a final determination on the merits in the prior proceedings (Solari v. Atlas-Universal Service, Inc. (1963) 215 Cal.App.2d 587, 592-593 [30 Cal.Rptr. 407]). When the Appeals Board took jurisdiction of the case, it necessarily decided Greatorex was employed and his injuiy was work related. Those two factual determinations become final 20 days after service of the award, when the time for filing a petition for reconsideration has expired (Carter v. Superior Court (1956) 142 Cal.App.2d 350, 356-357 [298 P.2d 598]; Unruh v. Truck Insurance Exchange (1972) 7 Cal.3d 616, 633 [102 Cal.Rptr. 815, 498 P.2d 1063]; Lab. Code § 5903; French v. Rishell (1953) 40 Cal.2d 477 [254 P.2d 26]).
+The Retirement Board contends the decisions of the Appeals Board are not final for five years, basing their contention on De Celle v. City of Alameda (1960) 186 Cal.App.2d 574 [9 Cal.Rptr. 549] and Labor Code sections 5803 through 5805. However, De Celle stands for the proposition that an Appeals Board’s determination finding a work-related injuiy permanent, as opposed to temporary, is not final for five years. Under De Celle and the Labor Code, decisions regarding the amount of the award and the permanence of the disability are not res judicata until the five-year period has lapsed. Those decisions, however, are distinct and separate from the jurisdictional findings of employment and work-related injuiy which become final after the 20-day reconsideration period has lapsed.
+In addition to finality, for a claim of collateral estoppel to be valid, the identical issue must have been previously decided and the party against whom the plea is asserted must have been a party or in privity with a party to the prior adjudication (Solari v. Atlas-Universal Service, Inc., supra, 215 Cal.App.2d 587, 592-593). The issue decided by the Appeals Board was whether Greatorex’s injuiy was work related. The Retirement Board was concerned with the same question. The issues were identical. The parties in the two actions are the same since the city, as employer, was the real party in interest and appeared in both proceedings. (See French v. Rishell, supra, 40 Cal.2d 477, 482.)
+The Retirement Board maintains the Appeals Board’s decision should not operate as a collateral estoppel because the burden of proof was less before the Appeals Board than it was before the Retirement Board. Rule 17 of the rules of the Retirement Board requires evidence be presented on the work-related issue before a decision is made. The Retirement Board’s standard would thus be stricter than the Appeals Board’s which gives firemen who develop heart trouble a presumption that the injury was work related (Lab. Code § 3212). This exact issue was raised by the City of Oakland in French v. Rishell, supra. The French court determined that the difference in burden of proof does not justify any exception to the general rule of res judicata (French v. Rishell, supra, 40 Cal.2d 477, 481). We apply the same rule and reject the Retirement Board’s contention. The decision by the Appeals Board that Greatorex’s injury was work related collaterally estops the Retirement Board from deciding the injury was not work related.
+An independent and additional reason why the city and its Retirement Board cannot deny, the Appeals Board’s findings is that the findings were based on an unqualified stipulation. A stipulation may be a substitute for proof and, if within the authority of the attorneys [here not disputed], is binding on the parties. It is also binding on the court where, as here, the stipulation is not contrary to law, court rule or policy. (Capital National Bank v. Smith (1944) 62 Cal.App.2d 328, 343 [144 P.2d 665]; Estate of Burson (1975) 51 Cal.App.3d 300, 306 [124 Cal.Rptr. 105].) A stipulation is evidence and a stipulated judgment is a decision on the merits (4 Witkin, Cal. Procedure (2d ed. 1971) Res Judicata, § 170, p. 3312). Here, in absence of any claim for equitable relief from the stipulation, the parties and those in privity with them, are all bound to accept the jurisdictional findings of fact made by the Appeals Board.
+The denial of the writ of mandamus was improper. The case is reversed and remanded for a new proceeding consistent with this opinion.
+Staniforth, Acting P. J., and Wiener, J., concurred.
+A petition for a rehearing was denied April 12, 1979, and the petition of all the respondents for a hearing by the Supreme Court was denied June 27, 1979.
+Assigned by the Chairperson of the Judicial Council.
