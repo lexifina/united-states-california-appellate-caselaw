@@ -1,0 +1,43 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B119670"
+decided: "1999-06-24"
+citations: ["73 Cal. App. 4th 31"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH DAKS, Plaintiff and Appellant, v. FRANCHISE TAX BOARD, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/73/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194356
+cites_cases: ["151 Cal.App.3d 504", "156 Cal.App.2d 195", "198 Cal.Rptr. 734", "26 C.F.R. §§ 1.446-1", "292 U.S. 182", "319 P.2d 426"]
+---
+
+# Daks v. Franchise Tax Board
+
+## Majority (VOGEL (Miriam A.), J.)
+
+Opinion
+VOGEL (Miriam A.), J.
+The question in this case is whether pension income earned while a taxpayer is a resident of another state but distributed after the taxpayer becomes a resident of California is taxable personal income in California. We hold that it is.
+Facts
+From 1948 to 1982, Joseph Daks resided in New York, where he was employed by United Merchants and Manufacturers, Inc. or one of its subsidiaries. During his employment, he participated in a noncontributory, qualified defined-benefit pension plan within the meaning of section 401(a) of the Internal Revenue Code. In January 1982, shortly after Daks retired, he elected to receive his pension in the form of “100 monthly payments certain.” Daks received his first pension payment in January 1982, in New York. In May, Daks moved to California, where he continued to receive his monthly pension payments without interruption.
+When Daks filed his California income tax returns for 1984 through 1987, he did not report his pension payments as gross income. In 1989 and again in 1990, the Franchise Tax Board notified Daks that the pension payments he received for the years 1984 through 1987 were taxable income, and that additional taxes would be assessed for those years. Ultimately, the Franchise Tax Board demanded $3,889.17 for 1984, $3,432.25 for 1985, $908.04 for 1986, and $976.60 for 1987. Daks filed protests, which were denied after an informal hearing. Daks appealed, unsuccessfully, to the State Board of Equalization, and the Franchise Tax Board thereafter issued a demand for payment for the years in question. Daks timely paid the amount due, then filed a claim for refund, which was denied. This lawsuit was then filed by Daks. The Franchise Tax Board answered and discovery ensued, after which the parties filed cross-motions for summary judgment. The trial court granted the Franchise Tax Board’s motion, and Daks appeals.
+Discussion
+A.
+Daks and the Franchise Tax Board agree that all 100 pension payments were distributed from a noncontributory, qualified defined-benefit pension plan described in Internal Revenue Code section 401(a); that, for federal income tax purposes, all of these payments are taxable under Internal Revenue Code sections 402(a) and 72(a); and that Daks has not paid any taxes to the State of New York for the pension payments he received after he became a California resident.
+B.
+Our starting point is subdivision (a)(1) of section 17041 of the Revenue and Taxation Code, which provides that taxes at specified rates “shall be imposed for each taxable year upon the entire taxable income of every resident of this state . . . .” Under California’s Personal Income Tax Law (§ 17001 et seq.), income in the form of a distribution from a qualified pension plan is taxed as provided by the Internal Revenue Code provisions governing deferred income. (§ 17501; Int.Rev. Code, § 401 et seq.) Subject to exceptions that do not apply here, section 402(a) of the Internal Revenue Code provides that “any amount actually distributed to any distributee by [the type of pension plan concededly involved here] shall be taxable to the distributee, in the taxable year of the distributee in which distributed . . . .” Plainly, this means that the pension income distributed to Daks while he resided in California (1984 through 1987) was income taxable by the State of California.
+C.
+To avoid this result, Daks contends that, because the amounts distributed to him during 1984 through 1987 “accrued” while he resided in New York, section 17554 precludes taxation by California. Section 17554 provides: “When the status of a taxpayer changes from resident to nonresident, or from nonresident to resident, there shall be included in determining income from sources within or without this state, as the case may be, income and deductions accrued prior to the change of status even though not otherwise "includable in respect of the period prior to that change, but the taxation or deduction of items accrued prior to the change of status shall not be affected by the change.” Daks says that section 17554 applies to all forms of income, including pension plan distributions. The Franchise Tax Board disagrees, contending that taxpayers who use the accrual method must still report income from pension plans during the year that income is distributed. However interesting this dispute may be (and leaving to one side Daks’s concession that the State of New York has not taxed the pension payments he has received since he became a resident of California), we simply assume for the sake of discussion that section 17554 could be interpreted along the lines suggested by Daks. The problem for Daks is that section 17554 is not dispositive.
+D.
+In California, “any amount actually distributed to any distributee by any employees’ trust described in section 401(a) which is exempt from tax under section 501(a) shall be taxable to the distributee, in the taxable year of the distributee in which distributed . . . .” (Int.Rev. Code, § 402(a), incorporated in § 17501.) This is a specific statutory mandate about the manner in which pension distributions are to be taxed in California. Since section 17554 is general in that it does not differentiate between one type of income and any other, the pension-specific provisions of section 17501 trump section 17554. (Wilson v. Board of Retirement (1957) 156 Cal.App.2d 195, 211 [319 P.2d 426] [it “is established that a specific provision relating to a particular subject will govern in respect to that subject, as against a general provision, although the latter, standing alone, would be broad enough to include the subject to which the more particular provision relates”].) In our view, no more needs to be said.
+Disposition
+The judgment is affirmed. The Franchise Tax Board is entitled to its costs of appeal.
+Spencer, P. J., and Ortega, J., concurred.
+Under this payment option, if Daks had died before the 100 monthly payments had been made, the balance would have been payable to his designated beneficiary or to his estate. Since he has lived beyond the 100-payment period, he will continue to receive monthly payments until his death. Daks concedes that all payments made to him beyond the first 100 installments are taxable by the State of California, and the dispute in this case is thus limited to the Franchise Tax Board’s right to tax the guaranteed first 100 payments.
+There are no claims based on the distributions made to Daks for the second half of 1982 or for any part of 1983, notwithstanding that he moved here in May 1982.
+Unless otherwise stated, all section references are to the Revenue and Taxation Code.
+In accounting terms, when the right to receive an amount becomes fixed, definite and certain, the right “accrues.” (Spring City Co. v. Commissioner (1934) 292 U.S. 182, 184-185 [54 S.Ct. 644, 645, 78 L.Ed. 1200].) In California, a taxpayer operating according to the accrual accounting method reports income as gross income when all the events have occurred that fix the right to receive such income and the amount thereof can be determined with reasonable accuracy. (26 C.F.R. §§ 1.446-1, 1.451-1 (1998).)
+It appears that section 17554 and similar statutes in other states exist to preclude discriminatory or double taxation when the resident of one state moves to another. (Altman & Keesling, Allocation of Income in State Taxation (2d ed. 1950) pp. 54-55.)
+Daks’s reliance on Borchers v. Franchise Tax Board (1984) 151 Cal.App.3d 504 [198 Cal.Rptr. 734], is misplaced. The taxpayers in Borchers claimed their pension rights and payments “accrued” in Illinois before they moved to California and that, therefore, they could not be taxed by California. Division Four of our court found there was no “accrual” within the meaning of section 17596 (the predecessor to section 17554), and thus had no reason to consider the issue before us. No case has reached the issue we decide in this case.
