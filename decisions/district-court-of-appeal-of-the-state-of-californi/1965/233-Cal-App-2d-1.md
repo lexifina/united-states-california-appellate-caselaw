@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Ext. No. 65-38"
+decided: "1965-02-17"
+citations: ["233 Cal. App. 2d 1", "43 Cal. Rptr. 691"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ED MACK THORNTON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/233/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149703
+cites_cases: ["253 P.2d 8", "342 P.2d 889", "40 Cal.2d 217", "52 Cal.2d 521"]
+---
+
+# People v. Thornton
+
+## Majority (THE COURT.)
+
+THE COURT.
+This court has received a document headed “Ed Mack Thornton, Plaintiff-Appellant vs. Clerk of the Superior Court William G. Sharp, Respondent-Defendant, Petition for Writ of Mandamus,” which may be regarded as a petition under California Rules of Court, rule 31(a) for relief from a late filing of notice of appeal from the order granting probation, entered May 21, 1963, and the judgment entered April 15, 1964, and the order of December 1, 1964, denying a “Petition for Writ of Error Coram Nobis.”
+An examination of superior court file No. 270892 discloses the following: The petitioner was charged with and found guilty of a violation of section 11531 of the Health and Safety Code. By an order pronounced May 16, 1963, and entered May 21, 1963, proceedings were suspended and petitioner was placed on probation for five years. No appeal was taken from the order. On April 9, 1964, probation was revoked and petitioner was sentenced to state prison. This judgment was entered April 15, 1964. No appeal was taken. On October 21, 1964, the clerk of the superior court received from petitioner a letter in which he asked for an estimate of the cost of preparing and transmitting to him the proceedings of the superior court in his case and another case in which he had been charged with violation of Penal Code, section 12021. Nothing was said about an appeal. The clerk responded promptly with a letter giving the names and addresses of the court reporters and advising petitioner to make arrangements directly with them. On December 1, 1964, the clerk received from petitioner a notice of appeal which declared that petitioner “hereby Appeals ... from the Judgment therein entered in the said Superior Court on the 16 day of March, 1963.” (He must have meant May 16. The information was not filed until March 14, 1963.) This notice of appeal contains nothing to indicate that petitioner believed any earlier notice had been filed on his behalf. The clerk notified petitioner that his notice had been received but not filed under rule 31(a). On December 1, 1964, the superior court also received from the petitioner a document called “Petition for Writ of Error Coram Nobis” which contained, among other things, the statement that petitioner had assumed, until August 18, 1964, that his trial attorney had filed a notice of appeal. This so-called petition for coram nobis was summarily denied by the superior court on the day it was received. This order was entered December 7, 1964. On December 17, 1964, a further notice of appeal from the judgment of April 9, 1964, and the order of December 1, 1964, was received by the clerk of the superior court but not filed under rule 31(a).
+Our conclusions are as follows: (1) The showing made by petitioner is insufficient to persuade us that he actually intended or attempted a timely appeal from the order granting probation or the judgment. The statements contained in his December 1 petition are extremely vague. (2) His notice of appeal received December 17, 1964, is effective as an appeal from the order made December 1, but entered December 7, denying the so-called petition for writ of error coram, nobis. The clerk of the superior court made the error of assuming that the date of the proceedings, rather than the date of the entry, is the effective date. (3) The order made by the superior court December 1, 1964, denying a so-called petition for coram nobis is not appealable. Examination of the petition indicates that, at most, it is a request to the court to vacate the judgment, without stating sufficient legal grounds therefor. No grounds of coram nobis were alleged. The superior court had no jurisdiction to grant relief. Its order did not affect the substantial rights of the petitioner and, hence, it was not appealable under Penal Code, section 1237, subdivision 3. (See People v. Thomas, 52 Cal.2d 521, 527 [342 P.2d 889]; People v. Howerton, 40 Cal.2d 217, 220 [253 P.2d 8].)
+While the clerk has no jurisdiction to determine this issue and should have filed the notice and notified the People under rule 31(c), the only result of our now ordering him to do so would be that we would then dismiss the appeal as soon as it was brought to our attention. Under these circumstances, no interest of the defendant, or of the administration of justice, would be served by granting the present petition.
+The petition is denied.
