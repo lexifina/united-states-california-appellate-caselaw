@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2488"
+decided: "1947-12-23"
+citations: ["83 Cal. App. 2d 80"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOHNNY DOUGLAS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/83/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4434372
+cites_cases: ["112 P. 281", "158 Cal. 650", "185 Cal. 152", "186 P.2d 405", "196 P. 47", "250 P. 857", "30 Cal.2d 879", "79 W.Va. 358", "80 Colo. 284", "92 S.E. 127"]
+---
+
+# People v. Douglas
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+The defendant was tried to a jury and convicted of manslaughter. He appeals from the judgment on the verdict and from the order denying a new trial.
+Defendant was living in an apartment house with one Eugenia West. At 1 a. m. of the night of Nov. 16, 1946, they heard a loud noise of someone knocking at the back door. This door was reached by passing through an alley from the street to the rear of the house and ascending a stairway to a platform facing the kitchen door and a pantry window. Defendant testified that the knocking at that hour frightened him and that he took a loaded revolver, went to the pantry and shot through the window to scare the intruder; that the platform was dark and he saw no one before the shot was fired. He then heard the sound of a body falling to the platform and immediately called the police. They found the victim dead—he was a white man in the uniform of the United States Navy. The defendant and Eugenia West were both colored.
+Appellant’s defense throughout the trial was an admission of the shooting as above described and a plea of justification because of his fear that the intruder was intending to break into his home. In the course of his cross-examination the district attorney asked the appellant, “Has there ever been any prostitution in this house?” An objection was made and sustained and misconduct assigned. Before the court could rule, the district attorney emphasized the error by stating to the jury: “This is just the circumstances of the physical house itself, as to what may have been the reason for this particular person to go there. ’ ’ Another assignment of error was made and the jury was instructed to disregard the question and the remarks of the district attorney. But the court denied appellant’s motion for a mistrial.
+The conduct is plainly reversible error. The question and the remarks of the district attorney were designed for these two purposes—to degrade the appellant before the jury by intimating that he was living in a house of prostitution, and, second, to impress the jury that the deceased, a white man and a member of the Navy, could not have been thought an “intruder” in seeking to enter a “negro” house of prostitution.
+People v. Glass, 158 Cal. 650, 654 [112 P. 281]; People v. Anthony, 185 Cal. 152, 158-159 [196 P. 47]; and a host of cases which it is not necessary to cite demand a reversal of the judgment. See generally 8 California Jurisprudence 626. The legal principle and the reason why such conduct is reversible error are stated in the Anthony case (pp. 158-159) : “In view of the fact that jurors instantly perceive the probative value of such improper testimony and are also unfortunately inclined to attach weight to the insinuations or suggestions of counsel as to the proof in his possession, which is excluded by the rules of law enforced by the court, it is clear that however good the intentions of the jury, or however sincere they may be in endeavoring to follow the instructions of the court to disregard such suggestions, it is well-nigh inevitable that they should give weight to such suggestions. ... It would be as impossible for the jury to believe as it is for us to conceive that the district attorney would ask questions of this character without any information whatever upon which to predicate the question. If he had no such information and sought by a question of that type to instill in the minds of the jury the idea that there was some information in his possession which justified the question, the misconduct would have been immeasurably greater than if the facts were that he had information which justified the question. A district attorney is charged with the public duty of seeing that the defendant has a fair trial. The jury is aware of this fact and must have assumed that he had information which justified the question. . . . The real question is, Has the defendant had a fair trial? . . .
+11 Ordinarily, the prompt sustaining of objections to improper questions, coupled with instructions to the jury to disregard the question, will cure an error of this kind. But where the offense has been repeated in various forms and where the evidence is so evenly balanced and the district attorney after being warned by the court continues in his course, we must hold that the misconduct was so prejudicial as to entitle the defendant to a new trial.”
+The case was a very close one on its facts, and we cannot say that this incident did not tip the scales in the minds of the jurors.
+The defendant complains that Jhe was denied his constitutional right of being present at all stages of the trial. The facts are that, during a recess in the trial, defendant voluntarily left the courtroom and was not present when the trial was resumed. After three or four questions were asked a witness, defendant’s absence was noted and the proceedings were stopped. When defendant returned the same questions were asked again and the same answers were given. No objection was made to the proceeding in the trial court. In discussing the same question our Supreme Court said in People v. Isby, 30 Cal.2d 879, 894 [186 P.2d 405] : “The determinative question is whether or not the accused suffered any damage by reason of absence at a particular stage of the proceedings. (State v. Terrall, 79 W.Va. 358 [92 S.E. 127, 129]; Strong v. People, 80 Colo. 284 [250 P. 857, 859].) ”
+Here the appellant does not suggest any possible damage or prejudice because of the proceeding during his absence and we can find none.
+The judgment and order are reversed and the cause remanded for a new trial.
+Goodell, J., and Dooling, J., concurred.
+A petition for a rehearing was denied January 7, 1948 and respondent’s petition for a hearing by the Supreme Court was denied January 22, 1948.
