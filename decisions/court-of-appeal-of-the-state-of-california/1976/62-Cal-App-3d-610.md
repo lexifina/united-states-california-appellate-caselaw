@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 38374"
+decided: "1976-10-07"
+citations: ["62 Cal. App. 3d 610"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DORIS CASACCIA, Plaintiff and Appellant, v. GREEN VALLEY DISPOSAL COMPANY, INC., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/62/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4492634
+cites_cases: ["100 App.D.C. 68", "115 Cal.Rptr. 765", "12 Cal.3d 382", "123 Cal.Rptr. 812", "194 N.W. 643", "20 Cal.App.3d 867", "215 Kan. 810", "242 F.2d 220", "256 P. 447", "36 A.L.R.3d 900", "486 P.2d 151", "5 Cal.3d 153", "50 Cal.App.3d 116", "525 P.2d 669", "54 Wis.2d 124", "82 Cal.App. 610", "95 Cal.Rptr. 623", "98 Cal.Rptr. 134"]
+---
+
+# Casaccia v. Green Valley Disposal Co.
+
+## Majority (BROWN (H. C.), J.)
+
+Opinion
+BROWN (H. C.), J.
+Appellant’s husband, an employee of the Green Valley Disposal Company, Inc., was injured, allegedly due to the negligent operation and maintenance of the garbage truck on which he was working. He suffered disabling injuries, and appellant, in this action, sought damages for loss of consortium. Her complaint was dismissed following the sustaining of a general demurrer.
+Until the decision of the Supreme Court in Rodriguez v. Bethlehem Steel Corp. (1974) 12 Cal.3d 382 [95 Cal.Rptr. 623, 486 P.2d 151], a wife in California had no right to recover damages for loss of consortium in a case where her husband was injured, although she could recover for this damage in a wrongful death action. In Rodriguez, however, the Supreme Court overruled its prior decisions precluding a wife’s recovery, carefully explaining why the reasons underlying its earlier decision to the contrary no longer obtained.
+Plaintiff, in the instant case, argues that the Supreme Court’s recognition of a cause of action in the wife allows her to pursue this cause of action against an employer where the injury to the husband is compensable under workers’ compensation. The Third District of the Court of Appeal has decided not. “The question is not whether Mrs. Williams’ loss of consortium is compensable, but whether it may be pursued by means of a damage action in the courts of general jurisdiction. Labor Code section 3600 . . . declares that where the conditions of compensation exist, the employer’s liability to pay compensation is in lieu of liability ‘to any person.’ This broad provision bars Mrs. Williams’ attempt to fasten liability for tort damages on the employer. (Gillespie v. Northridge Hosp. Foundation, 20 Cal.App.3d 867, 869-870 [98 Cal.Rptr. 134]).” (Williams v. State Compensation Ins. Fund (1975) 50 Cal.App.3d 116, 123 [123 Cal.Rptr. 812].)
+Plaintiff argues that Williams, the case upon which the trial court relied in sustaining the general demurrer, was wrongly decided. To adopt her position, this court would not only have to disagree with the court’s conclusion in Williams but would have to disagree with the Second District’s decision in Gillespie v. Northridge Hosp. Foundation, supra, 20 Cal.App.3d 867. In Gillespie the court held that a husband’s cause of action for loss of consortium was barred by his wife’s recoveiy under workers’ compensation.
+Both Williams an'! despie decided the issue before them on the basis of an interpret ... ,u of the California statute which refers to liability “to any person.” Gillespie points out that even under statutes more general than California’s, the more recent cases have reasoned “that the workmen’s compensation law was intended to provide a complete and all inclusive scheme for recovery from an employer for industrial injuries” and have barred the wife’s action for loss of consortium. (20 Cal.App.3d at p. 870.)
+This view of legislative intent was voiced as early as 1927 where the court held the workmen’s compensation law barred a suit by parents of a deceased employee. To the argument that, since the act gave them no compensation it had no reference to them, the court answered in part: “Also, section 6a [predecessor of Labor Code section 3600] states that liability for the compensation provided by the act shall be in lieu ‘of any other liability whatsoever to any person.’ We think this declaration of the legislature is not to be regarded in the narrow sense argued by appellants as excluding other liability than to the employee and his dependents alone, but in the broader view of the exclusion of liability on the part of the employer to any person whatsoever by reason of the injury accruing to the employee whether such person be a dependent or nondependent.” (Treat v. Los Angeles Gas etc. Corp. (1927) 82 Cal.App. 610, 616 [256 P. 447].)
+This is still the basic position of the courts in other jurisdictions which have considered the rights of persons other than the employee to pursue causes of action against the employer where the damages resulted from injuries for which compensation has been paid to the employee pursuant to workers’ compensation. (See, e.g., Fritzson v. City of Manhattan (1974) 215 Kan. 810 [528 P.2d 1193, 1195]; see 2A Larson’s Workmen’s Compensation Law, §§ 66.10, 66.20; 36 A.L.R.3d 900, 929-930.) The “independent” nature of the wife’s cause of action is not controlling or even relevant to the question which is one of legislative intent. (See Smither and Company, Inc. v. Coles (1957) 242 F.2d 220, 224-225 [100 App.D.C. 68]; Rosecrans v. Wisconsin Telephone Co. (1972) 54 Wis.2d 124 [194 N.W. 643, 645].)
+The judgment is affirmed.
+Draper, P. 1, and Scott, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied December 2, 1976.
+PlaintifF’s notice of appeal filed on November 5, 1975,- states that the appeal is from “the order and judgment entered herein vacating the court’s order of July 24, 1975 and sustaining defendant’s general demurrer,” a nonappealable order. The superior court file reveals that judgment of dismissal was entered November 6, 1975. Under these circumstances, we construe the appeal as being from the judgment of dismissal and treat it as having been filed after the entry of the dismissal. (See Vesely v. Sager (1971) 5 Cal.3d 153, 158, fn. 2 [95 Cal.Rptr. 623, 486 P.2d 151]; Rodriguez v. Bethlehem Steel Corp. (1974) 12 Cal.3d 382, 388, fn. 1 [115 Cal.Rptr. 765, 525 P.2d 669].)
