@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 30"
+decided: "1930-06-30"
+citations: ["107 Cal. App. 51"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. E. E. LEAVERTON, Appellant."]
+source_url: "https://static.case.law/cal-app/107/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2158306
+cites_cases: ["183 Pac. 874", "263 Pac. 862", "265 Pac. 322", "42 Cal. App. 540", "88 Cal. App. 575"]
+---
+
+# People v. Leaverton
+
+## Majority (CARY, P. J.)
+
+CARY, P. J.
+The defendant, accused of grand theft, was tried hy the court sitting without a jury and found guilty.
+The facts follow: April 27, 1929, defendant and one Lee-son entered into a partnership under the name of Leeson & Leaverton for the purpose of selling electric refrigerating equipment. Leeson furnished the capital and the defendant furnished the knowledge of the business. A firm bank account under the name of Leeson & Leaverton was opened, with Leeson alone authorized to sign checks. The partnership sold refrigerating equipment on conditional sale contracts. When a sale was made it was the custom of the partnership to assign the contract to the Peoples Finance & Thrift Company at a discount, under a form of assignment which, in addition to the words of assignment, contained the following: “The undersigned warrants that this agreement was executed in connection with the sale and delivery to, and acceptance by, the buyer named therein, of the property therein described and that there is now owing thereon the amounts as set forth therein.” June 29, 1929, Leeson and defendant agreed orally that the partnership be dissolved as of July 1, 1929. On July 1, 1929, Leeson signed a number of checks in blank to be used in the future and thereafter had no further connection with the business. Beginning July 9, 1929, Mrs. Bayrich, a clerk in defendant’s office, was authorized to sign checks on this account still carried in the name of Leeson & Leaverton.
+The acts leading up to the defendant’s prosecution were as follows: July 5, 1929, the defendant took to the Peoples Finance & Thrift Company two conditional sales contracts for refrigerating equipment. These were each dated July 3, 1929, and on the back of each was the form of assignment which included the words quoted above. The assignment on one contract bore the signature of defendant, while on the other the signature of defendant had by his direction been written by a clerk in his office. The Peoples Finance & Thrift .Compay purchased these contracts from defendant, giving the defendant two checks made out to Leeson & Leaverton, totaling $502.84 in payment therefor. The checks received were deposited in the bank account of Lee-son & Leaverton, the name of the account not having been changed upon the dissolution of the partnership. This money was disbursed by checks drawn against the account signed by Mrs. Bayrich for the payment of bills against the business and it was also used in part to pay some personal expenses of the defendant. The Peoples Finance & Thrift Company in due course notified the purchasers under the two conditional sales contracts that the installment payments provided for should be paid directly to the Finance Company. Upon failure to receive the payment an investigation was made by the Finance Company, which developed the fact that, while each of the contracts was genuine, yet the property described in the contracts had never been delivered to the purchasers nor had the property called for ever been ordered by defendant from the distributors in Los Angeles. The purchasers under these contracts were both called as witnesses. One of them, who had made the initial payment on his contract to defendant when the contract was signed, testified that after waiting some three weeks for the goods he called up defendant, who informed him they were on the floor of defendant’s office being tested. The purchasers visited the defendant’s office in the defendant’s absence and found that the goods were not there. Defendant on the stand attempted to explain his failure to order the goods from the distributor in Los Angeles and his failure to deliver the goods to the purchasers, but when pressed for direct explanations his answers were such as amply to sustain the conclusion reached by the trial court that defendant had never intended to make delivery of the property called for in the contracts.
+The two. points raised by appellant are that the court erred in admitting in evidence the assignment signed by the defendant’s clerk and that the evidence is insufficient to sustain the judgment.
+As to the admission of the assignment, the signing of his name having been expressly authorized by defendant, a sufficient foundation was thus laid for its introduction in evidence.
+The definition of the crime of theft as given in section 484 of the Penal Code in effect merges under the single crime of theft the former separate crimes of larceny, embezzlement and obtaining money by false pretenses. (People v. Plum, 88 Cal. App. 575, at 582 [263 Pac. 862, 265 Pac. 322].)
+The facts here constitute what was formerly known as obtaining money by false pretenses. The essential elements of that crime are set forth in People v. Rose, 42 Cal. App. 540, at 546 [183 Pac. 874, 876], as follows:
+“ ‘To constitute the offense charged four things must concur and four distinct averments must be proved: 1. There must be an intent to defraud; 2. There must be actual fraud committed; 3. False pretenses must be used for the purpose of perpetrating the fraud; and, 4. The fraud must be accomplished by means of false pretenses made use of for the purpose, viz., they must be the cause which induced the owner to part with his property.’ ”
+We have carefully read the entire transcript and are satisfied that all of the essential elements are shown in the evidence. The judgment is, therefore, affirmed.
+Marks, rJ., and Ames, J., pro tern., concurred.
