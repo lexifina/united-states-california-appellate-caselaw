@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12279"
+decided: "1940-01-10"
+citations: ["36 Cal. App. 2d 490"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIDNEY DAVID LEO, Respondent, v. BOARD OF MEDICAL EXAMINERS OF THE STATE OF CALIFORNIA, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/36/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039842
+cites_cases: ["129 Cal. 244", "190 Cal. 650", "214 Pac. 56", "26 A. L. R. 1302", "61 Pac. 1126"]
+---
+
+# Leo v. Board of Medical Examiners
+
+## Majority (THE COURT.)
+
+THE COURT.
+The Board of Medical Examiners has taken this appeal from a judgment of the trial court granting a peremptory writ of mandate requiring the board to permit petitioner, Sidney David Leo, to take the examination for a physician’s and surgeon’s certificate at the earliest available date.
+Petitioner regularly filed his application with the board for permission to take the examination for a physician’s and surgeon’s license. The application was rejected by the board solely for the reason that it failed to comply with section 2193 (c) of the Business and Professions Code, in that it did not appear that petitioner had been admitted or licensed to practice medicine and surgery in Switzerland, where the university from which petitioner received his degree of doctor of medicine is located. Petitioner, who sought to be examined as an applicant from a foreign medical school approved by the board, was at all times a citizen of the United States and for a number of years had been a resident of the state of California. His grammar school .and high school education was completed in the public schools of the city of New York. Thereafter he fulfilled the requirements of a regular four-year college course in New York University and received the degree of bachelor of science. Petitioner then entered the University of Albert-Ludwig in Germany where he received the first year of his medical instruction. Thereafter he entered the University of Basle in Switzerland, where he completed his medical studies. Both medical schools were approved by the board as complying with the requirements of the Business and Professions Code for resident courses of professional instruction in medicine and surgery. After graduating from the University of Basle, petitioner returned to the United States and served eighteen months in residence in the Los Angeles County General Hospital, which is a hospital approved by the board for interneship. It is conceded that petitioner possesses every required educational and moral qualification and- that his application fully complied with the requirements of the Business and Professions Code, except as to section 2193 (c). The Medical Practice Act, prior to 1935, contained no requirement that applicants from foreign medical schools must be admitted or licensed to practice in the countries in which such schools are located. In 1935 the Medical Practice Act was amended by adding the license requirement which in 1937 became section 2193 (c) of the Business and Professions Code. At that time petitioner had completed all but the last semester of the final year of his medical course. Petitioner’s inability to comply with the provisions of section 2193 (c) ivas due to the fact that he is an American citizen and the laws of Switzerland provide that only citizens of Switzerland can be admitted or licensed to practice medicine in that country.
+Section 2193 of the Business and Professions Code provides as follows: “An applicant, whose application is based on a diploma issued to him by a foreign medical school approved by the board, shall furnish documentary evidence, satisfactory to the board, that:
+“ (a) He has completed a resident course of professional instruction in approved medical schools equivalent to that required in this article for a physician and surgeon applicant.
+“ (b) Subsequent thereto, he has had issued to him a medical diploma.
+“(c) He has been admitted or licensed to practice medicine and surgery in the county where the institution in which he has pursued his medical course of professional instruction is located.
+“(d) He has completed either the senior or fourth or final year in an approved medical school in the United States, or, in lieu of this, that he has served at least one year in residence in a hospital located in the United States and approved by the board for interneship.’’
+It is conceded by the parties that, in general, the subjects covered by the above section as a whole, are proper matters for legislative regulation under the police power. It is contended by the board that the license requirements of the section constitute a reasonable exercise of the police power. Petitioner argues that a requirement that he be admitted to practice medicine in Switzerland is unreasonable, arbitrary and discriminatory and therefore unconstitutional.
+It is the duty of the court in construing legislative enactments to adopt a construction if possible which will harmonize the enactments with the constitutional limitations upon the legislative power. (Wines v. Garrison, 190 Cal. 650 [214 Pac. 56, 26 A. L. R. 1302].) We must decide whether or not the legislature intended that the requirement of subdivision (c) of section 2193 is to be applied to both aliens and American citizens. In 1935, when the license requirement of subdivision (c) was first enacted, it was a matter oí common knowledge, virtually authenticated as a historical fact, that American citizens were prohibited from practicing any profession in many foreign countries, particularly those of Europe. The record in the instant case affords evidence that American citizens cannot be admitted to practice medicine in Switzerland, Germany, France, Japan, Mexico and some of the South American countries. If a strict construction of subdivision (e) should be adopted, the result would be absurd and unjust, for it would favor alien applicants over American applicants, the latter being unable to secure the required license in many foreign countries. It is unreasonable to assume that the legislature could have intended such an unjust result.
+It may be assumed that the legislature was properly informed on the subject-matter concerning which it enacted the statute in question. Bearing in mind the fact that at the time the section in question was adopted American citizens were unable to obtain the required licenses in many foreign countries, it is reasonable to hold that subdivision (e) of section 2193 was intended to apply only to alien applicants. If the subdivision be construed in this way, it has a reasonable and just application and more fully accords with the intention of the legislature. The legislative intent will control a literal construction which leads to injustice and absurdity. “A statute may be construed contrary to its literal meaning when a literal construction would result in an absurdity or inconsistency.” (Carpy v. Dowdell, 129 Cal. 244 [61 Pac. 1126].)
+Judgment affirmed.
+
+## Concurrence (McCOMB, J., Concurring.)
+
+McCOMB, J., Concurring.
+I concur in the judgment.
