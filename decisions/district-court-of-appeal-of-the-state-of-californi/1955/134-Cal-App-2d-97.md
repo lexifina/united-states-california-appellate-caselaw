@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 5202"
+decided: "1955-06-24"
+citations: ["134 Cal. App. 2d 97"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. ROBERT E. MORGAN Appellant."]
+source_url: "https://static.case.law/cal-app-2d/134/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2191029
+cites_cases: ["112 Cal.App.2d 350", "117 P.2d 34", "13 Cal. App.2d 202", "131 P.2d 33", "160 P.2d 102", "169 P.2d 970", "221 P. 622", "246 P.2d 122", "266 P. 807", "277 P. 170", "56 P.2d 549", "69 Cal.App.2d 737", "74 Cal.App.2d 782"]
+---
+
+# People v. Morgan
+
+## Majority (Me COMB, J.)
+
+Me COMB, J.
+Prom a judgment of guilty on four counts of issuing checks without sufficient funds, with intent to defraud, and one count of grand theft, defendant appeals. There are also appeals from orders denying (1) a motion for a new trial, and (2) a motion in arrest of judgment.
+Defendant does not question the sufficiency of the evidence to sustain the judgment but claims that: (a) the court erred in denying his motion for a continuance, thus forcing him to trial without allowing him an opportunity to consult with his counsel and prepare a defense;
+(b) The court had no jurisdiction to try defendant since the trial did not commence within 60 days from the time that the informations were filed against him; (c) The court erred in allowing Mrs. Farr to continue as a juror after it appeared that her husband was employed by the Los Angeles City School Board ; (d) The trial judge erred in allowing the district attorney to state to the jury facts not shown by the evidence; (e) The trial court erred in referring defendant’s case to the probation department and continuing the time of sentence until after receipt of the probation officer’s report; (f) The trial judge erred in ordering that two informations filed against defendant be consolidated for trial; and (g) Defendant was denied a fair and impartial trial for the reasons previously stated.
+Article VI, section 4% of the Constitution of the State of California reads as follows: “No judgment shall be set aside or new trial granted, in any case, on the ground of misdirection of the jury, or of the improper admission or rejection of evidence, or for any error as to any matter of pleading, or for any error as to any matter of procedure, unless, after an examination of the entire cause, including the evidence, the court shall be of the opinion that the error complained of has resulted in a miscarriage of justice.” (Italics added.)
+We have examined the record and are of the opinion the record sustains the verdict of guilty on each count and there has not been a miscarriage of justice in the present case. Hence, since it needs no citation of authorities to support the thesis that this court is bound by the mandate of the Constitution of the State of California, it follows the judgment and order must be affirmed. (People v. Scott, 112 Cal.App.2d 350, 352 [1] [246 P.2d 122], hearing denied by the Supreme Court.)
+It is likewise apparent no useful purpose would be served by an extended discussion of the errors alleged by defendant, which would only be, as indicated in the cases cited in the footnotes, a repetition of principles of law well established in this state and repeatedly reiterated in opinions of the appellate courts. We therefore refrain from further discussion of the alleged errors. (Cf. Thatch v. Livingston, 13 Cal. App.2d 202, 203 [56 P.2d 549].)
+The judgment and orders are, and each is, affirmed.
+Moore, P. J., and Pox, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied July 20, 1955.
+This contention is devoid of merit. The ease was originally set for trial November 25, 1953. On that date defendant’s attorney requested a continuance upon the ground that defendant wanted to make restitution, and that possibly defendant would plead guilty to one of the counts with which he was charged. The court continued the trial to December 23, 1953, on which date at the request of defendant the case was continued until January 14, 1954. On the latter date defendant appeared in court and requested that attorney Lowell Lyons be substituted in place of his previous attorney, and that the case be continued for trial. The court granted the motion for substitution of attorneys but denied the motion for continuance. On January 15, 1954, another motion for continuance by defendant was denied and the ease was tried, attorney Lyons representing defendant at all stages in the proceedings. The record fails to show that defendant suffered any prejudice by this procedure. (People v. Powell, 204 Oal. 109, 113 [266 P. 807]; People v. Whinnery, 55 Gal. App.2d 794, 798 et seq. [131 P.2d 33]; People v. Shaw, 46 Oal.App.2d 768, 772 et seq. [117 P.2d 34].)
+It is settled that where, as in the instant case, a defendant neither objects to going to trial nor makes a motion to dismiss the action under section 1382 of the Penal Code in the trial court, error may not be predicated in an appellate court upon failure of defendant to have an earlier trial. (People V. Scott, 74 Cal.App.2d 782, 783 [169 P.2d 970] ; People v. Newell, 192 Oal. 659, 669 [5] [221 P. 622].)
+The record fails to disclose that Mrs. Parr’s husband was employed by the city school board, therefore error may not be predicated upon a matter which is not within the record. (People v. PHrsehler, 98 Oal.App. 499, 501 [3] [277 P. 170]; People v. Joselyn, 29 Gal. 562, 563.)
+The record discloses that the matters objected to by defendant were predicated upon evidence duly received and in most instances introduced by defendant.
+This contention is devoid of merit for the reason that defendant, when the verdicts of guilty were returned on January 18, 1954, expressly asked leave to file an application for probation which was granted.
+A motion for consolidation is directed to the discretion of the trial court and in the absence of a showing of prejudice, of which there is none in the instant case, an order granting the motion will be upheld by an appellate court. (People v. Johns, 69 Cal.App.2d 737, 740 [1] [160 P.2d 102].) Section 954 of the Penal Code reads in part thus: “An accusatory pleading may charge two or more different offenses connected together in their commission, or different statements of the same offense or two or more different offenses of the same class of crimes or offenses, under separate counts, and if two or more accusatory pleadings are filed in such eases in the same court, the court may order them to be consolidated. ...” The second information filed against defendant charged him with issuing a check without sufficient funds. This was obviously of the same class as that charged in the first information which charged one count of grand theft and three counts of issuing cheeks without sufficient funds. Therefore the trial judge’s order was correct.
+An examination of the record fails to disclose that defendant was denied any constitutional right or that any prejudice resulted from the trial judge’s action or conduct. On the contrary, the record discloses that defendant was accorded a full, fair and impartial trial.
