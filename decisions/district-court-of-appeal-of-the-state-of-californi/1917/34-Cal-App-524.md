@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2278"
+decided: "1917-09-04"
+citations: ["34 Cal. App. 524"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES D. CLARK, Appellant, v. FRANK S. FORBES, as Justice of the Peace, etc., et al., Respondents."]
+source_url: "https://static.case.law/cal-app/34/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029609
+cites_cases: ["103 Pac. 317", "125 Cal. 388", "126 Cal. 418", "131 Cal. 364", "136 Cal. 364", "156 Cal. 82", "159 Pac. 465", "163 Pac. 69", "164 Pac. 792", "174 Cal. 799", "2 Cal. App. 436", "30 Cal. App. 714", "32 Cal. App. 392", "58 Pac. 22", "58 Pac. 941", "59 Pac. 296", "63 Pac. 663", "68 Pac. 1022", "82 Am. St. Rep. 350", "83 Pac. 1077"]
+---
+
+# Clark v. Forbes
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+Appeal from judgment.
+The plaintiff appeals from a judgment denying his application for a writ of review. The judgment sought to be reviewed was rendered by respondent Forbes as justice of the peace of Los Angeles township, in Los Angeles County, in an action wherein John E. Lacey et al. were plaintiffs and James D. Clark was defendant. That judgment was rendered on the twenty-fifth day of May, 1916. The petition for writ of review was filed in the superior court within thirty days thereafter, which therefore was within the time in which an appeal might have been taken from the judgment.
+The writ of review does not lie to review a judgment from which an appeal may be taken. Appellant claims that he had no right of appeal of which he could take advantage, because by taking an appeal he would submit to the jurisdiction and the point upon which he relies is that the justice’s court did not have jurisdiction of the person of him, the said James D. Clark, in that action. The decisions cited and relied upon [by him are In re Clarke, 125 Cal. 388, [58 Pac. 22]; Nisbet v. Clio Mining Co., 2 Cal. App. 436, [83 Pac. 1077]; Security Loan & Trust Co. v. Boston etc. Co., 126 Cal. 418, [58 Pac. 941, 59 Pac. 296]. Those cases merely hold that an appeal involving the merits of an action carries with it a submission of the appellant personally to the jurisdiction of the court. They do not contravene the rule that a defendant may have the benefit of an appeal on questions of law alone, where he has appeared specially for the single purpose of objecting to the jurisdiction of the court over him as a party defendant, and where his appeal is confined to that one question. In Olcese v. Justice’s Court, 156 Cal. 82, [103 Pac. 317], the supreme court said: “This court, has never recognized the right of a petitioner to review the judgment of a justice’s court after appeal taken and determined in the superior court. It has reviewed the judgment of a justice’s court only under such exceptional circumstances as those indicated in Elder v. Justice’s Court, 136 Cal. 364, [68 Pac. 1022], where petitioner’s power to appeal was lost by reason of the fact that he was never notified of the day set for trial, or the rendition of judgment against him. ’ ’ In the present ease •it is clear that at the time when he commenced this proceeding he had the right, and the knowledge which gave him the opportunity to exercise that right, to appeal from the judgment. Therefore he is not entitled to a writ of review.
+It further appears by the petition herein that the demurrer filed by Clark to the complaint in the justice’s court was based not only upon the ground that the court had no jurisdiction over the person of the defendant Clark, but also upon the ground that the court had no jurisdiction of the subject matter of the action. The filing of such a demurrer constituted a general appearance whereby the defendant submitted himself to the jurisdiction of the court. (Roberts v. Superior Court, 30 Cal. App. 714, 720, [159 Pac. 465], and cases there cited; Remsberg v. Hackney Mfg. Co., 174 Cal. 799, [164 Pac. 792].)
+The judgment denying the application for a writ of review recites that the court had before it a full and complete return of the justice’s court, to an “alternative writ” theretofore issued. By its judgment the superior court sets aside the said “alternative writ of review” and denies the “application for the peremptory writ.” We are not familiar with the terms “alternative” and “peremptory” as applied to writs of review. The justice’s return is not shown in the transcript. For this reason alone this court is without a record which would authorize a reversal of the superior court’s judgment. The “answer” filed in this proceeding by the so-called respondents Lacey was a superfluous document, and could not (in the absence of any stipulation) be used to raise any issues in this case. “The return to the writ constitutes the answer, as well as evidence.” (Stumpf v. Board of Supervisors, 131 Cal. 364, [82 Am. St. Rep. 350, 63 Pac. 663]; Donovan v. Board of Police Commissioners, 32 Cal. App. 392, [163 Pac. 69].) Treating the judgment of the superior court as in effect an affirmance of the judgment of the justice’s court, the judgment of the superior court, from which petitioner appealed, is affirmed.
+James, J., and Shaw, J., concurred.
