@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9499"
+decided: "1935-01-22"
+citations: ["4 Cal. App. 2d 58"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARENCE FONSECA, Appellant, v. C. B. GOODWIN, as City Manager, etc., et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/4/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259817
+cites_cases: ["236 Pac. 339", "272 Pac. 757", "71 Cal. App. 633", "95 Cal. App. 289"]
+---
+
+# Fonseca v. Goodwin
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+The plaintiff filed a petition in certiorari against Goodwin, as city manager of the city of San Jose, and against Lynch, as city clerk. A demurrer to the petition was sustained without leave to amend and judgment followed for the defendants.
+The petition alleged that the petitioner was a duly appointed employee of the street department under the classified civil service; that, on October 7, 1932, a complaint was filed “with respondent” charging that petitioner “has wilfully failed, for a long period of time, to pay his just debts, and has filed a petition in bankruptcy in order to avoid the payment of such debts”; that “the matter proceeded to a hearing on said complaint”; and that after said hearing “respondent” made his order discharging petitioner permanently from the service; .that said order “was in excess of and without jurisdiction, and was committed without any substantial or legal cause”. The prayer is that the city manager certify the record leading up to the order of discharge.
+The pertinent provisions of the charter under which the respondents justify the discharge of petitioner are found in section 57 which authorizes the city manager to remove any employee within the civil service—“provided that he must file with the council and the civil service commission a statement of the grounds of the removal and give to the person sought to be removed an opportunity to be heard in his own defense at a public hearing”. (Stats. 1915, p. 1890.) This section was included in the new- charter adopted in 1915 which contained a complete scheme for the so-called “city manager plan” of local government. The old charter, which it supplanted, contained a course of procedure for the filing and trial of charges “in any case of 'removal for cause’ ”. (Stats. 1897, p. 629.)
+It should be noted that the charter does not provide for the filing of charges,, nor that the employee can be removed only “for cause” or after a finding sustaining any charges made and heard. A reading of the civil service provisions of the charter would indicate that the public hearing is for the sole purpose of permitting the employee to publicly present his side of the controversy and thus deter arbitrary or capricious removals by the manager. In this respect the charter is similar to that of the county of Los Angeles which was interpreted in Cronin v. Civil Service Commission, 71 Cal. App. 633 [236 Pac. 339]. The county charter relating to removals of civil service employees required that the person should be “presented with the reasons for such discharge” and “allowed a reasonable time . . . to reply thereto in writing”. Mr. Justice Curtis, speaking for the court, referred to the number of standard works upon the principles of civil service legislation as indicating the trend to extend the power of removal as necessary to the discipline and efficiency of the service, and approving the legislation which checks abuse of this power by requiring written reasons for the removal to be filed with an opportunity given the person removed to put his answers on record. There is very little difference between the provisions of the -Los Angeles county charter and that of the city of San Jose. The one permits the person removed to file his reply as a public record with the civil service commission, the other permits him to state his defense at a public hearing. Neither charter provides for nor contemplates a trial upon charges made, and neither requires a judgment of discharge resulting from a trial of charges. The same principle is followed in Krohn v. Board of Water & Power Commrs., 95 Cal. App. 289, 295 [272 Pac. 757, 759], where the court, citing a number of New York cases to the rule, said: “In the state of New York it has been held that a provision of a statute in effect that a civil service employee shall not be removed ‘until he has been informed of the cause of his removal and has been allowed an opportunity for explanation,’ is clearly distinguishable in its procedural requirements from a provision which provides for removal of such an employee ‘for cause after opportunity to be heard’.”
+For these reasons the petition failed to state a cause of action in certiorwi'i. In the first place it does not allege that any judicial or quasi-judicial action was taken by either respondent which is subject to review. In the second place the order of discharge made by the city manager was a ministerial act and as such not subject to review in certiorari. This follows for two reasons—the charter does not confer upon the city manager any power to “hear and determine” which are necessary elements of the exercise of judicial functions; and the charter does not require that any officer or commission must try and sustain the charges or reject the defense before the removal can be made effective.
+The judgment is affirmed.
+Sturtevant, J., and Spence, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on March 21, 1935.
