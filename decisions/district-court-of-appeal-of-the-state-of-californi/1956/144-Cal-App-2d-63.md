@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1074"
+decided: "1956-08-20"
+citations: ["144 Cal. App. 2d 63"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. EDWARD I. DOMINGUEZ, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/144/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2201332
+cites_cases: ["134 Cal.App.2d 594", "264 P.2d 513", "282 P.2d 905", "286 P.2d 582", "290 P.2d 535", "290 P.2d 852", "291 P.2d 469", "292 P.2d 513", "293 P.2d 40", "339 U.S. 56", "41 Cal.2d 756", "44 Cal.2d 434", "45 Cal.2d 652", "45 Cal.2d 751", "45 Cal.2d 776", "46 Cal.2d 151", "46 Cal.2d 68", "94 L.Ed. 653"]
+---
+
+# People v. Dominguez
+
+## Majority (BURCH, J. pro tem.)
+
+BURCH, J. pro tem.
+Defendant was charged and convicted of the possession of a narcotic (Health & Saf. Code, §11500); with one prior felony conviction (stealing a vehicle). He appeals from the judgment and order denying a new trial. The question raised concerns the use of evidence obtained by a police officer by a search of defendant’s home without a search warrant. (Cal. Const., art. I, § 19.)
+A few minutes before midnight on October 17, 1955, William A. Palm, a San Diego police officer saw the defendant in the 3700 block of 44th Street, San Diego, in company with one Maxie. The officer had information over the police radio system to be on the lookout for the men on suspicion of possession of narcotics. No narcotics were found on defendant’s person but he was arrested on suspicion of possession and taken to the San Diego jail. When arrested, defendant’s arms had wounds as from pin pricks, one of which looked to be freshly made and was bloody. At about 2:30 p. m. on the day after defendant was taken into custody Officer William E. Erb, without defendant’s knowledge and without first obtaining a warrant, went to defendant’s home at 3625 Highland Street, San Diego, and knocked at the door. Mrs. Dominguez, defendant’s wife, opened the door. The officer identified himself and asked for permission to enter and look around. Mrs. Dominguez was aware of her husband’s arrest. She said she “guessed” that it would be all right and later testified at the trial that she “voluntarily” let the officer enter. Mrs. Dominguez testified as to her feelings when she opened the door and allowed the officer to enter. “Well, I was naturally upset. My husband had just been arrested, and the baby was due. That’s all.” Upon entering the kitchen, on a ledge under the sink, the officer found wrapped in a soiled handkerchief, a small fold of paper that contained some grayish powder; a spoon with a ball of cotton adhered in the bowl; a syringe and needle; two hand rolled cigarettes and a package of Lucky Strikes. These items were taken to the police station. The powder was found to be a narcotic, heroin; the spoon and cotton had traces of heroin; and the hand-rolled cigarettes were found to contain marihuana.
+The record shows that Mrs. Dominguez had rented the premises at 3625 Highland Street in June of 1955, and defendant had lived there with his wife and children until the arrest. According to Dr. Williams, a licensed physician, an examination of defendant at 1:45 a. m. showed defendant to be under the influence of a narcotic.
+Defendant contends that no justification appears here for entry without a warrant; that his wife’s consent is not a . justification; that her apparent consent was not a real consent, and hence the evidence was inadmissible under People v. Cahan, 44 Cal.2d 434 [282 P.2d 905].
+On the other hand, the attorney general contends that the ■ consent was freely given; that the constitutional right to be free from searches and seizures may be waived by the person in charge of the premises, and was waived in this case. Also in its brief the state makes the point that the notice of appeal ' was not timely filed, but this point was waived at argument. It is immaterial that the seizure came after the arrest. (In re Dixon, 41 Cal.2d 756, 761 [264 P.2d 513]; People v. Boyles, 45 Cal.2d 652 [290 P.2d 535] ; People v. Coleman, 134 Cal.App.2d 594 [286 P.2d 582].) It is true that the search was “contemporaneous” with the discovery from the doctor’s examination that defendant was under the influence of a narcotic. (The examination begun at 1.45 a. m. was followed by the search at 2:30 p. m.) In People v. Winston, 46 Cal.2d 151, 163 [293 P.2d 40], the court gives its approval of the test for reasonableness as stated in United States v. Rabinowitz, 339 U.S. 56 [70 S.Ct. 430, 94 L.Ed. 653]. “ ‘The relevant test is not whether it is reasonable to procure a search warrant, but whether the search was reasonable. ’” A further quote from the Rabinowitz case fits the circumstances here:
+“Upon acceptance of this established rule that some authority to search follows from lawfully taking the person into custody, it becomes apparent that such searches turn upon the reasonableness under all the circumstances and not upon the practicality of procuring a search warrant, for the warrant is not required.”
+In the Rabinowitz case the prisoner was taken into custody on February 1, 1943, and the search of his premises followed his arrest by five days. Here the arrest was at midnight and the search was made in the daytime at 2:30 p. m. on the next afternoon. It is usual for the wife in the home, while the husband is away, to determine whether visitors may enter the home. Here the wife gave her express permission. This eliminates all question of fraud, force or trespass. (See People v. Michael, 45 Cal.2d 751 [290 P.2d 852] ; People v. Gorg, 45 Cal.2d 776, 783 [291 P.2d 469]; People v. Caritativo, 46 Cal.2d 68, 73 [292 P.2d 513].)
+The motion for a new trial was properly denied. The judgment is affirmed.
+Barnard, P. J., and Mussell, J., concurred.
+Assigned by Chairman of Judicial Council.
