@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5634"
+decided: "1927-11-12"
+citations: ["86 Cal. App. 659"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. W. BURGESS, Respondent, v. N. V. DORAN, Appellant."]
+source_url: "https://static.case.law/cal-app/86/cases/0659-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2103333
+cites_cases: ["107 Cal. 298", "112 Cal. 4", "141 Cal. 161", "147 Pac. 238", "161 Pac. 750", "169 Cal. 545", "173 Cal. 743", "173 Pac. 1013", "236 Pac. 156", "37 Cal. App. 268", "40 Pac. 422", "44 Pac. 318", "67 Cal. 302", "7 Pac. 721", "71 Cal. App. 713", "74 Pac. 700"]
+---
+
+# Burgess v. Doran
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The plaintiff commenced an aetion in unlawful detainer against the defendant. The defendant appeared and answered. A trial was had before the trial court sitting with a jury. The jury returned a general verdict in favor of the defendant. The plaintiff moved for a new trial. The motion was based on all of the statutory grounds except as to excessive damages. The trial court granted the motion and in its order it did not specify on which of the grounds of the motion it based its order. The defendant appealed under section 953a of the Code of Civil Procedure.
+The defendant makes several points which are not controverted by the plaintiff, but in support of the order the plaintiff calls to our attention the condition of the record and contends that the trial court did not err in granting the motion. In this connection we think the plaintiff must be sustained.
+In the defendant’s answer an equitable defense was pleaded. In brief, that equitable defense was that the plaintiff had by certain conduct granted to the defendant a renewal, for a ten-year period, of a lease which it is conceded commenced on October 2, 1915, and expired October 2, 1925. After the jury had been impanelled the plaintiff and defendant stipulated to such facts that there remained no issue to be tried except the issues presented by the equitable defense. The defendant proceeded to introduce her evidence and the case was duly presented to the court and jury. On submitting his case the plaintiff presented and requested the trial court to submit to the jury certain special issues, but they were not presented to the jury by the court. On the other hand, the court gave to the jury two forms of general verdicts—one in favor of the plaintiff and one in favor of the defendant. The jury returned a general verdict in favor of the defendant. Later the plaintiff made concurrently two motions. One motion was in the form of a request for the trial court (1) to disregard and ignore the verdict; (2) to decide and determine said action and file its findings; (3) to decide and determine the equitable issues and file its findings; and (4) to decide and determine all of the equitable issues tendered by the answer and to file its findings. The other motion was the motion for a new trial which we have noted above. The trial court ignored the motion to file findings, etc., and decided the motion for a new trial in favor of the moving party.
+The grounds on which the motion for a new trial was based included attacks that the evidence was insufficient to support the verdict and that the verdict was against law. The defendant contends that, as the order granting the motion did not specify that one of the grounds on which it was based was the insufficiency of the evidence to sustain the verdict, therefore it will be presumed on appeal that the order was not based upon that ground. However, if any one of the other grounds is supported by the record the order appealed from should be affirmed. The verdict was against law for two different reasons.
+The plaintiff requested and the trial court instructed the jury as follows: “You are hereby instructed that any agreement for the leasing of the Land Hotel for a longer period than one year is invalid and not binding unless the agreement or some note or memorandum thereof was in writing and was signed by Mr. Burgess and was delivered to Mrs. Doran.” It is not contended that the instruction was erroneous. (Civ. Code, sec. 1624, subd. 5.) The evidence was all one way and it is not even claimed that any writing renewing the term was ever delivered to Mrs. Doran. The plaintiff contends that under these facts the document which the defendant claims to be a lease in legal effect was no lease. (Civ. Code, sec. 1626; Feigenbaum v. Aymard, 71 Cal. App. 713 [236 Pac. 156].) The authorities clearly sustain the plaintiff’s contention. It is equally clear that on the record as made “the verdict . . . is against law.” (Code Civ. Proc., sec. 657, subd. 6; Larrabee v. Western Pacific Ry. Co., 173 Cal. 743 [161 Pac. 750].)
+In the next place the verdict of the jury on equitable issues was purely advisory. (Haggin v. Raymond, 67 Cal. 302 [7 Pac. 721]; Adams v. Helbing, 107 Cal. 298 [40 Pac. 422]; Swift v. Occidental Min. etc. Co., 141 Cal. 161, 166, 167 [74 Pac. 700]; Bradley Co. v. Bradley, 37 Cal. App. 268, 276 [173 Pac. 1013].) The trial court should have made findings thereon and until findings were made the record was incomplete. (Vallejo etc. R. R. Co. v. Reed Orchard Co., 169 Cal. 545, 556 [147 Pac. 238].) In such eases where the trial court fails to make findings it has also been held that the verdict is against law and a new trial should be granted. {Haight v. Tryon, 112 Cal. 4, 6 [44 Pac. 318].)
+The judgment is affirmed.
+Koford, P. J., and Nourse, J., concurred.
