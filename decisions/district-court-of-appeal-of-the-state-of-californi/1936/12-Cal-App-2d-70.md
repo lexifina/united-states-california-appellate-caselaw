@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10819"
+decided: "1936-02-21"
+citations: ["12 Cal. App. 2d 70"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY J. COOK, Respondent, v. WILLIAM DORON COOK, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/12/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2265520
+cites_cases: ["141 U. S. 510", "188 Pac. 612", "45 Cal. App. 654"]
+---
+
+# Cook v. Cook
+
+## Majority (WOOD, J.)
+
+WOOD, J.
+Plaintiff commenced this action to quiet her title to a parcel of real estate in the county of Los Angeles, the complaint containing the usual allegations in actions of the kind. Defendant William Doron Cook appeals from a judgment in plaintiff’s favor.
+In his answer appellant alleges the following: From 1913 to 1917 he performed labor upon a ranch situated in Riverside County owned by his parents, William H. Cook and Mary J. Cook. On March 11, 1926, he and his parents agreed upon the sum due for the labor and they then signed and delivered to him a note in the following language: “At our option before death, or to be collected from the estate of the last survivor of us after death, for value received, I, we, or either of us, promise and agree to pay William Doron Cook and Marie C. Cook, husband and wife, now of Los Angeles, California, or order, the sum of Thirty-five Hundred and no/100 ($3,500) Dollars, with interest thereon at the rate of seven per cent. (7%) per annum, from the first day of September, 1917, both principal and interest payable in gold coin of the United States, at the City of Los Angeles, in the County of Los Angeles, State of California. This note is given in full .payment and settlement of the balance now due, for services rendered to the undersigned by William Doron Cook, upon the ranch property at Riverside, California, in which the undersigned had an interest, and which property was held and recorded in the name of William H. H. Goodwin, who was also interested in said ranch with the undersigned.” The answer further sets forth: “That at the time of the delivery of said instrument to this defendant, William H. Cook and Mary J. Cook and each of them did represent that it was the intention of said William H. Cook and Mary J. Cook that the indebtedness agreed to be paid in said instrument, at the time and in the manner therein specified, should be secured by a lien upon all real property then owned by William H. Cook and Mary J. Cook, or either" of them, and that by said instrument a lien was so created. ” It is further alleged in the answer that appellant accepted the instrument with the understanding that the instrument created a lien in his favor. On August 30, 1929, a new instrument was executed by William H. Cjook and Mary J. Cook in the same language as the note of May 11,1926, except that the name of Marie 0. Cook does not appear therein as payee. Appellant makes allegations with referende to the intentions, representations and understanding of the parties similar to the allegations concerning the note dated May 11, 1926. William H. Cook died October 2, 1930. According to the answer, appellant was advised on November 12, 1930, that the instrument held by him did not create a lien upon plaintiff’s property and he-thereupon filed a claim of lieu, in the recorder’s office. On July 1, 1932, Mary J. Cook desired to execute a mortgage on her property in the sum of $1,000 and upon her request appellant released his claimed lien but on July 20, 1932, caused another and similar claim of lien to be filed. Appellant further alleges in his answer that plaintiff has conveyed a substantial portion of her property to her daughter without consideration. He seeks to have the court impress the Los Angeles real estate owned by plaintiff with a lien in his favor in the sum of the note.
+The trial court sustained plaintiff’s objection to the introduction of evidence in support of the allegations above set forth and this ruling is attacked by appellant. No documentary evidence was offered other than the promissory note and appellant admitted in court that he had none to offet. The instrument in question is complete and free from ambiguity. Parol evidence cannot be received to contradict, add to or subtract from its terms. (Sec. 1856, Code Civ. Proc. Jones’ Commentaries on the Law of Evidence in Civil Cases, vol. 3, 1913 ed., p. 145; Offerdahl v. Brydges, 45 Cal. App. 654, at p. 655 [188 Pac. 612]; Seitz v. Brewers’ etc. Machine Co., 141 U. S. 510 [12 Sup. Ct. 46, 35 L. Ed. 837].) The execution of the instrument superseded all the stipulations, which preceded or accompanied its execution. (Sec. 162$, Civ. Code.) Appellant cannot obtain the relief sought without the presentation of an instrument in writing providing thjerefor. (Sec. 1971, Code Civ. Proc.) This he has not done.
+The judgment is affirmed.
+Crail, P. J., and Gould, J., pro tem., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on April 20, 1936.
