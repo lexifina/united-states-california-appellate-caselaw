@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3979"
+decided: "1962-01-10"
+citations: ["199 Cal. App. 2d 57"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. FRANK R. WISE, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/199/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2315151
+cites_cases: ["13 Cal.Rptr. 238", "13 Cal.Rptr. 881", "145 Cal.App.2d 44", "165 P.2d 3", "166 Cal.App.2d 68", "181 P.2d 868", "192 Cal.App.2d 207", "193 Cal.App.2d 13", "203 P.2d 572", "27 Cal.2d 478", "30 Cal.2d 362", "301 P.2d 886", "332 P.2d 811", "90 Cal.App.2d 558"]
+---
+
+# People v. Wise
+
+## Majority (KAUFMAN, P. J.)
+
+KAUFMAN, P. J.
+Defendant, Frank R. Wise and David A. Chavez were jointly charged with the burglary of a building in San Francisco on December 30, 1960. After duly waiving a jury, defendant was tried separately, and found guilty of burglary in the second degree (Pen. Code, §§459, 460). On this appeal from the judgment of conviction, he contends that the evidence is insufficient to support the judgment and that the trial court erroneously admitted certain evidence. We find no merit in these arguments.
+The People preliminarily point out that although the written notice of appeal was not filed until 14 days after the rendition of the judgment, the notice was delivered to prison authorities within the jurisdictional 10-day requirement of rule 31(a) of the Rules on Appeal (People v. Spencer, 193 Cal.App.2d 13 [13 Cal.Rptr. 881]; People v. Slobodion, 30 Cal.2d 362, 368 [181 P.2d 868]).
+The record reveals the following facts: On December 30, 1960, at about 3 :30 p. m., Ernest G. Batchelor left his painting contracting office and shop at 3420 Eighteenth Street in San Francisco, leaving everything in good order. When he opened the shop at 9:30 the next morning, he found that the office had been ransacked, A typewriter, adding machine, check protector and other office equipment were missing, along with tools, electric drills, a large amount of paint brushes, the firm’s Standard Oil Station service cards, 2,000 blank payroll cheeks and one of the company trucks. He discovered that one of the back windows 7-8 feet above the ground, was broken. Several empty 5-gallon paint buckets were stacked up under the window. There was also a rolled-up ball of black electrical tape with slivers of glass on it. The fingerprint found on the tape matched that of the defendant.
+At the time of the burglary, the defendant lived at the Star Hotel at 2176 Mission Street. The back yard of the hotel faced the side of the Batchelor premises. A stairway at the rear of the hotel led to the back yard of the hotel, which was separated from the back window of the Batchelor premises only by a small fence. On December 31, Chavez was arrested while knocking on the door of the defendant’s room and had the stolen credit cards. Subsequently, a portion of the stolen property was recovered at the Oakland home of the mother-in-law of one of the defendant’s friends, Jack Van Steen.
+Defendant admitted knowing Chavez but denied knowing Van Steen, although he had “seen him around.” A police officer testified that immediately after his arrest, the defendant admitted knowing Jack Van Steen as a friend. Defendant denied any participation in the burglary, and explained the presence of his fingerprint on the tape because the tape had been stolen from his room. He also relied on several alibi witnesses who testified that on the evening in question, they were drinking with the defendant at a bar across the street from the hotel, and then after 2 a. m., talked to him in the lobby of his hotel and in his room.
+The first contention on appeal is that the presence of the defendant’s fingerprint on the tape found at the scene of the crime falls short of the quantum necessary to overcome the presumption of innocence, as circumstantial evidence is relied upon to establish the guilt of the accused. Defendant also argues that the trial court drew improper inferences from the fingerprint and from the recovery of the stolen property at the home of one of his friends. We cannot agree.
+On appeal, we must assume every fact and inference in favor of the judgment. The right to draw proper inferences from the evidence is a function of the trier of fact, and so long as its conclusions do not do violence to reason or challenge credulity, an appellate court will not reweigh the evidence (People v. Rodis, 145 Cal.App.2d 44, 47 [301 P.2d 886]). Here, the defendant’s fingerprint was found on the tape which can be used as a burglary tool. As we recently pointed out in People v. Beem, 192 Cal.App.2d 207 [13 Cal.Rptr. 238], at page 211: “It is well established that fingerprints are the strongest evidence of identity of a person and under proper circumstances alone sufficient to identify the defendant as a criminal (People v. Adamson, 27 Cal.2d 478 [165 P.2d 3]). . . .’’ The trial court was not required to believe the defendant’s testimony as to how his fingerprint came to be on the tape, or that of the defendant’s witnesses, as to his whereabouts at the time of the offense. There can be no question that under the facts presented, there was ample evidence to sustain the trial court.
+The final contention is that the trial court erred in permitting the introduction of Officer Smith’s testimony about the defendant’s friendship with Van Steen. This testimony, although hearsay, was evidence of an admission of the defendant and as such clearly admissible as an exception to the hearsay rule (Code Civ. Proc., § 1870, subd. 2; People v. Lindsey, 90 Cal.App.2d 558-565 [203 P.2d 572]), and also to impeach the testimony of the defendant. Defendant also argues that no proper foundation was laid for this testimony. This argument is likewise without merit as the record reveals that the foundation was subsequently established (People v. Grace, 166 Cal.App.2d 68 [332 P.2d 811]).
+No error appearing in the record before us, the judgment must be and is hereby affirmed.
+Shoemaker, J., and Agee, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied March 7, 1962.
