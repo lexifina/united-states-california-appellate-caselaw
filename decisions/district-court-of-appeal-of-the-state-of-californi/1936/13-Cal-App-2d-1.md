@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10887"
+decided: "1936-03-30"
+citations: ["13 Cal. App. 2d 1"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY SCHWAB et al., Appellants, v. SCHWAB-WILSON MACHINE CORPORATION, LIMITED (a Corporation), et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/13/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263449
+cites_cases: ["118 Wis. 112", "170 N. E. 917", "194 Mass. 518", "239 App. Div. 38", "253 N. Y. 274", "265 N. Y. Supp. 172", "28 Pac. 788", "80 N. E. 450", "93 Cal. 17", "94 N. W. 69", "99 Am. St. Rep. 977"]
+---
+
+# Schwab v. Schwab-Wilson Machine Corp.
+
+## Majority (GOULD, J., pro tem.)
+
+GOULD, J., pro tem.
+Plaintiff Schwab, defendant Wilson and one Williams constituted the board of directors of defendant corporation, the stock of which was so distributed among the three directors and plaintiff Seifert that no one stockholder owned sufficient to exercise voting control. In this action it is alleged that while plaintiff Schwab was suffering from an extended illness the other two directors, without notice of any kind to him, secured permission from the state commissioner of corporations to issue additional stock, and that defendant Wilson thereupon and without allowing plaintiffs or any other stockholder to purchase any of the new stock, bought sufficient to give him a total amount exceeding by one share the combined total of all other stock authorized, both issued and unissued. In other words, it is charged by the complaint that defendant Wilson, by the acts complained of, converted his position from that of a minority to that of a majority stockholder. Williams, the director acting with defendant Wilson, was the owner of only a single share of stock. Some two months after Wilson purchased the new stock he transferred it to defendant Higgins, his brother-in-law, residing in his home.
+At the trial both plaintiffs testified as to their willingness, desire and ability to purchase and pay for a part of the new stock proportionate to their former holdings in the corporation. Evidence also was received to the effect that the book value of the stock at the time of the new issue was in excess of par, at which it was sold to defendants. The trial court at the conclusion of plaintiffs’ case granted defendants’ motion for nonsuit, and judgment was entered accordingly. Plaintiffs appeal.
+From the corporate entity arise a group of contractual relationships between the corporation, its stockholders, directors and officers. A corporate director acts in a fiduciary capacity, not only towards the corporation itself (Cal. Jur., vol. 6A, p. 1100), but also towards the stockholders. As expressed in Wickersham v. Crittenden, 93 Cal. 17, 29 [28 Pac. 788] : “The directors of a corporation hold a fiduciary relation to the stockholders and have been entrusted by them with the management of the corporate property for the common benefit and advantage of each and every stockholder, and by their acceptance of this office they preclude themselves from doing any act or engaging in any transaction in which their private interest will conflict with the duty they owe to the stockholders, and from making any use of their power or of the corporate property for their own advantage.” While stockholders have no preemptive right to subscribe to new issues of stock (Civ. Code, sec. 297), nevertheless they have the right to demand that directors and officers of the corporation do not use their positions for their own personal advantage, or to discriminate between stockholders, or to so cause stock to be issued as to make a profit for themselves or to obtain or retain control of the corporation. (Fletcher, Private Corporations, vol. 11, p. 217.)
+Courts generally have frowned upon the practice alleged by plaintiffs in this action. A typical judicial expression is found in Dunlay v. Avenue M. etc. Co., 253 N. Y. 274 [170 N. E. 917], as follows: “One formula of fair dealing is universally recognized, i. e., directors may not authorize the issue of unissued shares to themselves for the primary purpose of converting them from minority to majority stockholders.” See, also, Hammer v. Werner, 239 App. Div. 38 [265 N. Y. Supp. 172], Elliott v. Baker, 194 Mass. 518 [80 N. E. 450], and Luther v. C. J. Luther Co., 118 Wis. 112 [94 N. W. 69, 99 Am. St. Rep. 977], where the same doctrine is approved.
+Appellants have a further argument in their favor in that the application to the commissioner of corporations contained the statement that the corporation proposed to issue additional stock “to its present stockholders”, and the permit for issuance of stock authorized the sale to the stockholders, designating them, including plaintiff Schwab, by name.
+There is no point in respondents’ contention that appellants may not be heard to complain for the reason that the stock was sold for value and without fraud as against the corporation. The essence of this case is not fraud against the corporation but fraud of one director against his fellow director and fellow stockholders.
+The facts of this case are such that in our opinion it was error for the court to grant defendants’ motion for nonsuit. A situation was disclosed calling for the exercise of the court’s equitable cognizance, and inasmuch as evidence of a substantial character favorable to plaintiffs and tending to establish the averments of the complaint was before the court, defendants should have been compelled to present such defenses as they might have, to the end that the court could equitably determine the respective rights of the litigant shareholders.
+Judgment reversed.
+Wood, J., and Crail, P. J., concurred.
