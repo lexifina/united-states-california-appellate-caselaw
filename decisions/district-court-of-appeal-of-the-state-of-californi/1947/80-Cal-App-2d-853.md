@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7333"
+decided: "1947-07-15"
+citations: ["80 Cal. App. 2d 853"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES O. BUSICK, JR., as Trustee, etc., Respondent, v. FRED MANDEVILLE et al., Defendants; GERTRUDE D. LLOYD, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/80/cases/0853-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4455442
+cites_cases: ["265 P. 870", "90 Cal.App. 193"]
+---
+
+# Busick v. Mandeville
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+This is an action by the plaintiff trustee in bankruptcy to set aside two conveyances of the same parcel of real property, the first by defendants Fred and Velma Mandeville, husband and wife, to defendant Tony Rava, and the second, alleged to be a part of the same transaction, from Tony and Birdie Rava, husband and wife, to the defendant and appellant Lloyd on the grounds that both transfers were without consideration and made with the intent to hinder, delay and defraud the creditors of the Mandevilles. From the judgment in favor of the plaintiff on all the material issues the defendant Lloyd has appealed.
+The evidence introduced at the trial established the following facts as found by the court. The transfer of the property from the Mandevilles to Tony Rava was without actual intent to defraud creditors although it rendered the Mandevilles insolvent and was made without consideration. Rava, who received the property merely as trustee for the benefit of the defendant Lloyd then, together with his wife, transferred it without consideration to the said Lloyd pursuant to an agreement with the Mandevilles. Prior to these transfers the defendant Lloyd had advanced to the Mandevilles the sum of $6,346.73 for the purpose of improving the property, relying upon their legal right to transfer to her a valid title to the premises. The court found that this sum was disproportionately small as compared with the true value of the property as the time of the conveyance which it found tó be $10,250, that it was less than a fair consideration and that therefore the transfer was a constructive fraud upon the Mandeville creditors. The defendant Lloyd was adjudged to be entitled to a preferred lien against the premises for the amount of the money so advanced, and for the repayment of which the conveyance was made as security. In lieu of voiding the deeds the court found as a conclusion of law that the defendant Lloyd should deposit in court within 15 days the sum of $1,600, being the amount of creditors’ claims, and in the event such deposit were not made the property to be available to plaintiff for the satisfaction of creditors’ claims upon the payment to defendant of the sum of $6,346.73, thereby extinguishing her lien upon and title to the property. Judgment was entered accordingly.
+Appellant now contends: 1. That in the absence of actual fraud, and having purchased the property in good faith for a fair consideration she thereby became the owner thereof to the exclusion of the creditors of the Mandevilles, and 2, that plaintiff’s acquiescence in the transfer of the property for a period of 22 months constituted laches.
+Upon the record it must be conceded that after the conveyance of the property the Mandevilles were insolvent having nothing out of which their creditors could satisfy their claims. It necessarily follows that said defendants thereby placed themselves squarely within the provisions of section 3439.04 of the Civil Code, enacted in 1939 as a part of the Uniform Fraudulent Conveyances Act. Said section provides that:
+“Every conveyance made and every obligation incurred by a person who is or will be thereby rendered insolvent is fraudulent as to creditors without regard to his actual intent if the conveyance is made or the obligation is incurred without a fair consideration.”
+Having placed themselves in such position it remains to be determined whether the conveyance was made “without a fair consideration” as found by the trial court.
+Section 3439.03 of the Civil Code defines fair consideration as follows:
+“ (a) When in exchange for such property, or obligation, as a fair equivalent therefor, and in good faith, property is conveyed or an antecedent debt is satisfied, or
+“(b) When such property, or obligation is received in good faith to secure a present advance or antecedent debt in amount not disproportionately small as compared with the value of the property, or obligation obtained.”
+In view of the specific wording of the last section it is wholly immaterial whether the conveyance was an outright sale of the property to appellant in consideration of the money previously advanced as she now contends or was transferred to her as security for the repayment of these sums as the trial court found. It is uncontradicted there was an antecedent debt which by the transfer either was satisfied as provided in subsection (a) or which was secured as provided in subsection (b).
+The remaining question to be determined is whether or not the amount of the antecedent debt was disproportionately small as compared with the value of the property at the time of the transfer. The record discloses testimony by Thomas G. Maple, an appraiser of 20 years’ experience, that in his opinion said property at the time it was transferred was worth $11,000. A second witness, H. S. Clegg, a state inheritance tax appraiser, also called by plaintiff, testified that in his opinion the property was worth $10,250 at the time in question. On behalf of the defendants, Alvin W. Musso, who at the date of the transfer was an appraiser for a bank in Placer County but was presently engaged in farming, testified the property had a reasonable market value of $5,990. It therefore appears that the findings of the trial court that the value of the property at the time of the transfer was $10,250 and that the sum of $6,346.73 advanced by appellant was so disproportionately small as to amount to a constructive fraud upon the Mandeville creditors are amply sustained by the evidence. (Carter v. Turner, 90 Cal.App. 193 [265 P. 870].)
+Appellant’s second contention, that of laches on the part of plaintiff, is raised for the first time on appeal. This defense was neither raised nor suggested in the trial court. Whether plaintiff should be barred from prosecuting his remedy for the alleged wrong done on the ground he has been guilty of laches is a question which cannot be raised for the first time on appeal, but is one which should have been presented to the trial court in some manner in order that plaintiff might have had an opportunity to meet it. (See 10 Cal.Jur. 556, 5 Cal.Jur. 10-Yr.Supp. 557, and cases cited.)
+Por the foregoing reasons the judgment is affirmed.
+Adams, P. J., and Thompson, J., concurred.
