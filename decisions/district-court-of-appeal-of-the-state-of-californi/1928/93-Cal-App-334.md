@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1451"
+decided: "1928-07-28"
+citations: ["93 Cal. App. 334"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. LEBRADO FLORIS, Appellant."]
+source_url: "https://static.case.law/cal-app/93/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2111947
+cites_cases: ["138 Cal. 39", "150 Cal. 543", "181 Cal. 315", "184 Pac. 389", "70 Pac. 1014", "89 Pac. 124"]
+---
+
+# People v. Floris
+
+## Majority (KNIGHT, J.)
+
+KNIGHT, J.
+Appellant was charged with murder, and upon trial was convicted of the crime of manslaughter. He now seeks a reversal of the judgment of conviction upon the sole ground that the evidence is not sufficient to sustain the verdict.
+About 8 o’clock on the evening of October 23, 1927, the deceased, Antonio Mariscal, was stabbed in the neck and died instantly. The homicide occurred on a public street in North Richmond, Contra Costa County, during a quarrel which appellant had provoked with three men named Marcus, Nougiera, and Alameda. At the trial appellant denied the killing, but his guilt was established mainly by the testimony of the three men mentioned; and on this appeal he concedes that' the evidence is conflicting, and also that if the testimony of the three witnesses mentioned be true it is legally sufficient to support the conviction; but claims that Mariscal was doubtless stabbed by either Marcus, Nougiera, or Alameda, and that in order to fasten the crime falsely upon him they committed perjury in giving their testimony.
+The law is well settled that a reviewing court has not the power to set aside a verdict unless it clearly appears that upon no hypothesis whatever is there sufficient substantial evidence in the record to support the verdict. As said in People v. Tom Woo, 181 Cal. 315 [184 Pac. 389]: “In passing upon this question we will not attempt to determine the weight of the evidence, but will decide otiIj whether upon the face of the evidence it can be held that sufficient facts could not have been found by the jury to warrant the inference of guilt. For it is the function of the jury in the first instance, and of the trial court after the verdict, to determine what facts are established by the evidence, and before the verdict of the jury, which has been approved by the trial court, can be set aside on appeal upon the grounds we are discussing it must be made clearly to appear that upon no hypothesis whatever is there sufficient substantial evidence to support the conclusion reached in the court below. . . . We must assume in favor of the verdict the existence of every fact which the jury could have reasonably deduced from the evidence, and then determine whether such facts are sufficient to support the verdict.” In the case of People v. Fitzgerald, 138 Cal. 39 [70 Pac. 1014], the rule is summarized as follows: “By the Constitution, appellate jurisdiction is conferred upon this court in ‘ criminal cases prosecuted by indictment or information in a court of record on questions of law alone. ’ Where there is evidence, therefore, to sustain the verdict, a question of law cannot arise, but only a case where there is in effect an entire lack of evidence.” To the same effect is People v. Willard, 150 Cal. 543 [89 Pac. 124],
+Briefly stated, the circumstances attending the killing, as proved by the testimony adduced by the prosecution, most of which was, as stated, given by the three witnesses above mentioned, were as follows: Marcus, Nougiera, and Alameda, all of whom are of Portuguese nationality, came out of a pool-room, starting to go home. Appellant, who was under the influence of liquor, had been visiting at the house of a friend across the street from the pool-room; and the deceased, Mariscal, who was a friend of appellant, had been sent by the latter’s wife to bring him home. As appellant and Mariscal, both of whom are Mexicans, came out of the house, appellant, manifesting a hatred toward the three men evidently on account of their nationality, started to curse and revile them. Marcus made some reply and appellant immediately leaped toward him. Mariscal tried to restrain him. Meanwhile Marcus reached to take a picket from a fence close by, and in doing so fell down. As he fell he saw that appellant had a knife in his hand, and he shouted: “Look out, boys, he’s got a knife.” Thereupon Alameda joined Mariscal in trying to hold appellant, who was still cursing and trying to free himself, and during the struggle appellant cut Alameda about the head with the knife. Mariscal, still holding appellant, told him to let the men alone, that they had done no harm, and with an oath appellant replied: “Let me go, or I’ll kill you,” or words to that effect, and immediately appellant stabbed Mariscal in the neck and he fell to the street dead.
+Obviously the foregoing evidence sustains the verdict.
+Appellant endeavors to point out certain inconsistencies and contradictions in the testimony of the three witnesses named, particularly as to events occurring immediately following the homicide, and he argues therefrom that said witnesses are not worthy of belief, but, as shown by the authorities hereinabove quoted, these were matters to be addressed to and determined by the jury, and it having accepted their testimony as being true we are not at liberty to interfere with its conclusion on appeal.
+The judgment and order appealed from are affirmed.
+Tyler, P. J., and Cashin, J., concurred.
