@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 40947"
+decided: "1973-11-01"
+citations: ["35 Cal. App. 3d 62"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATIONAL AUTOMOBILE AND CASUALTY INSURANCE COMPANY, Plaintiff and Respondent, v. PETER J. PITCHESS, as Sheriff, etc., et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/35/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4451229
+cites_cases: ["10 Cal.App.3d 7", "107 Cal.Rptr. 1", "109 Cal.App. 415", "117 P.2d 331", "134 P. 981", "154 Cal.App.2d 745", "166 Cal. 14", "18 Cal.2d 674", "2 Cal.Rptr. 609", "247 Cal.App.2d 805", "294 P. 45", "316 P.2d 700", "349 P.2d 289", "507 P.2d 609", "53 Cal.2d 567", "56 Cal.Rptr. 69", "89 Cal.Rptr. 23", "9 Cal.3d 371"]
+---
+
+# National Automobile & Casualty Insurance v. Pitchess
+
+## Majority (THE COURT.)
+
+Opinion
+THE COURT.
+On October 13, 1966, plaintiff filed an action against H. R. Johnson Construction Company and others. A writ of attachment issued in that action on that same day. On October 17, 1966, the writ was served on Nelson & fielding Construction Company, who answered, on October 25, 1966, that it was indebted to the Johnson Company in the sum of $12,557.60, less certain offsets. Thereafter George Coleman brought suit against the Johnson Company, in which, on November 21, 1966, he recovered judgment. Coleman caused execution to issue on that judgment and instructed the sheriff to serve that writ on the Nelson & fielding That levy was made on January 19, 1967. On March 28, 1967, Nelson & fielding sent the sheriff its check for $10,053.17, with a in the transmission to the October 1966, attachment in plaintiffs suit. Through error in the sheriffs office, the funds so received from Nelson & fielding were paid over to Coleman.
+In the meantime, plaintiff had recovered judgment against the Johnson Company and, on October 9, 1969, demanded release to it of the funds received from Nelson & Belding. The sheriff’s office refused. Claim for the money was filed with defendants on April 7, 1970, was rejected on May 22, 1970, and this action followed, on September 10, 1970.
+This action ultimately was consolidated with an action by the sheriff against Coleman. Judgment in the consolidated action was entered in favor of Sheriff Pitchess against Coleman and in favor of plaintiff against Pitchess and the county.
+The parties have not cited to us, nor has our research found, any cases directly in point. The briefs of the parties proceed on the following analysis of the problem:
+If plaintiff’s cause of action is in tort for conversion and if it cannot “waive” the tort and sue in assumpsit, the judgment in its favor is erroneous both because it never complied with the notice of claim provisions of the Tort Claims Act and because the action was barred by a one-year statute of limitations. On the other hand, if plaintiff’s cause of action is in contract, or if it may validly waive any tort and sue in assumpsit, the Torts Claim Act is not applicable, the statute of limitations had not run and the appealed from is correct.
+Our analysis of the problem takes a different approach:
+When the sheriff received the money from Nelson & Belding on March 28, 1967, he became a trustee of that money and plaintiff was the of that trust. (Cf. Shepherd v. Miles & Sons, Inc. (1970) 10 Cal.App.3d 7 [89 Cal.Rptr. 23].) Although that money may have been with other monies as to which the sheriff was also a trustee, it remained identifiable as a specific fund held for a specific purpose. (Haigler v. Donnelly (1941) 18 Cal.2d 674, 681 [117 P.2d 331]; Shahood v. Cavin (1957) 154 Cal.App.2d 745 [316 P.2d 700].) When the sheriff paid the money involved to Coleman, he breached his fiduciary duty, in that he failed to safeguard the trust fund. But that breach, assuming that it may have given plaintiff a right to sue on the theory of an anticipatory breach (cf. McCaffey Canning Co., Inc. v. Bank of America (1930) 109 Cal.App. 415 [294 P. 45]) did not require plaintiff to sue at that time and on that theory. A total repudiation by a trustee of his trust starts the running of the statute of limitations (Cortelyou v. Imperial Land Co. (1913) 166 Cal. 14, 20 [134 P. 981]), but a mere anticipatory breach does not. (Brewer v. Simpson (1960) 53 Cal.2d 567, 593 [2 Cal.Rptr. 609, 349 P.2d 289]; Oeth v. Mason (1967) 247 Cal.App.2d 805, 813 [56 Cal.Rptr. 69].) In the case at bench, the sheriff’s duty to turn over the trust fund received by him from Nelson & Belding did not accrue until the 9th of October, 1969, when plaintiff, having by then recovered its judgment against Johnson, made demand for the garnisheed funds. Any time limits involved, thus, ran from that date and not from April of 1967.
+By the specific terms of subdivision 2 of section 339 of the Code of Civil Procedure, the statute of limitations applicable to plaintiff’s cause of action against the sheriff is two years. The filing of this action, on September 10, 1970, clearly was within that time.
+However, it is not enough to determine that the complaint before us was not subject to demurrer on the ground of a statute of limitations. Defendants contend that the complaint, although cast in the form of a common count for money had and received—i.e., an action ex contractu—is actually a complaint for conversion and subject to the provisions of the Tort Claims Act. Admittedly the procedural requirements of that act were not satisfied.
+In that connection, plaintiff relies on Cooper v. Union Bank (1973) 9 Cal.3d 371 [107 Cal.Rptr. 1, 507 P.2d 609], and defendants on McCaffey Canning Co., Inc. v. Bank of America (1930) 109 Cal.App. 415 [294 P. 45]. Neither case is in point. Cooper was an action by a depositor against his bank, a cause involving a debtor and creditor relationship and not a breach of trust. McCaffey, as we pointed out above, held only that the might sue in tort when a sheriff misdelivered attached property the attaching creditor had not yet recovered judgment; it did not deal with the right of the creditor against the sheriff after judgment had been recovered.
+We conclude that when, on October 9, 1969, the sheriff refused to satisfy plaintiff’s demand on him, plaintiff had a cause of action which was either in equity or in contract, not in tort. As such, under the provisions of 814 of the Government Code, plaintiff was not required to comply with the 100-day claim provision set forth in section 911.2 of the Government Code.
+Since we conclude that, as against the sheriff, the plaintiff’s claim and action were timely, it follows that the judgment against him was proper. It is not contended that defendant county has any defense other than those urged on us on behalf of the sheriff.
+The judgment appealed from is affirmed.
+We are advised that Coleman is bankrupt and the sheriff’s judgment against him uncollectable.
+In McCaffey the sheriff had misdelivered a piece of tangible personal property. In the view we take of the case at bench, we need not decide if the same result would follow where the misdelivery is of money and not of a tangible article.
+As we pointed out in footnote 2, ante, we do not determine that McGaffey is in point where the misdelivery, prior to judgment, is of money and not of tangible personalty.
