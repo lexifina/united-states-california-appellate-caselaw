@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 11982"
 decided: "1938-12-22"
-citations: ["30 Cal. App. 2d 115", "30 Cal. App. 2d 112"]
+citations: ["30 Cal. App. 2d 115"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["TRAVELERS FIRE INSURANCE COMPANY (a Corporation), Plaintiff, v. BROCK
 source_url: "https://static.case.law/cal-app-2d/30/cases/0115-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4432738
-cites_cases: ["144 Pac. 961", "167 N. E. 231", "168 Cal. 715", "24 Cal. App. (2d) 499", "26 A. L. R. 224", "268 Mass. 7", "71 Pac. (2d) 354", "75 Pac. (2d) 550"]
+cites_cases: ["24 Cal. App. (2d) 499", "75 Pac. (2d) 550"]
 ---
 
 # Travelers Fire Insurance v. Brock & Co.
