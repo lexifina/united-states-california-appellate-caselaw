@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6171"
+decided: "1928-09-25"
+citations: ["94 Cal. App. 141"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JESSE NEWTON et al., Petitioners, v. S. M. MARSH, etc., Respondent."]
+source_url: "https://static.case.law/cal-app/94/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2140024
+cites_cases: ["32 Pac. 863", "98 Cal. 134"]
+---
+
+# Newton v. Marsh
+
+## Majority (THOMPSON (IRA F.), J.)
+
+THOMPSON (IRA F.), J.
+This is an original proceeding by which it is sought through the medium of the writ of mandate to compel the respondent judge to settle a bill of exceptions different from the one allowed by him on the claim of petitioners that a portion of the present bill is “contrary and diametrically opposed to the evidence introduced.” The portion objected to reads as follows: “That from the testimony of John H. Landes, City Clerk and H. D. Brodie, former city clerk and one of the defendants, and from the books of the City of Oceanside, that there was in the ‘Water Fund’ on the first day of January, 1924, an overdraft, or deficit, in the amount of $1,229.95; that on December 31, 1924, there was in said ‘Water Fund’ $2,025.26; that on December 31, 1925, there was in said ‘Water Fund’ $2,982.07, and that there was in said ‘Water Fund’ on December 31, 1926, $3,640.88. That there was collected and paid into the ‘Redemption Fund’ for taxes of the year 1924, collected in the year 1925, $514.29; in the year 1926, $1,754.98, and in the year 1927, $533.91.” We have examined the transcript of the testimony, in accordance with the understanding between counsel, and deem it material to summarize the state of the record with respect to the disputed points, but before doing so it may aid in a general understanding of the subject matter to say that the action in which judgment went against these petitioners in the trial court was one to compel the city trustees to pay into the treasury about $2,000 which they had ordered paid from the water fund of the city of Oceanside in satisfaction of a judgment obtained against the city for water-pipe sold and delivered to it. With this preliminary statement it appears that at the trial the cash book of the city for the years 1924, 1925, 1926, and 1927 was introduced with the statement by the respondent judge that counsel had better call the attention of the witness J. H. Landes to any portions of the book which he desired “looked into or emphasized.” Referring to some record (which we must presume was the cash-book) this witness testified that there was in the water fund $2,025.26 on December 31, 1924; $2,982.07 on December 31, 1925, and $3,640.88 on December 31, 1926. The witness Brodie testified that in the year 1925 there was paid into the city in the redemption of taxes of 1924, including interest, and penalties, $514.29 and in 1926 for the same purposes $1,754.89 and estimated that in 1927 $533.91 was paid in for like purposes. The witness Landes testified that limiting the figures to taxes, the amounts named by Brodie were not correct, and attempted an explanation which he was not permitted to make, but did say that there was a difference between taxes and special assessments and that he took the actual amount of the taxes for the year 1924, without counting interest or penalty. On cross-examination the witness Brodie testified that these taxes were not delinquent until “after ’24 had expired” and in answer to another question that “the ’24 was levied for the expense of ’25.”
+In the absence of a showing that the petitioners here suggested any statement in lieu of the portion to which objection is lodged, and in the absence of any showing that any matter explanatory of or in limitation of any part thereof was requested, we are confined undoubtedly to the question of whether there is testimony supporting the statements contained in the paragraph which gives rise to this proceeding. Certainly we cannot be required to search the record and draft either for counsel or the court below what might seem to ns to be a more literal and proper statement to be included in the bill. It is the function of the trial judge to certify a correct bill and as has been said he should “lean in favor of giving to litigants every reasonable opportunity of presenting their cases on the merits, . . . ” (Flagg v. Puterbaugh, 98 Cal. 134 [32 Pac. 863]), but where, as here, every statement included in the portion objected to is literally true and there has been no refusal to include other testimony or to settle and certify a true bill, it must be held that petitioners have failed to instance a cause wherein this court should assume to command.
+"Writ denied.
+Works, P. J., and Craig,- J., concurred.
