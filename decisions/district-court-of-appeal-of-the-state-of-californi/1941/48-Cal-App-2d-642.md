@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3527"
+decided: "1941-12-22"
+citations: ["48 Cal. App. 2d 642"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. FRANK DUNCAN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/48/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4634894
+cites_cases: ["12 Cal. App. (2d) 644", "55 Pac. (2d) 923"]
+---
+
+# People v. Duncan
+
+## Majority (YORK, P. J.)
+
+YORK, P. J.
+Upon notice duly given, appellant on November 24, 1941, moved this court for an order for diminution of the record to the end that a transcript of the proceedings of his preliminary hearing be certified and made a part of the record on appeal. It appears from the record herein that appellant made his motion to the trial court for a dismissal of the cause under section 995 of the Penal Code, upon the ground that he was not properly committed before the committing magistrate, which question is now being presented on appeal to this court. Prior to the denial by the trial court of appellant’s motion for such dismissal, appellant offered a transcript of the preliminary hearing but the record is silent as to whether the trial court permitted the filing thereof. However, the order for preparation of the record on appeal signed by the trial court on September 8, 1941, provides for the inclusion in the record on appeal of a “Transcript of Preliminary Hearing.”
+On the same day that appellant made the foregoing motion, to-wit: November 24, 1941, the Attorney General made a counter motion to dismiss the appeal upon the ground of the lack of jurisdiction of this court to entertain the same for the reason that no valid notice of appeal was given by appellant. It is urged that, while appellant on September 3, 1941, gave oral notice of appeal from the judgment and from the order denying his motion for a new trial, no judgment was ever rendered, but that the proceedings were suspended following appellant’s conviction of the crime of grand theft and appellant was granted probation.
+Since the record discloses that appellant was placed on probation, the motion to dismiss the appeal from the judgment must necessarily be granted.
+It is further urged by the Attorney General in support of his motion to dismiss the appeal that the record does not show that appellant gave oral notice of appeal from the order of July 21, 1941, denying his motion for a new trial, or that he gave written notice of appeal within five days or at all from the date of said order.
+Section 1237 of the Penal Code provides that an appeal may be taken by the defendant in a criminal prosecution from “an order denying a motion for a new trial.”
+Section 1239 of the Penal Code, as amended in 1939, in defining the manner of taking an appeal, provides:
+“(a) Where an appeal lies on behalf of the defendant or the people, it may be taken by the defendant or his counsel, or by counsel for the people, by:
+“ (1) Announcing in open court at the time the judgment is rendered or the order made that an appeal is taken from the same; or
+“(2) Filing with the clerk of the court a written notice of appeal within five days after the rendition of the judgment or the making of the order, or within five days after the granting of probation where the defendant appeals from, an order denying a new trial.” (Italics added.)
+The record discloses that appellant did not orally appeal from the order denying his motion for new trial at the time it was made, to-wit, on July 21, 1941, and it was therefore incumbent upon him to file his written notice of appeal from such order within five days after his application for probation was granted. Such application was granted on September 3, 1941, at which time appellant gave oral notice of appeal from “order denying his motion for a new trial.” However, the record does not disclose that appellant filed written notice of appeal from such order unless the request to the trial court for preparation of the record on appeal, in accordance with section 7, Hule II of Rules for the Supreme Court and District Courts of Appeal, filed on September 8, 1941, may be considered equivalent to such notice. The request addressed to the court follows: “You and each of you will please take notice that the defendant above named did, on the 3rd day of September, 1941, appeal from the judgment entered against him in the above entitled cause, and from the Order denying his motion for new trial in said cause, and that said defendant does herewith file his request for the preparation of the record on appeal.
+“Appellant’s grounds of appeal are that the Court erred in denying his motion for new trial for the reason that the evidence presented against him was insufficient to justify the verdict of the jury finding him guilty; that the verdict was against law in that jurisdiction never attached to the Superior Court to try him for the reason that he was committed and bound over to the Superior Court without reasonable or probable cause; that the Court erred in denying his motion to set aside the Information under Section 995 of the Penal Code, and that the Court erred in denying his motion to exclude evidence at the beginning of the trial upon the grounds that jurisdiction had not attached to the Superior Court.”
+In People v. Shepherd, 12 Cal. App. (2d) 644 [55 Pac. (2d) 923], this court held that appellants’ application for appeal, filed within two days after denial of their motions for new trial, pursuant to section 7, Rule II, supra, was susceptible of the construction that they thereby appealed from the orders denying their motions for new trial, especially where said notice included among the various grounds relied upon, “That the court erred in overruling defendants’ motion for new trial”; and further that said notice was sufficient to perfect an appeal from such orders under the terms of section 1239 of the Penal Code, as it read at that time.
+In view of this, it will be necessary to deny the Attorney General’s motion to dismiss the appeal from the order denying appellant’s motion for a new trial.
+Turning our attention to appellant’s motion for diminution of the record, heretofore discussed, it would appear that it might have been through an inadvertence that the transcript of the preliminary hearing was not filed in the trial court at the time the motion for dismissal was made. At any rate, appellant’s counsel states in his supporting affidavit that he cannot properly present to this court the questions involved in the appeal without having the transcript of the preliminary hearing brought up as a part of the record. This being so, it would appear that its inclusion in the record may be of assistance to this court in determining appellant’s appeal from the order denying his motion for a new trial.
+For the reasons stated, respondent’s motion to dismiss the appeal from the judgment is granted and respondent’s motion to dismiss the appeal from the order denying motion for new trial is denied. Appellant’s motion for diminution of the record is granted.
+Doran, J., and White, J., concurred.
