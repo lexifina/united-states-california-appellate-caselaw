@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "17"
+decided: "1905-06-03"
+citations: ["1 Cal. App. 114"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. H. LAMBERT, Appellant, v. EMMA LAMBERT, Respondent."]
+source_url: "https://static.case.law/cal-app/1/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1180278
+cites_cases: ["102 Cal. 52", "104 Cal. 143", "118 Cal. 287", "123 Cal. 366", "15 Pac. 125", "26 Pac. 81", "33 Cal. 474", "36 Pac. 364", "37 Pac. 883", "46 Cal. 289", "50 Pac. 400", "55 Pac. 980", "69 Am. St. Rep. 64", "73 Cal. 570", "88 Cal. 226"]
+---
+
+# Lambert v. Lambert
+
+## Majority (McLAUGHLIN, J.)
+
+McLAUGHLIN, J.
+The appellant sued for and was granted a divorce from respondent on the ground of desertion. In paragraph fourteen of his complaint it was alleged: “That there is community property belonging to plaintiff and defendant, 160 acres of hill land, and some stock and farming implements. ’ ’ This averment was not denied in the answer. On the contrary, its truth was expressly admitted. This admission, manifestly, made a finding unnecessary, but the lower court, in the finding of facts, recited that this particular parcel of hill land was purchased by and conveyed to plaintiff before Ms marriage with defendant. That about eight hundred dollars of the purchase money was borrowed by plaintiff from defendant before marriage, the plaintiff giving to defendant bis promissory note for said sum, which note has not been paid. That eleven hundred and fifty dollars of the purchase price paid was money received from the sale of certain water-rights appurtenant to said land. That the remainder of the purchase price was paid from money earned by the husband and wife after marriage. The conclusions of law contained a recital that this parcel of land “is the community property of plaintiff and defendant, ’ ’ and in the decree this land is so treated, and is equally divided between the parties. From this portion of the decree plaintiff appeals, on the ground that it is not supported by the findings of fact. He contends that, under the findings, the land mentioned was his separate property, and that, as the decree awards him a divorce upon the ground of respondent’s desertion, the court had no power to divide such separate property equally between the parties. (Citing Civ. Code, sec. 146.)
+The solution of the problem thus presented depends in a great measure upon the legal effect of the unnecessary finding of probative facts above mentioned. That such finding was unnecessary is established by many authorities. (First National Bank v. Maxwell, 123 Cal. 366, [69 Am. St. Rep. 64, 55 Pac. 980]; Faulkner v. Rondoni, 104 Cal. 143, [37 Pac. 883]; Gregory v. Gregory, 102 Cal. 52, [36 Pac. 364] .) That it is a finding of probative facts is so plain that no citation of authorities seems necessary. “Facts admitted by the pleadings should be treated as ‘found.’ If the court finds adversely to the admission, such finding should be disregarded in determining the question whether the proper conclusion of law was drawn from the facts found and admitted by the pleading’s.” (In re Doyle, 73 Cal. 570, [15 Pac. 125]; Ortega v. Cordero, 88 Cal. 226, [26 Pac. 81].) In the latter case it was said: “Any finding adverse to the admitted facts drops from the record,” and it has been held time and again that findings contrary to the facts admitted by the answer must be disregarded. (Bradbury v. Cronise, 46 Cal. 289; Burnett v. Stearns, 33 Cal. 474; Rudel v. Los Angeles County, 118 Cal. 287, [50 Pac. 400].) The reason underlying this rule is obvious. Courts may decide where there is a difference, but they cannot make differences where none exist. If a finding of an ultimate fact, contrary to admissions in the pleadings “drops from the record,” how much stronger is the reason why a finding of mere probative or evidentiary facts must fall before such admissions. It needs but the statement of the proposition to show that evidence, no matter how conclusive, must be idle as against an express, admission in a pleading. And it needs as little reflection to convince that a finding of evidentiary facts can be no more potent in this regard than the evidence on which it rests. Waiving the proposition that the recital as to the status of this property in the conclusions of law might be viewed as a finding of ultimate fact, nullifying the finding of probative facts, and resting on the admissions, it is clear that under the pleadings the conclusion was the only one the court could reach. Therefore, the decree, resting upon the admissions in the answer “as facts found,” is fully supported.
+T'he judgment is affirmed.
+Chipman, P. J., and Buckles, J., concurred.
