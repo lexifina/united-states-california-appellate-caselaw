@@ -1,0 +1,30 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Crim. A. Nos. 10571, 10572"
+decided: "1971-10-28"
+citations: ["21 Cal. App. 3d Supp. 1"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. DONALD RICHARD GOULET, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/21/cases/Supp. 1-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038852
+cites_cases: ["139 P. 661", "20 Cal.App.3d Supp. 1", "203 P. 126", "23 Cal.App. 713", "236 P. 311", "55 Cal.App. 192", "71 Cal.App. 500", "98 Cal.Rptr. 646"]
+---
+
+# People v. Goulet
+
+## Majority (ZACK, J.)
+
+Opinion
+ZACK, J.
+The complaints in these consolidated cases were filed November 25, 1970, alleging violations of section 311.2, subdivision (a) of the Penal Code by exhibition of an obscene motion picture. The People appeal from orders of dismissal in the Municipal Court for the Pasadena Judicial District of Los Angeles County.
+Such orders were made and entered after motions to dismiss were tendered when the cases were called for trial. No witnesses had been sworn. The grounds of the orders were stated to be (Reporter’s Transcript p. 13 lines 2-5) that the prosecution did not have, and must have, the actual films to exhibit to the jury, and that (Reporter’s Transcript p. 14 lines 1-7) the officer who was to give secondary evidence as to the contents of the film saw complete “segments” of the film, but did not see the “entire show.”
+At the hearing on the motions to dismiss, the People made offer of proof as to what the testimony as to contents of the segments seen by the officer would be, and as to certain procedural events that took place prior to the cases being called for trial in connection with a so-called prior adversary proceeding on the issue of obscenity of the films. Since the court based its orders of dismissal squarely upon the grounds above set forth, neither the sufficiency of such offer as laying a foundation for the use of secondary evidence (see People v. Enskat (1971) 20 Cal.App.3d Supp. 1 [98 Cal.Rptr. 646]) nor the adequacy of such evidence as reflecting the contents of the segments which were entirely seen by the testifying officer are issues on this appeal.
+Dealing first with the second ground of the orders, the fact that the witness saw only complete segments of the film and not the entire show does not, standing alone or otherwise, give legal support to the orders of dismissal. It is true that section 311, subdivision (a) (as amended in 1969) requires the material to be “taken as a whole.” However, the word “segment” as used in the ground of the order implies that to some extent, at least, some of the portions seen were unrelated to other portions and could stand by themselves. We find no difficulty with the position that a prosecution under the section could proceed on the basis of a film strip not completely seen if a portion of what was completely seen was separable from the remainder (assuming secondary evidence of the film is admissible). That unrelated episodes are exhibited by means of one continuous film positive, rather than shown as separate films from physically separate positives, is of no legal significance. Even if it were otherwise, whether other portions had a bearing on the allegedly obscene nature of the complete segments seen would have to be decided on the basis of evidence offered and not by a peremptory order of dismissal.
+We return to the major ground of dismissal, that the film in question must be available as evidence, and that verbal description of the contents (or “secondary evidence”) is not admissible. Although this appears to be a case of first impression in this state in the obscenity area, the use of secondary evidence in criminal cases generally has long been recognized. (People v. Rial (1914) 23 Cal.App. 713 [139 P. 661]; People v. Chapman (1921) 55 Cal.App. 192 [203 P. 126]; People v. Powell (1925) 71 Cal.App. 500 [236 P. 311]). Such use is also expressly recognized in Evidence Code section 1503, subdivision (a).
+To be sure, there may be cases where it is difficult to establish the contents of a film or book by oral secondary showings, particularly where its obscenity may be borderline in character. There may also be cases where the secondary showing may be insufficient on its face and require a court to reject it in its entirety. But we do not reach issues as to the sufficiency of the secondary evidence offered, the sufficiency of the foundation laid for its admission, or the extent to which any common law basis for the use of secondary evidence has been expanded or contracted by. the Evidence Code. The trial court order of dismissal, without taking testimony to see its foundation or substance, has determined that it cannot be used at all. Concurrence in such rulings by appellate courts would be to create, in the face of the Evidence Code’s general provision for the use of secondary evidence in criminal cases after foundation properly laid, a judicial exception to the contrary for obscenity cases. We decline.
+Respondent, by implication in his brief, and. directly in oral argument, requests us (in the alternative) to declare the Evidence Code provisions for use of such evidence in criminal cases unconstitutional as applied to obscenity cases. But he has directed our attention to no appellate decision holding that the use of secondary evidence in the obscenity area has violated the federal or any state Constitution. Without exploring herein the possible practical ramifications of respondent’s contentions and in the absence of a decision so holding on constitutional grounds, we are persuaded that the better law and policy is that secondary evidence, under proper conditions, may be used.
+The orders of dismissal are reversed and the causes remanded for trial.
+Whyte, P. J., and Katz, J., concurred.
