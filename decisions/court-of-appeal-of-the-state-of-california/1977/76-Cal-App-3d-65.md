@@ -1,0 +1,44 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 51108"
+decided: "1977-12-19"
+citations: ["76 Cal. App. 3d 65"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEFFREY S. II, a Minor, etc., Plaintiff and Appellant, v. JEFFREY S., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/76/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040463
+cites_cases: ["103 Cal. 387", "129 Cal.Rptr. 8", "37 P. 382", "57 Cal.App.3d 65"]
+---
+
+# Jeffrey S. v. Jeffrey S.
+
+## Majority (KAUS, P. J.)
+
+Opinion
+KAUS, P. J.
+The minor plaintiff, Jeffrey S. II, appeals from a trial court order granting the motion of defendant Jeffrey S.—the minor’s alleged father—to vacate an order in a paternity action.
+Facts
+In 1968, the then unborn minor filed a paternity action against defendant through a guardian ad litem. Defendant’s father was also named as a party defendant. At the time, defendant, too, was a minor and the complaint so alleged. Nevertheless no guardian ad litem was appointed for him. The clerk’s transcript shows a series of court appearances by attorneys acting purportedly on behalf of defendant and his father. Defendant never personally appeared in court; he was later to declare that, other than to submit to a blood test, he did not participate in the proceedings. Nothing in the record directly contradicts this assertion.
+In about November 1968, the parties, through their attorneys, entered into a stipulation under which the attorneys who apparently represented defendant and his father, agreed to deposit $500 in a trust account to pay medical bills incurred by the child’s mother. In July 1970 there was a short trial at which the mother testified. The matter was submitted.
+In October 1970, a “stipulation, waiver and settlement agreement” was filed which recited that defendant was the father of the minor, and that within one month after defendant became employed full-time, reached the age of 21, or entered the armed services, whichever occurred first, he would pay $75 a month to the mother. This agreement was signed by defendant’s father, listed as “guardian ad litem” for defendant, although, as noted, no such appointment had been made. The court entered an order in accordance with the agreement; a copy of the order was mailed to the attorneys of record for defendant and his father.
+Defendant reached 21 years of age in May 1973. In April 1973, the district attorney’s office wrote defendant a letter which stated that a complaint had been filed against him by the mother, charging him with failing to adequately “support your minor child,” that such failure was a violation of the Penal Code and carried a penalty of up to one year in jail and/or a $1,000 fine, and that if defendant desired to enter into a voluntary agreement “to avoid further proceedings against” him, he should complete certain enclosed forms and return them to the district attorney’s office. Enclosed was an agreement to pay child support. The letter made no reference to the October 1970 order made in this case.
+Defendant returned the agreement unsigned, and included a letter dated May 3, 1973, which said that defendant had been unemployed since October and had “no money to fight this thing or even to consult an attorney,” and that since he did not believe that he was the father of the child he could not “in all conscience sign a statement” that he was. The letter continued; “Neither do I wish to go to jail and I have been told that I really have no chance to fight this under current laws.; consequently I will make payments to avoid going to jail.”. Defendant was advised that because he was currently unemployed, the office would accept $25 a month.
+In February 1974, defendant signed a “declaration of circumstances” concerning his failure to provide the necessary support. The records of the Santa Barbara County Auditor Controller show that payments of $25 a month were received from July 1973 through December 1974.
+When no child support payment was made in January 1975, an investigator in the district attorney’s office tried to locate defendant. In February 1976 the district attorney was appointed counsel for plaintiff pursuant to section 4702, subdivision (b) of the Civil Code. Defendant was finally located in about June 1976, at which time an order to show cause in re contempt was served on him. In August 1976, defendant formally disaffirmed the October 1970 order and moved to vacate it.
+Defendant declared that other than to submit to a blood test, he did not participate in the proceedings. He also declared that he had no notice that a trial was set or that one had taken place; that he had no attorney in the matter and no communications with the attorney who purportedly represented him. He did not authorize any of the stipulations, nor did he know of them. He did not learn of the 1970 order until July 1976, after his attorney investigated the matter.
+Defendant further declared that the payments made were made by his parents; the May 1973 letter, disclaiming paternity, although signed by him, was written by his mother. Further, the “decláration of circumstances,” although signed by defendant, was filled in by his parents. Defendant’s only knowledge of the case was that his parents told him that arrangements were being made to defer the case until he was 21, and that if the plaintiff and his guardian ad litem persisted in their claims, defendant could defend himself at that time.
+Discussion
+Although the case was clearly close—defendant’s claimed ignorance of any order from October 1970 to July 1976 strains credulity—this appeal has no merit. The facts, as impliedly found by the trial court, support the order vacating the judgment.
+First, plaintiff’s theory that the failure to appoint a guardian ad litem is not fatal if the minor’s rights are protected, does not apply to the facts of this case. Defendant, as a minor never appeared personally in the proceedings; he did not know and did not consult with the attorney purporting to represent him. The district attorney’s assertion that it is the client’s burden to challenge an attorney’s apparent authority to represent him, misses the point that the trial court impliedly found that defendant had satisfied the burden.
+Second, plaintiff’s assertion that defendant waived any objections he might have to the order or judgment, ignores the letter written by or on behalf of defendant in May 1973, in which he stated that he did not believe that he was the father of the child, but was willing to make payments so that he would not have to go to jail. Thus, Childs v. Lanterman (1894) 103 Cal. 387, 391 [37 P. 382], in which the court held that if a minor “treats the judgment as having been regularly entered, and makes no objection ... he waives his right thereafter to make such objection,” does not apply. Defendant asserted and the trial court is presumed to have believed that he did not know about the 1970 order until June 1976. He then promptly disaffirmed it—precisely what the defendant in Childs failed to do.
+Third, plaintiff’s assertion that defendant’s payments from July 1973 to December 1974 constituted an affirmance of the October 1970 order, ignores the evidence, first, that defendant made the payments to avoid criminal prosecution, and second, that the payments were made by his parents.
+Finally, plaintiff’s assertion that defendant’s motion to vacate the order was barred by laches is no more than a restatement of the claim that defendant waived any objections to or ratified the order.
+Plainly this is not a happy result. As the trial court realized, the basic problem is the failure to appoint a guardian ad litem for defendant some time before the 1970 order. Either party to the action or the court itself could have taken the initiative. (Code Civ. Proc., § 373, subd. 2.) That this was not done was overlooked by plaintiff’s original counsel, her successor, several attorneys who purported to speak for defendant or his father and by the judge who made the 1970 order. It was a team effort.
+Affirmed.
+Stephens, J., and Hastings, J., concurred.
+defendant declared in a declaration dated August 21, 1976, that the letter was “written by my mother but, perhaps, signed by me. . . .” In a declaration dated September 14, 1976, the evidentiary value of this letter having been reassessed, defendant declared that he “directed a letter to [the investigator’s] attention____”
+The district attorney first requested findings of fact and conclusions of law and then withdrew that request.
+Besides, it is questionable whether the court, in 1970, ever approved the stipulation as required by Everett v. Everett (1976) 57 Cal.App.3d 65, 68-70 [129 Cal.Rptr. 8].
