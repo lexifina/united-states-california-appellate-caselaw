@@ -1,0 +1,54 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 6560"
+decided: "1972-11-29"
+citations: ["29 Cal. App. 3d 349"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ALAN GENE LAYTON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/29/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2346009
+cites_cases: ["10 A.L.R.3d 974", "232 Cal.App.2d 681", "268 Cal.App.2d 653", "3 Cal.App.3d 966", "384 U.S. 436", "398 P.2d 361", "408 P.2d 964", "42 Cal.Rptr. 169", "426 P.2d 515", "43 Cal.Rptr. 57", "48 Cal.Rptr. 188", "58 Cal.Rptr. 115", "62 Cal.2d 338", "63 Cal.2d 767", "66 Cal.2d 438", "74 Cal.Rptr. 423", "84 Cal.Rptr. 40"]
+---
+
+# People v. Layton
+
+## Majority (BIDDICK, J.)
+
+Opinion
+BIDDICK, J.
+The defendant was convicted after a court trial of possession of a dangerous restricted drug, to wit: LSD, a violation of Health and Safety Code section 11910. Prior to trial, the defendant had moved to dismiss the information under Penal Code section 995 and had also moved to suppress evidence under Penal Code section 1538.5. Both motions were denied. Defendant also filed a petition for mandate or prohibition with this court which was also denied.
+On November 8, 1970, Officer Eastham of the Oroville Police Department was summoned to the Medical Center Hospital in, Oroville because the defendant had been admitted and was suffering from a drug overdose. The officer talked to the defendant in the emergency room and asked him what he had taken. The defendant said he had taken LSD and had a bad reaction, although he said he had taken it 12 times before without such a reaction.
+The officer and a nurse discussed the defendant’s condition and the fact that he had no insurance or funds. It was decided that he should be taken to the Butte County Hospital for further treament and the defendant concurred in this suggestion.
+The officer was in uniform and was driving a black and white patrol car. At the Medical Center Hospital, he gave the defendant a pat-down search and transported him to Butte County Hospital in the locked portion of the police car. The officer did not ask the defendant’s permission to lock him up in the car and the defendant was not able to leave without affirmative action by the officer to unlock him.
+The defendant was coherent but appeared to be under the influence of narcotics. He told the officer that he was suicidal and in great pain and he appeared to- be so to the officer.
+At the county hospital, the officer and defendant engaged in a conversation which took about 15 minutes. The defendant asked the officer several times if he was going to be arrested and the officer replied that the defendant would not be arrested for receiving treatment for a drug overdose. The officer did tell the defendant during the conversation that he could be held for 72 hours for his own protection under Welfare and Institutions Code section 5150 and the officer later signed papers at the hospital to so hold him.
+After about 15 minutes of general conversation at the county hospital, the officer asked the defendant, “Are you holding anything?” The defendant replied “No,” then he paused two or three seconds and took a piece of tinfoil from his shirt pocket which he handed to the officer, saying: “Here’s a hit of acid, but it’s not the same kind as I took.” The tinfoil contained one tablet of LSD. After the defendant handed the pill to Officer Eastham, the officer then advised him of his Miranda rights.
+The defendant contends on appeal that it was reversible error to allow any of the evidence to be admitted against him because:
+1. He should have been warned of his Miranda rights before he was questioned about drug possession by Officer Eastham in a manner calculated to elicit an admission of guilt.
+2. He was persuaded or coerced into a criminal admission by false promises that he would not be arrested.
+3. His emotional or paranoid state of mind rendered his admission involuntary.
+We shall deal first with the contention that the defendant should have been advised of his Miranda rights because in our view this is dispositive of the case.
+The case of Miranda v. Arizona (1966) 384 U.S. 436 [16 L.Ed.2d 694, 86 S.Ct. 1602, 10 A.L.R.3d 974], and the California case which preceded it, People v. Dorado (1965) 62 Cal.2d 338 [42 Cal.Rptr. 169, 398 P.2d 361], both establish mandatory guidelines in determining the admissibility of confessions or admissions.
+The question here is whether the law which has developed from the Miranda-Dorado cases prohibits the introduction in court against the defendant of the LSD which he handed to Officer Eastham in the hospital before he was given the Miranda warning. The Attorney General contends that it does not because (a) defendant was not “in custody,” (b) the “accusatory stage” had not been reached, and (c) defendant’s “no” answer to the officer’s question did not incriminate him and was voluntary and not in response to a question by the officer.
+A brief discussion of the Miranda-Dorado principles and their development and the application of these principles to the facts of this case will clearly demonstrate why we are of the opinion that the Miranda warning should have been given before the defendant was asked by the officer whether he had narcotics on his person.
+In People v. Dorado, supra, 62 Cal.2d 338, the California Supreme Court held that incriminating evidence could not be admitted because the defendant had not been informed of his right to remain silent and to have counsel before he made an incriminating statement under the following circumstances:
+(1) The investigation was no longer a general inquiry into an unsolved crime but had begun to focus on a particular suspect;
+(2) The suspect was in custody;
+(3) The authorities had carried out a process of interrogations that lent itself to eliciting incriminating statements;
+(4) The authorities had not effectively informed defendant of his right to counsel or of his absolute right to remain silent, and no evidence establishes that he had waived these rights.
+The year following Dorado, the U.S. Supreme Court made the Dorado rule more explicit. Our California Supreme Court itself has referred to the Miranda rule as “more stringent” than Dorado. (People v. Arnold (1967) 66 Cal.2d 438, 443, fn. 4 [58 Cal.Rptr. 115, 426 P.2d 515].)
+The first question is whether the investigation had focused on a particular subject, and there can be no doubt that it had. When the officer first saw and talked with defendant, he knew that he was under the influence of LSD and certainly suspected that the defendant, having admitted taking LSD previously, might well be in possession of some. There was no one but the defendant upon whom the inquiry could possibly focus. (People v. Arnold, supra, 66 Cal.2d at p. 445; People v. Chaney (1965) 63 Cal.2d 767, 769 [48 Cal.Rptr. 188, 408 P.2d 964].)
+The key question seems to be the one of custody. Defendant claims he was in custody and the Attorney General contends that he was not, asserting that defendant was, in effect, in transitory restraint only. We do not believe that this is so, under the applicable law as applied to the facts of this case. Both Miranda and People v. Manis (1969) 268 Cal.App.2d 653, 668-670 [74 Cal.Rptr. 423], make it plain that a person is in custody for the purposes of the Miranda warning when he is deprived of his freedom in “any significant way.”
+The facts of this case as recited by the court make it abundantly clear that defendant was deprived of his freedom “in a significant way.” He was clearly not in the class of persons described in the Manis case, supra, who are “detained” temporarily for questioning under circumstances short of probable cause to arrest for any offense.
+Officer Eastham had reasonable cause to believe that the defendant was in violation of Penal Code section 647, subdivision (f), and he had probable cause to make a formal arrest had he chosen to do so. Under the undisputed facts of the case, it cannot reasonably be argued that the defendant was ever free to leave at any time after the arrival of Officer Eastham. The conversation and the ultimate question posed by the officer occurred while the defendant was in custody.
+We next inquire whether Officer Eastham was carrying out a process of interrogation lending itself to eliciting an incriminating statement. While the 15-minute talk which the officer had with the defendant was described by the officer as having nothing to do with a narcotics violation, the defendant nevertheless asked the officer several times if he would be arrested, to which he received a negative reply. It was at the end of this conversation that Officer Eastham asked the defendant, “Are you holding anything?” This question in the circumstances under which it was asked, with the defendant’s obviously drugged condition, could have had but one purpose. It was designed to elicit either a confession or a denial. At this point, the conversation “ceased to be general and became an investigation focused upon the specific offense and the defendant as the accused.” (People v. Collin (1965) 232 Cal.App.2d 681, 684 [43 Cal.Rptr. 57]; see also People v. Abbott (1970) 3 Cal.App.3d 966, 969-970 [84 Cal.Rptr. 40].)
+The Attorney General contends that because the defendant at first answered “no” to Officer Eastham’s question, no Miranda violation occurred because the answer did not incriminate him. He contends that when after a pause of two or three seconds the defendant handed the officer the LSD tablet, he did so voluntarily and not in response to the question. But the physical act was an affirmative answer to the question. (People v. Abbott, supra, 3 Cal.App.3d at p. 970.)
+Since the defendant was not advised of his rights until after his production of the incriminating evidence, we hold as did the court in Abbott, supra, under somewhat similar facts, that the trial court erred prejudicially in failing to suppress this evidence.
+We do not reach the other contentions of defendant for the foregoing reasons.
+The defendant further argues that because of his youth and his drugged condition, he believed that he was being given complete immunity and that he was falsely coerced into his confession of possession of LSD. He also argues that he did not voluntarily give up the evidence because he was in an emotional or paranoid state of mind. We need not go into' these contentions because the judgment must be reversed for failure to give the Miranda warning.
+The judgment of conviction is reversed.
+Richardson, P. J., and Friedman, J., concurred.
+Assigned by the Chairman of the Judicial Council.
