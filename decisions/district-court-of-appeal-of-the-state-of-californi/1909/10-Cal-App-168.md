@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 622"
+decided: "1909-03-03"
+citations: ["10 Cal. App. 168"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALEXANDER OTS, Petitioner, v. SUPERIOR COURT OF THE CITY AND COUNTY OF SAN FRANCISCO, DEPARTMENT NO. 3, JAMES M. TROUTT, Judge, Respondents."]
+source_url: "https://static.case.law/cal-app/10/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4655640
+cites_cases: ["110 Cal. 439", "14 Cal. 551", "16 Cal. 83", "23 Mont. 556", "42 Pac. 910", "52 Am. St. Rep. 111", "59 Pac. 917"]
+---
+
+# Ots v. Superior Court
+
+## Majority (COOPER, P. J.)
+
+COOPER, P. J.
+This is a petition for a writ of review to vacate an order made by the superior court, modifying a temporary injunction.
+It appears that in an action brought in the superior court of the city and county of San Francisco by Alexander Ots, as plaintiff, against J. A. Morrell et al., defendants, the said superior court, after notice and upon hearing all parties, duly made and granted to plaintiff a temporary injunction, enjoining defendant Morrell from withdrawing from the Wells Fargo-Nevada National Bank any funds belonging to the National Airship Company, a corporation; and further forbidding J. B. Cook and the said Wells Fargo-Nevada National Bank from paying or delivering to said Morrell any goods, chattels or moneys in their hands belonging to the said National Airship Company. This temporary order was duly served, and no "appeal was taken therefrom. Afterward, on motion of said Morrell, upon notice, under the express protest of plaintiff, the superior court made a further order modifying the temporary injunction which it had issued, by directing that said J. B. Cook deposit with the said Wells Fargo-Nevada National Bank a certificate of deposit for $1500 issued by said bank to said Morrell, and further directing the said Wells Fargo-Nevada National Bank to pay from the proceeds thereof to said Morrell the sum of $150. The effect of the modification of the order was to release or allow $150 of the moneys held in custody under the restraining order to be paid by the bank to Morrell.
+In our opinion the court had no power to modify its injunction which had been granted upon notice. The code provides (Code Civ. Proc., sec. 532) that “If an injunction be granted without notice the defendant, at any time before the trial, may apply, upon reasonable notice, to the judge who granted the injunction, or to the court in which the action is brought, to dissolve or modify the same.” The provision as to dissolving or modifying is limited by the words of the section to injunctions granted without notice. The section is silent concerning an injunction which has been granted upon notice, and evidently for the reason that it was not intended that the court, after having heard the parties, having passed upon and adjudicated the right to an injunction, pending the trial, could again of its own mere caprice change or dissolve its order. The order so made upon notice was an appealable order, and either side, if dissatisfied, could have appealed from it. Its merits could have been tested on appeal, but not on another motion in the same court where the order was made. If the party against whom an appealable order has been made should make a motion to vacate or modify the order, he could not appeal from an order refusing to so vacate or modify the order. The courts proceed on the principle that there must be an end to litigation, and hence there should be some point at which the right to question or change even a temporary injunction ceases. In our opinion, when such injunction has been granted upon notice and a hearing, and no appeal has been taken, it cannot be modified or dissolved until the trial of the case upon its merits. This rule will tend to make the law certain, and will work no hardship because usually the case can be brought to trial within a reasonable time. This view of the section is strengthened by the fact that the section makes-provision for dissolving or modifying an injunction upon certain terms, even if granted upon notice, in an action to prevent the diversion, pending the litigation, of water used or to be used for irrigation or domestic purposes only.
+What we have said is sustained in principle in the early case of Natoma Water and Mining Co. v. Clarkin, 14 Cal. 551, where a similar section of the Practice Act was discussed. It was there said by Mr. Justice Field: “By the statute the right to a temporary injunction pending the action is considered as adjudicated by the decision at the hearing upon the order to show cause. The remedy of the defendants in such case, when the right to apply for dissolution upon the filing of the answer is not expressly reserved, is by appeal. The privilege of moving for dissolution, upon the filing of the answer, is limited to eases where the injunction is originally granted without notice to the adverse party. ’ ’
+The reasoning given in regard to the dissolution of an injunction applies to an order modifying an injunction. (See further Natoma Water & Mining Co. v. Parker, 16 Cal. 83; Curtiss v. Bachman, 110 Cal. 439, [52 Am. St. Rep. 111, 42 Pac. 910]; State v. District Court, 23 Mont. 556, [59 Pac. 917].)
+The order is annulled.
+Kerrigan, J., and Hall, J., concurred.
