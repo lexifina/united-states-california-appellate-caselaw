@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 37109"
+decided: "1971-11-02"
+citations: ["20 Cal. App. 3d 956"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. L. ENLOW, Plaintiff and Appellant, v. CITY OF CARPINTERIA et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/20/cases/0956-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2348334
+cites_cases: ["104 Cal.App.2d 551", "128 P.2d 522", "141 A.L.R. 1358", "19 Cal.Rptr. 668", "20 Cal.2d 713", "200 Cal.App.2d 486", "230 Cal.App.2d 387", "232 P.2d 30", "254 Cal.App.2d 361", "266 Cal.App.2d 550", "275 Cal.App.2d 134", "40 Cal.Rptr. 871", "62 Cal.Rptr. 191", "72 Cal.Rptr. 265", "79 Cal.Rptr. 757"]
+---
+
+# Enlow v. City of Carpinteria
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+After two previous attempts, plaintiff filed his second amended complaint. We are here concerned only with the first, second and fourth counts of that complaint. As to those counts, defendants City of Carpintería, County of Santa Barbara, and some of the individual defendants filed both general and special demurrers. The special demurrers were sustained on the ground that each of those counts set forth more than one cause of action, not separately stated; the general demurrers were not ruled on. Leave to again amend was denied and the action was dismissed, as to the demurring defendants. Plaintiff has appealed; we reverse the judgment.
+I
+The first count is entitled “First Cause of Action for False Arrest Against F. Saragosa, Doe I Through X.” It clearly contains allegations sufficient to constitute a cause of action for false arrest against the individuals named in the above quoted title and against defendant city; whether or not it also alleges that cause of action against the county is open to question. The count also contains allegations against both defendant city and defendant county charging: (a) maintenance by them of a jail which constituted a dangerous and defective condition of public property; and (b) negligence in operation of that jail, in that plaintiff was not properly protected against an assault by a fellow prisoner. The count also alleges that such an assault took place and that it caused described damages to plaintiff.
+The second count is entitled “Second Cause of Action For False Imprisonment Against The City of Carpintería, F. Saragosa, Doe I Through XXX and The County of Santa Barbara.” It incorporates by reference, 15 of the 18 paragraphs of the first cause of action and then proceeds to allege a cause of action for false imprisonment against the individuals and the two governmental corporations listed in the title.
+The fourth cause of action is entitled “Fourth Cause of Action Against The County of Santa Barbara, The City of Carpintería, Does XI Through XX, Both Inclusive, For Their Failure to Provide Immediate Requested Medical Attention to A Person Confined In Jail.” As with the second count, it incorporates, by reference, 15 of the 18 paragraphs of the first cause of action and then proceeds to allege a duty on the defendants named in the title to furnish medical care, their knowledge of plaintiff’s need for such care and their intentional failure and refusal to provide such care. We think it clear that this count contains allegations sufficient to constitute a cause of action against at least some of the defendants named in its title under the exception contained in section 845.6 of the Government Code.
+Ordinarily, it is error to refuse permission to amend after sustaining a special demurrer. (Wennerholm v. Stanford Univ. Sch. of Med. (1942) 20 Cal.2d 713, 718-719 [128 P.2d 522, 141 A.L.R. 1358].) We think that general rule is applicable here, particularly because neither the litigants nor the trial court seem to have sought to apply the distinction (set forth in Oppenheimer v. City of Los Angeles (1951) 104 Cal.App.2d 551 [232 P.2d 30]) between allegations which violate the rule requiring the separate statement of causes of action and allegations which do no more than to plead “aggravating circumstances,” intended only to enhance the monetary amount of damages recoverable under a single cause of action properly pleaded. On remand, the plaintiff can attempt to redraft his complaint so as to meet the requirements both of the separate statement rule (Code Civ. Proc., § 430, subd. 5), and the doctrine of Oppenheimer.
+In directing the trial court to afford another opportunity to amend, we are not unaware of the limitation on the general rule expressed in Whitson v. City of Long Beach (1962) 200 Cal.App.2d 486, at page 504 [19 Cal.Rptr. 668]. Whether, if a third amended complaint is still subject to a general or special demurrer, the trial court should allow a fourth amendment is a matter which we could not, and do not, determine on the record before us. Nothing herein necessarily compels the allowance of more than one further amendment.
+II
+As we have indicated above, each count appears to state, as against at least some of the demurring defendants, the particular cause of action indicated in the several titles to those causes. If the plaintiff successfully survives another special demurrer, the trial court should then proceed to rule on such general demurrers as the several defendants may see fit to interpose.
+III
+We point out, also, that some of the objections herein raised by defendants against certain allegations more properly would be the subject of a motion to strike, under section 453 of the Code of Civil Procedure, than of a special demurrer.
+The judgment is reversed for further proceedings consistent with this opinion.
+Jefferson, Acting P. J., and Dunn, J., concurred.
+Originally the complaint contained five causes of action: a demurrer was sustained as to the original third cause of action and it was dropped from the complaint now before us, but the original numbers of the fourth and fifth causes of action were retained. The fifth cause of action was directed solely against defendant Hecker, for an alleged assault by him on plaintiff; Hecker answered and that cause of action is not herein involved.
+Defendants contend that two decisions of this court (Watson v. County of Los Angeles (1967) 254 Cal.App.2d 361 [62 Cal.Rptr. 191], and Apelian v. County of Los Angeles (1968) 266 Cal.App.2d 550, 554 [72 Cal.Rptr. 265]) establish an immunity against the action for false arrest and false imprisonment. Plaintiff relies on our earlier holding in Shakespeare v. Pasadena (1964) 230 Cal.App.2d 387 [40 Cal.Rptr. 871], We see no conflict between the two lines of cases; Shakespeare, like the case at bench, dealt with an arrest without a warrant on the sole responsibility of the arrestor; Watson and Apelian dealt with acts of public officials, not in making an arrest but in instituting a judicial proceeding which led to ari arrest. The applicable code sections differentiate between these two situations. (See, also, Stearns v. County of Los Angeles (1969) 275 Cal.App.2d 134 [79 Cal.Rptr. 757].) The result is to implement the public policy favoring the interjection of judicial officers between the policeman and the citizen.
+Apelian v. County of Los Angeles (1968) supra, 266 Cal.App.2d 550, and cases therein cited.
+In that connection we call attention to the suggestion in section 784 of Chadbourn, Grossman and Van Alstyne, California Pleading, that because of the special rules applicable to tort actions against governmental agencies, causes of action against them should be stated separately from those against individuals.
