@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 996"
+decided: "1911-10-06"
+citations: ["17 Cal. App. 223"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRED L. BLUMER, Respondent, v. FELIX MAYHEW, Appellant."]
+source_url: "https://static.case.law/cal-app/17/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4607234
+cites_cases: ["116 Cal. 381", "137 Cal. 370", "139 Cal. 222", "147 Cal. 479", "41 Cal. 17", "48 Pac. 324", "58 Am. St. Rep. 180", "70 Pac. 165", "72 Pac. 1004", "82 Pac. 53", "96 Am. St. Rep. 105"]
+---
+
+# Blumer v. Mayhew
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+This is an appeal from an order of court denying defendant’s motion for relief under the provisions of section 473, Code of Civil Procedure.
+On November 29, 1909, defendant’s motion for a new trial and to have vacated and set aside a judgment theretofore rendered herein was denied. More than sixty days thereafter, and in the absence of any stipulation or order extending the time, he presented to the court what he termed a ‘ ‘ Record on Appeal,” consisting of copies of certain papers which he deemed necessary to constitute such record, together with a copy of the reporter’s transcript of the testimony used at the hearing of the motion for a new trial, and, upon notice to plaintiff, applied to the court to have the same authenticated. Upon objection being made by plaintiff, the court refused to authenticate the papers upon the grounds that the same were not presented within the time required by law. Thereupon defendant applied to the court to be relieved from his default upon the grounds that the same was due to mistake, inadvertence and excusable neglect. .His application was denied by the court, and from this order he has appealed.
+In his affidavit in support of the motion, defendant’s attorney states that he had been instructed by his client to take an appeal from the order denying his motion for a new trial; that affiant had never before undertaken to prosecute such an appeal to the supreme court and was unaware that the matters in support of such motion should be authenticated in a bill of exceptions, as provided in section 650 of the Codé of Civil Procedure; that about ten days after the date of the order of court denying defendant’s motion for a new trial, affiant was informed that under the decisions of the supreme court of this state the papers used upon such appeal should be embodied in a bill of exceptions and the same authenticated by the trial judge, and thereupon he made an investigation of such decisions and came to the conclusion that the supreme court based their opinions upon the ground that all of the records used in the court below had not been transferred to them, for which reason alone he concluded the court so decided said cases; that it would have been impossible to prepare the record within the time required by law, and that affiant did obtain an extension of thirty days’ time within which to file the record in the supreme court of California, he still being of the opinion at the time that no bill of exceptions was necessary.
+The malting of an order granting or denying relief when applied for by one who seeks to bring himself within the provisions of section 473, Code of Civil Procedure, is a matter purely within the discretion of the trial court, and in reviewing such orders this court should refuse to interfere, unless it clearly appears there has been a plain abuse of such discretion. (O’Brien v. Leach, 139 Cal. 222, [96 Am. St. Rep. 105, 72 Pac. 1004] ; Vinson v. Los Angeles Pac. R. R. Co., 147 Cal. 479, [82 Pac. 53].) The courts have suggested by way of advice to the trial judges that all doubts as to the propriety of their rulings upon such applications should be resolved in favor of the moving party (Watson v. San Francisco etc. R. R. Co., 41 Cal. 17; Miller v. Carr, 116 Cal. 381, [58 Am. St. Rep. 180, 48 Pac. 324]), for the reason that such action tends to bring about a decision upon the merits. Notwithstanding this fact, however, the rule which prohibits interference save and except in case of an abuse of discretion, has never been relaxed. (Ingrim v. Epperson, 137 Cal. 370, [70 Pac. 165].) In this case, upon the showing made in support of the application, it cannot be said that the court failed to exercise a proper discretion. Indeed, had the ruling been otherwise, noninterference by this court would have strained the rule, respect for which, as stated, prohibits the vacation of such order when it tends to give a hearing upon the merits of the case. The statutory'provisions with reference to the procedure to be had and taken upon appeals from orders denying motions for new trial are of such long standing, so fully set forth in the Code of Civil Procedure, and have been so frequently passed upon and construed by the courts of this state, “that ignorance of the time within which a statement or bill of exceptions must be prepared and served cannot be deemed the result of mistake or surprise or inadvertence, and the neglect to prepare and serve it within the time prescribed by the code is not excusable.” (Ingrim v. Epperson, 137 Cal. 370, [70 Pac. 165].)
+The order appealed from is affirmed.
+Allen, P. J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 5, 1911.
