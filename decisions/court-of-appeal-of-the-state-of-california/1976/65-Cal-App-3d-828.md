@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 13938"
+decided: "1976-12-20"
+citations: ["65 Cal. App. 3d 828"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN DELAGRANGE, Plaintiff and Appellant, v. SACRAMENTO SAVINGS AND LOAN ASSOCIATION, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/65/cases/0828-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040476
+cites_cases: ["112 Cal.Rptr. 18", "196 Cal. 395", "208 Cal.App.2d 690", "238 P. 78", "25 Cal.Rptr. 360", "270 Cal.App.2d 429", "37 Cal.App.3d 5", "75 Cal.Rptr. 753"]
+---
+
+# Delagrange v. Sacramento Savings & Loan Ass'n
+
+## Majority (JANES, J.)
+
+Opinion
+JANES, J.
+Plaintiff Delagrange appeals after nonjury trial from an adverse judgment on his first amended complaint (hereinafter, “complaint”). Plaintiff attacks, however, only that portion of the judgment which ordered dismissal of the second and third causes of action of the complaint, contending that the allegations of the latter counts were sufficient to resist the demurrer of defendant Sacramento Savings and Loan Association, and hence that the judgment of dismissal based upon the sustaining of the demurrer must be reversed.
+Defendant’s demurrer was both general and special, and was sustained with leave to amend as to the second and third causes of action. Plaintiff declined to amend and at the subsequent pretrial conference, the parties stipulated that the second and third causes of action be dismissed. No relief from the stipulation was ever sought. After trial of the first cause of action, judgment was entered that plaintiff take nothing thereon. With respect to the second and third causes of action, the judgment recites in part: “ . . . [T]he parties [have] heretofore stipulated that Judgment of Dismissal as to the Second and Third Causes of Action alleged in the First Amended Complaint may be entered upon the ground that the First Amended Complaint was not further amended within the prescribed time after demurrers to said Causes of Action were sustained, . . . .” Based upon the stipulation, the judgment further ordered dismissal of the second and third causes of action.
+Faced with this record, we are confronted at the outset by the question whether plaintiff may appeal, after judgment, from that portion thereof entered pursuant to his stipulation. Resolution of that question is dispositive and makes unnecessary the consideration of other issues raised by the parties.
+In Zinke v. Zinke Rebottoming Shoe Co., Inc. (1962) 208 Cal.App.2d 690 [25 Cal.Rptr. 360], a divorce action involving multiple causes of action, the trial court, among other rulings, sustained the demurrer of defendant Joseph Zinke to the fourth cause of action of his wife’s complaint, with leave to amend only as to the “alleged transfer by husband of community real property.” (208 Cal.App.2d at p. 694.) After wife chose not to amend, the two stipulated to entry of an order for dismissal of the fourth cause of action of her complaint. Responsive to the stipulation, the court thereupon dismissed the fourth cause of action.
+The wife’s appeal challenged, inter alia, dismissal of the fourth cause of action, and sought reinstatement of that count in order to reassert her alleged rights in the community property. The court found her stipulation to be a consent within the meaning of the “ ‘ “elementary and fundamental rule of appellate procedure that a judgment or order will not be disturbed on an appeal prosecuted by a party who consented to it.” ’ ” (Id., at pp. 694-695.) Accordingly, the court denied her the relief sought.
+As in Zinke, plaintiff here, by stipulating to dismissal of the second and third causes of action, consented to that portion of the judgment to which his attack is limited. Plaintiff’s reliance upon California Ammonia Co. v. Macco Corp. (1969) 270 Cal.App.2d 429 [75 Cal.Rptr. 753] is misplaced. His stipulation was not a motion for entry of judgment pursuant to section 581, subdivision 3 so as to permit him review by prompt appeal of the ruling on demurrer, for which purpose the 1963 legislation amended section 581, subdivision 3. Rather the stipulation was an abandonment of the second and third causes of action. (Id., at pp. 432-433.) This conclusion is fortified by the fact that the “one final judgment” rule precluded any appeal by plaintiff in regard to the second and third causes of action, at any time prior to conclusion of the action on the surviving count. (U.S. Financial v. Sullivan (1974) 37 Cal.App.3d 5, 11 [112 Cal.Rptr. 18].) Since the right to appeal had not yet matured, the occasion to secure a judgment of dismissal from which to appeal had not yet arisen. Therefore, plaintiff’s stipulation in advance of trial on the surviving cause of action can only be understood as a partial abandonment of his lawsuit.
+We hold, therefore, that plaintiff is not entitled to review of the court’s ruling on demurrer. Having consented to the judgment of dismissal, he may not appeal therefrom. (Code Civ. Proc., §§ 902, 904.1; Reed v. Murphy (1925) 196 Cal. 395 [238 P. 78]; see also 6 Witkin, Cal. Procedure (2d ed.) Appeal, § 122, pp. 4119-4120 and cases there cited.)
+The appeal is dismissed.
+Puglia, P. J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied February 17, 1977. Richardson, J., did not participate therein. Mosk, J., was of the opinion that the petition should be granted.
+The first cause of action, upon which trial was had, sounded in fraud; the remaining two counts are premised upon a claim of equitable lien, asserted upon theories of third-party beneficiary and breach of trust. Sacramento Savings and Loan Association, Inc., is the only defendant a party to this appeal.
+The pretrial conference order, in the following words, gave effect to the parties’ stipulation: “It is stipulated that judgment of dismissal as to the Second and Third Causes of Action alleged in the First Amended Complaint may be entered upon the ground that the First Amended Complaint was not further amended within the prescribed time after demurrers to said causes of action were sustained. Judgment of dismissal is ordered accordingly.”
+Plaintiff’s notice of appeal, liberally construed (Cal. Rules of Court, rule 1, subd. (a)), purports to take an appeal from the entire judgment. However, it directly addresses that portion of the judgment dismissing the second and third causes of action and, in written and oral argument, plaintiff seeks review of only that portion of the judgment.
+For example, we need not determine whether that portion of the pretrial conference order (see fn. 2, ante) which recites “[¡judgment of dismissal is ordered accordingly" itself amounted to the making and entry of judgment. (See Code Civ. Proc., § 58 Id.)
+In language much more qualified than that employed in the instant case, the stipulation in Zinke provided in part as follows: “ ‘This stipulation is without prejudice as to any further rights either of the parties may have with respect to said order [ ] sustaining demurrer and order dismissing fourth cause of action including, but not limited to, such right of appeal as may exist.’ ” (208 Cal.App.2d at p. 691.)
