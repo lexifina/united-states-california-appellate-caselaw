@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2653"
+decided: "1919-04-05"
+citations: ["40 Cal. App. 578"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IDA INGRAHAM, Respondent, v. GEORGE A. INGRAHAM, Appellant."]
+source_url: "https://static.case.law/cal-app/40/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2049007
+cites_cases: ["102 Pac. 927", "118 Pac. 546", "134 Cal. 88", "144 Cal. 625", "155 Cal. 674", "161 Cal. 134", "25 L. R. A. (N. S.) 45", "51 Cal. 543", "66 Pac. 73", "78 Pac. 19"]
+---
+
+# Ingraham v. Ingraham
+
+## Majority (WASTE, P. J.)
+
+WASTE, P. J.
+Plaintiff was granted an interlocutory decree of divorce, on the ground of willful desertion, and defendant appeals. The original complaint alleged that “defendant willfully and without cause, or provocation, deserted and abandoned plaintiff, with intent to desert said plaintiff, and ever since said time has continued to live separate and apart from plaintiff without her consent, and against her will, and with intent to desert and abandon her, and without fault of plaintiff.” An amended and supplementary complaint was filed, setting forth the ground of desertion in the same form, and adding a second count, based on allegations of extreme cruelty. Defendant answered, denying the allegations of the complaint, and at the same time filed his cross-complaint, alleging willful desertion and extreme cruelty on the part of plaintiff.
+The trial court found for the plaintiff on the ground of willful desertion alone, and decree followed. The finding as to willful desertion is couched in almost the identical language of the allegation hereinbefore quoted. Appellant attacks this finding upon the ground that the testimony introduced in the action and on which the finding is based is not sufficient to support the judgment or decree in that regard.
+“Willful desertion is the voluntary separation of one of the married parties from the other with intent to desert.” (Civ. Code, sec. 95.) Sections 96, 97, and 98 of the same code set forth the different classes of facts which may manifest such desertion. (Devoe v. Devoe, 51 Cal. 543.) Section 96 is as follows: “Persistent refusal to have reasonable matrimonial intercourse as husband and wife, when health or physical condition does not make such refusal reasonably necessary, or the refusal of either party to dwell in the same house with the other party, when there is no just cause for such refusal, is desertion. ’ ’
+The proof adduced at the trial of this action estabv lished the fact that the plaintiff and defendant, for several years, and up to the time of the commencement of the action continued to live in the same houSe, but occupying separate rooms. The desertion complained of by the plaintiff consisted of the gradual, and finally, the. persistent, refusal of the defendant to have any matrimonial intercourse with the plaintiff as husband and wife. The corroboration in this regard was merely the testimony of other witnesses that the parties occupied separate bedrooms in the house, and was not of the character and degree required by the code section relating to corroboration in divorce eases. We are not unmindful of the fact that the secrets of the bedchamber are very frequently hard to substantiate by other witnesses than the parties themselves. Nevertheless, the parties to a divorce action are not thereby relieved from the necessity of complying with the mandate of the law.
+Prom a careful reading of the lengthy record, the trial appears to have been conducted by the parties on the theory that extreme cruelty was the real issue between them. Near the conclusion of the trial, the court gave an intimation that the finding should be on the ground of desertion, predicated on the failure of defendant to grant the marital rights that the plaintiff was entitled to. The court reached the conclusion, and so stated that “the testimony shows no adequate cause for an entire cessation of sexual relations, and the testimony fairly shows it.”
+Prom our examination of the lengthy record we must disagree with the learned judge of the court below. There was no testimony, nor were any facts elicited, tending to show that the health or physical condition of the defendant did not make his refusal to have reasonable matrimonial intercourse reasonably necessary. The burden of establishing this fact rested on plaintiff. (Hayes v. Hayes, 144 Cal. 625, [78 Pac. 19].) There must be a finding in such cases as'to whether or not just cause for such refusal exists. (Mayr v. Mayr, 161 Cal. 134, [118 Pac. 546].) In the instant case plaintiff did not meet the burden imposed on her, and her case was not assisted by that of defendant, whose own testimony was against such a finding.
+The finding of the court in the language of the complaint is not therefore a sufficient finding on the facts attempted to be proved. (Devoe v. Devoe, supra.) Furthermore, had the court used appropriate language in the finding to cover the facts required by the first portion of section 96 (supra), the evidence would not be sufficient to support it.
+The general allegation of the complaint hereinbefore set forth, in the absence of a demurrer for a definite statement of the facts, is not now subject to the objection for the first time on this appeal, that it does not inform defendant that the desertion was intended to be established under the first provision of section 96. (Sheridan v. Sheridan, 134 Cal. 88, [66 Pac. 73].)
+As the case must be reversed for failure of the proof to support the finding as to the desertion, we will not comment in detail on the evidence relied on by respondent to corroborate the testimony of plaintiff, as to her residence. Suffice to say, that we are of the opinion that it is sufficient under the liberal rule laid down in MacDonald v. MacDonald, 155 Cal. 674, [25 L. R. A. (N. S.) 45, 102 Pac. 927]. On a retrial of the case such corroborating evidence should appear in proper order and sequence. The appellate court should not have to minutely examine the testimony of a multitude of witnesses, that it may, here and there, pick out fragments of proof, which, when pieced together, will support a finding of the trial court.
+No other points made on the appeal require examination.
+The judgment and decree are reversed.
+Richards, J., and Kerrigan, J., concurred.
