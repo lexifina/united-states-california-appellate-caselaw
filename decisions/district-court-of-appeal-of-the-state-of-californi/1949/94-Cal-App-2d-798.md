@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14183"
+decided: "1949-11-25"
+citations: ["94 Cal. App. 2d 798"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUISE A. REIMER et al., Respondents, v. THERESA FIRPO et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/94/cases/0798-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2255459
+cites_cases: ["143 Cal. 462", "17 Cal.App.2d 338", "233 P. 93", "54 A.L.R. 952", "61 P.2d 1223", "70 Cal.App. 265", "77 P. 153"]
+---
+
+# Reimer v. Firpo
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+This is a motion to dismiss an appeal. In January, 1937, Louise A. Reimer and her husband, Martin Reimer, brought an action against various named defendants. The case was tried over a period of several days in November, 1938, without a jury, before Honorable Maurice T. Dooling, Jr., then the duly qualified superior court judge for San Benito County who had been duly assigned by the Judicial Council to sit as a judge of the Superior Court of San Francisco. On November 23, 1938, a minute order was entered directing that judgment be entered in favor of Theresa Firpo and Bayern Bund, two of the defendants, “and submitted as to all other defendants. ’ ’ On March 14, 1939, a minute order was entered directing “that judgment he entered in favor of the plaintiffs in the sum of $2500.00” against the remaining defendants, Peter Firpo, Benno Pinole and G. Garibaldi. Findings of fact and conclusions of law were never signed or filed, and a formal judgment has never been entered. In 1945, Judge Dooling became, and ever since has been, a justice of the District Court of Appeal, First Appellate District, Division Two.
+In January, 1949, plaintiff, Louise A. Reimer, moved the trial court for an “order setting aside submission of cause and order for entry of judgment and granting movant a new trial, as to defendants Peter Firpo, Benno Pinole and G. Garibaldi,” on the ground that such relief would be in the interests of justice in that Judge Dooling is no longer a member of the superior court and is unable to enter a proper judgment, Under date of February 4, 1949, the presently acting presiding judge of the San Francisco Superior Court entered his order:
+1. Granting the motion as prayed;
+2. Vacating the order of submission of November 23,1938;
+3. Vacating and setting aside the order of March 14, 1939, directing entry of judgment; and stating that
+4. 1 ‘ The above entitled cause is enlarged for a new trial as to the Plaintiff Louise A. Reimer and Defendants Peter Firpo, Benno Pinole and G. Garibaldi.”
+From this order Firpo and Garibaldi have appealed. After the filing of the appellants’ opening brief, Louise A. Reimer filed the present motion to dismiss the appeal, on the ground that the order appealed from is nonappealable.
+If the questioned order is one granting a new trial, in the legal sense, said order is, of course, appealable, whether correctly or incorrectly granted. But that is not the precise nature of the order. It is quite clear that, when a ease requiring findings is tried, the trial is not complete but is still in process of determination until findings are signed and filed. Until that time, the trier of the fact may change his mind, and, even though an order has been made directing the entry of judgment, may order a different judgment to be entered.
+It is equally clear that when Judge Dooling became a member of the appellate court, his term as superior court judge terminated, and that thereafter he had no power, except where specifically permitted to do so by statute, to perform any judicial act as a trial judge, and certainly had no power to complete an ineompleted trial. This rule, supported by several cases, is stated as follows in 14 California Jurisprudence, section 12, page 801, at page 803: “Upon the expiration of the term of office of a judge his judicial power ceases, and it is not competent for him thereafter to do any act necessary to complete the trial of any cause which remains unfinished.”
+It is equally clear that no successor of Judge Dooling on the trial bench, and no associate of his on that bench, had the legal power to complete the incomplete trial by signing the findings. In Guardianship of Sullivan, 143 Cal. 462 [77 P. 153], the court stated the proper rule as follows (p. 467) : “A party litigant is entitled to a decision upon the facts of his ease from the judge ydio hears the evidence, where the matter is tried without a jury, and from the jury that hears the evidence, where it is tried with a jury. He cannot be compelled to accept a decision upon the facts from another judge or another jury.” This is in accord with the general rule on this subject. (See anno, on this subject in 54 A.L.R. 952, particularly at p. 959.)
+Thus, in the instant case there never was a complete trial or decision in the case. A “new trial” can only be granted “after a trial and decision by a jury, court, or referee.” (Code Civ. Proe., § 656.) That means that since findings were never signed or filed, the motion for a new trial prior thereto was premature. (Hughes v. DeMund, 70 Cal.App. 265 [233 P. 93]; Young v. Briggs, 17 Cal.App.2d 338 [61 P.2d 1223].)
+These principles must be kept in mind in interpreting the order of February 4,1949. Certainly, we will not presume that the trial court intended to grant a “new trial” in a case where no power to grant the motion existed. The trial having been incomplete, the trial court’s power was limited to declaring a mistrial and resetting the cause for trial. In the annotation in 54 American Law Reports, page 952, at page 959, the proper rule, supported by several cases, is set forth as follows: “The successor of a trial judge has no authority to decide or make findings of fact in a case not tried by him; and where, in such a case, material issues are not passed on and disposed of on the trial of the cause, it is deemed a mistrial, and another trial must be had. ’ ’ Although one portion of the challenged order purported to grant a “new trial” to plaintiff, it is obvious that, when that order is interpreted, in accordance with the above principles, what was intended was to grant a mistrial and to order a trial of the cause. Such an order is, of course, nonappealable and can only be reviewed on appeal from the judgment. For that reason, at this time we cannot, and do not, pass upon the question of the legal effect of the long delay by plaintiffs in bringing their cause to trial. That is a problem that can only be reviewed on appeal from the judgment, if one be entered.
+The order appealed from being nonappealable, the appeal therefrom is dismissed.
+Ward, J., and Bray, J., concurred.
