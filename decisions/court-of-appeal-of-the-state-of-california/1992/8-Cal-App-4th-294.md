@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A053543"
+decided: "1992-06-29"
+citations: ["8 Cal. App. 4th 294"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHRISTINE ANN JAGER, Plaintiff and Appellant, v. COUNTY OF ALAMEDA et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/8/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320528
+cites_cases: ["119 Cal.App.3d 883", "174 Cal.Rptr. 257", "229 Cal.Rptr. 324", "283 Cal.Rptr. 405", "42 Cal.3d 481", "491 P.2d 421", "53 Cal.3d 1271", "6 Cal.3d 176", "723 P.2d 64", "812 P.2d 586", "98 Cal.Rptr. 837"]
+---
+
+# Jager v. County of Alameda
+
+## Majority (MERRILL, J.)
+
+Opinion
+MERRILL, J.
+Procedural and Factual Background
+The trial court sustained a demurrer without leave to amend to the complaint of appellant Christine Ann Jager which alleged professional negligence on the part of respondents County of Alameda, John J. Meehan, District Attorney of Alameda County, and Board of Supervisors of Alameda County. Thereafter, the trial court entered judgment against Jager and in favor of respondents. Jager appeals.
+By her complaint Jager alleged that on April 27, 1988, the family support division of the Alameda County District Attorney’s office obtained an order modifying a May 1974 judgment which included a child support order for her daughter Heather. The modification order set forth that Jager’s former husband, Gary Hill, owed child support payments in the amount of $21,250. The judgment was recorded on September 28, 1988, and the modification order was recorded on October 13, 1988.
+The complaint further alleged that from February 1990, through August 1990, the Alameda County District Attorney was in correspondence with a title company with regard to an escrow account opened for Hill and the payment or release of the child support judgment lien. The district attorney’s office informed the title company that $23,941 was the total amount of the arrearage. In July 1990, the district attorney’s office received a check in this amount from the title company. At approximately the same time, Jager received a check from the district attorney’s office in the amount of $23,941. The district attorney subsequently sent the title company a release of the 1974 judgment and the 1988 modification order.
+Jager alleges that in August 1989, she informed an employee of the district attorney’s office that the amount of the child support and interest owed by Hill was $35,710. Her complaint alleged professional negligence on the part of respondent in performing legal services for her and in the release of the judgment lien.
+Discussion
+In review of an order sustaining a demurrer without leave to amend we liberally construe the allegations of the complaint to attain substantial justice among the parties. The demurrer should not be sustained where a plaintiff can cure a defective complaint by amendment or where the pleading, liberally construed, can state a cause of action. However, where there is no reasonable possibility that an amendment can cure a complaint, the sustaining of a demurrer without leave to amend is not an abuse of discretion. (Heckendorn v. City of San Marino (1986) 42 Cal.3d 481, 486 [229 Cal.Rptr. 324, 723 P.2d 64].)
+We have determined the trial court properly sustained the demurrer without leave to amend in the instant case. One of the requisite elements of a legal malpractice claim is the existence of an attorney-client relationship or other basis for a duty of care owed by the attorney. (See Neel v. Magana, Olney, Levy, Cathcart & Gelfand (1971) 6 Cal.3d 176, 180-181 [98 Cal.Rptr. 837, 491 P.2d 421], and Davis v. Damrell (1981) 119 Cal.App.3d 883, 886-887 [174 Cal.Rptr. 257].) Even our most liberal construction of Jager’s complaint does not demonstrate an attorney-client relationship or a duty of care otherwise owed by respondents to Jager.
+The statutory framework which authorized the district attorney’s actions in this case (see Welf. & Inst. Code, §§ 11350.1, 11475.1) did not create an attorney-client relationship between a parent seeking child support enforcement and the district attorney. (See Monterey County v. Cornejo (1991) 53 Cal.3d 1271, 1281-1284 [283 Cal.Rptr. 405, 812 P.2d 586].) As our Supreme Court recently noted, “[t]he statutory scheme empowers the district attorney to establish, modify and enforce support obligations ‘in the name of the county on behalf of the child, children or caretaker parent.’ (§ 11350.1.) The purpose of such actions is to provide a direct procedure for a county to recoup public assistance, and to assist parents with limited resources to enforce support obligations so that public funds are not again unnecessarily expended. [Citations.] Notwithstanding the collateral benefit to the custodial parent, the ‘client’ in such actions remains the county.” (Id., at p. 1284, italics added.)
+Our conclusion that no attorney-client relationship existed between Jager and the district attorney or Jager and the other respondent is buttressed by recent legislation codifying the decisional law. Section 11478.2, effective January 1, 1992, states in pertinent part: “(a) In all actions involving paternity or support... the district attorney and Attorney General represent the public interest in establishing, modifying, and enforcing support obligations. No attorney-client relationship shall be deemed to have been created between the district attorney or Attorney General and any person by virtue of the action of the district attorney or the Attorney General in carrying out these statutory duties, [fl] (b) The provisions of subdivision (a) are declarative of existing law.” (Italics added.)
+While not specifically identified in her complaint, Jager contends additional theories of recovery may be inferred from the allegations of her complaint. Specifically, she argues causes of action for the negligent interference with economic relationship, intentional interference with economic relationship and civil conspiracy may be gleaned from her factual allegations. In view of the statutory immunities protecting respondents in the performance of their duties, we find no merit in these arguments.
+Government Code section 821.6 provides in full: “A public employee is not liable for injury caused by his instituting or prosecuting any judicial or administrative proceeding within the scope of his employment, even if he acts maliciously and without probable cause.” This absolute immunity precludes Jager from stating the additional causes of action which she contends may be inferred from her complaint. We find no merit in her contention that respondents’ acts were not within the scope of employment.
+Further, her contention that there is an independent statutory basis for respondents’ liability is also baseless. Jager relies upon Government Code section 820, subdivision (a), which sets forth that a public employee is liable for injuries caused by his act or omission “[ejxcept as otherwise provided by statute.” In view of the absolute immunity provided by Government Code section 821.6, Jager’s argument fails.
+The judgment is affirmed.
+White, P. J., and Chin, J., concurred.
+The Board of Supervisors of Alameda County are not respondents in this appeal. Jager has appealed from the judgment with respect to the County of Alameda and John J. Meehan, District Attorney of Alameda County.
+All further statutory references are to the Welfare and Institutions Code unless otherwise indicated.
