@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3947"
+decided: "1949-08-05"
+citations: ["93 Cal. App. 2d 255"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST NATIONAL TRUST AND SAVINGS BANK OF SAN DIEGO, as Executor, etc., Respondent, v. SAM CERVENY et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/93/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253345
+cites_cases: ["130 P.2d 421", "152 P.2d 625", "158 P.2d 262", "163 P.2d 443", "194 Cal. 748", "21 Cal.2d 135", "230 P. 441", "25 Cal.2d 37", "27 Cal.2d 131", "69 Cal.App.2d 95"]
+---
+
+# First National Trust & Savings Bank v. Cerveny
+
+## Majority (MUSSELL, J.)
+
+MUSSELL, J.
+Isabelle Grainger, an incompetent of the age of 77 years, by and through her guardian obtained a judgment against the defendants herein for the sum of $4,400, plus interest and costs. The judgment provided that any right, title or interest which the defendants, or either of them, held in and to certain real property therein described was held in trust for plaintiff to secure to her the payment of the sums found due. It was ordered that no execution issue until the expiration of 90 days from the date of entry of the judgment. The decree contained a recital that the parties through their respective counsel stipulated that the judgment and decree as ordered should be entered. Subsequent to the entry of the judgment, Isabelle Grainger died and the First National Trust and Savings Bank of San Diego was substituted as plaintiff in the action.
+The complaint contained two causes of action. In the first it was alleged that on November 30, 1945, Isabelle Grainger was adjudged an incompetent and a guardian was appointed for her; that she was mentally and physically unable to properly manage and take care of herself or her property, which fact was known to defendants; that defendants after gaining the confidence of Isabelle Grainger, and after having falsely professed deep affection and friendship for her, fraudulently procured the delivery to them of all her property, which consisted of $4,591 cash; that defendants promised and agreed to use the funds so obtained to construct a home on their property and that they would care for her the remainder of her life; that the funds were used in the construction of the home on defendants’ real property, therein described, but defendants failed to perform their agreement and Isabelle Grainger became a public charge. The prayer was that it be decreed that the real property be held in trust for Isabelle Grainger and that defendants be required to convey it to her. The second cause of action is based on a common count.
+No appeal was taken from the judgment and it became final. Findings of fact and conclusions of law were waived and the judgment was that the defendants hold title to the real property in trust for plaintiff to secure the payment to her of the sum of $4,400. All intendments are therefore in favor of upholding the judgment and it is presumed that every fact essential to support it was proved and found by the court. (Bekins Van Lines, Inc. v. Johnson, 21 Cal.2d 135, 137 [130 P.2d 421]; Smith v. McKinstry, 69 Cal.App.2d 95, 96, 97 [158 P.2d 262].)
+The judgment herein was for a definite sum of money to secure the payment of which a trust was established in specific real property. The court had jurisdiction of the persons and subject matter and its judgment is not subject to collateral attack. (Wells Fargo & Co. v. City and County of San Francisco, 25 Cal.2d 37, 40, 44 [152 P.2d 625].)
+It appears from the record before us that, subsequent to the appointment of a guardian for Isabelle Grainger, but prior to the filing of the instant action, the defendants recorded a declaration of homestead on the property here involved ; that after an order had been entered that an execution be issued on March 3, 1947, both defendants filed a voluntary petition in bankruptcy and were adjudged bankrupts; that in the bankruptcy proceedings defendants attempted to set aside the property here involved as exempt property, but the referee in bankruptcy, and later the district court, held that the action in which the judgment was secured was one in fraud and therefore not dischargeable in bankruptcy. The defendants refused to pay the judgment and thereafter an order to show cause why a receiver should not be appointed was issued. Affidavits were filed and the matter was heard by the court after which it appointed a receiver with power to sell the property involved, subject to confirmation of the court.
+Defendants contend that the trial court, in entering a money judgment, erred in imposing a lien on the property superior to the declaration of homestead and that the court was without authority to appoint a receiver to sell the premises.
+It is apparent that the first cause of action stated in the complaint was an action in equity to recover money advanced pursuant to fraudulent misrepresentations and to impress a trust on the proceeds of said funds when turned into improvements made on real property (Civ. Code, § 2224) and the final judgment creating the trust is not subject to collateral attack. (Wells Fargo & Co. v. City and County of San Francisco, supra.)
+The declaration of homestead in the instant case was recorded on or about December 6, 1945, after defendants had fraudulently procured all of the funds of Isabelle Grainger and after such funds had been used in the construction of a residence upon defendants’ property. Such a homestead may not be used in a court of equity to preserve to them the fruits of their fraudulent acts. Under such circumstances the homestead may be successfully attacked on the ground of fraud. (Kemp v. Enemark, 194 Cal. 748, 754 [230 P. 441].)
+In view of the fact that the judgment did not provide for a sale of the property, or the means by which the decree of the court should be carried into effect, we conclude that the order appointing a receiver was proper. Section 564 of the Code of Civil Procedure provides, in part, that a receiver may be appointed:
+“3. After judgment, to carry the judgment into effect;
+“4. After judgment, to dispose of the property according to the judgment, ... or when the judgment debtor refuses to apply his property in satisfaction of the judgment;
+“7. In all other cases where receivers have heretofore been appointed by the usages of courts of equity.”
+The affidavits filed in support of the order to show cause show that the defendants refused to apply their property in satisfaction of the judgment; that there is a prior trust deed on the property involved securing a note which is in default and that the appointment of a receiver is necessary to carry the judgment into effect.
+The action being one in equity the court retains jurisdiction to dispose of the entire controversy and may adjust all the differences between the parties arising from the cause of action in order to do complete justice and prevent further litigation. (10 Cal.Jur. 496; Sears v. Rule, 27 Cal.2d 131, 149 [163 P.2d 443].)
+Under the circumstances here shown we see no error in the granting of the order appointing a receiver to carry the judgment into effect and ordering a sale of the property.
+Order affirmed.
+Barnard, P. J., concurred.
