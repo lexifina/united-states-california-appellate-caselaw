@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12836"
+decided: "1941-01-22"
+citations: ["42 Cal. App. 2d 565"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARIA APABLASA CONLEY, Plaintiff and Appellant, v. GAYETANO J. APABLASA, as Administrator, etc., et al., Respondents; GERALD E. ARBUCKLE, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/42/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4554180
+cites_cases: ["31 Cal. App. (2d) 494", "88 Pac. (2d) 194"]
+---
+
+# Conley v. Apablasa
+
+## Majority (WOOD, J.)
+
+WOOD, J.
+Maria A. Conley has appealed from a ñnal decree entered in an action to partition certain real property by which the rights of the parties were determined and by which the distribution of funds received from the sale of such property was ordered. Gerald E. Arbuckle has attempted to appeal from a minute order granting in part his petition for adjustment of rents. Four other appeals from various decrees made during the course of the partition proceeding have been dismissed pursuant to the stipulation of the parties.
+The facts which are material to the determination of the present controversy are as follows. In 1929 Concepcion A. Sepulveda, who was the owner of six separate parcels of real property, conveyed an undivided one-half interest in four of the parcels to her six children. In 1931 she died intestate and probate proceedings, which are still pending, were commenced. The present partition action was filed in 1936 by Maria A. Conley against the administrator of the estate of Sepulveda and all other cotenants of such real property. Prior to the trial of the partition suit the probate court entered a decree in the estate proceedings ordering partial distribution of an undivided 2/21 interest in two of the six parcels of land to Maria A. Conley. Subsequently in the course of partition proceeding all of the parcels of real property were duly sold to appellant Gerald E. Arbuckle. The court in the partition action directed that the share of the proceeds of the sale belonging to cotenants whose interests were still subject to administration should be paid to the administrator of the estate, after deducting therefrom the proportionate share of the costs of the partition proceeding.
+In its interlocutory decree the court determined the fractional interests representing the respective shares of the various claimants to the proceeds of the sale of the real property. So far as is here material the final decree from which Maria A. Conley has appealed provided that the sum of $1240.01 should be paid to her as her share of the balance of the funds then on deposit in the court and that the sum of $1210.57 should be paid to the administrator of the estate of Sepulveda. Her motion for a new trial and motion to vacate the judgment were both denied.
+Appellant Conley contends that she is entitled to a sum of from $914 to $950 more than she received by such final decree. It is claimed that the court paid such sum to the administrator of the estate of Sepulveda as appellant’s share of the expenses of administration in such estate and that such payment was improper for the reason that appellant should not have been required to bear any of the expenses of administration after the entry of the decree of partial distribution. There is nothing in the final decree or the findings of fact and conclusions of law upon which such decree is based which would indicate that any sum of money was being paid to the administrator as appellant’s share of the expenses of administration. The amounts directed to be paid by the final decree are merely designated as the respective shares of the various parties. No reference is made to expenses of administration. The claim that appellant is entitled to a larger amount of money than she actually received is predicated solely on the assumption that she was wrongfully required to pay expenses of administration. Since there is nothing in the record to support such assumption and since no other errors are urged as grounds for reversal, we must hold that there is no merit in the appeal.
+The purported appeal of Gerald E. Arbuckle from the minute order granting his petition for adjustment of rents must be dismissed, such order being nonappealable. The order recites: “Petition of Gerald E. Arbuckle for adjustment, etc., comes on for hearing. . . . Said petition is granted in part and Findings and Decree are signed and filed. Further consideration as to $588.00 is postponed to October 31, 1938.” By its very wording the order indicates that it is nothing more than a memorandum, stating that the petition has been granted in part, that findings and a decree have been signed and filed and that the petition would be further considered at a later date. An appeal will not lie from such minute order. (Carpenter v. Golden State Securities Co., 31 Cal. App. (2d) 494 [88 Pac. (2d) 194].) If Arbuckle was attempting to appeal from the decree mentioned in the minute order such appeal would likewise be of no avail for neither the findings nor the decree, if made, were included in the record on appeal.
+At the time that this appeal was before us for oral argument a motion for diminution of the record was made on behalf of appellant Arbuckle. Since the matters sought to be added to the record by such motion cannot affect our conclusion that the purported appeal must be dismissed, such motion is hereby denied.
+For the foregoing reasons the final decree from, which Maria A. Conley has appealed is affirmed and the purported appeal of Gerald E. Arbuckle is dismissed.
+Moore, P. J., and MeComb, J., concurred.
+A petition for a rehearing was denied February 13, 1941, and appellants’ petition for a hearing by the Supreme Court was denied March 20, 1941.
