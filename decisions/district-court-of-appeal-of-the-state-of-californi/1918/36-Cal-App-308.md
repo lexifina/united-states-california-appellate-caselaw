@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2122"
+decided: "1918-02-18"
+citations: ["36 Cal. App. 308"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARTHUR F. MacPHEE, Appellant, v. BOARD OF POLICE COMMISSIONERS OF THE CITY AND COUNTY OF SAN FRANCISCO et al., Respondents."]
+source_url: "https://static.case.law/cal-app/36/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4450952
+cites_cases: ["121 Am. St. Rep. 146", "13 L. R. A. (N. S.) 661", "151 Cal. 711", "91 Pac. 598"]
+---
+
+# MacPhee v. Board of Police Commissioners
+
+## Majority (BEASLY, J., pro tem.)
+
+BEASLY, J., pro tem.
+On May 1, 1913, MacPhee was a police officer of the city and county of San Francisco. On that day an accusation was made against him before the police commission of that city for violating section 182 of the Penal Code of the state of California, in that he was charged with having joined other police officers in a conspiracy with a gang of confidence operators to protect the latter in their criminal activities. Certain specified charges of crimes committed in carrying out the conspiracy were embodied in the complaint filed against MacPhee, illustrative of which was one to the effect that one of the conspirators, named Frank Ross, had fleeced a victim of nine hundred dollars, and that the police officers who were members of the conspiracy blackmailed him of seven hundred dollars of this amount as hush money, and, incidentally, that in the original bargain made by the conspirators the police officers were to have but fifteen per cent of the results of the confidence operations.
+MacPhee had a hearing on these charges, which progressed to the point where the evidence of the complainants was before the commission, when he suggested that the grand jury were considering the matter, and asked for a continuance until that investigation should be concluded, which was granted. The grand jury did consider the matter, and indicted MacPhee and several others, and MacPhee was subsequently convicted and sentenced to confinement in the county jail. Thereupon, the police commission, without notifying MacPhee and without hearing him, and apparently without reference to the charges made, dismissed MacPhee from the force. He appealed from the conviction in the criminal case, and this court reversed the judgment and granted him a new trial. Proceedings in the lower court were thereupon dismissed, and MacPhee subsequently demanded that the police commission proceed to set aside his dismissal on the accusation before that body and hear the charges against him. This the commission refused to do, and he then applied to the superior court for a writ of mandate to compel them to act in accordance with his demand. That court denied the application, and MacPhee now appeals.
+The appellant relies upon a section of the charter of the city and county of San Francisco which provides, generally speaking, that no member of the police department shall be subject to dismissal for any cause except after trial before the commission had upon notice to him of the time and place of hearing (Charter, art. VIII, c. 7, sec. 3). But there is another provision of this charter which must be construed with the section above referred to so as to reconcile them, if possible, with each other, namely, section 10 of article XVI, which provides that an office becomes vacant when the incumbent thereof dies, resigns, is adjudged insane, convicted of a felony or of an offense in violation of his official duty, or is removed from office, ceases to be a resident of the city and county of San Francisco, or absents himself from-the state without leave for more than sixty consecutive days.
+Upon first reading, these two sections of the charter appear, as contended by the appellant, to be irreconcilable, but a closer reading shows that section 3 of chapter 7 of article VIII refers to trials generally for breach of duty or misconduct and other cases before the commission; while section 10 of article XVI specifically makes a rule by which offices of the city and county become vacant under eertain specified and carefully defined conditions.
+Viewing the first section above cited as providing a rule governing the dismissal of a member of the police department, and the latter section as designating a condition under which an office, either in the police or any other department of the city government, shall become vacant, there is no irreconcilable conflict between these two sections of the charter; and it therefore becomes unnecessary to apply the rule invoked by the appellant that particular provisions prevail over more general provisions of a statute. This being so, the case of McKannay v. Horton, 151 Cal. 711, [121 Am. St. Rep. 146, 13 L. R. A. (N. S.) 661, 91 Pac. 598], covers this ease, where it is held that by section 10 of article XYI of the charter of San Francisco an office ipso facto becomes vacant on the conviction of the incumbent of a felony. Here the conviction was of a misdemeanor, but it was a misdemeanor of such character as involved a violation of official duty, and therefore comes within the section of the charter upon which the case of McKannay v. Horton rests.
+The judgment is affirmed.
+Lennon, P. J., and Kerrigan, J., concurred.
