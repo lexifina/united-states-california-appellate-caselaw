@@ -1,0 +1,34 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. Nos. 35533, 35602"
+decided: "1970-12-11"
+citations: ["13 Cal. App. 3d 446"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD JOSEPH MONTANO, a Minor, etc., Plaintiff and Respondent, v. CITY OF SOUTH GATE et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/13/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4416956
+cites_cases: ["119 P. 663", "125 Cal. 687", "161 Cal. 502", "168 P. 142", "34 Cal.App. 530", "58 P. 308"]
+---
+
+# Montano v. City of South Gate
+
+## Majority
+
+Opinion
+JEFFERSON, J.
+An action for personal injuries was instituted by Gilbert D. Montano, both individually and as guardian ad litem for Edward Joseph Montano, a minor, against defendants City of South Gate (hereinafter referred to as the City) and Everett Allen Shong. On October 28, 1968, following a jury trial, judgment was entered in favor of Gilbert D. Montano for $13,000 and in favor of the minor for $65,000 and costs. Plaintiffs’ attorney submitted a cost bill of $794.10.
+On November 4, 1968, counsel for the City sent to plaintiffs’ counsel Travelers Insurance Company drafts payable to Gilbert D. Montano in the sum of $13,000 to Gilbert D. Montano as Guardian ad Litem for Edward Joseph Montano in the sum of $65,000, and to both plaintiffs in the sum of $794.10. No interest was included for the week between entry of the judgment and tender of payment. A cover letter accompanying the drafts provided that the $65,000 was tendered “for the settlement of Edward Joseph Montano’s judgment” and the $794.10 draft was tendered “for payment of court costs.” The letter also stated, “If there is any interest due on the judgment at the time you receive these drafts, kindly advise me as to the amount and I will make payment.” Plaintiffs’ counsel returned these two drafts explaining that he could not accept the conditional tender on behalf of the minor because he believed the judgment in the minor’s favor to be inadequate and he intended to make a motion for new trial.
+Thereafter, a motion for a new trial on behalf of the minor plaintiff was made and, on December 30, 1968, it was denied. On January 21, 1969, the court executed its order approving compromise of the minor’s claim and authorizing plaintiffs’ attorney to furnish defendants with a satisfaction of judgment upon payment to him on behalf of his client of the sum of $65,000 plus $794.10 court costs, and interest on the $65,000 from the date of judgment until January 27, 1969, in the amount of $1,154.90.
+On February 10, 1969, the defendants filed a “Notice of Motion to Modify Order Approving Compromise of Minor’s Claim” requesting the court to remove the interest amount from the compromise order on the ground that defendants’ tender of November 4, 1968, stopped the accrual of interest. The trial court orally denied the motion and thereafter by stipulation proceeded on oral motion for satisfaction of judgment (Code Civ. Proc., § 675) to consider, on the basis of the evidence, the issue of whether interest was properly accrued and computed. The court on April 7, 1969, denied the 675 motion on the ground that the tender, though otherwise sufficient, was not unconditional.
+Thereafter, on May 19, 1969, the City made written demand of plaintiffs’ attorney for satisfaction of judgment and enclosed a draft for $100 which, as the letter stated, was more than the interest for the one-week period from October 28 to November 4, 1968. When their demand was refused, the City on May 29, 1969, filed a formal, written notice of motion for satisfaction of judgment. On June 6, 1969, the City noticed an appeal from the trial court’s adverse ruling of April 7, 1969. On June 10, 1969, the trial court denied the second motion, and on August 1, 1969, the City appealed from that order.
+Satisfaction of a judgment may be directed by the court where the evidence discloses that the judgment has been “satisfied in fact” (Code Civ. Proc., § 675). The evidence in the present case is not disputed.
+Civil Code section 1494 provides: “An offer of performance must be free from any conditions which the creditor is not bound, on his part, to perform.”
+The written offer mailed November 4, 1968, contained no improper conditions. It enclosed drafts covering both principal and costs, and contained an offer to pay in addition the small amount of accrued interest. Plaintiff did not object to the fact that the tender was in the form of drafts, nor to the fact that the drafts did not include the small amount of accrued interest which defendant also offered to pay. The tender was rejected solely upon the ground that plaintiff wished to preserve his right to make a motion for a new trial.
+The only condition which defendant imposed by its tender was that the amount offered would be “for the settlement of Edward Joseph Montano’s judgment.” Under the circumstances this was not a condition “which the creditor is not bound, on his part, to perform” within the meaning of Civil Code section 1494. (Ferreav. Tubbs (1899) 125 Cal. 687, 691-692 [58 P. 308]; Stein v. Leeman (1911) 161 Cal. 502, 504 [119 P. 663]; Hancock v. Hunt (1917) 34 Cal.App. 530 [168 P. 142].)
+Plaintiff argues here that if he had accepted the tender made on November 4, 1968, he would have waived his motion for a new trial. Granted that this is so, it does not change the effect of the tender as a means of stopping the running of interest. In Ferrea v. Tubbs, supra, the plaintiff took an appeal from a judgment he deemed insufficient. During the pendency of the appeal the defendants made a tender of principal, costs and interest to date “as payment in full.” Plaintiff refused the tender. After the judgment had been affirmed, the trial court made an order satisfying the judgment upon the payment of the amount originally tendered. Plaintiff then appealed from that order. In affirming, the Supreme Court said (at p. 692): “By the affirmance of the judgment in this court it was declared that plaintiff should not have appealed the case. It was further declared that defendants’ tender in effect was sufficient in amount to cover all plaintiff’s just claims, and therefore should have been accepted when made. Plaintiff could refuse to accept the tender, and prosecute his appeal, but he thereby assumed the risk of losing the use of this money pending the appeal in case of an affirmance of the judgment.” That reasoning applies here. Defendants’ tender was not unconditional, but it contained no improper condition. It therefore stopped interest.
+Each of the orders appealed from is reversed.
+Files, P. J., and Kingsley, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied February 3, 1971.
