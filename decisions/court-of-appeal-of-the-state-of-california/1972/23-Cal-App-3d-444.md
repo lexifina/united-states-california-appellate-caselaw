@@ -1,0 +1,28 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 9630"
+decided: "1972-02-10"
+citations: ["23 Cal. App. 3d 444"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. KERRY MARTIN et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/23/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039201
+cites_cases: ["19 Cal.Rptr. 1", "2 Cal.App.3d 1083", "20 Cal.App.3d 746", "203 Cal.App.2d 427", "21 Cal.Rptr. 515", "264 Cal.App. 2d 263", "264 Cal.App.2d 392", "264 Cal.App.2d 919", "267 Cal.App.2d 900", "273 Cal.App.2d 720", "276 Cal.App.2d 499", "294 P.2d 23", "3 Cal.App.3d 636", "368 P.2d 529", "390 U.S. 234", "432 P.2d 197", "46 Cal.2d 269", "57 Cal.2d 276", "62 Cal.Rptr. 581", "67 Cal.2d 471", "70 Cal.Rptr. 256", "70 Cal.Rptr. 356", "70 Cal.Rptr. 869", "73 Cal.Rptr. 682", "78 Cal.Rptr. 439", "81 Cal.Rptr. 55", "82 Cal.Rptr. 902", "84 Cal.Rptr. 81", "98 Cal.Rptr. 65"]
+---
+
+# People v. Martin
+
+## Majority (THE COURT.)
+
+Opinion
+THE COURT.
+The People appeal from an order dismissing the information on the ground that respondents were committed without reasonable or probable cause. (Pen. Code, § 995.) Respondents were jointly charged with possession of marijuana. (Health & Saf. Code, § 11530.)
+It is axiomatic that in considering the propriety of a motion to set aside an information pursuant to; section 995 of the Penal Code the reviewing court may not substitute its judgment as to the weight of the evidence for that of the committing magistrate. And if there is some evidence in support of the information, the court will not inquire into its sufficiency. (Perry v. Superior Court (1962) 57 Cal.2d 276, 283 [19 Cal.Rptr. 1, 368 P.2d 529]; People v. Bradley (1969) 276 Cal.App.2d 499, 502 [81 Cal.Rptr. 55].) Although the magistrate, in reaching his decision, may weigh the evidence, resolve conflicts, and give or withhold credence to witnesses, such a balancing of the evidence is not within the powers of a tribunal reviewing the magistrate’s order. (Perry v. Superior Court, supra; People v. Bradley, supra.) Every legitimate inference that may be drawn from the evidence must be drawn in favor of the information. (Rideout v. Superior Court (1967) 67 Cal.2d 471, 474 [62 Cal.Rptr. 581, 432 P.2d 197].) Where evidence before the committing magistrate on the issue of the legality of a search and seizure is susceptible of conflicting inferences or consists only of the testimony of prosecution witnesses, the information should not be set aside on the ground that essential evidence was illegally obtained if, resolving all reasonable inferences in favor of the prosecution, there is any substantial evidence to support a contrary conclusion. (Badillo v. Superior Court (1956) 46 Cal.2d 269 [294 P.2d 23]; People v. Nunn (1968) 264 Cal.App.2d 919, 920 [70 Cal.Rptr. 869].)
+Here, the respondents were lawfully stopped by city police officers for operating a motor vehicle with an illegible license plate. (Veh. Code, § § 2805, 2806, 5201; see also People v. Cacioppo (1968) 264 Cal.App.2d 392, 396-397 [70 Cal.Rptr. 356].) When the driver was unable to produce a driver’s license and stated that he did not know where the registration certificate was located, since the automobile was owned, by another person, the police officers were, under the circumstances, reasonably justified in searching the automobile for the registration certificate so they could (1) issue a citation to the actual owner, and (2) determine whether the vehicle was stolen. (See People v. Odegard (1962) 203 Cal.App.2d 427, 430 [21 Cal.Rptr. 515]; People v. Walker (1969) 273 Cal.App.2d 720 [78 Cal.Rptr. 439]; People v. Cacioppo, supra; People v. Lumar (1968) 267 Cal.App.2d 900, 905 [73 Cal.Rptr. 682]; Peole v. Mermuys (1969) 2 Cal.App.3d 1083 [82 Cal.Rptr. 902]; People v. Superior Court (1970) 3 Cal.App.3d 636 [84 Cal.Rptr. 81]; People v. Vermouth (1971) 20 Cal.App.3d 746, 752 [98 Cal.Rptr. 65].) There is substantial evidence that one of the officers, while standing outside the vehicle, first looked for the registration slip on the steering column and on the sun visors, and that when he saw none, he decided to enter the vehicle to look into the glove compartment. The officer was, for his own protection, justified in searching the glove compartment himself, rather than risk the danger that the passenger might pull a weapon out of the glove compartment. (See People v. Walker, supra, at p. 724.)
+There is substantial evidence that when the officer started to enter the vehicle, he observed the kilo of marijuana in plain view on the floor of respondents’ vehicle. Thus, the incriminating evidence was lawfully seized. (Harris v. United States (1968) 390 U.S. 234, 236 [19 L.Ed.2d 1067, 1069, 88 S.Ct. 992]; People v. Cacioppo, supra.)
+As for the marijuana found in respondent Dolphy’s jacket pocket during the booking process, the law is established that where a defendant has been lawfully arrested, a search of his person during the booking process is reasonable and proper. (People v. Monreal (1968) 264 Cal.App. 2d 263, 265 [70 Cal.Rptr. 256], and cases cited therein.)
+Accordingly, there is substantial evidence to- support the magistrate’s finding of reasonable or probable cause to hold, the respondents; therefore, the order granting the motion to dismiss the information is reversed.
+Respondents’ petition for a hearing by the Supreme Court was denied April 6, 1972.
