@@ -1,0 +1,48 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 33863"
+decided: "1979-12-03"
+citations: ["99 Cal. App. 3d 349"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re TIMOTHY E., a Person Coming Under the Juvenile Court Law. THE PEOPLE, Plaintiff and Respondent, v. TIMOTHY E., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/99/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2002542
+cites_cases: ["127 Cal.Rptr. 629", "139 Cal.Rptr. 343", "16 Cal.3d 263", "545 P.2d 1333", "73 Cal.App.3d 65"]
+---
+
+# People v. Timothy E.
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+The minor appeals from an order finding him to be a person coming under section 602 of the Welfare and Institutions Code. We modify the order and affirm it as so modified.
+The minor was originally charged in two counts: (count I) grand theft, in violation of subdivision 1 of section 487 of the Penal Code; and (count II) petty theft, in violation of section 484 of the Penal Code. After his motion to suppress, made under section 1538.5 of the Penal Code was denied, count I was amended to charge only petty theft; the minor was found guilty on count I and count II was dismissed. He was granted probation with a fine of $100 imposed.
+The minor was employed by a Ms. Lemmon at an establishment in the City of Carson. In December, Ms. Lemmon had placed $500 in an envelope in her purse and placed it in an area to which only employees had access. A short time later she discovered that $360 was missing. When, later that month, she missed a $10 bill from her purse, she set a trap, using a $20 bill whose serial number she noted. When that bill disappeared, she challenged the minor, who produced the bill. The minor was arrested and, after interrogation by the police, admitted both the $360 and the $20 theft.
+On this appeal, defense counsel urges: (1) that the motion to suppress the minor’s confession should have been granted; (2) that the minor was improperly denied counsel of his choice; and (3) that the imposition of a fine was improper. We reject the first two contentions but agree with the third. Accordingly, we modify the order by deleting the provision for a fine and affirm it as so modified.
+I
+After interviewing Ms. Lemmon, a police officer went to the minor’s home. He met the minor’s sisters in the front yard and asked them whether the minor lived there; they replied that he did. When the girls entered the house, the officer followed them to the front door. As they opened the door, the officer saw the minor inside, wearing only the bottom of his pajamas. The officer spoke to the minor, asking if he could come in. The minor said, “Yes.” The officer entered, saying to the minor: “I am here to arrest you for grand theft.” The officer then ordered the minor to dress and, when he was dressed, took him to the police station. On the way Miranda warnings were given and, at the station, the minor confessed.
+(a) Defendant contends that the entry into the house, for the purpose of arrest, violated People v. Ramey (1976) 16 Cal.3d 263 [127 Cal.Rptr. 629, 545 P.2d 1333], as interpreted in People v. Superior Court (Kenner) (1977) 73 Cal.App.3d 65 [139 Cal.Rptr. 343]. We disagree. Under the officer’s version of the events, which the trial court expressly accepted, the entry was with consent and with knowledge of the officer’s purpose.
+(b) The minor here contends that the officers had no probable cause to arrest him for grand theft. We disagree. The $20 theft, which the minor had admitted to Ms. Lemmon and of which admission the officer was aware, took place under circumstances similar to the earlier $360 theft. The minor had been seen, shortly after the first theft, in possession of a large amount of bills. We cannot say that the trial court erred in accepting the totality of the officer’s knowledge as giving him probable cause to believe the minor guilty.
+II
+The minor had been living, part of the time, with a man named Barrar, an old family friend. Learning of the minor’s arrest, Mr. Barrar retained counsel for the minor. Because of a conflict between Mr. Barrar and that lawyer, the lawyer was discharged; another lawyer was retained and discharged. At the time of hearing, Mr. Barrar sought to substitute a third lawyer, who sought a continuance because she was not prepared. Finding that Mr. Barrar, not a relative or guardian, had no standing to select counsel, the trial court refused to accept the third lawyer and appointed the public defender to represent the minor. Based on those facts, it is here claimed that the minor was denied counsel of his choice. However, nothing in the record shows that the minor ever indicated any choice whatever; the only “choosing” was by Mr. Barrar. Since that gentleman had no standing, the trial court was faced with a minor without counsel; the minor never objected to the appointment of the trial court’s choice. We see no error.
+Ill
+The Welfare and Institutions Code spells out in some detail, the orders that a juvenile court may make in cases where a minor has been found to be a person coming under section 602 of that code. Those provisions, as here applicable, are found in sections 730 and 731, which read as follows: “When a minor is adjudged a ward of the court on the ground that he is a person described by Section 602, the court may order any of the types of treatment referred to in Section 727, and as an additional alternative, may commit the minor to a juvenile home, ranch, camp or forestry camp. If there is no county juvenile home, ranch, camp or forestry camp within the county, the court may commit the minor to the county juvenile hall. [Tf] When such ward is placed under the supervision of the probation officer or committed to his care, custody and control, the court may make any and all reasonable orders for the conduct of such ward including the requirement that he go to work and earn money for the support of his dependents or to effect reparation and in either case that he keep an account of his earnings and report the same to the probation officer and apply such earnings as directed by the court. The court may impose and require any and all reasonable conditions that it may determine fitting and proper to the end that justice may be done and the reformation and rehabilitation of the ward enhanced.”
+“When a minor is adjudged a ward of the court on the ground that he is a person described by Section 602, the court may order any of the types of treatment referred to in Sections 727 and 730, and, in addition may order the ward to make restitution or to participate in uncompensated work programs or may commit the ward to a shelter-care facility or may order that the ward and his family or guardian participate in a program of professional counseling as arranged and directed by the probation officer as a condition of continued custody of such minor or may commit the minor to the Youth Authority.”
+Those sections contain no reference to a “fine”; the only monetary provision is that for “restitution.” In section 258 of that code, dealing with juvenile traffic offenders, the code expressly authorizes the imposition of a “sum” not exceeding $50 as a penalty. In light of the omission of any provision in sections 730 and 731 for a fine, and the express provision for a fine in section 258, we conclude that the Legislature has intentionally omitted any authority for the imposition of a fine in other than traffic offenses.
+The order appealed from is modified by deleting the provision imposing a fine on the minor; as so modified, it is affirmed.
+Swearinger, J., concurred.
+Assigned by the Chairperson of the Judicial Council.
+
+## Dissent (FILES, P. J.)
+
+FILES, P. J.
+Dissenting. I would affirm the judgment without modification.
+The disposition order in this case places the minor in the home of his parents on probation. The conditions of probation include the requirement that he make reparation through the probation officer and that he pay $100 to the general fund of the county in such manner as the probation officer shall order. The record shows that the minor is employed, he is living with his parents and has no dependents.
+Welfare and Institutions Code section 730, last sentence, provides that when a ward is released on probation “[t]he court may impose and require any and all reasonable conditions that it may determine fitting and proper to the end that justice may be done and the reformation and rehabilitation of the ward enhanced.”
+The requirement that this ward pay $100 to the county is an eminently reasonable step in the process of reform and rehabilitation. This minor’s offense was theft of money, at a time when he was not in any financial distress. Probation for such a youth, with no monetary sanction other than restitution, would teach him that even when crime doesn’t pay, it costs nothing. A $100 contribution towards the county’s outlay for his rehabilitation is the least that could have been asked.
+The Legislature did not specify or limit the permissible conditions of probation which could be imposed upon a ward, provided only that they are reasonable and serve the ends of justice, reformation and rehabilitation. No other statutory authority is needed for the disposition ordered in this case.
+A petition for a rehearing was denied December 18, 1979, and the petitions of both parties for a hearing by the Supreme Court were denied January 30, 1979. Clark, J., and Richardson, J., were of the opinion that the petitions should be granted.
