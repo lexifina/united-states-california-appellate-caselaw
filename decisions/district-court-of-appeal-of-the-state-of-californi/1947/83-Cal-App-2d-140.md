@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15862"
+decided: "1947-12-31"
+citations: ["83 Cal. App. 2d 140"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEAN McCLAIN, Appellant, v. BARBARA TUFTS, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/83/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038710
+cites_cases: ["111 P.2d 641", "137 Cal. 273", "17 Cal.2d 679", "46 P.2d 820", "58 L.R.A. 941", "7 Cal.App.2d 578", "70 P. 21", "92 Am.St.Rep. 160"]
+---
+
+# McClain v. Tufts
+
+## Majority (SHINN, P. J.)
+
+SHINN, P. J.
+This is an appeal from the denial of an order directing the Los Angeles County sheriff to levy execution upon and sell certain real property situated in the county. The case arose in the following manner. In March, 1946, appellant obtained in New York a judgment in tort against respondent for approximately $30,000. In July, 1946, she secured a California judgment based upon her New York judgment. In August, 1946, her attorneys, having had execution issued, delivered to the sheriff written instructions to levy upon and sell the aforementioned real property. This property, although recorded in the name of respondent’s husband, admittedly was community property of respondent and her husband. The sheriff refused to comply with the instructions except on court order. An order was thereupon issued directing the sheriff to show cause why he should not proceed. After a full hearing of the matter, the court below declined to order execution of the writ and discharged the order to show cause.
+The sole question presented is whether community property is liable for the wife’s torts. The learned trial judge in a well-considered opinion answered this question in the negative. His conclusion was based upon the nonliability of the husband for his wife’s torts and upon the nature of the respective interests of the husband and wife in the community property. Section 171a, Civil Code, added in 1913, reads as follows: “For civil injuries committed by a married woman, damages may be recovered from her alone, and her husband shall not be liable therefor, except in eases where he would be jointly liable with her if the marriage did not exist.” This enactment did away with our previous adherence to the common law rule that a husband, by virtue of the marital relationship alone, is liable for his wife’s torts. (Henley v. Wilson, 137 Cal. 273 [70 P. 21, 92 Am.St.Rep. 160, 58 L.R.A. 941].)
+"Appellant relies upon section 161a, Civil Code, which declares that the respective interests of the husband and wife in the community property are present, existing and equal, subject to the management and control of the husband as provided in sections 172 and 172a, Civil Code. The burden of her argument is that because community property is liable for the husband’s torts (Grolemund v. Cafferata, 17 Cal.2d 679 [111 P.2d 641]), it is likewise liable for the torts of the wife.
+While the precise question has not been decided by a reviewing court the decisions do not support appellant’s contention that the community property should be resorted to for the wife’s torts because it is held liable for the torts of the husband. It was held in Smedberg v. Bevilockway, 7 Cal.App.2d 578 [46 P.2d 820], that the wife’s interest in community real property could not be subjected to a lien under a judgment against her for tort, for which her husband was not also liable. The ground of the decision was that the respective interests of husband and wife in community property may be segregated only in the instances and in the manner provided by statute, namely by agreement between husband and wife, by decree of divorce, or by a separate action based upon a decree of divorce (p. 581). Division of the community property may also result from either an unsuccessful divorce action or an action for separate maintenance. (Civ. Code, §§ 136, 137, 141.) Appellant concedes that by reason of this decision she cannot force a sale of respondent’s interest alone, but maintains that she may escape this holding by selling the interest of the husband, as well as that of the wife. Grolemund v. Gafferata, supra, does not sustain this position. The basis for the Supreme Court’s conclusion in that decision that the community property is liable for the husband’s torts is shown in the following quotation from it (p. 684) : “To hold that the husband could not subject community property to liability for his tort would be to hold that he could not manage and control the same.” No such basis exists for holding such property to be liable for the wife’s torts. In fact to hold the community property liable would be not only an unwarranted interference with, and infringement upon, the husband’s right to management and control, but it would also permit his property to be taken for what is, as to him, a nonexistent liability. The exemption granted the husband by section 171a is an exemption of all of his property, including his community property as well as his separate property.
+The order is affirmed.
+Wood, J., and Vallée, J. pro tern., concurred.
+A petition for a rehearing was denied January 29, 1948, and appellant’s petition for a hearing by the Supreme Court was denied February 26, 1948. Gibson, C. J., Carter, J., and Traynor, J., voted for a hearing.
