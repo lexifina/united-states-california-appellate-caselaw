@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3171"
+decided: "1919-12-13"
+citations: ["44 Cal. App. 778"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIE EMILY McNETT, Appellant, v. BURNHAM McNETT, Respondent."]
+source_url: "https://static.case.law/cal-app/44/cases/0778-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057763
+---
+
+# McNett v. McNett
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+This is an appeal from a judgment in favor of the defendant upon his cross-complaint in an action for divorce. In the notice of appeal from the judgment the plaintiff also states that she takes an appeal from an order of the court directing that the custody of a minor child of the parties be turned over to the defendant pending the rendering and entry of the judgment. As to the so-called appeal from the latter order, we have vainly searched the voluminous record before us for the order referred to; but even if our search had been successful, we could not consider the same upon that portion of the appeal, for the reason that the notice of appeal shows upon its face that said order was made before final judgment, and was not, therefore, the subject of a separate appeal.
+Upon her appeal from the judgment itself the appellant makes the contention that the evidence in the case is insufficient to sustain the findings and judgment of the trial court. In support of this contention the plaintiff has embodied in her brief a few scattered and evidently incomplete excerpts from the reporter’s transcript, which contains 611 pages of the testimony of over twenty witnesses who were called and testified at the trial for or against the respective parties, and who were examined—and the most important of whom were cross-examined and re-examined— at great length. The light which the appellant thus sheds upon her contention as to the insufficiency of the evidence in the case is entirely too feeble and flickering to enable us to determine the point without an extended examination of the entire evidence in the ease. We have, however, attempted to make such examination, and from even a cursory inspection of the record it sufficiently appears that the testimony of the parties and of their witnesses in the ease is sharply in conflict as to practically every issue involved therein.
+Aside from this, however, we have satisfied ourselves from a careful inspection of the record that the findings of the court are fully supported by the testimony offered on behalf of the cross-complainant herein, and that the judgment of the court based upon such findings will not, therefore, be disturbed upon appeal.
+The appellant further contends that an error was committed by the trial court in its order denying the plaintiff’s motion for a continuance of the cause after the same was at issue in order to enable her to obtain the presence and testimony of one Dr. C. R Knox, who was at that time absent from that portion of the state, and of whom it was asserted in the affidavit for such continuance that he could give testimony material to the plaintiff if present at the trial of the cause. [2] The matter of the granting or denial of continuances for the purpose of enabling a party to procure the presence and testimony of absent witnesses is a matter which lies very largely within the discretion of the trial judge; and it must, therefore, be made to appear very clearly that such discretion has been abused before the cause will be reversed upon appeal for an alleged error of the court in denying a further continuance of the case. [3] The record discloses no such abuse of discretion in the instant case, since the affidavit and other documents presented by the plaintiff upon the hearing of said motion utterly fail to show that the absent witness was the only witness who could give evidence as to the matters for which his presence was desired, or that the plaintiff was not provided with the presence and testimony of other witnesses to every matter respecting which the absent witness could have testified. This being so, it cannot be said that the trial court committed any abuse of discretion in requiring the plaintiff to go to trial without the presence of Dr. Knox.
+As to the appellant’s contention that the court committed error amounting to an abuse of discretion in awarding the custody of the minor child, Robert McNett, to the defendant, his father, during the pendency of the trial and during certain periods after the entry of the judgment therein as specified in said judgment, the only argument which the plaintiff presents in support of such contention is one predicated upon her prior contention as to the insufficiency of the evidence to justify the findings and judgment of the court in the defendant’s favor; but since, as we have seen, such findings and judgment constitute the determination of the trial court upon conflicting testimony, this court will not review upon appeal the conclusion which the trial court has thus arrived at in relation to the custody of the minor children of the parties to the action either before or after the entry of the judgment therein. ■
+Judgment affirmed.
+Kerrigan, J., and Waste, P. J., concurred.
