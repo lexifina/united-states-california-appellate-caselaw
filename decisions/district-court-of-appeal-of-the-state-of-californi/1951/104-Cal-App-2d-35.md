@@ -1,0 +1,51 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 18392"
+decided: "1951-05-03"
+citations: ["104 Cal. App. 2d 35"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CECILIA CIRLINCIONE, Respondent, v. JOSEPH CIRLINCIONE, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/104/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263798
+cites_cases: ["126 Cal. 51", "129 Cal. 322", "139 Cal.App. 279", "170 P.2d 952", "176 P.2d 739", "201 P.2d 418", "275 P. 471", "30 Cal.App.2d 362", "34 P.2d 844", "58 P. 305", "61 P. 1125", "75 Cal.App.2d 351", "77 Cal.App.2d 739", "86 P.2d 379", "89 Cal.App.2d 520", "97 Cal.App. 420"]
+---
+
+# Cirlincione v. Cirlincione
+
+## Majority (McCOMB, J.)
+
+McCOMB, J.
+From a judgment in favor of plaintiff in an action to wind up a partnership after dissolution thereof by the death of one of the partners, and to recover the value of the deceased partner’s interest as of the date of his death, defendant appeals.
+Facts: The record being viewed in the light most favorable to plaintiff (respondent) the essential facts are:
+In June, 1948, defendant bought a one-half interest in a delicatessen and liquor business from his brother, Benjamin Cirlincione, and his brother’s wife, plaintiff, for the agreed purchase price of $8,000, paying $3,500 in cash and giving to plaintiff and her husband a promissory note dated August 11, 1948, due on or before four years after date in the sum of $4,500, payable to them as joint tenants with interest at 6 per cent per annum from maturity. The note promised to pay 10 per cent of the unpaid amount thereof for attorney’s fees should it be placed in the hands of an attorney for collection.
+Under a verbal agreement between the partners it was provided among other things that in ease of dissolution of the partnership for any cause the promissory note would immediately be due and payable out of defendant’s share of the proceeds due him upon dissolution of the partnership.
+Plaintiff’s husband and defendant operated the business as equal partners until the death of Benjamin Cirlincione on April 29, 1949. Thereafter defendant operated the partnership business as a surviving partner until September, 1949, when the business was sold. The proceeds thereof, $18,544.23, were deposited with the Fishermen and Merchants National Bank, San Pedro, to be held pursuant to instructions of plaintiff and defendant or á judgment of the superior court.
+Under the last will and testament of decedent, plaintiff received the entire interest in the partnership and the ownership of the promissory note mentioned above as the surviving joint tenant thereof.
+The trial court found (1) that the value of the deceased partner’s interest as of April 29, 1949, the date of his death, was $9,484.23; (2) that defendant had rendered services in connection with the winding up of the partnership in the reasonable value of $100 in addition to the amount of $75 a week which he had drawn from the partnership from the date of his partner’s death until the sale of the partnership assets in September of 1949; (3) that defendant’s attorney had rendered professional services in the value of $200 in connection with the winding up of the partnership, one half of which was chargeable to plaintiff and one half to defendant; and (4) that defendant had $68.03 of the partnership funds in his possession.
+The court gave judgment in favor of plaintiff for (a) $4,500 due on the promissory note plus interest at 7 per cent per annum from April 29, 1949, together with the sum of $450 as. attorney’s fees, and (b) $9,484.23 for the value of the deceased partner’s interest. These amounts the court decreed should be paid to plaintiff from the sum on deposit with the Fishermen and Merchants Bank of San Pedro.
+Pursuant to the judgment of the court the partnership money on deposit at the bank has been partly distributed to plaintiff and defendant and the balance deposited with the clerk of the trial court subject to further court order.
+Questions: First: Was there substantial evidence to sustain the following findings of the trial court:
+I. (a) That the promissory note for $4,500 executed by defendant in favor of plaintiff and her husband was plaintiff’s property; (b) that interest was due on such note from and after April 29, 1949; and (c) that plaintiff was entitled to $450 attorney’s fees for collecting the note?
+Yes. (a) The note signed by defendant was introduced in evidence and on its face it stated that it was given to plain-tic and her husband “as joint tenants.” It is conceded that plaintiff’s' husband is dead, therefore she as the surviving joint tenant is entitled to the proceeds of the note. Without objection plaintiff' testified that defendant agreed with her husband to pay the note should the business be sold or “in the case of death” of her husband.
+(b) The nóte on its face provided for the payment of interest upon the principal sum from the date of maturity which, as the evidence' disclosed in this case, was April 29, 1949, the date of plaintiff’s husband’s death.
+(c) The note expressly provided that if placed in the hands of an attorney for collection, 10 per cent of the unpaid amount would be paid for attorney’s fees, which in this case amounted to $450, the amount allowed by the court.
+II. That plaintiff’s interest as the successor of her deceased husband in the partnership business was of the value of $9,484.23 on April 29, 1949?
+Yes. There was received in evidence an auditor’s report declaring the assets and liabilities of the partnership business as of. April 29, 1949. This statement disclosed that the value of the deceased’s interest in the partnership as of April 28, 1949, was $9,484,23. This evidence clearly sustains the finding of the trial judge.
+III. That defendant was entitled in addition to the compensation which he had drawn from the partnership in winding up its business to the sum of $100 for his services to the business?
+Yes. The evidence disclosed that from the date of his partner’s death until the sale of the partnership assets, defendant had drawn $75 per week from the partnership for his services. Therefore it cannot be said that the trial judge abused his discretion in allowing defendant only $100 additional for his services to the partnership. Section 901 of the Probate Code which fixes the fees of executors and administrators has no application to the facts of the present case.
+IV. That defendant was entitled to an allowance of $200 for attorney’s fees in connection with the winding up of the partnership businessf
+Yes. The evidence disclosed that there was no litigation in connection with the winding np of the partnership business and that the attorney’s services consisted in advising defendant that he as the surviving partner had a right to continue the partnership and an appearance in the probate court with defendant when it granted the petition of plaintiff, executrix of the estate of her deceased husband, to sell the partnership interest. Clearly it was a question for the trial court to determine the reasonable value of such services which it did, and which we cannot say shows an abuse of discretion.
+Second: Did the trial court improperly deduct $68.03 from the $200 with which it credited defendant for services in connection with the winding up of the partnership and for one half of the attorney’s fees which had been awarded defendant?
+No. The trial court found that defendant was entitled to $100 additional compensation for his services in connection with the winding up of the partnership business, and also to $200 attorney’s fees, one half of which was chargeable to plaintiff. Defendant admitted in his answer that he had cash in the partnership bank account in the sum of $68.03. Therefore in deducting this amount from the $200 the trial court acted correctly since defendant was simply given credit for the sum which he had in his possession.
+Third: Was the trial court’s finding “All allegations of the defendant’s answer, which are in conflict with the foregoing, are untrue ...” sufficient as to the facts alleged in defendant’s answer?
+Yes. After making 11 specific findings of fact the trial court made the foregoing finding. A finding that all of the allegations of a paragraph of a complaint or answer not expressly found to be true are untrue is sufficient. (McLennan v. Wilcox, 126 Cal. 51, 52 [58 P. 305]; Silver v. Shemanski, 89 Cal.App.2d 520, 542 [16] [201 P.2d 418]; Tobola v. Wholey, 75 Cal.App.2d 351, 358 [6] [170 P.2d 952]; Sieck v. Hall, 139 Cal.App. 279, 302 [10] [34 P.2d 844]; Price v. Hollywood Auto T. & S. Co., 97 Cal.App. 420, 421 [1] [275 P. 471].)
+Krug v. F. A. Lux Brewing Co., 129 Cal. 322 [61 P. 1125], Austin v. Harry E. Jones, Inc., 30 Cal.App.2d 362 [86 P.2d 379], and Block v. D. W. Nicholson Corp., 77 Cal.App.2d 739 [176 P.2d 739], are not in point in the instant case for the reason that in such cases there were no detailed findings of fact such as are here present.
+Fourth: Did the' trial court err in not making an allowance to Robinson and Weinberger for a fee for accounting in connection with the winding up of the partner’s estate?
+No. A bill for $158 from the above mentioned accountants for services rendered to the partnership was received in evidence. However, since no evidence was received tending to show that such services had been performed the trial court was justified in disallowing the amount of the claim.
+Fifth: Was the trial court’s judgment reading, “That Fishermen and Merchants Bank is hereby directed to disburse said escrow funds as hereinbefore specified to plaintiff and defendant, respectively, according to this judgment,” vague, equivocal and insufficient?
+This question will not be considered by us for the reason that it has become moot since all the funds referred to have been withdrawn from the bank pursuant to the trial court’s order, a part thereof delivered to each of the parties and the balance deposited with the clerk of the trial court subject to further court order.
+Affirmed.
+Moore, P. J., and Wilson, J., concurred.
