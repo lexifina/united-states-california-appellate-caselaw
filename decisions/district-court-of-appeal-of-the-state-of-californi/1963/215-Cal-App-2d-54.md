@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 8742"
+decided: "1963-04-11"
+citations: ["215 Cal. App. 2d 54"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JOSEPH J. MANCINI on Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-2d/215/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110898
+cites_cases: ["191 Cal. 501", "211 P.2d 942", "29 A.L.R. 127", "94 Cal.App.2d 902"]
+---
+
+# In re Mancini
+
+## Majority (SHINN, P. J.)
+
+SHINN, P. J.
+Hearing has been had upon the petition and the return made by the sheriff. The record discloses that on October 19,1961, in an action for divorce entitled “Bernice Mancini v. Joseph J. Mancini” the court made an interim order imposing certain duties upon the parties. They were not to annoy or harass each other, to dispose of property or discuss their marital relations or make derogatory remarks about each other in the presence of the minor child; plaintiff was to have the sole use of the house and custody of the child ; defendant was to have reasonable rights of visitation and under certain conditions to have the child with him at specified times to be returned to plaintiff at stated times, when defendant was not to enter the house. Defendant was ordered to pay $86 per month for child support and $1 per year for the wife’s support, and was to pay certain community debts.
+May 23, 1962, plaintiff filed a certification alleging that defendant was $43 in arrears in child support and accusing him of nine other violations of the order. These included acts of physical violence upon plaintiff and the minor son, five acts of breaking into the family residence, abstracting papers and several misappropriations and misuse of money. An order was issued for defendant to show cause why he should not be punished for contempt. Hearing was had, the matter was submitted and on June 29 the court made an order reading in part: “In the matter heretofore submitted on June 14, 1962, the Court now makes the following order: The modification is denied. The Court finds that the defendant had knowledge of the order of October 19, 1961, that he had the ability to comply with the order of the Court and that he wilfully failed and refused to comply with said order. The defendant is found in contempt of Court and is ordered to return to this courtroom at 10:30 a.m. on July 26, 1962, for sentence.”
+Further proceedings were continued from time to time until December 27, 1962. From the return of the sheriff it appears that on that date the court made an order entitled “Commitment to County Jail.” The order recited that defendant had been ordered to pay plaintiff $86 per month for child support, that defendant had knowledge of the order, had had the ability to comply with the “same,” had wilfully refused to do so and that “the same” had not been “complied with.” It was not stated what defendant had paid and what he had failed to pay for child support. It was recited that an order had been issued requiring the defendant to appear before the court on December 27 to show cause why he should not be punished for contempt for wilfully failing to comply with the order; that the court found that defendant had the ability to comply with the order and wilfully failed to comply. Defendant was ordered to surrender himself to the sheriff at 8 p.m. December 28, 1962, to be released at 8 p.m. December 30, 1962. No reference was made to the order of June 29 finding defendant in contempt or to the numerous acts of annoyance stated in the accusatory certification. There had been no order for defendant’s appearance on December 27; no evidence was received and no hearing was had. No facts upon which the adjudication of contempt was made were stated in the order of June 29 or in the order of commitment.
+The statement that defendant had failed and refused to comply with the order was manifestly insufficient. It was a pure conclusion of law. (Harlan v. Superior Court, 94 Cal.App.2d 902 [211 P.2d 942] and cases cited.)
+Jurisdiction to make an adjudication of contempt rests upon the sufficiency of the facts found in the hearing as shown in the record. Nothing is to be presumed as to the regularity of the proceedings. (Hotaling v. Superior Court, 191 Cal. 501 [217 P.73, 29 A.L.R. 127].) An order adjudging one to be in contempt must be entered “specifying particularly” the offense. (Code Civ. Proc., § 1218.)
+It is at once apparent that the court made no finding that would support an adjudication of contempt. In some situations the statement that an accused has failed and refused to comply with an order of court might be sufficient, but in the present case the statement was a mere conclusion. There can be various degrees of compliance. It may be exact and complete, or substantial, or only partial. Opinions may differ and in divorce litigation frequently do differ as to what constitutes compliance. The statement that defendant had failed to comply would mean only that he had failed to render full performance, but gives no clue to the nature or extent of his dereliction, which could have been substantial or only trivial. Defendant would have failed to comply with the order for child support if he had been only one dollar in arrears. The orders do not mention any specific act or omission upon the part of the defendant.
+An adjudication of contempt must fail if it is not based upon specific facts found which show knowledge of the order, ability to comply with it, and conduct on the part of the accused amounting to wilful violation. If it had been shown by the evidence that defendant had wilfully refused to pay for child support or to pay the community debts, which he had been ordered to pay, or had been guilty of any of the numerous other violations specified in the certification the court should have so found.
+The record discloses no finding of fact which would support the adjudication of contempt.
+The petitioner is discharged.
+Ford, J., and Files, J., concurred.
