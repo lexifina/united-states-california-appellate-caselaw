@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 18986"
+decided: "1952-06-25"
+citations: ["112 Cal. App. 2d 18"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CURTIS C. TATHAM et al., Respondents, v. RICHARD PATTISON, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/112/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2237146
+cites_cases: ["112 P.2d 661", "209 P.2d 808", "44 Cal.App.2d 453", "93 Cal.App.2d 692"]
+---
+
+# Tatham v. Pattison
+
+## Majority (WHITE, P. J.)
+
+WHITE, P. J.
+Defendant was the owner of a vacant lot in the Pacific Palisades in Los Angeles County, upon which he constructed a new house. By their complaint, plaintiffs alleged that defendant offered to sell said property to them. That for the purpose of inducing plaintiffs to purchase the same, defendant falsely and fraud3ilently represented the extent to which said property was filled ground. That by reason of such representations, which defendant allegedly knew to be false, plaintiffs were induced to enter into a contract with defendant to purchase said real property and the house constructed thereon. That subsequently, and pmnptly upon learning of said allegedly false representations, plaintiffs gave notice of rescission of said contract to purchase the property in question, offered the same to defendant and further offered to return to him everything of value received by them. It was further alleged that “the house was not constructed in accordance with the Building and Safety Code of the City and County of Los Angeles. ’ ’
+By his answer defendant denied any false or fraudulent representation or that he fraudulently concealed any material facts. Defendant also denied plaintiffs’ allegation that the house was not constructed in accordance with the aforesaid building and safety code.
+Following trial before the court, findings were made that the defendant did falsely and fraudulently represent to plaintiffs that said house was not constructed on filled ground when in fact it was so constructed. That defendant deceitfully and fraudulently concealed from plaintiffs that said house was not constructed in accordance with the Building and Safety Code of the City and County of Los Angeles.
+From the judgment accordingly entered against him and from the order denying his motion for a new trial, defendant prosecutes this appeal.
+The record reflects that the mother of two of the respondents, namely, Mrs. Lulu Tatham, a 72-year-old lady, was acting as agent for respondents who were endeavoring to purchase a home for her and her husband. Mrs. Lulu Tatham first saw appellant about the second week in January, 1950. This meeting took place upon the property in question. She again saw appellant prior to the first day of February, at which time she testified she asked him about the fill and that he told her it only extended across the backyard, and that there was no fill under the house. There is in the record testimony from which the court could reasonably conclude that appellant was aware of the fact that there was a fill at least under the porch section of the house, placed there by him, and that he did not disclose this fact to respondents.
+Appellant earnestly asserts that there is “an utter lack of any statements concerning the fill or the absence thereof” prior to the execution of the contract which created a mutual obligation on him to sell and upon respondents to purchase the property in question. While it is true there is evidence, which if believed, would sustain this contention, there is also testimony which would support a contrary conclusion. Since appellant’s claims amount to an attack upon' the judgment on the ground that the findings are not supported by the evidence, we are met with the fundamental and long-established rule that under such circumstances the power of an appellate tribunal begins and ends with a determination as to whether there is any substantial evidence, contradicted or uncontradicted, which will support the conclusion reached by the trier of facts. When an appeal is taken on the ground just referred to, we must, in reviewing the evidence, resolve all conflicts in favor of the respondent, and indulge in all reasonable and legitimate inferences to uphold the judgment rendered if possible.
+Bearing in mind the foregoing rules, it must be held that there is in the record substantial evidence to support a finding that appellant was aware of the fact that a portion of the land upon which the house was constructed was filled ground, which filling materially affected its value. That under the circumstances here present, appellant was under a duty to disclose that information to respondents. That he failed to do so, and in fact represented to respondents that there was no fill under the house. Upon learning the true state of facts, respondents therefore were entitled to rescind the contract (Clauser v. Taylor, 44 Cal.App.2d 453, 454 [112 P.2d 661]; Civ. Code, §§ 1572, 1710.)
+What we have hereinbefore said is equally applicable to appellant’s attack upon the finding that the house in question “was not constructed in accordance with the Building and Safety Code of the City and County of Los Angeles.”
+Upon this issue the testimony was in sharp conflict as to the claimed violation of the building and safety code. As to appellant’s knowledge of such a violation, he was asked the question, “Well, do you know what kind of a footing the Building Code of the City of Los Angeles requires on caissons?” to which interrogatory he responded, “Yes, I do.” The question of knowledge on the part of appellant as to the provisions of the Building and Safety Code was one of fact and the testimony of appellant just narrated, coupled with other facts and circumstances, was sufficient to support the finding that, “the piles, caissons and support structures under the house were not constructed in accordance with the said Building and Safety Code, sections 2803 and 2804 and 2311 and other applicable sections”; that appellant was aware thereof, and suppressed such knowledge from respondents (Barder v. McClung, 93 Cal.App.2d 692, 696 [209 P.2d 808]).
+The attempted appeal from the order denying a new trial is dismissed. The judgment is affirmed.
+Doran, J., and Drapeau, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied August 21, 1952.
