@@ -1,0 +1,40 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15600"
+decided: "1947-06-04"
+citations: ["80 Cal. App. 2d 154"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARENCE LAURENCE EBLE, Appellant, v. JOSEPH D. PELUSO et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/80/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4455077
+cites_cases: ["112 N.W. 45", "117 Mo.App. 488", "132 Wis. 150", "152 Cal. 290", "154 Cal. 138", "173 P.2d 670", "33 P. 791", "50 App. Div. 512", "92 P. 733", "93 S.W. 351", "97 P. 155", "98 Cal. 648"]
+---
+
+# Eble v. Peluso
+
+## Majority (McCOMB, J.)
+
+McCOMB, J.
+Prom a judgment in favor of defendants predicated upon the granting of their motion for a nonsuit in an action to recover damages for malpractice, plaintiff appeals.
+So far as material here these are the essential facts:
+On September 16, 1941, plaintiff while working as a linoleum layer tripped and fell fracturing the ring finger on his left hand. He was taken to a doctor who placed the injured member in a splint where it remained for two or three weeks. Five or six days thereafter the same doctor put a cast on the hand. The splint was retained on the injured finger but the noninjured fingers were left free.
+About October 3, 1941, defendant doctor sent plaintiff to another doctor who X-rayed his hand and then referred Mm to Doctor Peluso. Said defendant treated the injured finger without obtaining satisfactory results until January 7, 1942, at which time it was amputated. The other fingers remained stiff and on June 5, 1942, the little finger on the left hand was removed.
+Thereafter the present action was instituted and at the time of the trial plaintiff endeavored to qualify Dr. Frank R. Webb as an expert witness on the treatment of fractured fingers in Los Angeles County. Evidence was introduced tending to prove that he had graduated from the College of Physicians of Columbia University, New York City, in 1902, and had been in the practice of medicine continually thereafter; that he had quite a little experience in bone trauma as an interne in New York City, in the government hospital at Washington, D. C., and in general practice; that in 1912, he took a position with the Pacific Great Eastern Railway on a construction line caring for more than two thousand men who were doing blasting and mountain excavation, and that in many of these cases there were injuries of the bone and joints; that in 1921, he was licensed to practice medicine in the State of California; that he was the chief autopsy surgeon for the coroner’s department in Los Angeles County; that he had made many autopsies on persons showing bone disease and defective conditions of the bone in which he endeavored to and did obtain the history and course of treatment of such conditions, and that he familiarized himself with the surgical and medical procedure in such cases.
+He was then asked further questions hereinafter set forth to which the trial court sustained objections and held that the doctor had not been qualified as an expert witness, and that in the absence of any testimony showing that defendant Dr. Peluso had not treated plaintiff with the degree of care and skill ordinarily exercised by practitioners in Los Angeles there was no showing of negligence and the defendants’ motion for a nonsuit should be granted.
+This is the sole question to be determined:
+Did the trial judge commit prejudicial error in sustaining an objection upon the ground that no proper foundation had been laid and that it called for a conclusion of the witness to the following and similar questions:
+“Doctor, are you familiar with the degree of care and shill of physicians and surgeons in good standing in Los Angeles County during the years 1941 and 1942 and subsequent thereto in the treatment of fractures and ecehondromas?”
+This question must be answered in the affirmative. The first objection that there was no proper foundation laid is clearly without merit for the reason that the question was in itself asked for the purpose of laying a foundation as to the witness’ qualifications as an expert, and did not need any foundational predicate.
+The objection that the question called for a conclusion of the witness is likewise without merit. It is true that the question calls, in a certain sense for the conclusion of the witness in that it requires him to use his mental processes to conclude whether he is familiar with the degree of care and skill physicians in good standing in Los Angeles County use in the treatment of fractures of the bones. On the other hand, it calls for a statement of fact in asking him whether he has such information. The answer to this question is just as much a statement of fact as if it were asked of another witness and is in principle not different from asking a witness “Did you see two automobiles strike each other?” Such question, in the first place, calls for the conclusion of the witness in the use of his mental processes that he did or did not see the collision, and further calls for the fact as to whether he did or did not observe the impact. Such questions are not objectionable on the ground that they call for conclusions of the witness, the rule being established that an expert witness’ qualifications may be shown by an examination of the witness himself, which examination should not be limited by narrow and stringent rules.
+After the witness has testified that he is competent to express an expert opinion upon a subject cross-examination should be permitted to show the basis of his statement that he is qualified, and then from all of the evidence the trial court before permitting the witness to answer a hypothetical question should rule whether in its opinion the witness has qualified as an expert. (Scheerer & Co., Inc. v. Deming, 154 Cal. 138, 143 [97 P. 155]; People v. Hawes, 98 Cal. 648, 651 [33 P. 791]; Bloch v. American Insurance Co., 132 Wis. 150 [112 N.W. 45, 46]; Frick v. Kansas City, 117 Mo.App. 488 [93 S.W. 351, 353]; Scandell v. Columbia Const. Co., 50 App. Div. 512 [64 N.Y.S. 232, 236]. See, also, 22 C.J. (1920), § 609, p. 524; 32 C.J.S. (1942), § 458, p. 98; Salmon v. Rathjens, 152 Cal. 290, 299 [92 P. 733].)
+In the present case it is evident that since the trial judge declined to permit the witness to answer the questions asked him, plaintiff was foreclosed from establishing the qualification of his alleged expert witness and thus prevented from showing that the treatment administered by defendant doctor was not in conformity with the degree of care and skill ordinarily exercised by physicians and surgeons in good standing in Los Angeles County, which obviously was prejudicial to plaintiff’s case.
+McCurdy v. Hatfield, (Cal.App.) 173 P.2d 670, cited by defendants, is not of any assistance in view of the fact that the Supreme Court granted a hearing therein December 19, 1946. Therefore the cited case is not authority. Neither does it have any bearing upon the questions presented in this case.
+The judgment is reversed.
+Moore, P. J., and Wilson, J., concurred.
+A petition for a rehearing was denied June 20,1947.
+Like objections were sustained to these questions:
+a. “Doctor, are you familiar with the treatment of physicians and surgeons in good standing in Los Angeles County during the years 1941 and 1942, the treatment of cysts in fingers or otherwise known as ecehondromas?
+b. “Are you familiar with the care, skill and judgment in surgery that is practiced by physicians and surgeons in Los Angeles City in regard to the care and treatment of fractures, ecehondromas, and the mobilization or immobilization of the fingers in an eeehondroma, the fingers being ones that are not injured and those that are injured, and with the practice ordinarily exercised and used by physicians in good standing, with the treatment and surgery of ecehondromas?”
