@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 16941"
+decided: "1978-08-24"
+citations: ["84 Cal. App. 3d 239"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. MONTE DEAN BEATY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/84/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044443
+cites_cases: ["1 Cal.3d 41", "106 Cal.Rptr. 519", "107 U.S. 221", "131 Cal.Rptr. 55", "134 Cal.Rptr. 64", "17 Cal.3d 236", "18 Cal.3d 295", "30 Cal.App.3d 458", "378 U.S. 226", "38 L.Ed.2d 104", "414 U.S. 855", "459 P.2d 680", "551 P.2d 375", "555 P.2d 1313", "81 Cal.Rptr. 264", "82 A.L.R.3d 804", "94 S.Ct. 155"]
+---
+
+# People v. Beaty
+
+## Majority (CHRISTIAN, J.)
+
+Opinion
+CHRISTIAN, J.
+Monte Dean Beaty appeals from an order by which he was admitted to probation after he had waived a jury and the court had found him guilty of petty theft with a prior felony conviction.
+The offense was committed on December 22, 1976, and the probation order was rendered on May 9, 1977. Penal Code section 667, the enactment under which appellant was charged and found guilty, was repealed by Statutes 1976, chapter 1139, operative July 1, 1977. On June 28, 1977, the Legislature passed Assembly Bill No. 1150 (Stats. 1977, ch. 296), amending Penal Code section 666 to reinstate as a felony appellant’s crime of petty theft with a prior burglary conviction. Although the latter enactment contains a provision that it shall be operative July 1, 1977 (Stats. 1977, ch. 296, § 2), the bill was not signed by the Governor until July 7, 1977 (see 1977-1978 Assem. Semifinal History 554). Of course, a legislative bill does not become law until it has been signed by the Governor or the Governor’s signature has been dispensed with in the manner authorized by the Constitution (Cal. Const., art. IV, § 10). Thus upon the coming into operation on July 1, 1977, of Statutes 1976, chapter 1139, the provision under which appellant was prosecuted for a felony disappeared from the law.
+We note that no error was committed by the trial court; Penal Code section 667 was still in full force and effect at the time when the court found appellant guilty and admitted him to probation. Nevertheless, the appeal is governed by “the universal common-law rule that when the legislature repeals a criminal statute . . . this action requires the dismissal of a pending criminal proceeding charging such conduct. The rule applies to any such proceeding which, at the time of the supervening legislation, has not yet reached final disposition in the highest court authorized to review it.” (People v. Rossi (1976) 18 Cal.3d 295, 304 [134 Cal.Rptr. 64, 555 P.2d 1313], quoting Bell v. Maryland (1964) 378 U.S. 226, 230 [12 L.Ed.2d 822, 826, 84 S.Ct. 1814].)
+Appellant contends that to give effect in this case to Penal Code section 666, as amended by Statutes 1977, chapter 296, would be to violate constitutional restrictions against ex post facto legislation (U.S. Const., art. I, § 9; Cal. Const., art. I, § 9). This contention would undoubtedly be sound as to any petty theft with a prior burglary conviction committed after the repeal of Penal Code section 667 took effect on July 1, and before the amendment to Penal Code section 666 took effect on July 8, 1977. “A statute has an ex post facto effect when it alters the situation of an accused to his disadvantage by: (a) making criminal an.action innocent when done; (b) making more serious an act already criminal when done; (c) inflicting greater punishment than that attending the act at the time it was committed; or (d) permitting a person to be convicted with less evidence than was required when the act was done. (Kring v. Missouri (1882) 107 U.S. 221 [27 L.Ed. 506, 2 S.Ct. 443].)” People v. Sobiek (1973) 30 Cal.App.3d 458, 472 [106 Cal.Rptr. 519, 82 A.L.R.3d 804], cert. den. (1973) 414 U.S. 855 [38 L.Ed.2d 104, 94 S.Ct. 155].) But appellant’s crime was not committed during the short interval which has been identified. When it was committed it was punishable as a felony under Penal Code section 667; therefore, the tests of ex post facto effect outlined in Sobiek, supra, are not met, and it is constitutionally permissible to give effect to the presently existing language of Penal Code section 666 for the purpose of preserving the finding of guilt and the probation order which were in all respects lawful when they were made.
+Appellant contends that it is cruel and unusual punishment (Cal. Const., art. I, § 17) to penalize as a felony an offense of petty theft with a prior felony as specified in Penal Code section 666. This contention is contrary to controlling authority (see People v. Tijerina (1969) 1 Cal.3d 41, 47 [81 Cal.Rptr. 264, 459 P.2d 680]).
+Finally, appellant contends that it is denial of equal protection for Penal Code section 666 to authorize heavier punishment for a thief who has been imprisoned upon a prior conviction for theft, burglary or robbery than for other thieves. This contention cannot be sustained. The sentencing scheme is not unreasonable. People v. Olivas (1976) 17 Cal.3d 236 [131 Cal.Rptr. 55, 551 P.2d 375], relied upon by appellant, is to be distinguished; there the Supreme Court held that it was a denial of equal protection to subject a juvenile offender to longer confinement than could be imposed upon an adult who committed the same offense. Here in contrast the statute, not inappropriately, authorizes heavier punishment not for the helpless bearer of a classification but to persons who have been found guilty of and punished for specified prior crimes.
+The probation order is affirmed.
+Caldecott, P. J., and Good, J., concurred.
+A petition for a rehearing was denied September 14, 1978, and appellant’s petition for a hearing by the Supreme Court was denied October 25, 1978.
+Penal Code section 667: “Every person who, having been convicted of any felony either in this State or elsewhere, and having served a term therefor in any penal institution or having been imprisoned therein as a condition of probation for such oífense, commits petty theft after such conviction, is punishable therefor by imprisonment in the county jail not exceeding one year or in the state prison not exceeding five years.”
+Retired judge of the superior court sitting under assignment by the Chairperson of the Judicial Council.
