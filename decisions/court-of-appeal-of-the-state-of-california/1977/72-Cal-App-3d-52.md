@@ -1,0 +1,33 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 2811"
+decided: "1977-07-27"
+citations: ["72 Cal. App. 3d 52"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. CEDRIC JAMES JOHNSON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/72/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987649
+cites_cases: ["117 Cal.Rptr. 291", "203 Cal.App.2d 427", "21 Cal.Rptr. 515", "251 Cal.App.2d 835", "391 U.S. 367", "408 P.2d 100", "42 Cal.App.3d 988", "47 Cal.Rptr. 772", "60 Cal.Rptr. 5", "63 Cal.2d 614", "8 Cal.App.3d 497", "87 Cal.Rptr. 537"]
+---
+
+# People v. Johnson
+
+## Majority (CHRISTIAN, J.)
+
+Opinion
+CHRISTIAN, J.
+Cedric James Johnson appeals from a judgment of imprisonment which was rendered after a jury found him guilty of possession of a dangerous weapon, commonly known as a Chinese Throwing Star (Pen. Code, § 12020, subd. (c)).
+A Bakersfield police officer stopped appellant at night for speeding. When the officer shined his flashlight over the inside of the car, he saw protruding from beneath the front seat the point of what appeared to be a dagger. The officer seized the weapon, which proved to be not a dagger but an instrument known as a “Chinese Throwing Star,” made up of four very sharp steel blades welded together. Each blade was more than three inches long.
+Appellant told the officer that he had made the weapon that day in a welding class, intending to use it as an ornament for his motorcycle.
+Appellant contends that the court erred when it precluded defense counsel, in the course of the cross-examination of a prosecution witness, from introducing in evidence two smaller wooden replicas of the weapon. The prosecution witness had been demonstrating that the star could not easily be attached to a motorcycle; the defense produced the two wooden exemplars for the purpose of illustrating how a set of several of the stars could be mounted together to form an ornament. But neither evidence nor an offer of proof was presented tending to show that the wooden exemplars had been intended by appellant for the purpose indicated. It lies within the discretionary power of the trial court to regulate the presentation of evidence with a view to prevent digressions into speculative and tangential areas. (See Evid. Code, § 352.) It was not an abuse of discretion to preclude speculation concerning the exemplars.
+A friend of appellant testified that he had seen the star while appellant was fashioning it. Defense counsel asked the witness whether appellant had indicated what it was to be used for. The court sustained an objection by the prosecution, rejecting the theory that appellant’s statement to his friend was admissible to show appellant’s state of mind. (Evid. Code, §§ 1250, 1251.) Appellant contends that this ruling was error. But appellant’s state of mind in making the implement has no relevance to the charge that he possessed the implement when he was arrested. The implement was specifically proscribed by the statute; it was not an “innocent-appearing utensil,” the possession of which is punishable under the legislation only when “the circumstances of possession demonstrate an immediate atmosphere of danger.” (See People v. Grubb (1965) 63 Cal.2d 614, 621 [47 Cal.Rptr. 772, 408 P.2d 100].)
+In a related branch of his argument, appellant contends that Penal Code section 12020, subdivision (c), defines a specific intent crime. The theory is that the modifying phrase “for use as a weapon for throwing” refers to the intent of the possessor rather than to the use to which the instrument is adaptable. If appellant’s construction of the statute were correct, evidence of appellant’s state of mind in making the weapon would have been relevant if it tended to show that appellant’s purpose was purely aesthetic. Similarly, if appellant’s theory were sound, the court should have instructed on specific intent. Instead, the court instructed that “the phrase ‘designed for use as a throwing weapon’ refers to the design of the implement.” We have concluded that the trial court correctly construed the statute. It has repeatedly been held that the other provisions of Penal Code section 12020 do not require proof of specific intent. As to any inherently dangerous weapon proscribed by the statute, “[p]roof of possession alone is sufficient to convict; it is not necessary to prove malicious intent or wrongful use of the instruments.” (People v. Odegard (1962) 203 Cal.App.2d 427, 431 [21 Cal.Rptr. 515]. Also see People v. Favalora (1974) 42 Cal.App.3d 988 [117 Cal.Rptr. 291]; People v. Stinson (1970) 8 Cal.App.3d 497, 501 [87 Cal.Rptr. 537]; People v. Mendoza (1967) 251 Cal.App.2d 835, 843 [60 Cal.Rptr. 5].) Appellant claims that a different intention should be attributed to subdivision (c) because it proscribes an exotic weapon rather than the more familiar guns, daggers, blackjacks, brass knuckles and billyclubs mentioned in subdivision (a). But the language of the statute affords no plausible support for that distinction. The critical phrase “for use as a weapon for throwing” is so placed in the enactment as to modify the term “other geometric shape,” limiting the scope of that very general expression to implements similar to the specifically described weapons in their capacity to do injury.
+Finally, appellant contends that the First Amendment protection of freedom of expression can be given effect only by requiring proof of specific intent to possess the weapon for some criminal purpose. That contention must be rejected. Even if the weapon were to be regarded as having a communicative aspect, the control of deadly weapons is a sufficiently important governmental interest to justify the incidental limitation on First Amendment freedoms. (See United States v. O’Brien (1968) 391 U.S. 367 [20 L.Ed.2d 672, 88 S.Ct. 1673].)
+The judgment is affirmed.
+Brown (G. A.), R J., and Franson, J., concurred.
+A petition for a rehearing was denied August 19, 1977, and appellant’s petition for a hearing by the Supreme Court was denied September 22, 1977.
+Assigned by the Acting Chairman of the Judicial Council.
+In pertinent part, Penal Code section 12020, subdivision (c), provides: “Any person ... who . . . possesses any instrument, without handles, consisting of a metal plate having three or more radiating points with one or more sharp edges and designed in the shape of a polygon, trefoil, cross, star, diamond, or other geometric shape for use as a weapon for throwing is guilty of a felony....”
