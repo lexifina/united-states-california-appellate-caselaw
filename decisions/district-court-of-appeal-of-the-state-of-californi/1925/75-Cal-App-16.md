@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1261"
+decided: "1925-10-31"
+citations: ["75 Cal. App. 16"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Appellant, v. SOLOMON ANDURSKY, Respondent."]
+source_url: "https://static.case.law/cal-app/75/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163765
+cites_cases: ["149 Ga. 191", "213 S. W. 424", "276 Fed. 714", "278 Mo. 368", "99 S. E. 622"]
+---
+
+# People v. Andursky
+
+## Majority (CURTIS, J.)
+
+CURTIS, J.
+Respondent was charged and found guilty of the crime of rape, alleged to have been committed on or about the tenth day of November, 1924, upon Martha E. Biggs, a female of the age of fifteen years and not the wife of respondent. He was also charged in a second count of the information with the crime of violation of the Juvenile Court Law in the state of California, in that on or about the tenth day of November, 1924, he did cause, and tend to cause and encourage and induce, and endeavor to induce said Martha E. Biggs, a female of the age of fifteen years to perform such acts and to follow such course of conduct and to so live as would manifestly tend to cause said minor to become and remain a person coming within the provisions of the said Juvenile Court Law, in that said defendant on the tenth day of November, 1924, did induce said Martha E. Biggs to remain away from her home and usual place of abode and did then and there induce her to go with defendant to a room in a rooming-house, and said defendant did then and there occupy the same bed in said room with said Martha E. Biggs and did then and there accomplish acts of sexual intercourse with her.
+The jury returned a verdict of “not guilty” as to the second count of said information. Thereafter, respondent made a motion for a new trial on the ground that the verdict was against law, in that the verdict finding him guilty of the crime of rape as charged in the first count of the information was inconsistent with the verdict acquitting him of the crime charged in the second count of the information, wherein it is alleged, among other things, the respondent accomplished acts of sexual intercourse with said minor. The court granted respondent’s motion and the People have appealed from said order.
+It is conceded that the charges set forth in the two counts of the information grew out of and relate to the same transaction or state of facts. While they are not identical, the respondent is accused in each count of the commission of sexual intercourse with the said female minor, Martha E. Biggs. In the first count this is the sole charge against him and in the second count the acts of sexual intercourse, together with other acts, are charged against the respondent in alleging a violation of the Juvenile Court Law. A verdict acquitting him of the crime of rape would not be equivalent to a finding that he was not guilty of the charge contained in count two of the information, for he may have enticed the minor from her home and taken her to his room in a rooming-house and there occupied the same bed with her, which acts might reasonably be considered to be a violation of said act, and not have committed sexual intercourse with her. On the other hand, however, a verdict of acquittal of the charge contained in count two would necessarily be a finding on the part of the jury that he was not guilty of any of the facts charged against him in said count. It would therefore be a finding of the jury that he had not committed sexual intercourse with said minor. The jury, therefore, by its verdict of guilty of rape as charged in count one, found that the respondent had committed sexual intercourse with said minor and by its verdict of not guilty of the charge contained in count two, found that he had not committed said act of sexual intercourse. These two findings are inconsistent and conflicting and as such they would not support a judgment of conviction. While this question appears never to have been directly before the appellate courts of this state, it has frequently been so held in other jurisdictions.
+In Rosenthal v. United States, 276 Fed. 714, the defendant was charged in one count with having bought and received stolen property with knowledge that it had been stolen, and in a second count with having the same property in his possession with like knowledge. The jury found him not guilty of the charge contained in the first count and guilty of that set out in the second count. Upon appeal the judgment was reversed by the circuit court of appeals, for the reason that the two findings were wholly inconsistent and conflicting.
+In Kuck v. State, 149 Ga. 191 [99 S. E. 622], a similar question was presented. In that case it was decided, reading from the syllabus: “Where a person is accused in count one on a charge of misdemeanor, alleging that he did sell spirituous liquors, etc., and in another count of the same accusation it is alleged that defendant on the same day did have control and possess spirituous liquors, etc., and the same evidence is relied on to convict under both counts, a verdict finding the defendant guilty on the first count, and not guilty on the second, is void for repugnancy.’’ (See, also, State v. Akers, 278 Mo. 368 [213 S. W. 424]; 2 Bishop’s New Criminal Procedure, sec. 1015; 16 C. J., sec. 2596.)
+These authorities appear to sustain the order of the trial court in granting respondent a new trial. Said order is therefore affirmed.
+Conrey, P. J., and Hahn, J., pro tem., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 28, 1925.
+Seawell, J., dissented.
