@@ -1,0 +1,41 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12112"
+decided: "1943-01-05"
+citations: ["56 Cal. App. 2d 504"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SANTA CRUZ PORTLAND CEMENT CO. (a Corporation) et al., Appellants, v. HARRY A. YOUNG et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/56/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4424834
+cites_cases: ["116 P.2d 37", "117 Cal. 1", "125 P. 265", "128 Cal. 531", "136 A.L.R. 800", "139 Cal. 398", "141 Cal. 96", "18 Cal.2d 427", "184 P. 431", "187 P. 163", "239 P. 355", "258 P. 991", "42 Cal.App. 674", "45 Cal.App. 149", "48 P. 804", "58 P. 180", "59 Am.St.Rep. 153", "61 P. 99", "73 P. 174", "74 Cal.App. 77", "74 P. 696", "84 Cal.App. 577"]
+---
+
+# Santa Cruz Portland Cement Co. v. Young
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+Plaintiffs appeal from a judgment entered pursuant to an order sustaining without leave to amend defendants’ demurrer to a petition for a writ of mandate to compel defendants, members of the City Council of San Jose, to levy a reassessment on certain real property described in the petition. The demurrer was sustained on the ground that the petition showed on its face that the cause of action was barred by the statute of limitations, and by laches. The appeal approaches the frivolous, as the allegations of the complaint definitely demonstrate that the cause of action is barred by the statute of limitations.
+So far as pertinent here, the petition, filed on May 8, 1941, alleged that in December, 1913, the City Council of San Jose, purporting to conduct proceedings for public improvements under the Vrooman Act (Stats, of 1885, chap. CLIII, p. 147, as amended; Deering’s Gen. Laws, 1923, Act 8194), caused to be created an assessment district in San Jose upon which assessments were levied; that after the improvements were made it was determined by the District Court of Appeal that there was a defect in the proceedings in levying the assessments, and that, for that reason, the bonds, liens, and assessments so levied were unenforceable (Beck, v. Ransome-Crummey Co., 42 Cal.App. 674 [184 P. 431], petition for hearing denied by Supreme Court October 9, 1919); that on April 2, 1941, plaintiffs caused to be served on defendants a written request for a reassessment of the properties included in the 1913 assessment; that defendants have refused to order the reassessment; that plaintiffs are the owners and holders of the bonds, liens, charges and assessments, and that they are without remedy unless the reassessment is ordered.
+An examination of the pertinent provisions of the Vrooman Act shows the following situation. When the assessment was declared void in 1919 in Beck v. Ransome-Crummey Co., supra, there was no provision giving holders of void bonds, liens, charges or assessments the right to demand a reassessment. That right was conferred by a 1921 amendment to § 12% of the act (Stats. 1921, chap. 378, p. 563). The section reads in part as follows:
+“Whenever any assessment heretofore issued or which may be hereafter issued is or shall be void, or unenforcible, for want of sufficient authority for its issuance or from irregularities, or illegalities in the proceedings, or if bonds shall have been, or shall be issued to represent any assessments and such issuance shall not have been, or shall not be effective through the curative provisions thereof to make them valid and enforeible, then, in any of such events a reassessment therefor shall be issued. The true intent and meaning of this section is to make the cost and expense of work or improvement made through an attempted compliance with this act, payable by the real estate benefited by such work or improvement by making a reassessment therefor.
+“Such power of reassessing embraces both a full and a partial reassessment, and is not exhausted by a single attempted exercise thereof.
+“A reassessment shall be ordered under any one of three circumstances:
+“First—Where the owner or holder of any assessments, or of bonds issued to represent assessments requests the legislative body of' the city in which the assessment has been or shall be issued to order a reassessment. In such event if said legislative body be of the opinion that the assessments or bonds in question are not enforeible, it shall order the making and issuing of a reassessment covering only the assessments owned or held by the petitioner, or the assessments represented by the bonds owned or held by such petitioner. ’ ’
+This section was immaterially amended in 1923 (Stats, of 1923, chap. 57, p. 110), and remained in full force and effect until 1933, when the Vrooman Act was repealed. (Stats. 1933, Chap. 345, p. 948.) The repealing statute contained a saving clause, reciting that the city council was not divested of its power to conduct any proceeding under the provisions of the act relating to any proceeding wherein the resolution of intention to levy the assessment was adopted before January 1, 1933.
+The pertinent dates are as follows:
+December, 1913—Assessment district created.
+October, 1919—Decision invalidating proceedings became final.
+Stats, of 1921—Holders of bonds, etc., given right to demand reassessment.
+Stats, of 1933—Vrooman act repealed with saving clause.
+April 2, 1941—Demand made on city council to reassess.
+May 8, 1941—This action instituted.
+Appellants concede that the proper statute of limitations is that contained in section 338, subdivision 1, of the Code of Civil Procedure, providing a three-year limitation on “an action upon a liability created by statute, other than a penalty or forfeiture,” and urge that such period did not start to run until the demand was made on April 2, 1941. The point is without merit.
+In the present case the cause of action to secure a reassessment arose upon the passage of the 1921 amendment. Appellants could have made a demand at any time after the passage of the statute. Under such circumstances, the statute of limitations starts to run from the date demand could first be made. This rule has frequently been stated and applied in this state, and there are no contrary cases. In Dillon v. Board of Pension Commrs., 18 Cal.2d 427, 430 [116 P.2d 37, 136 A.L.R. 800], the rule is stated as follows: “At any time following the death she could demand a pension from the board and upon refusal could maintain a suit to enforce such action. The city charter requires an application to the board before court proceedings can be instituted, but it is established in California that a claimant cannot delay the running of the statute of limitations by postponing the time of demand upon the proper officials; the statute therefore begins to run at the time when the plaintiff first had the power to make such demand. (Barnes v. Glide, 117 Cal. 1 [48 P. 804, 59 Am.St.Rep. 153]; Jones v. Board of Police Commrs., 141 Cal. 96 [74 P. 696]; Curtin v. Board of Police Commrs., 74 Cal.App. 77 [239 P. 355] ; Wittmam v. Board of Police Commrs., 19 Cal.App; 229 [125 P. 265] ; Harrigan v. Some Life Insurance Co., 128 Cal. 531 [58 P. 180, 61 P. 99]; San Luis Obispo County v. Gage, 139 Cal. 398 [73 P. 174].)”
+In Wittman v. Board of Police Commrs., supra, a ease frequently cited and quoted from, the court stated the rule as follows (p. 231) : “These considerations bring the case within the rule followed and recognized in many cases, that where a right has fully accrued except for some demand to be made as a condition precedent to legal relief, which the claimant can at any time make, if he so chooses, the cause of action has accrued for the purpose of setting the statute of limitations running. [Citing cases.] ” See, also, Central Pac. Ry. Co. v. Costa, 84 Cal.App. 577 [258 P. 991] ; Gamewell F. A. T. Co. v. Los Angeles, 45 Cal.App. 149 [187 P. 163].)
+These principles are conclusive on the present appeal. The cause of action set forth in the petition has been barred by the statute of limitations since 1924, seventeen years before the petition was filed.
+The judgment is affirmed.
+Knight, J., and Ward, J., concurred.
