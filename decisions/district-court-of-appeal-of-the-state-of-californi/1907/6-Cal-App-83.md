@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 352"
+decided: "1907-07-08"
+citations: ["6 Cal. App. 83"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUFINA CODONI, Respondent, v. V. L. DONATI, Appellant."]
+source_url: "https://static.case.law/cal-app/6/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963848
+cites_cases: ["32 Pac. 591", "33 Am. St. Rep. 203", "97 Cal. 553"]
+---
+
+# Codoni v. Donati
+
+## Majority (THE COURT.)
+
+THE COURT.
+An action for damages claimed by reason of defendant having alienated from plaintiff the affections of her husband.
+The principal matter relied upon by appellant relates to the sufficiency of the evidence to support the findings. An examination of the record indicates that there is no testimony in support of the implied finding that the affections of plaintiff’s husband were actually alienated. There is in the record that which may be said to be sufficient to establish an attempt upon the part of defendant to create dissatisfaction upon the part of the husband, and had such effort been followed with desertion, or with proof of facts tending to show that the affections of the husband had been actually alienated, we would not be inclined to disturb the verdict. It appears, however, from the record that the relations between plaintiff and her husband were pleasant up to and until his departure from this country on a visit to his native land; that while the husband was on such visit, defendant wrote a letter to him which might well have had the effect to induce a separation; but, notwithstanding this letter, the husband returned to his wife, brought back with him presents, resumed marital relations, and on the twenty-sixth day of September, in company with his wife, attended a picnic near their home. After their return from the picnic, the husband accepted an invitation from defendant to attend a dinner at the house of defendant, to which function the plaintiff was not an invited guest, for the admitted reason that she and the wife of defendant were not on friendly terms. The husband, however, returned to his home on the day following, spent the night of the 27th of September with his wife, and everything was pleasant and agreeable between them; on which occasion he opened his valise and distributed the presents to his wife and daughter. On the 28th of September the husband went to Salinas, from which point he wrote two letters to his‘wife, and also telephoned her. On the 31st of October, he inclosed in one of the letters written the sum of $5 with which to pay the railroad fare of the plaintiff and her child to Salinas. Neither of these letters was answered, nor did the plaintiff go to her husband. She used the money for another purpose, and her reason for not going to him upon his demand was that she thought he might be playing her a trick, and for the reason that he had published a card in the newspaper, after this suit was brought, in which he stated that he had not abandoned his wife and did not intend so to do. There is not a particle of testimony in the record from which it may be inferred that the husband ever intended to abandon his wife, or that he had lost affection for her.
+This action was brought on the fifth day of October, within a week after the husband went to Salinas, and the record shows that after this action was brought the husband made all reasonable efforts to induce the wife to go to Salinas and live with him. We are satisfied that the facts of this case bring it within the rule announced by Mr. Justice McFarland in the ease of Driscoll v. Cable Ry. Co., 97 Cal. 553, [33 Am. St. Rep. 203, 32 Pac. 591]: “When a jury catches at a mere semblance or pretense of evidence for the purpose of somewhat equalizing financial conditions by taking money from one party and giving it to the other without legal cause, the trial judge should, without hesitation, set the verdict aside; and in the event of his not doing so, this court will grant a new trial.” In our opinion, there was no evidence of desertion, without which the verdict was unwarranted. The mere fact that the husband, without his wife’s knowledge, had gone to an adjoining county where he had remained for a period of seven days, is not sufficient to establish desertion within the meaning of the statute. It was his right to select the home, and it was the duty of the wife to have gone to him when he sent her the money with which to come. The verdict in this ease seems to have been rendered upon what, at most, is “a mere semblance of evidence.” The court should have granted a new trial.
+The judgment and order are reversed, and cause remanded for a new trial.
