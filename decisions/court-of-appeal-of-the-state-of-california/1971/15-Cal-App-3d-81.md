@@ -1,0 +1,59 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 37349"
+decided: "1971-02-05"
+citations: ["15 Cal. App. 3d 81"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GENERAL MOTORS CORPORATION, Petitioner, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent; VELMA LORRAINE LANDERS et al., Real Parties in Interest."]
+source_url: "https://static.case.law/cal-app-3d/15/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4416884
+cites_cases: ["148 Cal.App.2d 736", "158 P. 547", "18 Cal.Rptr. 812", "199 Cal.App.2d 798", "247 Cal.App.2d 326", "263 Cal.App.2d 264", "273 Cal.App.2d 176", "30 Cal.App. 466", "307 P.2d 739", "346 P.2d 409", "53 Cal.2d 77", "55 Cal.Rptr. 574", "69 Cal.Rptr. 384", "78 Cal.Rptr. 65"]
+---
+
+# General Motors Corp. v. Superior Court
+
+## Majority (COMPTON, J.)
+
+Opinion
+COMPTON, J.
+Petitioner, General Motors Corporation, seeks by writ of mandate to quash service of summons purportedly made upon it by service on one of its employees.
+In a complaint for personal injuries allegedly caused by the negligent and defective design of a Pontiac station wagon, plaintiffs (real parties in interest) joined as defendants, petitioner, Roc Cutri Pontiac, a California corporation, and numerous Does.
+We have concluded that the service on General Motors was fatally defective and as a result the superior court did not acquire jurisdiction over General Motors Corporation.
+At the outset we note that petitioner was erroneously named in the complaint as “Pontiac Motor Division of General Motors Corporation.” While it is not contended that this designation constitutes a fatal defect it is typical of the lack of precision and diligence which characterizes the conduct of plaintiffs in these proceedings.
+Further, the tone of the proceedings is discerned from a brief recounting of the time elements involved.
+The underlying cause of action arose August 2, 1966. The complaint was filed August 1, 1967, one day before it would have been barred by the statute of limitations.
+The original summons was issued July 31, 1968, one day short of one year from the filing of the complaint, the period provided for issuance of summons by Code of Civil Procedure section 581a. The abortive attempt at service occurred July 29, 1970, two days prior to the running of the three-year period allowed for service under section 581a of the Code of Civil Procedure.
+The conduct which plaintiffs contend amounted to service on petitioner consisted of a process server delivering a copy of a complaint and summons to one E. T. Westerfeld, a customer relations manager for the Pontiac Motor Division of petitioner. The summons so delivered was directed to “Roc Cutri Pontiac, a California Corporation.”
+It is undisputed that E. T. Westerfeld was not a designated or authorized agent to accept service for either petitioner or Roc Cutri Pontiac. Nor can it be contended that Roc Cutri Pontiac is other than an entity completely separate and independent from petitioner.
+Code of Civil Procedure section 416.10 and Corporations Code section 6500 are quite precise in their requirements for obtaining valid service on a foreign corporation doing business in the state. These statutes provide that service may be made on a person so designated by the corporation or upon certain specific corporate officers, one of which is “The General Manager in this State.”
+Service on a foreign corporation may be made only in the prescribed statutory manner. (Nagel v. P & M Distributors, Inc., 273 Cal.App.2d 176 [78 Cal.Rptr. 65].)
+As customer relations manager of the Pontiac Motors Division, Westerfeld clearly was not the “General Manager in this State” nor did he hold any of the other corporate offices described in Corporations Code section 6500.
+In a declaration filed with the trial court in opposition to the motion to quash, counsel for plaintiffs alleged that he was advised on the telephone by a person purporting to be Mr. Westerfeld’s secretary, that Mr. Westerfeld was authorized to receive service of process on behalf of General Motors Corporation.
+“ ‘The purpose of the various sections dealing with service of summons upon a foreign corporation is to give an aggrieved party a means of bringing a foreign corporation into a proper jurisdictional tribunal and to protect the corporation through the enactment of statutes providing methods and means of security from default judgments.’ ” (Eclipse Fuel etc. Co. v. Superior Court, 148 Cal.App.2d 736, at p. 745 [307 P.2d 739].) (Italics added.)
+It is in the interest of protecting the corporation against default that the statute provides for service on responsible corporate officials.
+In denying the motion to quash the trial court made no findings, so we are unable to determine on what basis it found the service to be valid.
+In Eclipse Fuel, supra, the court stated that a “General Manager” was an agent of the corporation of sufficient character and rank to make it reasonably certain that the corporate defendant will be apprised of the service made. In Cosper v. Smith & Wesson Arms Co., 53 Cal.2d 77, at p. 83 [346 P.2d 409], the court in following Eclipse, supra, stated: “Whether in any given case, the person served may properly be regarded as within the concept of the statute depends on the particular facts involved.”
+In both Eclipse and Cosper the corporations involved had not designated an agent for acceptance of service of process and had in effect attempted to maintain a rather low silhouette within the state by operating through subsidiaries and contract representatives. The court in each case was faced with the problem of determining whether the corporation was doing business in the state as well as identifying a responsible agent for service. In both cases plaintiffs produced considerable evidence concerning the agent’s activities, duties and responsibilities.
+General Motors, on the other hand, has properly designated an agent whose identity was easily ascertainable to accept service of process and has not sought to avoid its accountability in the State of California. In this action it seeks only to require plaintiffs to comply with the statutory scheme to the same extent that it has itself complied therewith.
+Where the validity of service of process on a foreign corporation is challenged by a motion to quash, the burden is on the plaintiff to prove the validity of the service. This burden extends not only to establishing the amenability of the foreign corporation to the jurisdiction of the California courts in terms of its presence here, but also to the fact of compliance with California’s statutory provisions for acquiring jurisdiction. (See Lotus Car Ltd. v. Municipal Court, 263 Cal.App.2d 264 [69 Cal.Rptr. 384].)
+“The term ‘general manager of a corporation’ indicates one who has general direction and control of the business of the corporation as distinguished from one who has the management only of a particular branch of the business; he may do everything which the corporation could do in transaction of its business.” (Bakersfield Hacienda, Inc. v. Superior Court, 199 Cal.App.2d 798, at p. 804 [18 Cal.Rptr. 812].)
+Plaintiffs here offered no evidence of Westerfeld’s “character and rank” within the corporation or of his duties and responsibilities. Any implied finding by the trial court that Westerfeld was a “General Manager” within the meaning of section 6500 of the Corporations Code is unsupportable
+Furthermore, we are not disposed to find that General Motors is estopped to deny Westerfeld’s authority because of the alleged statement of his secretary. To do so would be to vest every employee, regardless of rank, in a large corporation with the power to invalidate the statute. In the case at bar such a result would have the effect of rewarding slothful counsel at the expense of petitioner.
+We conclude that the purported service on Westerfeld was a nullity.
+Plaintiffs not only served the wrong person, they served the wrong summons. As indicated above the summons delivered to Westerfeld was directed to Roc Cutri Pontiac.
+“It is a settled rule that where the statute requires notice to be given a party of any action of a court in any proceeding the notice so given must be precisely the one prescribed by the statute.” (Peterson v. Superior Court, 30 Cal.App. 466, 469 [158 P. 547].)
+Plaintiffs concede that the summons in question did not comport with the requirements of Code of Civil Procedure sections 412.20, subdivision (a) and 412.30 but contend that the error was inconsequential because General Motors Corporaton was designated as a party defendant in the caption of the summons and complaint and was referred to throughout the allegations of the complaint.
+Such a contention is answered by the clear mandatory language of the statutes and by National Union Fire Ins. Co. v. Superior Court, 247 Cal.App.2d 326 [55 Cal.Rptr. 574].)
+In the latter case service of summons was made upon a vice president of National Union. The summons did not contain the statement that the vice president was being served as a representative of National Union. The space for such notation on the summons was left blank. The court there held that the provisions of Code of Civil Procedure section 410 (now § 412.30) were mandatory and that the attempted service was void.
+It seems clear to us that designating the wrong person on the summons is as critical a defect as no designation at all.
+Let a peremptory writ of mandate issue directing the superior court to vacate its order denying the motion to quash the service of summons on petitioner and to make and enter its order granting said motion.
+Herndon, Acting P. J., and Fleming, J., concurred.
+Code of Civil Procedure section 581a was amended in 1969 to delete this particular provision.
+We note in passing and with considerable displeasure that on the date set for oral argument in this case, this court received a letter from counsel for plaintiffs calling our attention to the fact that another division of this court had denied a petition for an alternative writ on behalf of Roc Cutri Pontiac. This letter indicated that similar issues were involved in said petition. (Apparently the summons which was served on Roc Cutri Pontiac was directed to General Motors Corporation.)
+Either as a result of negligence or intent, counsel failed to disclose in his letter that prior to the petition for a writ, Roc Cutri Pontiac had filed an answer and a cross-complaint in the action and by thus appearing generally, rendered moot the question of. service.
+“Except as otherwise required by statute, a summons shall be directed to the defendant, signed by the clerk and issued under the seal of the court in which the action is pending . . .” (Italics added.)
+“In an action against a corporation or an unincorporated association (including a partnership), the copy of the summons that is served shall contain a notice stating in substance: ‘To the person served: You are hereby served in the within action (or special proceeding) on behalf of (here state the name of the corporation or the unincorporated association) as a person upon whom a copy of the summons and of the complaint may be delivered to effect service on said party under the provisions of (here state appropriate provisions of Chapter 4 (commencing with Section 413.10) of the Code of Civil Procedure).’ If service is also made on such person as an individual, the notice shall also indicate that service is being made on such person as an individual as well as on behalf of the corporation or the unincorporated association.
+“If such notice does not appear on the copy of the summons served, no default may be taken against such corporation ór unincorporated association or against such person individually, as the case may be.”
