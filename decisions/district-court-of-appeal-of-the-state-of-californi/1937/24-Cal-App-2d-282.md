@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10646"
+decided: "1937-12-30"
+citations: ["24 Cal. App. 2d 282"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of PHILLIP STERN, Deceased. ERNESTINA CROCKER, Appellant, v. HENRY S. NATHAN, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/24/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310196
+cites_cases: ["138 Cal. App. 80", "140 Cal. 238", "182 Cal. 427", "188 Pac. 560", "31 Pac. (2d) 1078", "4 Cal. App. 114", "73 Pac. 998", "87 Pac. 245"]
+---
+
+# Crocker v. Nathan
+
+## Majority (KNIGHT, J.)
+
+KNIGHT, J.
+This is an appeal from two decrees rendered in the matter of the estate of Phillip Stem, deceased; one settling the executor’s account and the other granting his petition for partial or ratable distribution.
+The controversy arises out of the following facts: In March, 1935, the appellant Ernestina Crocker brought an action against Fannie S. Nathan and her husband, Henry S. Nathan, to recover the sum of $1999.33 due on a promissory note; and on March 22, 1935, she caused a writ of attachment to. be levied on Mrs. Nathan’s interest in the estate of her father, Phillip Stern, deceased. In April, 1935, appellant brought a second action against the same parties to recover a sum in excess of $2,000 due on a promissory note, and on August 26, 1935, after obtaining judgment in the action, she caused an execution to be levied on Mrs. Nathan's interest in said estate. The assets of the estate consisted of real and personal property, and by the terms of decedent’s will Mrs. Nathan was bequeathed one-fourth of the residue. Isaac Frohman and Mrs. Nathan’s husband were appointed executors, but Frohman died a year or more subsequent to the issuance of the letters testamentary, and thereafter Henry S. Nathan acted as sole executor.
+On February 24, 1936, said executor filed an account setting forth in detail the items of receipt and disbursement, and it appears therefrom that out of the cash receipts he paid as the occasion demanded and as the money was available the administration expenses, taxes, insurance, and upkeep of the real property, and all of the specific cash legacies; and the residue was paid in equal shares to the four residuary legatees, one of whom was Mrs. Nathan. Said payments were made to the legateés in instalments as the money was received monthly by the executor from the income of the property, so that on March 22, 1935, the date on which the writ of attachment was levied, the only assets remaining in the hands of the executor consisted of about $3 in cash and the real property. The payment so made to Mrs. Nathan prior to the levy amounted to $1031. Subsequent to the levy and up to the time of the filing of the account approximately $436 was received by the executor, but no part of it was paid to Mrs. Nathan. Admittedly, however, all * of such advances were made to the legatees by the executor without first having obtained any court authorization therefor; consequently, for the purpose of securing court approval thereof the executor filed also a petition for partial or ratable distribution. Appellant filed exceptions to the account and objections to the petition, but the same were disallowed and overruled, and at the hearing the account was settled and the petition granted.
+At the time the opening brief was filed, counsel for appellant assumed that no decree of partial or ratable distribution had ever been given or made (page 5, appellant’s opening brief), and that the court approval of the advances so made by the executor to said legatees rested alone on the order settling the account. Consequently the single point urged by appellant in her opening brief, in support of the appeal, was based upon the legal proposition, which is not disputed, that it is beyond the power of the probate court in the settlement of the executor’s account to approve or confirm payments previously made by him to the legatees without court authorization. (Estate of Willey, 140 Cal. 238 [73 Pac. 998]; Elizalde v. Murphy, 4 Cal. App. 114 [87 Pac. 245]; Estate of Elizalde, 182 Cal. 427 [188 Pac. 560].) As held in the cases cited and in a later decision (Estate of Guglielmi, 138 Cal. App. 80 [31 Pac. (2d) 1078]), it is only upon hearing for distribution, partial or final, that advances on distributive shares can be considered or approved. (See, also, 12 Cal. Jur. 181.)
+Subsequently, however, it was ascertained that a decree of partial or ratable distribution had been rendered and filed, but through inadvertence had been omitted from the transcript on appeal; and on stipulation it was made part of the record herein. Therefore, since the advances so made to Mrs. Nathan have received court approval in conformity with the requirement declared in the cases above cited, the decree of approval made in that behalf is valid, and the executor cannot be held responsible to appellant for any such advances made prior to the levy of said writ.
+Appellant makes the additional point in her reply brief that the decree in question is in effect a decree of final distribution, and consequently is invalid because there has been no settlement of a final account. The decree cannot be so construed. It was rendered and entered as a decree of partial or ratable distribution and is based on a petition asking only for such a decree. Furthermore, it is admitted that no disposition has ever been made of the real property belonging to the estate.
+The orders appealed from are affirmed.
+Tyler, P. J., and Cashin, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on February 24, 1938.
