@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3993"
+decided: "1924-03-06"
+citations: ["66 Cal. App. 128"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK J. GOODWIN, Administrator, etc., Respondent, v. WALTER A. PFUNDER, Appellant."]
+source_url: "https://static.case.law/cal-app/66/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2147435
+---
+
+# Goodwin v. Pfunder
+
+## Majority (CURTIS, J.)
+
+CURTIS, J.
+This action was instituted to recover money delivered to defendant for the use and benefit of plaintiff’s intestate. The delivery of said money to the defendant was denied by the answer. Judgment was rendered in favor of plaintiff and defendant appeals.
+The only point made by defendant upon this appeal is the insufficiency of the evidence to justify the judgment. It was proven at the trial that the deceased, William H. H. Goodwin, on the twenty-fourth day of December, 1919, paid to defendant the sum of $1,250. The payment was made by means of a check for $1,250 sent to the defendant through the mail, which check, when admitted in evidence, bore the indorsement of the defendant, and also the stamp of the hank upon which it was drawn, showing the same to have been paid. Defendant admitted the receipt of said cheek, and that he had cashed the same and received the money thereon, but claimed that this money had been paid to him by Goodwin in payment of a loan in the same amount made by him to Goodwin. Upon cross-examination he was unable to show where or how he obtained the money loaned to Goodwin, except that he “had saved it up from different times from deals and things.” He claimed he kept it in a safe-deposit vault prior to loaning it, although he admitted he had an account in a savings bank at the same time. He testified that he did not give Goodwin a check, but that he gave him the money itself, which he took from his safety deposit vault. The money paid him by Goodwin he deposited in the bank. He testified at the trial that he was to receive one per cent a month interest on the loan to Goodwin, but it was shown that in the trial of another action he had testified that he was to receive eight per cent interest per annum. He testified that he did not recall that there was any letter or writing accompanying the check which Goodwin sent to him, but at the trial of the other action referred to he testified that he had destroyed the letter sent with the check. He testified he took a note from Goodwin when he made the loan, and that this note was returned to Goodwin when the note was paid, but Goodwin’s administrator testified that he was unable to find said note among the effects of the deceased when he took charge of the property of the estate of said deceased a few months thereafter. There were numerous contradictions and discrepancies in the defendant’s testimony which rendered it unsatisfactory in the extreme. The evidence showed that Goodwin, during the time that he had these transactions with the defendant, was a man of considerable means and was worth in the neighborhood of $50,000, and that his property consisted of lands, notes secured by mortgage, shares of stock in the telephone company, the Pennsylvania Railroad Company, and other corporations. Tim testimony further showed that the defendant was a man of limited means and was then, and had been for years, working at a salary of not to exceed $125 per month, out of which he was compelled to support himself and family. A witness by the name of Vincent testified as follows: “I asked Mr. Pfunder (the defendant) how he came to get the ear and he told me that he took it over with this money that Mr. Goodwin had loaned him—or he had loaned Mr. Goodwin.”
+With this testimony before the trial court we are not able to say that it was not sufficient to justify the court in rendering judgment in plaintiff’s favor. Defendant refers to other testimony given by the witness Vincent during the trial, to the effect that the deceased had told him that he had borrowed the money from the defendant. By reference to the reporter’s transcript we find that this witness testified that the deceased “said that Mr. Pfunder managed to get the money for him.” Conceding that this statement of the witness Vincent justifies the claim made for it by the defendant, this fact cannot be of any material assistance to the defendant on this appeal. We are not to weigh the evidence and determine whether the preponderance thereof is in defendant’s favor or not. This was the duty of the trial court, and in the exercise of this duty it found in favor of the plaintiff. In our opinion this finding should not be disturbed.
+For the reasons above stated we think the judgment should be affirmed, and it is so ordered.
+Conrey, P. J., and Houser, J., concurred.
