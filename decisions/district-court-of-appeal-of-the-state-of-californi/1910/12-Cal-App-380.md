@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 734"
+decided: "1910-01-05"
+citations: ["12 Cal. App. 380"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. F. BOTSFORD, Respondent, v. BEN HENEY, Appellant."]
+source_url: "https://static.case.law/cal-app/12/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4570710
+cites_cases: ["107 Cal. 358", "123 Cal. 474", "154 Cal. 380", "40 Pac. 534", "56 Pac. 339", "97 Pac. 889"]
+---
+
+# Botsford v. Heney
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+Appeal by defendant from a judgment and an order denying a new trial.
+The action was one to recover the purchase price of certain shares of mining stock alleged to have been sold by one Melius to defendant for an agreed price, and the assignment of the claim for such unpaid purchase money by Melius to plaintiff.
+The court found that on June 17, 1907, Melius sold and delivered to defendant the shares of stock; that defendant agreed to pay therefor the sum of $14,500, on or before September 10, 1907; that before suit the demand was by Melius assigned to plaintiff, and by reason of nonpayment, judgment went for plaintiff in the sum demanded.
+It is contended by appellant that the evidence is insufficient to support the findings with reference to the sale, or the agreement to pay the stipulated price, or the assignment of the claim. The contract was evidenced by correspondence in which defendant offered to pay Melius in cash, on or before August 10, 1907, dollar for dollar on account of his original investment in the Hardshell-Flux mining properties, and $10,000 in addition. Melius, on the eleventh day of June, by letter, accepted the proposition and notified defendant that he had placed the 9,000 shares of stock in the American National Bank subject to his order, when $14,500 was paid to the bank, and that the bank would forward a note to be signed, evidencing the debt, payable August 10th. without interest. Defendant,- on June 14th, wrote to Melius objecting to the form of the note sent by the bank and inclosing a note in such form as he would sign, but asked to modify his proposal to pay August 10th, and make the note payable September 10, 1907, and in the letter stated that the modification of his original offer was, total cash sum to be paid thirty days later than the date first mentioned, and required Melius to make a written assignment of his interest in said mining properties, which, with the shares of stock assigned, were to be placed in escrow, deliverable upon payment of the note. Melius accepted the modification and by written assignment transferred to defendant all his interest in the mining properties and delivered the shares of stock, duly indorsed, to the American National Bank to be delivered upon payment of the note, and defendant was notified by Melius of this fact. It was not necessary in order to complete the contract that the bank give a notice to the same purport. Melius’ notice was sufficient to apprise defendant of the full compliance with his demands in reference to the escrow. It is conceded that the original investment of Melius in the mining properties and this stock was $4,500. We do not think that appellant’s contention that no contract was to be completed until the note was signed and forwarded can be sustained. The terms of the agreement were all complete, the price at which the stock was purchased was stipulated, and even the time of payment was stated. The deposit in the hands of the bank for delivery upon payment of the note, as requested by defendant, was equivalent to a deposit for delivery upon the payment of a stipulated price. The delivery to the bank by Melius was to an agent of the purchaser designated by him, and when so delivered it was too late for either party to retract and the sale was complete. The due and proper indorsement of the stock is made to appear from the evidence. Section 1059, Civil Code, provides that: “Though a grant be not actually delivered into the possession of the grantee, it is yet to be deemed constructively delivered in the following cases: 2. Where it is delivered to a stranger for the benefit of the grantee, and his assent is shown, or may be presumed.” Referring to this section of the code, our supreme court in Carr v. Howell, 154 Cal. 380, [97 Pac. 889], says: “While this section relates by its terms to a grant, we think the principles therein laid down are equally applicable to any contract.” There is no room for controversy as to the absolute and unqualified character of Melius’ acceptance of the offer. The delivery being made, although constructively but pursuant to defendant’s request and demand, the title passed to Heney and plaintiff possessed elective remedies upon default, of which suing for the purchase price is one. (Lassing v. James, 107 Cal. 358, [40 Pac. 534].) We see nothing in Tan Allen v. Francis, 123 Cal. 474, [56 Pac. 339], establishing a contrary doctrine. The assignment appearing in the record seems to us to be complete, and a full performance of the conditions imposed by defendant in his letter of June 14th.
+We see no prejudicial error in the record, and the judgment and order are affirmed.
+Shaw, J., and Taggart, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 3, 1910.
