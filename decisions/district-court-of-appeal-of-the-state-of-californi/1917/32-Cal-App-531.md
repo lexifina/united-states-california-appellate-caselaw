@@ -1,0 +1,23 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 534"
+decided: "1917-01-17"
+citations: ["32 Cal. App. 531"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of JOHN E. SAUL, for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/32/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2022516
+cites_cases: ["122 Cal. 201", "54 Pac. 740"]
+---
+
+# In re Saul
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Petitioner is a defendant in a divorce action brought by his wife. There were several children of the marriage, among them a gill Dinah Saul, aged thirteen years. The superior court, after mating an order giving the custody of Dinah Saul to the mother, took proceedings in contempt against the petitioner because of his alleged act in refusing to deliver the custody of the said Dinah Saul to the mother as ordered. In the contempt proceeding it was determined that this petitioner had then the ability to produce Dinah Saul, but that he willfully refused so to do, and the judgment was that he be imprisoned by the sheriff until he should comply with the order of the court. Petitioner was so imprisoned and has remained in jail for a period of about six months, having made various applications for his discharge heretofore by habeas corpus. As appears from the petition filed herein, he lately made an application to the superior court to be discharged on the ground that he had not now the ability to obey the order, and upon the denial of that petition he came here under a like showing, upon which we issued the writ. At the hearing hereof, petitioner offered in evidence letters and cablegrams which showed that Dinah Saul was in England, and that there had been sent to her, on petitioner’s behalf, money with which to pay for her return passage, together with urgent requests that she come back to Los Angeles. Petitioner orally testified that before the order committing him for contempt was made, the minor with his knowledge had left the state and country and had gone to Southport, England, to live with petitioner’s sister. It is questionable as to whether, if the superior court was furnished with the evidence that the child was, at the time the commitment was made, out of the country and in England, it would have had authority to make the order which was made, because it would have been clear that the then present ability of Saul to produce the child was lacking. The court might well have punished the petitioner for contempt in procuring the child to be sent out of the country, but no judgment of that kind was made. A continuing order of imprisonment in a contempt proceeding, conditional upon a compliance being made with the direction of the court, can only be lawfully entered where it appears that it is within the power of the party to obey the court’s mandate and that he willfully refuses so to do. (Ex parte Overend, 122 Cal. 201, [54 Pac. 740].) Passing the question, however, as to whether the original commitment was made in a proper case (and conceding that it was), it now appears that the petitioner has made every reasonable effort to comply with the order of court, and that his failure to now produce the child is due to conditions which he cannot control. It places the case directly within the provisions of section 1487 of the Penal Code as entitling the petitioner to discharge, where “the imprisonment was at first lawful, yet by some act, omission, or event which has taken place afterward, the party has become entitled to a discharge.” If the petitioner were required to continue in custody of the sheriff, there appears no means within his reach by which he can furnish evidence of any condition which will satisfy the judgment of the superior court. There is no doubt at all of the power of the superior court to punish for contempt in such cases and to enforce its judgments, but it cannot cause the imprisonment of a person indefinitely where he has not the ability to make compliance with an order of court, however reprehensible may have been his conduct in the first instance in creating the very condition which renders such compliance impossible.
+It is ordered that the prayer of the petition be granted and that petitioner be discharged from the custody of the sheriff. This order is made without prejudice to the right of the superior court to further deal with the matter of the custody of Dinah Saul, or enforce by contempt proceedings any orders properly made in that relation.
+Conrey, P. J., and Shaw, J., concurred.
