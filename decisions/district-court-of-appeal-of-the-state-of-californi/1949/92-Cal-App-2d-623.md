@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 722"
+decided: "1949-06-27"
+citations: ["92 Cal. App. 2d 623"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. VANCE BAKER, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/92/cases/0623-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2251638
+cites_cases: ["167 P.2d 766", "174 P. 325", "178 Cal. 525", "178 P.2d 470", "197 P.2d 330", "198 P.2d 505", "32 Cal.2d 502", "32 Cal.2d 819", "73 Cal.App.2d 894", "78 Cal.App.2d 894"]
+---
+
+# People v. Baker
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+The defendant was charged with the crime of “Forgery of Endorsement” in violation of section 470 of the Penal Code, it being alleged that he had with fraudulent intent forged the name of one Keister upon the back of a certain check and had uttered and passed this check thus forged with the intent to cheat and defraud certain individuals and corporations. A prior conviction of forgery was also charged.
+At the trial on November 29, 1943, ample evidence of guilt was presented. The appellant, who was represented by counsel, admitted the prior conviction and introduced the testimony of three witnesses, including himself. Counsel argued the case and a verdict of guilty was returned by the jury.
+On December 3, 1943, the matter came on for judgment and the defendant appeared with his counsel. When the defendant insisted that he had not signed the name of Keister to this check the court called for the exhibits and remarked: “Very snrely a resemblance from my inspection of these two signatures. They surely look alike to me, but of course I am no handwriting expert.” Counsel for defendant stated that a handwriting expert, Mr. Sellers, had made an examination of this check and specimens of the defendant’s handwriting and stated that he could not say “whether it was or was not Mr. Baker’s writing.” Defendant confirmed this, and further stated that “a fellow by the name of Harris looked at the handwriting and said it wasn’t me.” The judge then stated that since the defendant was not eligible for probation he wanted to be fair and give him every “break” possible, and that he was going to ask a man from the police department to examine the exhibits. The matter was continued until December 6, 1943, when the man from the police department appeared and testified at length as to the similarities between the questioned writing and specimens of the defendant’s handwriting. After remarking that he was satisfied that the defendant had thus cashed the check the judge proceeded to pronounce .judgment. No motion for a new trial was made and no appeal was taken.
+Five years later, on December 13, 1948, the defendant filed a petition in the superior court for a writ of error coram nobis, stating as grounds therefor that he had discovered new evidence which could not with reasonable diligence have been produced at the trial; that he was convicted on inconsistent testimony; and that “said judgment is void on its face for uncertainty in the conviction, of forgery of endorsement.” From an order denying this motion the defendant has appealed.
+The appellant here contends that (1) the crime with which he was charged was not proven at his trial; (2) that he was convicted on the testimony of a witness which was untrue and on testimony which was inconsistent; (3) that his attorney, who was appointed by the court, was negligent and failed to properly defend him because he allowed a jury to be picked in 55 minutes and because he refused to use all of appellant’s witnesses who were present at the trial; (4) that he has discovered new evidence to prove his innocence; and (5) that he was denied a personal-hearing on his motion in the trial court for a writ of error coram nobis.
+There is nothing in the record before us which would tend to support any one of the first three of these points. Moreover, these were all matters which could have been raised and reviewed on a motion for a new trial or on an appeal. It is well settled that the writ here relied upon cannot be employed for the purpose of securing what amounts to a second opportunity for a review, under such circumstances. (People v. Mooney, 178 Cal. 525 [174 P. 325]; People v. Egan, 73 Cal.App.2d 894 [167 P.2d 766]; People v. Tate, 78 Cal.App.2d 894 [178 P.2d 470].)
+Appellant’s main contention seems to be that he has now discovered new evidence which would prove his innocence. It is contended that testimony could now be secured from Mr. Harris and from Mr. Sellers, experts on handwriting, to sustain appellant’s contention that he did not write the name of Keister on this check. Not only is it a general rule that this writ will not be granted on the ground of newly discovered evidence going to the merits of the issues tried (People v. Tuthill, 32 Cal.2d 819 [198 P.2d 505]), but it appears from the record that these two proposed witnesses had been consulted prior to December 3, 1943, when the matter first came on for judgment and before the time had expired for filing a motion for a new trial or for filing a notice of appeal. No reason for this long delay appears and it is well settled that a showing of diligence is necessary in order to make available the relief here sought. (People v. Shorts, 32 Cal.2d 502 [197 P.2d 330].) As to the
+fifth point raised, there is nothing in the record which in any way suggests error or prejudice in the refusal of the trial court to order the appellant brought into court on the hearing of the motion which resulted in the order appealed from. Aside from any other consideration, the grounds alleged in the petition for a writ were insufficient to justify or support an order granting the motion, and no abuse of the discretion resting in the trial court appears.
+Nothing appears in this entire proceeding other than, or different from, the matters which are usually presented on a motion for a new trial or on an appeal and which are reviewable in the ordinary manner. Under such circumstances, the rules of law authorizing the issuance of this extraordinary writ are not applicable.
+The order appealed from is affirmed.
+Griffin, J., and Mussell, J., concurred.
