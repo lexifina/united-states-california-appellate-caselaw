@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3920"
+decided: "1924-03-20"
+citations: ["66 Cal. App. 281"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEARLE H. JARRETT, Appellant, v. WILLARD A. NORTON et al., Respondents."]
+source_url: "https://static.case.law/cal-app/66/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2147439
+cites_cases: ["122 Pac. 462", "162 Cal. 268", "32 N. J. Eq. 259"]
+---
+
+# Jarrett v. Norton
+
+## Majority (WORKS, J.)
+
+WORKS, J.
+After certain preliminary negotiations plaintiff and defendant Norton signed an agreement by the terms of which plaintiff leased to Norton a rancho owned by her and upon which she had been residing. The agreement also established a relationship between plaintiff and Norton concerning the livestock and crops then upon and thereafter to be produced upon the property which, if it did not constitute a partnership, authorized Norton to sell and deal in the personal property mentioned for the joint benefit of the two. Although the agreement between the parties was signed, no manual delivery of it was made, and there was a collateral oral understanding that no delivery was to occur until Norton should pay to plaintiff a certain sum of money which by the terms of the written agreement he bound himself to pay upon the “execution and delivery” of the paper. Despite this oral understanding, however, and without the payment of the sum mentioned, plaintiff vacated the rancho immediately after the signing of the written agreement, took up her residence an eighth of a mile distant from it, and permitted Norton to enter into possession of her real property and into the active management of it, as well as into the possession, control, and management of the personal property upon it. Plaintiff’s conduct in this regard was influenced by statements which Norton made to her to the effect that he would soon make the payment which was to have consummated the agreement. This he said he would do out of moneys to- come from the estate of his mother, who had then recently died in the east. Norton’s entry on the ranch was apparently near June 1st of a certain year, the record not being exactly clear on the subject, and he remained there until December of the same year, under repeated promises that he would make the overdue payment as soon as his mother’s estate was settled. Plaintiff occupied her new residence the greater part of the summer and was cognizant of what took place on the rancho. Norton’s possession was maintained by two men whom he put in charge of the property and he was frequently on it himself. Through these men, and by his own presence, Norton openly and notoriously conducted the rancho during the period of his possession, and plaintiff had nothing whatever to do with its "management. Norton, among other things, cut, every three or four weeks, alfalfa which was growing on the property at the time of his entry and sold it and collected the proceeds. Toward the latter part of the year he sold to defendant Kirk certain cattle, hogs, and turkeys which were on the rancho at the time he took possession.
+This action was commenced to recover from both defendants as upon a conversion of the personal property sold by Norton to Kirk. Judgment went for defendants and plaintiff appeals.
+It is contended by appellant that certain of the findings of the trial court are not supported by the evidence, but the disposition of all question as to these findings depends upon the settlement of but one point. Did the written agreement between plaintiff and respondent Norton become operative? If it did, the latter had an undoubted right to make the sale to Kirk. We fail to see why the agreement did not become operative. Appellant demeaned herself toward Norton and toward his rights under the contract exactly as she would have demeaned herself if the payment which was due from him had been made. Norton could have acquired no greater rights under the contract by making the payment than he was allowed by appellant to exercise without making it. We cannot but conclude .that the agreement was executed by the acts of appellant. Undoubtedly, she could have agreed expressly to waive the payment due from Norton as a condition precedent to delivery of the instrument. This being so, we are satisfied that the trial court was justified in finding from the evidence that her acts and conduct were the equivalent, under the law, of such an express agreement. “Whenever it appears that the contract or arrangement between the parties has been so far executed or completed, that they must have understood that the grantor had divested himself of title, and that the grantee was invested with it, delivery will be considered complete, though the instrument itself still remains in the hands of the grantor” (Moore v. Trott, 162 Cal. 268, 275 [122 Pac. 462], quoting from Ruckman v. Ruckman, 32 N. J. Eq. 259).
+One or two questions are presented by respondent Kirk as pertaining to his case as a separate defendant, but a treatment of them is not necessary after the conclusion which we have reached upon the question above discussed.
+Judgment affirmed.
+Finlayson, P. J., and Craig, J., concurred.
