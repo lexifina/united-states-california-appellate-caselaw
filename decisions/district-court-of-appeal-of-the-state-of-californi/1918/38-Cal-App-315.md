@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2421; Civ. No. 2501"
+decided: "1918-09-30"
+citations: ["38 Cal. App. 315"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARBOR CENTER LAND COMPANY (a Corporation), Appellant, v. CITY OF RICHMOND (a Municipal Corporation), et al., Respondents; HARBOR CENTER LAND COMPANY, Appellant, v. CITY OF RICHMOND, Respondent."]
+source_url: "https://static.case.law/cal-app/38/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2037292
+cites_cases: ["147 Cal. 21", "150 Pac. 977", "150 Pac. 982", "170 Cal. 605", "170 Cal. 618", "81 Pac. 225"]
+---
+
+# Harbor Center Land Co. v. City of Richmond
+
+## Majority (BEASLY, J., pro tem.)
+
+BEASLY, J., pro tem.
+cases between identical parties involve the same questions, and will be determined together.
+The purpose of the actions was to secure an injunction restraining the city of Richmond and its officers from removing the municipal offices from a certain building upon lands which the plaintiff claims were donated to the city by it for úse as a city hall, and from entering into a contract for the erection of a city hall for the city of Richmond.
+So far as we can find, the questions presented, for decision are all settled .in this state. Most of them were disposed of in the case of Hopping v. Council of the City of Richmond, 170 Cal. 605, [150 Pac. 977], and a case bearing the same titles and reported in 170 Cal. 618, [150 Pac. 982]. In' those eases the supreme court by mandate compelled the city of Richmond to submit to the electors of the city for approval or rejection upon a referendum petition the question of providing for the acquisition from plaintiff by the municipality of the tract of land from which the city now proposes to remove its offices and the construction of a city hall thereon. At the election held pursuant to the mandate of the supreme court the resolution by which the city council proposed to enter into an agreement with the plaintiff were rejected; and at the same time the electors of the city seem from the record to have selected another site for the city hall. The facts down to the time the mandate issued appear in the opinion of the supreme court in those cases. Following the election the council undertook to remove the municipal offices from the site upon plaintiff’s property which the electors had rejected at the referendum election to the other site selected at the same election. The plaintiff seeks in these actions, as above stated, to enjoin this removal, and bases its application upon the contention that such removal would violate several sections of the state and federal constitutions.
+We think it unnecessary to discuss these contentions, for it was held in Hopping v. City of Richmond, supra, that the choice of a site for a city hall by the council was a legislative act; that the act of the council could be set aside upon referendum by the voters of the city, and it follows that the decision of the electors at such election held for said purpose was itself legislative and binding, therefore, upon the city council under our constitutional provisions establishing the refer- ■ endum.
+There seems to us to be a very simple reason why this injunction was properly refused by the superior court. An injunction cannot be granted in this state to prevent a legislative act by a municipal corporation within the scope of its powers. (Code Civ. Proc., sec. 526, subd. 7; Glide v. Superior Court, 147 Cal. 21, [81 Pac. 225].) Of course, no act could be more clearly within the scope of the powers of this municipal corporation than the selection of a location for its city hall. The plaintiff must be taken to have made his so-called agreements with the governing body of the municipality with knowledge and in contemplation of the legislative character of any act done by that body in passing the resolution accepting the proposal made by it—which was to furnish the block of land for this purpose—and of the right of the electors of the city to take the matter out of the hands of the council by referendum, and to reject the agreement which the council proposed to make, and select another site if they saw fit to do so. If the plaintiff contracted obligations and spent money upon the faith of the council’s action in passing the resolution accepting its proposal before the municipality had in due course acted directly through the referendum, it simply showed bad legal judgment. It had no binding contract, because the act of selecting the site—a prerequisite to making a contract for its acquisition—was. legislative, and could be reviewed and set aside by the electors, and until so reviewed, or until the right of review by referendum was lost by lapse of time or otherwise, no contract based thereon was finally-binding upon the city. The act of the electors in rejecting the offer of the plaintiff to furnish the ground for the city hall was, therefore, not violative of the provisions of the constitution upon the subject either of due process of law, of the impairing of the obligation of contracts, or of protecting property or of taking or damaging private property for public use.
+- The judgment in each case is affirmed.
+Lennon, P. J,,.and Sturtevant, J., pro iem., concurred.
