@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1419"
+decided: "1927-01-28"
+citations: ["81 Cal. App. 122"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. C. GHYSELS, Appellant."]
+source_url: "https://static.case.law/cal-app/81/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2204065
+cites_cases: ["230 Pac. 1001", "69 Cal. App. 94"]
+---
+
+# People v. Ghysels
+
+## Majority (YORK, J.)
+
+YORK, J.
+The defendant was convicted of the unlawful possession of intoxicating liquor, and in the information was also charged with two prior convictions of possession of intoxicating liquor.
+As to the prior convictions, the defendant on the day of trial stated that he had been convicted as charged, but plead not guilty as to possession of intoxicating liquor. The defendant’s claim was that the liquor was discovered by him near a drainage ditch on his property when he was cutting hay. He admits that he took possession of a gallon jar of the same, but claims that he brought it to his house merely to exhibit to the witness Butler, who had asked him for something to drink as he was “going fishing.” There is no direct evidence that defendant offered the liquor for sale. He stated that he brought it to the house intending to turn it over to the officers of the law at a later date. However, he was intercepted by an officer before any delivery was made to witness Butler.
+The principal points presented by appellant relate to rulings of the court excluding questions asked by appellant on cross-examination of witnesses, and on direct examination of defendant’s witness Butler. The objections to cross-examination of witnesses, that were sustained, were properly sustained, because the questions related to matters which were outside of the scope of the direct examination of those witnesses. The court’s refusal to allow appellant’s counsel to bring out an alleged connection of Butler with the district attorney’s office, or some supposed arrangement whereby he might have received promise of immunity from some of the public officials connected with the prosecution on account of some prosecution in which the witness was apparently involved, was not erroneous. Butler was defendant’s witness, and there is nothing to show that he was reluctant, or that appellant was surprised by his testimony.
+The defendant took the stand and testified quite fully, but did not directly deny that the witness Butler had stated that he was going fishing and that he wanted something to drink, and defendant did not deny that he went out and got the liquor. He does deny that he said he had buried it himself or said that it was good liquor, as was testified to by witnesses Butler and McClellan.
+As to the errors that appellant claims were made in instructions given, and the errors that he claims exist by reason of certain instructions refused, on a casual examination these objections would appear to be worthy of discussion because the first portion of the first instruction objected to by the appellant refers to a portion of the National Prohibition Act, section 3 thereof, which makes reference necessarily to the manufacture, sale, transporting, etc., of intoxicating liquor. But it clearly appears from the instructions given that they refer only to the charge that defendant was guilty of the crime of possession of intoxicating liquor. It was unnecessary and inappropriate for the trial court to instruct the jury, in the words of the National Prohibition Act, that “All of the provisions of the prohibition act shall be liberally construed to the end that the use of intoxicating liquor as a beverage may be prevented. ’ ’ This language merely involves a statement of statutory construction applied to prohibition acts. As was said in People v. Pagni, 69 Cal. App. 94 [230 Pac. 1001]: “Juries are not concerned with rules of statutory construction. These are for the guidance of the courts in construing or applying the provisions of statutory enactments, while the sole function of the jury is to consider the facts and formulate a judgment with respoct thereto under the guidance of appropriate statements of the law by the court.” It was held in said case that it was not proper to instruct the jury that all of the provisions of the Prohibition Act should be liberally construed. But as was said in the same case at page 104: “We are not to be understood as holding that the errors committed in the instructions above considered are of themselves of sufficient gravity to compel a reversal of the case. This question, if passed on, would have to be considered and determined by the light of the record as a whole.” In the case at bar, all of the other instructions are definite as to the fact that the defendant was on trial only for the unlawful possession of intoxicating liquor, and the evidence as to possession was positive and direct, and there was no evidence introduced claiming to show a sale. As we find no errors in th,e record other than the mere technical error arising from the giving of the single instruction complained of, we cannot say that the error complained of worked any miscarriage of justice. The case was fairly tried, and the evidence clearly shows that defendant was guilty as charged.
+The judgment and order herein appealed from are affirmed.
+Conrey, P. J., and Houser, J., concurred.
