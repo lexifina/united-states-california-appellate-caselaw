@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 417"
+decided: "1917-11-19"
+citations: ["35 Cal. App. 341"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of ESTHER GOLDIE, for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/35/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024993
+---
+
+# In re Goldie
+
+## Majority (CHIPMAN, P. J.)
+
+CHIPMAN, P. J.
+It appears from the petition that petitioner was on June 21, 1917, committed to the Napa State Hospital for the Insane for the term of one year upon the charge laid under section 2185c of the Political Code, that she was at that time addicted to the use of narcotics and drugs. It is alleged that petitioner “has entirely recovered and been cured of the use of narcotics and drugs,” and that she is now being held in said institution “because of the fact that she is suffering from some blood trouble which, even if true, would not entitle the said medical superintendent to detain or restrain said Esther Goldie of her liberty.”
+A general demurrer was filed by the attorney-general, as also a return to the petition. The point raised .by the demurrer is that petitioner has failed to pursue the proper remedy provided by law; that the statute relating to matters of this kind provides a special procedure for the patient which is the only remedy permitted her by statute to gain her freedom, and not having followed those provisions, she is not entitled at this time to be heard in this court upon the petition now pending, and that petitioner must first exhaust the specific remedy prescribed by law before she can invoke the assistance of habeas corpus. Reliance is placed upon section 2189 of the Political Code as amended in 1915 (Stats. 1915, p. 568).
+Section 2189 deals exclusively with the insane, and provides the method by which persons committed for insanity may be discharged. Section 2185c relates entirely to persons “so far addicted to the intemperate use of narcotics or stimulants as to have lost the power of self-control, or is subject to dipsomania or inebriety,” etc. The concluding paragraph of section 2185c reads as follows: “The court shall commit such person for a definite period, not to exceed two years, but provided that he may be paroled by the medical superintendent under the same rules and conditions that the insane are paroled; and provided, further, that the state commission in lunacy shall be given the same power, to discharge any person committed under this act as contained in section 2189 of the Political Code, upon the recommendation of the hospital superintendent, when satisfied that such person will not receive substantial benefit from further hospital treatment.”
+Turning to section 2189, we find provisions for the discharge of insane persons as well when the superintendent of the hospital is unwilling as when willing. When unwilling, the person insane may have a hearing before a jury as to the fact of his recovery. It provides for no other class of patients. It will be observed that the provisions of section 2189 are made applicable to cases arising under section 2185c only in two instances specifically mentioned—first, the person committed may be paroled by the medical superintendent uhder the same rules that the insane are paroled; second, the state lunacy commission is given the same power to discharge any person ‘ ‘ committed under this act as contained in section 2189 of the Political Code, upon the recommendation of the hospital superintendent. ’ ’
+Wliere, however, the patient claims to have recovered from his malady and the superintendent is unwilling and refuses to discharge him, section 2185c does not specifically or by implication provide that he may proceed in the manner provided as in the case of an insane person claiming recovery under section 2189. The legislature has either intentionally or inadvertently failed to provide that a person committed for excessive use of narcotics, when claiming to be recovered and is refused a discharge by the superintendent of the hospital, may have this question of fact determined by the method prescribed for the insane in section 2189. Because section 2185c refers to section 2189, and so to say, carries the latter section into the former for certain specifically mentioned purposes, it by no means follows that all the provisions of section 2189 are carried into section 2185c, or that the method of procedure provided in section 2189 where an insane person claiming to have recovered, may have the issue determined by a court sitting with a jury, is made applicable to persons mentioned in section 2185c. It seems to us quite clear that the court eanno't extend the meaning of section 2185c beyond its express terms and read into it a method of procedure applicable only to persons committed under the charge of insanity.
+It follows that as the statute has given the petitioner no . specific remedy for having the question of her recovery determined, the writ of habeas corpus is open to her. The demurrer, therefore, is overruled.
+It is ordered that Thursday, at 11 o’clock A. M., on the twenty-second day of November, 1917, at the courtroom of this court, be and the same are fixed as the time and place for the hearing of said matter on the issues of fact presented by the petition and return.
+Hart, J., and Burnett, J., concurred.
