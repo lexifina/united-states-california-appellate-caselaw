@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2389"
+decided: "1946-07-24"
+citations: ["75 Cal. App. 2d 478"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. ELJOE MADDOX, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/75/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4473424
+cites_cases: ["1 Cal.2d 211", "104 P.2d 778", "117 Cal.App. 181", "15 Cal.2d 678", "153 P.2d 379", "26 Cal.App.2d 513", "3 P.2d 575", "34 P.2d 467", "36 Cal.App.2d 292", "66 Cal.App.2d 889", "66 P.2d 631", "79 P.2d 737", "8 Cal.2d 502", "98 P.2d 215"]
+---
+
+# People v. Maddox
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+By information defendant was charged with rape together with a prior conviction of robbery. He pleaded not guilty to the rape and stood mute on the charge of prior conviction. He and his counsel waived a jury trial. The court found him guilty of the rape, and likewise found that he had suffered the charged prior conviction. Prom the judgment of conviction and from the order denying his motion for a new trial the defendant appeals in propria persona, the public defender having refused to prosecute the appeal.
+Defendant’s principal contention is that the evidence is insufficient to support the judgment on the rape charge. He also urges, without citation of authority, that the prior conviction statutes are unconstitutional for the reason that evidence of a prior conviction necessarily prejudices the finder of fact against the accused on the main charge. There is no merit in either contention.
+So far as the constitutionality of prior conviction statutes is concerned, the point is no longer an open question. (People v. Rose, 26 Cal.App.2d 513 [79 P.2d 737]; see, also, cases collected 8 Cal.Jur. § 614, p. 641; 4 Cal.Jur. 10-Yr. Supp. § 614, p. 1032.) No contention is made that in form the prior was not properly charged, proved or found.
+The evidence on the rape charge amply demonstrates the guilt of the defendant. The complaining witness, who was but 19 years of age, on May 25, 1945, resided in an apairtment house on 7th Street in Oakland. The defendant occupied the adjoining apartment. It was connected with that of the complaining witness by a door which was supposed to be kept locked and which was nailed shut on the defendant’s side. The witness testified that on the night in question she returned home from work about midnight; that she went to bed about 1 a.m.; that there was considerable noise in defendant's apartment indicating that he was having a party-; that before she went to sleep the defendant talked to her through the locked door telling her that “they” (apparently the police) had taken his guests; that she went to sleep; that she awakened about 2 a.m. with a coughing spell; that defendant started talking to her again, recommending a treatment for the cough; that she again went to sleep and awakened at 4:30 or 5 a.m. to find defendant standing at the foot of her bed dressed in blue-striped shorts and a white upper; that she- put on her light and attempted to get up; that defendant told her if she was “going to holler or scream he was going to kill” her; that he grabbed her by the throat; that he then removed his shorts and got into her bed and committed forcible rape upon her. She identified a pair of distinctively colored shorts and a white upper as resembling the garments she saw on defendant on the morning in question. When defendant was arrested some time after 8 a.m. he was wearing these shorts and upper.
+The complaining witness further testified that she had never been in defendant’s room, and that before May 25th he had never been in her room; that upon completion of the act defendant told her that he was going to return to her room again and that if she said anything to anybody about what had happened he would kill her; that the connecting door between the two rooms had been opened; that she did not scream during the act because she was in fear of her life; that after the act she was terrified and hysterical and remained in bed until about 8 a.m.. when she informed another tenant in the apartment of what had occurred and the police were called. The defendant was arrested in his room a short time later. The arresting officer found a key in the possession of defendant that fitted the lock in the connecting door. The nails on the defendant’s side of the door had been bent so that the door could open. When arrested the defendant, according to the arresting officers, was suffering from a very bad “hangover.”
+Defendant took the stand in his own defense. He denied committing the acts charged, denied opening the connecting door, and denied ever having been in the complaining witness’ room. He admitted talking to the girl through the closed door about 1 a.m., but testified that he then left the house and visited several places and did not return until about 7 a.m. No witnesses were produced to corroborate this story.
+Prom this brief summary it is obvious that the evidence is sufficient to support the finding of guilt, and that this court has no power to disturb the finding. (People v. Cline, 117 Cal.App. 181 [3 P.2d 575]; People v. Lay, 66 Cal.App.2d 889 [153 P.2d 379]; see, also, People v. Schneider, 36 Cal.App.2d 292 [98 P.2d 215]; People v. Newland, 15 Cal.2d 678 [104 P.2d 778]; People v. Perkins, 8 Cal.2d 502 [66 P.2d 631]; People v. Tedesco, 1 Cal.2d 211 [34 P.2d 467].) We have carefully examined the transcript. There were no errors in the admission or exclusion of evidence. The record demonstrates that defendant was given a fair trial, and that the trial judge carefully protected all of the constitutional and statutory rights of defendant.
+The judgment and order appealed from are affirmed.
+Knight, J., and Ward, J., concurred.
