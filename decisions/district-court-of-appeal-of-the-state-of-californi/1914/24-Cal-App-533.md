@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1464"
+decided: "1914-05-23"
+citations: ["24 Cal. App. 533"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. H. WRIGHT et al., Respondents, v. J. W. BOGGESS et al., Appellants."]
+source_url: "https://static.case.law/cal-app/24/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4497167
+cites_cases: ["132 Mass. 449", "41 Cal. 484"]
+---
+
+# Wright v. Boggess
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Action to recover damages for the breach of an implied covenant contained in a grant deed made by defendants to plaintiffs.
+Judgment went for plaintiffs, from which defendants appeal on the judgment-roll.
+The complaint purports to declare a cause of action, not alone upon the implied covenants of the deed, but in addition thereto alleges that on May 20, 1913, plaintiffs and defendants entered into á written contract whereby plaintiffs agreed to convey to defendants a quarter section of land therein described for certain property owned by defendants, described as the Pacific Apartments. The agreement, as stated therein, was made subject to investigation by J. W. Boggess as to the value of plaintiffs’ property which they proposed to give in exchange for the Pacific Apartments, which was to be free of all encumbrances other than a certain mortgage and lease; that defendants’ property at the time of the execution of the contract was encumbered by an assessment for the cost of certain street work, which constituted a lien thereon in the sum of $327.90. Conceding the truth of these allegations, no facts are set forth constituting a cause of action upon the contract, which, moreover, was made subject to the condition that J. W. Boggess should, after inspection of plaintiffs’ property, approve the same. Whether he ever approved is not made to appear. Nor is it alleged that plaintiffs performed their part of the contract by conveying their quarter section of land to defendants; indeed, so far as shown by the complaint, there was no pretense on the part of either or any of the parties to perform or comply with the terms of the contract. Hence, all reference in the complaint to the contract and the existence of an encumbrance against the property of defendants at the date of its execution was mere surplusage.
+If a cause of action is alleged, it is by reason of the following allegations wholly independent of and in no wise connected with the contract, namely: That on June 3, 1913, defendants executed a grant deed conveying the property therein described (which is identical with that described in the contract), to plaintiffs, the sole and only consideration therefor, as shown by .the complaint, being the sum of ten dollars. That by said grant there was implied on the part of defendants a covenant that the estate thereby conveyed was free of encumbrance done, made, or suffered by the grantors, or any person claiming under them. It is further alleged “that at the time of the execution of said grant deed the premises were subject to a tax or street lien theretofore duly assessed, charged and levied upon said premises by the city of Long Beach, county of Los Angeles, state of California, and the officers thereof, in the sum of three hundred twenty-seven and 90/100 dollars, which tax was at the execution of said deed and, is now by law a lien against said premises.” The court gave judgment for $327.90 and costs, as prayed for.
+Among other alleged grounds for reversal, appellants insist that the complaint fails to state a cause of action, and that it is insufficient to support the judgment. That the street assessment constituted an encumbrance upon the property must be admitted. Conceding also that such lien was covered by the covenant implied by the execution and delivery of the grant deed, and being an encumbrance done, made, or suffered by the grantor, nevertheless, the complaint not only fails to show any payment or discharge of the lien, but affirmatively shows that the assessment “is now by law a lien against said premises.” While the covenant against encumbrances was broken as soon as made (Salmon v. Vallejo, 41 Cal. 484), yet as respects the measure of damages recoverable, it must be deemed merely a covenant to indemnify the grantees for damages or loss sustained. If plaintiffs have paid nothing toward removing or extinguishing the lien, they are not entitled to recover the amount thereof. (Rawle on Covenants for Title, section 188; Coburn v. Litchfield, 132 Mass. 449.) Moreover, it is expressly provided by statute that “the detriment caused by the breach of a covenant against encumbrances in a grant of an estate in real property is deemed to be the amount which has been actually expended by the covenantee in extinguishing either the principal or interest thereof.” (Civ. Code, sec. 3305.) Since this is true, and the complaint not only is barren of any allegation showing the actual expenditure of any sum in the extinction of the lien, but affirmatively shows the continued existence thereof, it is clear that it fails to support the judgment rendered. It is, therefore, reversed.
+Conrey, P. J., and James, J., concurred.
