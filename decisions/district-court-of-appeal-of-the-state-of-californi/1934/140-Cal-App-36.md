@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9484"
+decided: "1934-07-20"
+citations: ["140 Cal. App. 36"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NORWICH UNION INDEMNITY COMPANY (a Corporation) et al., Petitioners, v. INDUSTRIAL ACCIDENT COMMISSION and THOMAS HINES, Respondents."]
+source_url: "https://static.case.law/cal-app/140/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253961
+---
+
+# Norwich Union Indemnity Co. v. Industrial Accident Commission
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+Following an injury to an employee of petitioner Koetitz, the respondents after hearing duly determined that he was entitled to a pension for permanent disability during the rest of his life and ordered payments at the rate of $7.77 per week. More than 245 weeks after the date of the injury the commission, after a hearing conducted for that purpose, ordered that this pension be commuted, fixing the present value thereof at $4,311.45, assuming interest at the rate of six per cent per annum, which sum the commission found to be the equivalent of an annuity payment of $75 monthly which was to terminate in the event of death prior to full payment of the annuity for a period of 70.76 months. The insurance carrier and the employer filed this petition attacking the jurisdiction of the commission to commute after the lapse of 245 weeks from the date of the accident and attacking- the portion of the order requiring payments in the form of an annuity.
+The petitioners rely on section 20d of the Workmen’s Compensation Act. This provides in part: “The commission shall have continuing jurisdiction over all its orders, . . . and may at any time, . . . rescind, alter or amend any such order, . . . such power including the right to review, grant or regrant, diminish, increase or terminate, . . . any compensation awarded, . . . provided, that no award of compensation shall be rescinded, altered or amended after two hundred forty-five weeks from the date of the injury.”
+The commission relies on section 28 of the same act, which reads in part: “At the time of making its award, or at any time thereafter, the commission, . . . may, in its discretion, commute the compensation payable under this act to a lump sum, if it appears that such commutation is necessary for the protection of the person entitled thereto, ... or that the employer has sold or otherwise disposed of the greater part of his assets, or is about to do so, or that the employer is not a resident of this state, ...”
+The petitioners argue that the proviso found in subdivision d of section 20 is all-inclusive. The respondents argue that the provisions of section 28 are special in their relation to commutation of compensation. It will be noted that in subdivision d the commission is given power “at any time” to rescind, alter or amend and that the proviso is limited to the rescission, alteration or amendment. Section 28, which comes later in point of arrangement, confers the power “at any time thereafter” to commute the compensation. No limitation is found in this section and it would seem reasonable that if the legislature intended to limit the power it would have repeated the proviso found in section 20. A reason for not doing so may be found in the concluding portions of section 28, subdivision a, where, among the grounds for commutation, are included a finding that the employer has sold or otherwise disposed of his assets or is about to do so or that he was not a resident of the state. This would apply where a life pension has been granted and the financial condition of the employer or of his insurance carrier has so changed that a commutation is necessary to protect the employee. There would seem to be no reason for confining the power to commute to any definite period.
+The second ground of attack upon the order presents a mixed question of fact and arithmetic which neither party has tried to make clear. The petitioners urge that the statute does not authorize the payment of the commuted award in monthly installments. The criticism is too general. Section 28c of the act authorizes the commission to order the commuted sum paid directly to the insured or deposited with a savings bank or trust company that will agree to accept the same as a deposit bearing interest, or deposited with the state compensation insurance fund. “Payments from said fund, when so deposited, shall be made by the trustee only in the same amounts and at the - same time as fixed by order of the commission.” Though the commission may thus provide for installment payments by the trustee, it is not authorized to compel the insurer to act as trustee or to charge him in advance with interest on the fund. The interest to which the insured becomes entitled under this section of - the act is the interest which the fund has accumulated after deposit. The petitioners are liable for payment of the commuted lump sum only. If they may be permitted to act as voluntary trustees of the fund then they are chargeable with only so much interest as the fund may earn.
+The order is annulled and remanded for further proceedings.
+Sturtevant, J., and Spence, J„ concurred.
