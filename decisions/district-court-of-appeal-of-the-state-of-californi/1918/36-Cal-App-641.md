@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2293"
+decided: "1918-03-29"
+citations: ["36 Cal. App. 641"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOBBETT & DEAN (a Corporation), Appellant, v. OAKLAND, ANTIOCH & EASTERN RAILWAY (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app/36/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452021
+cites_cases: ["164 Pac. 798", "169 Pac. 389", "175 Cal. 1", "176 Cal. 639"]
+---
+
+# Lobbett & Dean v. Oakland, Antioch & Eastern Railway
+
+## Majority (ZOOK, J., pro tem.)
+
+ZOOK, J., pro tem.
+This is an action for damages arising out of a collision 'between plaintiff’s motor truck and an interurban train of the defendant, as a result of which plaintiff’s truck was badly damaged. The scene of the accident was at the crossing of Shafter Avenue, over which defendant has a right of way, and Cavour Street, in the city of Oakland. The crossing is at grade and both streets are practically level at that point. There was practically no conflict of evidence upon the trial, and the facts, briefly stated; are as follows: Plaintiff’s driver, who admitted that he was perfectly familiar with the crossing in question and had frequently seen trains of the defendant pass by at that point, was driving a five-ton truck, loaded with rock, westerly along Cavour Street, at the rate of about eight miles per hour, about the maximum speed of the machine when loaded. When about thirty-three feet from the crossing he threw out his clutch, and after he had gone about eight feet farther, he saw defendant’s train approaching. He immediately put on both brakes in an endeavor to stop, but was carried by the momentum of the heavy load to a point two feet from the nearest rail of defendant, and within the interference line of the train. He made no endeavor to turn to the right or left along Shafter Avenue, although the court expressly found that by so doing he could easily have avoided the collision. Defendant’s motorman testified that he first saw the truck when ab.out three hundred feet from the crossing; he immediately put on the air-brake in order to stop and let the truck cross ahead of him, and could have brought the train to a standstill before it reached the crossing; but, seeing the truck slowing down, he speeded up- the train upon the assumption that the truck would stop in time. When he finally saw that the truck was in danger, he was unable to stop the train in time to avoid a collision. Upon this state facts, the court found that both plaintiff’s driver and defendant’s motorman were negligent, and gave judgment in favor of defendant upon the ground of plaintiff’s contributory negligence.
+Appellant’s main contention is that, conceding its own negligence, the case is one for the application of the last clear chance rule, but we are of the opinion that this claim is not well founded. The motorman’s negligence, if any, lay in his speeding up the train after having slowed down, and the reason given by him for doing so was his erroneous assumption that the truck would stop before it reached the crossing. He having shown a reasonable degree of care in slowing down but a moment before, when he thought the truck was going to cross, it is only reasonable to accept his statement that he thought any danger was passed when he speeded up again. Under these circumstances, there being no other evidence as to the state of the motorman’s mind, the plaintiff has wholly failed to establish one of the principal conditions precedent to the application of the rule in question, namely, actual knowledge on the part of defendant’s servant of the perilous position of the truck. Appellant’s claim that the last clear chance rule applies where the defendant is in possession of facts from which a reasonable man would infer that plaintiff was in peril, although he may not have actual knowledge of sucn peril, is based upon a single sentence contained in the opinion of the supreme court in Arnold v. San Francisco-Oakland Terminal Ry., 175 Cal. 1, [164 Pac. 798]. That the language relied on was inadvertently used in that ease is apparent from the recent ease of Collins v. Marsh, 176 Cal. 639, [169 Pac. 389], where it is said that “it is well settled in this state that the ‘last clear chance’ rule does not apply when the defendant was not, but should have been, aware of the plaintiff’s danger.”
+Appellant’s only other contention is that the finding of the court that plaintiff’s driver could have turned to either side and avoided the collision is not supported by the evideuce. Inasmuch as plaintiff’s driver was clearly negligent in not having his truck under control when approaching the crossing, this finding is immaterial, and not necessary to support the judgment.
+The judgment is affirmed.
+Kerrigan, J., and Beasly, J., pro tem., concurred.
