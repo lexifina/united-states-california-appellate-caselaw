@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4856"
+decided: "1927-05-27"
+citations: ["83 Cal. App. 441"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH HOVLEY, Respondent, v. FRANK MELINE COMPANY (a Corporation) et al., Appellants."]
+source_url: "https://static.case.law/cal-app/83/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2205520
+cites_cases: ["113 Cal. 414", "117 Cal. 87", "151 Cal. 90", "45 Pac. 704", "48 Pac. 1021", "90 Pac. 197"]
+---
+
+# Hovley v. Frank Meline Co.
+
+## Majority (YORK, J.)
+
+YORK, J.
+The principal point to be decided in the appeal of this case is whether a certain contract signed “Frank Meline Company, by G. H. Seward,’’ and also signed by Peter P. Hovley, plaintiff’s assignor, was binding on Frank Meline, who was doing business under the name of Frank Meline Company. Appellant concedes that Seward was at the time he signed the contract in the employ of defendant but contends that signing the contract was not within the scope of Seward’s employment either actual or ostensible. The defendant was at that time engaged in a business of various kinds, among which were construction of buildings, financing, promotion, that of real estate broker, etc. He had four offices in four different localities, and had about one thousand persons in his employ. He was not, of course, giving personal attention to all of the various branches of his business, but had systematized and organized his business. Seward was operating in what was knowr, as the “Wilshire Office Dept.” A letter-head had been printed for use in that department on which was printed, “The Frank Meline Company, Realtors. Please direct youi reply to the Wilshire Office Dept. Attention G. H. Seward. Promotion, Financing, Loans, Business Properties, Leases, Individually-Owned Apartments, Building Contracts.” That letter-head was in general use in that department. Mr. Meline learned of this contract executed, in the manner indicated and did not communicate with Mr. Hovley about it.
+After a review of the evidence, we conclude that Mr. Seward was held out to the public by Mr. Meline as having authority to represent him in promoting building contracts and financing and in the manner pursued by Mr. Seward. The contract was a contract of Frank Meline and not of G. H. Seward. A man cannot hold another out before the public as his agent having authority of a general character and take the benefits of his acts when he considers them favorable to him and repudiate his agent’s acts when he considers them unfavorable. (Civ. Code, secs. 2315, 2317, 2330.)
+The findings of the court are criticised, and it is true that they are subject to criticism. The use of the term “Frank Meline guaranteed the payment of $3,000,” stand-, ing alone, supports appellant’s contention that the finding is without the issues. The term “guaranteed” nowhere appears in the pleadings or in the evidence, but the meaning of a word is sometimes shown in the context to be different than its technical meaning. The contract was one binding Frank Meline as a principal and not as a guarantor. The only way he could be a guarantor of the performance of his own contract was to perform it as a principal. Where a man “guarantees” the payment of his own indebtedness, he promises to pay it, however awkwardly expressed. And again when the trial court finds that he guaranteed “under the terms,” etc., the terms of the contract can be considered in ascertaining what “guaranteed” meant, and that it was the obligation specified in the contract. We hold that the judgment should not be reversed on the ground that the court fixed the liability of the defendant on a different theory than that set forth in the pleadings, and we construe the findings as above stated and not on a different theory than that shown in the pleadings. As we construe the findings, the cases of Chetwood v. California Bank, 113 Cal. 414 [45 Pac. 704]; McDougal v. Argonaut Land Co., 117 Cal. 87 [48 Pac. 1021], and other cases cited by appellant in support of his criticism, are not in point.
+Again, there is no distinction between the delivering of a certain memorandum to certain materialmen for the benefit of defendant and a delivery to defendant under the facts of this case, and hence there was no material discrepancy on this point between the allegations of the complaint and the findings. The criticism that it is found that the material was delivered to materialmen instead of by them is so apparently a careless misplacing of “to” for “by” and “by” for “to,” that the judgment should not be reversed for that reason. All findings should be construed together and, if possible, all conflicts should be reconciled rather than to reverse a judgment because of such conflicts. (Haight v. Haight, 151 Cal. 90 [90 Pac. 197].)
+The contention that the judgment should be re- - versed because Seward offered to perform cannot be sustained, for two reasons: Hovley was dealing with Meline as a principal and could not be required to deal with a man of less responsibility whom he had a right to consider as an agent only. Again, the offer to perform was not made in full accordance with the terms of the Meline Company contract and was at best an offer to compromise.
+We find no prejudicial error in the proceedings in the trial and the judgment is therefore affirmed.
+Conrey, P. J., and Houser, J., concurred.
+A petition by appellants to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on July 25, 1927.
