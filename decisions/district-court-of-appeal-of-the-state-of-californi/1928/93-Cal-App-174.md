@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1463"
+decided: "1928-07-13"
+citations: ["93 Cal. App. 174"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. E. R. COOK, Appellant."]
+source_url: "https://static.case.law/cal-app/93/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2111966
+---
+
+# People v. Cook
+
+## Majority (CASHIN, J.)
+
+CASHIN, J.
+The defendant was charged by an information filed in the superior court of Alameda County with the murder of Elizabeth Buckles. Upon the trial the jury returned a verdict of murder of the second degree, and from the judgment thereon and an order denying a motion for a new trial the defendant appealed.
+As grounds for reversal it is contended that the evidence is insufficient to support the verdict, that the conduct of the prosecuting attorney during the course of the trial was prejudicial to the rights of the defendant, that the court erred in admitting certain evidence over objection, and failed • to instruct the jury upon matters material to the defense.
+The evidence shows that on December 20, 1927, an operation for the purpose of producing an abortion was performed upon Elizabeth Buckles, who was pregnant and who died on the operating table. According to the testimony of Josephine Risius, she, with one Cole, assisted in the operation, which was performed by defendant. She testified that chloroform was administered by Cole and that the woman, while under its influence but during the course of the operation, died. Physicians who made a post-mortem examination testified that the woman was pregnant, and the cavity of the uterus was dilated, that within the same was found the partially dismembered foetus and placental tissue, much of which had been torn from the walls of the uterus, and that the head and one of the lower limbs had been torn from the body of the foetus. A physician further testified that some outside influence, substance, or metal instrument had been used to dilate the cervix, testifying that in his opinion the major cause of death was hemorrhage and shock. Although the defendant denied that he assisted in the operation, it is admitted that he was present in the office maintained by Cole about the time the death occurred and aided Cole and the witness Risius in an attempt to revive the deceased. On this occasion, according to another witness, he was clad in a gown of the kind worn by surgeons in the operating room. It further appears that Cole was not a licensed physician, although representing himself to be such; that the defendant frequently visited his office, where were found instruments and paraphernalia used in the performance of such operations. It was further shown that after the death of Mrs. Buckles, but before the discovery of her body by the authorities, a person employed in the building in which the office mentioned was situated was requested by defendant to deny in case inquiry should be made that the latter had been associated with Cole. Other circumstances were shown strongly tending to connect the defendant with the death, and the evidence adduced was ample to sustain the conclusions of the jury.
+The prosecution, before laying a foundation for such testimony by showing the existence of a conspiracy between Cole, Risius and the defendant the objective of which was the performance of criminal operations, attempted to show by questions to witnesses certain declarations by Cole, not in the presence of the defendant, tending to incriminate the latter. The asking of these questions was assigned as prejudicial misconduct on the part of the prosecution, as were also certain questions asked of the defendant and his son on cross-examination. "While the former was subject to objection when propounded, nevertheless, in view of the evidence subsequently adduced, which tended to show such conspiracy, and the instruction to the jury to disregard the questions, we cannot say that they were prejudicial, and certainly not to a degree to warrant a reversal of the judgment. The same is true of those asked on the cross-examination, for while one of the latter was an inquiry as to whether the witness knew that a certain act of fraud had been committed by the defendant, which, if true, had no connection with the charge being tried by the jury, nevertheless, after a careful examination of the entire record, including the evidence, which leaves no reasonable doubt of guilt, we are satisfied that the acts of the prosecuting attorney, although misconduct, did not prevent the defendant from having a fair trial or result in a miscarriage of justice.
+It is further contended that it was the duty of the court to instruct the jury that before a conviction could be had they must find that the instrument or instruments used, if any, were such as would produce an abortion, and that no such instruction was given. An examination of the record shows the contrary, as the jury was charged that among the elements necessary to be established before a conviction might be had it must he shown beyond a reasonable doubt that the defendant had used or employed an instrument in or upon the uterus of the deceased with the intent to produce a miscarriage, and that the direct and proximate cause of her death was the use of such instrument.
+A motion by the defendant in arrest of judgment was properly denied, and the record discloses no error in the rulings of the trial court.
+The judgment and order appealed from are affirmed.
+Tyler, P. J., and Knight, J., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on September 11, 1928.
+All the Justices present concurred.
