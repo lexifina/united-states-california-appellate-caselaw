@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 16102"
+decided: "1977-02-10"
+citations: ["73 Cal. App. 3d 268"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACK L. DOUGLAS, Plaintiff and Appellant, v. DONNER PINES, INC., et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/73/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2034076
+cites_cases: ["124 Cal.Rptr. 229", "227 Cal.App.2d 830", "39 Cal.Rptr. 196"]
+---
+
+# Douglas v. Donner Pines, Inc.
+
+## Majority (PARAS, J.)
+
+Opinion
+PARAS, J.
+Plaintiff Jack L. Douglas appeals from a judgment of dismissal after a demurrer to his first amended complaint was sustained without leave to amend.
+On January 2, 1974, plaintiff was discharged by Donner Pines, Inc. from employment as construction manager of a condominium project and a commercial development, both in Nevada County. On March 4 and on April 24, 1974, he recorded mechanic’s lien claims in Nevada County against the two properties. On May 13, 1974, in the Superior Court of Santa Clara County (not Nevada County), he filed a complaint to foreclose the mechanic’s liens, joining with it causes of action to compel arbitration and for breach of contract, services rendered and accounting. Over a year later, on July 18, 1975, he recorded a lis pendens in Nevada County. (See Civ. Code, § 3146.)
+The matter went to arbitration, and on August 25, 1975, the Superior Court of Santa Clara County entered a default judgment confirming the arbitrator’s award of $27,059.12 plus interest and costs; plaintiff was awarded liens of $18,640.37 and $8,418.75 respectively against the two properties. The judgment authorized the Sheriff of Nevada County to sell the properties at public auction to satisfy the liens.
+Up to this point only plaintiff and Donner Pines, Inc. were involved in the litigation; the original complaint had, however, named additional fictitious defendants. Having obtained the judgment establishing and foreclosing his lien, plaintiff also obtained (in the same judgment) an order “severing” the action as to the fictitious defendants, but retaining “jurisdiction to determine the validity and priority of the lien as to remaining defendants, fictitiously named or otherwise, who claim to have some estate lien, right, title or interest in or upon the real property ... .” (Italics added.)
+Plaintiff then filed the first amended complaint and served it upon the present defendants (hereinafter the defendants), who are variously described as owners, buyers or encumbrancers of the two projects. By stipulation the action was transferred to Nevada County, where pursuant to a ruling sustaining demurrer, it was dismissed as to defendants for failure to file the complaint in “a proper court” within 90 days after recording the claims of lien, as required by Civil Code section 3144.
+I
+Civil Code section 3144 provides in pertinent part, as follows: “No lien provided for in this chapter binds any property for a longer period of time than 90 days after the recording of the claim of lien, unless within that time an action to foreclose the lien is commenced in a proper court ....” (Italics added.) Was the Santa Clara County Superior Court a “proper court” in which to commence an action to foreclose a mechanic’s lien against property in Nevada County?
+We answered that question in States Shingle Co. v. Kaufman (1964) 227 Cal.App.2d 830, 835 [39 Cal.Rptr. 196], stating: “. . . the phrase ‘a proper court’ can refer only to ... a court of the county in which the land is located. Commencement in or transfer to such a court after expiration of the 90-day period comes too late.” (Italics added.)
+Plaintiff argues that the repeal in 1966 of article VI, section 5 of the California Constitution (providing that all actions to enforce liens on real property must be commenced in the county of the property’s situs) has had the effect of altering the States Shingle rule. We believe that the trial judge correctly answered this contention in his ruling when he stated: “The repeal of Article 6 Section 5 does not affect the ruling in State Shingle that a mechanic’s lien foreclosure suit must be commenced in a proper court, it merely eliminates the constitutional definition of proper court. There still remains the statutory definition contained in [Code Civ. Proc.] 392 which provides that the proper court for the foreclosure of all mechanic’s liens is the county where the real property is located. The repeal of Article 6 Section 5 means only that commencing the action in a county where the real property is located is now a rule of venue and no longer a jurisdictional requirement. Nelson v. Crocker National Bank (1975) 51 CA3d 536 [124 Cal.Rptr. 229]. However, the court in State Shingle made it clear that it was interpreting the term ‘proper court’, not in the context of questions of jurisdiction or venue, but for the precise purpose of the particular statute in which it appears. State Shingle, supra [at] 834.
+“. . . The repeal of Article 6 Section 5 does not repeal CC 3144 or the statutory purpose behind it. The Court is of the opinion that CC 3144 requires that an action to foreclose a lien must be commenced within ninety days after the recordation of the claim of lien in the county where the real property involved is located.”
+Plaintiff’s brief makes this further argument: “The States Shingle court stated that its purpose was to protect the integrity of recorded titles and to protect subsequent encumbrancers from the burden of searching the records of all of the counties in the state. This purpose has been rendered hollow by a subsequent act of the legislature. In 1971, several years after both the repeal of Article VI, Section 5, and the decision in States Shingle, the legislature amended the mechanic’s lien laws to state that the filing of notice of lis pendens is the only way to give constructive notice to a bona fide purchaser or encumbrancer.... With the passage of Section 3146 of the Civil Code, the concerns that troubled the court in States Shingle evaporated. There is no longer any reason to hold that although proper venue is not jurisdictional in other civil actions, it is jurisdictional in suits to foreclose mechanic’s liens.”
+We cannot accept this contention, because it is based upon a false premise. Civil Code section 3146 is virtually identical in language to its predecessor Code of Civil Procedure section 1198.2, which was in force at the time States Shingle was decided with section 1198.2 expressly in mind. (See 227 Cal.App.2d at p. 835.)
+The judgment is affirmed.
+Puglia, P. J., and Friedman, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied April?, 1977.
+The pertinent portion of Civil Code section 3146 reads as follows: “Only from the time of recording such notice shall a purchaser or encumbrancer of the property affected thereby be deemed to have constructive notice of the pendency of the action, and in that event only of its pendency against parties designated by their real names.”
+Its counterpart in former Code of Civil Procedure section 1198.2 read as follows: “Only from the time of filing such notice for record, shall a purchaser or encumbrancer of the property affected thereby be deemed to have constructive notice of the pendency of the action, and in that event only of its pendency against parties designated by their real names." (See Stats. 1959, ch. 1176, § 2.)
