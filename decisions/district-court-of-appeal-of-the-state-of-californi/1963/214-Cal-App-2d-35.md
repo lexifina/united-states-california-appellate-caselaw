@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 20687"
+decided: "1963-03-14"
+citations: ["214 Cal. App. 2d 35"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JERRY PHILLIP BOOKER, Plaintiff and Respondent, v. MAGDA CITTI BOOKER, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/214/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2117571
+cites_cases: ["116 Cal.App.2d 594", "126 Cal.App.2d 238", "136 P.2d 1", "151 Cal.App.2d 237", "199 P.2d 348", "21 Cal.2d 833", "254 P.2d 120", "271 P.2d 910", "311 P.2d 188", "88 Cal.App.2d 724"]
+---
+
+# Booker v. Booker
+
+## Majority (SHOEMAKEB, J.)
+
+SHOEMAKEB, J.
+Defendant Magda Booker appeals from an order modifying a child support award from $50 to $10 per month.
+On September 27, 1949, plaintiff Jerry Booker and defendant entered into a written agreement for the purpose of settling their property rights and providing for the support and maintenance of their minor child. The first six paragraphs of this agreement provided for the division of the various assets owned by the parties. Pursuant to the seventh and eighth paragraphs, the parties agreed that defendant was to have custody of the parties’ minor child and plaintiff was to pay $50 per month for the support of the child until she should either attain the age of 21, marry, or die. Paragraph 12 provided that the agreement should not bind either party “as to his or her courses concerning the marriage of the parties or any action for divorce, and the parties shall be entirely free as to their respective actions in connection therewith save and except as to the property rights of the parties.” Paragraph 13 provided that “The settlement effected hereby is and is intended to be a full and final settlement and satisfaction of all claims and rights to property which either party may have against the other, . . . whether growing out of their marital relationship or otherwise, including but not limited to, right in or to community or separate property, family allowance, homestead, probate homestead, or other like or unlike matters or rights. ’'
+Subsequently, on October 26, 1949, plaintiff was awarded an interlocutory decree of divorce, which incorporated, ratified, approved and confirmed “that certain agreement . . . for the settlement of the property rights of the parties” (italics added). The decree further ordered that defendant have custody and control of the parties’ minor child and that plaintiff pay defendant $50 per month for the support of the child until she should reach the age of 21, marry, or die, “or until further order of this court, whichever of the said events occurs first.” A final decree of divorce, which incorporated each of the provisions of the interlocutory decree, was entered on October 27, 1950.
+Thereafter, on November 21, 1961, plaintiff moved the court for an order terminating child support. After the matter had been duly argued by counsel for both parties, the court, on January 8, 1962, made the order the subject of this appeal.
+Appellant’s sole contention is that the court was without jurisdiction to reduce the child support payments, because the decree for child support was based upon an integrated property settlement agreement which was approved by the court and merged in the divorce decree. (Puckett v. Puckett (1943) 21 Cal.2d 833, 843 [136 P.2d 1]; Van Dyke v. Van Dyke (1954) 126 Cal.App.2d 238, 243-244 [271 P.2d 910].)
+Appellant’s statement as an abstract proposition of law is correct. However, we perceive that the trial court, in ordering the support payments reduced, impliedly found that the agreement and child support order were not a part of the adjustment of the parties’ property rights. (Shepard v. Shepard (1953) 116 Cal.App.2d 594, 596 [254 P.2d 120]; Scarlett v. Scarlett (1957) 151 Cal.App.2d 237, 238 [311 P.2d 188].) Under such circumstances, an appellate court does not substitute another interpretation, even though it might appear equally tenable. (Alexander v. Alexander (1948) 88 Cal.App.2d 724, 727 [199 P.2d 348].) The agreement o£ September 27, 1949, states that the child’s allowance is “for the support, maintenance, education and care” of the child. The payments are to continue only until she becomes of age, marries, or dies. Manifestly, they are for the benefit of the child and not a part of the adjustment of the property rights of the parents. In addition, the agreement specifically provides, pursuant to paragraph 12, that the agreement shall not be binding upon the parties “save and except” as to their property rights. Although paragraph 13 enumerates several items as to which the agreement is intended to be a full settlement, no mention is made of child custody or support, and logically compels our determination that the adjustment of property rights and the agreement to pay $50 per month as child support are separate and severable provisions of the agreement. This conclusion is additionally supported by the terms of the interlocutory and final decrees, which incorporate the parties’ “property settlement” agreement, but provide by separate order for the payment of $50 per month child support “until further order of this court,” which decrees have become final without any appeal therefrom.
+For the foregoing reasons, the court had jurisdiction to modify the child support award. (Civ. Code, § 138; Shepard v. Shepard, supra; Scarlett v. Scarlett, supra.)
+Order affirmed.
+Kaufman, P. J., and Agee, J., concurred.
+It may be noted that the rule set forth in the Puckett and Van Dyke cases, infra, has since been altered by a 1959 amendment to Civil Code, section 139. The section now provides that child support payments may be reduced or revoked even if based upon an integrated property settlement agreement. Since the amendment specifically provides, however, that it shall be inapplicable to property settlement agreements entered into prior to the effective date of the amendment, it has no bearing upon the case at bar.
