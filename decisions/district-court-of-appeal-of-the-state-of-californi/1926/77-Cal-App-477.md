@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1301"
+decided: "1926-04-15"
+citations: ["77 Cal. App. 477"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. NEWTON R. CASE, Appellant."]
+source_url: "https://static.case.law/cal-app/77/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2182378
+cites_cases: ["239 Pac. 705", "74 Cal. App. 138"]
+---
+
+# People v. Case
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+Appellant Case and Frank Brown and William F. Nelson were by information charged with the crime of robbery whereby they did by means of force and fear, etc., take from one A. Sanchez certain described personal property. By a second count of the information it was charged that the same defendants, on the same date, committed the crime of burglary, in that at said time they did wilfully, unlawfully, etc., enter the dwelling-house of one J. Y. Logan with the intent then and there to commit the crime of larceny. Appellant, tried separately, was convicted on both counts.
+At about midnight of March 29, 1925, a number of persons, including Mr. Sanchez, were assembled in a room at the home of Mr. Logan in the city of Los Angeles. In response to a ring of the doorbell, Mr. Logan unlocked the door, but did not open it. Immediately three men “rushed right in” and proceeded to rob the persons present, including Sanchez. The intruders were the defendants Brown, Nelson, and Case. Each of the defendants Brown and Nelson was armed with a “gun.” The evidence is amply sufficient to show a robbery committed by a means of force and fear, in the well-known manner of such transactions. Appellant Case was the one who “went through the pockets of the gentlemen that were lined up against the wall,” taking their money and some other personal property.
+Appellant contends that the accused were not armed with any dangerous or deadly weapon, and that therefore the evidence does not sustain the verdict of guilty of robbery in the first degree. (Pen. Code, sec. 211a.) More specifically, the point is that there was no evidence that the revolvers used by these men were loaded. There is both direct and circumstantial evidence that the guns were loaded.
+Appellant contends that because the burglary and robbery (though they might be two distinct offenses when standing alone) were parts of a single continuing transaction, they became merged into one and are punishable only as one offense; that to- allow conviction and sentence on both charges would be a violation of the principle stated in the constitutional rule that no person shall be twice put in jeopardy for the same offense. This question was recently considered by this court in People v. Snyder, 74 Cal. App. 138 [239 Pac. 705]. In that case the defendant, accused of both burglary and larceny, entered a house with intent to commit larceny, and after the entry was completed he committed the larceny. For the reasons therein stated and after careful review of the authorities, we sustained the conviction on both counts. The supreme court denied a rehearing. The reasoning of that decision fully applies to the present action.
+Appellant contends that the evidence is insufficient to sustain the verdict in this, that the evidence is not sufficient to establish a joint operation of act and intent on the part of appellant, and particularly thet the evidence shows that when the crime was committed “ke was under threats and menaces sufficient to show that he hid reasonable cause to and did believe his life was endangered, if he refused.” The testimony of appellant, which was to some extent corroborated by the testimony of defendant Brown, was to the effect that appellant, together with Brown and Nelson, came to the Logan house in an automobile; that until they had arrived at the door appellant believed that they were going to this place for the purpose of playing a game of poker: that Brown and Nelson had concealed from appellant the real purpose which they then had in view; that Nelson entered the house first, Case second, and Brown third; that Brown ordered appellant to enter and enforced his order by the use of a gun pressed against the body of appellant; that appellant in taking the money and jewelry acted under Brown’s and Nelson’s orders to “shake them down”; that throughout the transaction appellant acted solely under the influence of force and fear of said other defendants. But there is other evidence inconsistent with the testimony above indicated. Mr. Logan testified that when the defendants entered the room the two men with guns came in first and appellant came last. From this testimony alone, together with the evidence showing appellant’s further participation in the transaction, the jury was justified in believing that appellant was not forced into the room by Brown following him “with a gun in his ribs,” but that, on the contrary, appellant was a voluntary actor in the transaction.
+In addition to the foregoing points, counsel for appellant contends that the court committed sundry errors in its rulings on objections to offered evidence, and in the instructions to the jury, and in refusal of requested instructions; ■and that the district attorney was guilty of misconduct, with' resulting prejudice to appellant. These matters have been examined and considered, in their bearing upon the merits of the appeal. If there be any error it has not, in our opinion, resulted in an unfair trial of the case, or any miscarriage of justice.
+The judgment and order are affirmed.
+Houser, J., and York, J., concurred.
