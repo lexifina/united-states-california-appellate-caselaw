@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13373"
+decided: "1947-05-12"
+citations: ["79 Cal. App. 2d 602"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FARNSWORTH & RUGGLES, INC. et al., Appellants, v. CALIFORNIA EMPLOYMENT STABILIZATION COMMISSION, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/79/cases/0602-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4454073
+cites_cases: ["1 Cal.2d 466", "128 P.2d 693", "219 Cal. 622", "277 P. 757", "28 P.2d 21", "35 P.2d 531", "54 Cal.App.2d 99", "98 Cal.App. 729"]
+---
+
+# Farnsworth & Ruggles, Inc. v. California Employment Stabilization Commission
+
+## Majority (WARD, J.)
+
+WARD, J.
+November 22, 1944, Farnsworth & Ruggles, Inc., and Morris Benetar and Tessie Benetar filed similar petitions to the superior court for writs of mandate to compel the California Employment Stabilization Commission under California Unemployment Insurance Act, section 41.1 to furnish them with itemized statements showing the charges and credits to their reserve accounts, the balance thereof, and their contribution rate for the period of January 1, 1941, to June 30, 1941, inclusive. Demurrers thereto which raised the issue of laches were overruled. Laches and compliance with section 41.1 were pleaded in the answer. The cases were consolidated for trial.
+The evidence shows that pursuant to the commission’s rule 41.1, which it promulgated under Unemployment Insurance Act, section 90, the commission furnished statements of itemized charges to the reserve account of the Benetars, June 11, 1940; September 27, 1940; January 6, 1941; March 14, 1941; and May 14, 1941; and statements of itemized charges to the reserve account of Farnsworth & Ruggles, Inc., June 11, 1940; September 27, 1940; January 6, 1941; March 14, 1941; and September 11, 1941. September 26, 1941, petitioners were each given a notice of their employer’s contribution rate, accompanied by a summary record of the charges and credits to their reserve accounts.
+On October 20,1941, both petitioners were advised of rights which were available to them “under the terms of amendments to the California Unemployment Insurance Act which became effective September 13, 1941.” The statement described the provisions of section 41.1, informing petitioners that they had sixty days from the date the commission’s statements were mailed to protest same. It concluded that petitioners had the right to protest within sixty days the statements which had been mailed to them on September 26, 1941, but not in pursuance of section 41.1.
+Petitioners argued during the trial and on appeal that nothing done prior to the effective date of section 41.1, namely, September 14, 1941, constituted compliance with said section. Counsel for the commission not only answered that section 41.1 had been complied with but contended “that the Petitioner, by failing to take any action subsequent to the effective date of the Act, September 13, 1941, down to the filing of these two cases, which was approximately in November, 1944, was guilty of laches; that he had received these notices, these early notices back in 1940, and prior to the effective date of the Act; and that if he desired to call the Commission’s attention to the fact that they had not sufficiently complied with the provisions of the Act, he should have taken action prior to that time, prior to waiting practically three years, or more than three years after the enactment of Section 41.1. It is well known, in cases involving a petition for a writ of mandate, that the Court will not allow parties to sleep on their rights, but requires them in cases where they are seeking relief, to act promptly. In the instant matter, if we allowed petitioners to wait three years and then bring these actions, there is no limit on the time within which the Department must maintain the records and claims filed there. It makes an administrative impossibility to handle all of these numerous files and retain them for a period of innumerable years. And therefore we submit that petitioner has not stated any facts in his Complaint to justify any reason for the delay in his action. ...”
+The court observed that the fact that the question of laches had “been passed on on demurrer only goes to the question of pleading. I still think we have reserved to us the right to pass on it, if, as a matter of fact, from the evidence, laches appears, if it is a proper defense.” The court committed no error in this respect since laches in the present case appears from the allegations of the complaint. It is therefore equally available by demurrer or answer. (Chilberg v. City of Los Angeles, 54 Cal.App.2d 99,101 [128 P.2d 693].)
+The court found that until the filing of the petitions, petitioners without excuse failed to seek the issuance of the statements under section 41.1 and that “such delay was for an undue and unreasonable time” to the commission’s prejudice. The court concluded that not only had the commission complied with the provisions of the California Unemployment Insurance Act, but that petitioners had been guilty of laches.
+A clear case of laches having been presented, it is unnecessary to consider whether the court was correct in its conclusion that the commission had complied with the provisions of section 41.1. A writ of mandate issues only in the court’s discretion; hence petitioner’s laches is often an important element in determining the disposition of the cause. (Vela v. Huberty, 1 Cal.2d 466 [35 P.2d 531] ; Hermanson v. Board of Pension Commrs., 219 Cal. 622 [28 P.2d 21] ; Jenkins v. Superior Court, 98 Cal.App. 729 [277 P. 757].)
+The judgment of the trial court is affirmed upon the ground that the facts warrant the applicability of the doctrine of laches.
+Peters, P. J., and Bray, J., concurred.
+Appellants’ petition for a hearing by the Supreme Court was denied July 10,1947.
