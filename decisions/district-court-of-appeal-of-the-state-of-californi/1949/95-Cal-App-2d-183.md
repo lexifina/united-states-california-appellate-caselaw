@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2632"
+decided: "1949-12-20"
+citations: ["95 Cal. App. 2d 183"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re RICHARD WEBBER, on Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-2d/95/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257319
+cites_cases: ["158 P.2d 408", "2 Cal.App.2d 669", "209 P.2d 154", "243 P. 898", "3 Cal.2d 625", "38 P.2d 826", "45 P.2d 342", "47 P.2d 301", "69 Cal.App.2d 164", "76 Cal.App. 114", "8 Cal.App.2d 157", "93 Cal.App.2d 497"]
+---
+
+# In re Webber
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+Petitioner pleaded guilty to an information charging him with rape, a felony. His motion for probation was granted, and he was placed on five years’ probation on the condition that he serve two years in the county jail. After having served one year and three months of this period, he filed this petition for habeas corpus on the ground that any confinement in the county jail in excess of one year is void under the provisions of section 19a of the Penal Code.
+The portion of the section upon which petitioner relies reads as follows: “In no case shall any person sentenced to confinement in a county or city jail on conviction of misdemeanor, or as a condition of probation, or for any reason, be committed for a period in excess of one year.” The section was amended in 1949. (Stats. 1949, p. 2422, ch. 1390, § 10.) That amendment became effective after this petition was filed. The amendment in no way affects the problem here involved.
+There can be no doubt that, under this section, no person may be sentenced to the county jail upon conviction of a misdemeanor for a period in excess of one year, and that, if he is so sentenced, at the end of a year, he may seek his release on habeas corpus. (In re Chiapetto, 93 Cal.App.2d 497 [209 P.2d 154]; In re Phair, 2 Cal.App.2d 669 [38 P.2d 826]; In re Howard, 69 Cal.App.2d 164 [158 P.2d 408].) In the present case, the writ was granted in order to determine whether the same rule should apply to Imprisonment in the county jail imposed as a condition of probation in felony cases. The question has already been answered by the Supreme Court adversely to petitioner in In re Marquez, 3 Cal.2d 625 [45 P.2d 342]. In that case, as in the instant one, the petitioner pleaded guilty to an information charging him with rape, and his motion for probation was granted. He was placed on probation for 20 years on condition that he serve the first four years in the county road camp. After serving one year, he applied for habeas corpus, basing his petition on the identical grounds urged by petitioner Webber. The superior court granted the writ and the State appealed. The Supreme Court reversed the order of discharge. The court held that section 19a had to be construed with section 1203 of the Penal Code as it then read (now Pen. Code, § 1203.1), which expressly permits the trial judge in granting probation in felony cases as a condition thereof to “imprison the defendant in the county jail for a period not exceeding the maximum time fixed by law” for the offense, and that, so construed, section 19a was not applicable to felony cases. The conclusion of the court was expressed in the following language (p. 629): “After consideration of these several sections, we are led to concur in the views of appellant as to the purport of section 19a. To ascertain the meaning of the statute, the phrases used therein must be construed in connection with the phrases with which they are associated, and the particular expressions qualify those which are general (maxim of ejusdem generis, as codified, sec. 3534, Civ. Code; People v. McKean, 76 Cal.App. 114 [243 P. 898]). Thus it is clear that section 19a relates solely to misdemeanor cases and may not be invoked by this defendant who is on probation under conviction of a felony. To be more specific, the provision of section 19a that no person sentenced to confinement in county or city jail ‘on conviction of misdemeanor, or as a condition of probation, or for any reason’ shall be committed for a period in excess of one year, merely limits the term of confinement in city or county jail in misdemeanor cases to one year, whether such confinement is the result of conviction, judgment and sentence of imprisonment, or whether it is ordered as a condition of probation, or for any other reason. The statute places no limitation upon the term of a probationary period ordered spent in a road camp in a felony case. It follows that the power of the court to place defendant in a road camp was limited, as to period of confinement, only by the maximum possible term of his sentence (sec. 1203, supra).”
+Another case on all fours with the instant one, and which followed the Marquez case, is In re Tantlinger, 8 Cal.App.2d 157 [47 P.2d 301].
+The arguments made by petitioner constitute a direct attack on the rule of the Marquez case, and, in effect, amount to a request to overrule that case. There being no federal constitutional question involved, as an intermediate appellate court we are bound by the rule of that case.
+The writ heretofore issued is discharged, and the petitioner is remanded to custody.
+Ward, J., and Bray, J., concurred.
