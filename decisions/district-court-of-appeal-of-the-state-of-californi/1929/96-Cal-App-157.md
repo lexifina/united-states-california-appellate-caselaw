@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1748"
+decided: "1929-01-07"
+citations: ["96 Cal. App. 157"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. FRANK HAMPTON, Appellant."]
+source_url: "https://static.case.law/cal-app/96/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2120728
+cites_cases: ["106 Pac. 251", "11 Cal. App. 759", "22 Pac. 157", "80 Cal. 160"]
+---
+
+# People v. Hampton
+
+## Majority (HOUSER, J.)
+
+HOUSER, J.
+Defendant appeals from a judgment of conviction of the crime of manslaughter.
+Briefly, it appears that as defendant was about to enter a certain pool-hall he “took off his hat, waved it around and let out a yell.” A man by the name of Moat, who was standing near the rear of the pool-hall and who remonstrated with defendant on account of his conduct, was struck by defendant on the mouth and nose. Defendant then walked toward a man named Wesley Blake, with whom he was on friendly terms and who was leaning against a counter about ten feet from the entrance to the pool-hall. Blake said to defendant, “Prank, you had no right to hit Moat.” After a few hot words had passed between them, possibly accompanied by a threatening attitude on the part of Blake, defendant knocked Blake down. The testimony was conflicting as to whether as Blake was rising, or after he had risen and had advanced toward defendant and had attempted to and did strike him, defendant again struck Blake. The blow received by Blake at that time knocked him backward out of the front door of the pool-hall, where he fell; his head struck the sidewalk, from the effect of which he became unconscious and died on the following day.
+On the trial of the action the district attorney made the statement to the court that the prosecution would not attempt to prove defendant guilty of murder in the first degree, but would ask the jury to determine whether defendant was guilty of the crime of manslaughter.
+Section 195 of the Penal Code includes the following provision :
+“Homicide is excusable in the following cases:
+“2. When committed by accident and misfortune, in the heat of passion, upon any sudden and sufficient provocation, or upon a sudden combat, when no undue advantage is taken, nor any dangerous weapon used, and when the killing is not done in a cruel or unusual manner.”
+Defendant’s request for an instruction to the jury as to when or in what circumstances a homicide is excusable in the law was by the court refused. Such requested instruction was as follows:
+“Homicide is excusable in the following cases:
+“When committed by accident and misfortune in the heat of passion upon any sudden and sufficient provocation or upon a sudden combat when no undue advantage is taken or any dangerous weapon used and when the killing is not done in a cruel or unusual manner, and if you find from the evidence, beyond a reasonable doubt, that the homicide was committed by the defendant at the time and place mentioned in the indictment and that such homicide was committed by the defendant by accident and misfortune in the heat of passion upon any sudden and sufficient provocation or upon a sudden combat when no undue advantage was taken or any dangerous weapon used and the killing was not done in a cruel and unusual manner, then you are instructed that the defendant is excused in the eyes of the law and your verdict should be ‘Not guilty.’ ”
+One of the instructions given to the jury (not at the request of defendant) included the following language:
+“And when the mortal blow, though unlawful, is struck in the heat of passion, excited by a quarrel, sudden and of sufficient violence to amount to adequate provocation, the law, out of forbearance for the weakness of human nature, will disregard the actual intent, and will reduce the offense to manslaughter. In such case, although the intent to kill exists, it is not that deliberate and malicious intent which is an essential element in the crime of murder.”
+In the instruction given to the jury it will be noted that the words “struck in the heat of passion, excited by a quarrel, sudden and of sufficient violence to amount to adequate provocation” are nearly identical with certain words occurring in section 195 of the Penal Code to which attention has been directed; but that, instead of advising the jury that where death was the result of such circumstances the homicide might be excusable, the trial judge instructed the jury that the legal effect was that “the law out of forbearance for the weakness of human nature, . . . will reduce the offense to manslaughter.” The gist of such instruction was the direct contrary to that part of the law contained in section 195 of the Penal Code, in that by such statute “homicide is excusable . . . when committed ... in the heat of passion, upon any sudden and sufficient provocation, or upon a sudden combat, when no undue advantage is taken,” etc. Considering the evidence in the case, it is apparent that to instruct, the jury that if the homicide in question was committed “in the heat of passion, excited by a quarrel, sudden and of sufficient violence to amount to adequate provocation,” merely had the effect of reducing the crime to that of manslaughter, to all intents and purposes was a direction to the jury to find the defendant guilty of that crime. Self-defense and excusable homicide constituted the several defénses of defendant to the charge preferred against him; and the statute, as hereinbefore pointed out, enumerates and describes generally what conditions will be sufficient to excuse the commission of a homicide. Although the trial court gave to the jury certain instructions relating to the crime of manslaughter generally, as well as to what constituted justifiable homicide, in no instruction given to the jury were the rights of defendant attempted to be protected so far as the defense of excusable homicide was concerned. From even the brief summary of the evidence hereinbefore set forth, to say nothing of its amplification as shown by the reporter’s transcript of the proceedings had before the trial court, it is manifest that circumstances were present at the time the homicide was committed which would fairly entitle defendant to have submitted to the jury for its determination the question of whether such homicide was excusable in the law because possibly committed as described in the statute to which reference has been had. (People v. Bushton, 80 Cal. 160 [22 Pac. 157, 549]; People v. Stokes, 11 Cal. App. 759 [106 Pac. 251].)
+It appearing that at least in such respect defendant was prejudiced in his substantial rights, it is ordered that the judgment be and it is reversed.
+Conrey, P. J., and York, J., concurred.
