@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2124"
+decided: "1917-09-17"
+citations: ["34 Cal. App. 656"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ISADORA BELLE JACOBI, Respondent, v. C. A. SMITH LUMBER COMPANY OF CALIFORNIA (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/34/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029614
+---
+
+# Jacobi v. C. A. Smith Lumber Co.
+
+## Majority (THE COURT.)
+
+THE COURT.
+The defendant, C. A. Smith Lumber Company, was the owner and in exclusive control of a wharf at Bay Point, on Suisun Bay, which was used for the loading of lumber upon vessels coming to that wharf from various points. The decedent—the husband of the plaintiff—brought to the wharf a schooner for the purpose of having it loaded with lumber which was to be taken to some inland point. He and his companions were in charge of the schooner, and arrived at the wharf upon a certain Sunday. The decedent had never loaded lumber from that wharf, at least not from that portion of it concerned in this case. During the Sunday on which they arrived, the crew, including the decedent, were in their boat resting and sleeping at least part of the day— just exactly how much does not very clearly appear; and on the following Monday morning began loading lumber upon the boat which was brought down to or near the point where it was to be loaded upon trams of the defendant company which ran along a tramway near the edge of- the wharf. The wharf itself seems to have been somewhat rudely constructed with planks of uneven length—the difference in some cases being as much as thirteen or fourteen inches—extending out beyond the tramway, and from a foot to two feet beyond the point which the cars themselves protruded over the tramway. There was also, it appears in the evidence, a hole in the wharf of some seven or eight or ten inches wide extending to the track; at any rate, in addition to the shortness of the planks in general there was this hole which extended clear into the track. The decedent and his companion took the lumber from these cars as it was brought down to them on this day and loaded it upon the boat. The point of loading on to the boat was not immediately opposite this hole in the wharf, but some little distance farther down. During the operation of loading the decedent, according to the testimony of his associates, during the day was in the boat receiving the lumber from his associate who was upon the wharf. In the evening more cars were brought down, evidently with the idea that they were to be loaded on during the course of the evening and during the period when the tide was at a favorable height. It was during the course of loading these cars on in the evening, but while it was not yet dark, although in the twilight, probably, that the decedent walked down along the wharf to where the last car was standing, and undertook to push it along the wharf to the point of loading, and it was while engaged in pushing this car along the wharf that he either stepped into the hole and lost his balance or stepped upon a point where one of these short planks was. At any rate, just how he met his death does not clearly appear except that he did fall into the water. There is some evidence on the part of his associate that the car had been standing over the place where the hole in the wharf was. There is no evidence in the record that the decedent at any time during the period that he was at the wharf actually saw the hole in the wharf, or actually observed the shortness of the planks at the point where it is surmised that he fell overboard.
+The defense to the action is contributory negligence; and we are asked by the appellant (defendant in the court below) to say as a matter of law from the evidence in the case that the decedent must be held to have known of the condition of the wharf; and consequently that he was guilty of contributory negligence in stepping either into the hole or off the edge of the wharf, and for that reason the plaintiff, his widow, cannot recover.
+We do not feel justified in holding upon the facts before us as above set forth that contributory negligence is as a matter of law to be imputed to the decedent. None of the cases cited by the appellant go this far; and we feel that upon the foregoing facts this is a case for the application of the general rule that contributory negligence is a question of fact for the jury.
+This being the only point in the case, it follows that the judgment must be affirmed, and it is so ordered.
+A petition to have the cause heard in the supreme court, . after judgment in the district court of appeal, was denied by the supreme court on November 15, 1917.
