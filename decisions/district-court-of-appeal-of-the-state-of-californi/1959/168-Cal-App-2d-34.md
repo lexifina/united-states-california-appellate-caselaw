@@ -1,0 +1,48 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3578"
+decided: "1959-02-16"
+citations: ["168 Cal. App. 2d 34"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOHN C. KALUNA, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/168/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4407140
+cites_cases: ["150 P.2d 401", "169 P.2d 1", "170 P.2d 3", "175 A.L.R. 382", "187 P.2d 769", "188 P. 279", "24 Cal.2d 575", "279 P.2d 33", "28 Cal.2d 121", "28 Cal.2d 344", "31 Cal.2d 139", "44 Cal.2d 77", "45 Cal.App. 531"]
+---
+
+# People v. Kaluna
+
+## Majority (KAUFMAN, P. J.)
+
+KAUFMAN, P. J.
+Appellant, John C. Kaluna, was convicted of possessing a substance known as “Percodan” in violation of section 11500 of the Health and Safety Code. Percodan contains dihydrohydroxyeodeinone, a synthetic narcotic with a natural base, derived directly from codeine. At the trial, no proof was made as to the amount of this derivative present in the Percodan pills found in the possession of the appellant. The only contention on appeal is that the State failed to establish a prima facie case, as preparations containing less than a certain amount of dihydrohydroxyeodeinone can be dispensed without a prescription under section 11200 of the Health and Safety Code. Respondent concedes the validity of appellant’s argument if that statute is construed to include preparations containing codeine derivatives. Respondent, however, argues that Health and Safety Code, section 11200, applies only to preparations containing less than a certain amount of codeine, and not to preparations containing less than a certain amount of codeine derivatives.
+Appellant was convicted of violating Health and Safety Code, section 11500, which reads as follows:
+“Except as otherwise provided in this division, no person shall possess, transport, import into this State, sell, furnish, administer, or give away, or offer to transport, import into this State, sell, furnish, administer, or give away, or attempt to import into this State or transport a narcotic except upon the written prescription of a physician, dentist, chiropodist, or veterinarian licensed to practice in this State.”
+Codeine is defined as a narcotic under Health and Safety Code, section 11001. Section 11002 further defines narcotics to mean “any of the salts, derivatives, or compounds . . . containing a narcotic or its salts, derivatives, or compounds.” Appellant concedes that dihydrohydroxyeodeinone is a narcotic within the above quoted statutory definitions.
+The sole question presented by this appeal is whether Health and Safety Code, section 11200, includes preparations containing less than a certain amount of codeine derivatives, such as dihydrohydroxycodeinone. The statute reads as follows:
+“The provisions of this division requiring prescriptions and physicians’ reports do not apply to preparations containing not more than one grain of codeine in one fluid ounce, or, if a solid or semisolid preparation, in one avoirdupois ounce, without additional narcotics, or to mistura glyeyrrhiza compound, N. P. However, the exceptions herein provided do not except any person from the provisions of Section 11225 of this division.” (Section 11225 provides that every person who issues a prescription or dispenses or administers a narcotic shall make a detailed record thereof.)
+Health and Safety Code, section 11166.12, provides that the specific drugs named therein, one of which is dihydrohydroxycodeinone, are excepted from the requirement of writing narcotic prescriptions on official triplicate blanks. Appellant argues that this section and section 11200 indicate that the Legislature intended that certain quantities of codeine as well as certain compounds were not as dangerous as to require the same extent of regulation as the other narcotics enumerated in sections 11001 and 11002. The record does not indicate whether Percodan can be obtained without a prescription. However, there is uncontroverted evidence that the pills found in the possession of the appellant were dispensed by a licensed pharmacist to one Blumquist, who was arrested with the appellant. It was stipulated that the prescription was issued to Blumquist by a physician. Appellant further argues that under the rule of statutory construction that special statutes govern general statutes (Code Civ. Proc., § 1859; Cohn v. Isensee, 45 Cal.App. 531 [188 P. 279]; Division of Labor Law Enforcement v. Moroney, 28 Cal.2d 344 [170 P.2d 3]), the prohibitive provisions of the general statute (§ 11500) do not control the special provision of sections 11166.12 and 11200.
+Even if this argument were accepted, the special provision here in issue, refers only to preparations containing less than a certain amount of codeine, not dihydrohydroxycodeinone, a codeine derivative. It is also a general rule of law that in the construction of a statute, the function of the court is “. . . simply to ascertain and declare what is in terms or in substance contained therein, not to insert what has been omitted, or to omit what has been inserted; and where there are several provisions or particulars, such a construction is, if possible, to be adopted as will give effect to all.” (Code Civ. Proc., § 1858.) Admittedly, it is no great burden on the prosecution to require that in cases like this one, the quantitative amount of the narcotic substance present be proved. While such a requirement is desirable, the Legislature did not see fit to include it in the statutory scheme, and it is not the function of this court to do so. The legislative history indicates that the Legislature was aware of the existence of codeine derivatives. In 1951, dihydrohydroxycodeinone was added to the provisions of section 11166.12. Section 11200 was amended in 1953 and no mention was made of codeine derivatives. Even if the omission of codeine derivatives from the language of section 11200 was due to legislative error or oversight as appellant contends, it is not within the power of this court to correct such an error.
+In view of the foregoing, the judgment of conviction must be affirmed.
+Judgment affirmed.
+
+## Concurrence (DRAPER, J.)
+
+DRAPER, J.
+I concur in the judgment. The only question is whether the exemption of specified preparations of codeine (Health & Saf. Code, § 11200) also exempts the preparation of dihydrohydroxycodeinone. Since the latter is a derivative of codeine, this view would not be unreasonable if only sections 11200 and 11002 were to be considered. But the Legislature has recognized the existence of dihydrohydroxycodeinone, and the need to specify both this drug and codeine when it means to include both. (Health & Saf. Code, § 11166.12.) Sections 11200 and 11166.12 were both before the Legislature for amendment in 1953. In view of the clear recognition of the two drugs as separate subjects of legislation, I cannot construe section 11200 as impliedly including dihydrohydroxycodeinone.
+
+## Dissent (DOOLING, J.)
+
+DOOLING, J.
+I dissent.
+Section 11500 Health and Safety Code provides, so far as here material:
+“Except as otherwise provided in this division, no person shall possess ... a narcotic except upon the written prescription of a physician. ...”
+“Narcotic” within the meaning of this section includes “codeine” (Health & Saf. Code, §11001, subd. (d)) and “any of the salts, derivatives, or compounds of” codeine (Health & Saf. Code, §11002).
+Section 11200 Health and Safety Code provides: “The provisions of this division requiring prescriptions ... do not apply to preparations containing not more than one grain of codeine ... if a solid . . . preparation, in one avoirdupois ounce, without additional narcotics ...”
+If the codeine derivative included in percodan is covered by this latter provision then the possession of percodan without a prescription can only be a violation of section 11500 if percodan contains more than one grain of the codeine derivative in each avoirdupois ounce. The people made no proof of the proportionate amount of this codeine derivative in the percodan possessed by appellant.
+The meaning of the word “codeine” as used in section 11200 is the crucial question. Appellant argues that it should be construed to include the derivatives of codeine. The People argue that it should be strictly construed to include codeine alone and to exclude its derivatives. At first blush it strikes a reader as very doubtful that the Legislature would intend to require a prescription for derivatives of codeine in those cases where it requires no prescription for the primary drug, codeine, from which the derivatives are created.
+In cases of doubt as to the proper construction of a penal statute the cases hold that the statute should be construed against extending criminality. “When language which is reasonably susceptible of two constructions is used in a penal law, ordinarily that construction which is more favorable to the offender will be adopted.” (People v. Smith, 44 Cal.2d 77, 79 [279 P.2d 33] ; DeMille v. American Fed. of Radio Artists, 31 Cal.2d 139, 156 [187 P.2d 769, 175 A.L.R. 382]; People v. Valentine, 28 Cal.2d 121, 143 [169 P.2d 1] ; People v. Ralph, 24 Cal.2d 575, 581 [150 P.2d 401].)
+Following this rule I believe that section 11200 should be construed to include codeine derivatives. An avoirdupois ounce contains 437½ grains. If more than 1/437½ part of the substance possessed by appellant was a codeine derivative the People can readily prove it. I would reverse.
