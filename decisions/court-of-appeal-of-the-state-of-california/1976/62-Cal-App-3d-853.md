@@ -1,0 +1,45 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 39704"
+decided: "1976-10-18"
+citations: ["62 Cal. App. 3d 853"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Petitioner, v. THE SUPERIOR COURT OF SANTA CLARA COUNTY, Respondent; MICHAEL JOSEPH McKUNES, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/62/cases/0853-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4491017
+cites_cases: ["10 Cal.3d 812", "11 Cal.3d 531", "112 Cal.Rptr. 257", "113 Cal.Rptr. 897", "123 Cal.Rptr. 242", "129 Cal.Rptr. 650", "131 Cal.Rptr. 559", "50 Cal.App.3d 213", "518 P.2d 1353", "522 P.2d 305", "58 Cal.App.3d 13", "60 Cal.App.3d 552"]
+---
+
+# People v. Superior Court
+
+## Majority (SCOTT, J.)
+
+Opinion
+SCOTT, J.
+The People are petitioning for a writ of mandate, requesting that respondent court be directed to set aside its order granting defendant Michael McKunes’ discovery motion.
+The issue presented is whether a defendant charged with a violation of Penal Code section 245, subdivision (a) (assault with a deadly weapon) can compel discovery of information in the personnel file of a police officer where the police officer was off duty at the time he was the alleged victim of the assault by the defendant. We conclude that under proper circumstances he is entitled to such discovery.
+Here, the preliminary hearing transcript reveals that on June 19, 1976, the police officer, James Neal, when off duty in civilian clothes and unarmed, was socializing with fellow off-duty officers in a public restaurant. Neal had stepped outside and was talking with a young lady when defendant McKunes stepped between the two and shoved Neal, knocking him off balance. Words were exchanged and McKunes pulled out a gun, shoved it into Neal’s stomach, and threatened Neal. After Neal stated that there would not be any trouble, McKunes removed the gun, placed it in his coat pocket, and walked to a vehicle parked nearby.
+Neal returned to the restaurant and consulted with several of his fellow officers. He obtained a weapon from one of them and went to the car, where he found McKunes seated. Neal identified himself, showed his badge and gun, and asked McKunes to get out of the car. McKunes was arrested and his weapon found on the floor of the car.
+On July 16, 1976, defendant McKunes noticed a motion to compel disclosure of Neal’s personnel file as it pertained to “citizen complaints against such officer for alleged acts of unwarranted agressive behavior, violence, or excessive force against citizens and arrestees.” At a hearing on the motion, held July 30, 1976, McKunes argued that such information was relevant to his defense in that Officer Neal was the aggressor in the altercation.
+A motion to discover evidence in a criminal proceeding is addressed solely to the sound discretion of the trial court, which has inherent power to order discovery when the interest of justice demands. (Pitchess v. Superior Court (1974) 11 Cal.3d 531, 535 [113 Cal.Rptr. 897, 522 P.2d 305]; Hill v. Superior Court (1974) 10 Cal.3d 812, 816 [112 Cal.Rptr. 257, 518 P.2d 1353].) The accused has the right to discovery of relevant and reasonably accessible information. (Pitchess v. Superior Court, supra, at p. 535; Hill v. Superior Court, supra, at p. 816.)
+In Pitchess, the defendant was charged with battery against four deputy sheriffs. He asserted self-defense as a defense and sought to discover evidence of the alleged victims’ propensities for violence. It was held that disciplinary records of police officers are relevant and admissible under Evidence Code section 1103 as character evidence of the police officer’s tendency to violence in support of a theory of self-defense.
+The exclusive method to claim governmental privilege in preserving confidentiality of the information is the invocation of Evidence Code section 1040. (Pitchess v. Superior Court, supra, 11 Cal.3d at pp. 538, 539, 540.) No such claim of privilege was made here. The petitioner merely contends that the information is not discoverable because Neal was not acting in his official capacity as a police officer at the time of the alleged incident, and therefore the rule of Pitchess does not apply.
+In their petition, the People asserted that the record does not indicate that McKunes claimed to be acting in self-defense. At oral argument, however, petitioner conceded that self-defense was raised in argument before the trial court on the motion to discover. This is sufficient to satisfy the requirement of Pitchess as to the relevancy of the information sought.
+In In re Valerie E. (1975) 50 Cal.App.3d 213 [123 Cal.Rptr. 242], the court rejected a contention that a discovery request was merely a “fishing expedition” because the defendant could not state with any certainty that there had in fact been any prior complaints. The court found the request adequate where it sought “all information regarding citizen complaints for excessive force against the two police officers involved in her arrest” (at p. 219).
+In light of the fact that the defense here is that the officer was the aggressor, and the fact that the information sought is in the possession of the prosecution and not readily available to the defendant, the general requirements for discovery have been met. The only difference between this case and Pitchess and Valerie E. is that in those cases the officers were acting in the line of duty.
+The fact that the officer was off" duty does not make the file any more accessible to the defendant or any less in the possession of the prosecution. To justify a difference in the rule on discovery based upon whether the victim was an off-duty or on-duty police officer, this court would have to hold that, as a matter of law, complaints in an officer’s personnel file are not material to charges of off-duty aggression.
+Petitioner does not assert that such a rule of law would be justified, but argues that when the victim is an off-duty officer his personnel file becomes as private as the file of any other private citizen and as such is not discoverable. However, it has recently been held that “relevant information” in the hands of a private nonparty witness is subject to a subpoena duces tecum in a criminal case. (Pacific Lighting Leasing Co. v. Superior Court (1976) 60 Cal.App.3d 552, 563 [131 Cal.Rptr. 559]; see also Carlson v. Superior Court (1976) 58 Cal.App.3d 13, 20-21 [129 Cal.Rptr. 650].) A private employer would be required to respond to á subpoena duces tecum were it demonstrated that he maintained similar records concerning an employee. As noted in Pacific Lighting Leasing Co. (at pp. 563-568), however, the criminal defendant would be required to make a stronger showing of need for the private employer’s documents in order to overcome the objection that such discovery constituted an unreasonable search or seizure. A public employer must respond to such subpoena absent an invocation of governmental privilege pursuant to Evidence Code section 1040.
+The alternative writ of mandate is discharged and the peremptory writ is denied.
+Draper, P. J., and Brown (H. C.), J., concurred.
+Evidence Code section 1103 provides in part:
+“(1) In a criminal action, evidence of the character or a trait of character (in the form of an opinion, evidence of reputation, or evidence of specific instances of conduct) of the victim of the crime for which the defendant is being prosecuted is not made inadmissible by Section 1101 if such evidence is:
+(a) Offered by the defendant to prove conduct of the victim in conformity with such character or trait of character.
+(b) Offered by the prosecution to rebut evidence adduced by the defendant under subdivision (a).”
+Evidence Code section 1040 provides:
+“(a) As used in this section, ‘official information’ means information acquired in confidence by a public employee in the course of his duty and not open, or officially disclosed, to the public prior to the time the claim of privilege is made.
+(b) A public entity has a privilege to refuse to disclose official information, and to prevent another from disclosing such information, if the privilege is claimed by a person authorized by the public entity to do so and:
+“(1) Disclosure is forbidden by an act of the Congress of the United States or a statute of this state; or
+(2) Disclosure of the information is against the public interest because there is a necessity for preserving the confidentiality of the information that outweighs the necessity for disclosure in the interest of justice; but no privilege may be claimed under this paragraph if any person authorized to do so has consented that the information be disclosed in the proceeding. In determining whether disclosure of the information is against the public interest, the interest of the public entity as a party in the outcome of the proceeding may not be considered.”
