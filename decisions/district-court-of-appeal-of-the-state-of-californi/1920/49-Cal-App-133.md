@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2145"
+decided: "1920-08-30"
+citations: ["49 Cal. App. 133"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE FIRST NATIONAL BANK OF DIXON, Respondent, v. N. R. SPANGLER et al., Defendants; ROSE B. SPANGLER, Appellant."]
+source_url: "https://static.case.law/cal-app/49/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2060423
+cites_cases: ["112 Pac. 617", "159 S. W. 159", "5 Cal. App. 708", "83 Kan. 703", "91 Pac. 340"]
+---
+
+# First National Bank of Dixon v. Spangler
+
+## Majority (BURNETT, J.)
+
+BURNETT, J.
+The action is on three promissory notes, for two thousand dollars, one thousand dollars, and five hundred dollars respectively—all executed by defendant N. R. Spangler. The theory of the plaintiff is that at the time of the execution of the notes the two defendants were co-partners engaged in the butcher business and that said notes represented the obligation of the firm although signed only by N. R. Spangler. The court found this theory to be true as to the two notes aggregating three thousand dollars but that the five hundred dollar note represents the sole obligation of N. R. Spangler, and judgment was rendered accordingly. The appeal is by Rose B. Spangler from the portion of the judgment against the firm, and she makes two points; one, that there was a misjoinder of causes of action, and the other, that the evidence does not support the finding that the money was borrowed for the use and benefit of the copartnership.
+As we view the matter, there is no merit in either contention.
+In reference to the first, the position of appellant is -that a cause of action against N. R. Spangler on the note for five hundred dollars was improperly joined with one against the partnership on the other two notes. But such defect must be taken advantage of either by demurrer or answer, or else it is waived. (Secs. 430 and 433, Code Civ. Proc.; Baker & Hamilton v. Lambert, 5 Cal. App. 708, [91 Pac. 340].) Nothing appearing on the face of the complaint to indicate that the causes of action were against different parties, it was incumbent upon appellant to present the question by the answer. This was not done. It is not sufficient to say that she could not know until the decision of the lower court that the partnership was liable on two of the notes, and N. R. Spangler alone on the other. There was evidence of that situation and of appellant’s knowledge of it. We must assume, therefore, that she had sufficient information on the subject to enable her to set out said objection in the answer. At any rate, it would be preposterous to reverse the judgment on any such ground. If reversed for that reason, the result would be that the complaint would be amended by eliminating the count in reference to the five hundred dollar note, and the lower court would try the issue as to the other two notes and render the same judgment as the one appealed from herein. That would be of no advantage to appellant and would only entail delay and additional cost..
+As to the second question, it is sufficient to make the following observations: There is no doubt that at the time said obligations were incurred, a general partnership existed between the defendants for the transaction of said business; “that every general partner is agent for the partnership in the transaction of its business, and has authority to do whatever is necessary to carry on such' business in the ordinary manner, and for this purpose may bind his co-partnership by an agreement in writing”- (sec. 2429, Civil Code); if such partner acts within the apparent scope of his authority, whether he acts in.good or bad faith, his acts and declarations are binding upon his copartners in favor of third persons, if said third parties believe in and rely upon his statements, and upon the strength of said confidence extend credit or advance money to said partner for the use and benefit of the partnership; there is substantial evidence in the record to bring the case fairly within the purview of the foregoing principle, it appearing that when N. R. Spangler obtained said loan and executed said notes he represented to the cashier that the money was to buy stock for the use of the firm, and the cashier, acting in perfect good faith, believed said statement, and, relying upon it, advanced the money upon the credit of the firm; the fact that the notes were signed, not in the name of the firm but of N. R. Spangler individually, while a circumstance to be considered in determining the intention of the parties, does not relieve the partnership of liability if said Spangler had authority to bind the firm and the notes were executed with such intent and were so accepted and credit extended thereto. (Miller v. McCord (Tex. Civ.), 159 S. W. 159; Mills v. Riggie, 83 Kan. 703, [Ann. Cas. 1912A, 616, 112 Pac. 617].)
+In other words, the evidence, which is set out in the briefs, brings the ease clearly within the doctrine of agency as it relates to a general partnership. The principles covering such transactions are well settled, the evidence is ample to show their application to the situation in accordance with the finding of the trial court, and we are satisfied that no reason exists for disturbing the conclusion reached.
+The judgment is affirmed.
+Hart, J., and Nicol, P. J., pro tem., concurred.
