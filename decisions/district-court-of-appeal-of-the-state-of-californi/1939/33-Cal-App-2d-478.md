@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1679"
+decided: "1939-06-23"
+citations: ["33 Cal. App. 2d 478"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. EDDIE De SOTO, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/33/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6041315
+cites_cases: ["32 Cal. App. (2d) 43", "89 Pac. (2d) 184"]
+---
+
+# People v. De Soto
+
+## Majority (PULLEN, P. J.)
+
+PULLEN, P. J.
+Defendant was convicted by a jury of the crimes of burglary in the first degree, and attempted rape. He appeals from the judgment of conviction and from the order defying a new trial.
+Briefly the facts as gathered from the transcript show that about 3 o’clock on a Sunday morning in December of last year, the defendant entered a two-story dwelling house located at 524 East Miner Avenue in the city of Stockton, where the complaining witness was asleep. She was awakened by the entry of defendant in her room, and at first thought it was a roomer who occupied an adjoining room in the house. Defendant, then threatening to do bodily harm to the complaining witness, attempted to rape her, but was driven away and left the house, taking with him certain personal property belonging to the inmates of the home, consisting of a small amount of money, a bath robe, glasses, a zipper jacket and other small articles. In the meantime the police had been notified of the presence of the defendant in the house, and about a block from the scene of the crime he was arrested, and in his possession was found the stolen property.
+The first point urged by appellant is that there was no evidence in the record showing that he did not have permission to enter the premises. He did not live at the address, and there is ample evidence that he had not been invited to enter the premises. The intent with which an act was done may be gathered from all the circumstances shown in evidence. The entire question being one of fact for the jury, we need not here do more than state that a reading of the record shows there was ample support for their finding of a felonious entry.
+The point relied upon by appellant, apparently with the most confidence, is that the prosecution failed to establish the venue, claiming that the testimony established only that the offense charged took place in the apartment house of Angie Newell, without any showing of the county in which the apartment house was located. Mrs. Newell however, testified that her apartment was located at 524 East Miner Avenue. One of the witnesses, who also lived in the apartment, testified that he resided at 524 East Miner Avenue. A further identification of the premises is established by certain police officers, who testified that they were members of the police force of the city of Stockton, San Joaquin County, and that they were performing their official duties as police officers of said city when they arrested the defendant about a block from the apartment of the complaining witness, 524 East Miner Avenue, and that they took him first to the apartment and then to the jail.
+As said in People v. Montgomery, 32 Cal. App. (2d) 43 [89 Pac. (2d) 184]:
+“The state gives no assurance to its feloniously insubordinate citizens that the venue of their crimes will be fixed beyond a reasonable doubt; that doctrine applies only to the issue of guilt. ...”
+Furthermore, the court, in its instructions, declared to the jury that 524 East Miner Avenue was located in the city of Stockton, and that Stockton was in the county of San Joaquin, State of California, which instruction fulfilled the requirements of section 2102 of the Code of Civil Procedure, which provides that whenever the knowledge of the court is made evidence of a fact, the court is to declare such knowledge to the jury.
+The city of Stockton, being an incorporated area, the court took judicial knowledge of the fact that it was in the county of San Joaquin, and properly instructed the jury to that effect.
+Another point urged by appellant is that the trial court erred in the pronouncing of judgment upon the two counts stated in the information. The court, in pronouncing sentence, failed to specify whether the two offenses for which he stood convicted, that is, burglary and attempted rape, should run concurrently or consecutively; that, however, is immaterial inasmuch as appellant admitted three prior convictions, which together with the conviction for which he was then on trial, would constitute him an habitual criminal, subject to imprisonment for life, and it would be immaterial whether or not the court specified the two immediate offenses should run concurrently or consecutively.
+Appellant also claims the court erred in finding him to be an habitual criminal. He admitted by his plea that he had been thrice convicted,—once for burglary in the second degree from San Joaquin County, and served a term therefor in San Quentin prison; once for grand larceny in the State of Nevada, and served a term therefor in the state prison of Nevada; and again for burglary in the second degree from San Francisco, and served a term therefor in Folsom prison. He now claims there is nothing in the record to establish that grand larceny as defined by the laws of Nevada (10323, Nevada Compiled Statutes) is analogous to grand theft as defined by section 437 of the Penal Code. By virtue of section 1875 of the Code of Civil Procedure, the courts of this state will take judicial notice of the laws of our sister states, and therefore by the admission of appellant that he had suffered the conviction in Nevada as set forth in the information, no evidence by the prosecution was required to show the nature of the offense in Nevada.
+The last point urged is that the foreman of the jury failed to sign each verdict. Where, as here, the information charged the defendant with more than one count, and the jury found him guilty of all counts, it is sufficient that the signature of the foreman appear at the bottom of the last count. By section 1164 of the Penal Code, the verdict, after being returned by the jury in open court, is recorded by the clerk, and as recorded, read to the jury, and inquiry is made of them if the verdict as recorded is the verdict of the jury. It is then the jurors or the defendant may object to any uncertainty or ambiguity in the verdict as returned.
+Finding no error in the judgment or in the order denying the motion for a new trial, the same should be affirmed, and it is so ordered.
+Thompson, J., and Tuttle, J., concurred.
