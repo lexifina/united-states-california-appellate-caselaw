@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10471"
+decided: "1937-09-17"
+citations: ["22 Cal. App. 2d 548"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. CLEMENS HORST COMPANY (a Corporation), Respondent, v. FEDERAL MUTUAL LIABILITY INSURANCE COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app-2d/22/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6041098
+cites_cases: ["1 L. R. A. 567", "1 Pac. (2d) 516", "11 Am. St. Rep. 267", "111 Pac. 284", "115 Cal. App. 381", "12 Cal. App. (2d) 501", "120 Cal. App. 247", "14 Cal. App. (2d) 753", "14 Cal. App. 171", "14 Pac. (2d) 526", "140 Cal. 33", "141 Cal. 4", "141 Cal. 576", "15 Cal. App. (2d) 723", "17 Cal. App. (2d) 612", "17 Pac. 923", "19 Pac. 431", "216 Cal. 387", "247 Pac. 594", "3 Cal. App. 448", "33 Pac. 211", "56 Pac. (2d) 268", "58 Pac. (2d) 952", "59 Pac. (2d) 1046", "62 Pac. (2d) 778", "7 Pac. (2d) 720", "73 Pac. 751", "74 Pac. 352", "75 Pac. 172", "77 Cal. 220", "77 Cal. App. 727", "86 Pac. 194", "98 Cal. 360"]
+---
+
+# E. Clemens Horst Co. v. Federal Mutual Liability Insurance
+
+## Majority (GRAY, J., pro tem.)
+
+GRAY, J., pro tem.
+After an extended hearing of defendant’s motion to dismiss the action, under section 583 of the Code of Civil Procedure for failure to bring it to trial within five years after its commencement, the court, according to the entry in its minutes, ordered that the cause be dismissed. The next day, the court, upon its presentation by defendant, without notice to plaintiff, signed a formal judgment, which ordered that the action be dismissed with prejudice. On the following day this judgment was entered and notice thereof given by defendant to plaintiff. Approximately ten months later, the court, upon plaintiff’s application, ex parte, signed an order correcting nunc pro tunc, the judgment by eliminating therefrom the phrase “with prejudice”. From this last order, defendant appeals.
+The parties agree that a court has plenary and inherent power, at any time, on its own motion or that of a party with or without notice, to correct clerical errors in the record of its judgment, so as to make such record conform to the judgment actually rendered, but it cannot under the guise of exercising such power, correct judicial errors which it committed in the rendition of its judgment. (Forrester v. Lawler, 14 Cal. App. 171 [111 Pac. 284].) In applying these principles, the parties differ as to whether the minute order or the formal judgment constituted the judicial act which terminated the proceedings. In the cited case, upon which appellant mainly relies, it was held, without discussion or citation of authority, that, under similar facts, the formal judgment rather than the previous minute order was the judicial determination. However, this case has never been cited as to this particular holding which seems contrary to the generally accepted view. As was said in Colby v. Pierce, 17 Cal. App. (2d) 612, 614 [62 Pac. (2d) 778], in holding invalid an ex parte vacation of a minute order of dismissal: “It is now the settled law in California that where an action is dismissed under the provisions of section 583 of the Code of Civil Procedure (and the provisions of certain other sections of the same chapter of that code) the order of dismissal is the judgment in the case and becomes effective for all purposes when entered upon the minutes of the court. (Southern Pac. R. Co. v. Willett, 216 Cal. 387 [14 Pac. (2d) 526]; Finch v. Ekstrom, 115 Cal. App. 381 [1 Pac. (2d) 516]; King v. Superior Court, 12 Cal. App. (2d) 501 [56 Pac. (2d) 268] ; Long v. Superior Court, 14 Cal. App. (2d) 753 [58 Pac. (2d) 952]; Colby v. Pierce, 15 Cal. App. (2d) 723 [59 Pac. (2d) 1046].) ” The following excerpt from Darlington v. Butler, 3 Cal. App. 448, 452 [86 Pac. 194], is in point: “The court pronounced its judgment of dismissal on January 3d, when it so declared in open court and directed the clerk to enter the order. The order entered in the minute-book was in effect the final judgment of dismissal. (Marks v. Keenan, 140 Cal. 33 [73 Pac. 751] ; Pacific Pav. Co. v. Vizelich, 141 Cal. 4 [74 Pac. 352]; Swortfiguer v. White, 141 Cal. 576 [75 Pac. 172].) There is no statute requiring the judge to sign the judgment.” (See, also, Nelson v. Geiss, 120 Cal. App. 247 [7 Pac. (2d) 720].)
+The minute order was the real judgment and the subsequent formal judgment was but a memorial or record thereof. The judge’s signature to the latter did not change its nature nor give it additional efficacy. (In re Cook, 77 Cal. 220 [17 Pac. 923, 19 Pac. 431, 11 Am. St. Rep. 267, 1 L. R. A. 567] ; Broder v. Conklin, 98 Cal. 360 [33 Pac. 211].) The court was therefore authorized to correct its formal judgment, as a record, so as to make it conform to its judicial decision, as stated in the minute order. (Dutton Dredge Co. v. Goss, 77 Cal. App. 727 [247 Pac. 594].)
+The order appealed from is affirmed.
+Spence, Acting P. J., and Sturtevant, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on November 15, 1937.
