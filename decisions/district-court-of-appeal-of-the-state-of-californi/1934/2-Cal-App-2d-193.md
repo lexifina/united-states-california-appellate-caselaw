@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 8724"
+decided: "1934-11-13"
+citations: ["2 Cal. App. 2d 193"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. W. BRAND, Respondent, v. F. R. DRINKHOUSE et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/2/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2256056
+cites_cases: ["117 Cal. App. 652", "4 Pac. (2d) 302"]
+---
+
+# Brand v. Drinkhouse
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+From a judgment in favor of the plaintiff in an action to obtain a decree of specific performance the defendants have appealed.
+Heretofore the defendants purchased a lot in Liver-more at a delinquent tax sale. Thereafter on January 14, 1928, they entered into a contract with the plaintiff by the terms of which they agreed to convey to him “ . . . the title to said property, free and clear of encumbrances, as per title of record of said vendors recorded July 31, 1926, Liber 1397, Page 97 Official Records, at Alameda County, State of California.” The consideration was $167.50, payable $25 down and $15 on the fifteenth day of each month thereafter, together with seven per cent interest. By the terms of the contract the plaintiff was let into the immediate possession of the property. He made all payments as provided in the contract except the interest. Later he computed the interest $4.35, and tendered it to the defendants, and at the same time demanded a deed. No deed was made and on July 22, 1929, he commenced this action. Before the defendant Drinkhouse was served with the summons he executed a deed and caused it to be recorded. Thereafter he filed an answer in which he denied many of the allegations of the plaintiff’s complaint and also pleaded the fact that he had executed the deed. The defendant Creen filed an answer in which he denied many of the material allegations of the complaint, but during the course of the trial he tendered a deed in due form executed by both himself and his wife. The record is not clear, but as we understand it the plaintiff accepted the deed. In the original complaint of the plaintiff there was no allegation of damage, but in the prayer the plaintiff asked a decree including, among other things, $500 as damages. On the trial the plaintiff, over the objection and exception of the defendants, gave evidence to the effect that after the contract was made the plaintiff received certain offers to purchase the property. One of those offers was made by Mr. Ketchum, who testified that he offered to exchange his garage for the property. No witness testified as to the value of the garage nor the value of the property described in the contract. No testimony on the subject of good or bad faith on the part of the defendants was introduced. No evidence was given by any witness that anyone making an offer to the plaintiff was ready, able or willing to purchase plaintiff’s property. After the trial was over, and before it was submitted, the plaintiff filed an amended complaint in which he recited: “That plaintiff has had offers from several persons to purchase said property, and that by reason of defendants’ failure to execute a conveyance to plaintiff of said property plaintiff has lost the sales of said property to his damage in the sum of $500.” In making its findings the trial court found that the plaintiff was damaged in the sum of $300. The defendants at this time assert that said finding is not supported by the evidence. The point must be sustained. Freely conceding that under some circumstances damages may be awarded in an action for specific performance, the manner of estimating such damages is limited by the terms of the statute. (Civ. Code, sec. 3306.) That section provides: "The detriment caused by the breach of an agreement to convey an estate in real property, is deemed to be the price paid, and the expenses properly incurred in examining the title and preparing the necessary papets, with interest thereon; but adding thereto, in case of bad faith, the difference between the price agreed to be paid and the value of the estate agreed to be conveyed, at the time of the breach, and the expenses properly incurred in preparing to enter upon the land. ’ ’ From what we have said it clearly appears that the plaintiff proved no damage and that the decree should be modified. Coger v. Wiltsey, 117 Cal. App. 652 [4 Pac. (2d) 302], is directly in point.
+From the last paragraph of the judgment the words “ . . . the sum of $300 as and for damages for withholding said conveyance, and also ...” are stricken out. As so modified the judgment is affirmed. The defendants will recover their costs on this appeal.
+Nourse, P. J., and Spence, J., concurred.
