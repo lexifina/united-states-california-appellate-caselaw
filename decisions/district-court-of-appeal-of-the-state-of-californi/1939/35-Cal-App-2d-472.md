@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1701"
+decided: "1939-11-16"
+citations: ["35 Cal. App. 2d 472"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. FILBERN KNIGHT, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/35/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4449905
+cites_cases: ["113 Pac. 879", "132 Cal. App. 387", "132 Pac. 82", "133 Cal. 11", "133 Cal. 165", "15 Cal. App. 89", "21 Cal. App. 497", "22 Pac. (2d) 777", "251 Pac. 222", "65 Pac. 13", "65 Pac. 323", "80 Cal. App. 583"]
+---
+
+# People v. Knight
+
+## Majority (PULLEN, P. J. —)
+
+PULLEN, P. J. —
+Defendant was convicted of driving a vehicle upon a highway while under the influence of intoxicating liquor (sec. 502, Vehicle Code), and from such conviction, and an order denying a new trial, he prosecutes this appeal.
+As grounds therefor, appellant contends the information fails to state a public offense, and that it is uncertain and ambiguous. It is alleged in the information, following the language of the statute, that: “On or about the 10th day of June, 1939, in the County of Mendocino, State of California, said defendant did then and there wilfully and unlawfully drive a vehicle, to-wit, an automobile, upon a highway while he, the said defendant, was under the influence of intoxicating liquor.”
+The first specification of error is that the information does not allege that the act complained of occurred upon a public, as distinguished from a private, highway. There is no force in this objection. The word “highway” is defined in section 81 of the Vehicle Act as, “a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel”. According to Webster’s International Dictionary, a highway is a main road or thoroughfare; hence, a road or way open to the use of the public. In its earlier use a highway designated a principal way traveled by the general public, as distinguished from a byway, or bypath. It is thus apparent that neither in the Vehicle Code (at least since 1935), nor in ordinary usage, is there such a thing as a private highway. Appellant cites us to In re Worthington, 21 Cal. App. 497 [132 Pac. 82], and People v. Hoenschle, 132 Cal. App. 387 [22 Pac. (2d) 777], but at the time those decisions were written, the statute (see. 112 of the California Vehicle Code) made it unlawful for one under the influence of intoxicating liquor to drive a vehicle on any public highway within the state. In 1935 the word “public” was omitted from the section, bringing the use of the word “highway” into conformity with its correct and common usage.
+It is next urged that the information failed to state in what township or on what road the illegal ac,t took place. Section 777 of the Penal Code provides that jurisdiction of every public offense is in the county where the act is committed. No greater particularity as to venue is necessary. In People v. Mazzola, 80 Cal. App. 583 [251 Pac. 222], the defendant was charged with unlawfully maintaining a place where intoxicating liquor was manufactured. It was there held it was unnecessary to state in the information the particular location in the county where the alleged offense was committed.
+Lastly, it is claimed that more than one offense was alleged and proven, and that the district attorney should have been compelled to elect as to which particular act of illegal driving he would rely upon for a conviction. In this also appellant is in error. The testimony was that about 6 o ’clock in the evening of the day in question a garage man was summoned to get a car back on the highway. When he arrived at the scene of the accident he found a touring-car several feet off the road, and lodged against some trees and rocks. Several men were in the car, but not the defendant, who was lying in a drunken stupor beside the road. The car was pulled back onto the road, the defendant assisted in, and the car and its passengers were towed to the foot of the grade. The next witness testified that about an hour later defendant came to his service station and wanted to purchase some gas, but observing his intoxicated condition, the attendant refused to sell him any, and called a peace officer. Defendant drove away, but he was seen a few minutes later by the officer, driving his car a short distance from the service station, and subsequently defendant was taken into custody. These facts do not reveal more than a continuing offense of driving while intoxicated. There was no evidence of the defendant driving at any time, except at the service station and shortly thereafter when seen by the officer. Driving while intoxicated is a continuing offense, and evidence of its commission at different times within the general charge does not demand an election. (15 Cor. Jur., see. 2172.) Appellant cites People v. Castro, 133 Cal. 11 [65 Pac. 13], People v. Williams, 133 Cal. 165 [65 Pac. 323], and People v. Bartnett, 15 Cal. App. 89 [113 Pac. 879], These first two eases involved charges of rape, and the latter ease was for embezzlement. It is apparent that those types of offenses are readily distinguishable, as to continuity, from driving while intoxicated.
+The judgment and order are affirmed.
+Tuttle, J., and Thompson, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on December 14, 1939.
