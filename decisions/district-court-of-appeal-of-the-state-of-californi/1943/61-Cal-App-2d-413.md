@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14262"
+decided: "1943-11-19"
+citations: ["61 Cal. App. 2d 413"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LESTER BALKINS et al., Plaintiffs and Respondents, v. ALVIN L. NORRBY, as Executor, etc., Appellant; CLEON E. BALKINS, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-2d/61/cases/0413-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6043841
+cites_cases: ["22 Cal.App.2d 618", "58 P.2d 649", "6 Cal.2d 464", "60 P.2d 121", "7 Cal.2d 199", "72 P.2d 194"]
+---
+
+# Balkins v. Norrby
+
+## Majority (BISHOP, J. pro tem.)
+
+BISHOP, J. pro tem.
+The questions now to be answered in this case arise out of plaintiffs’ motion to dismiss the appeal of the defendant Alvin L. Norrby, appearing as executor of the estate of Mary Dargit Trowbridge, or to affirm the matters appealed from. The action is one to partition a parcel of land. The complaint alleges that the plaintiff is the owner of a one-third interest in the lot and house, which constitutes the parcel, and that the estate of Mary Dargit Trowbridge has a two-thirds interest in the property, subject to a mortgage of the two-thirds interest to Los Angeles County. The complaint further alleges a tax sale of the property to the defendant Cleon E. Balkins, but claims that the sale was defective, a claim disputed by Balkins in his answer.
+An interlocutory decree was entered, providing for the sale of the property by a referee appointed for the purpose, and for the distribution of the proceeds of the sale as follows: (1) pay referee’s fees and costs and city and county taxes; (2) pay $406.36, with interest to Cleon E. Balkins; (3) pay one-third of the remainder to the plaintiffs; (4) pay to the county of Los Angeles, out of what is left such amount as the county and the estate agree upon, in settlement of the county’s mortgage; (5) pay the residue to the estate. Following the entry of this decree the property was advertised for sale and sold, according to a report filed by the referee ; a motion was noticed and made to confirm the sale; a motion was noticed and made to set the sale aside; an order was made setting the sale aside; again the referee advertised and sold and so reported; again motions were made to confirm and to set aside the sale, followed by an order filed March 22, 1943, entitled: ‘ ‘ Order of court denying motion to set aside SALE AND VACATE REFEREE’S REPORT, AND CONFIRMING SALE AND APPROVING REFEREE’S REPORT AND ALLOWING FEES AND COMPENSATION TO THE REFEREE.”
+So much detail appears necessary to evaluate the objections raised to the notice of appeal, which is in the following words (omitting title of court and cause) : “To Clerk of the Superior Court of the above named County, and to the Plaintiffs.
+“You and each of you will please take notice the the defendant Alvin L. Norrby, as executor of the estate of Mary Dar git Trowbridge, deceased, hereby appeal...... to the Supreme Court of the State of California from the Interlocutory decree, and all the proceedings subsequent thereto, including the final decree and sale order of distribution and all other orders subsequent to and including the interlocutory decree.
+“Dated May 17,1943.
+M. J. Gordon
+C. S. Mauk
+Attorneys for Executor.”
+(This appeal was transferred to this court by the Supreme Court.)
+The argument that the appeal is ineffective “because it fails to make the defendant, Cleon E. Balkins, a party,” is not a sound one, for it is based on the false premise that the notice of appeal determines who are party respondents. As pointed out in Guardianship of Copsey (1936), 7 Cal.2d 199, 200 [60 P.2d 121], “there is no provision of law requiring the notice of appeal to be addressed to the opposite party.”
+The notice of appeal was filed May 17, 1943. By virtue of the provisions of section 939, Code of Civil Procedure, it is timely only as to the judgments and orders entered on or after March 18, 1943. With the exception of the order which was filed March 22, 1943, all actions taken by the court or its referee antedate March 18, 1943; the interlocutory decree was entered September 22, 1942. Because of the lapse of time the appeal is too late as to all appealable matters other than the order of March 22.
+One of the grounds of the motion to dismiss is the failure of the notice of appeal to specify what judgment or order, other than the interlocutory decree, is appealed from. Undoubtedly this is true, with the one exception to be noted, and because of it an additional ground exists which warrants the dismissal of the appeal from the various “proceedings” that were had prior to the order of March 22. (Brooks v. Johnson (1937), 22 Cal.App.2d 618, 622 [72 P.2d 194].) The exception we note is the special reference in the notice of appeal to “the final decree and sale order of distribution.” It is established as the rule in this state that “notices of appeal are liberally construed to preserve the right of review unless it appears that the respondent has been misled by the misdescription.” (Eellett v. Marvel (1936), 6 Cal.2d 464, 471 [58 P.2d 649].) In spite of its unhappy choice of words, the notice of appeal may fairly be interpreted to refer to the order of March 22, and that the plaintiffs have not been misled by the wording of the notice is evidenced by the fact that one of the grounds advanced in support of their motion to affirm, if the appeal is not dismissed, is: “that there is no record before the Court from which the Court can determine that the order of March 22nd, 1943, is incorrect.”
+In their Points and Authorities, offered to support their motion, the plaintiffs open with this sentence: “Nothing is before the Court in this case but the Clerk’s Transcript and Appellant’s Opening Brief.” Plaintiffs were misled into making this statement, doubtless, by the fact that a transcript, certified by the judge who rendered the interlocutory judgment and by the judge who made the order of March 22, is included with the clerk’s transcript under a cover bearing the label of “Clerk’s Transcript.” The court’s transcript, we note, contains a stipulation, apparently signed by counsel for the appellant and the plaintiffs-respondents, that it is a full and fair transcript “of the papers, and all of the papers and evidence used or considered in the determination of the matters appealed from herein.” The judges’ certificate is to the same effect. In the premises, the questions which may be presented by the appeal from the order of March 22, are not without a supporting record and are not so unsubstantial that the order should be affirmed on motion.
+The motion to affirm, or to dismiss the appeal from, the order of March 22, 1943, is denied; the appeals from the interlocutory judgment and from the other proceedings or orders are dismissed.
+Desmond, P. J., and Wood (Parker), J., concurred.
