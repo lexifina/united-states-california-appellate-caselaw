@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 38284; Civ. No. 38510"
+decided: "1971-08-30"
+citations: ["19 Cal. App. 3d 785"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH'S OF CALIFORNIA, Petitioner, v. ALCOHOLIC BEVERAGE CONTROL APPEALS BOARD et al., Respondents. NICHOLAS A. WILLIAMS, Petitioner, v. ALCOHOLIC BEVERAGE CONTROL APPEALS BOARD et al., Respondents."]
+source_url: "https://static.case.law/cal-app-3d/19/cases/0785-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4403268
+cites_cases: ["3 Cal.App.3d 536", "400 P.2d 745", "43 Cal.Rptr. 633", "62 Cal.2d 589", "83 Cal.Rptr. 567"]
+---
+
+# Joseph's of California v. Alcoholic Beverage Control Appeals Board
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+We have consolidated these two petitions because they raise certain common issues of law concerning the imposition of administrative penalties for violation of. the minimum price provisions of the Business and Professions Code relating to sales of wine. (Bus. & Prof. Code, § 24862). For the reasons set forth below, we annul the disciplinary order in case No. 38284, but sustain it in case No. 38510.
+The facts are not here in question. In Civ. No. 38284, involving Joseph’s of California, a student clerk, as the result of an error in computation, sold a case of wine to an undercover agent of the Department of Alcoholic Beverage Control for 50 cents less than the established minimum price. Admittedly the price was fixed by error, the conduct was neither known to nor condoned by the licensee, and the licensee has conducted its business for over 15 years without any prior accusation of misconduct. The hearing officer recommended dismissal of the accusation, but the department rejected the recommendation and imposed a 10-day suspension, of which five days were stayed under certain conditions.
+In Civ. No. 38510, involving Nick Williams, an employee of the licensee sold six bottles of wine to an undercover agent at a discount of 16.7 cents per bottle. The discount was deliberate and intentional and was made with knowledge that it violated the minimum price law. After a hearing, the license was suspended for 10 days.
+I
+Since it is admitted that the undercover agents who made the purchases involved did not intend to drink the wine purchased, or to give it to others to drink, it is argued that the sales were not of the type prohibited by the applicable section. Section 24862, by its terms, applies only to sales “to a retailer or consumer,” and it is argued that an undercover agent who buys only to determine the existence of price-cutting is not a “consumer,” within the meaning of the statute. In support of that argument, petitioners point, inter aha, to the statutory definition of “consumer,” as “a person who buys wine for consumption off the premises where sold.” (Italics added.) While the semantics are ingenious, we reject the conclusion for which petitioners contend. A reading of the statutes as a whole makes it clear that the term “consumer” was used as the designation of the person last in the chain of sales, beginning with the vintner, passing through the various stages of distribution to the retailer, and from him to the ultimate buyer. Whether that buyer purchases in order to have something for himself and his guests to drink, or to make a “show” in a wine cellar, or just to possess, we think that he is a “consumer.” As the Attorney General points out, without the use of undercover agents who buy under the circumstances herein involved, it would be impossible to police the minimum price statute or to enforce it against anyone who did not blatantly advertise in public media his willingness to violate the law. We do not ascribe to the Legislature such a self-negating intent.
+II
+In the Joseph’s case, petitioner contends that the agent was guilty of entrapment. While some evidence would have supported the contention that the agent had suggested the price used and had solicited a sale at that price, the finder of fact accepted the version that the price was independently arrived at by the student-clerk, who described at the hearing the erroneous arithmetic which he had used. We are here bound by that factual finding, which is supported by the record. No entrapment contention is urged in the Williams case, nor does the record suggest anything to support such an argument if made.
+III
+Petitioners contend that the penalty section involved denies to them the equal protection of the law. Under section 24880 of the Business and Professions Code, as that section read at the time of the sales herein involved, the sole penalty provided for a first offense violation of section 24862 was a suspension for not to exceed 10 days, whereas under section 24755.1 of that code, the penalty for a first violation of section 24755 (the minimum price law for distilled spirits) is a fine of $250. Petitioners argue that to discriminate thus between two different kinds of alcoholic beverages is to discriminate without a valid reason so to do and, thus, a violation of the constitutional right to equality of treatment.
+But the equal protection clause does not prohibit all differences in treatment. It is enough if the Legislature reasonably could determine that the differences in conduct required differences in treatment. Obviously, wine and distilled liquors have differences in price, in mode of sale and in use. We cannot say that the Legislature could not reasonably have determined that a different penalty was appropriate.
+IV
+While the determination of the appropriate penalty, within statutory limits, is primarily for the Department of Alcoholic Beverage Control, whose discretion may not be upset except in cases of a clear abuse of discretion, the rule just stated shows that not only the appeals board but the courts may, and must, inquire whether, in a particular case, such an abuse appears. We can see no abuse in the Williams case, where a deliberate, conscious violation, as a matter of business practice, appears. However, we reach a different conclusion as to Joseph’s. Here there was a single, accidental violation, by a part-time employee, uncondoned by the licensee; the licensee has a long record of entirely legitimate operation. The considerations in its favor are even greater than those which led to a mitigation of penalty in Harris v. Alcoholic Bev. etc. Appeals Bd. (1965) 62 Cal.2d 589 [43 Cal.Rptr. 633, 400 P.2d 745]. On the facts as found, a 100 percent stay of the suspension order should be enough to insure that the licensee maintains a strict control over future employees; actual suspension was neither necessary nor proper.
+In Civ. No. 38284, the order is annulled; the case is remanded to the appeals board for further proceedings consistent with this opinion. In Civ. No. 38510, the order is affirmed.
+Files, P. J., and Jefferson, J., concurred.
+On September 20, 1971, the opinion was modified to read as printed above. Petitioners’ applications: for a hearing by the Supreme Court were denied November 18, 1971. Peters, J., was of the opinion that the petitions should be granted.
+By virtue of section 23090.7 and other actions, the effective date of the suspension orders in both cases have been stayed pending the determination of. the cases at bench.
+In 1970, section 24880 was amended to permit a fine as an alternative penalty. But that amendment is not retroactive. (Liquor Sellers, Inc. v. Department of Alcoholic Bev. Control (1970) 3 Cal.App.3d 536 [83 Cal.Rptr. 567].)
+Since we conclude that a difference in treatment is constitutional, we need not determine whether a suspension is, or is not, a more severe penalty than a fine.
