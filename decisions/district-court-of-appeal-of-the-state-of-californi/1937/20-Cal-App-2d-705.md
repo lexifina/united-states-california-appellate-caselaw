@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5790"
+decided: "1937-05-07"
+citations: ["20 Cal. App. 2d 705"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARLA JENSSEN, Appellant, v. R. K. O. STUDIOS, INC. (a Corporation), et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/20/cases/0705-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040624
+cites_cases: ["123 Cal. 312", "15 Cal. App. (2d) 110", "16 Cal. App. (2d) 1", "184 Cal. 173", "190 Pac. 483", "193 Pac. 102", "24 Pac. 839", "258 Pac. 652", "4 Cal. App. 169", "47 Cal. App. 362", "55 Pac. 990", "57 Pac. (2d) 1315", "58 Pac. (2d) 1325", "59 Cal. 480", "6 Cal. (2d) 395", "6 Cal. 61", "60 Pac. (2d) 146", "69 Am. St. Rep. 60", "84 Cal. App. 775", "85 Cal. 518", "87 Pac. 248"]
+---
+
+# Jenssen v. R. K. O. Studios, Inc.
+
+## Majority (HELD, J., pro tem.)
+
+HELD, J., pro tem.
+Defendant and respondent R. K. O. Studios, Inc., is a producer of motion pictures, and defendants and respondents Merian C. Cooper, Jane Murfin and Albert Shelby Le Vino were in its employ, the former as an executive producer, and the latter two as writers. Plaintiff and appellant alleges that she submitted to the corporate defendant a certain literary composition to enable said defendant to determine whether it desired to acquire the same for use in motion pictures. The complaint alleges also that said defendant retained said composition for about one month and thereupon returned the same to plaintiff, but that in the interval it had made copies thereof, and thereafter produced, sold, and distributed the same. Damages, an accounting and injunctive relief are sought.
+The verified complaint was filed on March 22, 1934, and the answer on May 14, 1934. The action came on for trial on September 23, 1935. At the opening of the trial, and before any evidence was introduced, the plaintiff moved for judgment on the pleadings on the ground that the verifications of the answers were insufficient in form. The defendants urged the legal sufficiency of the verifications, but also requested permission of the court to amend the same. The trial court made no formal ruling on plaintiff’s motion for judgment, indicating, however, that the motion would be denied. Defendants were allowed until 5 o’clock of the following afternoon to file properly verified answers. The court immediately proceeded with the trial, and answers were thereafter and within the time allowed, duly filed. Aside from an elaboration of some of the denials, the amended answers merely changed the form of the verification. No new matter of defense was set up. Plaintiff asked no postponement of the trial. The sufficiency of the amended answers is not questioned. On November 15, 1935, judgment in favor of defendants was entered, and from that judgment plaintiff prosecutes this appeal.
+Appellant contends that the trial court erred in denying her motion for judgment on the pleadings, and also in granting leave to defendants to amend their answers.
+The court having permitted the filing of amended answers, and the defendants having availed themselves of the permission so granted, the sufficiency of the original pleadings is not involved here. If error was committed, that error was not in the decision of the motion for judgment, but on the action of the court on the application to amend. (Matteucci v. Whelan, 123 Cal. 312 [55 Pac. 990, 69 Am. St. Rep. 60].)
+The permitting or refusing of amendments to pleadings is a matter within the sound discretion of the trial court, which should be liberally exercised. This discretion will rarely be revised, and then only for a gross abuse which must clearly appear. (Sweet v. Hamilothoris, 84 Cal. App. 775 [258 Pac. 652].) Conceding the insufficiency of the verifications of the original answers, there existed a failure to deny, and therefore an admission of, the allegations of the complaint. (21 Cal. Jur. 155; Patterson v. Blackburn, 47 Cal. App. 362 [190 Pac. 483].) This amounted to no more than a defect in pleading. Proper verification was not a jurisdictional requirement, and might have been waived. (Security Trust & S. Bank v. Fidelity & D. Co., 184 Cal. 173 [193 Pac. 102].) An amendment may be properly allowed at the time of trial in the absence of a showing of prejudice to the adverse party. (Angier v. Masterson, 6 Cal. 61; Buell v. Beckwith, 59 Cal. 480.) The action of the trial court herein is fully sustained by the decision in Bergerow v. Parker, 4 Cal. App. 169 [87 Pac. 248], And in view of the fact that some sixteen months elapsed between the filing of the original answers and the time that objection was first made to their sufficiency, it would have been error had the trial court refused permission to amend. (C hatfield v. Williams, 85 Cal. 518 [24 Pac. 839].)
+Appellant fails to show wherein she suffered prejudice by the action of the trial court, even if it be conceded that such action was erroneous. This burden rests upon her. (2 Cal. Jur., p. 1008, sec.. 598; Dam v. Lake Aliso Riding School, 6 Cal. (2d) 395 [57 Pac. (2d) 1315].) In Private Investors, Inc., v. Homestake Min. Co., 16 Cal. App. (2d) 1 [60 Pac. (2d) 146], the court said: “In this state, it is not sufficient merely to show error, but it is necessary to further show that the error was sufficiently prejudicial to justify a reversal.” Harmless error is to be disregarded. (Bamber v. Belprez, 15 Cal. App. (2d) 110 [58 Pac. (2d) 1325].)
+The judgment is affirmed.
+Pullen, P. J., and Thompson, J., concurred.
