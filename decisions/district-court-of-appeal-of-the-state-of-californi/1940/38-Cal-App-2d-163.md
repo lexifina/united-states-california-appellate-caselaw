@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 12269"
 decided: "1940-03-25"
-citations: ["38 Cal. App. 2d 163", "38 Cal. App. 2d 162"]
+citations: ["38 Cal. App. 2d 163"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
