@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5374"
+decided: "1925-09-04"
+citations: ["74 Cal. App. 350"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DANIEL O’CONNELL, Petitioner, v. SUPERIOR COURT OF THE CITY AND COUNTY OF SAN FRANCISCO et al., Respondents."]
+source_url: "https://static.case.law/cal-app/74/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2165315
+cites_cases: ["1 A. L. R. 1589", "108 Pac. 882", "111 Cal. 639", "114 Cal. 466", "126 Pac. 497", "13 Cal. App. 65", "135 Cal. 178", "141 Pac. 223", "143 Cal. 169", "157 Pac. 13", "165 Pac. 706", "175 Cal. 250", "19 Cal. App. 497", "24 Cal. App. 313", "30 Cal. App. 58", "44 Pac. 319", "46 Pac. 383", "52 Am. St. Rep. 201", "67 Pac. 786", "76 Pac. 973"]
+---
+
+# O'Connell v. Superior Court
+
+## Majority (CASHIN, J.)
+
+CASHIN, J.
+A petition for a writ of mandate to the Superior Court in and for the City and County of San Francisco, directing the entry of a final decree of divorce.
+An interlocutory decree of divorce was by said court on June 2, 1924, granted to petitioner, he being the defendant and cross-complainant in an action for divorce brought by his wife, Anna M. O’Connell, who failed to appear at the trial. The decree was based upon findings of fact constituting extreme cruelty, and thereby certain real property described therein was adjudged to' be the separate property of petitioner. No appeal was taken therefrom, and thereafter, on July 10, 1925, petitioner upon due notice presented in the Superior Court his motion for the entry of a final decree of divorce in accordance with the interlocutory decree mentioned. The motion was opposed by cross-defendant, Anna M. 0 ’Connell, and, as recited in the order of the court made thereon, evidence was adduced at the hearing by both parties, on which the court found that the parties since the entry of the interlocutory decree had cohabited as husband and wife, and were at the time of the hearing living in the same dwelling; that at the time of the entry of said decree the parties had become reconciled and were then living together as husband and wife and had so lived continuously till the twenty-fifth day of May, 1925; that an action had been commenced by said Anna M. O’Connell against petitioner in the superior court for a decree of that court setting aside the interlocutory decree on the ground that petitioner had by his acts prevented his wife from appearing in court and presenting her defense to the petitioner’s cross-complaint upon which the interlocutory decree was made and entered; that the action had been tried and that the court had made and filed its findings of fact and conclusions of law therein, and that the parties had on May 18, 1925, agreed in writing to vacate and set aside the interlocutory decree of divorce, and thereupon made and entered on July 25, 1925, its order denying petitioner’s motion. It further appears— the fact not being disputed by petitioner—that a decree of the court based upon the findings and conclusions of law in the action to set aside the decree of divorce was filed on the same day, adjudging that the interlocutory decree mentioned be set aside.
+It is urged by petitioner that notwithstanding the findings by the court of cohabitation and reconciliation there was no finding of a condonation by him of the offense charged in his cross-complaint, and that without such finding the trial court was not justified in denying the motion for the entry of a final decree of divorce.
+Courts of equity in this state possess the power to refuse to enter a final decree of divorce where subsequently to the entry of the interlocutory decree the offense has been condoned (Olson v. Superior Court, 175 Cal. 250 [1 A. L. R. 1589, 165 Pac. 706]); and while in the instant case the finding of the court in that connection was not of the ultimate fact of condonation it appears that such ultimate fact might fairly and reasonably be inferred from the facts found, and it will be presumed that the inference drawn therefrom was one that will support the order of the court (Gould v. Eaton, 111 Cal. 639 [52 Am. St. Rep. 201, 44 Pac. 319]; DeHaven v. Berendes, 135 Cal. 178-180 [67 Pac. 786]; Cooley v. Brunsuig Drug Co., 30 Cal. App. 58 [157 Pac. 13]).
+Where there is a legal right to relief under certain facts and the existence of such facts is not questioned a court having jurisdiction has no discretion to refuse the relief (California Pine Box & Lumber Co. v. Superior Court, 13 Cal. App. 65 [108 Pac. 882]); but where it appears, as here, that an interlocutory decree of divorce, which is the foundation for the relief sought, has been set aside by a judgment not shown to be invalid, and the trial court, in a proceeding in which it had jurisdiction, has from evidence before it made findings supporting on additional grounds its judgment denying relief, such judgment cannot be reviewed on an application for a writ of mandate (People ex rel. Gesford v. Superior Court, 114 Cal. 466 [46 Pac. 383] ; Gay v. Torrance, 143 Cal. 169 [76 Pac. 973]; Lapique v. Superior Court, 24 Cal. App. 313 [141 Pac. 223]; American Well and Prospecting Co. v. Superior Court, 19 Cal. App. 497 [126 Pac. 497]).
+The petition for a writ of mandate is denied.
+Knight, J., and Tyler, P. J., concurred.
