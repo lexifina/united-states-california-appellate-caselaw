@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 8324"
+decided: "1932-07-26"
+citations: ["125 Cal. App. 96"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE F. KALLEG, Appellant, v. VINCENZO FASSIO et al., Respondents. DOROTHY A. KALLEG, Appellant, v. VINCENZO FASSIO et al., Respondents."]
+source_url: "https://static.case.law/cal-app/125/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2244657
+cites_cases: ["10 Pac. (2d) 525", "122 Cal. App. 774", "159 Pac. 597", "173 Cal. 199", "176 Pac. 440", "179 Cal. 298", "63 Cal. 483"]
+---
+
+# Kalleg v. Fassio
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+Four actions for damages for injuries arising out of an automobile collision were tried jointly. George Kalleg, the driver of one of the cars, sued for personal injuries to himself; his wife, Dorothy, sued for personal injuries to herself; two minor children of these parties each sued through their guardian for personal injuries. The jury returned four verdicts. In the actions of the husband and the-wife the verdict found “in favor of plaintiff” and awarded “the damages in the sum of one dollar, $1.00”. In the actions of the two minors verdicts for $1500 were returned in each case. These judgments have been paid, but both husband and wife have appealed upon the same record from the verdicts entered in their cases.
+The facts are simple. Kalleg was driving easterly on Market Street in the city and county of San Francisco, and when he reached the intersection of Market, Franklin and Page Streets he attempted to make a left-hand turn across the west-bound traffic on Market Street. At that point four lines of street-car tracks are maintained. As Kalleg crossed the east-bound tracks and approached the first westbound track he looked to his right, but did not see any vehicle approaching. From that point he crossed over the second track and across the west-bound lane of vehicle traffic without looking to his right—the point from which danger might have been anticipated. The defendant was proceeding westerly about four feet north of the most northerly car track where the cars collided. Neither plaintiff saw defendant’s car approaching at any point of their progress.
+On the issue of damages the husband claimed that he had suffered a bruised shoulder and some nervous shock, the wife had a slight scar above the right eyebrow, which was fully healed, and also claimed that she had been bruised about the hip. Both children were cut about the face by broken glass.
+The verdicts in the parents’ cases are easily explained. Their claims of personal injuries were manifestly feigned and greatly exaggerated. A verdict for either in an amount in excess of their costs of suit would have been a gross miscarriage of justice which the trial court would have necessarily set aside. The evidence of the husband’s contributory negligence, which, of course, must be imputed to the wife, was such that the jury should have found against both on that issue. Hence, again, if substantial ver,-' diets had been rendered in their favor, the trial court would have been compelled to set them aside on this issue as well. Thus when we examine the entire record, including the evidence within the purview of article VI, section 4%, of the Constitution, we cannot say “that the error complained of has resulted in a miscarriage of justice.”
+Because of this view it would serve no purpose to discuss Wolford v. Lyon Gravel Gold Min. Co., 63 Cal. 483, where a verdict for plaintiff assessing his damages at $1 was held to be “grossly absurd”. That ease was decided before the days of open plumbing. A case more nearly in point here is Mosekian v. Ginsberg, 122 Cal. App. 774 [10 Pac. (2d) 525], where the Fourth District held that an appeal from a verdict for the plaintiff which assessed his damages at $0 (nothing) was in legal effect an appeal from the order denying plaintiff’s motion for a new trial and that, on such appeal, the question for the appellate court to determine was whether the trial court had abused its discretion in that respect. This is in accord with our view.
+Another point requires some consideration. The trial court instructed the jury that Kalleg was not entitled to recover because of “grief, sorrow, or resentment ... on account of any injury sustained by his wife or children . . . or because of . . . any scars, blemishes or disfigurement on the faces of the wife or children”. The appellants criticise the instruction, saying that it unduly limited the jury in the consideration of the element of “nervous shock”, and they cite Easton v. United Trade School Contracting Co., 173 Cal. 199 [L. R. A. 1917A, 394, 159 Pac. 597], and Lindley v. Knowlton, 179 Cal. 298 [176 Pac. 440], The criticism is not sound. The element of physical pain, including the “nervous shock” theory was fully covered by other instructions. This instruction was limited to the element of grief and sorrow because of the subsequent disfigurement or suffering of other members of the family. It is the accepted rule that a parent cannot recover damages upon those grounds because the minor child has his own right of action for the same damage. (17 Cor. Jur., p. 835.) Upon the same principle the husband should be denied recovery for such damages arising out of injuries to the wife.
+Neither of the cases cited by appellants is in point. They involved the question of fright and fear of the parent for the safety of a minor child at the time of the accident. The instruction complained of was confined to the element of grief and sorrow after the collision and to subsequent distress by contemplation of scars or disfigurements on the faces of the other members of the family.
+The judgments are affirmed.
+Sturtevant, J., and Spence, J., concurred.
