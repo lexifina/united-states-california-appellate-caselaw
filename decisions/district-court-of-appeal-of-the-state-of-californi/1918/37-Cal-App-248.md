@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2157; Civ. No. 2158"
+decided: "1918-05-15"
+citations: ["37 Cal. App. 248"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. C. WHITCOMB, Respondent, v. W. O. HUSE, Defendant; GEORGE H. WOODRUFF, Appellant. T. C. WHITCOMB, Respondent, v. C. O. MIDDLETON, Defendant; GEORGE H. WOODRUFF, Appellant."]
+source_url: "https://static.case.law/cal-app/37/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2034500
+cites_cases: ["57 Cal. 327"]
+---
+
+# Whitcomb v. Huse
+
+## Majority (WORKS, J., pro tem.)
+
+WORKS, J., pro tem.
+The questions arising on these two appeals are identical. References to the facts and to the parties will be according to the record in Whitcomb v. Huse, The action was brought to recover on two promissory notes, Huse being sued as a maker and Woodruff as an indorser. Judgment went for the plaintiff and Woodruff appeals.
+It is contended by the appellant, among other things, that the trial court erred in admitting in evidence the notary’s certificates of protest of the notes sued upon and also his certificates of notice of protest. The ground of the contention is that the documents failed to comply with the terms of section 795 of the Political Code, which provides that protests, stating certain facts, including “the reputed place of residence” of the party to a bill or note and of the party to whom it was given, “and the postoffice nearest thereto,” are prima facie evidence of the matters stated in them. Both of the instruments which were received in evidence are to be considered together in determining whether the “protest” is so complete in its subject matter, under section 795, as to make it prima facie evidence of the matters stated in it (Kellogg v. Pacific Box Factory, 57 Cal. 327, 329); although, strictly speaking, but one of those instruments was the protest. Taking them both together, however, they make no showing as to the reputed place of residence of either Huse, the maker of the paper, or of the appellant, the payee. They show, only, as far as address is concerned, the location of the “office” of Huse, except that they show that the notice of protest was mailed to Huse at that address and to the appellant at a certain designated room in the “Merchants National Bank Bldg., Los Angeles, Cal.” Notwithstanding this state of the “protest,” the respondent insists that the documents were admissible in evidence upon the authority of Kellogg v. Pacific Box Factory, supra. In the' opinion in that case it was said, at page 330: “It [the protest] does not state the place of residence of the party to the note, nor the postoffice nearest thereto; and because it does not, the respondents contend that it was inadmissible as evidence. It docs, however, state that everything which is certified to have been done and served was done and served at San Francisco. The letters containing notice of the protest of the note were delivered at the respective places of business of the respondents, and in each instance to a person of discretion having charge thereof. As that was done at San i Francisco, the respondents’ place of business must have been there, and it was not necessary to state that the San Francisco postoffice was nearer than any other postoffice to San Francisco. A delivery of the notice at each of respondents’ places of business to some person of discretion in charge thereof obviated the necessity of delivering it at or sending it by mail to the respective residences of the respondents; and therefore it was unnecessary to state where said residences were, or the postoffice nearest thereto.”
+In order properly to determine the applicability of the Kellogg case to the present question, it is necessary to refer, to section 3144 of the Civil Code, which was, at the time that case was decided, and now is, in the following language:
+“A notice of dishonor may be given:
+“1. By delivering it to the party to be charged, personally, at any place; or,
+“2. By delivering it to some person of discretion at the place of residence or business of such party, apparently acting for him; or,
+“3. By properly folding the notice, directing it to the party to be charged, at his place of residence, according to the best information that the person giving the notice can obtain, depositing it in the postoffice most conveniently accessible from the place where the presentment was made, and paying the postage thereon.”
+It will be noted from the text of the Kellogg case that notice of dishonor was there given, under the alternative allowed by the second subdivision of section 3144, by a delivery at the places of business of the indorsers, and that the doctrine of the case is really based upon that fact. The ruling amounts to nothing more than a statement that the language of section 795 of the Political Code requiring a statement of the reputed place of residence and of the postoffiee nearest thereto need not be followed where notice of dishonor is given by delivery of the notice at the place of business. Here, however, the situation is quite different. Notice of protest was given by mail and notice may be given in that manner only pursuant to the provisions of the third subdivision of section 3144, which permits a mailing to residence alone. In such a case the statement of reputed residence and of the nearest postoffice is most material, and such a statement is of the very essence of the “protest.” It is our opinion that a “protest” is prima facie evidence of the matters stated in it only when it contains a recital of all the facts material to the ease in which it is offered in evidence and which are mentioned in section 795. The section makes the “protest” prima facie evidence of things of which it ordinarily would be no evidence at all. It allows a departure from the usual rules of evidence, and those who would avail themselves of its provisions must, therefore, bring themselves clearly within its terms.
+The judgments are reversed.
+Conrey, P. J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on July 11, 1918.
