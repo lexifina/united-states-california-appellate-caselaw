@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 5277"
 decided: "1925-12-22"
-citations: ["75 Cal. App. 698", "75 Cal. App. 697"]
+citations: ["75 Cal. App. 698"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["GEORGE GITTELSON et al., Respondents, v. JOHN H. McKNIGHT et al., App
 source_url: "https://static.case.law/cal-app/75/cases/0698-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2163775
-cites_cases: ["154 Cal. 29", "191 Cal. 601", "218 Pac. 22", "96 Pac. 811"]
+cites_cases: ["191 Cal. 601", "218 Pac. 22"]
 ---
 
 # Gittelson v. McKnight
