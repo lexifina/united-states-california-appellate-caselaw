@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B166088"
+decided: "2004-07-12"
+citations: ["120 Cal. App. 4th 628"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEO’S ASSOCIATES, INC., Plaintiff and Appellant, v. DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF LABOR STANDARDS ENFORCEMENT, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/120/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1109288
+cites_cases: ["105 Cal.App.4th 162", "129 Cal.Rptr.2d 118", "23 Cal.App.4th 1653", "29 Cal.Rptr.2d 17"]
+---
+
+# Leo's Associates Inc. v. Department of Industrial Relations
+
+## Majority (EPSTEIN, Acting P. J.)
+
+Opinion
+EPSTEIN, Acting P. J.
+Leo’s Associates, Inc., appeals from a judgment denying its petition for writ of mandamus, filed under California Code of Civil Procedure section 1094.5. It challenges the imposition of penalties by the Department of Industrial Relations, Division of Labor Standards Enforcement (the Division) for failure to have workers’ compensation insurance coverage in force on a particular date. The policy had lapsed before that date and had not been reinstated at that time. It was subsequently reinstated retroactive to the date of lapse. It is appellant’s position, in the trial court and in this court, that because of this reinstatement, the penalties should have been set aside. The trial court took a different view, as do we. We affirm.
+FACTUAL AND PROCEDURAL SUMMARY
+At about midnight on Friday, January 26, 2001, Deputy Labor Commissioner William Egan of the Division conducted an inspection at a business owned by appellant Leo’s Associates. Egan asked to see proof of workers’ compensation insurance in force, as required by Labor Code section 3700. Mr. Dean Gettleson, the owner of Leo’s Associates, was not able to provide proof of coverage. Pursuant to Labor Code sections 3710.1 and 3722, Egan issued a stop order and penalty assessment of $18,000, based on a $1,000 fine for each noncovered employee. (See Woodline Furniture Mfg. Co. v. Department of Industrial Relations (1994) 23 Cal.App.4th 1653, 1657, fn. 3 [29 Cal.Rptr.2d 17].)
+Appellant had been insured for workers’ compensation through the State Compensation Insurance Fund (SCIF). On October 24, 2000, SCIF notified appellant that the policy was subject to cancellation, effective November 7, 2000, unless all past-due payroll reports and premium payments were made by that date. Appellant submitted the payroll reports on time but paid only a portion of the premium. This was done on January 5, 2001, which brought the policy current to January 1, 2001. Appellant had no documentation of coverage in force at the time of the January 26, 2001 inspection. On February 7, 2001, SCIF sent a notification to appellant stating, “Cancellation withdrawn. This voids cancellation effective 11-07-00. Coverage continues without lapse.” In May 2001, SCIF provided a certificate of coverage for the period, which included January 26, 2001.
+Pursuant to Labor Code section 3710.1, a hearing was held on the stop order and penalty assessment. Appellant asked the Division to withdraw the stop order and penalty because of the retroactive reinstatement. The Division presented documentary evidence and testimony by Egan. A SCIF agent testified that although appellant submitted the payroll report in time, appellant was delinquent with the premium payment. Thus, as of January 26, 2001, there was no coverage in effect. Instead, coverage was “pending.” The agent said that internally there was no cancellation of coverage in terms of employee insurance claims, but there was “a lapse of coverage.” The agent also testified that he spoke to a secretary at appellant’s office who acknowledged that the policy had been cancelled and that she was trying to get it reinstated.
+The hearing officer affirmed the penalty, but dismissed the stop order on grounds that appellant subsequently had obtained coverage. Appellant filed a petition for mandate (Code Civ. Proc., § 1094.5) seeking to have the penalty set aside. The trial court denied the writ. Appellant then filed this timely appeal.
+DISCUSSION
+Appellant argues that in light of the reinstatement, its workers’ compensation insurance was in effect at the time of the inspection, thereby curing the statutory deficiency and making the penalty assessment and stop order improper. Respondent argues that substantial evidence supports the finding there was no insurance in effect at the time of the penalty assessment. The question is whether the retroactive reinstatement of a lapsed policy satisfies the requirement that workers’ compensation insurance be in effect on the day of the inspection, and so precludes the statutory penalty assessment.
+We conclude that it does not. The record shows that a proper notice of cancellation had been sent to appellant by SCEF notifying it that coverage would end on November 7, 2000, unless the payroll report and full premium payment were submitted. At the time of the inspection, appellant had failed to fully comply with the request. The notice of reinstatement was issued on February 7, 2001, well after the date of the inspection. In its letter, SCIF “voidfed]” the cancellation effective November 7, 2000. This document indicated that coverage had, in fact, ended. It was not until February 7, 2001, that it was restored, albeit retroactively.
+Woodline Furniture Mfg. Co. v. Department of Industrial Relations, is on point. In that case the court held that workers’ compensation coverage must be in force on the date of the assessment, and refused to permit an employer to avoid a penalty by obtaining retroactive insurance that predated the issuance of the stop order and statutory penalty assessment. The effect of the retroactive reinstatement was simply thatthe insurance carrier agreed to provide benefits as though there had been no lapse; it did not and could not rewrite history to establish that a lapse had not occurred. Thus, the Woodline court acknowledged legislative intent that the sanctions be imposed at the time the stop order is issued as an additional penalty for being uninsured at that time. (Woodline Furniture Mfg. Co. v. Department of Industrial Relations, supra, 23 Cal.App.4th at p. 1659.)
+Catalina Car Wash, Inc. v. Department of Industrial Relations (2003) 105 Cal.App.4th 162 [129 Cal.Rptr.2d 118], on which appellant relies, is distinguishable on a key point. In Catalina, the court held that workers’ compensation remained in force despite the failure to pay premiums when due, because the insurance carrier failed to give notice of nonrenewal. For that reason, the policy remained in effect as a matter of law, even though defendant had no proof of coverage at the time of the inspection. The court distinguished Woodline because there was “no question of retroactive or backdated coverage” in the case before it. (Id. at p. 169.)
+DISPOSITION
+The judgment is affirmed.
+Hastings, J., and Curry, J, concurred.
