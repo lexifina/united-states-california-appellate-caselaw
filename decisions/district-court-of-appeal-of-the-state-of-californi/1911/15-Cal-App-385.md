@@ -1,0 +1,23 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 931"
+decided: "1911-02-14"
+citations: ["15 Cal. App. 385"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IMPERIAL VALLEY MERCANTILE COMPANY, a Corporation, Respondent, v. SOUTHERN PACIFIC COMPANY, a Corporation, Appellant."]
+source_url: "https://static.case.law/cal-app/15/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4559973
+---
+
+# Imperial Valley Mercantile Co. v. Southern Pacific Co.
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Plaintiff brought this action to recover damages caused by the killing of certain sheep belonging to it, alleged to have been caused by the negligence of defendant. The issues made up were submitted to a jury and a verdict in favor of plaintiff for the sum of $420 was returned, upon which judgment was entered. An appeal was taken from that judgment and from an order denying defendant’s motion for a new trial. It is the contention of defendant, first, that the evidence was insufficient to show any negligence on the part of defendant; and, second, that the evidence did show that plaintiff was negligent in the handling of the sheep, which negligence contributed to the cause of the killing of the animals.
+A band of about two thousand one hundred sheep belonging to plaintiff were being driven along a public road in the county of Imperial on the eighth day of July, 1908. They were in charge of an employee of plaintiff. The road along which they were being driven crossed the railway track of defendant at what is known as Whiting’s Crossing. It was nearly dark at the time, and before driving the sheep across the railway tracks, the person driving them testified that he went to the track to look for a train, and that he looked up and down to see if there were any lights or any train, and that he did not see anything; that the track at the crossing was straight for several miles each way; that he looked a dozen times up and down the track while he was there, and neither seeing nor hearing a train approaching, started to drive the sheep across. He was being assisted by a boy, and when about six hundred head of the sheep had crossed, a train approached without the sounding of any whistle or the ringing of a bell, and that before the sheep could be cleared from the track this train struck them and killed and injured about eighty-four sheep. The train which did the damage was made up of the engine, tender, caboose and three water cars. The engine was not placed at the front end of the train, but occupied a position in the middle thereof, with the caboose and one car on one end of it and the two remaining water cars at the other end. The headlight of the engine did not reflect down the track toward the crossing at the time the train approached, for the interference of the other cars prevented it from so doing. Several eye-witnesses testified that as the train approached the crossing it was traveling backward, the caboose in front, and that no lights of any kind were displayed upon the caboose. The conductor of the train testified that there were red signal lights attached to the caboose, and that he and a brakeman were standing upon the platform of this car with lanterns in their hands. Some of the witnesses had heard, a short while before the accident occurred, the noise of an engine at the station of Heber, a mile and a half away, engaged as they believed from the sounds in switching cars. The train, after striking the sheep, traveled, according to the testimony of the herder, a distance of one hundred and ten steps before it was brought to a standstill. Upon this evidence the jury was fully warranted in making its finding that the defendant had been negligent, and that its negligence was the proximate cause of the killing of the sheep, and further, that there had been no negligence contributing to cause the damage, committed on the part of plaintiff. It might even be said upon the facts disclosed by the record that the undisputed evidence showed both the negligence of the defendant and non-negligence of the plaintiff; at any rate, the questions were questions of fact which it was the peculiar province of the jury to determine, and their finding cannot be disturbed. The rule is too well settled to need reiteration that the determination of a jury or a trial court upon matters of fact will be deemed conclusive upon appeal where there is any substantial evidence to support it.
+The judgment and order are affirmed.
+Allen, P. J., and Shaw, J., concurred.
