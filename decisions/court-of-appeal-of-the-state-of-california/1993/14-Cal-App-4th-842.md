@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "D015713"
+decided: "1993-03-26"
+citations: ["14 Cal. App. 4th 842"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SETTIMO ASSOCIATES, Plaintiff and Appellant, v. ENVIRON SYSTEMS, INC., et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/14/cases/0842-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6036000
+cites_cases: ["116 Cal.App.3d 111", "122 Cal.Rptr. 745", "14 Cal.3d 815", "145 Cal.Rptr. 406", "145 P.2d 305", "172 Cal.Rptr. 74", "186 P.2d 48", "193 Cal.App.3d 444", "22 Cal.App.3d 220", "23 Cal.2d 535", "238 Cal.Rptr. 339", "537 P.2d 865", "79 Cal.App.3d 393", "82 Cal.App.2d 219", "99 Cal.Rptr. 176"]
+---
+
+# Settimo Associates v. Environ Systems, Inc.
+
+## Majority (WORK, J.)
+
+Opinion
+WORK, J.
+Settimo Associates (Settimo) appeals a judgment on the pleadings in favor of Environ Systems, Inc., Otto F. Newton, Site Preparation, Inc., and Developers Insurance Co. (collectively Environ) on Settimo’s complaint for intentional or negligent interference with prospective economic advantage. Settimo contends the court erred in determining that Environ’s bidding on private contracts for work outside the scope of its specialty license did not give rise to a tort claim in favor of competing bidders who were properly licensed. For the following reasons, we affirm the judgment.
+Factual and Procedural Background
+Settimo, holder of a general B-l contractor’s license, sued Environ, alleging alternative causes of action for intentional or negligent interference with prospective economic advantage. Settimo complained that it had twice submitted the lowest bid by any duly licensed contractor for installing a computer support facility only to lose each contract to Environ which held only a specialty contractor’s license which was not sufficient for some of the work involved, but which submitted lower bids. Settimo asserts Environ’s lack of a general contracting license alone satisfies the element of unlawful contract interference so that Environ should reimburse its lost profits.
+At the outset of trial, Environ objected to the introduction of all evidence alleging the complaint was fatally defective. Settimo does not allege Environ was unqualified to perform all work contemplated by the contracts, nor that the work was not properly completed. The trial court treated this as a motion for judgment on the pleadings (see Clemens v. American Warranty Corp. (1987) 193 Cal.App.3d 444, 451 [238 Cal.Rptr. 339]), granted the motion, and entered judgment for Environ.
+Settimo Failed to Plead a Cause of Action for Which Relief May Be Granted
+The tort of intentional or negligent interference with prospective economic advantage imposes liability for improper methods of disrupting or diverting the business relationship of another which fall outside the boundaries of fair competition. (Baldwin v. Marina City Properties, Inc. (1978) 79 Cal.App.3d 393, 406 [145 Cal.Rptr. 406].) It is premised upon the principle, “ ‘[e]veryone has the right to establish and conduct a lawful business and is entitled to the protection of organized society, through its courts, whenever that right is unlawfully invaded.’ ” (Institute of Veterinary Pathology, Inc. v. California Health Laboratories, Inc. (1981) 116 Cal.App.3d 111, 125 [172 Cal.Rptr. 74], quoting Buxbom v. Smith (1944) 23 Cal.2d 535, 546 [145 P.2d 305].)
+Infrequently invoked and often misunderstood, the tort has been described as “a relatively unsettled and developing legal phenomenon, the principles of which are still very vague.” (Institute of Veterinary Pathology, Inc. v. California Health Laboratories, Inc., supra, 116 Cal.App.3d at p. 125.) The elements of the tort include (1) the existence of a prospective business relationship containing the probability of future economic rewards for plaintiff; (2) knowledge by defendant of the existence of the relationship; (3) intentional acts by defendant designed to disrupt the relationship; (4) actual causation; and, (5) damages to plaintiff proximately caused by defendant’s conduct. (Buckaloo v. Johnson (1975) 14 Cal.3d 815, 827 [122 Cal.Rptr. 745, 537 P.2d 865].) The general wrong inherent in this tort is the unlawful interference with a business opportunity through methods which are not within the privilege of fair competition. (See 5 Witkin, Summary of Cal. Law (9th ed. 1988) Torts, § 652, p. 740.)
+In their race to receive the most profitable projects, those involved in the competitive bidding process strive to surpass the competition by submitting the lowest bid possible. This conduct, while admittedly designed and intended to disrupt the prospective business relationships of competitors, is nonetheless essential to the proper functioning of a free-market system. “Ours is a competitive economy in which business entities vie for economic advantage . . . and success goes to him who is able to induce potential customers not to deal with a competitor.” (Buckaloo v. Johnson, supra, 14 Cal.3d at p. 828.)
+We conclude the fact Environ was not properly licensed at the time it was awarded these contracts does not amount to actionable unlawful interference with contracts. We are cited to no statutory authority requiring a private entity to accept bids only from duly licensed contractors. The Business and Professions Code which contains statutory licensing regulations neither creates nor denies any civil remedy to bidders who lose projects to unlicensed competitors. Granted, Environ’s conduct amounted to a misdemeanor and foreclosed any possibility of its suing to enforce an awarded contract. (Bus. & Prof. Code, §§ 7028, subd. (a), 7031.) However, these regulatory sections fall within the responsibility of the Contractors’ Licensing Board to sanction such misconduct. They do not create any action for civil damages in a competing bidder. (See generally, Swickheimer v. King (1971) 22 Cal.App.3d 220, 225 [99 Cal.Rptr. 176].)
+Disposition
+Judgment affirmed.
+Kremer, P. J., and Huffman, J., concurred.
+The first amended complaint filed in November 1990 included a claim for action on a bond. The second amended complaint filed in January 1991 included claims for unfair business practices and permanent injunctive relief. Before trial, Settimo voluntarily dismissed the causes of action for unfair business practices and injunctive relief.
+It appears from this record that both contracts were fully performed and that Environ subsequently acquired the appropriate general contractor's license.
+In reviewing a dismissal following a judgment on the pleadings, the facts as alleged are taken as true and the judgment is looked upon in the light most favorable to the party opposing the motion. If the complaint is found to state a cause of action, the judgment must be reversed. (Miller v. McLaglen (1947) 82 Cal.App.2d 219, 223-224 [186 P.2d 48].)
+Public Contract Code section 10164 provides in part: “In all state projects where federal funds are involved, no bid submitted shall be invalidated by the failure of the bidder to be licensed in accordance with the laws of this state. However, at the time the contract is awarded, the contractor shall be properly licensed in accordance with the laws of this state.” (Italics added.)
