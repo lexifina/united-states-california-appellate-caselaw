@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3766"
+decided: "1929-04-10"
+citations: ["98 Cal. App. 203"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARGYLE McLACHLAN, Appellant, v. PAULINE VIOLA McLACHLAN, Respondent."]
+source_url: "https://static.case.law/cal-app/98/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2125899
+cites_cases: ["132 Cal. 349", "163 Pac. 1045", "32 Cal. App. 648", "64 Pac. 578"]
+---
+
+# McLachlan v. McLachlan
+
+## Majority (FINCH, P. J.)
+
+FINCH, P. J.
+This is an appeal by the plaintiff from an order requiring him to pay the defendant the sum of $300 as costs and counsel fees in the prosecution of her appeal from the judgment of .divorce in favor of the plaintiff.
+It appears from the affidavit of the plaintiff, presented in opposition to the motion for counsel fees and subscribed to May 2, 1927, that the action was commenced February 19, 1926, and tried October 26, 27 and 28, 1926; that an interlocutory decree of divorce was granted November 19, 1926; that the defendant was given the custody of the minor child of the parties, the plaintiff to pay the defendant $75 a month for its support; that the plaintiff was to pay the defendant $2,500 in installments; that she was to have as her separate property the additional sum of $1,000 of community funds then in her hands; and that at the time of the trial she had from $500 to $700 in cash, which was her separate property. All other property was awarded to the plaintiff. In appellant’s brief it is said that the property awarded to the plaintiff is of the value of $23,774.15, against which there is an indebtedness of $18,238.49. Plaintiff is in receipt of a salary of $6,400 a year. From the foregoing, it appears that, aside from the property awarded her by the decree, the defendant had only $500 to $700 at the time of the trial.
+In the defendant’s affidavit in support of her motion for such costs and counsel fees the defendant states that at the time of the trial she had saved “some money that was intended for the education of their son, but . . . she has been required to use said funds for her own existence and also for medical attention and support of their child, as the amount allowed by the court was insufficient; that this defendant has been sick a great deal since the birth of their child and being frail and delicate has not been able to perform any work that will produce an income; . . . that . . . by being very careful as to the actual necessaries she has been able to keep the expenses down to $198 per month on an average; .... that she paid the sum of $10 as a filing fee in the Supreme Court, and that she has become liable for $61.75 as a printer’s fee in printing the transcript on appeal”; and that the cost of printing briefs on appeal will be $60 additional.
+It clearly appears from the foregoing facts that this appeal is wholly without merit. Acceptance of the benefits of the decree by the defendant would have constituted a waiver of her right to appeal. (Storke v. Storke, 132 Cal. 349, 352 [64 Pac. 578]; McCaleb v. McCaleb, 32 Cal. App. 648 [163 Pac. 1045].) According to the facts stated in her affidavit, the $500 to $700 which the plaintiff states she had at the time of the trial must have been practically exhausted at the time of the hearing herein, May 2, 1927, and she was then without means to prosecute her appeal. It appears from such affidavit that her costs of appeal, exclusive of counsel fees, amounted to the sum of $131.75. The remainder left after deducting that sum from the allowance of $300 cannot be said, as a matter of law, to be an unreasonable attorney fee on appeal.
+The appellant contends that “the allowance was beyond the financial ability of the plaintiff to comply with.” It would be an extreme case which would justify an appellate court in holding that the trial court abused its discretion in finding that a party in receipt of a salary of $6,400 a year is financially unable to pay the sum of $300, as provided by the order herein, “the sum of $100 within ten days . . . and the balance of $200 payable within thirty days.” It is deemed sufficient to say that this is not such a case.
+The order is affirmed.
+Thompson (R. L.), J., and Plummer, J., concurred.
