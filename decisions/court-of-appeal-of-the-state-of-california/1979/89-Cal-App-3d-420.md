@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 54635"
+decided: "1979-02-14"
+citations: ["89 Cal. App. 3d 420"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GLORIA RODDE, Plaintiff and Appellant, v. CONTINENTAL INSURANCE COMPANIES et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/89/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2023249
+cites_cases: ["131 Cal.Rptr. 547", "135 Cal.Rptr. 802", "231 Cal.App.2d 837", "233 Cal.App.2d 545", "42 Cal.Rptr. 241", "43 Cal.Rptr. 662", "60 Cal.App.3d 288", "66 Cal.App.3d 101"]
+---
+
+# Rodde v. Continental Insurance
+
+## Majority (ROTH, P. J.)
+
+Opinion
+ROTH, P. J.
+Appellant was the named beneficiaiy under a policy of travel accident insurance issued by one of the respondents to John Bevel as' the insured. On December 23, 1972, Bevel and his companion Pat Dean planned to travel by air from Los Angeles to San Diego. A taxi had been ordered the evening before to meet them at Dean’s apartment the next morning between 8:30 and 9 a.m. When it failed to arrive at the earlier time, Dean called the cab company again at 8:35 and 8:38 and at least one other time around 9. During this period Bevel had stationed himself on the grass parkway next to the curb with the couple’s luggage on a cement walkway to the street. The curb area in front of the apartment was then wholly occupied by parked cars. On a final occasion, Dean returned to her apartment to retrieve a coat and was absent some 45 seconds. When she left, Bevel was still standing on the grass parkway. When she returned, she saw two cabs double parked in front of the building and Bevel on the ground to the right side thereof, some three to five feet from the first of the cabs but not in the street. When she rushed to him she noted blood emanating from his right ear. He was assisted by Robert Cash, driver of one of the cabs, and another man into Dean’s apartment and was taken thence to the hospital where he died from a massive subdural hematoma on December 26, 1972. At the time Dean reached Bevel she was the only person at his side. Cash, who had arrived at 9:40 a.m., did not observe Bevel or anything in connection with Bevel before Dean called his attention to Bevel lying on the ground. Bevel was incoherent after his injury and until his death.
+Following presentation to the court sitting without a jury of the evidence so summarized, appellant rested. Respondents’ motion under Code of Civil Procedure section 631.8 was granted. The appeal is from the judgment in respondents’ favor.
+In its findings of fact the trial court determined:
+“4. The policy of insurance provided for coverage to the insured, John Haskell Bevel, ‘Against loss resulting directly and independently of all other causes from accidental bodily injuries sustained during the term of this policy subject to the coverage clause and all other terms, conditions and limitations herein contained . . . .’
+“The policy further provides under the coverage clause: ‘(a) While boarding, riding in or alighting from as a fare paying passenger, any land or water conveyance while used for transportation and not for any purpose other than transportation, and operated by a carrier licensed to transport passengers.’
+“5. Said policy of insurance does not contain any definition of the word boarding.
+“11. The taxi driven by Robert B. Cash arrived at approximately 9:40 a.m., December 23, 1972, at 434 South Kenmore Avenue, Los Angeles, California and double parked in front of said address. Subsequently, Mr. Cash was paid a cancellation fee of $.60.
+“12. For sometime prior to 9:40 a.m., the deceased stood in front of the premises of 434 South Kenmore, awaiting arrival of a taxi and placing his luggage on the sidewalk in front of the front door at said premises.
+“13. Later deceased was discovered on the ground at a location different from where he was last seen. There was no evidence that anyone saw him arrive at that location. There was no evidence presented to support the claim that he was approaching or in anyway boarding the taxi cab at the time he suffered the subdural hematoma, which was the immediate cause of his death on December 26, 1972. There was no evidence as to the location of the aforementioned taxi cab at the time the deceased suffered the subdural hematoma.”
+It then concluded: “1. After considering and weighing all evidence presented by the plaintiff, the Court finds that plaintiff failed to establish by a preponderance of the evidence, that at the time of the incident giving rise to the injury from which decedent, John Haskell Bevel, ultimately died, decedent was in the act of ‘boarding’ a ‘common carrier so as to give rise to coverage within the terms and conditions of the insurance policy in question.’ ”
+Code of Civil Procedure section 631.8 was enacted for the purpose of substituting the motion for judgment for the nonsuit motion formerly available in nonjury trials and is intended in a proper case to eliminate the necessity, of defense evidence. (Greening v. General Air-Conditioning Corp. (1965) 233 Cal.App.2d 545 [43 Cal.Rptr. 662]; Columbia Engineering Co. v. Joiner (1965) 231 Cal.App.2d 837 [42 Cal.Rptr. 241].) When, as here, the motion is granted, our function is to ascertain whether the trial court’s decision is supported by substantial evidence. (Glendale Fed. Sav. & Loan Assn. v. Marina View Heights Dev. Co. (1976) 66 Cal.App.3d 101 [135 Cal.Rptr. 802]; Newby v. Alto Riviera Apartments (1976) 60 Cal.App.3d 288 [131 Cal.Rptr. 547].) Appellant contends, however, it was incumbent upon the trial court to make a finding regarding the meaning of the term “boarding” which is crucial to the scope of coverage provided by the insurance policy in question. That contention is not well taken. By whatever justifiable manner that term is understood, it does not reach so far as to include within its ambit a case where nothing more is involved than the ordering of a taxi and its proceeding toward the agreed upon site of departure. Here there was nothing to show how Bevel was injured, when he fell or whether the cab had arrived at the apartment prior thereto. Under such circumstances we view as definitive the trial court’s observation that:
+“The Court: Well, as I indicated in the course of some of my questions yesterday and, certainly today, the court feels that the motion is measured at the time of the making, at the conclusion of the plaintiff’s case, and I just feel that the status of the evidence, I have considered it all carefully, I have listend [sz'c] to it carefully, it wasn’t complex, but, I feel, the plaintiff has failed to meet his burden of proof of showing that there was a course of conduct that involved or in any way entailed the boarding of the conveyance of [sic] this case, and, accordingly, I will grant the motion.”
+The judgment is affirmed.
+Fleming, J., and Beach, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied April 12, 1979.
+The statute provides:
+“After a party has completed his presentation of evidence in a trial by the court, the other party, without waiving his right to offer evidence in support of his defense or in rebuttal in the event the motion is not granted, may move for a judgment. The court as trier of the facts shall weigh the evidence and may render a judgment in favor of the moving party, in which case the court shall make findings as provided in Sections 632 and 634 of this code, or may decline to render any judgment until the close of all the evidence. . . . Such motion may also be made and granted as to any cross-complaint.
+“If the motion is granted, unless the court in its order for judgment otherwise specifies, such judgment operates as an adjudication upon the merits.”
