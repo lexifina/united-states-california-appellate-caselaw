@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 363"
+decided: "1911-12-21"
+citations: ["17 Cal. App. 680"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. MANUEL ROMERO, Appellant."]
+source_url: "https://static.case.law/cal-app/17/cases/0680-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4607031
+cites_cases: ["110 Pac. 825", "13 Cal. App. 743", "130 Cal. 449", "17 Cal. 142", "19 Pac. 258", "25 Pac. 266", "62 Pac. 742", "77 Cal. 179", "78 S. W. 557", "80 Am. St. Rep. 141", "87 Cal. 117"]
+---
+
+# People v. Romero
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+The defendant was informed against by the district attorney of Santa Cruz county for the offense of an assault with intent to commit murder. Upon being tried he was convicted of a lesser offense, to wit, an assault with a deadly weapon. Subsequently the court denied a motion for a new trial, and sentenced the defendant to a term of imprisonment in the state prison. This appeal is prosecuted from the order denying defendant’s motion for a new trial and from the judgment.
+The defendant claims that the evidence is insufficient to support the verdict of the jury, and that the court committed prejudicial error by refusing to give certain requested instructions.
+There is no good foundation for the point that the evidence is insufficient. It shows that the defendant and the prosecuting witness had been living together for some time, having assumed toward each other the rights and duties of husband and wife without the previous celebration of any marriage ceremony. Angered by a report 'which reached him that (to use the language of the record) the prosecutrix had been ‘ ‘ chasing around in Santa Cruz with niggers,” the defendant, furious with jealousy and under the influence of intoxicating liquor, accused the prosecutrix of this conduct, attacked her, repeatedly knocking her down, slashed her clothes and struck her with a knife. This was in the forenoon of June 24, 1911. Early in the afternoon of the same day the defendant shot the prosecutrix in the stomach, and it is for this last act that he was prosecuted.
+The defendant did not take the witness-stand, but the prosecutrix testified at the trial that the defendant told her -that he was going to shoot a rabbit, and that while loading his pistol, apparently for that purpose, it was discharged, the bullet finding lodgment in her stomach. This witness had previously, on the occasion of the preliminary examination of the defendant, testified as to the shooting, and had also made a statement under a sense of impending death, at variance with this testimony. Apparently by the time of the trial of the case she had experienced a desire to befriend the defendant, and her testimony given then was inconsistent with her former declarations. Through fear of the defendant, or out of kindness to him, or for some other reason, her testimony at the trial favored her assailant. The question for the jury to decide was whether the shooting was accidental or intentional. They had the right to consider that the defendant was incensed by what he had heard about his paramour, that' he was intoxicated, that he had been quarreling with and cursing and swearing at her. They doubtless concluded that he was speaking with sarcasm, or carrying out a cunning attempt to disguise a premeditated act, when he said he was going to shoot a rabbit. We think that the facts and circumstances of the case warrant the conclusion at which the jury evidently arrived that the shooting was intentional; and we cannot, even if we were so disposed, legally interfere with their verdict. (People v. Saunders, 13 Cal. App. 743, [110 Pac. 825] ; People v. Rushing, 130 Cal. 449, [80 Am. St. Rep. 141, 62 Pac. 742].)
+The court refused to give to the jury the defendant’s proposed instruction defining reasonable doubt. That instruction correctly stated the law, and perhaps it would have been as well to give it in the language asked (People v. Williams, 17 Cal. 142); but as it was substantially given elsewhere in the charge, it cannot be said that error in this regard was committed.
+A more serious question is presented by the court’s action with respect to the following requested instruction: “The defendant is not required to take the witness-stand and testify in his own behalf; it is the duty of the prosecution to show his guilt beyond all reasonable doubt and to a moral certainty; and if they fail so to do, he is entitled to rest his case and ask an acquittal at the hands of the jury.” It is on the italicized portion of the requested instruction that the defendant relies for a reversal of the judgment, the remainder having been given in another part of the charge. The defendant, as before stated, did not offer himself as a witness, and the jury must therefore have understood that he was not required to do so. If this instruction had embraced the statement that no unfavorable inference could be drawn against the defendant because of his failure to testify, a different question would be presented. It may be said further, with regard to this objection, that the record does not show, as required by section 1127, Penal Code, whether this instruction was given or refused, which alone would be a sufficient reason for not considering the objection. (People v. Bemmerly, 87 Cal. 117, [25 Pac. 266]; People v. January, 77 Cal. 179, [19 Pac. 258]; Texas Cotton Prod. Co. v. Denny Bros. (Tex. Civ. App.), 78 S. W. 557.)
+The judgment and order appealed from are affirmed.
+Hall, J., and Lennon, P. J., concurred.
