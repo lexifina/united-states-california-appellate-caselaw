@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 5690"
 decided: "1928-07-10"
-citations: ["93 Cal. App. 126", "93 Cal. App. 795"]
+citations: ["93 Cal. App. 126"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["ROBERT C. SCOTT et al., Appellants, v. J. J. DONAHUE et al., Defendan
 source_url: "https://static.case.law/cal-app/93/cases/0126-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2111931
-cites_cases: ["105 Cal. 219", "105 Cal. 224", "116 Pac. 732", "128 Mich. 38", "130 Cal. 116", "130 N. Y. 232", "133 Pac. 438", "14 L. R. A. 243", "15 L. R. A. (N. S.) 336", "15 L. R. A. 801", "16 N. Y. 112", "160 Cal. 197", "18 S. W. 874", "183 Pac. 297", "191 Cal. 187", "2 L. R. A. 841", "20 L. Ed. 666", "20 Pac. 399", "215 Pac. 673", "219 Pa. 461", "233 Pa. 357", "249 Pac. 539", "269 Pac. 455", "27 A. L. R. 1508", "29 N. E. 139", "38 Pac. 947", "41 Cal. App. 712", "47 L. R. A. (N. S.) 927", "62 Pac. 486", "68 Atl. 1023", "69 Am. Dec. 665", "74 Wash. 314", "78 Cal. 166", "79 Cal. App. 383", "80 Am. St. Rep. 80", "81 Ill. App. 585", "82 Atl. 499", "87 N. W. 66", "88 Conn. 676", "91 Ill. App. 585", "91 Tenn. 303", "92 Atl. 401"]
+cites_cases: ["105 Cal. 219", "105 Cal. 224", "116 Pac. 732", "128 Mich. 38", "130 Cal. 116", "130 N. Y. 232", "133 Pac. 438", "14 L. R. A. 243", "15 L. R. A. (N. S.) 336", "15 L. R. A. 801", "16 N. Y. 112", "160 Cal. 197", "18 S. W. 874", "183 Pac. 297", "191 Cal. 187", "2 L. R. A. 841", "20 L. Ed. 666", "20 Pac. 399", "215 Pac. 673", "219 Pa. 461", "233 Pa. 357", "249 Pac. 539", "27 A. L. R. 1508", "29 N. E. 139", "38 Pac. 947", "41 Cal. App. 712", "47 L. R. A. (N. S.) 927", "62 Pac. 486", "68 Atl. 1023", "69 Am. Dec. 665", "74 Wash. 314", "78 Cal. 166", "79 Cal. App. 383", "80 Am. St. Rep. 80", "81 Ill. App. 585", "82 Atl. 499", "87 N. W. 66", "88 Conn. 676", "91 Ill. App. 585", "91 Tenn. 303", "92 Atl. 401"]
 ---
 
 # Scott v. Donahue
