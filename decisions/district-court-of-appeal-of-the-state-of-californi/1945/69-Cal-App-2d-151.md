@@ -1,0 +1,44 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3157"
+decided: "1945-05-09"
+citations: ["69 Cal. App. 2d 151"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HERMAN C. ENGEBRECHT, Respondent, v. J. W. SHELTON et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/69/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4596908
+cites_cases: ["116 P.2d 465", "139 Cal.App. 62", "150 Cal. 21", "155 P. 2d 659", "187 Cal. 610", "203 P. 102", "33 P.2d 71", "46 Cal.App.2d 580", "67 Cal.App.2d 872", "87 P. 1029"]
+---
+
+# Engebrecht v. Shelton
+
+## Majority (MARKS, J.)
+
+MARKS, J.
+This is an appeal from a judgment reforming a promissory note and deed of trust.
+Plaintiff was the owner of real property in Fresno which was leased to defendants for a term of ten years from June, 1938, at a monthly rental of $25 for 'the first five years and $30 per month thereafter.
+Negotiations for the sale of the property to defendants were started which resulted in a sale for $10,000, payable $50 cash, and the balance in instalments., Deferred payments were secured by a deed of trust on the property.
+Plaintiff testified that the note and deed of trust were prepared by a real estate agent engaged by defendant, J. W. Shelton. The note as prepared and executed contained the following:
+“In installments as herein stated for value received, WE, . . . Promise to pay to HERMAN C. ENGEBRECHT, . . . NINE THOUSAND NINE HUNDRED FIFTY and NO/100 DOLLARS with interest from date on unpaid principal at the rate of five (5%) per cent per annum; principal and interest payable in installments of — THIRTY-FIVE and NO/100 ($35.00) DOLLARS or more on the fifteenth of each and every month, beginning on the fifteenth of April, 1940, and continuing until said principal and interest have been paid. Each payment shall be credited first, on interest then due; and the. remainder on principal; and interest shall thereupon cease upon the principal so credited. ...”
+Plaintiff testified, and the trial court found in exact accordance with his evidence, that the parties mutually agreed that defendants would pay plaintiff ‘ ‘ $10,000.00 for said property in the following manner: $50.00 in cash, the sum of $35.00 per month, payable in monthly installments, interest on deferred payments at the rate of five per cent per annum, payable annually, ...” There is the further finding that the note containing the provisions already quoted was executed through “mutual omission, inadvertence, and mistake of the parties”; that plaintiff did not discover the mistake until February, 1944.
+Defendants made the down payment and the instalments of $35 per month until this action was instituted, but declined to pay more for various reasons though requested to do so by plaintiff.
+Besides the testimony of plaintiff there is strong evidence of mutual mistake in the note itself. It contains the direct promise of defendants to pay plaintiff $9,950. Under the method of payment set forth, that sum would never be paid except by the voluntary acts of defendants as the $35 per month was not sufficient to pay the interest as it accrued. At the time of the judgment there was $10,314.60, principal and accrued interest unpaid. Under these circumstances the trial court was fully justified in concluding that the note as executed was the result of the mutual mistake of the parties and did not conform to their agreement. Thus a reformation of the note to conform to that agreement would have been proper. This is especially true as the note itself contained conflicting and repugnant provisions. Civ. Code, § 3399; Strauss v. Bruce, 139 Cal.App. 62 [33 P.2d 71]; Tieso v. Tieso, 67 Cal.App.2d 872 [155 P. 2d 659].)
+The trial court drew the conclusion of law that because of the mutual mistake of the parties the promissory note and the copy thereof in the deed of trust should be reformed so that the note and copy would read in part as follows :
+“$10,314.60 Fresno, California, October 9, 1944.
+“In installments as herein stated, for value received, We, J. W. SHELTON and ELODA SHELTON, husband and wife, jointly and severally Promise to pay to HERMAN C ENGEBRECHT, a single man, or order, at Fresno, California, the principal sum of TEN THOUSAND THREE HUNDRED FOURTEEN and 60/100—DOLLARS, with interest from date on unpaid principal at the rate of five (5%) per cent per annum; principal and interest payable in installments of FORTY-TWO and 95/100 ($42.95) DOLLARS or more on the 9th day of each and every month, beginning on the 9th day of November, 1944, and continuing until the 9th day of November, 1950, when the entire balance shall become due and paid. Each payment shall be credited first, on interest then due; and the remainder on principal; and interest shall thereupon cease upon the principal so credited. . .
+By the judgment the promissory note and the copy in the deed of trust were reformed in the language just quoted from the conclusions of law.
+It is apparent that the conclusions of law and the judgment are not supported by the evidence or by the findings of fact but conflict with both. As the evidence of plaintiff and the findings of fact already quoted are clear on the terms of the. agreement between the parties, we need not reverse the judgment but may modify it and the conclusions of law to conform to the findings of fact.
+Plaintiff seeks to support the judgment in its present form by arguing that as the note as executed fixed no time for the payment of the principal, the trial court was empowered to fix a reasonable time for performance under the provisions of section 1657 of the Civil Code. While this may be true of the written note, that instrument was executed by mutual mistake and should have been reformed in accordance with the intention and agreement of the parties as found by the trial court. Under this agreement $35 per month was to be paid on the principal which would ultimately pay it. Thus under the agreement of the parties defendants would pay the principal debt in a considerable number of years so the time of performance of the obligation of the contract was fixed by the parties and will be fixed by the note as reformed.
+Defendants urge that the cause of action was barred by the statute of limitations.
+The note and deed of trust were dated March 9,1940. They were recorded and plaintiff had them in his possession for several years before the action was instituted on June 23,1944.
+Plaintiff testified, and the trial court found, that he discovered the mistake in February, 1944. As was said in Tieso v. Tieso, supra-.
+“Whether the failure to discover a mistake in a written document is inexcusable negligence so as to bar a party from the right to reformation is a question of fact for the trial court. ‘It has been frequently decided that the mere failure of a party to read an instrument with sufficient attention to perceive an error or defect in its contents will not prevent its reformation at the instance of the party who executes it carelessly.’ (California Packing Corp. v. Larsen, 187 Cal. 610, 614 [203 P. 102]; Los Angeles & R. R. Co. v. New Liverpool S. Co., 150 Cal. 21, 27 [87 P. 1029]; Hanlon v. Western Loan & Bldg. Co., 46 Cal.App.2d 580, 597-8 [116 P.2d 465].)”
+The conclusions of law and the judgment are modified by striking from each the copy of the promissory note set forth in each of them and in lieu thereof inserting the following in each instrument:
+‘‘$9950.00 Fresno, California, March 9, 1940.
+‘‘In instalments as herein stated, for value received, we jointly and severally promise to pay to Herman C. Engebrecht, or order, at Fresno, California, Nine Thousand Nine Hundred Fifty and no/100 Dollars with interest from date on unpaid principal at the rate of five (5%) per cent per annum, payable annually. Principal payable in instalments of $35.00 or more per month, beginning on the 9th day of April, 1940, and monthly thereafter on the 9th day of each and every succeeding month until fully paid. Should default be made in the payment of any instalment of principal or interest when due, the whole sum of principal and interest shall become immediately due and payable at the option of the holder of this note. Principal and interest payable in lawful money of the United States. If suit or action be instituted in any court to collect any sum due and unpaid on this note, we promise to pay such sum as the court may adjudge reasonable as attorney’s fees in said suit or action. This note is secured by a deed of trust to Home Title Company, a corporation.
+J. W. Shelton Eloda Shelton.”
+As so modified, the judgment is affirmed. Neither party will recover costs of appeal.
+Barnard, P. J., and Griffin, J., concurred.
