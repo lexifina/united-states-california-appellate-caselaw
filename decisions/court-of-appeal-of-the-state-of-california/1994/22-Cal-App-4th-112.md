@@ -1,0 +1,38 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "G014877"
+decided: "1994-01-31"
+citations: ["22 Cal. App. 4th 112"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sills, P. J., and Sonenshine, J., concurred."]
+parties: ["RICHARD OVERTON, Petitioner, v. THE SUPERIOR COURT OF ORANGE COUNTY, Respondent; THE PEOPLE, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-4th/22/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4547195
+cites_cases: ["137 Cal.Rptr. 460", "19 Cal.3d 182", "209 Cal.App.3d 1547", "233 Cal.App.3d 572", "258 Cal.Rptr. 75", "284 Cal.Rptr. 495", "561 P.2d 1148"]
+---
+
+# Overton v. Superior Court of Orange County
+
+## Majority (WALLIN, J.)
+
+Opinion
+WALLIN, J.
+—Richard Overton petitions for a writ of mandate compelling Superior Court Judge David O. Carter to disqualify himself from further proceedings in Overton’s pending murder case, contending disqualification was mandatory under Code of Civil Procedure section 170.6. We grant the petition.
+In July 1993 we issued a writ of mandate compelling the trial court to declare a mistrial in Overton’s case and relieve original trial counsel. We found the need to relieve counsel was caused by the conflict which arose when Overton and his counsel traded accusations involving tampering with evidence. During the proceedings on the conflict issue, the trial judge, who is the subject of this proceeding, mentioned the possibility he might take Overton into custody, but he never did so.
+Overton sought the writ of mandate after the judge had gone to exceptional lengths to “save” the trial, holding 20 in camera hearings on the status of Overton’s trial counsel, who had been disabled and hospitalized with severe depression. The judge expressed much concern about the tremendous costs a new trial would occasion. We ordered the court to declare the mistrial based upon the extraordinary delay of more than six months between the presentation of the prosecution case and the defense case, which was occasioned by counsel’s illness.
+After the remittitur issued, Overton’s new counsel filed a peremptory challenge to the trial judge pursuant to section 170.6. The judge refused to disqualify himself, ruling the motion was untimely. Overton had prepared a motion to disqualify the court for actual prejudice, but opted not to file it pending resolution of the section 170.6 motion.
+Section 170.6, subdivision (2) provides in relevant part that “. . . a motion [to peremptorily disqualify the trial judge] may be made following reversal on appeal of a trial court’s decision if the trial judge in the prior proceeding is assigned to conduct a new trial on the matter. The motion shall be made within 60 days after the party or the party’s attorney has been notified of the assignment.” (Italics added.) The trial judge did not dispute the challenge would have been timely had the case been returned after an appeal, but found the language did not cover challenges made after remittitur from a writ proceeding.
+The purpose for allowing a challenge after a case has been returned to the trial court following a successful appeal was explained in Stegs Investments v. Superior Court (1991) 233 Cal.App.3d 572 [284 Cal.Rptr. 495]: “The concern expressed by the proponents of the 1985 amendment was that a judge who had been reversed might prove to be biased against the party who successfully appealed the judge’s erroneous ruling at the original trial. The amendment was ‘intended to permit a party to challenge a judge who had been assigned to conduct the “new trial” of the case in which his or her decision was reversed on appeal. The term “new trial” is intended to cover situations where the case is to be re-tried and not merely remanded with instructions to perform some specific task (e.g., recalculate interest).’ ” (Id. at pp. 575-576; see also People v. Gulbrandsen (1989) 209 Cal.App.3d 1547, 1562 [258 Cal.Rptr. 75].)
+Although we have found no case on point, the concern that a trial judge might be biased against a party who succeeds in obtaining a new trial is obviously just as substantial in a writ proceeding as it is in an appeal. Here, the trial judge initially indicated that if a dispute over the interpretation of section 170.6 or a challenge for cause forced a delay in the proceedings, he would automatically recuse himself. But he also said that based on counsel’s expressed concern over “ ‘preconceived opinions about Overton from the earlier trial,’ ” he intended to respond to any challenge for cause. Ultimately, he refused to accept the peremptory challenge, even though the district attorney did not oppose it. Our interpretation of section 170.6 eliminates such dynamics. A defendant is entitled to timely demand a new judge if a new trial is granted as part of writ relief.
+In his informal reply to Overton’s petition on behalf of the superior court, the trial judge indicated he had been told by another superior court judge that the legislation providing for the postappeal challenge had been amended expressly to delete any reference to writ proceedings. Based on this assertion, we obtained the legislative history of the legislation and perused it. It contains no support for the trial judge’s contention.
+We are aware of concerns about possible abuses which might arise from unbridled exercises of peremptory judicial challenges. (See, e.g., Solberg v. Superior Court (1977) 19 Cal.3d 182, 193-198 [137 Cal.Rptr. 460, 561 P.2d 1148] [declining to hold the statute unconstitutional as applied].) However, new trials granted as the result of a writ proceeding are an exceedingly rare species, seen only slightly more often than the passenger pigeon. No mischief will arise from construing the term “appeal” to include writ proceedings resulting in a new trial, and extending to litigants who obtain reversals in those proceedings the same protection afforded successful appellants.
+Let a peremptory writ of mandate issue compelling Judge David O. Carter to accept Overton’s challenge and recuse himself from all further proceedings in People of the State of California, Plaintiff, v. Richard K. Overton, Defendant (Super. Ct. Orange County, No. C-87988). The alternative writ is discharged and the stay is dissolved. To avoid further delays, this opinion will be final 15 days from the date it is filed. (Cal. Rules of Court, rule 24(d).)
+Sills, P. J., and Sonenshine, J., concurred.
+All statutory references are to the Code of Civil Procedure unless otherwise stated.
+No determination was ever made as to the truth of any of these allegations.
+Overton’s concern was apparently that the trial court might be upset with him, believing he was at least partially responsible for the mistrial and delay in the proceedings.
+The district attorney’s position throughout this proceeding understandably has been that it is satisfied with any resolution which expedites retrial of this matter. He has not disputed our interpretation of section 170.6.
+The extraordinary circumstances of this case are demonstrative. Defense counsel suffered from severe clinical depression. He and the defendant traded allegations of evidence tampering. The court recessed the trial for six months prior to the defense case to deal with these matters. As we stressed in our prior opinion, all evidence suggested the trial court and the parties acted in complete good faith. Nevertheless, the unique circumstances of the case demanded a new trial despite the trial court’s substantial efforts to avoid one.
