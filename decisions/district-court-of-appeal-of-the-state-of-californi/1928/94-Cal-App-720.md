@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6441"
+decided: "1928-11-09"
+citations: ["94 Cal. App. 720"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. F. TRIPP, Appellant, v. THE BOARD OF FIRE AND POLICE PENSION COMMISSIONERS OF THE CITY OF FRESNO, etc., et al., Respondents."]
+source_url: "https://static.case.law/cal-app/94/cases/0720-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2140021
+cites_cases: ["184 S. W. 929", "192 Mo. App. 583"]
+---
+
+# Tripp v. Board of Fire & Police Pension Commissioners
+
+## Majority (KOFORD, P. J.)
+
+KOFORD, P. J.
+Appellant prosecuted this proceeding in the superior court for a writ of mandamus compelling respondents to allow and pay appellant a pension as a disabled fireman of the city of Fresno. The petition alleged that appellant had been a regular member of the fire department from 1918 to 1927; that under the terms of the city charter and ordinance passed in pursuance of said charter appellant was entitled to a pension because his duties as a fireman exposed him to smallpox in the neighborhood of the firehouse to which he was assigned in 1924, and exposed him to influenza in 1925, and again in 1927, both of which diseases he contracted and by reason of having contracted said diseases appellant was rendered physically unable to discharge his duties as fireman. At the trial in the superior court appellant also testified that while fighting a fire in 1926 he • injured his foot, which resulted in a serious infection. Upon objection being made that this was outside the pleadings, appellant’s counsel stated:
+“Hr. G-allaher: I ask at this time to amend by inserting in connection with the paragraph that recites infection from smallpox and influenza, also an injury received to the left foot which resulted in an infection.” The court stated: “Very well, you may amend.” No actual written amendment was made, filed, or presented.
+The superior court made its findings and judgment in favor of respondents, specifically finding following the language of the petition that the influenza and smallpox attacks which appellant had suffered were not contracted by him in the performance of his duties as fireman. The court also found in finding No. VI:
+“The court further finds that plaintiff’s physical disability was not caused by reason of any bodily injury received in, or by any sickness caused by, or the result of any bodily injury received in, or the result of any sickness caused by, the discharge of the duties of plaintiff as a member of the Fire Department of the City of Fresno.”
+Appellant claims the court erred in not making a finding concerning the foot infection above referred to. We see no merit in this contention. If it be conceded that the court was obliged to make a finding on an amendment that was never actually prepared and filed, still the court could not be expected to be more specific than the amendment itself. Finding No. VI, however, is broad enough to cover the matter if incorporated in the petition by amendment and finds upon the material and ultimate facts thus alleged.
+Appellant apparently recognizes as binding on us the findings and decision of the court to the effect that appellant’s disability was not caused by or in the performance of his duties as a fireman. The testimony showed his disability was caused by a hypertrophic attack of arthritis of the spine, and while the cause of this was a matter of some conflict in the testimony of the expert witnesses, the court evidently took the view that it was caused by focal infection of the teeth or tonsils or by causes having no relation to or bearing upon his occupation or duties as fireman.
+Appellant upon this appeal contends that under the provisions o£ the city charter the pension should be forthcoming because it is undeniable from the evidence that his disability occurred if not by reason of his employment, nevertheless, while or during the period of time he was in such employment. Section 3 of the city ordinance, which is alleged and relied on in the petition of the appellant, provides a pension for any fireman who “shall become physically disabled by reason of bodily injuries received in, or by reason of sickness caused by, the discharge of the duties of such person,” etc. It is claimed that this ordinance illegally restricts and limits the provisions of the city charter under which it was enacted; that the ordinance should not say “received in or caused by the discharge of duties” when the charter says “disabled or become superannuated in the service of the city.” Section 26 of the Fresno charter provides:
+11 The City Commission shall by ordinance, provide for and establish a fund or funds for the relief and pensioning of members of the Police and Fire Departments who have been disabled or become superannuated in the service of the city, and shall provide for the administration of such fund or funds.”
+It is pointed out that section 2 of the same ordinance provides old-age pensions under the authority of this same charter provision after twenty, twenty-five, and thirty years’ service, respectively, in the department, without providing that such superannuation shall be caused by such service.
+We do not see the same inconsistency in this that appellant professes to see. The language in the charter must be interpreted in its ordinary meaning and in accordance with the legislative intention. (Black on Interpretation of Laws, chap. V.) The contention is for an interpretation which would entitle a fireman of one day’s service to be retired upon a pension for permanent disability caused by sickness having no relation whatever to his employment, because disabled or superannuated while in the service. Such a radical departure from ordinary pensioning laws is not to be assumed to be the legislative intent without direct language to that effect. “Disabled in the service of the city” is properly understood to mean “disabled by reason of bodily injuries received in, or by reason of sickness caused by the discharge of the duties of such person. ’ ’ ‘1 Superannuated in the service of the city” is properly understood to include the age one acquires during his daily off duty periods as well as his hours of labor.
+In State v. Board of Trustees, 192 Mo. App. 583 [184 S. W. 929], the expression “while in such service” was held not to mean “while a member of the fire department,” so that where a fireman was killed while off duty his widow was not entitled to a pension under similar laws.
+The appellant, having failed to prove a case within the terms of the ordinance pleaded, was properly denied the writ.
+The judgment is affirmed.
+Sturtevant, J., and Nourse, J., concurred.
