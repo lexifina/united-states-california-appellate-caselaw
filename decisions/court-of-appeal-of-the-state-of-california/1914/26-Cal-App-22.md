@@ -1,0 +1,30 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 560"
+decided: "1914-11-23"
+citations: ["26 Cal. App. 22"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In Re ARTHUR CRANE on Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/26/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 332733
+---
+
+# In re Crane
+
+## Majority (THE COURT.)
+
+THE COURT.
+The court is prepared to render its decision from notes made at the argument.
+In this proceeding the petitioner seeks by habeas corpus to be released from the custody of the chief of police of the city and county of San Francisco, who held and confined the petitioner in the city prison under a warrant of arres't which was issued out of the police court of said city and county upon a complaint which charged the petitioner with the commission of a misdemeanor in this, that he had violated the provisions of section 1 of an act entitled “An act providing for the time of payment of wages.” The provisions of the act in question are as follows:
+Section 1. Whenever an employer discharges an employee, the wages earned and unpaid at the time of such discharge shall become due and payable immediately. When any such employee not having a contract for a definite period quits or resigns his employment the wages earned and unpaid at the time of such quitting or resignation shall become due and payable five days thereafter.
+“Section 2. All wages other than those mentioned in section 1 of this act earned by any pérson during any one month shall become due and payable at least once in each month and no person, firm or corporation for whom such labor has been performed, shall withhold from any such employee any wages so earned or unpaid for a longer period than fifteen days after such wages become due and payable; provided, however, that nothing herein shall in any way limit or interfere with the right of such employed to accept from any such person, firm or corporation wages earned and unpaid for a shorter period than one month.
+“Section 3. Any person, firm or corporation who shall violate any of the provisions of this act shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine not to exceed five hundred dollars.
+“Section 4. None of the provisions of this act shall apply to any county, city and county, incorporated city or town, or other municipal corporation.” (Stats. 1911, pp. 1268-9.)
+It is the contention of the petitioner that the act above quoted is unconstitutional in this, that it in effect permits an imprisonment on mesne process for debt; and that, therefore, his arrest and detention by the respondent pending a hearing of the charge in the police court is illegal.
+In our opinion this contention is sound and must be sustained. Section 15 of article I of our state constitution provides in part that “No person shall be imprisoned for debt in any civil action on mesne or final process, unless in cases of fraud ...” By this constitutional provision the right of a creditor to control and confine the person of his debtor by the process of arrest, which the law, at one time, gave the creditor for the enforcement of his debt, has been abolished, and happily, is prohibited in this state, save and except that the body of a debtor may be seized and confined in cases where it is made to appear that the indebtedness was fraudulently contracted, or that there has been an attempted fraudulent disposition of the property of the debtor with the intent to delay or defeat the payment of the debt.
+In the exceptional cases noted it will be observed that fraud must exist before a debtor may be subjected to arrest and imprisonment, and that in such cases the arrest and imprisonment permitted by various statutes do not fall within the inhibition of the constitution, for the obvious reason that the penalty prescribed is not for or on account of the failure to pay the creditor’s demand, but solely because of the fraud alleged to have been committed in the creation of the debt or in a subsequent attempt to delay or defeat its satisfaction, by a transfer, removal or concealment of the property of the debtor.
+It will be noted that the statute in controversy does not involve the element of fraud as an essential of the offense defined therein. True, the statute does not provide imprisonment as the penalty for the failure of an employer to pay a debt due to his employee. The statute, however, is silent as to the process by which the magistrate before whom complaint is made of an alleged violation of the statute may obtain jurisdiction of the person of the offender. In the case at bar jurisdiction was" attempted to be obtained by a resort to the provisions of sections 812 and 813 of the Penal Code, which authorize the issuance of a warrant of arrest when the magistrate is satisfied from the deposition presented to him that the offense complained of has been committed and that there is reasonable ground to believe that the party charged has committed it. By this process and under our system of procedure a defendant unable to give bail is jailed and restrained of his liberty until such time as a hearing can be conveniently had of the charge made against him. It will thus be seen that the statute in'controversy was attempted to be enforced by the issuance and execution of a mesne process which, in the case at bar, resulted in the temporary imprisonment of the petitioner and the cause of his imprisonment is to be found primarily in the fact that he is unwilling or, perchance, unable to discharge a debt which was not conceived or contracted in fraud of his creditor. To this extent the arrest of the petitioner necessarily is in conflict with the fundamental law of the state, and therefore illegal.
+For the reasons stated, it is ordered that the petitioner be and he is hereby discharged from the custody of the respondent.
