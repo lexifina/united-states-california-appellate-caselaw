@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Crim. No. 1394"
 decided: "1927-12-07"
-citations: ["87 Cal. App. 313", "87 Cal. App. 793", "87 Cal. App. 794"]
+citations: ["87 Cal. App. 313"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["THE PEOPLE, Respondent, v. FRANK COSTELLO, Appellant."]
 source_url: "https://static.case.law/cal-app/87/cases/0313-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2098844
-cites_cases: ["242 Pac. 84", "262 Pac. 75", "75 Cal. App. 138"]
+cites_cases: ["242 Pac. 84", "75 Cal. App. 138"]
 ---
 
 # People v. Costello
