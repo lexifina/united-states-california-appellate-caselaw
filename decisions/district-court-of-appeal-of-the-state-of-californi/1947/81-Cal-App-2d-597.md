@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13453"
+decided: "1947-09-26"
+citations: ["81 Cal. App. 2d 597"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JULIA CHRISTIANA, Respondent, v. LOUIS RATTARO, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/81/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038990
+cites_cases: ["1 P.2d 458", "115 Cal.App. 283", "120 Cal. App. 371", "129 P.2d 499", "138 P. 712", "167 Cal. 126", "171 P.2d 85", "22 Cal.App.2d 387", "41 Cal. 363", "54 Cal.App.2d 704", "70 P.2d 909", "71 P.2d 298", "75 Cal.App.2d 249", "8 P.2d 220", "9 Cal.2d 279"]
+---
+
+# Christiana v. Rattaro
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+The mother of an eight-year-old boy sued for damages for his wrongful death. The jury returned a verdict for $10,448.96. The defendant appealed from the judgment and from the order denying the motion for a new trial.
+The defendant was engaged in the produce business and was in the habit of allowing small boys to assist him in unloading watermelons from freight cars, compensating them with cracked melons, ice cream and occasionally small sums of money. On the day of the accident defendant was taking deceased and four other small boys to his place of business to help him unload melons. The defendant drove his truck along a street lined with trees, from which an overhanging branch struck the boy on the head, causing injuries from which he died. There is no contention that defendant did not know the danger of the overhanging branches of the trees, that he did not know the habit of the boys to stand in the body of the truck, and climb up on the projections on the side of the truck, that he could not have taken the smaller boys into the cab of the truck, or that he could not have driven closer to the middle of the street free from the overhanging trees.
+On his appeal from the judgment the appellant urges that the trial court erred in denying his motions for a nonsuit and for a directed verdict. If the judgment is affirmed these motions fall with it. Five grounds of attack are made upon the judgment, which we will take in order.
+1. It is argued that deceased was a guest within the meaning of section 403 of the Vehicle Code. The point rests on a conflict of the evidence—whether the original purpose of the trip was to take the boys to the location where they could help appellant unload the melons, or whether it was a ride for fun only. The jury believed the evidence supporting the first purpose and this brings the case within the rule of McCann v. Hoffman, 9 Cal.2d 279, 286 [70 P.2d 909] and Yates v. J. H. Krumlinde & Co., 22 Cal.App.2d 387, 390 [71 P.2d 298], Particularly applicable is that portion of the McCann opinion holding that the rider became a passenger when he (p. 283) “accepted the ride at the behest of the driver to assist the latter in arriving at his destination or fulfilling the object of the journey.”
+2. Whether the jury was justified in finding appellant negligent. There is no need of reciting the evidence heretofore given. It was for the jury to determine whether a reasonable man would drive his open truck under the dangerous overhanging trees, knowing the habit of the boys to play and climb on the sides of the truck.
+3. Was the deceased guilty of negligence as a matter of law? The answer is found in Barrett v. Harman, 115 Cal.App. 283, 286 [1 P.2d 458], where the court said: “There is no precise age at which as a matter of law a child is to be held accountable for his actions to the same extent as one of full age, and the question as to the capacity of a child at a particular time to exercise care to avoid a particular danger is one of fact for the jury (Cahill v. E. B. & A. L. Stone Co., 167 Cal. 126 [138 P. 712]).”
+4. That deceased’s mother was guilty of contributory negligence in not providing continuous supervision over the boy. Appellant cites De Nardi v. Palanca, 120 Cal. App. 371 [8 P.2d 220]. The case is not helpful. It recognizes the accepted rule that a parent may be guilty of contributory negligence in not giving proper supervision over a child, but reiterates the rule that it is a question of fact for the jury to decide whether such lack of supervision was negligence under all the circumstances. Springer v. Sodestrom, 54 Cal.App.2d 704 [129 P.2d 499], also cited by appellant, follows the same rule. We find no authority holding that a reviewing court may weigh the evidence where, as here, the circumstances were sufficient to support a finding either way.
+Finally it is argued that the damages awarded were excessive. The jury awarded the respondent $10,448.96. The child was eight years old at the time of his death. The mother was divorced and working for her support. Though the child may have been a financial burden to the mother at the time of his death, the value of his services iu expectancy, and the loss of companionship were questions for the jury to determine. When the question of excessive verdict is raised the function of the reviewing court is to determine whether the size of the verdict reflects passion or prejudice on the part of the jury. In the early case of Wilson v. Fitch, 41 Cal. 363, 386, the Supreme Court said: “The Court Will not interfere in such cases unless the amount awarded is so grossly excessive as to shock the moral sense, and raise a reasonable presumption that the jury was under the influence of passion or prejudice. In this case, whilst the sum awarded appears to be much larger than the facts demanded, the amount cannot be said to be so grossly excessive as to be reasonably imputed only to passion or prejudice in the jury. In such cases there is no accurate standard by Which to compute the injury, and the jury must, necessarily, be left to the exercise of a wide discretion; to be restricted by the Court only when the sum awardéd is so large that the verdict shocks the moral sense, and raises a presumption that it must have proceeded from passion or prejudice.”
+This rule has been followed without exception. See 8 Cal.Jur., p. 837; McChristian v. Popkin, 75 Cal.App.2d 249, 263 [171 P.2d 85].
+Judgment affirmed.
+Goodell, J., and Pooling, J., concurred.
