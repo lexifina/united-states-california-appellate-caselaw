@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2696"
+decided: "1935-03-22"
+citations: ["5 Cal. App. 2d 436"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of OSCAR SALKIN for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-2d/5/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179130
+cites_cases: ["117 Pac. 447", "140 Cal. 1", "154 Cal. 540", "160 Cal. 378", "73 Pac. 597", "98 Pac. 391"]
+---
+
+# In re Salkin
+
+## Majority (THE COURT.)
+
+THE COURT.
+The question submitted to this court for its determination herein is whether imprisonment of petitioner in the county jail of the county of Los Angeles for a longer period than one year is legal, where it appears that such imprisonment has resulted from an order made by the trial court by reason of its adjudication of the guilt of petitioner in a contempt proceeding to the effect that, because of the continued neglect and refusal of petitioner to comply with a former judgment made by said court in an action wherein petitioner was ordered to divide equally between himself and the plaintiff in said action all community property of the parties to said action which was in the possession of the petitioner, he be confined in the county jail of the county of Los Angeles “until he shall have complied with said judgment, ...”
+It will thus be noted that petitioner was not committed for any fixed period of time as punishment for the commission of the contempt of court of which he was guilty, but that his authorized imprisonment therefor was only as long as he continued in his disregard and refusal to obey the order of the court. In other words, by virtue of his own future conduct in the premises, either in failing to comply, or in complying, with the judgment of the court, his term of imprisonment began and ended.
+As far as is pertinent to this inquiry, section 19a of the Penal Code provides that “in no ease shall any person sentenced to confinement in a county or city jail on conviction of misdemeanor, or as a condition of probation, or for any reason, be committed for a period in excess of one year.
+J?
+On the other hand, the power of the court in the premises is attested by the ruling in the case of Burns v. Superior Court, 140 Cal. 1 [73 Pac. 597], wherein it was held that, aside from statutory authority therefor, a court of general jurisdiction has inherent power to punish for contempt persons who obstruct or interfere with its authority; and in Ex parte Joutsen, 154 Cal. 540 [98 Pac. 391], it was ruled that (syllabus) : “Under section 1219 of the Code of Civil Procedure, a husband who is found by the court to have the present ability to comply with an order directing him to pay alimony, may be ordered to be imprisoned until he has complied with it.”
+On casual consideration of section 19a of the Penal Code, its language might seem sufficiently comprehensive to embrace an imprisonment which might arise from a commitment issued in a proceeding on an adjudication of contempt of court. But in view of the provisions of section 11 of the same code, to the effect that “this code does not affect any power conferred by law upon . . . any tribunal to impose or inflict punishment for a contempt, ... ” it becomes manifest that the legislative intent in the use of the broad language employed in section 19a at least is subject to conditions contained within, and made a part of, the commitment, by virtue of which the term of imprisonment to be served by the contemnor either depends, or may depend, upon the will or the future conduct of the contemnor in acceding to, or in complying with, such attached conditions. It is obvious that before one may become entitled to the benefit of the provisions of section 19a of the Penal Code, it must appear that theretofore he was “sentenced to confinement in a county or city jail”, etc. Strictly speaking, petitioner never was so sentenced. In effect, the order was that “until he shall have complied with said (former) judgment”, etc., he be confined in the county jail. In terms, other than a provision for a conditional incarceration, there was no sentence. The order for the confinement of petitioner became operative or effective only upon petitioner’s own choosing; and by the same means, such confinement was to be terminated. But by numerous decisions cited in volume 5 of California Jurisprudence, at page 931, in substance it has been held that where a fine has been imposed as punishment for a contempt, the court has power to enforce the payment of such fine by imprisonment until the fine be paid, notwithstanding the fact that such term of imprisonment may exceed the statutory limit of five days. Likewise, in the case of Ex parte Karlson, 160 Cal. 378 [117 Pac. 447, Ann. Cas. 1912D, 1334], wherein the situation was analogous to that here presented, it was ruled that:
+“Section 1205 of the Penal Code, providing that imprisonment as a means of enforcing the payment of a fine shall not ‘ extend in any case beyond the term for which the defendant might be sentenced to imprisonment for the offense of which he has been convicted’, has no application to cases of contempt, because section 11 of that code expressly declares that ‘this code does not affect any power conferred by law upon any . . . tribunal, or officer, to impose or inflict punishment for a contempt’.”
+It is ordered that the writ heretofore issued herein be and it is discharged; furthermore, that petitioner be and he is remanded to the custody of the sheriff of Los Angeles County.
