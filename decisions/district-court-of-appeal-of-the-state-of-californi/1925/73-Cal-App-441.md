@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 4799"
 decided: "1925-06-29"
-citations: ["73 Cal. App. 441", "73 Cal. App. 455"]
+citations: ["73 Cal. App. 441"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["KATE COLVER et al., Appellants, v. W. B. SCARBOROUGH COMPANY (a Corpo
 source_url: "https://static.case.law/cal-app/73/cases/0441-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2202270
-cites_cases: ["105 Ala. 305", "107 Ga. 139", "107 Pa. 348", "11 Pac. 820", "111 Cal. 378", "111 Cal. 386", "124 Cal. 561", "127 Cal. 355", "13 Pac. 687", "137 Cal. 614", "137 Pac. 234", "14 Cal. 49", "14 Pick. (Mass.) 408", "159 Pac. 213", "16 South. 894", "163 Pac. 214", "166 Cal. 501", "174 Cal. 377", "174 Pac. 404", "180 Cal. 231", "180 Pac. 533", "21 Cal. 59", "225 Pac. 770", "23 Cal. 226", "23 Iowa, 453", "23 S. E. 685", "25 Am. Dec. 411", "26 Cal. 581", "28 Am. St. Rep. 149", "29 Mo. App. 167", "29 Pac. 1025", "3 Cal. 364", "30 Cal. App. 575", "32 S. E. 835", "36 Atl. 131", "37 Cal. 223", "37 Cal. App. 668", "41 W. Va. 191", "43 Pac. 1109", "43 Pac. 1111", "5 Ala. 424", "51 Cal. 309", "51 Cal. 552", "52 Am. St. Rep. 192", "52 Neb. 649", "57 Pac. 482", "58 Am. Dec. 414", "59 Pac. 791", "6 Cal. 47", "6 Cal. 52", "65 Am. Dec. 475", "66 Cal. App. 196", "7 Wis. 334", "70 Cal. 296", "70 Pac. 738", "71 Am. St. Rep. 99", "72 Cal. 259", "72 N. W. 1049", "73 Am. Dec. 610", "83 Am. Dec. 111", "89 Me. 226", "94 Cal. 588"]
+cites_cases: ["105 Ala. 305", "107 Ga. 139", "107 Pa. 348", "11 Pac. 820", "111 Cal. 378", "127 Cal. 355", "13 Pac. 687", "137 Cal. 614", "137 Pac. 234", "14 Cal. 49", "14 Pick. (Mass.) 408", "159 Pac. 213", "16 South. 894", "163 Pac. 214", "166 Cal. 501", "174 Cal. 377", "174 Pac. 404", "180 Cal. 231", "180 Pac. 533", "21 Cal. 59", "225 Pac. 770", "23 Cal. 226", "23 Iowa, 453", "23 S. E. 685", "25 Am. Dec. 411", "28 Am. St. Rep. 149", "29 Mo. App. 167", "29 Pac. 1025", "30 Cal. App. 575", "32 S. E. 835", "36 Atl. 131", "37 Cal. 223", "37 Cal. App. 668", "41 W. Va. 191", "43 Pac. 1109", "5 Ala. 424", "51 Cal. 309", "51 Cal. 552", "52 Am. St. Rep. 192", "52 Neb. 649", "59 Pac. 791", "6 Cal. 47", "6 Cal. 52", "65 Am. Dec. 475", "66 Cal. App. 196", "70 Cal. 296", "70 Pac. 738", "72 Cal. 259", "72 N. W. 1049", "73 Am. Dec. 610", "83 Am. Dec. 111", "89 Me. 226", "94 Cal. 588"]
 ---
 
 # Colver v. W. B. Scarborough Co.
