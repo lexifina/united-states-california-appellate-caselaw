@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2540"
+decided: "1922-10-07"
+citations: ["59 Cal. App. 296"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel., Petitioners, v. FRED H. HEIKEN, as Treasurer, etc., Respondent."]
+source_url: "https://static.case.law/cal-app/59/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2085868
+---
+
+# People v. Heiken
+
+## Majority (THE COURT.)
+
+THE COURT.
+The application was for a writ of mandate to require respondent, as county treasurer of Sutter County, to deposit with the state treasurer in cash a certain amount of money claimed to have been collected by respondent on account of a certain assessment, No. 6, for the benefit of the Sacramento and San Joaquin Drainage District fund.
+Section 15 of “an act to authorize the issuance and sale of bonds of the Sacramento and San Joaquin Drainage District based upon assessments levied by the reclamation board upon lands in said district,” approved May 27, 1919 (Stats. 1919, p. 1092) provides as follows: “At any time within thirty days after said assessment list has been so filed in the office of the county treasurer as provided in section fourteen hereof, the whole amount of such assessment upon any tract of land therein separately assessed may be paid in cash to the county treasurer and thereupon the county treasurer shall issue his receipt therefor and shall indorse the fact and date of such payment upon the assessment list, and thereupon the lien of such assessment upon such tract of land shall cease. The report of such payment shall be made by the county treasurer at once to the secretary of the reclamation board, and the amount so received by the county treasurer shall, within thirty days after the receipt thereof by him, be deposited by him with the state treasurer and shall be by said state treasurer safely kept and credited to the construction fund of said assessment.”
+In the argument this act of 1919 was designated as the “Bonding Act” and the act of 1911 (Stats. 1911, p. 639), as amended in 1913 (Stats. 1913, p. 252) and 1915 (Stats. 1915, p. 1338), as the “Reclamation Board Act,” and in this opinion we may so distinguish them.
+It is agreed by both parties that the vital question involved is whether the county treasurer was authorized by said Bonding Act to take warrants in payment of the assessment in lieu of actual cash.
+We agree with petitioners that the so-called “Bonding Act” is supplementary to said “Reclamation Board Act,” that the two must be construed together, and that the special feature of the former is the provision affording an alternative method for the raising of the money with which to pay an assessment already levied under the provisions of the latter act, and that when this method is adopted, contemplating the issue and sale of bonds, the proceeds of which are to be used for the payment of that portion of the entire assessment remaining unpaid at the close of the thirty-day period mentioned in said section 15, the clear intent of the legislature is that only such payments may be credited to the land owners as have been made in cash, and that the difference between such amount and the amount of the levied assessment shall constitute the extent of the bond issue. This method of procedure is a substitute for that of “calls” in the Reclamation Board Act, the procedure therein contemplating the payment of the assessment in cash or warrants in installments at the option of the reclamation board.
+Section 17 of the Bond Act provides that the amount of the assessment remaining unpaid at the expiration of the thirty-day period shall be determined by the reclamation boai’d and an order fixing the same be made and entered in the minutes, and there is no provision in the Bond Act that said unpaid portions, or any part thereof, of the assessment, may be paid at any time, or in any manner, other than as provided by said section 15 of that act. It is apparent that said order determines the amount that constitutes the basis of the call for an election to ascertain whether the remaining portion of the assessment shall be met by the issuance of bonds or by calls to be made by said board, and, manifestly, the statute contemplates that no payment shall be made subsequent to the making of said order until the result of said election has been determined. We think it equally apparent, as already stated, that said statute contemplates that any payment made within said thirty days by the property owner or after said election must be paid in cash and the county treasurer is not authorized to accept warrants for the same.
+We see no necessity for an elaborate review of the various sections of these two acts, nor for any comment upon the well-settled rules of construction to which our attention has been invited by respondent. It is sufficient to say that, in our opinion, there is no provision made in said Bond Act for the payment of the assessment by the property owner except as provided in said section 15, nor is any person authorized to accept payment thereof' except as provided in said section and that the method therein prescribed was clearly intended to be exclusive.
+The foregoing is a brief statement of the reason which impelled us to order the peremptory writ to issue herein.
