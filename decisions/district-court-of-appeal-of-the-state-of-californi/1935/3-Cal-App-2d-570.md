@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9114"
+decided: "1935-01-15"
+citations: ["3 Cal. App. 2d 570"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELSINORE OIL COMPANY (a Corporation), Respondent, v. SIGNAL OIL AND GAS COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app-2d/3/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257896
+cites_cases: ["130 Cal. App. 485", "155 Cal. 46", "20 Pac. (2d) 102", "240 Fed. 285", "99 Pac. 476"]
+---
+
+# Elsinore Oil Co. v. Signal Oil & Gas Co.
+
+## Majority (SCOTT, J., pro tem.)
+
+SCOTT, J., pro tem.
+Plaintiff, as lessor, about September 8, 1930, entered into a gas and oil lease with defendant, as lessee, relating to a certain “parcel No. 1” consisting of forty acres. Another lease to an adjoining property known as “parcel No. 2” had theretofore been entered into by the same parties. On July 11, 1932, defendant executed and delivered to plaintiff a quitclaim deed to the property, and admits that there was then due plaintiff under the lease to parcel No. 1 the sum of $1854.99. Plaintiff brought this action under said lease to parcel No. 1 and recovered judgment for $6,000 plus interest, from which judgment defendant appeals.
+The question here presented involves the construction of the lease to parcel No. 1. Lessee therein agreed “to pay to lessor as a bonus One Hundred Fifty Dollars per acre for the premises above described . . . payable only out of twenty-five per cent of the proceeds derived from the sale of the oil produced, saved and sold” from parcel No. 2, and further to pay “the equal of one-sixth part of the proceeds derived from the sale of all oil removed from the leased premises” (parcel No. 1). Certain other payments were provided, contingent upon oil or gas being produced on parcel No. 1, which are not material to this consideration, since it is conceded that no well was drilled and there was no production on that parcel. Said lease further provided that “the lessee may at any time quitclaim to the lessor this lease in its entirety or as to part of the acreage covered hereby, and thereupon lessee shall be released from all further obligations as to the part of the land so quit-claimed, and all rentals and drilling operations shall be reduced pro rata according to the acreage quitclaimed”.
+Prior to July 11, 1932, the date of the quitclaim deed, a quantity of oil was produced on parcel No. 2 and sold for an amount sufficient so that twenty-five per cent of it equaled the sum of $1854.99, which is all that lessee admits is due under the lease. Further oil was produced during July, 1932, and sold for an amount sufficient so that twenty-five per cent of it equaled more than the additional $4,145.01 and interest, which the lessor claimed and which was included in the judgment for $6,000 plus interest recovered. '
+Appellant contends that when it quitclaimed the property it was liable, under the language above quoted, only to the extent of twenty-five per cent of the proceeds from parcel No. 2 up to the date of the quitclaim deed, July 11, 1932, arguing that the “bonus” was in fact “rental” and that no rental was due after the property had been deeded back to respondent.
+The conclusion of the trial court was correct. Appellant had entered into the contract which rendered it liable for the entire $6,000 regardless of the length of time it held parcel No. 1, conditioned only upon the production of sufficient oil from parcel No. 2 so that twenty-five per cent of it would equal the said amount due. It had kept the premises twenty-two months under the lease, and the consideration, at least in part, for its right to so hold parcel No. 1 was the obligation it had incurred to pay the “bonus” of $6,000. It was the evident intention of the parties that the real inducement to respondent to permit appellant to have the property under the lease was not the nominal sum of ten dollars recited as consideration in the lease, but the other more substantial “bonus” for which judgment was recovered. Appellant could not avoid the obligation already incurred to pay the “bonus” by the expedient of giving respondent a quitclaim deed to the land, since the language above quoted cannot reasonably be thus construed. “The term ‘bonus’ as applied to an oil lease has come to have a definite meaning, to-wit: a sum of money paid by a lessee to the lessor in consideration for the execution of a lease, as distinguished from the return or royalty reserved by the lessor to be paid by the lessee through the term of the lease.” (Geller v. Smith, 130 Cal. App. 485 [20 Pac. (2d) 102, 104].)
+It is apparent that the “rentals” which were to be reduced upon quitclaiming of the land were not the “bonus” but the “royalty”, for here, as in the ease of a mining lease, the amounts stipulated to be thus paid as royalties are not the purchase price of the oil and gas in place but are “the compensation which the occupier pays the landlord for that species of occupation which the contract between them allows. ... In mining leases these words ‘rent’ and ‘royalty’ are used interchangeably to convey the same meaning.” (Nelson v. Republic Iron & Steel Co., 240 Fed. 285.) “ ‘Royalty’ is ‘perhaps the most appropriate word where rental is based upon the quantity of coal or other mineral that is or may be taken from the mine. ’ ” (Payne v. Neuval, 155 Cal. 46, 49 [99 Pac. 476].) The same definition applies here.
+Judgment affirmed.
+Stephens, P. J., and Crail, J., concurred.
