@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 234"
+decided: "1912-04-04"
+citations: ["18 Cal. App. 639"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Application of C. S. HEMSTREET for Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/18/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4574762
+cites_cases: ["106 Pac. 718", "154 Cal. 355", "157 Cal. 189", "6 Mont. 72", "9 Cal. App. 238", "9 Pac. 432", "97 Pac. 891", "98 Pac. 681"]
+---
+
+# In re Hemstreet
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Petitioner was convicted upon a complaint filed in the justice’s court charging him with selling and giving to a minor under the age of eighteen years an intoxicating drink in violation of section 397b of the Penal Code. The verdict of the jury finding him guilty was rendered on November 23, 1910, and the time for rendering judgment was, in the absence of any waiver on the part of petitioner, postponed to November 26th, at which time, over his objection, judgment was rendered. Petitioner appealed to the superior court which, on account of the failure of the justice to pronounce judgment within two days after the verdict, granted a new trial, upon which he was again convicted. He bases his right to be discharged from custody upon the grounds: First, that the complaint failed to state an offense; and, second, that jurisdiction of defendant and the subject matter of the action was lost by reason of the justice failing to pronounce judgment within the time fixed therefor by section 1449, Penal Code.
+The alleged vice of the complaint is due to the fact that it did not negative the exception contained in section 397b. This section provides: “Every person who sells, gives or delivers to any minor child, . . . under the age of eighteen years, any intoxicating drink in any quantity whatsoever, . . . shall be guilty of a misdemeanor, . . . ; provided, that this section shall not apply to the parents of such children, or to guardians of their wards.” The offense described in the enactment is the sale, etc., of intoxicating drinks to minors under the age of eighteen years. The language of the exception providing that the offense specified shall not apply to parents or guardians of such minors in no wise purports to describe the offense specified. “When an exception is stated in the statute, it is not necessary to negative such exception, unless it is a constituent part of the definition of the offense. . . . When the exception is not a part of the definition of the offense, and in this way does not therefore become a part of the enacting clause, it is a matter of defense.” (Territory v. Burns, 6 Mont. 72, [9 Pac. 432].) The offense with which petitioner was charged was selling intoxicating drinks to a minor. The fact that parents or guardians were declared not within the operation of the statute was no part of the act defining the offense. An examination of the authorities convinces us the application of the rule requiring the complaint to negative exceptions found in a statute should not be extended to include cases where it does not clearly appear that the exception constitutes a part of the enactment defining the offense. The subject is extensively discussed in Ex parte Hornef, 154 Cal. 355, [97 Pac. 891], where a number of authorities are reviewed. (See, also, People v. Grinnell, 9 Cal. App. 238, [98 Pac. 681].)
+As to the second point, the rendition of judgment after the lapse of two days succeeding the verdict was not an act in excess of jurisdiction, but merely an error in procedure, which defendant was entitled to have reviewed on appeal and a new trial granted on account of such error. Section 1449, Penal Code, applicable to justices’ courts, is almost identical with section 1191, applicable to like procedure in the superior court. By the amendment of section 1202 of the Penal Code, it was provided that, in case of a failure to pronounce judgment within the time required by section 1191, the trial court should, upon application therefor, grant defendant a new trial. If denied, the remedy is an appeal from the judgment, in the absence of which, however, the judgment remains in full force and effect as though rendered within the time prescribed. So far as affecting the jurisdiction of the court, this amendment is unimportant. Such was the ruling of the court in the case of Rankin v. Superior Court, 157 Cal. 189, [106 Pac. 718]. In our opinion, the court had jurisdiction of the defendant and subject matter of litigation, and therefore jurisdiction to pronounce judgment, though it might do so erroneously by failing to follow the statutory provision. Defendant availed himself of his right to appeal to the superior court, which granted him a new trial de novo, wherein judgment was properly rendered, thus protecting him in every right to which he was entitled.
+The writ is denied and petitioner remanded to custody.
+Allen, P. J., and James, J., concurred.
