@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12008"
+decided: "1942-04-02"
+citations: ["51 Cal. App. 2d 101"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES M. MITCHELL et al., Appellants, v. HARRY ASHTON, as Trustee in Bankruptcy, etc., et al., Defendants; HOWARD SUPPLY COMPANY (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app-2d/51/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4641485
+cites_cases: ["127 S. W. (2d) 492", "193 Cal. 360", "224 Pac. 449"]
+---
+
+# Mitchell v. Ashton
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+This action involves the title to and the right to remove a portion of certain easing now standing cemented in an oil well.
+James M. Mitchell and Catherine T. Mitchell, hereinafter referred to as the plaintiffs, were the owners of certain real property situated in the Torrance oil field, Torrance, California. On the 4th day of May, 1938, they executed an oil and gas lease covering said real property, to the Selegna Drilling and Producing Company. Through mesne conveyances said oil and gas lease was thereafter transferred to Kovell Oil Company. The latter company drilled and brought into production an oil and gas well upon the premises known as Kovell No. 1.
+While the Kovell No. 1 well was being drilled, and on June 30, 1938, the defendant Howard Supply Company, a corporation, sold 4850 feet of 6%", 26#, Grade C casing to Kovell Oil Company under a conditional sales contract by the terms of which the casing was sold for the purpose of use and operation by Kovell Oil Company, upon the real property involved in this action, and not for any other purpose. Title to said casing was retained by the Howard Supply Company until it had received payment in full therefor.
+The casing described in the conditional sales contract was used by Kovell Oil Company in the drilling and production of Kovell No. 1 well and was cemented therein.
+The defendant Harry Ashton was appointed trustee in bankruptcy of Kovell Oil Company on or about December 1, 1939. On January 15, 1940, the defendant Howard Supply Company filed its “Proof of Secured Claim” in the matter of the bankruptcy of the Kovell Oil Company wherein it claimed the sum of $9,186.79, which amount was the full balance then due on the conditional sales contract. The said claim was later allowed in full in the bankruptcy proceedings of the Kovell Oil Company.
+On or about March 1, 1940, the defendant Harry Ash-ton, as trustee in bankruptcy of Kovell Oil Company, ceased the production of oil and gas from Kovell Well No. 1, removed certain machinery and oil well equipment therefrom, and abandoned the oil and gas lease in April, 1940. No attempt has since been made to produce oil and gas from. Kovell Well No. 1. On January 22, 1941, the plaintiffs commenced this action to quiet their title to the real property, to the derrick, and to the casing standing cemented in Kovell Well No. 1.
+The easing involved in this action is now standing cemented in Kovell No. 1 well but the State Oil and Gas Supervisor will not consent to the removal of any portion thereof in excess of 650 feet and before said supervisor will consent to the removal of that much of said casing he will require the balance thereof to be permanently and securely plugged, which operation will make it impossible to further use the remaining portion of said casing or to thereafter reopen and further produce said Kovell No. 1 well.
+The respondent, Howard Supply Company, has fully complied with the terms of the conditional sales contract but the Kovell Oil Company has failed to make all the payments due thereunder and there is at the present time a balance unpaid on said contract.
+The trial court adjudged the plaintiffs to be the owners and entitled to the possession of the real property and the derrick but that the respondent, Howard Supply Company, was the owner and entitled to the possession of all the oil well casing sold to Kovell Oil Company under said conditional sales contract and now standing cemented in Kovell No. 1 well.
+The plaintiffs have appealed from that portion of the decree which determined the Howard Supply Company to be the owner of said casing and entitled to the possession thereof. In support of their appeal they have brought up the judgment roll only.
+In their complaint the plaintiffs named Harry Ashton, as trustee in bankruptcy of the Kovell Oil Company, Berny Berens, and several fictitious persons, as defendants. Later by amendment Howard Supply Company was named as a defendant claiming it had been sued as “One Doe Corporation.” Berens filed an answer. Howard Supply Company filed a separate answer and pleaded the conditional sales contract. There was no allegation in Berens’ answer that he was the assignee of any interest in the real estate or any of the property standing on or attached thereto. Nor is there any finding to that effect. Neither Kovell Oil Company nor any one claiming to be its assignee appeared in the action, or participated in the trial.
+In their first point the plaintiffs contend Howard Supply Company having filed a claim in the bankruptcy proceedings, which was allowed for the full amount due, waived any claim of ownership by it under the terms of the conditional sales contract. However, as shown by the above facts, the plaintiffs were not parties to said contract, were not privies thereto, and may not rely thereon. (Roullard v. Rosenberg Bros. & Co., 193 Cal. 360, 364-366 [224 Pac. 449].)
+In their second point they contend that Howard Supply Company having sold the casing to the lessee with knowledge that it was to be used in an oil well, and having permitted it to be permanently cemented therein, cannot repossess it, upon default of the lessee, where to do so would destroy the well to the damage of the lessor. We find no merit in that contention. The action was one to quiet title, not to repossess anything. Furthermore, there are no findings to the effect that Howard Supply Company is doing or will do anything to “. . . destroy the well to the damage of the lessor.” Furthermore, the findings show that Kovell Well No. 1 was not at the time this action was commenced a going concern. On the contrary the findings show that the trustee in bankruptcy operated the well from December 1, 1939, until March 1, 1940, and that on said date he abandoned the well, that much of the equipment was detached and taken away, and that there remains on the ground only the derrick and the casing cemented in the well. Assuming that as to a successful development the lessor may, under certain conditions, be entitled to the use of the casing (Meers v. Frick-Reid Supply Corp. (Tex. Civ. App.), 127 S. W. (2d) 492), it is clear that the findings do not show that the instant case comes within such rule.
+The judgment appealed from is affirmed.
+Nourse, P. J., and Spence, J., concurred.
