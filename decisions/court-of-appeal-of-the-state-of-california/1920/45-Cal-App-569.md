@@ -1,0 +1,29 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 2529"
+decided: "1920-01-27"
+citations: ["45 Cal. App. 569"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FOX-WOODSUM LUMBER COMPANY (a Corporation), Respondent, v. FIDELITY AND DEPOSIT COMPANY OF MARYLAND (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/45/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2055169
+cites_cases: ["20 Pac. 419", "78 Cal. 196"]
+---
+
+# Fox-Woodsum Lumber Co. v. Fidelity & Deposit Co.
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Robert P. McMullen was the contractor for the construction of certain schoolhouses for the Tropico School District and, pursuant to the provisions of Act No. 2895, entitled, “An act to secure the payment of the claims of materialmen, mechanics, . . . employed . . . upon . . . municipal, or other public work” (Deering’s Gen. Laws, 1915, p. 1467), caused defendant, as surety, to execute the bond specified therein. Plaintiff and its assignor furnished materials used in the doing of the work by the contractor, for the payment of which this action was brought on the bond. Judgment went for plaintiff, from which defendant has appealed.
+The act, as it then read, provided that “any material-man . . . whose claim has not been paid by the contractor . . . shall, within ninety days from the time such contract is completéd, file with the . . . body by whom such contract was awarded, a verified statement of such claims, together with a statement that the same had not been paid,” and that upon so doing such claimant may at any time within six months sue to recover upon the bond.
+The sole contention of appellant is that the claims constituting the subject of the action were not filed within ninety days after the completion of the contract, without which, respondent properly concedes, the judgment should be reversed.
+The court found “that on the twenty-ninth day of January, 1915, and within ninety days after the completion of said buildings, said plaintiff filed with the board of trustees of the Tropieo School District a verified notice in writing,” so required, wherein the amount of such claims was specified and which in all respects complied with the provisions of the statute. In our opinion, this finding is, as claimed by appellant, not supported by the evidence. It conclusively appears that, except as to the installation of certain plumbing fixtures required by the specifications, the buildings called for by the contract were fully completed on September 30, 1914, at which time other fixtures than those specified were installed, and upon the contractor depositing with the treasurer of the board his certified cheek for $152 as security for his furnishing, when procurable, the fixtures specified in lieu of those installed, the board filed in the office of the recorder of Los Angeles County its unqualified written acceptance of the work and thereupon took possession of said buildings, and from thence on used and occupied the same for school purposes, and thirty days after acceptance paid to the contractor the balance in full of the contract price. On December 5, 1914, the contractor • replaced the temporary fixtures called for by the specifications, at which time, rather than on September 30th, the trial court concluded the buildings were completed.
+As shown by the record, McMullen’s only obligation to install the specified fixtures was that contained in his contract. He was unable to procure these, and he thereupon deposited with the treasurer his certified check for $152, which, together with the fixtures so installed, were, by agreement, substituted for those called for by his contract. In the absence of a covenant on his part so to do—and we agree with respondent there was none—it was optional with him whether he installed other fixtures or forfeited his check, which was exacted in lieu of such compliance with his contract. Under the circumstances, and without further compliance, he could have enforced payment of the balance due upon his contract. That this was the construction placed upon the transaction is made manifest by the fact that the school board, in recognition of his being entitled thereto, and long before the specified fixtures were installed, paid to McMullen the full contract price. That the parties to the contract might have agreed upon the substitution of other fixtures in lieu of those specified admits of no question, and, in effect, that is precisely what they did, requiring the contractor to forfeit the difference in price, provided he was unable to procure the ones called for by bis contract, or, if he could obtain them, declined to exercise his option to install the same. Upon respondent’s argument, carried to its logical conclusion, the buildings could not be deemed completed until the installation of the fixtures specified, although years might elapse.
+The buildings were completed on September 30, 1914, when the board, vested with full power to do so, formally accepted the same, took possession thereof, and occupied them for school purposes. Otherwise, and if such acts were not conclusive evidence of completion, such action could only be established by a judgment of court. Not only for the reasons given, but under the statutory rules governing the rights of laborers and materialmen in analogous cases involving the right to enforce mechanics’ liens, which we think applicable (sec. 1187, Code Civ. Proc.; Giant Powder Co. v. San Diego Flume Co., 78 Cal. 196, [20 Pac. 419]), the judgment should be reversed, and it is so ordered.
+Conrey, P. J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 25, 1920.
+All the Justices concurred.
