@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1803"
+decided: "1937-03-30"
+citations: ["20 Cal. App. 2d 71"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAWRENCE V. LEWIS et al., Respondents, v. M. K. NANCE, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/20/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039225
+cites_cases: ["100 Kan. 255", "110 Cal. App. 48", "14 Pac. (2d) 771", "164 Pac. 297", "216 Cal. 506", "25 Tex. Civ. App. 443", "293 Pac. 694", "62 S. W. 108", "73 Mont. 94"]
+---
+
+# Lewis v. Nance
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+This is an action to quiet title to certain real property as against the rights of the defendant under an oil lease. The findings and judgment were in favor of the plaintiffs, and the defendant has appealed..
+The case was tried upon stipulated facts from which it appears that the respondents leased the property to the appellant for the purpose of drilling for oil on May 29, 1933; that in May or June, 1933, the appellant employed an oil well driller to drill a well thereon; that a notice of intention to drill was filed on June 30, 1933; that on August 10, 1933, an equipment company agreed to' supply the appellant with tools and equipment for drilling an oil well on this lease as soon as a derrick had been erected; that on August 26, 1933, the appellant caused the land to be surveyed and made locations thereon for three oil wells; that on the same day some sand, gravel, cement and tools for the building of a derrick were placed upon the property and workmen began excavating for four concrete corners upon which the derrick was to be placed; that on August 27, 1933, the excavations for these four corners were completed to a depth of three feet and concrete was placed therein; that on the same day excavation for a cellar was begun which work was continued throughout August 29, 1933; that on that day two truckloads of rig lumber were hauled on the property and workmen commenced cutting said lumber into sizes suitable for the erection of an oil derrick; and that the erection of a derrick was begun on August 29th and was practically completed on September 1, 1933, at which time work ceased because of a temporary restraining order issued in an action brought by a third party. In the meantime, notice declaring d forfeiture was served by the respondent upon the appellant on August 29, 1933.
+The lease in question contained the following clause:
+“The Lessee agrees to start the drilling of a well for oil within ninety (90) days from the date of this agreement, and to continue the work of drilling such well, after commencing the same, with due diligence. ...”
+The appellant attacks the findings and judgment, but in effect the sole point raised involves an interpretation of this clause of the lease. It is conceded that the ninetieth day under the lease was August 27, 1933, and the question is whether the commencement of operations preliminary to the installation of an outfit to be used in drilling an oil well is a compliance with this provision of the lease, or whether compliance therewith required an actual penetration of the ground with a drill during the ninety-day period.
+Cases from other jurisdictions are cited by both parties, from which it appears that there is a marked distinction between oil leases which are, by their terms, made dependent upon the commencement of operations preparatory to drilling and .leases which require that actual drilling be commenced within a given time. Necessarily the class into which a particular lease falls must depend upon the language there used.
+It is a familiar rule of construction that an instrument should be examined in its entirety in order to determine the intention of the parties. Some light is thrown upon our problem by other portions of the lease in question. Paragraph 3 thereof provides that the lessee shall have the exclusive right of prospecting or drilling for oil and the right to establish and maintain such buildings and equipment as may be necessary or convenient in the production of oil from the property. Paragraph 7 provides that in the event oil wells are drilled on adjacent properties within a specified distance of the boundary lines of the property covered by this lease the lessee shall, within thirty days from the date drilling is commenced on any such well, “begin the construction of a derrick or instrumentality for drilling oil wells” on the property here leased in order to offset the other well. It is to be noted that in paragraph 5, with which we are directly concerned, the lessee is required to start the drilling of a well within a specified time, while in paragraph 7 he is required merely to begin the construction of a derrick. This distinction is further recognized in paragraph 19 of the lease, which includes the following:
+“ . . . providing, however that no notice need or shall be given by the Lessors to the Lessee as to time of erection of derrick, commencing of drilling or the continuance of drilling as is herein otherwise provided for. As to such matters it is understood and agreed that this lease shall terminate by the mere failing of the Lessee to comply with such condition.”
+Here a distinction is plainly drawn between the erection of a derrick on the one hand and the commencing of drilling on the other. It is difficult to imagine a reason for using this language if, as the appellant claims, the erection of a derrick or work preliminary to the erection of a derrick was all that was required by that portion of paragraph 5, with which we are here concerned.
+We think the language of this particular lease must be interpreted as requiring the starting of actual drilling within the time named. This interpretation is supported by some eases from other jurisdictions. (Solberg v. Sunburst Oil & Gas Co., 73 Mont. 94 [235 Pac. 761] ; Forney v. Ward, 25 Tex. Civ. App. 443 [62 S. W. 108] ; Henning v. Wichita Natural Gas Co., 100 Kan. 255 [164 Pac. 297].) The distinction between leases with respect to whether actual drilling or the beginning of operations preparatory to drilling is required has been recognized in two cases in this state. (Johnston v. Courtial, 216 Cal. 506 [14 Pac. (2d) 771] ; Wooten v. McAdoo, 110 Cal. App. 48 [293 Pac. 694].)
+The judgment is affirmed.
+Marks, J., and Jennings, J., concurred.
