@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 320"
+decided: "1907-03-22"
+citations: ["5 Cal. App. 249"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOGNINA RIGHETTI, Appellant, v. ORAZIO RIGHETTI, Respondent."]
+source_url: "https://static.case.law/cal-app/5/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4681355
+---
+
+# Righetti v. Righetti
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+Action upon a promissory note. Judgment for defendant. Appeal by plaintiff therefrom, and from an order denying a new trial.
+The findings of the court—all of which, except as hereinafter noted, have some support in the evidence—and the evidence in the record together establish the following facts: The note sued on was executed by defendant as consideration for the purchase of an interest in a business theretofore conducted by plaintiff’s husband and defendant. Before its maturity the husband was adjudged a bankrupt, and a trustee in bankruptcy instituted proceedings to have the note declared a part of the estate of the bankrupt, for its possession or the value thereof, and procured an injunctional order that the plaintiff be restrained from selling or disposing of the note pending the action. During all of the period involved in this action the husband of the plaintiff acted as her agent with full authority in the premises. At the maturity of the note defendant notified the husband as such agent that he intended to deposit the money in bank in extinguishment of the note. Thereupon, it was agreed that if the defendant would retain the money until the proceedings instituted by the trustee against the wife were settled, no interest would be charged thereon after maturity. Acting upon this agreement, the defendant retained the money until such proceedings were settled, except that for the purpose of procuring an adjustment with the creditors of the husband, who was then in jail upon a charge of fraud, defendant advanced $1,800, which was received as part payment of such note, which sum, together with $50 paid as interest, constituted the only payments thereon; and a balance remained unpaid of $296.70. After the dismissal of the action by the trustee, defendant offered to pay this balance, but it was refused and a claim made that a much larger sum was due. Through threats and by duress the husband of the plaintiff procured a check from defendant for $600 and a new note for $300 in settlement of the balance of $296.70. This check and the old note were left in escrow, the latter to be surrendered upon payment of the check. The defendant stopped pajunent of the check, and through his attorneys deposited $296.70 in the Commercial Bank of San Luis Obispo, to be paid plaintiff or her agent upon surrender of the old note and the note for $300. This plaintiff declined to accept.
+It is contended that the agreement waiving interest, being oral, could not have the effect to change the written contract of the parties. But while oral, it was fully executed. Under the terms of the injunctional order, the plaintiff had a right to enforce collection and the defendant, under the code, a right to deposit the money in extinguishment of the debt. The oral agreement in relation to the retention of the money and waiver of proceedings to collect, being fully executed, had the effect to change the stipulation as to interest.
+It is contended further that the allegations of the complaint in relation to the coercion claimed in procuring the check and note of $300 are insufficient. In view of the fact that the fruits of the attempted settlement were voluntarily surrendered by plaintiff to defendant upon the trial, further consideration of the questions involved would serve no useful purpose. We find no evidence in support of the finding that the deposit of $296.70 was made in the Commercial Bank to the credit either of the plaintiff or her agent. On the contrary,' it was deposited in the bank, to be paid conditionally upon the surrender of the two notes. The deposit contemplated by section 1500 of the Civil Code, the effect of which is an extinguishment of the obligation, is an unconditional deposit to the credit of the holder or owner of the obligation. This unconditional deposit was not made, and the court erred in treating the same as an extinguishment of the obligation. In addition to this, had it been a deposit resulting in an ex-tinguishment, the court possessed no right to direct the manner of its distribution, either as to costs or otherwise. Money deposited under the provisions of section 1500, Civil Code, becomes at .once the property of the person to whose credit it is placed, and is no more subject to such an order than any other deposit in the bank.
+A careful examination of the record discloses no error, other than the one last above referred to. It plainly appears from the record that it was the dúty of the court to have entered a judgment in favor of the plaintiff for the $296.70, the admitted balance unpaid upon the note.
+It is, therefore, ordered that the judgment and order be reversed, and the cause remanded, with instructions to the trial court to order a judgment entered in favor of the plaintiff and against defendant for $296.70, without costs to either party.
+Shaw, J., and Taggart, J., concurred.
+A petition for a rehearing of this cause was denied by the district court of appeal on April 20, 1907.
