@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3226"
+decided: "1920-05-17"
+citations: ["47 Cal. App. 512"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HERMAN O. RUMETSCH, Respondent, v. JOHN L. DAVIE et al., Appellants."]
+source_url: "https://static.case.law/cal-app/47/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065686
+---
+
+# Rumetsch v. Davie
+
+## Majority (BRITTAIN, J.)
+
+BRITTAIN, J.
+The defendants appeal from a judgment awarding the plaintiff a peremptory writ of mandate in effect directing them to approve his claim as a retired corporal of police in the city of Oakland for one-half the amount of salary attached to the rank he had held for one year prior to his retirement. The facts are admitted, and the only question to be determined is whether the respondent is entitled to pension computed on a basis of the salary he was receiving at the date of retirement or that which he was receiving one year, prior to retirement.
+The charter of the city of Oakland was adopted in 1911. By section 91 it was provided that “the officers and members of the police department shall receive as annual compensations . . . Corporals—$1,500 . . . Said compensations shall be paid in equal monthly installments. No compensation higher than those herein specified shall be paid to any officer. ...”
+Section 95 was as follows: “Any member of the department who shall become physically disabled by reason of any bodily injury received in the performance of his duty, upon his filing with the board of trustees a verified petition, setting forth the facts constituting such disability, and the cause thereof, accompanied by a certificate signed by the chief of police, the captain of the division to which he belongs, and by two regularly licensed physicians of the city, recommending his retirement upon a pension, on account of such disability, may be retired from the department upon an annual pension, equal to one-half the amount of salary attached to the rank which he held one year prior to the date of such retirement, to be paid to him during his life, and to cease at his death. In case his disability shall cease, his pension shall cease, and he shall be restored to the service in the rank he occupied at the time of his retirement.”
+Under these provisions when an officer who had held the rank of corporal for one year prior to his retirement was retired, he was paid one-half the amount of salary attached to the rank at the date of his retirement. Since that was the salary attached to the rank one year prior to the retirement, it was also equal to one-half the salary attached to the rank at that time. The language of the section was in no sense ambiguous or uncertain.
+In 1919 the people of Oakland amended section 91 of the charter, and it became effective on the approval of the legislature on January 17, 1919. As amended, it provided that "the officers and members of the police department shall receive annual compensations comprising their salaries of not less than . . . Corporals—$1,620 . . . Said compensations shall be paid in equal monthly installments. . . .
+"No other or further deduction shall be made from the pay of any officer or member of the department for any fund or purpose unless the same is authorized by this charter.
+"No compensation or salary less than those herein specified shall be paid to any officer or member of the police department ...”
+The respondent held the rank of corporal on April 1, 1918, and on April 1, 1919, the appellants, constituting the board of trustees, adopted a resolution by which he was retired on account of physical disability received in the performance of his duty as corporal. Under the terms of the charter his salary is payable to him quarterly. The first payment on July, 1919, was made on the basis of a salary of $1,500. He presented a claim for the second quarter on the basis of salary at $1,620, plus the ratable shortage on the first payment. The appellants refused to allow the claim on the sole ground that the petitioner was entitled only to the salary attached to the rank of corporal one year prior to the date of retirement.
+Under section 95, if the disability is removed, the pension will cease, and the respondent will be restored to the service in the rank he occupied at the date of his retirement. If he should be so restored, under the provisions of section 91, as amended, he will immediately be entitled to salary at the rate of $1,620 a year. While he is on the retired list, it would seem to be entirely consistent with the language, as well as the purpose, of section 95, that he should receive as pension one-half the amount he would receive as a corporal if on active service. This court has no hesitation in determining that the amount of the pension is fixed by the salary attached to the rank of the retired man at the time of retirement, provided he held that rank for the period of one year prior to the date of retirement. If, in amending section 91, the people of Oakland had intended to change the plain and unambiguous meaning of section 95, without doubt they would have in terms amended the section. The amendment of section 91 did not serve to import an ambiguity into section 95, which had theretofore been free from uncertainty. It is the duty of the courts to interpret statutes in such a manner that they may be free from ambiguity, and not to be ingenious to find ambiguities in them because of extraneous matters, nor is it their duty t.o assume the function of the law-making power. Section 95 cannot be given the construction contended for by the appellants without amending it by interpolating a clause limiting its effect and changing its clear meaning. The conclusion reached coincides with the rule adopted in the city and county of San Francisco upon a similar provision of its charter. (Opinions City Attorney, Percy V. Long, January 20, 1908.)
+The judgment is affirmed.
+Nourse, J., and Langdon, P. J., concurred.
