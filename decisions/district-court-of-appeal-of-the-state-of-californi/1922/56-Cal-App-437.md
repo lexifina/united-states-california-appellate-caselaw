@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 837"
+decided: "1922-02-14"
+citations: ["56 Cal. App. 437"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. LENA ALEXANDER, Appellant."]
+source_url: "https://static.case.law/cal-app/56/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2079358
+cites_cases: ["1 Cal. App. 541", "117 Cal. 186", "123 Cal. 414", "141 Cal. 246", "48 Pac. 1088", "56 Pac. 56", "59 Am. St. Rep. 167", "74 Pac. 745", "82 Pac. 564"]
+---
+
+# People v. Alexander
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Defendant was convicted of the crime of mayhem in that she maliciously and unlawfully destroyed the eye of one Moran Watson. She has appealed from the judgment pronounced and an order denying her motion for a new trial.
+The first contention of appellant is that the verdict is contrary to the evidence and shows that in inflicting the injury upon Watson she acted in self-defense. There is ample testimony, if believed by the jury, to establish the following facts, namely: That for nearly a year Watson had been on terms of intimate acquaintance with defendant; that on the morning of March 22, 1921, she phoned him that she would be at the house of a friend in the afternoon. Watson, accompanied by a friend called Smitty, went to this house, where they found defendant and her friend, Mrs. Pinkie Pride. The four left for defendant’s house, some two or three blocks distant. On the way defendant gave the key to the house to Mrs. Pride, and left the party to perform some errand. Upon arriving at the house Mrs. Pride unlocked the door and the three entered. Soon thereafter defendant arrived at the house and, seeing a bottle of whisky on the table, proceeded through the kitchen and threw it away. Then, getting the knife, she went to the front, room, where Mrs. Pride and Watson were dancing or engaged in a playful scuffle, which she ordered discontinued, saying that the neighbors would think she was running a rough house. Thereafter she and Watson engaged in a scuffle which ended by her ordering both Watson and Smitty to leave the house. The latter left through the front door, and Watson, having been told by defendant upon other visits to always leave by way of the back door, started out through the kitchen door. He had reached the door, in front of which stood a chair, which he kicked out of place, and while in the act of unlatching the door, defendant struck him twice with the knife, the second stroke reaching his eye and cutting it, as a result of which it was removed. It further appears that Mrs. Pride had told defendant of Watson’s flirtations with some other woman, as a result of which she was greatly displeased and at the time, by her manner, indicated her displeasure toward Watson, who, due to her slapping and striking at him, engaged in the scuffle with her.
+While there is a sharp conflict in the testimony given by Watson and his friend on the one hand and that given by defendant and her friend, Mrs. Pride, on the other hand, it is apparent from the testimony of the former, which the jury were entitled to believe (People v. Glover, 141 Cal. 246 [74 Pac. 745]; Dallman v. Frank, 1 Cal. App. 541 [82 Pac. 564]; People v. Logan, 123 Cal. 414 [56 Pac. 56]), that Watson’s visit was at defendant’s invitation, and her act of striking him with the knife while he was leaving the house was wholly unjustifiable in that she was not warranted, under the circumstances, as a reasonable person, in believing that he would attack her in a violent manner or contemplated any violence to her person. While a party attacked in his own house may stand at bay and turn upon and attack his assailant if apparently necessary to save his own life or protect himself from violence (People v. Lewis, 117 Cal. 186 [59 Am. St. Rep. 167, 48 Pac. 1088]), nevertheless, upon the testimony offered, the jury might well conclude, as it apparently did, that appellant’s story to the effect that when Watson was leaving the house in accordance with her order he grabbed a chair and, advancing toward her, said he would knock her brains out, that she was in' a position from which she could not retreat and escape the fatal blow which she feared-, all of which was denied by Watson, was unfounded. There is ample evidence to justify the verdict.
+Defendant requested a number of instructions which were refused by the court, and error is predicated upon such rulings. An examination of the instructions requested and those given shows that, in so far as they were applicable, every theory of the defense was covered by the instructions given. The argument of her counsel is based upon the contention that, since she was in her own house, defendant’s rights were other than they would have been elsewhere, and he cites a number of cases to the effect that where one is violently attacked in his own house it is not necessary that he withdraw or seek to escape therefrom, but may resist the attack, even to the extent of committing a homicide, in the protection of himself and household. That this is a correct statement of the law admits of no question, and the effect of the instructions given was to so state to the jury. Under the testimony, however, of both Watson and his friend Smitty, the jury, if they believed it, were justified in concluding, not alone that the defendant had not been violently assailed by Watson, but also that he was in the act of peaceably leaving the house at the time when defendant, angered on account of her friend’s attentions to another woman, struck him with the knife.
+We find no prejudicial error in the record.
+The judgment is affirmed.
+Conrey, P. J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on April 14, 1922.
+All the Justices concurred except Sloane, J., and Shurtleff, J., who were absent.
+Richards, J., pro tem., was acting for Waste, J., who was absent.
