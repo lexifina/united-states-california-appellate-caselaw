@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3327"
+decided: "1921-07-29"
+citations: ["53 Cal. App. 707"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. N. McBRIDE et al., Respondents, v. GRANT McCARTNEY, Appellant."]
+source_url: "https://static.case.law/cal-app/53/cases/0707-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077237
+cites_cases: ["22 Pac. 84", "80 Cal. 195"]
+---
+
+# McBride v. McCartney
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+Appeal by the defendant from a judgment awarding to the plaintiffs the sum of and costs.
+In their complaint plaintiffs allege that within two years prior to the commencement of the action defendant became indebted to them on account of money had and received for their benefit. All of the material allegations of the complaint were denied in the answer.
+Plaintiffs were Ihe owners of a house and lot in the city of Los Angeles. They desired to sell the same. Defendant was engaged in the business of buying and selling real estate as an agent. Plaintiffs ¿rally listed with the defendant, through one of the latter’s employees, their property for sale, the price fixed being the sum of $3,500, out of which they expected to pay the customary commission which the evidence shows would have been five per cent or the sum of $175. Defendant found a purchaser for the property, but informed this proposed purchaser that the price was $3,750. Defendant accepted checks from the purchaser for the full amount and then communicated with plaintiff A. N. McBride. Without informing the plaintiff that he had secured a purchaser, he stated to McBride that he had not seen the property but that it was in a good location, and asked McBride what the lowest price was that would be accepted by the latter. After some talk McBride agreed to take $3,250 net cash. Appellant then gave McBride his check for $25 and an escrow was made with a title company covering the transaction; a deed was passed, and the $3,250 paid over to respondents. It was some time after this that the McBrides learned from the purchasers of the property that they had in fact paid $3,750 to McCartney, and this action was thereupon brought. There was a dispute made between plaintiffs and defendant at the trial as to whether the property ever had been listed with the defendant as an agent, the latter denying that any agency had been so created, and claiming that he purchased the property outright and hence violated no trust relationship in retaining the full amount which he received from his clients, to whom the property was in fact transferred. However, we have stated the facts, as we must, in the light of evidence most favorable to the plaintiff’s ease. The evidence being conflicting, the trial court’s determination of the facts is final. Appellant concedes, by not advancing a contrary contention, that if the evidence was sufficient to establish that the relationship of principal and agent existed between him and respondents at the time he effected a sale of the property to third persons, the judgment of the court is right. However, it is insisted that there could be no recovery even under the facts as they have been herein stated, because no written authorization had been given appellant by respondents empowering him to negotiate a sale of the property; that under the statute of frauds the oral authorization is void and ‘of nc,' effect. This position of appellant is not good in law. His principal here elected to ratify all of the acts of the agent. Under such circumstances the acts of the agent become as effectual and binding as though his authority had been expressed by a writing. Wherever an agent, imperfectly authorized in the first place, performs acts in execution of the agency which are ratified by the principal, the principal is entitled to enforce his demands against the agent for anything which the agent has received on his account. As applicable to that kind of a situation Mr. Mechem in his work on Agency (second edition) volume 1, paragraph 501, states the rule to be this: “The principal is therefore entitled to the benefits and the profits of the transaction and to all of the advantages which would flow from an authorized performance, and can compel an accounting therefor from the agent. He may recover from the agent property or money received from the other party by virtue of the transaction ratified; and after ratification the agent may not return to the other party money or property so received; if he does so, he is liable for it to the principal.” (See, also, Bogart v. Crosby, 80 Cal. 195, [22 Pac. 84].) Manifestly, a person after having assumed to act as an agent for a party, and after receiving into his hands moneys on behalf of his principal, cannot repudiate the agency and retain the money without committing fraud against the principal.
+The judgment is affirmed.
+Conrey, P. J., and Shaw, J, concurred.
