@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1843"
+decided: "1962-11-21"
+citations: ["210 Cal. App. 2d 85"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. HOWARD LEE KINARD, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/210/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2304658
+cites_cases: ["16 Cal.Rptr. 117", "164 Cal.App.2d 728", "180 Cal.App.2d 140", "184 Cal.App.2d 69", "195 Cal.App.2d 655", "256 P.2d 911", "290 P.2d 852", "291 P.2d 469", "292 P.2d 513", "303 P.2d 721", "331 P.2d 72", "334 P.2d 105", "4 Cal.Rptr. 347", "40 Cal.2d 876", "45 Cal.2d 751", "45 Cal.2d 776", "46 Cal.2d 68", "47 Cal.2d 374", "7 Cal.Rptr. 202"]
+---
+
+# People v. Kinard
+
+## Majority (COUGHLIN, J.—)
+
+COUGHLIN, J.—
+The defendant and appellant herein was , charged with, and found guilty of burglarizing a service station, a violation of Penal Code section 459, and the attempted burglary of a market; was sentenced to prison; and appeals from the judgment of conviction.
+The sole question raised upon appeal is whether certain evidence introduced over objection was obtained in violation of the constitutional guarantee against unlawful searches and seizures.
+After the defendant’s arrest a police officer went to 1851 Logan Street, in San Diego, which was the home of the defendant’s mother-in-law and the address he had given as his residence; there interviewed the defendant’s sister-in-law, a Mrs. Flores, the latter’s brother and other relatives; told them that the defendant had been arrested for burglary ; asked if he lived at the address in question and received an affirmative reply; asked to see his belongings and was given a suitcase which the officer searched; inquired whether the defendant lived anywhere else; was told that he had been given permission to stay at 1809 Logan Street, which was Mrs. Flores’ home, as she was residing with her mother due to an accident. At the trial the officer testified respecting his conversation with Mrs. Flores that, among other things, “I asked her if I might have permission to look through her house. She stated ‘Yes’ and started looking for the house key. Her mother came in, shortly thereafter, and there was some conversation about her having given the mother the house key. So they both looked, and then Mrs. Flores informed me that they couldn’t find it, but that there was a broken window on the side of their house that was easy to get into.” Thereafter, the officer asked the brother to accompany him to 1809 Logan Street; upon arrival went to the broken window; requested the brother to enter the home through this window; entered the house after the brother had complied with this request and opened the front door; and, upon search, located articles implicating the defendant in the burglary of the service station and the attempted burglary of the market. These articles were offered in evidence as exhibits in support of the People’s case. The defendant objected thereto upon the ground that they had been obtained without a search warrant and in violation of his constitutional guarantee against unlawful searches and seizures. The court overruled the objection upon the ground that permission to make the subject search had been given. The defendant contends that this ruling was error.
+A search of premises made in good faith pursuant to consent voluntarily given by one having apparent authority to do so, is not unreasonable. (People v. Caritativo, 46 Cal.2d 68, 73 [292 P.2d 513]; People v. Michael, 45 Cal.2d 751, 753 [290 P.2d 852] ; People v. Gorg, 45 Cal.2d 776, 783 [291 P.2d 469]; People v. Ransome, 180 Cal.App.2d 140, 145 [4 Cal.Rptr. 347] ; People v. Howard, 166 Ca.l.App.2d 638, 651 [334 P.2d 105].) The existence of such consent is a question of fact to be determined by the trial court. (People v. Roberts, 47 Cal.2d 374, 377 [303 P.2d 721] ; People v. Michael, supra, 45 Cal.2d 751, 752; People v. McCoy, 195 Cal.App.2d 655, 657 [16 Cal.Rptr. 117].) If there is any substantial evidence to support such determination, it will be affirmed on appeal. (People v. Daugherty, 40 Cal.2d 876, 885 [256 P.2d 911].)
+In the instant case the evidence adequately supports the implied finding of the trial court that Mrs. Plores consented to the search of her home. The defendant’s contention to the contrary is based on the testimony of Mrs. Plores and her brother that consent had not been given. However, this testimony merely raised a conflict in the evidence, the resolution of which was an exclusive function of the trial court. (People v. Gorg, supra, 45 Cal.2d 776, 781; People v. Robinson, 184 Cal.App.2d 69, 76 [7 Cal.Rptr. 202] ; People v. Melody, 164 Cal.App.2d 728, 734 [331 P.2d 72].) In this regard it is worthy of note that in response to a question by the trial judge, Mrs. Plores testified that she was looking for the key during the course of the officer’s interview with her because she “was going to let him go look in the house.”
+The defendant claims that, in any event, the search was unlawful because the evidence establishes without conflict that entry into the house through a window by Mrs. Flores ’ brother, and his subsequent opening the front door to permit the officer’s admittance, was without her consent. However, it is obvious that the officer was the person who made the entry resulting in the search to which the defendant objects. The fact that the officer’s entry was facilitated by the act of an agent using a contemplated way of entry did not avoid the consent to enter.
+“In this proceeding we are not concerned with enforcing defendant’s rights under the law of trespass and landlord and tenant, but with discouraging unreasonable activity on the part of law enforcement officers.” (People v. Gorg, supra, 45 Cal.2d 776, 783.)
+Under the circumstances in the case at bar the method of admission into the subject premises and the subsequent search to which the defendant objects, were not unreasonable.
+The order of the court admitting the evidence in question was proper.
+The judgment is affirmed.
+Griffin, P. J., and Shepard, J., concurred.
