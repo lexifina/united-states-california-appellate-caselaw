@@ -1,0 +1,62 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3205"
+decided: "1927-12-09"
+citations: ["87 Cal. App. 429"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAUGHY-RED BLUFF SAW AND MACHINE WORKS (a Corporation), Respondent, v. A. P. WALLER, Appellant."]
+source_url: "https://static.case.law/cal-app/87/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2098955
+---
+
+# Haughy-Red Bluff Saw & Machine Works v. Waller
+
+## Majority (WEYAND, J., pro tem.)
+
+WEYAND, J., pro tem.
+On January 13, 1921, the appellant Waller made and executed his promissory note for $375, payable six months after date, with interest. This note was payable to the order of the maker and was by Waller immediately indorsed and delivered to one G. D. Martin, whose connection with the matters in controversy will be presently explained.
+With the above note defendant Waller also executed a writing worded as follows: >
+“Jan. 13, 1921.
+“To any Bank or Banker:
+“You are at liberty to purchase my note of this date for $375.00 or to loan money against it, given to Bed Bluff National Bank, if you desire. There are no offsets or conditions against the note..
+“ (Signed) A. P. Waller.
+“Address Bed Bluff, Calif.”
+This writing was likewise delivered to said Martin.
+Appellant affirmatively alleges that both Martin and Waller signed a document in the following terms, to wit: “No. -. Jan 13, 1921.
+“I hereby subscribe and contract for six thirtieths of One Equity of the Two Thousand (2,000) parts of undivided Equities in Bessolo Patent Pipe and Nut Wrenches filed in the United States Patent Office as follows;—(here follows a description of the alleged patents) as per bill of conveyance bearing my signature to subscription on back of same of even date, and for myself, my heirs, administrators, executors and assigns, I agree to all conditions of the bill of sale. *
+“ (Signed) A. P. Waller.
+“Address Bed Bluff, Cal.
+“ Beceived $125.00.
+“Due $375.00 6 months from date.
+“ (Signed) G. D. Martin, “Conveyor.”
+The evidence taken in the case discloses that one William Louis Bessolo claimed to own some valuable patents on a new and useful wrench, and it appears that said Bessolo had, prior to the date of the note, transferred a certain interest in these patents^ to the “name” of said G. D. Martin, which individual was to act as “conveyor” thereof to the several purchasers who might subscribe for interests therein. Martin was acting with Bessolo and a committee of citizens of Red Bluff, in the promotion of a factory proposed to be erected at Red Bluff, California, for the manufacture of wrenches under the Bessolo patents. This committee was composed of H. P. Stice, R. L. Douglas, A. L. Conard, and H. P. Jerrett.
+Waller’s total subscription was $500, of which $125 was paid in cash, and the balance thereof was covered by the above note.
+The cash obtained by Martin from Waller, together with the note and the other writing executed by Waller, were all delivered by Martin to the above-described committee, and were by said committee in turn placed in the Red Bluff National Bank, the money being deposited in the name of the committee, and the note being, on or about March, 1921, used by said committee as collateral.
+Many citizens of Red Bluff and vicinity bought like interests in the Bessolo patents, all for the purpose of aiding in the establishment of the wrench factory. Some subscribers paid their subscriptions in cash, and some paid partly in cash but in a larger proportion of cash than was paid by Waller. Their several subscriptions were dealt with by this committee in the same manner as Waller’s money and note were dealt with. The fund obtained, either from cash payments by subscribers or from a deposit of the notes of the subscribers, was used by this committee in the purchase of a factory site, and in the erection thereon of a building for factory purposes.
+The committee of citizens had a disagreement with Bessolo, over matters in connection with the establishment of the wrench factory, some time prior to April, 1922', and the scheme to establish the proposed wrench factory wholly failed. Thereupon the said committee endeavored to establish another factory, of a similar nature, on the site purchased, and with a salvage of the assets of the proposed wrench factory.
+In April, 1922, while defendant’s note was outstanding in the hands of the committee, or in the bank above named, Waller, by an instrument in writing, transferred his interest in the Bessolo patents, which he received from Martin on January 13, 1921, to one J. C. Haughy, this paper being worded as follows:
+“FOR VALUE RECEIVED, each of the undersigned hereby assigns, transfers and conveys to J. C. Haughy, of Red Bluff, California, the rights, interest and properties, to-wit:
+“All those certain interest and rights in and to those certain Letters Patent issued to William Louis Bessolo and which were heretofore sold by said Bessolo to the undersigned respectively, and which are particularly described as follows to-wit:
+“That certain number set opposite our respective names of equities of the 2000 parts of undivided equities in United States Patents covering pipe and nut wrenches as follows:”
+[Here follows description of the Bessolo patents]
+“Also all of the interest of the undersigned respectively in any and all of the funds or property paid or transferred by the undersigned respectively for the said rights and interest hereinabove described and hereby transferred by said J. C. Haughy and the property into which the same may have been converted; and ah rights of actions and claims of every kind and character which the undersigned respectively have or may have against said William Louis Bessolo growing out of said transaction.
+“IN WITNESS WHEREOF, we have hereunto signed our respective names this - day of April, 1922.
+“Name Number of Units Number of Units or
+or Equities Equities Transferred
+Transferred in Dollars—Paid
+“A. P. Waller 6”
+It will be here noted that Waller assigned to Haughy any and all funds that he had theretofore paid and any claim' or right of action against Bessolo, on account of the transaction. Haughy then gave to Waller a document, from which we will, on account of its great length, take but sufficient of the contents to show its bearing on the present situation. This document is dated February 5, 192'2, and first recites the fact of original ownership by Bessolo of the patents, describing them, the sale of interests therein, to Red Bluff citizens, the different steps taken in the attempt to establish the wrench factory, the failure of this attempt to establish such factory, and the fact of disagreements with Bessolo, and said writing then contains a proposal by said Haughy to establish another factory with the assets of the previous factory venture.
+Haughy agrees to organize a new corporation with a capital stock of 100,000 shares of the par value of one dollar per share and to issue stock to the subscribers to the Bessolo factory, in the proportion of their subscription, to the wrench factory, in exchange for said subscribers’ interests in the funds and property created by their former subscription to the Bessolo venture. Haughy to have fifty-one per cent of the stock, the subscribers to have a share for each dollar they had subscribed, and the balance of the stock, if any, to be sold as treasury stock for the benefit of the new corporation. The Bessolo factory subscribers, who had given notes for their former subscriptions, which notes were yet unpaid, and who chose to make an assignment to Haughy, were to pay their notes at the Red Bluff National Bank and receive their shares of stock in the new concern. There was in this agreement a provision worded as follows:
+“That he, the said James G. Haughy, will thereupon cause to be issued out of the remaining 49% of said stock to each of said equity holders making such transfer, shares of stock of said corporation to the number of the dollars each equity holder has paid or agreed to pay for the equity so by him transferred to James C. Haughy; such shares of stock when issued shall be delivered by the Corporation for each of such equity holders to the Red Bluff National Bank, and in those eases where such equity holders’ subscription for such equity has not been fully paid, or is still partly represented by a promissory note, the shares to be so issued to such equity holder shall remain in escrow with said bank until such balance or such promissory note has been paid, and in the event the same be not paid on or before July 1, 1922, such shares of stock shall revert to said corporation.”
+While allegations of fraud were made by appellant in his answer and in his briefs herein, yet on the trial there was no showing that there was any fraud in these transactions, and upon oral argument before this court appellant conceded there was no fraud proven.
+Appellant never paid the note, and hence this suit was brought for the collection thereof.
+Appellant answered and denied ownership of the note in plaintiff. He further alleged a total failure of consideration. By a second affirmative answer he alleged fraud in the obtaining of the note. By a third affirmative defense Waller averred that in consideration of his assignment of the Bessolo patents to “plaintiff” the “plaintiff” agreed to cancel this note.
+On the conclusion of the evidence plaintiff moved for an instructed verdict, which motion was granted, judgment was rendered for plaintiff and defendant Waller appeals to this court.
+While the statement of facts is lengthy, yet we regard the matter as quite simple. We will take up the contentions of appellant in their order. 1. As to ownership of this note, it being payable to the order of the maker, and being by the maker indorsed; we are of the opinion the note was good, as against the maker in any hands it fell. Plaintiff actually produced it at the trial, and there was no proof that it was not the owner. Plaintiff was presumed to be such owner. 2. Upon the defense of failure of consideration, there was no proof in the record that the Bessolo patents were worthless. For aught that appears they were of a value commensurate with the price paid by Waller. Waller, however, by his own act, parted with his title to the interests in the patents by transferring them to J. C. Haughy. It appears in the testimony that Haughy retransferred them to Béssolo. Waller, in addition to making transfer of the interest in the patents to Haughy, also assigned to Haughy the fund or property his subscription had created and also any right of action he might have had against Bessolo on account of the transactions. Still, in addition to all this, Haughy by his agreement of February 5, 1922, was to deliver to Waller stock in the new factory, for his note and cash payment, which stock the plaintiff tendered to defendant Waller, and which Waller refused to accept. The testimony of Waller, as we think, clearly shows his acceptance of this agreement. There is no proof that the new stock was worthless. 3. The defense of fraud is entirely waived by the defendant. 4. Coming, then, to the claim that “plaintiff,” in consideration of an assignment to it of the patent interests, agreed to cancel the note in suit, we find that defendant by direct testimony shows that when he signed this transfer to Haughy (not to plaintiff) he did so on the promise by Haughy of stock .in the new company, and that he would be entitled to such stock when it was organized. As stated above, this stock was issued by plaintiff and tendered to Waller. A still further answer to the claim as made by the third affirmative answer is this: Waller claims that “plaintiff” made these promises in consideration of the cancellation of the note. In the nature of things this was not possible. The plaintiff company was not in existence at the/time of the Haughy assignment, nor for months thereafter.
+We can see no reason for the citation of authority in support of these conclusions.
+While there may have been errors committed in the rejection of testimony offered by appellant, there was no ruling that affected any substantial right of defendant, to his prejudice.
+The judgment of the lower court is affirmed.
+Plummer, J., and Finch, P. J., concurred.
