@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13119"
+decided: "1946-12-30"
+citations: ["77 Cal. App. 2d 449"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRIFFITH COX, Appellant, v. CHARLES KAUFMAN et al., Defendants; IDA KAUFMAN, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/77/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4451880
+cites_cases: ["111 P.2d 641", "17 Cal.2d 679", "196 Cal. 279", "237 P. 747"]
+---
+
+# Cox v. Kaufman
+
+## Majority (DOOLING, J.)
+
+DOOLING, J.
+Plaintiff appeals from a judgment of non-suit entered in favor of defendant Ida Kaufman at the close of the plaintiff’s case.
+Defendants Charles Kaufman and Ida Kaufman are husband and wife. At the time of the injuries to plaintiff the Kaufmans were both employed by the same employer. On certain days of the week Mrs. Kaufman’s employment commenced at an earlier hour than that of her husband and on such days Mr. Kaufman was in the habit of driving Mrs. Kaufman to their common place of employment. ■ On such occasions they made only one trip and Mr. Kaufman would remain at their place of employment until his hours of employment commenced. The morning when the car driven by Mr. Kaufman struck and injured plaintiff was one of those on which Mrs. Kaufman was required to begin her work at an earlier hour than her husband, and Mr. Kaufman was taking his wife to their place of employment at the time. It was stipulated that the automobile which Mr. Kaufman was driving had been purchased by him with community funds and that the car was registered in the name of Mr. Kaufman as owner.
+Although registered in Mr. Kaufman’s name the automobile, having been purchased with community funds, was the community property of the spouses. (3 Cal.Jur. 10-Yr. Supp. 521.) Under section 161a of the Civil Code the wife now has a “present, existing and equal” interest in the community property. Section 402 of the Vehicle Code imposes a liability upon the owner of an automobile for the negligence of any person using or operating it with the owner’s consent, express or implied, and appellant argues that because of Mrs. Kaufman’s community interest in the automobile she is an owner within the meaning of this section of the Vehicle Code. This may be conceded but the question still remains whether under our law a husband using or operating an automobile which is community property may be said to be doing so with the express or implied consent of his wife so as to make her liable 73nder Vehicle Code, section 402.
+Civil Code, section 161a reads: ‘' The respective interests of the husband and wife in community property during continuance of the marriage relation are present, existing and equal interests under the management and control of the husband as is provided in sections 172 and 172a of the Civil Code. This section shall be construed as defining the respective interests and rights of husband and wife in the community property. ’ ’
+Section 172, Civil Code, therein referred to, provides: " The husband has the management and control of the community personal property, with like absolute power of disposition, other than testamentary, as he has of his separate estate; provided, however, that he cannot make a gift of such community personal property, or dispose of the same without a valuable consideration, or sell, convey, or encumber the furniture, furnishings, or fittings of the home, or the clothing or wearing apparel of the wife or minor children that is community, without the written consent of the wife,”
+The effect of these sections is to continue in the husband the same power of management and control of the community property that he had before the enactment of section 161a Civil Code. (3 Cal.Jur. 10-Yr. Supp. 608; Grolemund v. Cafferata, 17 Cal.2d 679 [111 P.2d 641], In Grolemund v. Cafferata at page 684 the court said:
+“That the addition in 1927 of section 161a, defining the interests of the spouses in community property, did not change the rule vesting in the husband the entire management and control of the community property is manifest by the express recognition accorded sections 172 and 172a in the later statute.”
+Having the entire management and control of the community property “as he has of his separate estate” (Civ. Code, § 172) no consent of the wife, express or implied, to her husband’s use or operation of the community automobile could add anything as a matter of law or of fact to his rights in that respect, which are already plenary and complete. Under sections 161a and 172 Civil Code her objection to his use of the automobile would be as futile as her consent to his use of it would be superfluous. His operation of the ear in contemplation of law is referable to his absolute right to manage and control the community property and not to any consent, express or implied, of his wife; and section 402 Vehicle Code for that reason has no application to the facts of this case.
+Appellant further argues that since the trip was in Mrs. Kaufman’s car and for her benefit the jury might have inferred that Mr. Kaufman was her agent in driving the car. The primary test of agency is the right of control. No facts were proved in this case to support an inference that Mrs. Kaufman had any right to control her husband in the operation of the community automobile. Under sections 161a and 172 the right to manage and control the car was vested exclusively in him. The fact that he was transporting her to her work cannot support an inference that he yielded this right of control to her. In this respect she was no different from a stranger who might have been accommodated by the husband in the same way. Ransford v. Ainsworth, 196 Cal. 279 [237 P. 747] is markedly different on its facts. There the husband was driving his wife’s car (which was her separate property) on his wife’s business at the time of the injury on which the action was grounded, and it was on these facts that the court held an inference of agency to be justified.
+Section 1714, making one liable for his “want of ordinary care or skill in the management of his property” cannot help appellant because while the husband is present his right to manage and control the community property is exclusive and the wife has no right of management or control.
+Judgment affirmed.
+Nourse, P. J., and Goodell, J., concurred.
