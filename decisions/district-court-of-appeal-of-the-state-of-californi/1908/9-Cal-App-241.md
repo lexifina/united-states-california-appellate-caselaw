@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 545"
+decided: "1908-10-28"
+citations: ["9 Cal. App. 241"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. A. CURTIN, Appellant, v. J. W. INGLE, Respondent."]
+source_url: "https://static.case.law/cal-app/9/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2387794
+cites_cases: ["151 Cal. 219", "26 Pac. 608", "88 Cal. 420", "90 Pac. 543"]
+---
+
+# Curtin v. Ingle
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This is a motion to dismiss an appeal from a judgment. The ground of the motion is that the transcript was not filed within forty days after the appeal from the judgment was perfected.
+The judgment in this case was entered May 22, 1907, and, for the purpose of keeping alive an attachment, plaintiff took and perfected an appeal therefrom within five days, to wit, on May 27, 1907. On May 28, 1907, plaintiff served and filed his notice of motion for a new trial, to be heard on the minutes of the court. This motion was heard October 4, 1907, and was denied and entered October 14, 1907. Thereafter, and in due time, on December 17, 1907, the plaintiff served on defendant his original statement on motion for a new trial, and the defendant served his amendments thereto December 27, 1907. On the sixth day of January, 1908, the statement and amendments were delivered to the clerk of the court for the judge for settlement, and the settlement thereof is now pending and set for hearing. The affidavits on file do not show that any stipulation had been entered into or order made extending the time to serve and file the transcript on appeal.
+The respondent contends that the transcript on appeal from the judgment should, under rule II of this court, have been filed forty days after the appeal was perfected. This, of course, is true unless the facts bring the case within either of the two provisos of the rule extending the time, or unless good cause is shown for the delay.
+. Rule II (144 Cal. xl, [78 Pac. vii]) reads as follows: “The appellant in a civil action shall within forty days after the appeal is perfected serve and file the printed transcript of the record, duly certified to be correct by the attorneys of the respective parties, or by the clerk of the court from which the appeal is taken; provided, that when there is a proceeding pending for the settlement of a bill of exceptions or a statement which may be used in support of such appeal, the time for filing and serving the transcript shall not begin to run until the settled and authenticated statement or bill of exceptions has been filed; and provided, further, that when a party appealing from a judgment has given notice of motion for a new trial before perfecting said appeal, the time for filing and serving the printed transcript shall not begin to run until the motion for a new trial has been decided or the proceeding dismissed for want of prosecution; and the appeal from the judgment and from any order denying a new trial of the issue may in all cases be presented upon the same transcript.”
+The appeal from the judgment, as we have just seen, was perfected May 27th, and not within forty days thereafter, nor, indeed, until nearly seven months later (December 17th), when appellant served respondent with a statement on appeal, can it be said that there was pending a proceeding for the settlement of a statement which might be used to support such appeal; hence, as there was no settlement of a bill of exceptions or statement pending within forty days after the perfecting of the appeal, the first proviso of rule II does not apply.
+Nor does appellant come within the second proviso, for instead of giving the notice of motion first and perfecting his appeal afterward, he did the reverse; he perfected the appeal May 27th, and the next day gave his notice of motion for a new trial. But assuming, without deciding, that the order in which these two steps were taken is, as claimed by appellant, unimportant, still this proviso is inapplicable because more than forty days have long ago elapsed since the motion was denied (October 14th), and no transcript has yet been filed.
+The rule covers the majority of cases, but it does not seem to contemplate a state of facts such as is here presented. However this may be, we are of the opinion that the circumstances of the present case show a sufficient excuse why the transcript has not yet been served and filed. Whether there has been such laches and delay in the settlement of the statement as would warrant the trial court in dismissing the proceeding is a question primarily for the trial court to determine (Dernham v. Bagley, 151 Cal. 219, [90 Pac. 543]). As no motion has been made there to dismiss the proceeding, and as it is still pending there and not abandoned, we are bound to assume that the appellant in that proceeding has been guilty of no inexcusable neglect. If he has not been guilty of neglect there, and as the transcript cannot be served and filed until the statement is settled, we certainly cannot hold that he has been guilty of inexcusable neglect here. The facts disclosed by the record in this case are such that, had the appellant made application to this court for an extension of time in which to serve and file the transcript, such extension would have been granted; and we see no reason why the same considerations should not have weight in the determination of this motion (Chapman v. Bank of California, 88 Cal. 420, [26 Pac. 608]), particularly as the rule of court here invoked for the dismissal of the appeal does not seem to be primarily designed to deal with a ease of this character.
+The motion to dismiss the appeal is denied.
+Cooper, P. J., and Hall, J., concurred.
