@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 16434"
+decided: "1955-11-15"
+citations: ["137 Cal. App. 2d 1", "289 P.2d 498"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVERETT L. BURCH, Appellant, v. JOHN D. SLAMIN et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/137/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2170127
+cites_cases: ["128 P.2d 623", "168 P.2d 665", "172 P.2d 84", "221 P.2d 218", "23 Cal.App.2d 173", "237 P.2d 981", "28 Cal.2d 61", "38 Cal.2d 114", "54 Cal. App.2d 37", "72 P.2d 774", "75 Cal.App.2d 925", "98 Cal.App.2d 811"]
+---
+
+# Burch v. Slamin
+
+## Majority (DOOLING, J.)
+
+DOOLING, J.
+Plaintiff appeals from an order granting a motion to dismiss his action on the ground that it had not been brought to trial within five years. (Code Civ. Proe., § 583.) The action grows out of a three-automobile collision in which the plaintiff and the defendants Slamin and McNulty was each the driver of one of the three cars. Plaintiff had with him as a passenger at the time of the collision one Belfield, an employee, who was killed. His wife was awarded $8,550 against plaintiff by the Industrial Accident Commission. The present action was brought in San Francisco by plaintiff under Labor Code, section 3852, to recover the amount of this award on his own behalf and additional damages for Belfield’s widow.
+Defendant Slamin did not appear in the action but defendant McNulty and other named defendants filed an answer which included an attempted plea in abatement based on a pending action in San Mateo County arising out of the same collision in which McNulty was plaintiff and Burch, Slamin et al. were defendants. Nothing further was done in the San Francisco action until the motion to dismiss was made.
+In opposition to the motion to dismiss, one of plaintiff’s attorneys filed an affidavit reciting the fact and date of the bringing and the pendency of the San Mateo County action, the purported plea in abatement based thereon, and counsel’s failure to set the cause for trial “relying upon the contention of the moving parties” and “waiting for the final disposition of the action pending in San Mateo County as alleged in the Answer filed by the defendants making the Motion to Dismiss.” Affiant concluded: “That until the final disposition of the action pending in San Mateo County ... it would be impracticable and futile to try this action . . . for the reason that said defendants contend that a disposition and determination of the action pending in San Mateo County would determine in substantial measure the issues pending in this action.”
+Where complaints are filed in two counties involving the same subject of action the county in which summons is first served acquires jurisdiction of the entire controversy and the action in the other county is subject to abatement on the ground of another action pending. (M. H. Golden etc. Co. v. Superior Court, 98 Cal.App.2d 811, 815-816 [221 P.2d 218]; Myers v. Superior Court, 75 Cal.App.2d 925, 930 [172 P.2d 84] ; Gorman v. Superior Court, 23 Cal.App.2d 173 [72 P.2d 774].)
+If the plea in abatement was in fact good, under the doctrine of Pacific Greyhound Lines v. Superior Court, 28 Cal.2d 61 [168 P.2d 665], it appears that the failure to bring the action to trial during the time that the San Mateo County action was pending would be excused on the ground that it was impossible or impracticable to do so. In the Greyhound case the court held that where one party was in the military service during World War II, even though he had not in fact asked for a stay, the failure to bring the action to trial was excused where a stay, under the Soldiers’ and Sailors’ Civil Relief Act, would have been mandatory if applied for. So here, while the trial court in the San Francisco action did not enter an interlocutory judgment of abatement, if it was mandatory that it do so if the question had been brought to trial, the rule of the Greyhound case would appear to be applicable.
+The burden was on the plaintiff in opposition to the motion to establish facts showing the impossibility or impracticability of bringing the action to trial. Appellant did not meet this burden. While he showed that the San Mateo County action was filed prior to the filing of his action in San Francisco he did not show, and it nowhere appears in the record, that summons was served in the San Mateo County action before it was served in the action in San Francisco. Indeed respondents’ attempted plea in abatement was insufficient in the same particular and would have been subject to general demurrer on that ground.
+Appellant states in his closing brief that summons was first served in the San Mateo County action, but there is nothing in the record to support this assertion. Even if it is the fact that fact was not proved in the trial court and the trial judge was required to act on the evidence produced before him. That evidence failed to show that the San Mateo County court first acquired jurisdiction and therefore failed to show that the San Francisco action was in fact subject to abatement.
+Appellant argues that in any event respondents should be estopped by their conduct to take advantage of the delay which they induced by their plea in abatement. It is impossible to find the elements of estoppel in this case, even if estoppel is available in this type of situation, which seems doubtful. (Bank of America v. Moore & Harrah, 54 Cal. App.2d 37, 43-44 [128 P.2d 623].) How could appellant be misled?
+Appellant knew when summons was served on him in the San Mateo County action. He therefore knew whether or not the plea in abatement was good in fact. He had a ready remedy if it was not good under Code of Civil Procedure, section 597, by asking the court to try first and separately the issue raised by the plea in abatement.
+There is nothing in the facts of this case to make the rule announced in Rose v. Knapp, 38 Cal.2d 114 [237 P.2d 981], applicable. There the result in the main case depended on the outcome of another action pending on appeal. Here the court having jurisdiction could proceed to trial without regard to the other pending action.
+The order is affirmed.
+Nourse, P. J., and Kaufman, J., concurred.
