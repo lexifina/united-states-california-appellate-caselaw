@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9178"
+decided: "1934-11-17"
+citations: ["2 Cal. App. 2d 276"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAN JOSE PACIFIC BUILDING AND LOAN ASSOCIATION (a Corporation), Respondent, v. AUGUSTA CORUM, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/2/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2255978
+cites_cases: ["118 Cal. App. 525", "139 Pac. 75", "151 Cal. 313", "167 Cal. 238", "17 Pac. (2d) 101", "205 Cal. 93", "217 Cal. 5", "230 Pac. 198", "269 Pac. 1109", "34 Cal. 28", "5 Pac. (2d) 620", "6 Cal. App. 475", "61 A. L. R. 366", "69 Cal. App. 35", "90 Pac. 689", "92 Pac. 500"]
+---
+
+# San Jose Pacific Building & Loan Ass'n v. Corum
+
+## Majority (THE COURT.)
+
+THE COURT.
+This is a summary proceeding in unlawful detainer based upon section 1161a of the Code of Civil Procedure providing that where property has been sold under section 2924 of the Civil Code under a power of sale contained in a trust deed, and the title of the purchaser has been duly perfected, he may maintain against the trustor in possession a summary and special proceeding to remove him after first serving upon him and his subtenants a three days’ notice to quit.
+It is alleged in the complaint and denied in the answer that the rental value of the property is $1500 a month. It is also alleged that the reasonable value of the property is $123,000. Judgment went in favor of plaintiff for the possession of the premises. The appeal is taken on the judgment roll alone. The findings state that no finding is made of the amount of the rental value for the reason that no evidence was offered upon the subject. It is appellant’s main contention that as the record affirmatively shows there was no evidence adduced as to the monthly rental value of the rental estate, and no finding made for the specified reason, the findings as made do not support the judgment and the latter is void for want of jurisdiction in the superior court over the case, as such court would have jurisdiction only in the event that the case was not within the jurisdiction of the justice’s court. There is no merit in the contention. The complaint, as above stated, alleged the property to be of the reasonable value of $123,000 and the rental value thereof $1500 per month. The complaint also asks for damages in. the sum of $3,000. These averments manifestly bring the case within the jurisdiction of the superior court. Where the jurisdiction of the court depends upon the amount in controversy, the complaint as a whole is to be examined to determine whether or not jurisdiction exists. (Hammell v. Superior Court, 217 Cal. 5 [17 Pac. (2d) 101].) Here there is no question as to the good faith of the plaintiff in bringing his suit in the superior court. (7 Cal. Jur. 692; Gardiner v. Royer, 167 Cal. 238 [139 Pac. 75].) The fact that no damages were allowed in no manner affected the jurisdiction. Jurisdiction attaches by reason of the amount in controversy and is in no manner affected by what the plaintiff is found to be entitled to recover after trial. (Gardiner v. Royer, supra; 7 Cal. Jur. 694; Pratt v. Welcome, 6 Cal. App. 475 [92 Pac. 500] ; Becker v. Superior Court, 151 Cal. 313 [90 Pac. 689]; Solomon v. Reese, 34 Cal. 28.)
+Appellant next contends that as the complaint fails to show service on the subtenants of notice to quit, such service upon them being a jurisdictional requirement, no cause of action is stated in the complaint. This contention is without merit. (Tujague v. Superior Court, 69 Cal. App. 35 [230 Pac. 198] ; Telegraph Avenue Corp. v. Raentsch, 205 Cal. 93 [269 Pac. 1109, 61 A. L. R. 366].)
+And finally, it is urged that the complaint fails to allege with sufficient certainty, or allege at all, the taking of the necessary steps going to show a valid sale. The complaint alleged that plaintiff duly performed and caused to be performed all the conditions on its part required to be performed by section 2924 of the Civil Code, and all other provisions of law applicable thereto, and all provisions contained in said deed of trust. This is all that was necessary. (Ley v. Babcock, 118 Cal. App. 525, 527 [5 Pac. (2d) 620].) In this connection respondent upon its motion to dismiss the appeal or affirm the judgment has filed an affidavit in which it is set forth that this question is moot by reason of the finality of two judgments, described in the affidavit attached to the motion, wherein the validity of all steps in the foreclosure proceedings were finally adjudged to be regular. Whether these judgments are res judicata against appellant’s contention is unimportant considering the conclusion we have reached concerning the sufficiency of the complaint.
+The judgment is affirmed.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on December 17, 1934, and an application by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on January 14, 1935.
