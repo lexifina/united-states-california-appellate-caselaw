@@ -1,0 +1,40 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 55713"
+decided: "1979-08-13"
+citations: ["96 Cal. App. 3d 38"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUN LTD., Plaintiff and Respondent, v. ELANA CASEY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/96/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1995941
+cites_cases: ["119 Cal.Rptr. 116", "140 Cal.Rptr. 116", "173 P.2d 313", "18 Cal.Rptr. 338", "198 Cal.App.2d 474", "275 Cal.App.2d 84", "29 Cal.2d 119", "45 Cal.App.3d 223", "72 Cal.App.3d 361", "79 Cal.Rptr. 868"]
+---
+
+# Sun Ltd. v. Casey
+
+## Majority (COMPTON, J.)
+
+Opinion
+COMPTON, J.
+In an unlawful detainer action Elana Casey suffered a default judgment against her in the amount of $4,533.40. The judgment creditor, pursuant to a writ of execution, seized her automobile worth $2,320. Her claim for exemption under Code of Civil Procedure section 690.4 was denied. She appeals. We reverse.
+The creditor has filed no respondent’s brief, hence, we accept as true the facts in the appellant’s brief. (Cal. Rules of Court, rule 17(b).)
+Elana is a handicapped individual who uses a wheelchair. She is a licensed real estate saleswoman and uses her automobile to get herself and prospective buyers to and from listed properties.
+Code of Civil Procedure section 690.2 exempts from execution, one motor vehicle with an equity value not to exceed $500. While this section is of little aid to Elana it is evidence of the Legislature’s recognition of the fact that the automobile is a basic form of transportation for all individuals and a fundamental need in this state. (See Smith v. Rhea, 72 Cal.App.3d 361 [140 Cal.Rptr. 116].) Further, the prevailing policy in California is to construe exemption statutes liberally in favor of debtors. (Independence Bank v. Heller, 275 Cal.App.2d 84 [79 Cal.Rptr. 868].)
+Against this background we examine the statutory scheme of exemption as applied to an individual who uses a motor vehicle in pursuit of his or her employment.
+Code of Civil Procedure section 690.4 provides: “To the maximum aggregate actual cash value of two thousand five hundred dollar^ (2,500), over and above all liens and encumbrances on such items at the, time of any levy of attachment or execution thereon, any combination of the following: tools, implements, instruments, uniforms, furnishings, books, equipment, one commercial fishing boat and net, one commercial motor vehicle reasonably necessary to and actually used in a commercial activity, and other personal property ordinarily and reasonably necessary to, and personally owned and used by, the debtor exclusively in the exercise of the trade, calling, or profession by which he earns his livelihood.”
+This present version of the statute was enacted in 1970, replacing the former Code of Civil Procedure section 690.4 which was more specific in describing the various items which were exempt from execution. The law now is a broader “open-designation” type of statute. (See Trost, Recent Developments in Debtor Protection (1971) 46 State Bar J., p. 639.)
+As we read the present statute it provides for essentially four categories of exempt property, to wit, (1) tools, equipment, instruments, implements and equipment, etc., used in one’s trade, calling or profession; (2) a commercial fishing boat and net; (3) a commercial motor vehicle reasonably necessary to and actually used in commercial activity; (4) other personal property necessary to and exclusively used to earn one’s livelihood.
+The trial court here ruled that the vehicle did not qualify as a commercial vehicle, interpreting that particular exemption as applying only to vehicles such as taxis, buses, etc., used to provide transportation for hire. (Veh. Code, § 260; Government Employees Ins. Co. v. Carrier Ins. Co., 45 Cal.App.3d 223 [119 Cal.Rptr. 116].)
+Significantly the trial court did find that the automobile was “a tool or an implement” relying on the case of Lopp v. Lopp, 198 Cal.App.2d 474 [18 Cal.Rptr. 338]. That case decided under the statute as it previously read, held that a pickup truck was an exempt tool or implement when used by a debtor in a business of mounting and dismounting retread tires for used car lots. We agree with the trial court’s finding in that regard and, in fact, are bound by that finding. (Lopp v. Lopp, supra.)
+The trial court’s denial of exemption, even in the face of that finding, was based on the erroneous conclusion that the phrase in the statute “used by the debtor exclusively in the exercise of the trade” applied to all categories of exemptions. Elana did not offer any proof that the vehicle was used “exclusively” in her trade or profession.
+Statutes are to be interpreted in accordance with the intent of the Legislature insofar as that intent can be ascertained. In seeking to determine that intent we consider the purpose, object and policy underlying the enactment. (Stillwell v. State Bar, 29 Cal.2d 119 [173 P.2d 313]; Smith v. Rhea, 72 Cal.App.3d 361 [140 Cal.Rptr. 116].)
+Under prior versions of the exemption statutes, there was no “exclusivity” requirement applied to the tools of one’s trade. A carpenter who makes his living with a hammer and a saw does not forfeit their exemption if he also uses that same hammer and saw for making repairs on his own house or assisting friends in making repairs or construction.
+It seems clear to us that when the Legislature replaced the former statute with one which is admittedly broader and more “open-ended,” it did not intend to be more restrictive in dealing with items historically and traditionally exempt.
+We conclude that the “exclusive use” limitation in the statute modifies only that newly added and more inclusive category of exemption of “other personal property.”
+Because we conclude that Elana’s automobile is exempt as a tool, implement or equipment necessary to her earning a livelihood, we need not reach the question of whether the trial court correctly interpreted the “commercial vehicle” exemption.
+The order is reversed and the matter is remanded to the trial court with directions to enter an order granting the exemption.
+Roth, P. J., and Fleming, J., concurred.
+Former Code of Civil Procedure Code section 690.4 read: “The tools or implements of a mechanic or artisan, necessary to carry on his trade; the wardrobe of an entertainer; the uniforms of a waitress or waiter; the tools or implements of a cook necessary to carry on his trade; the notarial seal, records and office furniture of a notary public; the tools and instruments of an optometrist, podiatrist or chiropractor; the instruments and chest of a surgeon, physician, surveyor or dentist, necessary to the exercise of their profession, with their professional libraries and necessary office furniture; the professional libraries of attorneys, judges, ministers of the gospel, editors, schoolteachers and music teachers, and their necessary office furniture; including one safe and one typewriter; also musical instruments of a musician that are used by him in earning a livelihood and the musical instruments of music teachers actually used by them in giving instructions, and all the indexes, abstracts, books, papers, maps and office furniture of a searcher of records necessary to be used in his profession; also the typewriter of a stenographer, the typewriter of a newspaper reporter and the typewriters or other mechanical contrivances employed for writing in type, actually used by the owner thereof for making his living; also one bicycle when the same is used by the owner for the purpose of carrying on his regular business, or when the same is used for the purpose of transporting the owner to and from his place of business.” [Added by Stats. 1935, ch. 723 § 5; amended by Stats. 1939, ch. 489 § 1; Stats. 1941, ch. 84 § 1; Stats. 1961, ch. 215 § 36.]
