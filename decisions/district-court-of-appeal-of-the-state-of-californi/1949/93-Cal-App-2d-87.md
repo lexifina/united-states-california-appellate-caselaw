@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7590"
+decided: "1949-07-26"
+citations: ["93 Cal. App. 2d 87"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. F. WINTERS et al., Appellants, v. STATE BOARD OF EQUALIZATION, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/93/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253308
+cites_cases: ["115 P.2d 488", "149 A.L.R. 299", "15 Cal.2d 1", "18 Cal.2d 349", "183 P.2d 10", "30 Cal.2d 463", "97 P.2d 963"]
+---
+
+# Winters v. State Board of Equalization
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+By their complaint plaintiffs sought a refund of monies paid defendant board as motor vehicle transportation license tax under the provisions of Revenue and Taxation Code, section 9601 et seq. The defendant’s general demurrer upon the ground that the action was barred by section 10278 of said code, was sustained without leave to amend, and the present appeal followed.
+From the record before us it appears without contradiction that plaintiffs are farmers in Yolo County; that during 1945 and 1946, they transported in their own vehicles certain farm produce owned by them; that on December 15, 1947, the defendant board levied a deficiency determination against plaintiffs,- which determination alleged that certain vehicle transportation license tax was due by reason of the hauling of said farm products. Said determination further stated that January 5, 1948, would be the last day upon which said tax so levied could be paid without penalty; that on March 22, 1948, defendant made demand -upon plaintiffs for said tax; that on April 1, 1948, plaintiffs paid under protest the tax so levied together with penalties and interest thereon, and on April 10, 1948, filed their action against the board.
+Two contentions are made by appellants. The first will not be considered since it is predicated upon the merits of the controversy, and which by reason of the court’s order sustaining the demurrer are not before us. Therefore only appellants’ second question remains, that the statute in question contravenes article XIII, section 15 of the Constitution of this state.
+Section 10278 of the Revenue and Taxation Code in regard to actions for refund of such taxes provides:
+“No action may be instituted more than 60 days after the last day prescribed for the payment of the license tax without penalty. Failure to bring suit within the 60 days constitutes a waiver of any demand against this State on account of alleged overpayments. ’ ’
+Thus it is apparent that if the 60-day period provided for in said section is valid, March 6, 1948, would terminate the period during which the action could be instituted, and that therefore plaintiffs’ complaint, which was filed on April 10, 1948, would be barred by said section. The applicability of the section to the facts shown by the record before us is not challenged. Plaintiffs’ sole complaint is directed at the validity of said section in view of the provision of article XIII, - section 15 of the Constitution of this state, providing that
+“No injunction or writ of mandate or other legal or equitable process shall ever issue in any suit, action or proceeding in any court against this State, or any officer thereof, to prevent or enjoin the collection of any tax levied under the provisions of this article; but after payment thereof action may be maintained to recover, with interest, in such manner as may be provided by law, any tax claimed to have been illegally collected.”
+Appellants’ contention in this regard is that the foregoing provision gives the taxpayer a right “after payment’’ to recover a tax claimed to have been illegally collected. Thus appellants argue that if said section 10278 barred any action after March 6, and as they made no payment until April 1, they have been deprived of the right to contest the imposition of the tax before, in fact, the tax was paid. In other words, the procedure followed is the very thing prohibited under the foregoing provision of the Constitution.
+With such contention we cannot agree. The fact that the payment of the deficiency tax levied herein preceded any defense by plaintiffs is not controlling. The courts of this state have approved enforcement measures providing for summary methods of ascertaining and collecting taxes unless expressly forbidden by constitutional provision. (People v. Skinner, 18 Cal.2d 349, 357 [115 P.2d 488, 149 A.L.R. 299]; Mudd v. McColgan, 30 Cal.2d 463 [183 P.2d 10].) The procedure prescribed by the Legislature in said motor vehicle transportation license tax act is usual in the field of tax legislation, that is, payment precedes defense and the burden of proof, normally on the claimant, is shifted to the taxpayer. (People v. Skinner, supra.)
+An examination of the applicable statutes shows that the Legislature has established an orderly procedure both for the state in its ascertainment and collection of the tax, and for the taxpayer who desires to pursue a claim for refund. By section 9876 of the Revenue and Taxation Code the State Board of Equalization mails a deficiency notice to the taxpayer. He may petition for a redetermination within 15 days after the date of mailing of the notice. (Rev. & Tax. Code, § 9926.) If a petition for a redetermination is not filed within the 15-day period, the determination becomes final at the expiration of the period. (§ 9926.) Such determination becomes due and payable at the time it becomes final and a penalty attaches if it is not paid on or before that date. (§ 9929.) After payment under protest the taxpayer may bring an action against the board for recovery of the tax (§ 10277), but no action may be instituted for the payment of the tax without penalty. (§ 10278, supra.)
+Additionally it appears that the constitutional provision invoked by appellants has no application to the motor vehicle transportation license tax or any of the provisions thereof. Said constitutional provision, by its specific terms, is applicable only to taxes levied under the provisions of said article XIII. (Southern Service Co., Ltd. v. County of Los Angeles, 15 Cal.2d 1, 14-15 [97 P.2d 963].) Prior to 1933, section 15 of article XIII of the California Constitution provided for a gross receipts tax. Such tax was deleted by the 1933 amendment to that section and the tax was imposed by Statutes of 1933, chapter 339, upon which the provisions of the Revenue and Taxation Code are based. Such history negatives any contention that the tax is at present imposed by virtue of section 15, article XIII.
+For the foregoing reasons the judgment should be affirmed.
+The judgment is affirmed.
+Adams, P. J., and Thompson, J., concurred.
