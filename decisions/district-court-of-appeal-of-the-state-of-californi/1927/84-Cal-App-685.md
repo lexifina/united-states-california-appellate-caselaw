@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1403"
+decided: "1927-08-02"
+citations: ["84 Cal. App. 685"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. J. F. REED, Appellant."]
+source_url: "https://static.case.law/cal-app/84/cases/0685-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096716
+cites_cases: ["110 Pac. 469", "13 Cal. App. 678", "249 Pac. 240", "251 Pac. 315", "79 Cal. App. 306", "80 Cal. App. 159"]
+---
+
+# People v. Reed
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Defendant was tried and convicted upon an information charging the violation of section 476 of the Penal Code. From the judgment following the verdict and from the order denying his motion for a new trial he has appealed upon a typewritten record.
+The information charged that on the eighth day of September, 1925, in the county of Alameda, the defendant passed a certain fictitious check purporting to be for the payment of money of one E. H. Gould and drawn upon the Farmers and Mechanics’ Bank of Sacramento. The check was dated as if made at Sacramento on September 8, 1925, and was made payable to the defendant. It purported to bear the signature of E. H. Gould, who the prosecution claimed to be a fictitious person. On September 8th the defendant indorsed the check on the back as the payee thereof and delivered it to one Hatherill, who was at the time operating an automobile service station in the county of Alameda and who at the time deducted from the amount of the check the charge for gas and oil which he served to the defendant and then delivered to the defendant the balance called for by the check. Upon his arrest the defendant admitted that he had drawn the check; that he recognized Hatherill as the man he had seen at the service station; that he did not know anyone by the name of E. H. Gould; that he had procured a number of blank checks of the Farmers and Mechanics’ Bank of Sacramento while he was passing through Sacramento some time prior to the making of the cheek, and that he had made and passed other checks of the same character on that bank. When asked whether he had passed the check in evidence on Hatherill on that day he replied that he had been drinking about that time and that he had passed that check and several others.
+On this appeal the appellant insists that the corpus delicti was not established because it was not shown that there was no such corporation, copartnership, or individual as E. H. Gould in existence at the time the appellant passed the check. The state called as a witness a teller of the Farmers and Mechanics’ Bank of Sacramento, who testified that he had examined the records of the bank and ascertained that they disclosed no account in the name of E. H. Gould and that he had also examined the city directory of the city of Sacramento for the year 1925 and ascertained that it did not contain the name of E. H. Gould. An inspector of police in the city of Oakland testified that he had made a similar examination of the directory of the city of Oakland and found that it did not contain the name of E. H. Gould. This prima facie showing having been made, the statements of the appellant made to the police officer at the time of his arrest became admissible and completed the proof that the name of E. H. Gould was fictitious. The question was fully considered by this court in People v. Carmona, 80 Cal. App. 159 [251 Pac. 315], where testimony of similar character was held to be sufficient.
+The appellant argues that the trial court erred in instructing the jury that the state was not required to prove beyond a reasonable doubt that there was no such person in the world as E. H. Gould, but that it was only necessary to show to a common certainty that there was no such person in existence in the vicinity of the county of Sacramento and the county of Alameda connected with the particular acts charged in the information. This instruction was a correct statement of the law as pointed out in People v. Gordon, 13 Cal. App. 678, 685 [110 Pac. 469].
+The appellant criticises the action of the trial court in permitting the district attorney to ask the appellant upon cross-examination if he had ever been convicted of a felony, and particularly whether he had been convicted of a felony in the state of Washington and whether he had been convicted of a violation of section 476 of the Penal Code, in the year 1923. The appellant had taken the stand as a witness in his own behalf, and on direct examination had testified simply that he did not remember having called at the gas station on September 8th because he was drinking about that time. This seems to have been the entire defense appellant sought to urge before the jury—that because of his excessive drinking he was unable to remember whether he had been at the gas station or whether he had passed the check in evidence. The purpose of this line of testimony was to show a want of intent on the part of the accused to pass the check. Like any other witness, he was open to impeachment on cross-examination. (Sec. 2051, Code Civ. Proc.; People v. Muchupoff, 79 Cal. App. 306 [249 Pac. 240].) The cross-examination of the appellant by the district attorney was entirely within the proper bounds.
+In this same connection the appellant now argues that the district attorney committed prejudicial error in asking the questions about prior convictions, but as we have seen the questions were proper in the cross-examination of the witness and hence no error arose.
+Judgment and order affirmed.
+Sturtevant, J., and Koford, P. J., concurred.
