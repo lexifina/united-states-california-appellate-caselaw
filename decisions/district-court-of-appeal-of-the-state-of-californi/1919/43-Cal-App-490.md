@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2922"
+decided: "1919-10-09"
+citations: ["43 Cal. App. 490"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CALLIE STONE, Appellant, v. GEORGE W. McWILLIAMS, Respondent."]
+source_url: "https://static.case.law/cal-app/43/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041909
+cites_cases: ["130 Cal. 667", "145 Pac. 95", "168 Cal. 736", "63 Pac. 63"]
+---
+
+# Stone v. McWilliams
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This is an appeal from an order setting aside a default and vacating the judgment entered thereon in favor of plaintiff.
+The default was taken in an action commenced by the plaintiff against the defendant to recover the sum of one thousand dollars for breach of contract. The complaint alleged that the parties entered into an agreement by the terms of which the plaintiff was to make her home with the defendant, keep house for him and give him such care and attention necessary for the comfort of a man of his age and condition during the remainder of his life, in return for which she was to receive board and lodging for herself and two minor children, with the further advantage that the defendant would by last will and testament leave to plaintiff whatever property he might own at the time of his death. It further appears that the plaintiff entered upon the performance of this agreement, and remained at the home of defendant for about one year, when, after a quarrel with him, she left, and shortly thereafter commenced this action. The summons and complaint were served upon defendant by a deputy sheriff, and defendant making no answer thereto, plaintiff caused his default to be entered, upon which the court rendered judgment in plaintiff’s favor for one thousand dollars, the amount demanded. Within a reasonable time under the attending circumstances defendant moved the court to set aside his default and to vacate the judgment upon the ground of his mistake, inadvertence, and excusable neglect. The court granted the motion, imposing terms under which the defendant was required to pay into court for the use of plaintiff the sum of fifty dollars.
+From the record it appears that the defendant is over seventy years of age, totally blind, illiterate and unable to write his name. Upon the motion to set aside the default he made and filed an affidavit which stated, among other matters, that at the time the summons and complaint were served upon him he was wholly unfamiliar with court proceedings, and neglected to make seasonable answer to the complaint by reason of what he understood the deputy sheriff to advise him or inform him he might safely do at the time that officer made such service, his advice or information being to the effect that under the circumstances of the case it would be needless for the defendant to do anything, either in the way of writing a letter to the plaintiff or her attorney or otherwise, and that no trouble would ensue from such inactivity. On the other hand, it is stated in the counter-affidavit filed by the plaintiff in opposition to the motion that shortly before the commencement of the action the defendant withdrew his money from a bank and transferred his real estate, with the intention apparently of protecting himself from any claim plaintiff might make or prosecute, but the steps he took in this behalf are the subject matter of another action instituted by plaintiff; and whatever his object may have been, he seems to have believed that he was acting within his legal rights. In any event we do not think this circumstance would warrant us in holding that the court abused its discretion in setting aside the defendant’s default. It is invariably held that applications to be relieved from an order or judgment by default are addressed to the sound legal discretion of the trial court, and that its action upon such applications will not be reversed on appeal unless it clearly appears that the court abused its discretion (Nicoll v. Weldon, 130 Cal. 667, [63 Pac. 63]). In the case of Berri v. Rogero, 168 Cal. 736, [145 Pac. 95], which, upon the facts, was less favorable to the party appealing from the order vacating the default than the present case, the court said: “The law does not favor snap judgments. The policy of the law is to have every litigated case tried upon its merits, and it looks with disfavor upon a party who, regardless of the merits of the case, attempts to take advantage of the mistake, surprise, inadvertence or neglect of his adversary.”
+Here the defendant made a seasonable application to be relieved from his default and filed an affidavit of merits showing a good defense. His age, blindness, and illiteracy might well have appealed to the court to exercise its discretion in his favor even more liberally than in ordinary cases. It does not appear that the plaintiff has suffered any prejudice or that any injustice will result to her from a trial of the case upon the merits. Under these circumstances we are not inclined to hold that the court abused its discretion in granting defendant’s application.
+The order is affirmed.
+Richards, J., and Waste, P. J., concurred.
