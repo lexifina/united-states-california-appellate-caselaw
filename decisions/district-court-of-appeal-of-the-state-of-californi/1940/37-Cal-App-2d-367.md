@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11101"
+decided: "1940-02-19"
+citations: ["37 Cal. App. 2d 367"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUCILLE AXELROD, Appellant, v. BOARD OF EDUCATION OF THE CITY AND COUNTY OF SAN FRANCISCO, STATE OF CALIFORNIA, et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/37/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2283036
+---
+
+# Axelrod v. Board of Education
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The petitioner, hereinafter called the plaintiff, commenced a proceeding to obtain a writ of mandate directing the respondents, hereinafter called the defendants, to cause to be paid to the plaintiff $666.94 claimed to be due her as compensation as a permanent teacher in the elementary schools of the city and county of San Francisco. The trial court made findings in favor of the defendants and from the judgment entered thereon the plaintiff has appealed and has brought up the judgment roll.
+Prior to the first of January, 1934, the plaintiff applied to the defendants, as and constituting the Board of Education of the City and County of San Francisco, for, and was granted, a leave of absence from her duties as a permanent teacher from January 1, 1934, to December 31, 1934. During that period, if she had not been absent, her compensation would have been $1601.94. During the absence of the plaintiff the defendants employed a substitute to whom they paid $935. Having recited those facts the plaintiff claims to he entitled to the difference between the two sums, to wit, $666.94. The leave of absence granted by the defendants was, as written, without compensation. There are recitals in the plaintiff’s petition and also in the findings to the effect that the plaintiff was pregnant and applied for the leave of absence for that reason. She alleges that she “ . . . was compelled to absent herself from her duties as a teacher in said elementary schools because of illness occasioned by approaching childbirth; ...” There is no allegation and no finding reciting the date her child was born, nor is there any allegation directly to the effect that she was ill at any time nor giving any date or dates on that subject. There is no allegation as to “ . . . the rules and regulations established by the governing board of the district”, regarding deductions from the salary of a teacher during her absence. Nor is there any allegation as to whether the defendants made the deduction in question according “ ... to the rules and regulations established by the governing board of the district”.
+The plaintiff relies on the provisions of section 5.750 of the School Code as supporting her claim. In so far as pertinent that section provides: “When a person employed in a position requiring certification qualifications is absent from his duties on account of illness for a period of more than five school months, or when a person is absent from his duties for a cause other than illness, the amount deducted from the salary due him for the month or months in which such absence occurs shall be determined according to the rules and regulations established by the governing board of the district.” Bearing in mind that the uncontroverted fact is that the plaintiff was absent twelve months, it is clear the amount, if any, to be deducted from the salary due her for the months in which such absence occurred was to be determined by the defendants according to their rules and regulations. There is nothing in the record showing that the deduction was not so made.
+The defendants contend the rights of the plaintiff are governed by sections 5.720-5.723 of the School Code. They deal with leaves of absence. As noted above, the plaintiff applied for, and was granted a leave of absence for twelve months, commencing with the month of January, 1934. In granting it the defendant board had the power to grant the leave with or without compensation. (Sec. 5.721.) It will be noted, however, that the leave of absence so granted was made without compensation. As it is to be presumed that the defendants regularly performed their official duty, it will be assumed in support of the judgment that the leave of absence was intentionally worded as written. If it was, then it is obvious the plaintiff had no claim.
+The plaintiff says she did not during the trial, nor does she now contend that pregnancy in and of itself is illness, but it is her contention that her absence was due to illness that was occasioned by approaching childbirth. At the time of childbirth, for a period prior thereto, and for a period subsequent it may be assumed the plaintiff was ill. But, in the absence of proof, it may not be assumed she was ill twelve months. Furthermore, it may be conceded that under some circumstances during the absence of a teacher owing to such illness the teacher’s compensation may be continued in whole or in part. (School Code, secs. 5.721, 5.750.) However, it is entirely clear that one who would base a claim on such facts must necessarily plead and prove them. The plaintiff has done neither.
+The judgment appealed from is affirmed.
+Nourse, P. J., and Spence, J., concurred.
