@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4770"
+decided: "1924-01-03"
+citations: ["65 Cal. App. 133"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUCILLE J. MAGGINI, Appellant, v. JOHN McBAIN et al., Respondents."]
+source_url: "https://static.case.law/cal-app/65/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149413
+cites_cases: ["137 Pac. 240", "166 Cal. 509", "171 Pac. 431", "177 Cal. 600", "195 Pac. 263", "50 Cal. App. 323"]
+---
+
+# Maggini v. McBain
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+This is an appeal from a judgment in favor of the defendants in an action based upon fraud. The complaint contains two causes of action, one for rescission and the second for damages; but the second cause was abandoned and plaintiff elected to rely solely upon her claim for rescission. The controversy arises out of the sale of certain real property in the county of Santa Clara, and the basis of the action is that defendants, as owners, induced the plaintiff to purchase the property through two material misrepresentations of fact—one in regard to the acreage planted to trees and the other in regard to the previous production of the property. The trial court found that all the allegations of paragraphs III, IV, and V of plaintiff’s complaint were untrue. These allegations covered the making of the false representations, the falsity of the representations made, the intent to deceive, and the reliance of plaintiff upon the representations. On these findings judgment was entered in favor of the defendants and plaintiff appeals.
+The sole ground urged for the reversal of the judgment is that the evidence is insufficient to support the findings hereinbefore referred to. In support of the judgment respondent quotes at length from the evidence upon which the trial court based its findings. Under the well-known rule, if we find that there is any evidence in the record to support any one of the findings which in turn was sufficient to support the judgment, it is our duty to affirm the action of the trial court. On this basis we may direct our attention to the finding that the appellant did not rely upon the alleged misrepresentations and that she did not believe them to be true, but that she did rely upon the representation of her own servants and her own agents and went upon and inspected the land herself and investigated the truth of all representations or statements made in regard to the same. In support of this finding the evidence is that the appellant did not talk with the owners personally, but that she formed her judgment as to the value of the property and made her determination to complete the purchase upon representations of her own agents and what she saw herself when she visited the property; that prior to the sale she went with her agents for a personal inspection of the property and walked among the trees and took a general view of the entire property. It also appeared that the only portion of the land which was planted to trees was west of or below the public road running through the property and that the land east or above the road was used entirely for pasture. It further appeared that a portion of the land west of the road was entirely bare and that this could be easily seen upon a casual inspection of the property. Evidence was then offered to show that the portion of the land west of or below the road consisted of fifty-five acres only and that there was no misrepresentation as to this fact. Seven or eight acres of the land below the road were not planted, and it was a small matter, therefore, to ascertain the number of acres which were actually planted in bearing fruit trees. Upon the second charge of misrepresentation, that relating to the previous production of the property, the only evidence in the record is that no such representations were made by the respondents.
+There is, therefore, sufficient evidence in the record to support the finding that the appellant did not rely upon the alleged misrepresentations and was not induced thereby to enter into the contract, but that, on the other hand, she relied entirely upon her own judgment and upon the advice and representation of her agents. This finding covers an essential element of appellant’s right of action. To entitle one to recover in rescission because of false representations it is not sufficient to show merely that the representations were false and made with intent to deceive, but it must also be shown that the false representations actually misled and deceived the party seeking rescission and that they were relied upon by such party. (Maxon-Nowlin Co. v. Norswing, 166 Cal. 509, 511 [137 Pac. 240]; Hallidie v. First Federal Trust Co., 177 Cal. 600, 603 [171 Pac. 431]; Hackleman v. Lyman, 50 Cal. App. 323 [195 Pac. 263].) Thus the finding of nonreliance went to an essential element of the case which the appellant was required to prove before she could have rescission. This being so, that finding in itself is sufficient to support the judgment in favor of the respondents.
+Judgment affirmed.
+Sturtevant, J., and Langdon, P. J., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on March 3, 1924.
+All the Justices concurred.
