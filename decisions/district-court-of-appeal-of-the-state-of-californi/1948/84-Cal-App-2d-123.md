@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15997"
+decided: "1948-03-02"
+citations: ["84 Cal. App. 2d 123"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM HAMMER, Respondent, v. ALICE HELEN CREHAN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/84/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4436770
+cites_cases: ["100 Cal.App. 634", "111 Cal.App. 359", "121 Cal. App. 198", "136 P.2d 72", "280 P. 996", "295 P. 572", "296 P. 86", "57 Cal.App.2d 968", "8 P.2d 883"]
+---
+
+# Hammer v. Crehan
+
+## Majority (BARTLETT, J. pro tem.)
+
+BARTLETT, J. pro tem.
+This is an action for personal injuries received as a result of a collision between a motorcycle on which respondent was riding and a ear driven by appellant. At the conclusion of the trial, the court granted a motion for a new trial on the ground, among others, that the verdict and judgment in favor of appellant were not supported by the evidence.
+At- 7:30 p.m. on December 15, 1945, respondent was a passenger on a motorcycle driven by Mr. Perkins, traveling on Vermont Avenue between Sixth and Fourth Streets in the city of Los Angeles. The motorcycle was in a lane near the ear tracks and was going at about 20 to 25 miles per hour. Just before the accident a car driven by Mr. Jacobson, was a short distance ahead and slightly to the right. Behind the motorcycle was a car driven by Mr. Towvim. Both of these cars were traveling at about the same speed as the motorcycle. While these cars were thus proceeding north, the appellant pulled out of a private driveway connected with a service station to make a left turn on Vermont Avenue in front of these cars. Seeing her, Mr. Jacobson puj; on his brakes, swerved to the right 8 or 10 feet, and came to a sudden stop just missing appellant’s car. The driver of the motorcycle applied his brakes but could not stop in time, and as Mr. Jacobson’s car swerved to the right, struck the rear fender of the appellant’s car. Mr. Towvim who was 5 or 6 car lengths behind the motorcycle, applied his brakes and pulled over to the curb. Respondent was thrown from the motorcycle against Mr. Jacobson’s car and received the injuries of which he complains.
+Appellant’s contention, as stated in her brief, is as follows: “The court erred in granting a motion for a new trial where there was no substantial conflict in the testimony on material issues. The entire record clearly indicates that the defendant was not guilty of any negligence which in any manner contributed to the happening of the accident, resulting in injury to the plaintiff.” She cites many cases, upholding the familiar rule stated in that portion of the decision in Moss v. Stubbs, 111 Cal.App. 359 [295 P. 572, 296 P. 86], which she quotes as follows:
+“. . . it is equally well settled that where there is no substantial conflict in the testimony on material issues, and the evidence as a whole would be insufficient as a matter of law to support a verdict in favor of the moving party, an order granting a new trial cannot be sustained.”
+There is ample evidence in the record in this case to support a verdict for the respondent. Vehicle Code, section 553, reads as follows:
+‘ ‘ The driver of a vehicle about to enter or cross a highway from an alley not exceeding a width of 16 feet, or any private road or driveway shall yield the right of way to all vehicles approaching on said highway.”
+No clearer case that appellant violated the provisions of that section could be made than is disclosed in the testimony of the four eyewitnesses to this accident given at the trial. Consider for instance the following testimony of Victor Jacobson:
+“I came out of the driveway of the restaurant and there was no southbound traffic on Vermont and possibly several hundred feet south on Vermont there was some vehicles coming. I crossed Vermont so as to be able to travel north on Vermont and was proceeding on Vermont past the intersection of Fourth Street. I doubt very much if I was traveling more than 20 or at the very most 25 miles an hour and as a matter of fact I don’t even know if I had as yet shifted into high gear. As I approached the driveway of the service station north of Fourth Street this automobile shot right out into traffic. I slammed on the brakes and swerved to the right. This woman—the driver of this ear didn’t stop as she approached the street but shot right out of the station heading west or perhaps southwest, this way, right into the lane of traffic. I slammed on the brakes and swerved to the right. As I did that this motorcycle collided with her car and was thrown up against the left side of my car. I stopped and then pulled forward and this car with this woman driving continued on Vermont and I heard someone holler, ‘Stop that car,’ and I learned later that she turned into the next street and then stopped. There were two men on this motorcycle and they were carried over to the curbstone and then of course the police were notified. They were both bleeding, and seemingly dazed from the shock of the contact. That is substantially I believe what happened.”
+In the light of such evidence we cannot follow appellant’s contention that there was no evidence of appellant’s negligenee and that the accident was due solely to the negligence of the witness Jacobson.
+Mrs. Jacobson testified that if it were not for the sudden application of the brakes on their car and the fact that her husband Mr. Jacobson swerved 8 or 10 feet to the right, he would have hit appellant’s car broadside. This testimony did conflict with appellant’s testimony. In fact there was conflict between her testimony and that of respondent and the three other witnesses to the accident on other material issues.
+All of this brings the case within the rule which has been reiterated time and again, that upon appeal the presumption is in favor of the order and against the verdict that the trial court has the duty of weighing the evidence, considering the conflicts in it and then in its discretion determining whether or not a new trial should be granted on the ground of the insufficiency of the evidence (Scott v. Southern Pacific Co., 100 Cal.App. 634 [280 P. 996]; Anderson v. Dahl, 121 Cal. App. 198 [8 P.2d 883]; Woods v. Walker, 57 Cal.App.2d 968 [136 P.2d 72]).
+No abuse of discretion on the part of the trial court is shown by this record, and the order of the trial court is affirmed.
+Doran, Acting P. J., and White, J., concurred.
