@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9454"
+decided: "1958-02-27"
+citations: ["158 Cal. App. 2d 75"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF ROSEVILLE, Petitioner, v. R. W. TERRY, as Clerk of the City of Roseville, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/158/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4428796
+cites_cases: ["212 P.2d 894", "34 Cal.2d 595"]
+---
+
+# City of Roseville v. Terry
+
+## Majority (VAN DYKE, P. J.)
+
+VAN DYKE, P. J.
+This is a petition for a writ of mandate to compel respondent R. W. Terry, as Clerk of the City of Roseville, to publish an ordinance subsequent to its adoption, as required by the charter of the city.- Roseville is a municipal corporation which is operating under the provisions of a freeholders’ charter. For a considerable time it has owned and operated a city hospital. Recently, the city council passed an ordinance providing for the authorization and issuance of hospital revenue bonds to expand the existing hospital facilities. Respondent refused to publish the ordinance subsequent to its adoption upon the ground that the city council had no power to provide for the issuance of revenue bonds without submitting the question to the electors.
+A city which has availed itself of the provisions of the Constitution as amended in 1914 has full control over its municipal affairs, unaffected by general laws on the same subject matters. It has such control whether or not its charter specifically provides for the particular power sought to be exercised, so long as the power is exercised within the limitations or restrictions placed in the charter. The charter operates not as a grant of power, but as an instrument of limitation and restriction on the exercise of power over all municipal affairs which the city is assumed to possess; and the enumeration of powers does not constitute an exclusion or limitation. In respect to municipal affairs the city is not subject to general law except as the charter may provide. A construction in favor of the exercise of the power and against the existence of any limitation or restriction thereon which is not expressly stated in the charter is clearly indicated. The full exercise of the power is permitted, except as clearly and explicitly curtailed, and in construing a city’s charter a restriction on the exercise of municipal power may not be implied. (City of Grass Valley v. Walkinshaw, 34 Cal.2d 595, 599 [212 P.2d 894].)
+Section 7.11 of the Charter of Roseville, under the heading “Power to Incur Indebtedness,” contains specific provisions upon that subject matter. Concerning general obligation bonded indebtedness of the city it is provided that such indebtedness may not in the aggregate exceed the sum of 15 per cent of the total assessed valuation of property within the city. The section then excepts from the foregoing limitation such bonded indebtedness as has been or would after the adoption of the charter be incurred in respect of municipally owned utilities. The section then takes up the subject of revenue bonds. It provides that revenue bonds and the interest accruing thereon shall be a charge upon and payable solely from the revenues derived from the operation of works, facilities or property acquired by the issuance and sale of revenue bonds. The charter further provides that revenue bonds shall not be a charge, lien, encumbrance, legal or equitable, upon nor furnish any recourse on account thereof against any other property of the city or upon or against any other income, receipts, revenue or funds of the city; that neither the credit nor the taxing power of the city shall be deemed to be pleaded to or charged with such payment and that the holders of any such bonds shall have no right to compel the exercise of any taxing power of the city. Having so provided, however, the charter further provides that: “The Council may, after authorization hy the affirmative vote of a majority of the electors voting on the proposition at any regular or special election issue revenue bonds.” (Emphasis added.) Here is a specific declaration, found within the charter itself, which requires not only council action but approval by the affirmative vote of the majority of the electors. We think the respondent clerk of the city is correct in his position that the issuance of revenue bonds cannot be made by the council alone, but must also receive affirmative electoral action. We cannot construe the language of the charter in any other way. Notwithstanding the declared rules as to the power of chartered cities over municipal affairs and the declared rules for construing such charters, we cannot, as petitioner would have us do, read out of the charter so plain a limitation on the council's authority. We do not doubt that the electors, when they approved the charter, understood the language thereof to place in their hands a check upon the issuance of revenue bonds. If that was not the purpose of the language used then it had no purpose.
+The alternative writ heretofore issued is discharged. The peremptory writ is denied.
+Peek, J., and Warne, J. pro tem., concurred.
+Petitioner’s application for a hearing by the Supreme Court was denied April 23, 1958. Carter, J., and Schauer, J., were of the opinion that the application should be granted.
+Assigned by Chairman of Judicial Council.
