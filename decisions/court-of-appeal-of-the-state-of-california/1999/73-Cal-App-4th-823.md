@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B126402"
+decided: "1999-07-22"
+citations: ["73 Cal. App. 4th 823"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re DEREK W., a Person Coming Under the Juvenile Court Law. SANTA BARBARA COUNTY CHILD PROTECTIVE SERVICES, Plaintiff and Respondent, v. DAVID W., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/73/cases/0823-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194481
+cites_cases: ["229 Cal.App.3d 1196", "27 Cal.App.4th 567", "280 Cal.Rptr. 565", "29 Cal.App.4th 1411", "32 Cal.Rptr.2d 535", "35 Cal.Rptr.2d 162", "45 Cal.App.4th 1159", "52 Cal.App.4th 318", "53 Cal.Rptr.2d 93", "60 Cal.Rptr.2d 557", "73 Cal.App.4th 828", "86 Cal.Rptr.2d 742"]
+---
+
+# Derek W. v. David W.
+
+## Majority (YEGAN, J.)
+
+Opinion
+YEGAN, J.
+David W. appeals from the judgment terminating parental rights to his son, Derek. (Welf. & Inst. Code, § 366.26.) He contends the trial court erred when it changed Derek’s permanent plan from guardianship to adoption because David W. has maintained regular visitation with Derek, and Derek would benefit from continuing the relationship. (§ 366.26, subd. (c)(1)(A).) We affirm the judgment because substantial evidence supports the trial court’s order.
+Derek, who is of “mixed race but dark skinned,” was bom in 1989, addicted to cocaine and amphetamine. He was removed from the custody of his biological parents, Adele B. and David W., and placed in foster care with Stephanie and John K., who are Caucasian. Derek has lived with the K.’s since he was nine days old. Derek is developmentally delayed, suffers from a respiratory condition similar to asthma, and has behavioral and emotional problems.
+Derek’s biological mother relinquished her parental rights almost immediately. His father, David W., who claims that he is African-American and an American Indian, regularly visited Derek, but failed to complete the parenting classes and drag treatment programs required for reunification. In 1991, the trial court terminated reunification services for David W., found that Derelc was not adoptable, and selected long-term foster care as the permanent plan. In 1992, we affirmed that order in a nonpublished opinion. (In re Derek W. (Apr. 28, 1992) B059107 [nonpub. opn.].)
+Between 1991 and 1997, David W. was permitted visitation with Derek each month. For the most part, David visited Derek, missing visits only when he was in jail or participating in a residential drug rehabilitation program.
+The parties agree that David W. and Derek have an emotional bond and that Derek knows David W. is his father. They both find the visits enjoyable, but the K.’s report that Derek often returns home wheezing from his father’s cigarette smoke and that he misbehaves or withdraws for one or two days following each visit. David W. has never contributed financially to Derek’s support.
+Although unwilling to adopt in 1991, the K.’s requested that opportunity in March 1998. They informed the court that, if allowed to adopt, they would continue Derek’s visits with David W. David W. does not believe the K.’s will allow him access to Derek and that Derek needs an African-American role model in his life. Following a contested hearing, the trial court terminated David W.’s parental rights and freed Derek for adoption. This appeal followed.
+“Adoption, where possible, is the permanent plan preferred by the Legislature.” (In re Autumn H. (1994) 27 Cal.App.4th 567, 573 [32 Cal.Rptr.2d 535].) If the court finds that a child may not be returned to his or her parent and is likely to be adopted, it must select adoption as the permanent plan unless it finds that termination of parental rights would be detrimental to the child under one of four specified exceptions. (Id. at pp. 573-574; In re Tabatha G. (1996) 45 Cal.App.4th 1159, 1164 [53 Cal.Rptr.2d 93].)
+Here, David W. contends the court erred in failing to find that the exception contained in section 366.26, subdivision (c)(1)(A) applies to his relationship with Derek. That subdivision creates an exception to the adoption preference where termination of parental rights would be detrimental to the child because “[t]he parents or guardians have maintained regular visitation and contact with the minor and the minor would benefit from continuing the relationship.” (Ibid.)
+The parent has the burden to show that the statutory exception applies. (In re Tabatha G., supra, 45 Cal.App.4th at p. 1164.) To do so here, David W. had to show that his relationship with Derek “promotes the well-being of the child to such a degree as to outweigh the well-being the child would gain in a permanent home with new, adoptive parents. In other words, the court balances the strength and quality of the natural parent/child relationship in a tenuous placement against the security and the sense of belonging a new family would confer. If severing the natural parent/child relationship would deprive the child of a substantial, positive emotional attachment such that the child would be greatly harmed, the preference for adoption is overcome and the natural parent’s rights are not terminated.” (In re Autumn H., supra, 27 Cal.App.4th at p. 575.)
+The parent must do more than demonstrate “frequent and loving con-tacte,]” (In re Beatrice M. (1994) 29 Cal.App.4th 1411, 1418 [35 Cal.Rptr.2d 162]) an emotional bond with the child, or that parent and child find their visits pleasant. (In re Elizabeth M. (1997) 52 Cal.App.4th 318, 324 [60 Cal.Rptr.2d 557].) Instead, the parent must show that he or she occupies a “parental role” in the child’s life. (Ibid.; see also In re Beatrice M., supra, 29 Cal.App.4th at pp. 1418-1419.) David W. had the burden of proving that he has developed such a significant, positive emotional attachment to Derek. (Id. at p. 1419; In re Autumn H., supra, 27 Cal.App.4th at pp. 575-576.)
+David W. failed to meet his burden of proof. Derek has lived with the K.’s since he was nine days old. They are the only adults who have provided him with food, shelter, protection and guidance on a daily basis. While the relationship between David W. and Derek is pleasant and emotionally significant to Derek, it bears no resemblance to the sort of consistent, daily nurturing that marks a parental relationship. Under these circumstances, the trial court properly concluded that section 366.26, subdivision (c)(1)(A) was not an impediment to the termination of David’s parental rights. Because substantial evidence supports the trial court’s order, it must be affirmed. (In re Autumn H., supra, 27 Cal.App.4th atpp. 575-576; see also In re Marriage of Martin (1991) 229 Cal.App.3d 1196, 1199-1200 [280 Cal.Rptr. 565].)
+The judgment (order terminating parental rights) is affirmed.
+Gilbert, Acting P. J., and Coffee, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied October 6, 1999.
+All statutory references are to the Welfare and Institutions Code. David W. has also filed a petition for writ of error coram vobis. (In re Derek W. (1999) 73 Cal.App.4th 828 [86 Cal.Rptr.2d 742].) We treat this petition by separate opinion filed this day.
