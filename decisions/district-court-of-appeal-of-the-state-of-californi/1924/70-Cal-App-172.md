@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1210"
+decided: "1924-12-10"
+citations: ["70 Cal. App. 172"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. PETE ORTINI, Appellant."]
+source_url: "https://static.case.law/cal-app/70/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2161692
+cites_cases: ["142 Cal. 482", "187 Pac. 46", "44 Cal. App. 719", "76 Pac. 232"]
+---
+
+# People v. Ortini
+
+## Majority (•NOURSE,)
+
+•NOURSE,
+The defendant was charged and tried upon five counts, the first two charging him with the crime of maintaining two separate places in the county of Fresno for the sale of intoxicating liquors; the third, fourth, and fifth counts charging* him with three separate offenses of contributing to the delinquency of three named minors. The cause was tried to the jury and the defendant was found guilty on all five counts. From the judgment which followed and from the order denying his motion for a new trial he prosecutes this appeal.
+At the outset the appellant concedes that the evidence is sufficient to support the verdict of guilty on each of the five counts, and also concedes that no errors were committed during the course of the trial which were prejudicial to him except the refusal o£ the trial court to grant him a continuance.
+Briefly, the story of the case is that the appellant was conducting two places of business, one in the city of Fresno and one in the outskirts of that city, where he was engaged in the illicit sale of intoxicating liquors. "When called to the stand as a witness in his own behalf he frankly admitted that for a considerable period he had sold liquor to adults, but denied that at the times or places charged in the indictment he had sold any liquors to minors. The evidence on the part of the prosecution gave detailed accounts of sales to individual witnesses who were all minors, and these witnesses without exception testified that the sales had been made in the night-time by the appellant and that on most of the occasions the minors drove to the appellant’s places of business in an automobile; that he came to their machine in the dark and made the sale in that manner.
+Two motions for continuance were made. One at the beginning of the trial was based upon the affidavit of the appellant’s counsel from which it appeared that he was unable to obtain the presence of two witnesses from whom he expected to prove that the appellant at the times charged in the indictment did not own or operate the place on Orange Avenue in the outskirts of the city of Fresno. The motion for continuance upon that affidavit was denied, and on this appeal the appellant waives any claim of error as to that motion. The second motion was made after all the evidence for both prosecution and defense was before the jury. It was based upon the affidavit of the appellant showing his inability to obtain the presence of a certain witness, one Tony Cossy, through whom he expected to prove that the appellant had not sold liquor to minors at the times set forth in the indictment, and that the appellant had instructed him, the said Tony Cossy, not to sell or permit the sale of liquor to minors. The insufficiency of the affidavit upon which this motion was based is apparent on its face as it does not attempt to show any possibility of securing the presence of the absent witness within a reasonable time or any diligence on the part of the- defendant to ascertain where the absent witness might be found. This alone is sufficient to support the order of the trial court in denying the motion for a continuance. (People v. Cuilla, 44 Cal. App. 719, 724 [187 Pac. 46]; People v. Lang, 142 Cal. 482, 488 [76 Pac. 232].) In addition to this, it must have been apparent to the trial court that as the boys who testified for the state all detailed sales of liquor by the appellant directly to them which were made in the dark with no one else present, and that as the appellant frankly admitted making sales of liquor but denied that he had sold it to minors, the testimony of an employee and confederate of the appellant to the effect that he, the appellant, had not sold the liquor to minors could have had no weight with the jury. Then again the affidavit which was made upon the first motion for a continuance stated that the appellant expected to prove by the absent witness that the appellant did not maintain or in anywise control the house on Orange Avenue from which most of the liquor was purchased, while upon the second motion the appellant stated that he expected to prove by Tony Cossy that the appellant had instructed him not to sell liquor to minors. As the evidence showed without conflict that the only place where the appellant claimed that Tony Cossy was acting for him was this place on Orange Avenue the inconsistency between the two offers of proof is apparent and the trial court was justified in assuming that both motions were made solely for delay and that neither was made in good faith.
+From a review of the record it is apparent that the appellant was given a fair and impartial trial; that the jury was fairly and fully instructed by the trial court and that appellant was fairly convicted on all five counts.
+Judgment and order affirmed.
+Langdon, P. J., and Sturtevant, J., concurred.
