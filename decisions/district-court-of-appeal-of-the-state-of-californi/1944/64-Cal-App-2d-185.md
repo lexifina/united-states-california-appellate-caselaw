@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 486"
+decided: "1944-04-28"
+citations: ["64 Cal. App. 2d 185"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. RICHARD GLASS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/64/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4587706
+cites_cases: ["14 Cal.2d 403", "145 P.2d 7", "200 P. 808", "221 P. 654", "23 Cal.2d 550", "53 Cal.App. 671", "64 Cal.App. 336", "94 P.2d 569"]
+---
+
+# People v. Glass
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+The defendant, having been convicted by a jury of the crime of grand theft, has appealed from the judgment.
+On January 21, 1943, the appellant purchased a house trailer from a dealer in San Diego on a conditional sales contract. He turned in another trailer as the first payment and the contract called for monthly payments, and further provided that title to the trailer sold should remain in the seller and that it should not be removed from this state. About a month later, and just before the first monthly payment came due, the appellant left San Diego with the trailer and went to Hawthorne, Nevada, where he continued to live in the trailer until May, 1943, when he sold it to a resident of Nevada. He was arrested on his return to San Diego in August, 1943.
+While appellant, in his brief, admits that he converted this trailer it is contended that it does not sufficiently appear that the required criminal intent was formed in San Diego County and not in Nevada, and that the court erred in admitting certain evidence and in giving an instruction bearing upon the question of intent.
+The appellant’s wife testified that they left San Diego about a month after January 21, 1943, and that they went to Nevada for the purpose of benefiting the appellant’s health. On the other hand, it appears that the appellant purchased this trailer and signed the contract under the name of Melvin Steele; that he left San Diego on or about the date when the first monthly payment became due; that he did not notify the dealer that he was leaving; and that he took the trailer directly out of the state although he knew that he had contracted not to do so. When arrested, he told this dealer that he had left the trailer on a side street in San Diego but did not know which street. Shortly thereafter, he told an officer that he had left the trailer on a street either in Nevada or Arizona, and that he had abandoned it because he was unable to make the payments. He later admitted that he had sold the trailer to a woman in Hawthorne, Nevada, receiving another trailer and a sum of money. An officer testified that he had a conversation with the appellant on August 9, 1943, in which he asked the appellant about a trailer that he was reported to have bought about a year previously from a company in Lincoln, Nebraska, telling him that they had a circular and were trying to locate him and that trailer. His reply was that “Their guess was just as good as his.” This officer also testified as to another conversation with the appellant on August 20, 1943, in which he asked him what he had done with a trailer of which a bank in Reno was the legal owner, and also one that was owned by the Bank of America in Sacramento. He refused to tell what he had done with these trailers but asked whether any warrants had come in for these transactions. He then said “that if he had beaten these damn Jews out of anything he was not sorry, that anything he had obtained through these trailers he had obtained for his wife and baby.”
+The question as to the exact time when the intention to convert this trailer was formed was a question for the jury and the evidence, with the reasonable inferences therefrom, is sufficient to support the finding of the jury. (People v. Martin, 53 Cal.App. 671 [200 P. 808] ; People v. Baker, 64 Cal.App. 336, 342 [221 P. 654].)
+It is further contended that the court erred in permitting the officer to testify concerning his conversations with the appellant on August 9 and August 20, as above referred to, insofar as those conversations related in any way to trailers, other than the one here in question, and in refusing to strike out such testimony. The portions of these conversations which are objected to not only contain admissions by the appellant which were admissible in evidence, but they indicate that the appellant was engaged in a scheme or plan of going from state to state and purchasing and exchanging trailers in such a manner as to obtain cash in the transactions. This evidence was admissible for its bearing on the question of intent which was before the jury, and no error appears in this connection. (People v. Lisenba, 14 Cal.2d 403 [94 P.2d 569]; People v. Albertson, 23 Cal.2d 550 [145 P.2d 7].)
+The final contention is that the court erred in giving the following instruction:
+“Testimony has been permitted by the Court regarding a conversation with Officer Whitney. This evidence was permitted to be introduced for the purpose, and only for the purpose, of proving the intent, motive or scheme and plan, if any, of the defendant. This evidence may be considered by you only in that respect. The evidence was not permitted to prove a distinct, separate offense, and the defendant is not on trial for other acts, other than are set forth in the amended information.”
+While it is not contended that this instruction is erroneous in itself it is argued that there was no testimony other than that to which we have referred, to which it was applicable, and that the giving of the instruction must have prejudicially affected the jury. Immediately prior to giving that instruction the court had instructed the jury that it must acquit the appellant unless it found that he had formed an intent to defraud or injure the complaining witness by removing, concealing or disposing of this trailer while he was still in the county of San Diego. The instruction complained of was the usual cautionary instruction and it was more favorable to the appellant than otherwise.
+No error appears and the judgment is affirmed.
+Marks, J., and Griffin, J., concurred.
