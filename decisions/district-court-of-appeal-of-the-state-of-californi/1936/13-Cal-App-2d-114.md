@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9715"
+decided: "1936-04-06"
+citations: ["13 Cal. App. 2d 114"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. O. BUNNELL, Appellant, v. B. WYNNS, Sr., et al., Defendants; BASICH BROTHERS CONSTRUCTION COMPANY (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app-2d/13/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263457
+cites_cases: ["250 Pac. 700", "51 Cal. 501", "56 Cal. 265", "79 Cal. App. 655", "8 Cal. 562"]
+---
+
+# Bunnell v. Wynns
+
+## Majority (SHINN, J., pro tem.)
+
+SHINN, J., pro tem.
+Appeal from an order vacating a judgment against a garnishee.
+In this action to recover the value of the use of certain automobile trucks and trailers and upon an account stated against the defendant B. Wynns et al., a writ of attachment was issued and served upon Basich Brothers Construction Company, a corporation, attaching any money or property of the defendants and any credits due to defendants from the garnishee. The garnishee made a return that it had no money or property belonging to any of the defendants under its control or in its possession and that it was not indebted to any of said defendants. Thereafter an order was made for the garnishee to appear before a referee to be examined in connection with the garnishment, and after service thereof a hearing was had at which the garnishee was represented, following which the referee made findings and a report that the garnishee was indebted to one of the defendants in the sum of $3,362.44. Thereafter, and without notice to the garnishee, this action was tried before a judge pro tempore of the superior court upon stipulation of plaintiff and defendants that it might be so tried, but without the stipulation or consent of the garnishee. Upon the trial plaintiff recovered a judgment of $5,229.25, against the defendants, and a judgment in the sum of $3,362.44, against the garnishee. Thereafter the garnishee made a motion to vacate and set aside the judgment, which motion was granted, and a motion for new trial, which was not ruled upon by the court.
+After the hearing before the referee, the court or a judge thereof could have ordered personal property capable of manual delivery to be delivered to the sheriff. (Code Civ. Proc., sec. 545.) What the referee attempted to do was to make an adjudication that the garnishee was indebted to the defendants in the sum of $3,362.44. There is no provision of the code authorizing such an adjudication in a summary proceeding where the garnishee denies the debt. While section 544 of the Code of Civil Procedure provides that a garnishee who fails to deliver property or pay debts to the sheriff after attachment is liable to the plaintiff for the amount thereof, neither that section nor section 545 authorizes the court or referee to make an adjudication as to the matter of the indebtedness of the garnishee to a party whose property is attached. The procedure under sections 544 and 545 is in the nature of an inquiry as to the property belonging to the attachment defendants. The reference is had in such matters for the information of the court and not for the purpose of trying questions of title. Procedure to subject property in the hands of third persons to judgments is provided by sections 719 and 720 of the Code of Civil Procedure. Where the garnishee claims no interest in the property or does not deny the debt, an order may be made to subject the property to the judgment under section 719, but if he claims an interest in the property or denies the debt the court or referee has no power to enter a summary order or judgment adjudicating the validity of his claims, but such adjudication must be made in an independent action. (Hartman v. Olvera, 51 Cal. 501; G. Cavaglieri Mortgage Co. v. Superior Court, 79 Cal. App. 655 [250 Pac. 700]; Hibernia Savings & Loan Society v. Superior Court of Inyo County, 56 Cal. 265.)
+Basich Brothers was never before the court in any proceeding in which the court had jurisdiction to determine whether any of the defendants were creditors of Basich Brothers, or to determine the amount of the latter’s indebtedness. The judgment rendered by the judge pro tempore was not binding upon Basich Brothers for several reasons: Basich Brothers was not a party to the action and was not in court; no notice of trial was given to Basich Brothers; the debt was disputed and therefore could not be adjudicated in a summary manner, and the judge pro tempore, not having been designated to try the ease with the consent of Basich Brothers, was without jurisdiction to try an issue involving any rights of the latter. The judgment was void or voidable for each and all of these reasons.
+It is contended by appellant that the appearance of Basich Brothers by motion to vacate the judgment conferred jurisdiction on the court which it did not have when the judgment was given, but this, of course, could not be so. A void judgment is not rendered valid by the appearance of the defendant by motion to vacate the judgment. (Gray v. Hawes, 8 Cal. 562.)
+The order vacating the judgment against Basich Brothers Construction Company is affirmed; the attempted appeal from an order granting a new trial is dismissed, no such order having been made.
+Houser, P. J., and Doran, J'., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on June 4, 1936.
