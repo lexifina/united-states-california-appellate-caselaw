@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9497"
+decided: "1935-12-26"
+citations: ["11 Cal. App. 2d 34"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD NIGHTINGALE, a Minor, etc., Appellant, v. ARTHUR BIRNBAUM et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/11/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2267513
+---
+
+# Nightingale v. Birnbaum
+
+## Majority (HOUSER, P. J.)
+
+HOUSER, P. J.
+Plaintiff appeals from a judgment which was entered against him, pursuant to a verdict that was rendered by a jury in an action that was brought by him against defendants to recover damages on account of personal injuries that plaintiff sustained in a collision between him and an automobile that was owned by one of the defendants and operated by the other.
+Appellant first urges the point that the verdict of the jury was not supported by the evidence. Although not in complete detail, the evidence was such that the jury was authorized to rely upon the following facts, to wit: The accident that resulted in the injuries of which plaintiff complains occurred at a controlled “Stop and Go” intersection of two streets. Plaintiff, who was a boy of seven years of age, attempted to cross one of the intersecting streets at a time when his course of travel was apparently protected by a “Go” signal; but when he was a little more than one-half way across the street, in due course as far as he was concerned, the signal was changed to “Stop”. However, he continued on his way. When, as it affected the defendants, the “Go” signal was displayed, after looking in the direction from which plaintiff was then approaching, defendant, who was driving the automobile that afterward collided with plaintiff and which automobile had been stopped at its proper place before reaching the intersection of the two streets, proceeded in an attempt to drive the automobile across the intersection. However, at the time when said defendant “looked”, two other automobiles that likewise had been stopped before the intersection parallel to the position occupied by the automobile that was being operated by said defendant, obstructed her complete view of the situation in the direction from which plaintiff was approaching said defendant, and for that reason the latter failed to see plaintiff, who, as hereinbefore stated, was a boy of seven years of age. The automobile was started very slowly and had traversed a distance of about two feet when its left fender came into collision with the boy, and thereby caused the injuries that were made the subject of his complaint. After striking the boy, the automobile was stopped “within a few inches”. It also appeared in evidence that the boy was running both before and at the time when he was struck by the automobile.
+In such circumstances, it is clear that questions of fact were properly submitted to the jury for its determination of whether the defendants were negligent in the operation of the automobile, as well as whether the boy was guilty of contributory negligence in the premises; and those questions having been impliedly answered in favor of defendants, this court is powerless to interfere.
+Appellant also predicates prejudicial error asserted to have been committed by the trial court not only in the giving of alleged improper instructions to the jury at the request of defendants, but also in the refusal to give to the jury at the request of plaintiff, certain other specified instructions.
+It would be a task of some proportions to herein set forth each of such criticized instructions, together with other instructions that were given by the court to the jury, and which bore directly upon those which are either the subject of attack herein or those to which appellant has directed atten-" tion as having been refused, and then proceed to an analysis of each of the several instructions, and either to differentiate the criticized and the refused instructions from the other or the others, or to point out the practical effect of the language employed in each and all of said instructions,-—all to the end that our conclusion with reference thereto might thereby be sustained by appropriate reasoning. In such circumstances, it may suffice to state that, although from a consideration of the points presented by appellant with reference to the questions herein submitted, it would appear that some of them are not wholly devoid of abstract merit, nevertheless, considering all the instructions that were given to the jury, it manifestly appears that the jury was fairly instructed as to the law of the case; and that even had such assumed (but not conceded) errors not been committed, the result would not have differed from that which obtained on the trial of the action. It follows that the judgment should be, and it is, affirmed.
+York, J., and Doran, J., concurred.
