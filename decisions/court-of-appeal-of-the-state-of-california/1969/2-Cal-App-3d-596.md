@@ -1,0 +1,91 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 3559"
+decided: "1969-12-12"
+citations: ["2 Cal. App. 3d 596"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JOSEPH HACKETT HAMILTON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/2/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6036881
+cites_cases: ["105 Cal.App.2d 164", "11 Cal.App. 279", "117 Cal.App.2d 175", "118 Cal.App. 341", "128 Cal.App.2d 361", "134 Cal.App. 670", "136 Cal. 207", "143 Cal.App.2d 333", "148 P. 928", "161 P.2d 929", "170 Cal. 104", "183 P. 585", "191 P.2d 521", "233 P.2d 117", "246 P. 337", "247 Cal.App.2d 11", "254 Cal.App.2d 163", "255 P.2d 59", "26 P.2d 315", "27 Cal.2d 20", "275 P.2d 635", "299 P.2d 691", "34 Cal.Rptr. 863", "346 U.S. 803", "346 U.S. 880", "346 U.S. 904", "386 P.2d 487", "42 Cal.App. 325", "452 P.2d 329", "5 P.2d 439", "55 Cal.Rptr. 521", "59 Cal. 381", "60 Cal.2d 460", "61 Cal.Rptr. 727", "68 P. 702", "70 Cal.2d 678", "74 S.Ct. 117", "74 S.Ct. 216", "74 S.Ct. 33", "76 Cal.Rptr. 225", "84 Cal.App.2d 645", "98 L.Ed. 334", "98 L.Ed. 387", "98 L.Ed. 403"]
+---
+
+# People v. Hamilton
+
+## Majority (WHELAN, J.)
+
+Opinion
+WHELAN, J.
+Defendant appeals from a judgment imposing sentence for burglary in the first degree, after a verdict to that effect, and his admission of two prior felony convictions.
+The Evidence in Support of the Verdict
+On April 21, 1968, at about 4:29 a.m., a burglar alarm was received át the office of an alarm company indicating an alarm had gone off at Halliday’s, a men’s clothing store in a shopping center at 2750 Harbor Boulevard in Costa Mesa.
+At about 4:30 a.m. of that day, Matthew J. Collett (Collett), a Costa Mesa police officer, in uniform and in a marked police car, received a radio message concerning a burglary at Halliday’s and proceeded there, arriving about one and one-half minutes after hearing the call.
+With the lights of his vehicle off, he entered the shopping center from Adams Street to the north of the parking area of the shoping center, and approached Halliday’s, the front of which faces west.
+When Collett reached a point 120 to 130 feet from the store entrance, he observed a person standing in the recessed doorway; as Collett came closer, the man turned around and looked at him, and then walked to a post that supported the outer edge of an overhead shield that projected from the building, stood flush against the south side of the post, and then ran around the southwest corner of the building. He was a male Negro about six feet or six feet one in height, wearing a jacket and other dark clothing.
+Collett had reached a point about 20 feet from the post where he stopped his car when the man started to run. Collett alighted and pursued.
+The south end of the building that houses Halliday’s is separated by a paved sidewalk area from the establishment of Howard Johnson farther south. That consists of a restaurant to the immediate east of which is a parking lot, the other three sides of which are enclosed by a wall. In the wall on the north side is a pedestrian entrance from the sidewalk area to the south of Halliday’s; in the east wall is the only vehicular entrance which opens from Peterson Way; from the sidewalk area mentioned is an opening onto Peterson Way.
+Peterson Way has a row of separated apartment units along its east side, known as 2700 Peterson Way; on the east side of the apartment buildings is a 25-foot alleyway and along its east side are two buildings enclosed except on the alley side which are car shelters for the apartment occupants. Between the two car shelters is an open space fenced in on the east side by a seven-foot chain link fence that extended from one car shelter to the next.
+On that morning, two cars were parked in that open space near the more northerly of the car shelters. Along the outer south wall of that car shelter was a dust bin about four feet high; the car shelters were about 25 feet deep.
+The alley at both ends turns at right angles west to join Peterson Way. It is possible to pass from one to the other between the apartment units.
+At their north ends, Peterson Way and the alley open onto Adams Street, and also have an exit at the south ends.
+When Collett turned the corner in pursuit of the man, the latter was no longer in sight. Before reaching the east end of the sidewalk at Peterson Way, he heard the engine of a vehicle starting; he ran through the gate into the street and saw an automobile without lights parked along the east side of the Johnson parking lot reverse to get clear of another vehicle parked ahead and then pull away and continue south on Peterson Way without lights. Collett saw no one in the car but the driver.
+Collett shoulted “Halt!” without effect on the movement of the vehicle. He returned to his own car and drove out of . the shopping center at the south end, made his way to Adams Street on the north side and drove east on Adams Street to the alley east of Peterson Way; made a right turn into the alley and proceeded at a slow rate of speed south for about 100 feet when he saw, about 200 feet ahead of him, a human figure run from the area of the apartments at the west side of the alley and cross to the east side of the alley.
+Collett immediately increased his speed and reached the approximate line of travel of the running figure; he was then in the alley just to his right of the two cars parked in the space between the two carports. As he alighted from his car, he heard a rustling of paper at the far end of the more northerly of the two parked cars.
+Collett, standing behind the open door of his car, drew his pistol, stated in a loud voice that he was a police officer, and ordered whoever was behind the other vehicle to come out.
+After about 10 seconds, defendant stood up from a crouched or kneeling position, after having first put his hands up over the top of the trunk of the parked car and saying, “Here are my hands.” Collett had defendant stand against the wall of the nearer carport while Collett waited for assistance which came in four or five minutes.
+Collett then went behind the parked vehicle from behind which defendant had come and found a jacket and a newspaper on the ground, also a pair of gloves, a pistol loaded with perhaps seven cartridges, and a screwdriver.
+Defendant at that time was not wearing a jacket. At the jail he gave his name as Frank Robert Parks.
+In the Howard Johnson parking lot, behind the northerly wall and east of the pedestrian entrance was a pile consisting of a large number of men’s suits that had been removed from Halliday’s store; about 20 other suits that had been taken were not found.
+The time elapsed between the time Collett had seen the tall Negro disappear around the corner of Halliday’s and the emergence of defendant from behind the parked car was about two and one-half minutes. Other times and distances in connection with the observance of the car that moved away on Peterson Way and the disappearance of the tall Negro around the corner of Halliday’s made it unlikely that the latter had reached the car that went off on Peterson Way. The distance between the southwest comer of Halliday’s and the point where defendant was discovered was about the length of a city block.
+About the middle of April 1968, defendant was visiting in the home of Linda Watson, who considered him to be a steady boyfriend, and who knew him under the name of Hamilton. On that occasion she took a pistol from a closet and placed it in a dresser within the view of defendant and another man who was with defendant. About a month later she discovered that the weapon was missing. She was the owner of the weapon, which had the same serial number as that found behind the parked car by Collett, and which appeared to be the same gun.
+It was inferable that entry had been made into Halliday’s through an opening made, in the opinion of an expert, by the kicking out of wooden panels in the door.
+The burglar alarm that had been activated was not that controlled by the door, but was one that would be set off by interference with the clothing racks.
+When defendant disrobed at the jail, there fell from his clothing at least two splinters of wood, and a flake of dried paint, red on one side, white on the other.
+The wood from the broken panels, including numerous splinters, was mostly inside the doorway. The panels had been painted red with a white undercoat. The painted exterior surface of one of the panels had the outline of a shoe print on it.
+There were fragments of dried red paint imbedded around the heads of the nails in the sole and heel of defendant’s right shoe. On numerous points of comparison, appellant’s right shoe matched the shoe print on the door panel. The paint fragments imbedded in the right shoe could not have been
+picked up by someone merely walking over them. The paint on the right shoe was indistinguishable from that on the door panel when examined under a stereoscopic microscope. Similarly, the paint fragments recovered from defendant’s clothing were indistinguishable from paint on the door panel when examined under a microscope.
+Contradictory Evidence
+No evidence was presented on behalf of defendant.
+Contentions on Appeal
+Defendant’s contentions may be summarized as follows:
+1. He was denied his right to a fair trial by reason of the ineffective representation of trial counsel.
+2. There was insufficient evidence to support the guilty verdict of burglary.
+3. There was insufficient evidence to sustain a finding he was armed with a deadly weapon.
+4. The burglary could not be fixed as first degree on the theory he was armed with a deadly weapon because that was not alleged in the information.
+First Contention
+Defendant was represented by retained counsel at the trial; and is represented on appeal by appointed counsel.
+One of the charges of incompetence made against trial counsel arises from the fact that the prosecutor successfully moved to strike from the information an allegation that at the time of the burglary defendant was armed with a d ;adly weapon capable of being concealed upon the person without ha ig a permit therefor as provided in part 4, title 2, chapter 1, Penal Code.
+Trial counsel opposed the motion, perhaps thinking that if the jury should make a negative finding on that allegation, they would, in the event of a guilty verdict, be more likely to fix the burglary as of the second degree.
+Defendant’s brief indicates, however, a belief that the striking of the allegation made it impossible to fix the degree of burglary as first. We deal with the merit of that theory in considering the fourth contention.
+Another claim of incompetence is because of a failure to call expert witnesses to controvert the opinion evidence based upon comparisons of the paint fragments, the shoe print and the wood splinters. There is no showing that any such evidence was possible to obtain.
+The opinion evidence probably had some weight in the process of identifying defendant as a participant in the breaking in of the door panels, and as being the person seen by Collett in the doorway of the store. The sole issue, indeed, was one of identification.
+The only resort available to counsel, other than to have defendant testify, was to create doubt as to the various elements that, in combination, • proved defendant to have been a party to the burglary.
+Trial counsel seems to have been thoroughly aware of the situation. His careful and lengthy cross-examination was directed toward the creation of such doubts if that were possible. He objected successfully to many of the prosecutor’s questions. In general he showed skill, assurance and diligence.
+In the world of the practice of criminal law, counsel on appeal often seems to feel that at the behest of his client he must accuse his fellow lawyer of incompetence or himself be charged with a failure of duty; he who makes such charges of incompetence in one appeal may himself be the target of such charges in another appeal.
+The trial was not reduced to a farce or a sham, the test which is used to ascertain whether counsel’s representation was effective. (People v. Ibarra, 60 Cal.2d 460, 464 [34 Cal.Rptr. 863, 386 P.2d 487]; People v. Hill, 70 Cal.2d 678, 689 [76 Cal.Rptr. 225, 452 P.2d 329]; People v. Dutch, 254 Cal.App.2d 163, 166-167 [61 Cal.Rptr. 727], and cases cited therein.) “It is not enough that defendant alleges omissions of counsel indicating lack of preparation and general incompetence. He must show that such acts or omissions resulted in withdrawal of a crucial defense from the case. . . .
+“To sustain a claim of inadequate representation by reason of failure to call a witness, there must be a showing from which it can be determined whether the testimony of the alleged additional defense witness was material, necessary, or admissible, or that defense counsel did not exercise proper judgment in failing to call him.” (People v. Hill, 70 Cal.2d 678, 689-690 [76 Cal.Rptr. 225, 452 P.2d 329].)
+Second Contention
+We have set forth the evidence in support of the verdict of guilt. It is amply sufficient to support that verdict.
+Third Contention
+Given that defendant was a participant in the burglary, that he had kicked in the door panels, which was a reasonable inference, and that he was the man who was seen in the doorway and then running around the corner, which also may fairly be inferred, the other questions are whether he had possessed the pistol found behind the parked car and whether he had had it with him at the locus of the crime.
+The following may reasonably be inferred: that defendant was responsible for the presence of the pistol where it was found by Collett; that the automobile driven away without lights was driven by an accomplice, since some 20 suits of clothing had been carried away by some agency; that, therefore, defendant had come in the car and, had all gone well, would have left in it; that, therefore, the pistol had not been placed where found before the burglary and that defendant was not returning to it when he crossed the alley, but that he then had it with him and left it with his jacket and gloves after going behind the car.
+Those inferences, together with the testimony of the owner of the pistol, which is not consistent with any theory related to the evidence other than that defendant brought the pistol to the place where it was found, sufficiently support a finding that defendant was armed with a deadly weapon at the time of the burglary.
+It is not necessary that he have been seen with the pistol on his person at the burglarized premises. In People v. Taylor, 247 Cal.App.2d 11 [55 Cal.Rptr. 521], the defendant was seen with a gun tucked in his belt when he started off to commit some burglaries. That was considered sufficient to support a finding of first degree burglary.
+In People v. Stroff, 134 Cal.App. 670, 673 [26 P.2d 315], the defendant’s revolver was left on a platform just outside the burglarized building.
+In People v. Moore, 143 Cal.App.2d 333 [299 P.2d 691], the weapon was not found upon the person of either defendant, but was within the burglarized premises where they were arrested.
+Fourth Contention
+On the strength of certain dicta contained in an opinion on the denial of a rehearing in People v. Taylor, supra, 247 Cal.App.2d If, defendant argues in effect it was error for the court not to have instructed that defendant if found guilty could only be found guilty of second degree burglary.
+He argues explicitly that the court erroneously instructed that a pistol is a deadly weapon.
+Counsel here discloses his reason for charging trial counsel with incompetence. Apparently he believes the striking of the allegation that defendant was armed with a deadly weapon capable of being concealed upon the person without having a permit therefor, as provided in part 4, title 2, chapter 1, Penal Code, did away with any basis for fixing the burglary as of the first degree because of being so armed.
+What was said in People v. Taylor, supra, 247 Cal.App.2d 11, was no more than a suggestion that the ends of justice would be better served if an accusatory pleading should disclose whether the evidence relied on might support a finding of first degree burglary, and, if so, under which of the four possible situations that provide the necessary ingredient for first degree burglary.
+Until either the Legislature or a judicial authority higher than this court changed the rules for charging burglary, robbery and murder without specifying the degree or specifying facts upon which the higher degree might be determined, we recognize that such specification is not required.
+The rule as to burglary is stated in People v. Martin, 128 Cal.App.2d 361, 363-364 [275 P.2d 635]; People v. Stroff, supra, 134 Cal.App. 670, 673; People v. Barnhart, 59 Cal. 381; and in People v. Collins, 117 Cal.App.2d 175, 181 [255 P.2d 59], where the question was raised as a denial of due process, and in which certiorari was denied by the United States Supreme Court (346 U.S. 803 [98 L.Ed. 334, 74 S.Ct. 33]; 346 U.S. 880 [98 L.Ed. 387, 74 S.Ct. 117]; 346 U.S. 904 [98 L.Ed. 403, 74 S.Ct. 216]).
+In People v. Smith, 136 Cal. 207 [68 P. 702], where the same rule was declared, it was held that since the elements of a first degree burglary (entry in the nighttime) had been pleaded, a finding of second degree burglary by entry in the daytime might not be sustained.
+The rule with regard to charging murder is stated in People v. Mendez, 27 Cal.2d 20, 23 [161 P.2d 929]; People v. Witt, 170 Cal. 104, 108 [148 P. 928]; People v. Coffman, 105 Cal.App.2d 164, 167 [233 P.2d 117]; People v. Paraskevopolis, 42 Cal.App. 325, 329 [183 P. 585]; People v. Coston, 84 Cal.App.2d 645, 647 [191 P.2d 521].
+With regard to robbery, the rule is stated in People v. Hayes, 118 Cal.App. 341, 343 [5 P.2d 439]; People v. Egan, 11 Cal.App. 279, 284 [246 P. 337].
+The judgment is affirmed.
+Brown (Gerald), P. J., and Coughlin, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was-denied February 5, 1970.
