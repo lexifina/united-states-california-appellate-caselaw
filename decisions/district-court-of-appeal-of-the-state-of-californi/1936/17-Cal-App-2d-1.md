@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10032"
+decided: "1936-10-09"
+citations: ["17 Cal. App. 2d 1"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JAMES J. RYAN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/17/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2273360
+cites_cases: ["266 Pac. 831", "91 Cal. App. 136"]
+---
+
+# People v. Ryan
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The defendant has appealed from a judgment determining that his stable is a public nuisance and ordering it abated.
+As we understand him he contends that at the time this action was commenced, and for a long time prior thereto, he had pending an application for a permit to maintain and operate said stable; that the respective municipal authorities refused to grant him a permit without stating their reasons for such refusal and giving him an opportunity to comply with any demands for repairs and alterations. (Ryan v. Andriano, 91 Cal. App. 136 [266 Pac. 831].) These statements are true. But the decision in that case was filed April 19, 1928. After the remittitur went down, each party from time to time served on the other certain notices and demands. However, no permit was issued. In 1932 the present charter took effect. New ordinances were enacted to carry it into effect. Certain powers formerly vested in the board of “supervisors were, by the provisions of the new charter, vested in the director of health. Each party served more demands, notices, etc., but no permit was issued. On October 26, 1933, this defendant commenced a proceeding to obtain a writ of mandamus to compel the director of health to issue said permit. The plaintiff thereupon commenced this action. Having called to the trial court’s attention his numerous efforts to obtain a permit to conduct a stable business and the numerous delays, refusals and neglects of the municipal officers in and regarding the application for a permit, the defendant claimed the complaint in this action should be dismissed. He repeats that contention in this court. We find no merit in it. The proceedings in the application for a permit were in no manner a bar to this action. But the contention of the defendant is, in effect, to claim that the facts recited constituted a bar. If the permit had been issued it will hardly be claimed that it would have authorized this defendant to conduct the stable in such a manner as would create a nuisance or that it would authorize him to conduct a stable business in a building which was so dilapidated as to be a nuisance.
+This action was commenced in compliance with a resolution adopted by the board of supervisors on October 31, 1933. The defendant cites section 22 of the charter which contains a provision to the effect that each department of the government of the city and county of San Francisco is prohibited from interfering with any other department. He then claims that said resolution was an interference within such prohibition. We think it was not. Nothing is contained in this record showing that the health department has been interfered with. Under the plain provisions of the charter the board of supervisors had the power to pass the resolution above mentioned and the city attorney had the right to act under it. Moreover, the right to maintain this action is expressly conferred by section 731 of the Code of Civil Procedure, and the charter contains no provision which in any way tends to limit the right so given.
+The defendant then attacks the judgment. He contends that it is too broad. He asserts that, “The grievances which are mainly flies, odors, and noises all arise . . . ” from the conduct of the premises by the tenant. And he then contends that the judgment should be limited to an abatement of those objections and should not decree a demolition of the building. The trial court made findings which found the building to be a nuisance by reason of its use and also because it was .dilapidated. The plaintiff argues that the structural defects and the conduct and management of the building are so interrelated that they cannot be separated. The trial court heard the evidence and it visited the premises. The record shows that its findings above mentioned, and all of them, are sustained by the evidence. Moreover, the building is located in a residence zone. It is what is termed a nonconforming use. By the provisions of section 9 of the zoning ordinance it may be altered and repaired if the cost does not exceed 50 per cent of its assessed value, which is $1350. The evidence of the defendant, which was the lowest estimate, showed such cost would be from $1,000 to $3,000. The evidence offered by the plaintiff showed the cost would be much higher. It is clear, therefore, that, as seen by the trial court, the building has become so dilapidated that to repair it to such an extent as to remove the objections of the health authorities is prohibitive when measured by the provisions of the zoning ordinance.
+The judgment is affirmed.
+Nourse, P. J., and Spence, J., concurred.
