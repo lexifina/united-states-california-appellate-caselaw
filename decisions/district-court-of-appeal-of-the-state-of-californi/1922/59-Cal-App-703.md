@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4280"
+decided: "1922-11-20"
+citations: ["59 Cal. App. 703"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. H. ADAIAN, Respondent, v. ARPENIG BORANIAN, Executrix, etc., Appellant."]
+source_url: "https://static.case.law/cal-app/59/cases/0703-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2085873
+cites_cases: ["43 L. R. A. (N. S.) 44"]
+---
+
+# Adaian v. Boranian
+
+## Majority (LANGDON, P. J.)
+
+LANGDON, P. J.
+The defendant has appealed from a judgment against her as executrix of the last will and testament of A. Boranian, deceased, by which plaintiff recovered six hundred dollars, the amount of money paid by him as a deposit upon the purchase price of certain land, together with the value of his labor and materials furnished upon said land in reliance upon a contract for the purchase and sale of the same made with the defendant’s testator.
+The action was tried upon an amended complaint for money had and received. The trial court found, upon substantial evidence, as follows: During the year 1920, plaintiff and A. Boranian, defendant’s testator, entered into a contract for the sale and purchase of certain real and personal property for the sum of twenty-six thousand dollars. Plaintiff deposited with Boranian five hundred dollars on account of 'the purchase price. The written contract between the parties was offered in evidence and in accordance therewith the trial court further found: The purchase price was to be paid in installments, five thousand five hundred dollars on the execution and delivery of a good and sufficient contract for a deed; fifteen hundred dollars on or before the 5th of November, 1920, and fifteen hundred dollars on or before the fifteenth day of November in each and every year thereafter until the whole of the purchase price had been paid. The plaintiff was to receive a deed when one-half of the purchase price had been paid and plaintiff was to take the premises subject to a certain contract outstanding with the California Associated Raisin Company. In the event the sale was consummated, the five hundred dollars deposit was to be applied upon the initial payment of five thousand five hundred dollars. Boranian agreed to furnish an abstract of title to said property, showing title in him clear of encumbrances, said abstract to be furnished within fifteen days from the date of said agreement, to wit, on February 24,1920. In the event plaintiff failed to comply with his agreement, he was to forfeit the five hundred dollar deposit. By agreement between the parties, Boranian furnished to plaintiff, in lieu of an abstract of title, a certificate of title, which showed that the title to the property was vested in Gustaf Pearson; that the title was subject to a contract with the Fresno Canal & Land Corporation for a water right appurtenant to said land and rights of way thereover to convey water to contiguous lands; that it was also subject to a mortgage dated December 4, 1916, for three thousand three hundred dollars due three years after date, which said mortgage had been assigned to John D. Patterson; that said premises were also subject to taxes for the fiscal year 1920-21; that Boranian’s only title to said premises was a contract executed by Gustafi Pearson and his wife in favor of Boranian for the sale and purchase of said premises.
+At the time the plaintiff and Boranian entered into the contract involved here, plaintiff, at the request of Boranian, went upon the premises, took charge of the same and performed work and labor thereon of the reasonable value of fifty dollars, and he also purchased for the use and benefit of Boranian certain supplies of the reasonable value of fifty dollars.
+On March 13, 1920, plaintiff offered and tendered to Boranian the balance of the initial payment on the purchase price provided for by the terms of the contract and demanded that Boranian perform his obligations thereunder, but said Boranian then and there refused to do so. Thereupon, plaintiff demanded the return of his five hundred dollars and payment for his labor and supplies purchased for the property and used for the benefit of Boranian, which was refused. The trial court also found that plaintiff had surrendered the possession of the property to Boranian and had been able, ready and willing at all times to perform his part of the contract.
+The only point urged by appellant for a reversal of the judgment entered herein is that because plaintiff did not make an unconditional tender of the first installment of the purchase price, Boranian was not in default in refusing to furnish evidence of a clear title in himself. The objection is entirely without merit. Boranian was obligated by his contract to furnish an abstract of title showing the title in himself, free and clear of all encumbrances, within fifteen days from the date of the contract between the parties. That time had expired and Boranian furnished a certificate of title which did not meet his obligations under the contract. The plaintiff had a right to insist upon the performance of this obligation as a condition precedent to his first payment upon the land. (Sec. 1498, Civ. Code.)
+The judgment is affirmed.
+Nourse, J., and Sturtevant, J., concurred.
