@@ -1,0 +1,55 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "F006971"
+decided: "1987-03-10"
+citations: ["190 Cal. App. 3d 68"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KATHLEEN W., a Person Coming Under the Juvenile Court Law. TULARE COUNTY DEPARTMENT OF PUBLIC SOCIAL SERVICES, Plaintiff and Respondent, v. SHIRLEY W., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/190/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2208312
+cites_cases: ["133 Cal.App.3d 24", "183 Cal.Rptr. 615"]
+---
+
+# Tulare County Department of Public Social Services v. Shirley W.
+
+## Majority (BROWN (G.A.), P. J.)
+
+Opinion
+BROWN (G.A.), P. J.
+On March 14, 1986, Kathleen W., bom October 18, 1978, was adjudged a dependent child of the juvenile court pursuant to Welfare and Institutions Code section 300, subdivisions (a) and (d), and a reunification plan was adopted.
+The original petition was filed on February 12,1985. At that time Kathleen was approximately five years, four months old. The contested jurisdictional hearing was held on January 14-16, 1986, at which time the allegations of the petition as to Kathleen were found tme. The dispositional hearing was held on March 14, 1986, after the court denied a motion for a new trial.
+An amended petition was filed on March 12, 1985, which omitted an allegation that Kathleen had stated in the past that her father (Chris W.) had molested her. Otherwise the allegations of the amended petition substantially conform to the original petition and in relevant part state: “(2) This person comes within the provisions of Section 300 a&d of the Juvenile Court Law of California, as follows:
+“Count /: 300d That said minors’ home is an unfit place for them by reason of neglect of their mother in that Kathleen [W.] has been repeatedly sexually molested by her mother’s boyfriend, Kenneth [A.]. She has told her mother that Mr. [A.] has fondled her genital area and forced her to rub his penis. Her mother has not protected her and does not believe her.
+“David has witnessed some of these incidents.
+“Count II: 300a That said minors have no parent or guardian capable of exercising proper and effective care and control and is [szc] in need of such care and control in that the facts alleged in Counts I and II [szc] above are hereby incorporated and made a part hereof.
+That minors’ father cannot protect them as he does not have civil custody at this time.”
+The principal two factual issues in the case are (1) whether Kenneth A. molested Kathleen, and (2) if appellant, Shirley W., had knowledge of Kenneth A.’s actions and failed to protect Kathleen. Whether there is substantial evidence to support the implied finding that appellant did have knowledge of Kenneth A.’s molestation of Kathleen is a close question.
+In a separate criminal trial, Kenneth A. was acquitted by a jury on January 31, 1986, of one count of lewd and lascivious acts upon Kathleen.
+The minors were placed in the home of their maternal aunt, Kathryn G., where they remained throughout the proceeding.
+Shirley W. appealed from the judgment.
+Discussion
+Appellant urges that the trial court committed prejudicial error in refusing to grant to her an evidentiary hearing regarding the admissibility of a polygraph that had been conducted upon appellant.
+On the first day of trial appellant orally requested a hearing pursuant to Evidence Code sections 400-405 before the court to establish the foundational facts for the admission of a polygraph examination of Shirley W. and Kenneth A. The evidence was to be presented through an expert who conducted the test. The trial court denied the request for the hearing on the apparent ground that the polygraph evidence would not, in any event, be admissible.
+The results of the polygraph test are relevant. The primary issues before the court were whether Kenneth A. had molested Kathleen and whether Shirley W. knew that Kenneth A. had molested her daughter and thus failed to protect her. Appellant’s attorney stated to the court that the polygraph reflects an honest negative response when Shirley W. was asked whether the minor child ever told her that Kenneth A. molested her or touched her. Appellant contends that since all relevant evidence is admissible under Evidence Code section 351, the court erred in denying her request for a foundational hearing regarding the admissibility of the polygraph results.
+In Witherspoon v. Superior Court (1982) 133 Cal.App.3d 24 [ 183 Cal.Rptr. 615] (review den.), a criminal case, the court held for the first time in California that the Evidence Code contains no positive rule which provides a blanket exclusion of the results of a polygraph examination. (Id., at p. 31.) In a comprehensive and well-reasoned opinion tracing the history of cases discussing polygraph evidence and the present scientific state of the art, the court observed: “The consistent and persistent rejection of polygraph evidence by the courts appears at this time to be based more on considerations of policy rather than any demonstrated lack of reliability or acceptance of the test. These policy considerations in turn appear to be based on the fear that evidence of the results of polygraph examinations will tend to usurp the function of the trier of fact, and that lay juries would tend to be overly impressed with the results of polygraph examinations. Whatever may be the validity of those considerations they are more properly matters for legislative rather than judicial determination.” (Ibid.)
+The court concluded that it could perceive no sound legal basis for denying a defendant the opportunity to present a foundation upon which the trial judge could evaluate whether the results of the polygraph examination should be admitted. (Id., at p. 27.)
+The court determined that the trial court erred in denying such a hearing for the purpose of determining if the qualifications of the operator and the mechanics and techniques employed in the administration of the test justified admitting the test results into evidence.
+The court in Witherspoon further observed that “Evidence Code sections 801 through 805 provide adequate machinery for the trial court to exclude the opinion testimony of unqualified persons or the proffering of opinions which lack a proper basis or foundation. Evidence Code sections 400 through 406 provide adequate procedure whereby the court can bar the use of evidence which proceeds from unproven necessary preliminary facts and finally Evidence Code section 352 provides the court with ample ability to prevent esoteric ventures into the unknown.” (Witherspoon v. Superior Court, supra, 133 Cal.App.3d at p. 34.)
+It cannot be gainsaid that the function of providing for the exclusion of certain types of evidence, including polygraph evidence, on the basis of policy is one for the Legislature rather than the courts.
+In response to Witherspoon, the Legislature passed urgency legislation providing that the result of a polygraph examination in any criminal proceeding, including any trial or hearing of a juvenile for a criminal offense, shall not be admissible unless all parties agree to its use. (Evid. Code, § 351.1.) The Legislature left open the question of use of a polygraph examination in civil and noncriminal juvenile matters.
+Though Witherspoon is a criminal case, we find nothing in the language or holding of that case that limits the applicability of the principles enunciated therein to criminal cases. The evidentiary principles are equally applicable to noncriminal juvenile cases, such as dependency proceedings.
+The trial judge voiced some concern over the fact that the polygraph testimony was being offered by the defense only. However, that observation does not go to the heart of the issue under consideration. Appellant agreed to submit to a polygraph examination by a neutral examiner. Further, on the request of respondent, the trial court would have the authority to condition the use of appellant’s polygraph examination on her agreeing to submit to the examination by an examiner selected by the respondent.
+As in the case of the enactment of Evidence Code section 351.1 (Stats. 1983, ch. 202, § 1), we invite the Legislature to review the policy considerations involved in the enactment of section 351.1 with view toward extending the provisions of that section to all juvenile court proceedings and civil cases.
+We conclude that the trial judge prejudicially erred in denying appellant an evidentiary hearing pursuant to Evidence Code sections 400-405 relating to the admissibility of the offered polygraph evidence. In light of the reversal on this ground, it will be unnecessary to reach or decide the other grounds urged by appellant for reversal.
+The judgment is reversed with directions to the trial court to conduct an evidentiary hearing pursuant to Evidence Code sections 400-405 as to any polygraph evidence offered into evidence for the purpose of determining if the qualifications of the operator and the mechanics and techniques employed in administering the test justify admitting the test results into evidence.
+Hamlin, J., and Scott (C. F.), J., concurred.
+The petition originally included Kathleen’s younger brother, David. It was dismissed as to David.
+Since Mr. A. was not to be called as a witness, his credibility in this case was not an issue. Accordingly, the evidence relative to Mr. A.’s polygraph examination was not admissible in this case.
+Evidence Code section 351 provides: “Except as otherwise provided by statute, all relevant evidence is admissible.” In addition, Proposition 8 (Cal. Const., art. I, §28, subd. (d)), commonly known as the truth in evidence provision, mandates the admission of all relevant evidence.
+In this regard it is to be noted that by Statutes 1983, chapter 1107, the Legislature added sections 9300-9321 to the Business and Professions Code, known as the Polygraph Examiners Act. This legislation establishes comprehensive regulations for the testing and licensing of polygraph examiners and sets educational and performance standards. Upon retrial, the court should closely examine this act for its application to any polygraph evidence offered.
+Evidence Code section 351.1 provides: “(a) Notwithstanding any other provision of law, the results of a polygraph examination, the opinion of a polygraph examiner, or any reference to an offer to take, failure to take, or taking of a polygraph examination, shall not be admitted into evidence in any criminal proceeding, including pretrial and post conviction motions and hearings, or in any trial or hearing of a juvenile for a criminal offense, whether heard in juvenile or adult court, unless all parties stipulate to the admission of such results.
+“(b) Nothing in this section is intended to exclude from evidence statements made during a polygraph examination which are otherwise admissible.”
+Assigned by the Acting Chairperson of the Judicial Council.
