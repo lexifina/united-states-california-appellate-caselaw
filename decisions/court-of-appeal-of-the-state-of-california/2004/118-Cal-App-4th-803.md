@@ -1,0 +1,40 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "H026223"
+decided: "2004-04-20"
+citations: ["118 Cal. App. 4th 803"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESTANISLAO NAVA, JR. et al., Plaintiffs and Appellants, v. MERCURY CASUALTY COMPANY, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/118/cases/0803-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1377266
+cites_cases: ["18 Cal.4th 857", "4 Cal.App.4th 1159", "42 Cal.App.4th 1702", "50 Cal.Rptr.2d 323", "6 Cal.Rptr.2d 554", "77 Cal.Rptr.2d 107", "959 P.2d 265"]
+---
+
+# Nava v. Mercury Casualty Co.
+
+## Majority (PREMO, J.)
+
+Opinion
+PREMO, J.
+In this insurance coverage action, plaintiffs Estanislao Nava, Jr., Adrian Espitia, and Christopher Anthony Godoy appeal from a judgment that resulted after the trial court granted a motion for summary judgment in favor of defendant Mercury Casualty Company. They contend that the insurance policy in question is ambiguous and, as such, raises a triable issue whether it provides coverage. We disagree and affirm the judgment.
+SCOPE OF REVIEW
+“ ‘While insurance contracts have special features, they are still contracts to which the ordinary rules of contractual interpretation apply.’ [Citations.] ‘The fundamental goal of contractual interpretation is to give effect to the mutual intention of the parties.’ [Citation.] ‘Such intent is to be inferred, if possible, solely from the written provisions of the contract.’ [Citation.] ‘If contractual language is clear and explicit, it governs.’ [Citation.]” (Foster-Gardner, Inc. v. National Union Fire Ins. Co. (1998) 18 Cal.4th 857, 868 [77 Cal.Rptr.2d 107, 959 P.2d 265].)
+Ambiguity exists when an insurance policy provision “ ‘is capable of two or more constructions, both of which are reasonable.’ [Citations.] The fact that a term is not defined in the policies does not make it ambiguous. [Citations.] Nor does ‘[disagreement concerning the meaning of a phrase,’ or ‘ “the fact that a word or phrase isolated from its context is susceptible of more than one meaning.” ’ [Citation.] ‘ “[L]anguage in a contract must be construed in the context of that instrument as a whole, and in the circumstances of that case, and cannot be found to be ambiguous in the abstract.” ’ [Citation.] ‘If an asserted ambiguity is not eliminated by the language and context of the policy, courts then invoke the principle that ambiguities are generally construed against the party who caused the uncertainty to exist (i.e., the insurer) in order to protect the insured’s reasonable expectation of coverage.’ [Citation.]” (Foster-Gardner, Inc. v. National Union Fire Ins. Co., supra, 18 Cal.4th at p. 868.)
+When a trial court’s interpretation of a written agreement is appealed and no conflicting extrinsic evidence was admitted, the interpretation of the contract is a question of law which we review de novo. (WYDA Associates v. Merner (1996) 42 Cal.App.4th 1702, 1710 [50 Cal.Rptr.2d 323]; Winet v. Price (1992) 4 Cal.App.4th 1159, 1165-1166 [6 Cal.Rptr.2d 554].)
+UNDISPUTED FACTS*
+Plaintiffs sued Dustin Valette for injuries caused by Dustin’s reckless driving. Dustin was driving his grandfather’s Ford Escort, and the grandfather’s insurance policies provided some coverage for the injuries. The parties settled the case and, as part of the settlement, Dustin assigned his rights against defendant to plaintiffs. Plaintiffs then filed the instant action against defendant.
+Defendant insured Dustin’s mother under a policy that also covered as “drivers” Dustin, Dustin’s father, Robert, and Dustin’s sister, Brandi. The policy did not insure the Ford Escort. But it did insure a nonowned automobile. It defined nonowned automobile as a vehicle that “is used with permission of the owner” and “is not owned by, or registered to, or available for the regular use of, the named insured, [or] any other persons listed as drivers in the policy.”
+In 1988, Dustin’s grandfather had registered the Ford Escort with the Department of Motor Vehicles in the names of himself, Robert, and Brandi at Robert’s address. He registered the Ford Escort in Robert’s name to avoid probate at death and at Robert’s address to avoid the smog-check program. Plaintiffs accept that Robert knew of this arrangement from the time the first license renewal arrived at his home.
+DISCUSSION
+According to the plain language of defendant’s policy, the Ford Escort is not a nonowned automobile because it was registered to a person listed as a driver in the policy. The policy therefore does not provide coverage for Dustin’s negligence.
+Plaintiffs, however, contend that “the term ‘registered’ is ambiguous and should not be construed to include vehicles registered to someone without their consent or vehicles registered in the wrong manner by mistake.” They reason that “The term ‘registered to’ would seem to refer to the ‘registered owner’ of a vehicle.” They then cite cases for the proposition that registration records are not conclusive on the issue of ownership of a vehicle. They assert that Dustin’s grandfather was simply misguided in registering the Ford Escort in Robert’s name at Robert’s address and that defendant did not rely to its prejudice on the registration records. And they conclude that “The meaning of ‘registered to’ in the definition of non-owned automobile should be construed narrowly, not expansively and should be limited to those vehicles properly registered to a person under the provisions of the vehicle code.”
+The flaw in plaintiffs’ argument is that the language of the policy is clear and explicit: if the vehicle is “registered to” a listed driver, it is not a non-owned automobile for which coverage is provided. Here, the Ford Escort was “registered to” Robert (and Brandi). Robert was a listed driver (as was Brandi). The vehicle was therefore not a nonowned automobile. (Civ. Code, § 1644 [“The words of a contract are to be understood in their ordinary and popular sense, rather than according to their strict legal meaning; unless used by the parties in a technical sense, or unless a special meaning is given to them by usage, in which case the latter must be followed”].)
+There is simply no room for plaintiffs’ theory that there is an unwritten qualification to the phrase “registered to,” that excludes from its definition persons who are not the actual owners of the vehicle. Moreover, even assuming that the phrase could be susceptible of more than one meaning as plaintiffs suggest, the susceptibility is abstract and disappears when the contract as a whole is considered. This follows because defendant’s policy defines a nonowned automobile as one that is not “owned by” or “registered to” a listed driver. In other words, by excluding both concepts (ownership and registration) from the definition of nonowned automobile, the policy acknowledges that there is a difference between the concepts. Stated yet again another way, if the concept of registration was intended to be defined narrowly (actual owners only), it would be unnecessary to mention the concept of ownership. (Civ. Code, § 1641 [“The whole of a contract is to be taken together, so as to give effect to every part, if reasonably practicable, each clause helping to interpret the other”].) Thus, plaintiffs’ argument that registration means actual ownership is inconsistent with the contract as a whole.
+DISPOSITION
+The judgment is affirmed.
+Rushing, P. J., and Elia, J., concurred.
+As they did below, plaintiffs also argue that they raised a triable issue of fact as to their cause of action for breach of the covenant of good faith and fair dealing. They then concede in their reply brief that the trial court never reached this issue because the issue is dependant upon the existence of coverage and, thus, the issue is not before this court.
+For clarity, we refer to some of those involved here by their given names.
