@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5339"
+decided: "1925-12-16"
+citations: ["75 Cal. App. 614"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUBY T. MILLER, Respondent, v. HERBERT L. MILLER, Appellant."]
+source_url: "https://static.case.law/cal-app/75/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163772
+cites_cases: ["135 Cal. 306", "137 Cal. 314", "67 Pac. 770", "70 Pac. 181"]
+---
+
+# Miller v. Miller
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Plaintiff sued for separate maintenance, setting forth two causes of action, one based upon the defendant’s desertion and the other based upon the defendant’s cruelty. The defendant answered and filed a cross-complaint for divorce, charging the plaintiff with cruelty. The trial court found in favor of the plaintiff upon her first cause of action—desertion—and awarded her alimony in the sum of one thousand dollars a year and also awarded to her a one-half interest in the community property. At the same time the defendant was denied any relief upon his cross-complaint. He now appeals from the judgment and from the order denying his motion for a new trial, and the appeal is presented upon a record prepared under the provisions of section 953a of the Code of Civil Procedure:
+The first point raised by the appellant is that the trial court erred in denying his motion for a new trial because the findings were incomplete and because the trial court failed to find on material issues. This is all that is said in regard to the point raised. The appellant has not pointed out in what respect the findings are incomplete or what material issues have not been covered by the findings made or wherein any of these claimed defects have been to his prejudice. Objections raised in this manner do not require consideration. (People v. McLean, 135 Cal. 306, 309 [67 Pac. 770]; People v. Cebulla, 137 Cal. 314, 315 [70 Pac. 181].)
+The second point raised is that the evidence does not support the finding of the trial court adverse to the appellant’s allegations of cruelty found in his cross-complaint. The appellant alleged that during the entire married life of the parties respondent had inflicted upon him great mental pain and suffering due to certain specified acts of alleged misconduct. The bulk of the evidence offered in support of these allegations covered quarrels between the parties occurring some nine or ten years prior to the trial of the action and all prior to two distinct acts of reconciliation and forgiveness on the part of both parties. Those acts which were specified in the cross-complaint as having occurred within the statutory period were either unsupported by any competent evidence or were of such a trivial character as to have been entirely overlooked during the course of the trial. In addition to this all the testimony covering these specifications of cruelty was in wide conflict with the accusations on the part of the husband, being either positively denied or explained away by the testimony offered by the wife. For these reasons the finding of the trial court is not subject to attack on this appeal.
+The appellant argues that the judgment awarding the respondent maintenance is error because the appellant’s separation from his wife was caused by her cruelty and misconduct and that therefore the desertion which is the basis of the award of maintenance is chargeable to her. This point is covered by what has just been said regarding the allegations of cruelty on the part of the wife. The whole argument is based upon the theory that the separation occurred through the fault of the wife and that the appellant was really forced to leave the home because of her cruelty. But the trial court found adversely to appellant upon this issue, and, as we have said, the evidence being conflicting that finding is conclusive.
+When the cause came on for oral argument in this court the appellant for the first time raised the point that no issue had been made in the pleadings as to a division between the parties of the community property and that the trial court was therefore without jurisdiction to award to the respondent one-half of this community property. It appears, however, that in the original complaint the respondent set forth the existence of community property and prayed for a specific sum as maintenance and for such other relief as may seem just and equitable. In his answer the appellant admitted the ownership of the community property and in his cross-complaint went into greater detail as to the description of this property. The facts regarding the community property were found by the trial court in accordance with the allegations which the appellant himself had set up. The trial was had upon the theory that the issue was properly before the court and all evidence on the subject of community property was received without objection from either side. The allegations in the pleadings were sufficient to confer upon the court jurisdiction of the subject matter and though the descriptions of the property were not as complete as might have been required in face of a special demurrer they were sufficient, particularly in view of the fact that no objection was made to the reception of the evidence, to support the finding and award of the trial court.
+Judgment and order affirmed.
+Sturtevant, J., and Langdon, P. J., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on February 11, 1926.
