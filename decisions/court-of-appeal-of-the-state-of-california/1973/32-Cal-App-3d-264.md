@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 40655"
+decided: "1973-05-10"
+citations: ["32 Cal. App. 3d 264"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re the Marriage of BETTIE L. and WARREN D. HANCOCK. WARREN D. HANCOCK, Appellant, v. BETTIE L. HANCOCK, Respondent."]
+source_url: "https://static.case.law/cal-app-3d/32/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4448830
+---
+
+# Hancock v. Hancock
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+The parties were married in 1947; they have four children; the oldest of whom—Am—is the subject matter of the present appeal. They were divorced in 1962, the interlocutory decree providing (in pertinent part) as follows: “It is further ordered that defendant pay to Plaintiff for the support of said minor children the sum of $150.00 per month per child or a total of $600.00 per month payable one-half on the 1st and one-half on the 15th of each and every month commencing February 1, 1962, and continuing until further order of the Court.”
+In July of 1970, after proceedings before Judge Cox of the trial court, which had disclosed that Am was living, at least part time, away from the home of his legal custodian (his mother) and was having scholastic difficulties, the trial court made an order modifying the earlier decree in the following terms: “Child support payments for Arn D. Hancock are terminated forthwith. The Court finds since April, 1969, when he left the family home with petitioner’s consent he was self-supporting or capable of being self-supporting.”
+Thereafter the husband (appellant here), taking the position that his support obligation for Arn had terminated as of April 1969, deducted from subsequent payments to his wife the sum of $2,250, representing the support payments made to her on Am’s account, between April of 1969 and July of 1970. In the proceeding herein involved, Judge Otis ruled that such deduction was improper and ordered the husband to pay off the arrearage.
+On this appeal, the husband relies on subdivision (b) of section 4700 of the Civil Code, which subdivision reads as follows: “(b) When a court orders a person to make specified payments for support of a child during the child’s minority, or until such child is married or otherwise emancipated, the liability of such person terminates upon the happening of such contingency. If the custodial parent or other person having physical custody of the child, to whom payments are to be made, fails to notify the person ordered to make such payments, or the attorney of record of such person, of the happening of such contingency, and continues to accept support payments, such person must refund any and all moneys received which accrued after the happening of such contingency, except that such overpayments must first be applied to any and all support payments which are then in default. The court may, in the original order for support, order the custodial parent or other person to whom payments are to be made to notify the person ordered to make such payments, or his attorney of record, of the happening of such contingency.”
+The briefs discuss whether that section, part of the Family Law Act which came into force on January of 1970, applies to a decree entered in 1962. We do not reach that issue. By its terms, subdivision (b) applies only where the court order, by its terms, required payment only until the child reached the age of majority or “until such child is married or otherwise emancipated.” But the decree herein involved and which we have quoted above, contains no such provisions. The support therein ordered was to continue “until further order of court.” A decree couched in that language is governed, as to termination and modification, by subdivision (a) and not by subdivision (b) of section 4700. That subdivision (and its predecessor section 139 of the Civil Code) provides that a support decree terminates only upon the entry of a court order to that effect. It follows that appellant husband is obligated by Judge Cox’s order and that Judge Otis’ order was correct.
+The order appealed from is affirmed.
+Files, P. J., and Jefferson, J., concurred.
+The final decree, entered April 18, 1963, merely carried forward the terms of the interlocutory decree.
+“The Court finds that there is an arreage [m'c] of $2250.00 on the child support payments for Arn Hancock, and the respondent is ordered to pay to petitioner on the arrearage at $100.00 per month, payable on the 1st day of each month, commencing November 1, 1971, and continuing until paid in full.” '
+Both parties ignore the fact that, insofar as child support is concerned, subdivision (b) of section 4700 was not new law. It merely carried forward the provisions of the former section 139.8, which had come into force on December 20, 1968 (Stats. 1968, ch. 633, p. 1316, § 1). Since that effective date was after the decree herein the same problem would arise if the subdivision were otherwise applicable.
+“(a) In any proceeding where there is at issue the support of a minor child, the court may order either or both parents to pay any amount necessary for the support, maintenance, and education of the child. Upon a showing of good cause, the court may order the parent or parents required to .make such payment of support to give reasonable security therefor. . . . Any order for child support may be modified or revoked as the court may deem necessary, except as to any amount that may have accrued prior to the date of the filing of the notice of motion or order to show cause to modify or revoke. The order of modification or revocation may be made retroactive to the date of the filing of the notice of motion or order to show cause to modify or revoke, or to any date subsequent thereto. . . .”
+The present statute, unlike its predecessor, does permit the modification to relate back to the date of filing a motion for modification. Judge Cox’s order does not, in terms, so provide. We do not know, when the modification which he granted was sought. Neither party has, on this appeal, contended that Judge Cox’s order, long since final, was erroneous in that respect. Consequently we do not decide whether the old section 139 or the new subdivision (a) of section 4700 applies as to that minor retroactively.
