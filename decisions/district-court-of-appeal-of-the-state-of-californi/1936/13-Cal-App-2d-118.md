@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10136"
+decided: "1936-04-06"
+citations: ["13 Cal. App. 2d 118"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROSA CHRISTOPHER, Respondent, v. CITY OF LOS ANGELES (a Municipal Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app-2d/13/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263495
+cites_cases: ["120 Cal. App. 67", "121 Cal. App. 271", "138 Cal. App. 424", "32 Pac. (2d) 413", "4 Cal. App. (2d) 292", "40 Pac. (2d) 547", "7 Pac. (2d) 767", "8 Pac. (2d) 853"]
+---
+
+# Christopher v. City of Los Angeles
+
+## Majority (HAAS, J., pro tem.)
+
+HAAS, J., pro tem.
+The plaintiff, a widow, brought suit for damages alleged by her to have been sustained by reason of the loss of her husband, who died following injuries received as the result of an accident which occurred while he was standing, or walking, at the south end of a pedestrian zone at the northwest corner of Twelfth Street and South Broadway in Los Angeles, on the 26th day of July, 1933. No negligence is attached to the deceased. Two motor vehicles are involved in this accident: a truck belonging to the defendant city, used to pick up cans, which was traveling west on Twelfth Street, driven by Christopher C. Arnelian, an employee of said city, and a certain Plymouth sedan automobile in the possession of and owned by the defendant James Ferguson that was traveling north on South Broadway.
+The trial court gave judgment in the sum of $6,500, in favor of plaintiff.
+The evidence discloses that the truck, while moving westward, struck the right rear" end of the Plymouth sedan going northerly, hurtling it across to the end of the safety zone, and that the Plymouth then struck the deceased, injuring him and causing his death.
+The only question before us is: whether the “conflict in the evidence was real and substantial and not fanciful or fictitious”. (See Thoreau v. Industrial Acc. Com., 120 Cal. App. 67, 73 [7 Pac. (2d) 767].)
+That there was conflict the evidence fully discloses. An eyewitness, Rifenberick, testified both vehicles entered the intersection about the same time. Arnelian, the driver of the truck, testified he was just entering the intersection when he saw the Plymouth “about fifty or sixty feet away from Twelfth Street . . . south of the curb line”. The witness Edwards, who was on the truck, testified: “As he” (the truck driver) “entered the intersection I saw the Plymouth coming about sixty or seventy-five feet from the intersection.” The disinterested witness, Mason, testified that he was positive that at the time the truck arrived at the intersection the Plymouth was not in it. The witness Hughes, who was in the Plymouth at the time of the accident, testified that as the Plymouth entered the intersection the truck “was about 10 or 15 feet away from the curb, the line that runs across”, meaning 10 or 15 feet out of the intersection. The witness Ferguson, driver of the Plymouth, testified that as he looked to the right as he entered the intersection he saw a truck “about one hundred feet down on Twelfth street and I glanced at him, thinking he was going to slow up at the corner”. These conflicts must be kept in mind in considering the testimony of the witness Edwards when he related, “the driver” (of the truck) “applied his brakes, and shifted down, and the truck slowed down, at the time he shifted to second gear. ... I said, ‘It doesn’t look like he is going to stop’ and Mr. Arnelian” (the truck driver) “said, ‘I am watching him’.” It must be borne in mind that the truck could travel some distance while this conversation was going on. The truck driver did not take the precaution ordinarily taken by a prudent person. If he had used ordinary care, having slowed down, being in second gear, and watching him as he said he did, he would, and should, have stopped his truck in time, thus avoiding the accident. The trial court found that “the driver of the truck had an equal responsibility with the driver of the sedan to avoid the accident after danger was apparent and they both failed in the performance of this duty”. The truck driver admitted danger was apparent by his words, “I am watching him”. We are convinced that the conflict in the evidence is not only substantial but that the evidence preponderates quite sufficiently to sustain the judgment of the trial court. There was substantial evidence, though contradicted, that the truck driver was not in the intersection first, and even if he were, the evidence substantiates the trial court in concluding that, had he acted prudently and cautiously as the law requires, he could have avoided the accident.
+No rule is so often repeated in the decisions of our appellate courts as the one that “reviewing courts may not invade the field of the fact-finding body; and consequently where a conflict of evidence exists the findings of the trier of the facts are conclusive”, but such conflict must be substantial and real, not mere conclusions, and must show a positive, direct evidence of a fact. (Gamberg v. Industrial Acc. Com., 138 Cal. App. 424, at 427 [32 Pac. (2d) 413].) Reiterating the rule laid down in the case above cited is the case of Elliott v. Market St. Ry. Co., 4 Cal. App. (2d) 292 [40 Pac. (2d) 547], We are convinced that “reasonable minds viewing the evidence” in this case “dispassionately, might fairly entertain a difference of opinion on it”, and hence the conflict was substantial. (Hughes v. Atchison etc. Ry. Co., 121 Cal. App. 271, 278 [8 Pac. (2d) 853].)
+The trial court was justified in finding that there was such a conflict; that it was substantial; and that the negligence of the truck driver was a proximate cause of the accident and injury.
+Judgment affirmed.
+Houser, P. J., and York, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on June 4, 1936.
