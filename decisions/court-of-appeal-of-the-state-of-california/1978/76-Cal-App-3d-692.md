@@ -1,0 +1,76 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 17430"
+decided: "1978-01-10"
+citations: ["76 Cal. App. 3d 692"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re OTIS DUCKETT, JR., on Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-3d/76/cases/0692-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040547
+cites_cases: ["1 Cal.3d 126", "101 Cal.Rptr. 553", "260 Cal.App.2d 906", "387 U.S. 1", "419 U.S. 449", "496 P.2d 465", "68 Cal.Rptr. 32", "7 Cal.3d 126"]
+---
+
+# In re Duckett
+
+## Majority (ELKINGTON, J.)
+
+Opinion
+ELKINGTON, J.
+—Otis Duckett, Jr., was charged with several counts of assault with a deadly weapon. (Pen. Code, § 245.) Over a period of about 48 hours, responding to psychotic delusions, he appears to have shot three young college students. He was found not guilty by reason of insanity according to the procedures of Penal Code section 1026, and he was thereafter committed to a state hospital. After more than 90 days of such hospitalization, at a time when he had not recovered his sanity, proceedings were commenced on his behalf for parole into the public community, as conditionally permitted by Welfare and Institutions Code section 7375.
+As relevant, Welfare and Institutions Code section 7375 provides: “Whenever any such person has been confined in a state hospital... for 90 days or more .. . and the medical director of the hospital... is of the opinion that the person has improved to such an extent that he is no longer a danger to the health and safety of others and that the person will receive benefit from parole, the medical director may certify said opinion to the committing court .... Within 30 days after the receipt of the certification . . . the court shall, after a hearing in open court, approve or disapprove such recommendation.” (Italics added.)
+Following the required hearing the superior court disapproved the recommendation for Duckett’s parole, and these proceedings in habeas corpus followed. Duckett seeks thereby an order “directing the trial court to grant said request for outpatient parole.” The prayer will be denied for the reasons which we now state.
+It is appropriate first to consider the public interest, in proceedings under Penal Code section 1026 and Welfare and Institutions Code section 7375.
+In discussing the class of persons committed to a state hospital upon a Penal Code section 1026 finding of not guilty by reason of insanity, the state’s high court in In re Franklin, 1 Cal.3d 126, 147 [101 Cal.Rptr. 553, 496 P.2d 465], stated: “[W]e agree ... that ‘The special interest which the public has acquired in the confinement and release of people in this exceptional class results from the fact that there has been a judicial determination that they have already endangered the public safety and their own as a result of their mental conditions as distinguished from people civilly committed because of only potential danger.’ ”
+In the enactment of Welfare and Institutions Code section 7375 the Legislature has considered this special interest of the public. It has provided that there shall be no parole into the community, of persons found not guilty by reason of insanity and who have not recovered their sanity, except upon approval of the committing court, after a hearing.
+Thus the principal, if not the only, issue of the judicial hearing required by section 7375 is whether the subject of the hearing “has improved to such an extent that he is no longer a danger to the health and safety of others . . . .” The ultimate responsibility for this grave determination is conferred upon the committing court, not upon the state hospital’s medical director, or its staff.
+At Duckett’s superior court hearing the following factual context was developed.
+Duckett’s continuing mental illness was diagnosed as “schizophrenia, paranoid type.” In “his case psychosis carries with it a definite danger of violent acting out of his delusions.” He had an extensive juvenile history of “experimenting with drugs and getting into a delinquent crowd,” and doing “time at Juvenile Hall for burglaries . . . The episode leading to his instant commitment was, as we have indicated, the shooting of several college students; the shootings resulted from his psychotic delusions or hallucinations.
+Medical experts from the state hospital first testified that Duckett “was no longer a danger to the health and safety of others.” But on cross-examination, and from other evidence, it was established that he posed no danger to others “at this time.” The reason was that “at this time” he was on “large doses” of “antipsychotic” medication. If the medication were to be stopped, “There’s a strong indication” (from the hospital records) that the “delusions and hallucinations [which] caused the original offense” would return. When for some reason the medication had been interrupted at the hospital he “again developed [the] delusions and hallucinations.” “But for this medication he would probably still be psychotic and in his case psychosis carries with it a definite danger of violent acting out of his delusions.” “[Without medication on two occasions [the hospital staff had] seen a reversion to thought processes similar to that at the time of the alleged crime.” In recent conversations with Duckett one of the medical witnesses had observed no adverse “thought disorder,” but he “could not state unequivocally that there is no evidence of the thought disorder”; at least there were “no strong indications of a thought disorder....”
+Duckett had signed a written agreement wherein he promised while on parole to keep weekly appointments with a designated “Penal Code Coordinator,” to “continue receiving antipsychotic medication,” and that “he will not keep firearms, that he will not use alcohol to excess, and that he will avoid the use of illicit drugs.” Other evidence indicated that most psychotics such as Duckett, when left on their own, “stop their antipsychotic regimens” within a short time and that when they do “the symptoms may recur . . . .” Indeed, one medical witness said: “There’s a strong indication from our records” that if he (Duckett) stopped his medication a “strong possibility” existed of a resumption on the “delusions and hallucinations [which] caused the original offense ....”
+The “monitoring” of Duckett’s required medication, as indicated, would be through his weekly visits to a “Penal Code Coordinator.” A medical witness agreed that in his letter outlining the proposed parole arrangements, “there’s no indication of anybody making sure that Mr. Duckett takes his Artane” (i.e., one of the required medications). The witness “assumed” that Duckett would continue with his medication while on parole; he was “theorizing that he’ll go to Highland [Hospital] to take his medicine.”
+Duckett himself, although present, did not testify at the superior court hearing. Toward its close the following proceedings, among others, took place:
+“Mr. Chasan [Duckett’s attorney]: Those are all the witnesses I have, your Honor.
+“The Court: Thank you. Mr. Quatman, please.
+“Mr. Quatman [district attorney]: We have no witnesses, your Honor.
+“The Court: Mr. Duckett, would you come forward and be sworn, please?
+“Mr. Chasan: Your Honor, are you calling Mr. Duckett as a witness?
+“The Court: Yes, that’s why I’m asking him to be sworn, yes.
+“Mr. Chasan: I do believe he has a Fifth Amendment right to refuse to testify.
+“The Court: It’s not a criminal proceeding, sir.
+“Mr. Chasan: If that’s the way you want to rule—
+“The Court: Don’t give me that stuff now. We’re just talking it over. If you want to convince me otherwise, but it’s even conceded that it isn’t a 1026, it’s down here to see whether he should be released. And if you’re raising some issue now that he’s got a Fifth Amendment privilege and you could be right. You want to tell me why?
+“Mr. Chasan: Well, I think in any proceeding where Mr. Duckett is facing a continued further deprivation of his liberty, whether it’s denominated civil or criminal, that the rights normally applicable in a criminal proceeding, including the Fifth Amendment, would apply.
+“The Court: Is that the issue you raise?
+“Mr. Chasan: Well, I’m raising it by way of an objection to his testifying. .
+“The Court: Fine, you may be seated.
+“Mr. Chasan: Thank you.
+“The Court: Anything further?
+“Mr. Quatman: Nothing further, your Honor.
+“The Court: Anything further?
+“Mr. Chasan: Nothing further, your Honor.
+“The Court: The request will be denied. That’s all.
+“Mr. Chasan: May I be heard?
+“The Court: I’ve ruled. You certainly put on your evidence. I wanted to hear more. I heard the evidence. I wanted to hear more evidence. I don’t want to hear any further argument, no. That’s all.”
+I.
+We now consider Duckett’s contention that he had a Fifth Amendment right not to be called as a witness at the hearing.
+“ The [Fifth Amend.] privilege can be claimed in any proceeding, be it criminal or civil, administrative or judicial, investigatory or adjudicatory____’” (In re Gault, 387 U.S. 1, 47 [18 L.Ed.2d 527, 557, 87 S.Ct. 1428].) But the Supreme Court “has always broadly construed its protection to assure that an individual is not compelled to produce evidence which later may be used against him as an accused in a criminal action.” (Maness v. Meyers, 419 U.S. 449, 461 [42 L.Ed.2d 574, 584-585, 95 S.Ct. 584].) “ ‘[I]t protects any disclosures which the witness may reasonably apprehend could be used in a criminal prosecution or which' could lead to other evidence that might be so used.’ ” (In re Gault, supra, pp. 47-48 [18 L.Ed.2d pp. 557-558].)
+Here Duckett had been found not guilty of the criminal charges which resulted in his state hospital commitment. Under our law he could never again be prosecuted for those offenses. The judicial inquiry, as noted, was whether the state of his psychosis was such that, consistent with the public safety, he might be released from hospitalization into the community on parole. Duckett could not reasonably apprehend that such testimony as he might be called upon to give “ ‘could be used in a criminal prosecution or ... could lead to other evidence that might be so used.’ ” (In re Gault, supra, 387 U.S. 1, 48 [18 L.Ed.2d 527, 557-558].) He accordingly had no Fifth Amendment right to refuse to take the witness stand. And if perchance while on the witness stand he were to be asked questions having a reasonable tendency to so incriminate himself, his right to then decline to answer was in no way abridged.
+The instant contention is patently invalid.
+II.
+It is also argued by Duckett that the “trial court’s stated reason for denying parole demonstrates that petitioner was denied due process of law.”
+The criticized “stated reason” appears in the trial court’s “Memorandum to the File” which, as relevant to our discussion, stated: “It had been my hopes to talk to the defendant in this case. Because of the absence of so doing, I didn’t feel that I could grant him his parole under 7375(c). During the hearing he sat completely passive, staring off into space, was detached and did not appear to be cognizant of what was going on and appeared to have little or no interest. I felt if I could talk to him, I would see what reactions he did have; and if he did in fact impress me favorably, despite the inconclusive nature of the testimony, I would have released him with some fatherly words of encouragement. I didn’t feel that I should release him without this opportunity for personal contact because I was not impressed with his conduct in the courtroom. I also wanted to see how he acted under the pressure as a witness. When the attorney objected I did not want to force the issue because of the defendant’s unstable background.”
+The burden of proof on the issue whether Duckett could, consistent with the public safety, be paroled into the community where his offenses had been committed rested upon Duckett, or the proponents of his parole. The state’s high court in In re Franklin, supra, 7 Cal.3d 126, 148, held that “persons committed under section 1026 may obtain their release by establishing, by a preponderance of the evidence, that they are no longer a danger to the health and safety of themselves or others.” Although this holding applies to persons who, unlike Duckett, contend that they have recovered their sanity, its rationale applies with equal, if not greater, force to those whose violence-prone psychoses concededly continue. (See In re Jones, 260 Cal.App.2d 906, 911-912, fn. 4 [68 Cal.Rptr. 32].)
+The superior court, from the evidence we have related, could reasonably have concluded and presumably did so conclude, that the proponents of Duckett’s parole had not met the burden of proof imposed upon them by law. The evidence instead was found “inconclusive.” It was reasonable that the court should wish to observe the demeanor of Duckett on the witness stand, and particularly his responses to questions which would probably relate to his promised good behavior and medication. Upon Duckett’s refusal to take the witness stand the court reasonably found a failure of proof, and disapproved the recommendation for his parole.
+III.
+A related contention is that the trial court abused its discretion in disapproving the recommendation for outpatient parole in the face of “unanimous expert testimony.”
+There was of course such unanimity on Welfare and Institutions Code section 7375’s requirement that Duckett would probably “receive benefit from parole, . . .” But as we have pointed out, the superior court could reasonably have concluded that there had been a failure of proof, by a “preponderance of the evidence,” that Duckett no longer posed a substantial threat to the lives and safety of others.
+IV.
+A further contention results from what Duckett describes as: “Denial of an opportunity to make a closing statement....”
+From the related proceedings, as quoted ante, we are of the opinion that the trial court’s question of counsel, “Anything further?” might reasonably have been interpreted, as claimed by Duckett’s attorney, as referring to further testimony or other evidence. Under the circumstances the court should have permitted argument, as requested.
+But we note that, “six months hav[ing] elapsed from the date of the last preceding recommendation,” Duckett is again eligible for parole recommendation according to Welfare and Institutions Code section 7375, subdivision (c). It would, we opine, not be in the public, or in Duckett’s, interest to reverse and remand the instant cause for further proceedings. Instead, the state hospital’s medical director, upon an evaluation of Duckett’s present condition, may reinstitute proceedings for his parole according to law. In such event the hearing will be conducted in the manner provided by section 7375, and in accordance with the views we have expressed.
+The petition for habeas corpus is denied.
+Racanelli, P. J., and Sims, J., concurred.
+A petition for a rehearing was denied February 9, 1978, and petitioner’s application for a hearing by the Supreme Court was denied March 9, 1978. Newman, J., was of the opinion that the application should be granted.
