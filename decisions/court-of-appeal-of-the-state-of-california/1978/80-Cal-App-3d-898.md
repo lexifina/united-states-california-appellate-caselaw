@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 8694"
+decided: "1978-05-12"
+citations: ["80 Cal. App. 3d 898"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JOHN THRASH, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/80/cases/0898-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2042169
+cites_cases: ["109 Cal.Rptr. 867", "120 Cal.App.2d 308", "124 Cal.Rptr. 905", "15 Cal.3d 481", "201 P.2d 584", "219 Cal. 395", "26 P.2d 457", "260 P.2d 1030", "334 P.2d 1", "34 Cal.App.3d 281", "51 Cal.2d 371", "541 P.2d 545", "89 Cal.App.2d 639"]
+---
+
+# People v. Thrash
+
+## Majority (BROWN (Gerald), P. J.)
+
+Opinion
+BROWN (Gerald), P. J.
+John Thrash appeals an order revoking his probation which was granted following his plea of guilty to one count of receiving stolen property (Pen. Code, § 496, subd. 1). After the plea, the court dismissed two counts of receiving stolen property and three counts of burglary (Pen. Code, § 459). The court granted a certificate of probable cause (Pen. Code, § 1237.5), following reinstatement of probation.
+Contrary to a written condition of his probation, Thrash left California. He contends the court could not revoke his probation for this violation because he was never orally advised of this condition.
+The probation officer’s report, filed September 29, 1975, did not contain any recommendations as to travel restrictions. When it placed Thrash on probation, the court said it suspended imposition of sentence on condition he serve one year in custody and “on other conditions set forth in the probation report.”
+Thrash received a copy of an amended probation order. The preprinted portion of that order recites the travel restrictions. The amended order was signed October 6, 1975 nunc pro tunc September 29, 1975.
+Thrash was not present at the time the travel restrictions were set and says he did not have a chance to object to that condition of probation. This he says leads to an anomalous result since he was required to be in court for sentencing (Pen. Code, § 977, subd. (b)) but had no opportunity to contest the terms of probation or to reject probation if the terms were too onerous (In re Osslo, 51 Cal.2d 371, 374 [334 P.2d 1]). However, a grant of probation is npt part of the judgment that creates vested rights; the court has the authority to revoke, modify or change its order. Thrash does not claim he did not know what the probation conditions were; he could have petitioned the court if he had wanted to challenge or reject the terms of his probation (People v. Labarbera, 89 Cal.App.2d 639, 643 [201 P.2d 584]).
+Thrash argues if the court says he should have petitioned to challenge the conditions it merely begs the issue. He says the conditions of probation, especially the preprinted ones, are lost in the form; he points out the requirements of clarity and type size for automobile and installment sales contracts are more stringent than what is used on the probation order (see Civ. Code, § 2983.2, subd. (a)(8); § 1803.2, subd. (b). Compounding this problem, Thrash says, is the fact conditions of probation, if they are not mentioned in open court, will never be discussed because the attorney-client relationship has, for all practical purposes, ended. However, the probation officer-client relationship has begun and the comment to section 3.1(a) of the American Bar Association Project on Criminal Justice, Standards Relating to Probation, which Thrash cites, says the conditions of probation should be orally stated to the defendant either by the court or by the probation officer. Thrash’s underlying complaint, that a defendant should know the conditions of his grant of probation, is valid. However, here Thrash does not allege he did not know the conditions; although he fails to tell us how he found out about the conditions of his probation, he merely complains it should have been in another way, that is, in open court; this elevates form over substance.
+Thrash claims the court’s duty at judgment to pronounce oral findings with regard to prior convictions is analogous to his proposed requirement concerning probation conditions. However, the fact of a prior conviction goes directly to the sentence and increases the penalty imposed. If in the pronouncement of judgment the defendant is to know the basis of his sentence, he must know whether the priors are included (People v. Mason, 34 Cal.App.3d 281, 293 [109 Cal.Rptr. 867]). In contrast, probation is an act of clemency which imposes no penalties unless the conditions of probation are broken (In re Hays, 120 Cal.App.2d 308, 310 [260 P.2d 1030]). The fact a person is granted probation, rather than a pardon, gives rise to the implication there are conditions. These conditions need not be spelled out in great detail in court as long as the defendant knows what they are; to require recital in court is unnecessary in view of the fact the probation conditions are spelled out in detail on the probation order and the probationer has a probation officer who can explain to him the contents of the order.
+Thrash contends the conditions preprinted on the probation order form are invalid because they are on every form and, thus, are not tailored to the individual needs of the defendant and his circumstances and may not forbid conduct unless it is reasonably related to future criminality (People v. Lent, 15 Cal.3d 481, 486 [124 Cal.Rptr. 905, 541 P.2d 545]). The two conditions printed on the form are: the defendant is not to engage in any criminal or unlawful conduct and the defendant is not to leave town without getting permission from the proper authorities. The proscription against criminal conduct is so basic it is a condition of probation even if it is not expressly set forth in the order (People v. Lippner, 219 Cal. 395, 399 [26 P.2d 457]). As for the restriction on travel, it validly applies to everyone because of the continuing supervision by the probation department and the need to make sure the defendant meets the standards of the Uniform Act for Out-of-State Probationer and Parolee Supervisions before he is allowed to go to another state (Pen. Code, § 1203). Also it minimizes extradition problems.
+The order revoking probation is affirmed.
+Cologne, J., and Staniforth, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied July 5, 1978.
