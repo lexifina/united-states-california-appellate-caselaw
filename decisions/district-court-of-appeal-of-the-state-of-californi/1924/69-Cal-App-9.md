@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 4804"
 decided: "1924-09-26"
-citations: ["69 Cal. App. 9", "69 Cal. App. 791"]
+citations: ["69 Cal. App. 9"]
 reporter: "cal-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["KATHERINE DOWD (a Widow), Appellant, v. ATLAS TAXICAB AND AUTO SERVIC
 source_url: "https://static.case.law/cal-app/69/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2144015
-cites_cases: ["111 Pac. 534", "134 Ill. 438", "139 Am. St. Rep. 134", "158 Cal. 499", "186 Pac. 154", "187 Cal. 523", "187 Cal. 528", "202 Pac. 870", "208 Pac. 335", "23 Am. St. Rep. 683", "230 Pac. 961", "25 N. E. 564", "31 L. R. A. (N. S.) 599", "40 Cal. 543", "44 Cal. App. 221", "58 Cal. App. 375"]
+cites_cases: ["111 Pac. 534", "134 Ill. 438", "139 Am. St. Rep. 134", "158 Cal. 499", "186 Pac. 154", "187 Cal. 523", "187 Cal. 528", "202 Pac. 870", "208 Pac. 335", "23 Am. St. Rep. 683", "25 N. E. 564", "31 L. R. A. (N. S.) 599", "40 Cal. 543", "44 Cal. App. 221", "58 Cal. App. 375"]
 ---
 
 # Dowd v. Atlas Taxicab & Auto Service Co.
