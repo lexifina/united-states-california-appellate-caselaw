@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "H010889"
+decided: "1993-10-12"
+citations: ["19 Cal. App. 4th 449"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ADRIAN LITTLE, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/19/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4524005
+cites_cases: ["16 Cal.App.4th 954", "20 Cal.Rptr.2d 314", "206 Cal.App.3d 119", "213 Cal.App.3d 913", "232 Cal.App.3d 620", "253 Cal.Rptr. 190", "261 Cal.Rptr. 860", "283 Cal.Rptr. 528"]
+---
+
+# People v. Little
+
+## Majority (WUNDERLICH, J.)
+
+Opinion
+WUNDERLICH, J.
+Appellant Adrian Little was charged by information with possession of cocaine base for sale within 1,000 feet of a school while personally armed with a firearm (Health & Saf. Code, §§ 11351.5, 11353.6, subd. (b); Pen. Code, § 12022, subd. (c)—count 1), and the following misdemeanors: giving a false name to a peace officer (§ 148.9—count 2), concealing a firearm in a vehicle (§ 12025, subd. (a)—count 3), carrying a loaded firearm (§ 12031, subd. (a)—count 4), and obstructing an officer (§ 148, subd. (a)—count 5.) The information also alleged appellant suffered various prior convictions. After his motions to dismiss (§ 995) and to suppress certain evidence (§ 1538.5) were denied, appellant entered a negotiated plea to counts 1, 2, and 5, and admitted the priors. Counts 3 and 4 were dismissed upon the prosecutor’s motion. Appellant was sentenced to 8 years in state prison with 289 days of presentence credits, consisting of 193 days’ credit for actual time served and 96 days of good conduct credits. He filed a timely notice of appeal. (See § 1237.5; Cal. Rules of Court, rule 31(d).)
+Discussion
+Appellant’s sole argument on appeal is that the abstract of judgment must be modified to correctly reflect an additional day of presentence custody credit and that his sentence was enhanced by three years pursuant to Health and Safety Code section 11370.2. Respondent concedes that appellant should be granted an additional day of custody credit. Respondent also concedes that the abstract of judgment incorrectly reflects that appellant received a three-year term for a Health and Safety Code section 11353.6, subdivision (b), enhancement instead of a three-year term for a Health and Safety Code section 11370.2 enhancement. The concessions are appropriate. Accordingly, we will order the abstract of judgment be corrected.
+We continue in order to set forth an important point to the local bar. To paraphrase the court in People v. Fares (1993) 16 Cal.App.4th 954, 957 [20 Cal.Rptr.2d 314], we are disturbed that this attempt at a minor correction of error in the abstract of judgment has required the formal appellate process. “The error in question in any view of the matter that we can conceive must be deemed clerical, inadvertent, or at most negligent.” (Ibid.) “Is not there a better way of going about this sort of corrective jurisprudence than by including it in a formal appeal, especially when it is the only ground of appeal? There is! The most expeditious and, we contend, the appropriate method of correction of errors of this kind is to move for correction in the trial court.” (Id. at p. 958, italics in original.)
+A trial court has inherent power to correct clerical errors in its records so as to make these records reflect the true facts. (People v. McGee (1991) 232 Cal.App.3d 620, 624 [283 Cal.Rptr. 528].) The court may correct these errors on its own motion or upon the application of the parties. (Ibid.) Thus, the trial court has jurisdiction to resentence a prisoner by amending the judgment to correct its original, erroneous calculation of his presentence credits, and there is no time limitation upon the right to move the trial court to correct the sentence due to miscalculation of custody credits. (People v. Jack (1989) 213 Cal.App.3d 913 [261 Cal.Rptr. 860]; People v. Fares, supra, 16 Cal.App.4th at p. 958.) Likewise, if the minutes or abstract of judgment fails to reflect the judgment pronounced by the court, the error is clerical and the record can be corrected at any time to make it reflect the true facts. (People v. Rowland (1988) 206 Cal.App.3d 119, 123 [253 Cal.Rptr. 190].)
+“A reviewing court has inherent power, on motion or its own motion, to dismiss an appeal which it cannot or should not hear and determine. [Citation.] Section 1248 provides that the appellate court may order dismissal of any appeal which ‘is irregular in any substantial particular.’ We have found no precise authority which authorizes dismissal, or partial dismissal, of an otherwise proper appeal on the ground of availability of an adequate remedy by way of motion in the superior court. The situation is similar, however, to the failure to exhaust administrative remedies, with respect to which dismissal is appropriate. [Citations.] Where a remedy is available in a lower echelon of judicial administration, recourse to such should be required before the resort to appellate review.” (People v. Fares, supra, 16 Cal.App.4th at p. 959.)
+This court urges counsel presented with apparent error in the calculation of presentence custody credits, and/or clerical error in the abstract of judgment, to attempt correction in the trial court before elevating the issue to a formal appeal. As the court in People v. Fares, supra, 16 Cal.App.4th at page 960 noted, if the dispute cannot be resolved by motion in the trial court, appeal is always available. Counsel is warned, however, that this court reserves the right in the future to summarily dismiss appeals directed to the above noted corrections when it appears that prior resort to the trial court in all likelihood would have afforded an adequate remedy.
+Disposition
+The trial court is ordered to correct the abstract of judgment to reflect one additional day of presentence custody credit, and to reflect the three-year enhancement imposed is pursuant to Health and Safety Code section 11370.2. The court is further ordered to forward the corrected abstract of judgment to the Department of Corrections. In all other respects, the judgment is affirmed.
+Premo, Acting P. J., and Elia, J., concurred.
+All further statutory references are to the Penal Code unless otherwise stated.
