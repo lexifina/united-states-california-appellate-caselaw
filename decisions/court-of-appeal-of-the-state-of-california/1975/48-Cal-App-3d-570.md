@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 36367"
+decided: "1975-05-29"
+citations: ["48 Cal. App. 3d 570"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELDA E. JENKINS, Petitioner, v. WORKERS’ COMPENSATION APPEALS BOARD, CONTRA COSTA COUNTY FIRE PROTECTION DISTRICT et al., Respondents."]
+source_url: "https://static.case.law/cal-app-3d/48/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440930
+cites_cases: ["118 Cal.Rptr. 609", "162 Cal.App.2d 761", "263 Cal.App.2d 204", "328 P.2d 561", "404 P.2d 814", "44 Cal.App.3d 397", "46 Cal.Rptr. 110", "63 Cal.2d 263", "69 Cal.Rptr. 516"]
+---
+
+# Jenkins v. Workers' Compensation Appeals Board
+
+## Majority (TAYLOR, P. J.)
+
+Opinion
+TAYLOR, P. J.
+In this proceeding, petitioner, widow of a fireman who succumbed to a myocardial infarction sustained fighting a fire, seeks review and annulment of an order by the Workers’ Compensation Appeals Board which granted the carrier’s petition for reconsideration, rescinded the referee’s order commuting an award of death benefits and substituted its own order of commutation. The matter arose as follows:
+Following the death of petitioner’s husband, the carrier, State Compensation Insurance Fund, accepted liability for death benefits and commenced payments to the surviving dependent widow, the payments amounting to $119 per week. Thereafter, the widow petitioned for commutation of the balance of the death benefit, alleging that she was suffering from a terminal illness, had a short life expectancy, and that it would be in her best interest to commute the award in order that she might pay off the balance remaining on the mortgage on her home, have sufficient sums to pay her monthly drug and doctor bills, have sufficient monies available to pay for hospitalization anticipated in the future, and that any monies not required for the aforementioned purposes be permitted to be used by her “so that, she may enjoy the uncertain period of time that she has remaining with respect to her life.”
+In its petition for reconsideration, the fund made no objection to the commutation for purpose of paying the balance of the mortgage nor to the monthly out-of-pocket expenses for drugs, but objected to the commutation of the remainder of the award, contending that a claim of impending death was not a justifiable legal basis for commutation.
+In its order granting reconsideration and rescinding the award of the referee, the board noted that the fund had agreed to pay the balance on the mortgage and the estimated cost of medication, and that commutation of these items was proper. The board concluded, however, that “To commute the almost $37,000 remaining on this award to a person whose life expectancy now is considered to be about four months would unjustly enrich the widow’s estate at the Fund’s expense.” The board thereupon substituted its own award of $6,145.91 payable to the holder of the widow’s mortgage, $420 to the widow as an advance on the cost of medication, and $300 to compensate her attorney.
+Petitioning widow contends that the board’s decision means that due to the death of her husband, she will have to face the last days of her life in debt and that her family will be burdened with the cost of her last illness, including impending hospitalization, as the. fund will be absolved of liability upon her death.
+Section 5100, subdivision (a), of the Labor Code provides that the board may commute compensation payable to a lump sum and order it to be paid forthwith or at some future time if it appears that such commutation “is necessary for the protection of the person entitled thereto, or for the best interest of either party.” Labor Code section 15 provides that “ ‘may’ is permissive.” Thus, discretion to commute the award is granted to the board; discretion granted to the board, however, may not be exercised in an arbitrary manner (Garcia v. Industrial Acc. Com. (1958) 162 Cal.App.2d 761, 765 [328 P.2d 561]).
+Under the circumstances shown here, and in light of the legislative policy expressed in Labor Code section 3202, we find the board’s failure to make any provision in its order of commutation for anticipated hospital and doctor bills to be “unreasonable” within the meaning of Labor Code section 5952, subdivision (c); see City of Los Angeles v. Industrial Ace. Com. (1965) 63 Cal.2d 263, 264, fn. 1 [46 Cal.Rptr. 110, 404 P.2d 814]. The fund itself has conceded in its answer and at oral argument that the payment of medical bills may constitute a sufficient reason for commutation of future portions of the award.
+The order of the board is annulled, and the board is directed to include in its order of commutation such sums as are or may in the future be reasonably required for medical treatment to the petitioner, including the costs of hospitalization, drugs and attending physicians. The board is further directed to include in its order a provision that the fund be directed to pay promptly upon receipt any such medical bills which have been incurred and submitted to the fund.
+Kane, J., and Rouse, J., concurred.
+Section 4706, subdivision (a), of the Labor Code provides that “If a dependent beneficiary of any deceased employee dies and there is no surviving" dependent, the death benefit terminates and does not survive to the estate of the deceased dependent, except that payments of the death benefit accrued and payable at the time of the death of the sole remaining dependent shall be paid upon the order of the appeals board to the heirs of the dependent or, if none, to the heirs of the deceased employee, without administration.” (Italics added.)
+Labor Code section 3202 provides that “The provisions of Division 4 and Division 5 of this code [i.e., the Worker’s Compensation Act, including § 5100] shall be liberally construed by the courts with the purpose of extending their benefits for the protection of persons injured in the course of their employment” (italics added). The policy expressed in Labor Code section 3202 applies equally to “the courts” and to the board (Gross v. Workmen’s Camp. Appeals Bd (1975) 44 Cal.App.3d 397, 402-403 [118 Cal.Rptr. 609]; Beaida v. Workmen’s Comp. App. Bd. (1968) 263 Cal.App.2d 204, 208-209 [69 Cal.Rptr. 516]). The policy seems frequently overlooked by the board (Gross, supra, p. 403).
