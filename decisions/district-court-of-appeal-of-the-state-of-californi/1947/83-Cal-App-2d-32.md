@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15952"
+decided: "1947-12-22"
+citations: ["83 Cal. App. 2d 32"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATIONAL ELECTRIC WELDING MACHINES CO., INC., Respondent, v. FRED P. GLICK et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/83/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4434988
+cites_cases: ["12 Cal.2d 482", "12 Cal.2d 691", "85 P.2d 885", "87 P.2d 349"]
+---
+
+# National Electric Welding Machines Co. v. Glick
+
+## Majority (MOORE, P. J.)
+
+MOORE, P. J.
+The question for decision is whether the judgment is supported by substantial evidence.
+Respondent sued appellants (1) for a balance of $7,930 due on account of certain machines sold to appellants and (2) upon an account stated in the same sum. Appellants having admitted by their answer the alleged purchase, sought by their cross-complaint damages in the sum of $400,000 for breach of warranty on account of the alleged defectiveness of the machines and accessories, consisting of a mat welder, a tee welder and a gun welder, which appellants purchased for the purpose of manufacturing grating although they had been constructed for the purpose of welding airfield landing mats. The findings and judgment were in favor of respondent (1) on its account stated and (2) against appellants on their cross-complaint. The latter demand a reversal of the judgment on the ground that their evidence in support of the cross-action met with no substantial conflict.
+Appellants have outlined with meticulous care the several particulars with respect to which the warranties were breached, and have quoted testimony and documentary proofs in support of their contentions. Such labor is presumptively a duplication of the effort made before the trial court. Arguments upon the weight of evidence under our system of procedure have no place before a reviewing court except in those eases where there is either an utter lack of evidential support for the judgment or where the proof is so slight that to base a judgment thereon would be an abuse of discretion. Such is not the situation here. On the contrary, on the issues of the breaches of warranty respondent introduced substantial evidence which was adopted by the trial court. No advantage could be gained by a recital of the proofs introduced by the respective parties or by inscribing in these pages the total evidence in rebuttal of that which was favorable to appellants.
+Suffice it to say that respondent established that at the time of appellants’ purchase of the machines with which they purposed to make grating, respondent’s agents stated that they could be put to such use with necessary changes; that specifications for the conversion of the mat welder to a grating welder would be prepared by respondent but that the labor should be performed by appellants at their own expense. Respondent’s Los Angeles manager testified that designs for the making of the mat welder into a grating welder were delivered to appellants. The welder was set up by appellants in their Los Angeles factory in May, 1942, and for some time so performed as to demonstrate all of the capabilities promised by respondent in the manufacture of ship grating. With reference to a number of the alleged defects which appellants claimed to have developed in that period, the testimony of respondent’s witnesses was to the effect that they were due to inexperienced workmanship in reassembling the machine and not to its inefficiency as originally designed and built. But it was proved that during the period of the manufacture of grating-, appellants were “absolutely satisfied” with the mat welder’s performance.
+In October, 1942, appellants disassembled the machine and reassembled it as a mat welder. Some slight deficiencies were shown to have been caused by incompetent workmanship; however, it was still a success. The chief electrician of the company which had taken over the plant in March, 1943, testified that it could then weld 22,000 welds or 65 mats per hour, a greater output than had been promised, and that there was no other machine of comparable speed, contrary to the contention of appellants.
+The proof of appellants that the mat welder failed in (1) that hot rolled steel could not be used in making mats, (2) that the laminations did not operate successfully, and (3) that the bus bar, the electrodes, the indexing mechanism, the hydraulic cooling systems, the transformers and loeater mechanism were defective, was rebutted by witnesses on behalf of respondent who testified that the defects either did not exist or were caused by inexperienced workmanship in the reassembling of the machine. Also, the alleged defects on the tee welder were shown by respondent’s witnesses to be nonexistent, their testimony being that the bolt in its carrying bar of which complaint was made had been inserted at the time of reassembling the machine. As to alleged defects in the gun welder, it was shown that appellants never used such welder by reason of having discovered a clip which was a cheaper method of clamping mats and which is universally used. Under the well-established rule governing appellate procedure in cases of conflicting evidence the substantial rebuttal of each item of appellants’ asserted breaches of warranty disposes of this appeal. (Feckenscher v. Gamble, 12 Cal.2d 482, 492 [85 P.2d 885] ; Hinkle v. Southern Pacific Co., 12 Cal.2d 691, 695 [87 P.2d 349].)
+The judgment is affirmed.
+McComb, J., and Wilson, J., concurred.
