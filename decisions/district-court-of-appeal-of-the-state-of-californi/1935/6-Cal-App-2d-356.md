@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9756"
+decided: "1935-04-22"
+citations: ["6 Cal. App. 2d 356"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. H. HIMES, Respondent, v. CLUB RUSTICO DE LA PLAYA, S. A. (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app-2d/6/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2200319
+cites_cases: ["10 Pac. (2d) 820", "295 Pac. 504"]
+---
+
+# Himes v. Club Rustico De La Playa, S. A.
+
+## Majority (SCOTT, J., pro tem.)
+
+SCOTT, J., pro tem.
+Plaintiff was awarded summary judgment on a promissory note against defendant Club Rustico De La Playa, from which the latter appeals.
+The complaint set out the note, dated December 27, 1929, in the sum of $10,000, payable at Los Angeles, signed by two comakers and with the name of appellant corporation by J. M. Danziger, “president”, and Alda Faulkner, “asst, secy.”, and its corporate seal was thereunto affixed. The answer of appellant contained general denials and special defenses (1) to the effect that the note was not signed until after August, 1932, that Danziger was not president after August, 1930, and that Faulkner was never assistant secretary and held no office when the note was executed; (2) that since under the law of Mexico the domicile of appellant, the articles of incorporation and by-laws of a corporation control the powers of its officers, and since in this ease they require consent of two-thirds of the stockholders to borrow money, and since no such consent was given, such loan was unauthorized; and (3) that it was not doing business in California when the summons was served on its president, and the trial court had no jurisdiction.
+The suit was filed in November of 1933, and motion that the answer of defendant club be stricken out and judgment entered for plaintiff was heard on February 16, 1934, said motion being on the ground that there was no defense to the action and being based on the pleadings and certain affidavits. The motion was made under section 437c of the Code of Civil Procedure, which provides in part that “in superior courts . . . when an answer is filed in an action to recover upon a debt or upon a liquidated dernand ... if it is claimed that there is no defense to the action, on motion of plaintiff . . . supported by affidavit of any person or persons having knowledge of the facts, the answer may be stricken out and judgment may be entered. . . . ” The nature of the affidavits required is described in the same section.
+In support of plaintiff’s motion the affidavit of Danziger stated that he had been president of appellant corporation in December of 1929 and was such president until August 2, 1930; that as such officer he had borrowed $10,000 from plaintiff to purchase a permit from the Mexican government for the corporation to operate a casino in their buildings located in Mexico; that the money was so used and that he as president and Faulkner as assistant secretary had executed the note on behalf of appellant prior to January 13, 1930. The affidavit of Faulkner related the details of making the loan and that it was used and the note was executed as related by the affidavit of Danziger, and that she was assistant secretary of the corporation. An affidavit of plaintiff described the making of the loan, receipt of the note and nonpayment. A photostatic copy of the instrument was introduced in evidence in the trial court and the original has been filed in this court.
+In opposition to the motion two affidavits were filed on behalf of appellant. I. E. Muller in his affidavit stated: that at all times since its incorporation he has held all of the stock of appellant corporation as president and legal representative of I. E. Muller & Co., Ltd., a California corporation (as security for a loan), that he now holds all the official records of said appellant corporation and that he and his associates constitute the board of directors. He asserts that Faulkner never was assistant secretary or an official of appellant corporation, and that the records of the corporation show no such transaction with plaintiff and the permit shows no consideration paid. Certain of the financing and incorporation activities of appellant and the other makers of the note are included in the affidavit. Louis Wagner’s affidavit gives general support to the affidavit of Muller.
+From the affidavits it appears to be undisputed that Danziger was the president of appellant corporation in December, 1929, and for several months thereafter; that about that time he got $10,000 from Himes and gave the latter a note signed with the name of appellant corporation by himself as president and Faulkner as assistant secretary, with the corporate seal affixed; that about that time appellant received a valuable permit or concession from the Mexican government, which did not show on its face any consideration paid therefor. In opposition to Danziger’s express declaration that he paid the money and got the permit for the corporation, we find the bare assertion that the records do not show the receipt and disbursement of the money in question. Such a denial was not effectual to constitute a defense. The determination and ruling of the trial court was correct. (Cowan Oil & Refining Co. v. Miley Petroleum Corp., 112 Cal. App. (Supp.) 773 [295 Pac. 504]; Krieger v. Dennie, 123 Cal. App. (Supp.) 777 [10 Pac. (2d) 820], and cases cited therein.)
+Judgment affirmed.
+Stephens, P. J., and Crail, J., concurred.
