@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. S. C. 50"
+decided: "1937-01-25"
+citations: ["18 Cal. App. 2d 664"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES H. DAVIS, Plaintiff and Respondent, v. GERTRUDE E. HOSFORD, as Executrix, etc., Defendant and Appellant; EDNA G. DAVIS, as Executrix, etc., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-2d/18/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2278983
+cites_cases: ["10 Pac. 186", "115 Cal. 285", "124 Cal. 509", "13 Pac. 689", "132 Cal. 154", "133 Cal. App. 452", "134 Cal. 338", "137 Cal. 328", "154 Cal. 351", "24 Pac. (2d) 551", "25 Pac. 497", "47 Pac. 60", "5 Pac. 77", "57 Pac. 387", "64 Pac. 278", "66 Cal. 189", "66 Pac. 309", "68 Cal. 642", "70 Pac. 175", "72 Cal. 251", "87 Cal. 399", "97 Pac. 865"]
+---
+
+# Davis v. Hosford
+
+## Majority (WHITE, J., pro tem.)
+
+WHITE, J., pro tem.
+Appeal by defendant Gertrude E. Hosford, as executrix of the estate of Maybelle G. Davis, deceased, from a judgment rendered in favor of the plaintiff for $3,000, on a rejected claim against said estate. No reporter’s transcript has been filed, and the appeal is prosecuted on the judgment roll alone.
+The third cause of action in the complaint, upon which the judgment is predicated, alleges: “That since the month of July, 1928, plaintiff has loaned to Maybelle G. Davis, deceased, and Hershell H. Davis, her predeceased spouse, at their joint request the sum of three thousand dollars ($3000.00), which sum said Maybelle G. Davis, deceased, and Hershell H. Davis, her predeceased spouse, promised to repay when they or either of them were able to repay and found it convenient for them to do so.’,’ The trial court found that “there was no time fixed in the contract for the repayment of the money loaned by said Charles H. Davis to Her-shell H. Davis and Maybelle G. Davis”, and also found that Maybelle G. Davis died May 1, 1933, and “that a reasonable time for the due date of the obligation on the part of Her-shell H. Davis and Maybelle G. Davis to Charles H. Davis, plaintiff herein to repay the aforesaid $3000.00 is May 1, 1933”.
+Appellant urges a reversal upon the single ground that, the trial court having found that there was no time fixed for the repayment of the money, the statute of limitations commenced to run from the time of the last loan in September, 1928. This action was filed June 4, 1934. In support of this claim, appellant cites the cases of Newhall v. Sherman, Clay & Co., 124 Cal. 509, 512 [57 Pac. 387], and Dorland v. Dorland, 66 Cal. 189 [5 Pac. 77] ; but in those cases it is specifically pointed out in the decision that no time was given or fixed in the written instruments there in question, nor were there any allegations in the complaint giving or fixing a time for the payment of the obligations, by reason of which it was held that the presumption of law is that the obligation was to be repaid on demand, and that the statute of limitations began to run from the time of the loan. In the case before us, however, the complaint alleges that the loan was to be repaid when the debtors or either of them “were able to repay and found it convenient for them to do so”. It seems to ns that the finding of the trial court that May 1, 1933, was a reasonable time for the due date of the obligation in question, determined that, under the evidence, on that date the debtor was able to repay and that it was convenient for her to do so; and that the statute therefore commenced to run on that date.
+It is the rule in this state that upon a direct appeal from the judgment upon the judgment roll alone, it will be assumed in support of the judgment that all objections to the evidence in support of the findings were waived. (Crowther v. Metalite Mfg. Co., 133 Cal. App. 452, 455 [24 Pac. (2d) 551].) Conceding in the instant case that the findings are not strictly in accordance with the issues raised by the pleadings, nevertheless, this appeal being before us on the judgment roll alone, we must presume that evidence was introduced which would support the findings without any objection on the part of appellant, and that the facts were treated by all parties as issues properly before the court at the trial. If the entire record were before this court, a different situation might be presented. (Peck v. Noee, 154 Cal. 351, 354 [97 Pac. 865]; McDougald v. Hulet, 132 Cal. 154, 163 [64 Pac. 278] ; Krasky v. Wollpert, 134 Cal. 338, 343 [66 Pac. 309]; Beardsley v. Clem, 137 Cal. 328, 332 [70 Pac. 175] ; Illinois T. & S. Bank v. Pacific Ry. Co., 115 Cal. 285 [47 Pac. 60] ; Sukeforth v. Lord, 87 Cal. 399 [25 Pac. 497] ; Moore v. Campbell, 72 Cal. 251 [13 Pac. 689] ; Horton v. Dominguez, 68 Cal. 642 [10 Pac. 186].) Therefore we must now assume on this appeal upon the judgment roll alone, that ample evidence was introduced at the trial without any objection upon the part of appellant to support the finding that under the facts of this case a reasonable time for the due date of the obligation in question was May 1, 1933, and that the statute did not commence to run until on and after that time.
+The judgment is affirmed.
+York, Acting P. J., and Doran, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on March 25, 1937.
