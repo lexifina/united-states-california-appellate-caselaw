@@ -2,7 +2,7 @@
 court: "District Court of Appeal of the State of California"
 docket: "Civ. No. 9482"
 decided: "1935-12-19"
-citations: ["10 Cal. App. 2d 713", "10 Cal. App. 2d 726"]
+citations: ["10 Cal. App. 2d 713"]
 reporter: "cal-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BETTY GACKSTETTER, a Minor, etc., Respondent, v. MARKET STREET RAILWA
 source_url: "https://static.case.law/cal-app-2d/10/cases/0713-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2269459
-cites_cases: ["101 Cal. 312", "104 Cal. App. 89", "106 So. 239", "115 Pac. 901", "116 Pac. 513", "118 Cal. 55", "126 Pac. 183", "128 Pac. 407", "130 Cal. App. 316", "145 Pac. 92", "151 Cal. 443", "152 Pac. 323", "160 Cal. 237", "164 Cal. 265", "168 Cal. 722", "174 Pac. 61", "175 Ala. 60", "178 Cal. 616", "186 Cal. 775", "188 Pac. 294", "19 Cal. App. 451", "197 Cal. 674", "199 Pac. 850", "2 Pac. (2d) 789", "20 Pac. (2d) 93", "200 Pac. 638", "202 Pac. 946", "208 Cal. 315", "212 Cal. 419", "213 Cal. 573", "214 Ala. 15", "240 Pac. 1021", "242 Pac. 713", "247 Pac. 212", "248 Pac. 929", "257 Pac. 447", "28 Cal. App. 241", "281 Pac. 70", "285 Pac. 409", "298 Pac. 987", "35 Pac. 872", "39 L. R. A. (N. S.) 1064", "40 Am. St. Rep. 57", "45 Cal. App. 731", "50 Colo. 390", "50 Pac. 25", "52 Cal. App. 727", "52 Pac. (2d) 998", "54 Cal. App. 719", "62 Am. St. Rep. 216", "7 Cal. App. 599", "74 Cal. App. 411", "77 Cal. App. 164", "78 Cal. App. 451", "8 Cal. App. 344", "83 Cal. App. 655", "90 Pac. 1059", "95 Pac. 179", "97 Pac. 93"]
+cites_cases: ["101 Cal. 312", "104 Cal. App. 89", "106 So. 239", "115 Pac. 901", "116 Pac. 513", "118 Cal. 55", "126 Pac. 183", "128 Pac. 407", "130 Cal. App. 316", "145 Pac. 92", "151 Cal. 443", "152 Pac. 323", "160 Cal. 237", "164 Cal. 265", "168 Cal. 722", "174 Pac. 61", "175 Ala. 60", "178 Cal. 616", "186 Cal. 775", "188 Pac. 294", "19 Cal. App. 451", "197 Cal. 674", "199 Pac. 850", "2 Pac. (2d) 789", "20 Pac. (2d) 93", "200 Pac. 638", "202 Pac. 946", "208 Cal. 315", "212 Cal. 419", "213 Cal. 573", "214 Ala. 15", "240 Pac. 1021", "242 Pac. 713", "247 Pac. 212", "248 Pac. 929", "257 Pac. 447", "28 Cal. App. 241", "281 Pac. 70", "285 Pac. 409", "298 Pac. 987", "35 Pac. 872", "39 L. R. A. (N. S.) 1064", "40 Am. St. Rep. 57", "45 Cal. App. 731", "50 Colo. 390", "50 Pac. 25", "52 Cal. App. 727", "54 Cal. App. 719", "62 Am. St. Rep. 216", "7 Cal. App. 599", "74 Cal. App. 411", "77 Cal. App. 164", "78 Cal. App. 451", "8 Cal. App. 344", "83 Cal. App. 655", "90 Pac. 1059", "95 Pac. 179", "97 Pac. 93"]
 ---
 
 # Gackstetter v. Market Street Railway Co.
