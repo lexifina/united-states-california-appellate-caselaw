@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 930"
+decided: "1923-02-28"
+citations: ["61 Cal. App. 226"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Finlayson, P. J., and Works, J., concurred."]
+parties: ["In the Matter of the Petition of M. J. BERGEN for Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/61/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2090317
+cites_cases: ["10 Cal. App. 507", "102 Pac. 674", "116 Pac. 390", "15 Tex. App. 362", "160 Cal. 18", "24 Mo. App. 410", "25 N. C. 418", "39 Mo. App. 127", "40 Am. Dec. 416", "42 Am. Rep. 518", "54 Cal. 53", "87 N. C. 527"]
+---
+
+# In re Bergen
+
+## Majority (CRAIG, J.)
+
+CRAIG, J.
+This is a petition for writ of habeas corpus. The complaint, in so far as it is material here, reads as follows:
+“Personally appeared before me this 11th day of August, 1922, George Hudson, of Bakersfield, in the County of Kern, State of California, who being first duly sworn complains and accuses M. J. Bergen of the crime of Misdemeanor, to wit, carrying concealed weapon, committed as follows: That said M. J. Bergen, on or about the 10th day of August, 1922, within the corporate limits of the said city of Bakersfield, County of Kern, State of California, did then and there willfully and unlawfully conceal upon his person one Iver-Johnson 38 Pistol, without a license to carry such firearm.”
+Petitioner contends that this complaint does not state facts sufficient to constitute a public offense. The language of the section of the statute (Stats. 1917, p. 221) under which the charge is made reads as follows:
+“Subdivision 3. Carrying Firearms Without License, Misdemeanor. Every person who carries in any city, city and county, town or municipal corporation of this State, any pistol, revolver, or other firearm concealed upon his person without having a license to carry such firearm as hereinafter provided in Section 6 of this Act, shall be guilty of a misdemeanor.”
+Section 1426 of the Penal Code requires that the complaint through which an action for a public offense is begun must set forth “the offense charged, with such particulars of time, place, person and property as to enable the defendant to understand distinctly the character of the offense complained of, and to answer the complaint.”
+It seems apparent that in any accusation the name given the offense by the pleader is separate from the charging part of the instrument. This was held to be the rule in People v. Cuddihi, 54 Cal. 53. In that case the prosecution was by way of indictment, but the same reason is equally applicable to a complaint. A person of ordinary understanding who reads a formal accusation of crime, and finds himself charged with an “assault with intent to commit murder, ” “ committed as follows, ’ ’ would know that he must look to what follows to discover the alleged facts, and if they were to the effect that he had administered to someone a large quantity of a certain deadly poison with intent to murder such person, he would understand that the offense charged to be that named in section 216 of the Penal Code, and he would pay no further attention to the name erroneously applied to the alleged offense by the pleader.
+Likewise, one reading the complaint in the instant proceeding passes on from the designation of the offense. There is no suggestion that the name is intended to be part of the charge, but, on the contrary, upon its face it purports to be nothing more than a name. When the complaint says, “committed as follows,” we look to that which follows to see what it is alleged that Bergen did to commit an act violative of the law. There we find it said that he did “willfully and unlawfully conceal upon his person” a certain pistol “without a license to carry such firearm.” Two facts are contained in this charge, first, that he concealed the pistol on his person, and second, that he had no license to carry the same. But the act under which the prosecution is brought does not make it an offense to conceal a weapon upon one’s person without a license to carry it, unless the concealment is joined with the carrying of the same. Without doubt, the purpose of the legislature in enacting this law was to prevent citizens going armed in such fashion as to constitute a danger to the public; we think it was not designed to prohibit the concealment of a weapon upon one’s person on his own premises or in his own home.
+The technical meaning of the word “carry” seems not to have been given extended consideration in the eases involving this class of public offense. Webster’s dictionary defines it as “to act as bearer; to convey anything; as to fetch and carry. To have or exert propulsive power.” At common law the offense of carrying concealed weapons involved riding or going about and not merely holding or possessing a weapon. (State v. Huntley, 25 N. C. 418 [40 Am. Dec. 416].)
+The -use of the word “carry” in an indictment conveys to a defendant the thought of going about armed, as well as the further proposition that he is charged with transporting the weapon with intent to use it as such. (State v. Larkin, 24 Mo. App. 410; State v. Murray, 39 Mo. App. 127; State v. Gilbert, 87 N. C. 527 [42 Am. Rep. 518]; Mangun v. State, 15 Tex. App. 362.) The absence of an allegation of “carrying” leaves the accusation defective, not merely in form, but in substance; the complaint is lacking in an essential allegation and therefore cannot confer jurisdiction upon any court to require the defendant to submit himself to processes in connection with any proceeding based upon it.
+But it is said that from the fact that the complaint alleges that petitioner was without a license “to carry” such firearm, it might be understood that the pleader intended to charge the defendant with having carried as well as concealed the pistol. This would be overstraining even the “squint” doctrine announced in In re Avdalas, 10 Cal. App. 507 [102 Pac. 674],
+The complaint in the Matter of the Application of Winston, 160 Cal. 18 [116 Pac. 390], contained every element of the statute. As the opinion points out, it clearly charged a simple battery and disclosed the “character” of the offense charged. It was therefore unlike the one in this proceeding which, as already stated, makes no mention of the element of “carrying” the weapon in question, which is surely essential to the statement of the offense attempted to be charged. There is nothing in the Matter of Winston, supra, or Ex parte Mansfield, which authorizes holding a defendant on a complaint entirely omitting the allegation of a fact essential to the statement of such offense.
+The petitioner is discharged.
+Finlayson, P. J., and Works, J., concurred.
