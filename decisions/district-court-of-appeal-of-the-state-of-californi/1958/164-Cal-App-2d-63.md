@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2825"
+decided: "1958-10-03"
+citations: ["164 Cal. App. 2d 63"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. THOMAS WILLIAMS, JR., Appellant."]
+source_url: "https://static.case.law/cal-app-2d/164/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4402251
+---
+
+# People v. Williams
+
+## Majority (VAN DYKE, P. J.)
+
+VAN DYKE, P. J.
+This is an appeal from a judgment entered upon a jury’s verdict which found appellant guilty of a violation of section 288 of the Penal Code.
+The lewd and lascivious acts of which appellant was convicted were committed upon the body of a 10-year-old girl. Appellant was a friend of her mother and stepfather and was a frequent visitor at their home. He often accompanied the family on fishing and swimming trips and took her and her brothers and sisters to shows. On the night in question, appellant came home with the girl’s stepfather and went to bed in a room in which she and her two sisters were sleeping. She testified that she awakened in the night and found appellant leaning over her and feeling her “privacy,” but that he returned to his bed when her stepfather, in an adjoining room, muttered or talked in his sleep. Twice thereafter, according to her testimony, appellant returned to the side of her bed. The second time he repeated the same acts and she said that while feeling her “privacy” he also placed her hand upon his penis and began moving his body back and forth; that she took her hand away and he replaced it and that she then “punched” him and he went away. The third time he did not molest her. According to her testimony, he picked up her smaller sister but put her back without further molesting her. She also said that after the third occurrence, and after she had gotten out of bed and gone into the living room where her 13-year-old brother was sleeping, that appellant went to the bathroom and on his return tried to get her to go into the bathroom with him, which she refused to do. She said that when she went to her brother’s bed, she told him that appellant had “tried to play nasty with me three times” and the brother corroborated this testimony. While there was other testimony such as that of the child’s mother that two days after the nocturnal occurrences the child had complained to her and told her substantially the same story as she told on the stand, this evidence being introduced without objection, it is unnecessary to further state the testimony except to say that appellant took the stand and wholly denied all of the charges made by the girl. Substantially, the entire case rested on the girl’s assertions and the appellant’s denials.
+Appellant’s first contention is that the evidence is insufficient to sup'port the verdict, but there is no merit in this contention and the foregoing statement of the evidence is sufficient refutation.
+Appellant points out an obvious error in an instruction addressed to the subject of falsus in uno and the error is a serious one. As given by the court the instruction reads as follows, in material part:
+“A witness wilfully false in one part of his or her testimony is to be distrusted in others; that is to say, the jury may reject the whole of the testimony of a witness who has wilfully sworn falsely as to a material point; and the jury being convinced that a witness has stated what was untrue, not as the result of mistake or inadvertence, but wilfully and with design to deceive, must treat all of his or her testimony with distrust and suspicion, and reject all unless they shall be convinced, notwithstanding the base character of the witness, that he or she has in other particulars sworn to the truth.”
+The first part of the instruction is correct. The statement that a witness wilfully false in one part of his or her testimony is to be distrusted in others is in the language of the code section. The next statement that the jury may reject the whole of the testimony of the witness who has wilfully sworn falsely to a material point is likewise a correct statement of the law. The error occurs in the balance of the instruction where the jury are told that if they are convinced that a witness has stated what was untrue, not as the result of mistake or inadvertence, but wilfully and with design to deceive, then the jury must treat all of his or her testimony with distrust and suspicion and must reject all unless they shall be convinced, notwithstanding the base character of the witness, that he or she has in other particulars sworn to the truth. The permissive “may” is supplanted by the mandatory “must.” It is not true that a jury, convinced of falsity in the testimony of a witness, must reject all of that witness’s testimony until they shall be convinced that in other particulars the witness has testified truly. The respondent does not contend that there was not error in the instruction, but insists that reversible error has not been committed. We are persuaded somewhat reluctantly that this contention is sound; that the faulty instruction did not result in the denial of a fair trial and that this is a proper case to apply the well known constitutional direction that judgments are not to be reversed unless from the whole record the reviewing court is of the opinion that the error complained of has resulted in a miscarriage of justice. In our opinion, the error here did not result in a miscarriage of justice and does not justify a reversal.
+There are no other contentions of error which we think it necessary to treat.
+For the reasons given, the judgment appealed from is affirmed.
+Peek, J., and Schottky, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied November 26, 1958.
