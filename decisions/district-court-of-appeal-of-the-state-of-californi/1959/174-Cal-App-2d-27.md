@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6286"
+decided: "1959-09-25"
+citations: ["174 Cal. App. 2d 27"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY R. SCHISLER, Appellant, v. VIRGINIA MITCHELL et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/174/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4385561
+cites_cases: ["115 Cal.App.2d 563", "123 P.2d 11", "130 Cal.App. 70", "142 P.2d 423", "144 Cal. 650", "146 Cal.App.2d 534", "149 A.L.R. 1250", "149 Cal.App.2d 296", "19 Cal.2d 659", "19 P.2d 995", "23 Cal.2d 120", "252 P.2d 757", "257 P.2d 1", "279 P.2d 8", "304 P.2d 57", "308 P.2d 405", "311 P.2d 8", "40 Cal.2d 852", "43 Cal.2d 856", "48 Cal.2d 611", "79 P. 381"]
+---
+
+# Schisler v. Mitchell
+
+## Majority (GRIFFIN, P. J.)
+
+GRIFFIN, P. J.
+This is an action in which plaintiff, trustor of the property involved, sought to have the trustee’s sale set aside or, in the alternative, damages in the sum of $120,000. As alleged in the complaint and in a subsequent amended complaint, the plaintiff, on October 17, 1957, signed a promissory note in the amount of $55,000, which was secured by a deed of trust in favor of the moving defendant, hereafter referred to as defendant. This note provided that the plaintiff would pay the defendant $2,000 on May 1, 1958, and the balance in subsequent payments.
+According to documents filed with this court plaintiff concedes these facts to be true. The plaintiff did not make the May 1, 1958, payment nor did he make any other payments or tender to the defendant. A notice of default and election to sell at trustee’s sale was filed on July 18, 1958. The sale date was set for November 18, 1958. This date was continued to December 12, 1958, to give the plaintiff additional time to cure his default. On December 12, 1958, the plaintiff was still in default and the trustee sold the property to the defendant, the beneficiary under the deed of trust, for the balance due, $60,522.79.
+On December 29, 1958, the plaintiff filed his complaint and the defendant’s demurrer thereto was sustained with leave to amend on February 6, 1959. Plaintiff filed his first amended complaint on March 9,1959, and defendant’s demurrer thereto was sustained without granting leave to amend on June 2, 1959. On June 11, 1959, judgment was entered and a notice of entry of judgment was served on plaintiff and filed on June 15, 1959. This judgment provides in pertinent part:
+“Now, therefore, it is ordered, adjudged and decreed that the plaintiff take nothing by this action and that said defendant have and recover her costs herein taxed at $12.50.”
+More than 60 days after entry of judgment, on August 17, 1959, plaintiff filed his notice of appeal to this court. As of August 18, 1959, plaintiff had not filed a notice to prepare transcript or designating record on appeal.
+The defendant seeks dismissal of the appeal, contending that the appeal was not taken within 60 days from the date of entry of the judgment as is required by rule 2, subdivision (a) of the Rules on Appeal. Plaintiff contends that the judgment herein entered was not a “judgment of dismissal” such as is necessary to finally dispose of an action wherein a demurrer is sustained without leave to amend; that plaintiff’s notice of appeal was prematurely filed and will not be effective until a “judgment of dismissal” is entered by the superior court.
+It is well settled law that an order sustaining a demurrer without leave to amend is nonappealable, and a formal judgment must be entered against the unsuccessful party from which the appeal can be taken. (Futlick v. F. W. Woolworth Co., 149 Cal.App.2d 296 [308 P.2d 405]; Lavine v. Jessup, 48 Cal.2d 611 [311 P.2d 8].) Quite commonly judgments entered upon demurrers are denominated “Judgment of Dismissal.” (See Lavine v. Jessup, supra; Berri v. Superior Court, 43 Cal.2d 856, 859 [279 P.2d 8]; and Michaels v. Mulholland, 115 Cal.App.2d 563 [252 P.2d 757].) We have found no authority holding that such a judgment must, in explicit terms, dismiss the action. A judgment of dismissal in this context is one terminating a case without a trial of the issues of fact involved. (16 Cal.Jur.2d [Dismissal, etc.] §2, p. 145; Black’s Law Dictionary, 4th ed., p. 555.) In Saddlemire v. Stockton Savings etc. Soc., 144 Cal. 650, 655-656 [79 P. 381], the court equated a judgment of dismissal with a judgment providing that the unsuccessful party shall take nothing by his action. It has been held that a dismissal as such is not required. (Lavine v. Jessup, supra, p. 614.) It is an ancient axiom that the law regards the substance of the words used rather than their form (Civ. Code, § 3528) and this rule is applied in construing the effect of judgments. (In re Los Angeles County Pioneer Society, 40 Cal.2d 852 [257 P.2d 1]; Moore v. Gosbey, 130 Cal.App. 70 [19 P.2d 995].) Examining the judgment herein, it is difficult to visualize how words could more completely and clearly express the court’s determination that the plaintiff shall not recover the relief he sought in this action. The entire sense and substance of the judgment is that the plaintiff shall not recover anything and the defendant shall be entitled to costs. This amounts to a final judgment from which an appeal might have been taken. (Code Civ. Proc., § 963; Lyon v. Goss, 19 Cal.2d 659 [123 P.2d 11].) The judgment herein is taken almost verbatim from a form book in common use by attorneys in this state for over 20 years. (See vol. 3, Hillyer’s Annotated Forms of Pleading and Practice in Civil Cases, Form No. 3675, p. 2958.)
+Although the requirement is now set forth in rule 2, subdivision (a) of the Rules on Appeal rather than former section 939 of the Code of Civil Procedure, the 60-day limitation is jurisdictional and this court has no discretion to extend it. (Estate of Welch, 146 Cal.App.2d 534 [304 P.2d 57]; rule 45, subd. (c), Rules on Appeal.)
+Since the appeal was not taken within the 60-day period after entry of judgment it must be dismissed. (Estate of Hanley, 23 Cal.2d 120 [142 P.2d 423, 149 A.L.R. 1250].)
+Appeal dismissed.
+Mussell, J., and Shepard, J., concurred.
