@@ -1,0 +1,40 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 13652"
+decided: "1976-03-30"
+citations: ["58 Cal. App. 3d Supp. 9"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. ARGONAUT INSURANCE COMPANY et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/58/cases/Supp. 9-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039142
+cites_cases: ["119 Cal.Rptr. 702", "120 Cal.Rptr. 914", "230 Cal.App.2d 390", "41 Cal.Rptr. 69", "45 Cal.App.3d 814", "45 Cal.App.3d 817", "46 Cal.App.3d 249"]
+---
+
+# People v. Argonaut Insurance
+
+## Majority (ALARCON, J.)
+
+Opinion
+ALARCON, J.
+The People have appealed the order of the trial court setting aside the forfeiture of bail and exonerating the bail bond.
+Factual Background
+Sharon Sue Portrey was released on bail on July 15, 1974, pending hearing on a fugitive complaint. Her preliminary examination was set for August 15, 1974. On that date she appeared and the matter was continued to October 11, 1974. Upon her failure to appear on that date, the trial court ordered that bail be forfeited. On October 15, 1974, the bail forfeiture was set aside for “good cause shown.” The matter was reset for October 21, 1974. On that date the matter was again continued to November 21, 1974. The defendant failed to appear on that date. Bail was again forfeited.
+Notice of the order forfeiting bail was mailed to the bonding company and agent on December 5, 1974. On May 21, 1975, the Argonaut Insurance Company filed a notice of motion to vacate and set aside the bail forfeiture and a certificate of surrender of prisoner. The notice designated June 4, 1975, as the date for the hearing on the motion. On June 4, 1975, the municipal court set aside the forfeiture of bail and exonerated the bond.
+Issue On Appeal
+The district attorney’s sole contention on appeal is that the trial court was without jurisdiction on June 4, 1975, to set aside the bail forfeiture and to exonerate the bond.
+Section 1305 of the Penal Code governs the procedures for vacation of a bail forfeiture and exoneration of bail. It is the position of the district attorney that such motions must be made and heard within 180 days of the date of the mailing of the notice of forfeiture.
+In the instant matter, the notice of the motion to vacate the forfeiture was filed within 180 days of the mailing of the notice of forfeiture; however, the hearing was held 181 days after such mailing.
+Section 1305 of the Penal Code provides in pertinent part as follows:
+“(a) If, without sufficient excuse, the defendant neglects to appear for arraignment or for trial or judgment, or upon any other occasion when his presence in court is lawfully required . . . the court must direct the fact to be entered upon its minutes and the undertaking of bail. . . must thereupon be declared forfeited, and, . . . the clerk of the court shall, promptly upon entering the fact of such failure to appear in the minutes, mail notice of the forfeiture to the surety on the bond .... If at any time within 180 days after such entiy in the minutes or mailing as the case may be, the bail should surrender the defendant to the court or to custody, the court shall direct the forfeiture of the undertaking ... to be discharged upon such terms as may be just....
+“Unless waived by the district attorney or other prosecuting attorney, no order discharging the forfeiture of the undertaking or deposit shall be made without opportunity for hearing and the filing of a notice of motion for such order setting forth the basis’ for relief, with proof of service upon the district attorney or other prosecuting attorney at least 10 days prior to the time set for hearing of the motion and otherwise in compliance with the provisions of Section 1010 of the Code of Civil Procedure. . . . Such notice of motion must be filed within 180 days after such entry in the minutes or mailing as the case may be, and 'must be heard and determined within 30 days after the expiration of such 180 days, unless the court for good cause shown, shall extend the time for hearing and determination. . . .” [Italics added.]
+The underlined portion of section 1305 quoted above was added in 1969.
+The district attorney has urged us to reverse the order of the trial judge based on the post-1969 decision in People v. Wilshire Ins. Co. (1975) 45 Cal.App.3d 814 [119 Cal.Rptr. 702]. We are told we must do so on the basis of stare decisis. We disagree. The Wilshire Ins. Co. case does not cite nor discuss that portion of section 1305 which provides for a hearing “within 30 days after the expiration of such 180 days.” For that reason Wilshire Ins. Co. is inapplicable to the matter before us where the effect of the 1969 amendment is in issue. (See American Guaranty Corp. v. Stoody (1964) 230 Cal.App.2d 390, 394 [41 Cal.Rptr. 69].) It should also be noted that in Wilshire Ins. Co. the attorney for the bonding company waited until the 180th day after the mailing of the notice of forfeiture before taking any action. Instead of filing written notice of his motion to vacate and set aside the forfeiture, he telephoned the clerk of the court to request a hearing three days later. Section 1305 does not provide for an oral notice of a motion to discharge the forfeiture of an undertaking or deposit. Instead the statute requires that such notice be “filed within 180 days” and set forth “the basis for relief, with proof of service upon the district attorney.” No such written motion was filed in the Wilshire Ins. Co. matter. In ruling that the trial court was without jurisdiction to consider the evidence presented after the expiration of 180 days, the Wilshire Ins. Co. opinion stressed the following principle: “The statute setting forth the requirements empowering a court to set aside a bail forfeiture (Pen. Code, § 1305) sets jurisdictional time limitations for the commencement of the procedure and for the making of the order. [Citations omitted.] The burden is upon the bonding company seeking to set aside the forfeiture to establish by competent evidence that its case falls within the four corners of the statute. [Citations omitted.]” [45 Cal.App.3d 817].
+The bonding company in the Wilshire Ins. Co. case failed to meet the jurisdictional time limits for the commencement of the action.
+Both the People and the respondents have referred us to People v. Resolute Ins. Co. (1975) 46 Cal.App.3d 249 [120 Cal.Rptr. 914], as reaching a contrary conclusion to that reached in People v. Wilshire Ins. Co. The People have urged us not to follow Resolute. We do not read the Resolute case as dispositive of the issue before us since in that case the People conceded that the trial court had jurisdiction to hear á motion to vacate a bail forfeiture up to 30 days after the 180-day period for filing notice of such motion has expired. Understandably the Court of Appeal in Resolute dismissed the argument of the People “. . . that the court had no jurisdiction to grant a ‘temporary disability’ because the 180 days had run” in a six-word comment: “The contention still has no merit.” (Id., at p. 258.)
+The People have asked us to interpret section 1305 as requiring notice and hearing within 180 days unless the court orders a hearing within 30 days thereafter. The statute in its present form does not contain such a condition. We recognize that a literal interpretation of section 1305 permits a bondsman to designate a hearing date more than 180 and up to 210 days after the mailing of the notice of forfeiture in any case. The remedy, if one is required, lies not with a tortured judicial construction of the plain words of the statute, but with the Legislature.
+The order setting aside the forfeiture of bail and exonerating bond is affirmed.
+Marshall, P. J., and Cole, J., concurred.
+Appellant has relied on the clerk’s transcript to establish the factual basis for this appeal.
