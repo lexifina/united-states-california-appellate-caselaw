@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 297"
+decided: "1906-12-10"
+citations: ["4 Cal. App. 553"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHANKS & MARCH, Copartners, Respondents, v. W. T. MICHAEL, Appellant."]
+source_url: "https://static.case.law/cal-app/4/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1941454
+cites_cases: ["141 Cal. 722", "22 Cal. 566", "57 Cal. 266", "75 Pac. 300"]
+---
+
+# Shanks & March v. Michael
+
+## Majority (ALLEN, J.)
+
+ALLEN, J.
+Action by the plaintiffs to recover of defendant broker’s commissions upon a written agreement. Findings and judgment for plaintiffs, from which judgment and an order denying a new trial defendant, W. T. Michael, appeals.
+The complaint avers that on June 19, 1905, the defendant entered into an agreement "with the plaintiffs whereby said defendant agreed to pay plaintiffs as their commission for making an exchange for certain properties one-half the usual commission, and that it was agreed that the usual commission for making such sales was $650. Judgment was asked for $325. The answer denies that any exchange of properties between defendant and the other party was ever made or effected, or any services rendered by plaintiffs in effecting an exchange of defendant’s property. Admits the execution of a contract to pay commissions, but alleges that it was executed upon the condition that an exchange should be consummated upon certain conditions, and avers that it was not consummated, owing to the inability of the other parties to meet the terms and conditions of the exchange. Upon the trial the court found all of the allegations of the complaint to be true, and that it was not true that the agreement to pay the $325 was dependent upon the consummation of the exchange, nor that the exchange was not consummated because of the inability of the other contracting party to meet the terms and conditions of the contract. The contract to pay these commissions reads as follows:
+“Los Angeles, Cal., June 19th, 1905.
+“I hereby agree to pay Shanks & March one-half the usual commission paid on the sale of Real Estate in Los Angeles as full compensation for negotiating deal with Ina E. Van Norman. Usual commission being understood to be 5 per cent on first $1000 and 2 1-2 per cent on values above one thousand.
+“W. T. MICHAEL.
+“We agree to accept the above rate as full compensation for our services in the above transaction.
+“SHANKS & MARCH.”
+It will be noted that the complaint alleges that the agreement to pay was for commissions for making the exchange of defendant’s property with one Van Norman, and the agreement also purports to pay one-half of the usual commission paid on the sale of real estate. It follows, therefore, that to entitle plaintiffs to recover under their complaint an actual exchange should have been consummated, or a valid agreement therefor made. In the latter event, plaintiffs would have been entitled to the commission even had the parties thereafter rescinded the agreement, or either party made default in compliance with its terms. It is conceded that no actual transfer was consummated, and the record shows that no valid agreement for an exchange was ever made. Plaintiffs who drew the contract claimed to be an agreement of sale, as well as the defendant who signed the same, represented the property sought to be exchanged for defendant’s property as the estate of one Ina E. Van Norman, wife of L. E. Van Norman, and nothing to the contrary appearing, it will be accepted that Mrs. Van Norman owned the property. This agreement for the exchange of Mrs. Van Norman’s property was not signed by her; neither is it shown that she ever gave any authority in that regard to her husband, who affixed her signature thereto. It does appear, however, that she was satisfied with the exchange and saw the instrument before it was signed and afterward, and expressed herself as satisfied therewith. But this is not the equivalent of an execution by her, nor an authority warranting its execution in her behalf. She was not present when it was signed, nor was her name subscribed at her request, as in Bowen v. Aubrey, 22 Cal. 566. The authority to enter into such a contract could only be in writing (Civ. Code, sec. 2309), or could be ratified only in the manner that would have been necessary to confer an original authority (Civ. Code, sec. 2310). There is nothing in the record tending to show any acts of Mrs. Van Norman which would estop her to deny the execution of the instrument were she so inclined. The agreement, therefore, was unilateral and in the absence of a tender of conveyance by Mrs. Van Norman was unenforceable by either party. (Hay v. Mason, 141 Cal. 722, [75 Pac. 300].) The procurement by a broker of an oral agreement to exchange land not thereafter consummated is not the negotiation of an exchange, and, in the absence of a special contract, will not entitle such broker to a commission. We find no contract here other than the one alleged to have been executed upon the making of an actual exchange, which allegation is borne out by the language of the agreement itself. We find no evidence in the record tending to sustain the finding that the exchange of property was effected, or that services were tendered in effecting an exchange of properties. The commission of a broker is earned by finding a sufficient purchaser ready to enter into a valid contract for the purchase upon the terms fixed by the owner. (Dolan v. Scanlan, 57 Cal. 266.) Mrs. Van Norman is not shown to have been willing to make such valid contract, nor, in fact, is it shown that any opportunity was presented to her by plaintiffs so to do. Plaintiffs having performed no services in effecting an exchange, and no other consideration for the promise appearing, there was an entire absence of consideration for the agreement sued on.
+Entertaining these views, it is unnecessary to pass upon the other questions presented by appellant, some of which possess merit
+The judgment and order are reversed and cause remanded.
+Gray, P. J., and Smith, J., concurred.
