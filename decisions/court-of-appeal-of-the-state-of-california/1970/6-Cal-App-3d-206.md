@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 35034"
+decided: "1970-03-31"
+citations: ["6 Cal. App. 3d 206"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS STIMPEL, Plaintiff and Appellant, v. STATE PERSONNEL BOARD, Defendant and Respondent; DEPARTMENT OF WATER RESOURCES, Real Party In Interest and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/6/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4384588
+cites_cases: ["374 U.S. 398"]
+---
+
+# Stimpel v. State Personnel Board
+
+## Majority (GUSTAFSON, J.)
+
+Opinion
+GUSTAFSON, J.
+Appellant Thomas Stimpel is a Seventh Day Adventist. A tenet of his religion is that he must not work from sunset Friday to sunset Saturday. Stimpel was employed by the State of California as a construction inspector for its Department of Water Resources on September 1, 1966. In that capacity he was required to make detailed technical inspections of projects under construction in the state’s water resources program. His presence was required during the hours worked by the contractor on a particular project.
+Stimpel encountered no difficulties working on projects prior to February 19, 1968. Either the contractors did not work after sunset on Friday or Stimpel was able to arrange for someone else to take his place during his Sabbath.
+When work terminated in January 1968 on the project to which he was assigned, he was reassigned on February 19, 1968, to the Tehachapi-West Branch project with offices in Castaic. On that project construction work was in progress between sunset Friday and sunset Saturday. When Stimpel reported for work he told his superiors that he would be unavailable for work during his Sabbath. He was told that this would not be acceptable because Saturdays were work days and inspectors were needed. Nevertheless, he worked from February 24, 1968, to April 18, 1968, with other employees taking his place when inspections were required on Saturdays. On or about the latter date Stimpel was told that this situation could no longer be tolerated.
+Thereafter Stimpel remained an employee while he used his compensating time off, his vacation time and a 15-day leave of absence in an unsuccessful attempt to find another position with the state which would not require any Saturday work. On the dates of May 27, 28, 29, 31 and June 3 Stimpel was absent from work without leave. This constituted “an automatic resignation from state service.” (Gov. Code, § 19503.)
+Stimpel then sought reinstatement to his position from the State Personnel Board pursuant to section 19503 of the Government Code which provides: “Reinstatement may be granted only if the employee makes a satisfactory explanation to the board as to the cause of his absence and his failure to obtain leave therefor, and the board finds that he is ready, able, and willing to resume the discharge of the duties of his position.” After a hearing before a hearing officer, the board found that the contractor on the project to which Stimpel was assigned was working six days a week, that inspections were required on Saturdays, that Stimpel’s religious conviction prevented him from working on Saturdays, that he was therefore not ready, able and willing to resume the discharge of the duties of his position and that he had not made a satisfactory explanation to the board as to the cause of his absence. Reinstatement was denied.
+Stimpel thereupon petitioned the superior court for an order directing the State Personnel Board to reinstate him. The petition was denied. This appeal followed.
+The First Amendment to the Constitution of the United States which is binding on California by virtue of the Fourteenth Amendment precludes California from “prohibiting the free exercise [of religion].” Stimpel contends that “in the absence of substantial evidence establishing the extent of the burden upon the state agency to adjust its schedules to fit [his] religious beliefs and practices,” his “freedom of religion has been restricted by state action which does not meet the constitutional tests of necessity.” We disagree.
+The parties discuss in their briefs many cases involving First Amendment freedoms only one of which we deem of sufficient significance to discuss in this opinion. In Sherbert v. Verner (1963) 374 U.S. 398 [10 L.Ed.2d 965, 83 S.Ct. 1790] a Seventh Day Adventist was denied unemployment compensation benefits by South Carolina because she was unavailable for work on Saturdays. The United States Supreme Court, in holding the eligibility provisions unconstitutional as applied to that employee, noted that the “ruling forces her to choose between following the precepts of her religion and forfeiting benefits, on the one hand, and abandoning one of the precepts of her religion in order to accept work, on the other hand.” That case, we believe, is distinguishable from the case at bench. There the employee could receive unemployment compensation benefits only from the state. There were no alternative sources. Here the Department of Water Resources of the state is not the only source of employment of Stimpel as a construction inspector. There are undoubtedly hundreds of other employers of construction inspectors within the state. Stimpel’s experience prior to being assigned to the project from which he was in effect discharged is evidence of the fact that even in many state jobs, he would not be required to work on Saturday.
+Mr. Justice Douglas concurring in Sherbert noted that a Moslem must pray five times daily and that a Sikh must carry a regular or a symbolic sword. If a Moslem employed by the state as a secretary interrupted her work five times daily to pray, the contention of Stimpel would mean that the state could not discharge her unless it affirmatively proves by substantial evidence that adjusting schedules to permit her to pray would be unduly burdensome. Similarly, a Sikh employed as a physician could not be discharged for carrying a sword unless the state proves by substantial evidence that he cannot be assigned to duties where carrying the sword would not interfere with his work. We do not believe that the United States Constitution saddles the state as an employer with any such conditions.
+The proliferation of religions with an infinite variety of tenets would, if the state is required as an employer to accommodate each employee’s particular scruples, place an intolerable burden upon the state. We conclude that if a person has religious scruples which conflict with the
+requirements of a particular job with the state, he should not accept employment or, having accepted, he should not be heard to complain if he is discharged for failing to fulfill his duties.
+The judgment is affirmed.
+Wood, P. J., and Lillie, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied June 24, 1970. Tobriner, J., and Mosk, J., were of the opinion that the petition should be granted.
