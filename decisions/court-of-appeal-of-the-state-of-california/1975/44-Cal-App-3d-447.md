@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 43920"
+decided: "1975-01-13"
+citations: ["44 Cal. App. 3d 447"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of GREGORY A. KOERNER, Deceased. HOUSTON I. FLOURNOY, as State Controller, Petitioner and Respondent, v. PATRICIA WIDMANN, as Executrix, etc., Objector and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/44/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4424788
+cites_cases: ["103 Cal.Rptr. 38", "143 N.Y. 327", "16 A.L.R. 694", "184 Cal. 674", "19 Cal.Rptr. 397", "191 Cal. 591", "195 P. 413", "200 Cal.App.2d 408", "217 P. 1073", "26 Cal.App.3d 327", "264 Cal.App.2d 248", "268 U.S. 137", "38 N.E. 311", "44 A.L.R. 1454", "56 A.L.R.3d 1307", "70 Cal.Rptr. 335"]
+---
+
+# Flournoy v. Widmann
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+Appellant Widmann, executrix of the estate of Gregory Koerner, appeals from two orders fixing inheritance tax. In fixing the tax on the shares which appellant and her brother inherited as residuary beneficiaries, the court determined that their shares included that portion of the estate used to pay federal estate taxes on decedent’s estate.
+The residue of the estate was given equally to appellant and her brother, and the will also provided that all federal estate taxes were to be paid out of the residue. The federal estate tax was $734,666.90, the residue of decedent’s estate after payment of federal estate taxes was $1,462,497.76, .and the referee treated each residuary beneficiaiy as having received one-half of the residue of the estate before payment of federal estate taxes. In fact each residuary beneficiary received a smaller sum than used by the referee to compute inheritance tax, because the payment of the federal estate tax reduced the residue by a substantial amount.
+Appellant objects that the court erroneously included the sum of money used to pay federal estate taxes in determining the amount of money transferred to the residuary beneficiaries, for the purpose of fixing the state inheritance tax.
+I
+Appellant’s first argument is that the portion of decedent’s estate required to pay federal estate taxes cannot be regarded as property that was “transferred” to the beneficiaries’ estate within the meaning of Revenue and Taxation Code sections 13304 and 13401. Section 13401 imposes the inheritance tax “on every transfer” and section 13304 of the code definés “transfer” to include “the passage of any property, or any interest therein or income therefrom, in possession or enjoyment, present or future, in trust or otherwise.” Appellant argues that the money used to pay the federal tax never was actually “transferred” to the residuary beneficiaries, within the meaning of the above definition and therefore those funds cannot be included in the determination of state inheritance taxes.
+We do not agree. Appellant construes the term “transfer” of “property” too narrowly. The residuary beneficiary need not actually receive the funds to be taxed on those funds. “It is the privilege of receiving and neither the property itself nor the actual receiving of it which is taxed.” (Estate of Varian (1968) 264 Cal.App.2d 248, 252 [70 Cal.Rptr. 335].) In the case at bench, the fact that the residuary beneficiaries did not actually receive the money in question, because that money in a sense had to be “spent” to pay federal estate taxes, does not negate the fact that that money was “transferred” to the beneficiary, however ephemeral and intangible that “transfer” may be characterized in a practical economic sense. Transfer means the present passing of property, without regard to whether actual possession and enjoyment follow immediately or come at some future time. (See In re Hoffman’s Estate (1894) 143 N.Y. 327 [38 N.E. 311].) In the instant case the money was “transferred” to the residuary beneficiaries in the legal sense, although actual possession of the money was, perhaps, immediately removed by the directive that the federal estate taxes be paid out of the residue.
+Appellant relies on Estate of Miller (1921) 184 Cal. 674, 679-680 [195 P. 413, 16 A.L.R. 694], which held that “the federal tax must be deducted in order to determine the amount upon which the state tax should be levied, since it is plain that what the transferee receives is only the portion of what the decedent left which remains after the federal tax is taken.” The holding of Estate of Miller is not applicable to the case herein, because the inheritance tax statute before the Miller court is not the same as the statute before us now. Where a particular statute specifies what should be deducted before computing the tax, and the federal tax is not within those specified deductions, the federal tax ■ may not be deducted, and this very rule was recognized in a dictum within the Miller decision itself.
+In the present statute, the particular provision clearly authorizes that “. . . the deductions specified in this article, and no others, are allowed against the appraised value of the property . . . .” (Rev. & Tax. Code, § 13982.) Under the provisions of the applicable taxation statutes, the federal estate tax is not one of the deductions specified in the article; accordingly, those funds must be included in the figure used in computing the state tax.
+Furthermore, this matter has been decided in Estate of Fabris (1962) 200 Cal.App.2d 408 [19 Cal.Rptr. 397], which held that the federal estate tax is not an allowable deduction in computing state tax. Fabris relied on Estate of Watkinson (1923) 191 Cal. 591 [217 P. 1073], which held (at p. 594) that “ ‘ “In determining the market value of the property transferred, no deduction shall be made for any inheritance tax or estate tax paid to the government of the United States.” ’ ”
+II
+Appellant argues that the lower court’s treatment of estate taxes as “transferred” to the residuary beneficiaiy is contrary to the intent of the testator. Assuming, without deciding, that this is true, the intent of the testator cannot take precedence over the statutory scheme for deductions. The state has full power to declare by statute what burdens or encumbrances shall or shall not be excluded from computations by the inheritance tax appraiser. (Estate of Watkinson, supra, 191 Cal. 591; Estate of Giolitti (1972) 26 Cal.App.3d 327, 332 [103 Cal.Rptr. 38, 56 A.L.R.3d 1307].)
+Ill
+Appellant argues that the lower court’s construction of the statute results in a denial of due process of law and a denial of equal protection. Stebbins v. Riley (1925) 268 U.S. 137 [69 L.Ed. 884, 45 S.Ct. 424, 44 A.L.R. 1454], and Estate of Watkinson, supra, held that a 1917 act expressly prohibiting any deduction of federal estate taxes from the California inheritance tax did not violate either the due process or equal protection clauses. The reasoning of those cases applies herein and we will not unduly lengthen this opinion by repeating the discussions within those cases.
+IV
+Appellant argues that it is hypothetically possible that the entire residue could be exhausted by administrative expenses, such that the residuary beneficiaries would have to pay taxes out of their own funds with respect to théir “own inheritance tax, computed on the portion of the residue which does exist and is used (but exhausted) in the payment of estate taxes.” No such situation exists in the case at bench; whether a beneficiary would ever be required to pay a tax out of his own funds is an issue which can be decided when it arises.
+The orders appealed from are affirmed.
+Jefferson, Acting P. J., and Dunn, J., concurred.
+A petition for a rehearing was denied January 31, 1975, and appellant’s petition for a hearing by the Supreme Court was denied March 12, 1975.
