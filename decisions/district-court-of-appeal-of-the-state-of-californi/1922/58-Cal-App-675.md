@@ -1,0 +1,40 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 621"
+decided: "1922-08-04"
+citations: ["58 Cal. App. 675"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. GEORGE FONG, Appellant."]
+source_url: "https://static.case.law/cal-app/58/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2083354
+cites_cases: ["3 Cal. App. 1", "84 Pac. 463"]
+---
+
+# People v. Fong
+
+## Majority (BURNETT, J.)
+
+BURNETT, J.
+Defendant was convicted of committing “an act of sexual intercourse with one Clara Tom, a female person under the age of eighteen years and not the wife of said George Fong,” and he has appealed from the judgment and order denying his motion for a new trial.
+Appellant contends for a reversal for one reason only, and that is that the court misdirected the jury as follows:
+“The defendant pleads that he is not guilty of the offense charged and then interposes a defense that is known in law as an alibi, that is that he ivas not at the place where the crime charged is alleged to have been committed—but at another place, and I instruct you that such a defense is as proper and legitimate if proved as any other and all the evidence bearing upon that defense should be carefully considered by the jury.
+“I further instruct you that if this evidence which is for the purpose of establishing an alibi is sufficient in your minds to create a reasonable doubt whether defendant was present at the place where the crime charged is alleged to have been committed, or at some other place where he could not have committed it, then you should give the defendant the benefit of such doubt and acquit him.
+“I instruct you that the defendant is not required to prove his defense of alibi beyond a reasonable doubt to entitle him to an acquittal; it is sufficient if he prove it by a preponderance of evidence or to sufficiently prove it to create a reasonable doubt in the minds of the jury as to his presence at the time and place when and where the crime is alleged to have been committed.”
+Appellant objects only to the italicized portion of the instruction, and, manifestly, it should have been omitted. There was, of course, no necessity for saying anything about proof “beyond a reasonable doubt” or “by preponderance of evidence,” as no such burden is cast upon the defendant in his efforts to establish an “alibi.” The law is well settled—and we need cite no authorities thereon—that it is sufficient to demand an acquittal if the jurors have a reasonable doubt whether the defendant at the time the offense was committed was at some other "place where he could not have committed it, but it is to be observed that in this very instruction the trial court very clearly so instructed the jury. The trouble is, of course, that the concluding portion is erroneous and renders the whole instruction somewhat obscure and confusing, but we are satisfied that the error should not be considered prejudicial to defendant and fatal to the judgment.
+As far as the intimation that the reasonable doubt as to the alibi must arise from the defendant’s evidence is concerned, the error could do no harm. Manifestly, the jury were not confined to the consideration of the evidence for the defendant in determining whether a reasonable doubt existed as to the alibi, but were in duty bound to weigh all the evidence in the case. However, there can be no pretense that any of the testimony received on behalf of the people could in the slightest degree support this claim of appellant; so that if any doubt did exist as to the alibi it would necessarily be the result of the testimony offered by appellant.
+But whatever criticism may be justly leveled at said instruction, it at least presents an alternative condition the existence of either of which demanded an acquittal. That is, the jury were instructed to acquit if the defendant established his defense by a preponderance of the evidence or if he created a reasonable donbt as to the alibi. Hence it would follow that if the jury had a reasonable doubt upon the subject the instruction demanded an acquittal. This is the true doctrine and what appellant contends for and it really matters not that the instruction set forth an additional condition that would also demand an acquittal.
+Moreover, if- it may be said that the instruction, standing alone, might be considered uncertain and confusing, when the whole charge to the jury is regarded it seems apparent that there could have been no misunderstanding as to the true doctrine. The jurors were specifically, clearly, and repeatedly instructed that if there existed any reasonable doubt of the defendant’s guilt it was their duty to acquit him. This was equivalent necessarily to an instruction that if they had.-a reasonable doubt of the alibi they must acquit, since he could not be guilty if he were at another place when the crime was committed. Among the instructions along this line given by the court was the following:
+“I instruct you that the law raises no presumption whatever against the defendant, but on the contrary, every presumption of the law is in favor of his innocence; and in order to convict him of the crime alleged in the informa-' tion or any lessor offense which may be included in it, every material fact necessary to constitute such crime must be proved beyond a reasonable doubt; and if you entertain any reasonable doubt upon any single fact or element necessary to constitute the crime, it is your duty to give the defendant the benefit of such doubt and acquit him.
+“A defendant in a criminal action is presumed to be innocent until the contrary is proved, and in case of a reasonable doubt whether his guilt is satisfactorily shown, he is entitled to an acquittal.
+“The fact that the defendant has been arrested and charged with an offense, and an Information having been filed against him, creates no presumption whatever of his guilt. It is incumbent upon the prosecution not only to overcome the presumption of the Defendant’s innocence, but also the Defendant’s guilt must be established by evidence sufficiently conclusive to exclude any reasonable supposition of his innocence. The testimony must establish affirmatively his guilt to a moral certainty and beyond a reasonable doubt; and unless the evidence introduced in this case is such that it proves to your entire satisfaction and beyond a reasonable doubt that the Defendant is guilty, he is entitled to an acquittal by your verdict.”
+Again, if we concede that the instruction was erroneous there is no apparent reason why the case does not call for the application of section 4%, article VI, of the constitution. Appellant does not contend that the verdict was unjust or not supported by the evidence, nor is it at all probable that the result would have been different if the criticised instruction had not been given.
+Appellant does not, indeed, set out any of the evidence in his brief, but contents himself with a somewhat fragmentary synopsis of the testimony in his behalf on the asserted alibi without even referring to the page of the transcript where the testimony might be found. We have, however, carefully examined the entire record and discovered therein abundant reason for believing that the verdict is just and should not be disturbed.
+We are not unmindful of the cases cited by appellant, particularly People v. Morris, 3 Cal. App. 1 [84 Pac. 463], wherein a similar instruction to the one herein was condemned, but we may add that it does not appear that the cause was reversed on that ground, and, besides, it was decided before the adoption of said section 4% of article VI of the constitution.
+The judgment and order are affirmed.
+Finch, P. J., and Hart, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on October 2, 1922.
+All the Justices present concurred.
+Richards, J., pro tem., was acting.
