@@ -1,0 +1,31 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 9146"
+decided: "1956-10-31"
+citations: ["146 Cal. App. 2d Supp. 875", "303 P.2d 387"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. M. HACKER COMPANY, INC., Respondent, v. HOLLYMOUNT BOWL et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/146/cases/Supp. 875-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035329
+cites_cases: ["177 Cal. 767", "177 P. 848", "206 Cal. 697", "275 P. 944", "276 P. 995"]
+---
+
+# R. M. Hacker Co. v. Hollymount Bowl
+
+## Majority (PATROSSO, Acting P. J. THE COURT.)
+
+PATROSSO, Acting P. J.
+This action is one to foreclose a mechanic’s lien, wherein a judgment of foreclosure was entered from which the defendants appeal. The instant action was filed within 90 days after the filing of the claim of"lien, but a notice of pendency of said action was not filed until more than 90 days after the filing of the lien. The question presented is whether such failure to file notice of pendency of the action within the period stated operates to bar the right to enforce the lien. We have concluded that the question must be answered in the affirmative and accordingly are reversing the judgment.
+Section 1198.1 of the Code of Civil Procedure, insofar as material here, reads as follows: “No lien provided for in this chapter binds any property for a longer period than 90 days after the same has been filed except as hereinafter provided, unless within that time, proceedings to enforce the same be commenced in a proper court and a notice of pendency of such proceedings he filed as provided in Section 409 . . .”
+The foregoing language was formerly found in section 1190, except for the portions thereof which we have italicized and which were added by an amendment' adopted in 1953. The exception therein mentioned is not of moment here.
+We find it difficult to believe that the language of the provision quoted above presents any great problem of interpretation. Its grammatical meaning is clear and we find nothing therein to suggest that we should ignore it in order to give effect to its true intent and meaning. [23 Cal.Jur., p. 732, § 110]. What the statute plainly says is that no such lien “binds any property” for a longer period than 90 days after the filing of the same unless, within that period, (1) a suit to enforce the same is filed in a proper court and (2) a notice of pendency of the action is filed. The words “unless within that time” are equally applicable both to the requirement of filing an action and the filing of a notice of pendency thereof. This, we believe, is made unmistakably plain when regard is had to the obvious purpose of the enactment which was to limit the time within which a mechanic’s lien shall be enforceable. As originally enacted, the claimant might preserve his right to enforce the lien beyond the 90-day period by commencing a suit to foreclose the same within that time in a proper court, but by the 1953 amendment an additional condition was added, namely, the filing, within the same period, of a notice of the pendency of the action. If the Legislature did not intend that the 90-day period of limitation should apply to the filing of the notice of the pendency of the action, the provision would appear to be wholly unrelated to the purpose of the section, which, as noted, was solely that of placing a time limit upon the enforceability of a mechanic’s lien.
+Plaintiff contends that a different construction is required by reason of the concluding words in the sentence: “as provided in Section 409.” It argues that, because section 409, which authorizes the filing of a notice of pendency of action in an action affecting the title or right of possession of real property, provides that such notice may be filed at any time after the filing of the complaint, we must conclude that the Legislature did not, by the language of section 1198.1, intend to require the filing of such a notice within the 90-day period. To this there is a ready answer. Section 409 is a general section applicable to all classes of actions affecting the title or right of possession of real property and is permissive merely; it in no way affects the maintenance of such actions. Section 1198.1, on the other hand, is not only a special statute dealing with actions for the foreclosure of mechanic’s liens, but mandatory in its terms and prescribing a condition to the maintenance thereof. Section 1198.1 is therefore controlling with respect to the particular class of actions to which it relates—the foreclosure of mechanic’s liens. Moreover it appears only reasonable to conclude that by the reference in section 1198.1 to section 409, the Legislature intended no more than to identify the “notice of pendency of such proceedings,” the filing of which is thereby required within the 90-day period, as being the same notice as that referred to in section 409.
+Inasmuch as it is conceded that the appealing defendants are not personally liable and no personal judgment was rendered against them, there is no occasion for a new trial.
+The judgment is reversed and the cause remanded to the trial court with directions to enter judgment in favor of defendants.
+Kauffman, J., concurred.
+A petition for a rehearing was denied November 5, 1956 (Patrosso, Acting P. J., and Kauffman, J.) and the following opinion was then rendered:
+THE COURT.
+Both in the trial court and here the case was presented by both parties as involving only one question, namely, whether a proper construction of Code of Civil Procedure, section 1198.1, required not only the filing of an action to foreclose a mechanic’s lien within 90 days after the filing of the lien, but also the filing of a notice of the pendency of the action within the same period. It is therefore too late for plaintiff to undertake to raise for the first time in its petition for rehearing the question as to whether such failure should have been specially pleaded as a defense in defendants ’ answer. (Pasadena Ice Co. v. Reeder (1929), 206 Cal. 697, 705 [275 P. 944, 276 P. 995] ; A. F. Estabrook Co. v. Industrial Acc. Com. (1918), 177 Cal. 767, 771 [177 P. 848].)
