@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10168"
+decided: "1936-06-19"
+citations: ["14 Cal. App. 2d 681"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ADA CLEVELAND, Appellant, v. GORE BROS., INC. (a Corporation), et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/14/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2270984
+cites_cases: ["111 Cal. 133", "156 Pac. 972", "188 Cal. 393", "205 Pac. 446", "211 Cal. 294", "267 Pac. 169", "295 Pac. 37", "30 Cal. App. 11", "43 Pac. 525", "91 Cal. App. 356"]
+---
+
+# Cleveland v. Gore Bros.
+
+## Majority (DESMOND, J., pro tem.)
+
+DESMOND, J., pro tem.
+Defendants in this ease are stockholders of Ocean Park Realty Corporation, a California corporation. Plaintiff sought unsuccessfully to recover damages from them, under statutory liability, for an alleged tort, eviction of her assignor from leased premises. Prom the adverse judgment she now appeals, apparently, though not expressly stated, upon the ground that the evidence submitted did not justify certain findings of the trial court and the .judgment based thereon.
+In 1925, Ocean Park Realty Corporation leased to Dome Billiard & Bowling Company, also a California corporation, certain real property for a term of twenty years. According to plaintiff’s complaint, and she sues as assignee of the Dome Billiard & Bowling Company, the eviction which forms the basis of her action took place on July 31, 1930. Within three years thereafter, on July 15, 1933, this action was filed. At 6:00 P. M. of the Saturday preceding the first Monday of March, 1933, all the corporate rights, privileges and powers of Dome Billiard & Bowling Company, except the right to defend any action, had been suspended for failure to pay taxes and penalties imposed upon the corporation, the suspension continuing without interruption or revivor until May 10, 1934. Meantime, on November 29, 1933, defendants had filed an answer setting up the bar of the Statute of Limitations, section 338, subdivision 1, and section 359 of the Code of Civil Procedure; also, as a fourth separate answer and defense, alleging “that the franchise of said corporation was suspended by the Secretary of State of the State of California for non-payment of the franchise tax during the period from the 16th day of March, 1933, to and including the present time”; further, “that the above entitled action was filed on the 15th day of July, 1933, during the period that the franchise of said corporation was suspended by the Secretary of State of the State of California for non-payment of the franchise tax of said corporation.”
+The trial court being satisfied upon evidence adduced, and stipulations as to facts entered into, that the allegations of this fourth defense were true, heard no evidence upon the matter of the claimed eviction or alleged resulting damages, as being immaterial, but made. appropriate findings upon the facts proved in regard to the suspension, and concluded among other things, “that plaintiff, Ada Cleveland, being the agent and trustee of and for Dome Billiard & Bowling Company, a corporation, for the commencement and prosecution of this action, was subject to the same incapacities with respect to its commencement and prosecution as Dome Billiard & Bowling Company, during the period of time that its corporate rights, privileges and powers were suspended”. Among additional conclusions were the following:
+“That the revivor and restoration of the said corporate, rights, privileges and powers of Dome Billiard and Bowling Company, a corporation, occurred on the 10th day of May, 1934, and did not have retroactive effect in respect to the commencement and prosecution of said action. . . .
+“That, while the said action was pending from the date of the commencement thereof, that is, from the filing of the original complaint on file in this cause, still, between said last referred to date and the 10th day of May, 1934, the said action did not toll the Statute of Limitations in respect to the cause of action, if any, stated in plaintiff’s complaint and/or first amended complaint on file herein. ...
+“The Court further concludes that the plaintiff is entitled to take nothing herein and the defendants are entitled to judgment for their costs of suit.”
+The judgment based on these findings and conclusions seems to us valid on the authority of Ransome-Crummey Co. v. Superior Court, 188 Cal. 393 [205 Pac. 446], and Smith v. Lewis, 211 Cal. 294 [295 Pac. 37], We have examined carefully the cases cited by appellant, particularly Kehrlein-Swinerton Con. Co. v. Rapken, 30 Cal. App. 11 [156 Pac. 972], and Maryland Casualty Co. v. Superior Court, 91 Cal. App. 356 [267 Pac. 169], upon which counsel mainly relies, and find that they are not in point on the issues before us. For example, in the last mentioned case, the court referring to an earlier case, California Savings & Loan Society v. Harris, 111 Cal. 133 [43 Pac. 525], says: “The corporation complied with the section of the code before the defendant raised the point against it. It was held that a defense based upon the noncompliance with said section must be put forward during the time of the noncompliance with the section, and that after the corporation had complied with the section, a defense based upon previous violation of the section would not lie.” As we have noticed, in the case at bar, the defense was put forward during the time of noncomplianee, when on November 29, 1933, the answer containing the fourth defense was filed, approximately six months before the date of the said revivor.
+Judgment is affirmed.
+York, acting P. J., and Doran, J., concurred.
