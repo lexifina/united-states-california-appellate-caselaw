@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5710"
+decided: "1929-11-19"
+citations: ["102 Cal. App. 94"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRUNSWIG DRUG COMPANY (a Corporation), Respondent, v. JOSEPH SCHLYEN, Appellant."]
+source_url: "https://static.case.law/cal-app/102/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2136271
+cites_cases: ["114 Pac. 1026", "15 Cal. App. 373", "15 Pac. 845", "193 Pac. 160", "49 Cal. App. 300", "55 Cal. 337", "74 Cal. 301"]
+---
+
+# Brunswig Drug Co. v. Schlyen
+
+## Majority (CRAIG, J.)
+
+CRAIG, J.
+By complaint in the usual form the respondent in this action alleged that Joseph Schlyen and Michael H. Brodsky were copartners doing business. under the firm name of Palm Drug Company; that individually and in the name of the company they executed two promissory notes, payable to the plaintiff, for the amounts of which, less certain deductions, judgment was prayed. The defendant Schlyen having answered, a motion for judgment upon the pleadings was interposed by the plaintiff, which was granted, from which said judgment defendant appeals.
+It is at _ first contended that appellant’s answer joined issues upon material allegations of the complaint by way of denials and affirmative defense, upon the merits. A second ground assigned for reversal restates the first, by urging that the pleadings show that the defendant haw created an issue entitling him to his day in court upon a good and legal defense.
+As already observed, the plaintiff alleged the existence of the copartnership, the execution of the notes, which were set forth in full, the nonpayment of one, and tiiv payment of $334.32 and interest to a date specified, upon another in the principal sum of $480.57,, which bore interest at the rate of eight per cent per annum. There was a provision in each note, and the complaint alleged, that attorney’s fees should be paid upon certain contingencies. Each note was signed: “Palm Drug Co. Joseph Schlyen. Michael IT. Brodsky.” The notes were pleaded in separate causes of action.
+In answering the first cause of action appellant alleged that Brodsky was in sole and exclusive charge of the business, made all purchases without appellant’s knowledge, and had all dealings with the plaintiff regarding the consideration for the note in suit; that since the execution of the note, and prior to the commencement of the action, the partnership was dissolved. Appellant then alleged that his copartner had not accounted to him with respect to the consideration for the notes, that he was informed and believed that a portion of the goods, wares and merchandise for which it was given was not delivered; that since there had been no accounting, and having no information or belief sufficient to enable him to answer, he places his denial upon that ground, and alleges upon information and belief that there was no consideration, or if there was a consideration, thatx ib -failed. Appellant avers that he is informed and believes that' because of the foregoing he is entitled to certain credits, .and having no information or belief, denies nonpayment upon that ground, or any amount due, and having no information or belief upon the subject, denies that the notes(were executed or delivered for value. By a second paragraph, it is alleged as to the second note that “because of the reason set forth in paragraph I of the amended answer,” the defendant has no information or belief upon the subject, “places his denial on said grounds; that the said promissory note . . . was made or executed or delivered to plaintiff for value received, and alleges in this connection upon information and belief that there was no consideration,” or if there was a consideration that it failed; that because of the reason set forth in the last-mentioned paragraph, he alleges upon information and belief that he has no information or belief, and therefore denies that any amount remains due upon the second note.
+The defendant Schlyen admits the existence of the copartnership at the time of the execution of the notes, and the execution of them by it and by himself as a copartner, and affirmatively alleges that they were given for goods, wares and merchandise. Giving full effect to his answer, if supported by evidence, his copartner has had full charge of the business, and has failed to account in this instance; the defendant has no knowledge or information upon the subject, but believes that a portion of the goods were not delivered, hence he denies that the consideration was furnished. In a single allegation he states that he is informed and believes because of certain other information and belief that he has no information or belief, and upon that ground denies nonpayment or execution of the notes for value. The answer does not contain one positive denial of a material allegation, but is indeed unique and evasive. Even under the liberal rules of pleading in this state, it has been repeatedly held that in such a ease the plaintiff is entitled to judgment upon the pleadings. (Hemme v. Hays, 55 Cal. 337; Loveland v. Garner, 74 Cal. 301 [15 Pac. 845]; Zany v. Rawhide G. M. Co., 15 Cal. App. 373 [114 Pac. 1026]; Reigel v. Wollenshlager, 49 Cal. App. 300 [193 Pac. 160].)
+The judgment is affirmed.
+Thompson (Ira F.), J., and Burnell, J., pro tem,., concurred.
