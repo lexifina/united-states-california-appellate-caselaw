@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 736"
+decided: "1950-08-24"
+citations: ["99 Cal. App. 2d 188"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JOHN ELLIS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/99/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2281500
+---
+
+# People v. Ellis
+
+## Majority (BARNARD, P. J.)
+
+BARNARD, P. J.
+This is an appeal from an order denying a petition for a writ of error coram nobis.
+The appellant and one Erskine entered a home near San Diego at 1 o’clock in the morning and held up five occupants at the point of a gun, one shot being fired to show “We mean business. ’ ’ They took certain money and other articles and also took an automobile from the garage, in which to leave. They were tried together and convicted of robbery and grand theft, judgment being pronounced on June 16, 1949. Erskine appealed, and the judgment as to him was affirmed by this court. This appellant, who had not appealed, filed a coram nobis petition on March 27, 1950, which was denied. On this appeal from that order he filed his own briefs but, at his request, this court appointed his present attorney who ably presented the matter here.
+It is first contended that the court abused its discretion in denying this writ “upon the presumption” that the judgment against the appellant had been appealed and affirmed. The record shows the exact contrary; that the trial judge knew that Erskine alone had appealed; and that a hearing was had at which everything submitted was considered.
+It is further contended that the trial court erred in rulings on law at the trial which resulted in a miscarriage of justice, and that appellant’s conviction was the direct result of collusion, conspiracy, fraud and perjury, as shown by the “numerous instances” alleged in the petition by reference to the transcript of the trial. In this connection, it is contended that the judge repeatedly showed bias and prejudice in his rulings; that one witness was not excluded from the courtroom; that his motion for a separate trial was denied; that he was prejudiced because the criminal record of his codefendant was brought out; that no effort was made at any time by his counsel or the judge to protect his rights; that his attorney was negligent in not letting him take the stand and in failing to move for a new trial; that the district attorney prejudicially referred to him as an ex-convict; that he thought at the time, and still thinks, that one juror was substituted for another during the first recess; that he was identified as one of the robbers only vaguely and by hearsay; and that he was denied an attorney at his preliminary hearing.
+Aside from the matter of diligence, most of these contentions are utterly unsupported by the record, including the trial record which is before us, and would have been unavailing had they been presented on an appeal. He was completely and positively identified by all five occupants of the house, and by a taxi driver who took him and Erskine to the scene immediately before the robbery. One of his fingerprints was found in the house. He admitted having ridden in the automobile which was taken, and he took the officers to it after they had vainly tried for two hours to locate it, Erskine having given them its general location. The record discloses no sign of bias or prejudice on the part of the judge. On the contrary, it shows that he was extremely fair to the appellant in his rulings, and most vigilant at all times in protecting his rights. There is no evidence in the record which in the slightest degree indicates collusion, fraud or perjury. Appellant’s attorney at the trial carefully and ably conducted his defense and the criticism of him is entirely unjustified. The only contentions which are at all supported by the record are that he was denied a separate trial, which was obviously correct, and that he was denied counsel at the preliminary hearing, which appears by inference.
+All of the contentions made, whether supported or not, were known to the appellant and could have been presented in the regular way. This is true of the contention that he asked for and was refused counsel at the preliminary hearing. If this be assumed, that fact was well known to him at the time. The record shows that when he was brought up for arraignment in the superior court an attorney was appointed for him, and the matter was continued for two days. He was then properly arraigned and pleaded not guilty, and no objection was raised. At the time set for judgment an additional attorney appeared for him, stating that he wanted to look into the advisability of a motion for a new trial, and the matter was continued for two days. No motion was then made, the appellant stated that he had no legal cause to show why judgment should not be pronounced, and this was done.
+The appellant’s contentions are all without merit and, under familiar rules, his application for this-writ was properly denied. His guilt conclusively appears, his trial was eminently fair, and no additional facts are presented which could have affected the judgment. While such a writ serves a just purpose in a few exceptional cases, it is unfortunate that the right thus given is so increasingly abused. It was never intended as a substitute for an appeal, or as a rehash of a former appeal.
+The order appealed from is affirmed.
+Griffin, J., and Mussell, J., concurred.
