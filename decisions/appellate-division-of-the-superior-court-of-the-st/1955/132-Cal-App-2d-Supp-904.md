@@ -1,0 +1,27 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 8617"
+decided: "1955-04-19"
+citations: ["132 Cal. App. 2d Supp. 904"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAUDE M. DUIN, Respondent, v. SECURITY-FIRST NATIONAL BANK OF LOS ANGELES, as Executor, etc., Appellant."]
+source_url: "https://static.case.law/cal-app-2d/132/cases/Supp. 904-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035405
+cites_cases: ["105 Cal. 514", "130 Cal.App.2d 270", "155 Cal. 155", "160 P.2d 893", "21 L.R.A.N.S. 328", "278 P.2d 713", "33 P. 1105", "39 P. 200", "45 Am.St.Rep. 87", "70 Cal.App.2d 317", "99 Cal. 349", "99 P. 867"]
+---
+
+# Duin v. Security-First National Bank
+
+## Majority (SWAIN, J.)
+
+SWAIN, J.
+This is an appeal by the defendant, the executor of the estate of Thomas Andrew Hunt, deceased, from a judgment in favor of the plaintiff, a real estate broker, for a commission. On November 28, 1951, Hunt signed a written listing in which he (1) employed the plaintiff “to sell” certain real property and (2) agreed to pay her a 5 per cent commission. On February 19, 1952, while the listing was still in force, plaintiff obtained from one Jacob Borstein a $500 deposit on the purchase price of the property. She signed a receipt for the money which stated the terms on which Hunt had listed the property. Borstein wrote on an executed copy of the receipt “accepted by Jacob Borstein.” On February 20, 1952, the plaintiff mailed a letter to Hunt at his home, advising him that she had secured a purchaser who had made a $500 deposit. This was the only communication, written or oral, between the two regarding the offer which plaintiff obtained. Neither in the letter nor by any other means did she give Hunt the name of the buyer, put him in possession of the written offer or bring the two together. Hunt never received the letter because, on February 19, 1952, he was taken to the hospital where he died February 21, 1952. It is undisputed that Hunt’s death revoked plaintiff’s authority. (8 Am. Jur. 1010.)
+The plaintiff claims that she is entitled to her commission because she produced a purchaser who was ready, willing and able to buy on Hunt’s terms. We do not agree with her. She did not produce to Hunt a purchaser because she never put Hunt in a position where he could have made a contract of sale with Borstein had he so desired.
+The listing signed by Hunt did nothing more than empower the plaintiff to find a purchaser even though it stated that the broker was authorized “to sell” the property. (Holway v. Malloy (1945), 70 Cal.App.2d 317, 319 [160 P.2d 893]; 9 Cal.Jur.2d 195.) The memorandum signed by the prospective purchaser was, therefore, nothing but an offer. This offer was never communicated to Hunt. The letter which did not reach him did not serve to apprise him of the offer.
+Volume 2, Mechem on Agency, page 2003, section 2431, says: “If the broker has obtained from a proper person and delivered to Ms principal... a written offer to purchase which the principal can immediately turn into a written contract by accepting it, he would ordinarily be deemed to have performed his undertaking.” (Emphasis added.) Volume 4, Ruling Case Law, 304, “. . . the duty of a broker employed to sell is usually performed when through one means or another he has brought his employer and a customer acceptable to the latter into negotiations with one another and his service in doing so may be said to be the procuring cause of the resulting deal between them.” Brown v. Mason (1909), 155 Cal. 155, 158 [99 P. 867, 21 L.R.A.N.S. 328], holds, “The two essentials to the broker’s success under a written appointment such as Brown obtained from Mason are, 1. That he should produce and introduce to the seller a customer ready, able, and willing to take the property upon the terms stipulated; and 2. That this be done within the time limit of the option. ’ ’ This, of course, does not mean that the two must meet personally (Woodbridge Realty v. Plymouth Dev. Corp. (1955), 130 Cal.App.2d 270, 281 [278 P.2d 713]). 2 Restatement, Agency, section 453: “Illustrations: (1) P lists Blackaere for sale. A persuades T to purchase Blaekacre and is on the way to P’s office when he learns that P died. Subsequently, T, without further action by A, goes to P’s administrator, tells him the facts, and buys the land which is sold for the payment of debts at private sale. A is entitled to no compensation.”
+In Mattingly v. Pennie (1895), 105 Cal. 514, 519 [39 P. 200, 45 Am.St.Rep. 87], the court held that no commission is due the broker if the offer is made to the broker only. It is true, in that case, that there was no written offer and no sale. In a similar case (Gunn v. Bank of Calif. (1892), 99 Cal. 349, 354 [33 P. 1105]) it was held that the broker must give the seller the name of the buyer and the terms of the offer. Without that or some further action by the broker there never could have been a meeting of the minds of Hunt and the prospective purchaser. The duty of the agent to communicate an offer to the principal is the same whether the offer be written or oral.
+The defects in plaintiff’s case could not be cured on a new trial. The judgment is reversed with directions to enter judgment for the defendant.
+Bishop, Acting P. J., and Patrosso, J., concurred.
