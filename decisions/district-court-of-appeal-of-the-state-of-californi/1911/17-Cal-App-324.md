@@ -1,0 +1,22 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1025"
+decided: "1911-10-27"
+citations: ["17 Cal. App. 324"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. N. CALKINS and KATE A. CALKINS, Petitioners, v. CHARLES MONROE, Judge of the Superior Court of the State of California, in and for the County of Los Angeles, Respondent."]
+source_url: "https://static.case.law/cal-app/17/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4609387
+cites_cases: ["143 Cal. 17", "76 Pac. 717"]
+---
+
+# Calkins v. Monroe
+
+## Majority (THE COURT.)
+
+THE COURT.
+It is averred by petitioners that a certain judgment was rendered by the superior court in an action and proceeding to which petitioners were parties, in August, 1910; that thereafter, in February, 1911, the court amended the judgment in certain respects, notably in that it decreed and adjudged certain rights to a party substituted in lieu of one of the litigants at the time of the trial, and within due time after the amendment petitioners, after notice of appeal, applied to the court to settle a bill of exceptions involving the right of the court, under the circumstances of the case, to amend the judgment. This bill of exceptions the court refused to sign upon the theory, as appears from the return of the judge, that the amendment to the judgment was not such as in any wise affected the rights of petitioners, and that the effect of the decree was to cast upon petitioners, or their property, no burden other than that imposed by the original decree, which it is claimed settled and determined petitioners’ rights to the property. It may be assumed that the court may at any time correct a judgment as to immaterial matters occasioned by inadvertence, but that this right does not exist should such amendment materially affect the rights of litigants objecting to such amendment. The question, therefore, for determination upon this application is as to' the materiality of the matters involved in the amendment to the judgment; and when we say “materiality,” we mean to say, as affecting the rights of objecting litigants. It is not made clear, either by the petition or by the return, whether or not this amendment was made on account of any inadvertence and was immaterial in so far as petitioners’ rights were concerned. Nor can the same be determined without a careful examination of the pleadings, report of the referee, and the original judgment, in connection with the amendment. These matters are not presented to the court upon this application; nor has the respondent made it clear to us that in the ordering of the amendment he was within the rule permitting such an amendment as to immaterial matters. Our supreme court has said that, when a trial court is in doubt as to the right of a party to have a bill of exceptions or statement of the case settled, because the same has not been presented within time, the better practice is for the 'trial court to sign the bill of exceptions or statement subject to objections thereto, the evidence in support of which should be incorporated in a bill of exceptions, so that the appellate court upon appeal will be in a position to determine whether or not such statement or bill was presented for signature within time. (Gay v. Torrance, 143 Cal. 17, 18, [76 Pac. 717].) This rule is no doubt based upon the theory that it is the policy of the law to protect the right of appeal, which might in certain cases be materially affected or destroyed by a refusal of the court to sign bills or statements, and that if, upon the appeal, it is made to appear that the bill or statement was not within the time required, it is within the province of the appellate court to dismiss the appeal, or to refuse to entertain questions involved in such bill or statement. For this reason, it appears to us that the rights of all parties are best subserved by the trial court signing the bill of exceptions presented, under the rule above stated, to the end that the whole matter may be submitted to this court upon the appeal, in which will be presented and before us all of the pleadings, reports, and judgment, an inspection of which will enable us the better to understand and determine correctly the questions involved.
+It is, therefore, ordered that the.peremptory writ issue as prayed for.
