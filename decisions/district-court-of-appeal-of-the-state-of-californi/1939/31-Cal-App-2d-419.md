@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6095"
+decided: "1939-03-10"
+citations: ["31 Cal. App. 2d 419"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOLDEN ARROW MINES, INC. (a Corporation), et al., Respondents, v. GEORGE W. HICKMAN et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/31/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4527211
+cites_cases: ["214 Cal. 94", "3 Pac. (2d) 922"]
+---
+
+# Golden Arrow Mines, Inc. v. Hickman
+
+## Majority (THE COURT.)
+
+THE COURT.
+This is an appeal from an ex parle order terminating proceedings taken to perfect an appeal from a judgment.
+We have before us a clerk’s transcript on appeal, which contains a notice of appeal filed July 7, 1937, from a judgment rendered on June 21, 1937, in favor of Golden Arrow Mines, Incorporated, et al., as defendants, the appellants here.
+The notice of appeal, among other things, contained a request that a transcript of the testimony be prepared and stated that arrangements had been made personally with the court reporter for her compensation in preparing the record. An affidavit from the court reporter, is contained in the transcript denying that any such arrangement had ever been made. On September 7, 1937, a motion to terminate the proceedings to perfect the appeal was filed in the trial court based upon the grounds, first, that appellants had failed to order a transcript within the time or manner required by law. Secondly, that appellants had failed to comply with section 953a of the Code of Civil Procedure relating to the taking of an appeal in lieu of a bill of exceptions. Thirdly, that appellants had failed to comply with section 650 of the Code of Civil Procedure in that no bill of exceptions had been filed or served within the time required by law. Fourthly, that appellants had failed to comply with section 953b of the Code of Civil Procedure, pertaining to an undertaking for costs of the transcript, and fifthly, that appellants had failed to file any notice of appeal within the time required by law. This motion is supported by an affidavit reciting in general terms that defendants had failed to comply with the various provisions of the code, and had made no demand for a transcript of the record.
+Upon this notice of motion to terminate the proceedings, and the affidavit, and also upon the proceedings, records and files in the cause, together with the minutes of the court and the notes of the court reporter, the motion was granted, ex parte and the proceedings were dismissed, and on September 15, 1937, this appeal from that order was taken. Due to the fact that neither counsel nor the court have been able to find authorities bearing upon this question, we have been compelled to view this matter largely as a proceeding of first impression.
+In answer first, to the suggestion made by respondent that appellants have mistaken their remedy and should have proceeded by prohibition or mandamus: Inasmuch as prohibition lies only to prevent an act that is threatened to be done, that remedy would not apply here. As to mandamus, that remedy would not be effective, as an order was in fact made. An appeal, therefore, was the proper method of attacking an order terminating the proceedings such as these, it being a special order after judgment. ( Wood v. Peterson Farms, Co., 214 Cal. 94 [3 Pac. (2d) 922].)
+In answer to the several points made by respondents in their motion to dismiss, their first ground was that appellants had failed to make demand for a transcript within the time and manner provided by law. The record discloses that on July 16, 1937, appellants received notice of the order denying their motion for a new trial. Within ten days, and on July 24th, appellants filed their notice of appeal and request for transcript. The second ground urged in the motion was that appellants had failed to comply with the provisions of section 953a of the Code of Civil Procedure, relative to the alternative method of preparing transcripts. Inasmuch as this appeal has been taken on the judgment roll alone this section has no application. The third ground is that appellants had failed to comply with the provisions of section 650 of the Code of Civil Procedure relating to preparation of a bill of exceptions. As pointed out above the appeal was not upon a bill of exceptions but was upon the judgment roll alone, and therefore that section is not applicable. In the fourth ground it was claimed appellants have failed to comply with the provisions of section 953b of the Code of Civil Procedure relating to an undertaking for costs of preparing reporter’s transcript. Inasmuch as the method of appeal as prescribed by sections 953a and 953b is not the method chosen for appeal that objection is not applicable. The fifth ground, that appellants have failed to file notice of appeal is answered by the fact that the appeal was filed within ten days of notice of the order denying the motion.
+In view of the fact that the notice of appeal was apparently filed within the time prescribed by law and that no notice or opportunity was given appellants to answer the notice to dismiss we think the dismissal by the trial judge was an abuse of discretion, and the order should be reversed and set aside. It is so ordered.
