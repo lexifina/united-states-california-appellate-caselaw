@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1581"
+decided: "1937-11-22"
+citations: ["23 Cal. App. 2d 547"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. MIGUAL CONTRERAS, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/23/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4520341
+---
+
+# People v. Contreras
+
+## Majority (PLUMMER, J.)
+
+PLUMMER, J.
+The appellant was convicted upon an information filed by the district attorney charging violation of an act to regulate the sale, possession, distribution, etc., of habit-forming narcotics, etc. From the judgment of conviction the defendant appeals, and upon this appeal alleges that the testimony is insufficient to support the conviction in that there is no testimony showing that the defendant had in his possession any of the narcotic drug described as “Marihuana” or “Indian Iiemp”, on his person or in his possession, or under his dominion and control.
+The record shows the following: That the appellant, on June 28, 1937, rented room No. 22 in the Alaska Hotel, in the city of Sacramento. Between 10 and 11 o’clock of the same evening the appellant was approached by one Howard Guy, a colored man, who asked him if he could get him (Howard Guy), a marihuana cigaret. The appellant replied that he could, and Guy gave the appellant 25 cents. The appellant took the money and went to the Alaska Hotel. He was followed into the hotel by an officer by the name of Kenealy, a member of the Sacramento police department. The officer waited at the head of the stairs in the hotel, and in a few minutes observed appellant coming out of room No. 22, stopped him, turned him around, and proceeded with him back to the room. Upon it being opened from the inside by a codefendant of the appellant, the officer observed as he entered the room that there was a paper of marihuana lying open on the bed. The officer stood the appellant at the foot of the bed, noticing as he did so that there was nothing on the floor around him. Carpeno, the codefendant of the appellant, was the only other person in the room; he was sitting at the head of the bed in the far corner. The room was four or five feet longer than the bed and three or four feet wider. After standing the appellant at the foot of the bed, the officer turned to a window and called to an officer by the name of Palmer, who was waiting on the street in front of the window, and he turned back in the room and noticed a crumpled cigaret on the floor immediately back of appellant. This cigaret contained marihuana in unlawful amounts; the cigaret was lying within two feet of the appellant. The testimony of the officer, as shown by the respondent’s brief which we have verified by an examination of the record, is as follows:
+“Now, while you were calling out of the window, it is your theory that this cigaret was placed or thrown on the floor at that time, is that correct? A. Yes. Q. Do you know by whom? A. I suspect by this man Contreras. Q. You suspect. Do you know? A. I didn’t see it. Q. You didn’t see it? A. No. Q. It might have been placed there by Mr. Carpeno, might it not? A. It couldn’t possibly have been. I hardly thought possible. It was right at the foot of the bed. It is pretty hard to throw a cigaret that far in the condition the cigaret was rolled up. It was my contention that Contreras tried to throw it under the bed. Q. That is merely your deduction. It might have been possible that Mr. Carpeno might have put it there? A. Well, I wouldn’t say so. I don’t think so. Q. You don’t think so? A. I don’t think so.”
+After appellant was arrested he stated that he was staying in Sacramento because he had three pounds of marihuana which he wanted to dispose of. The appellant took the stand in his own defense and denied possession of the cigaret found at his feet. He admitted renting the room under a fictitious name. He stated that he passed the room on to Mr. Carpeno as he himself was leaving town to go to a ranch, and explained that he returned to the room in order to locate a baggage check which he thought he might have left in the room. He further stated that he did not find the check until the officer took him back into the room. When the officer entered the room with him it was lying on the bed within three or four inches of the package of marihuana.
+Upon this testimony, if believed by the jury, the defendant was properly convicted. The jury had a right to conclude that the appellant, at the time the officer who had him in charge turned to call a brother officer, attempted to dispose of the eigaret, and that up to that moment it was in his possession and under his control. The jury had a right also to disbelieve the appellant’s story about the renting of the room for other purposes than to use it in making sale and distribution of the unlawfully possessed cigarets. °
+Finding no merit in the appeal, the order denying the appellant’s motion for new trial and the judgment of conviction are hereby affirmed.
+Thompson, J., and Pullen, P. J., concurred.
