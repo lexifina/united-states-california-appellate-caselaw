@@ -1,0 +1,34 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C016259"
+decided: "1994-01-31"
+citations: ["22 Cal. App. 4th 533"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sparks, J., and Nicholson, J., concurred."]
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. WILLIAM LOUIS KELLY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/22/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4548816
+cites_cases: ["13 Cal.App.4th 114", "13 Cal.App.4th 1653", "16 Cal.Rptr.2d 490", "17 Cal.Rptr.2d 445", "171 Cal.App.3d 552", "217 Cal.Rptr. 402", "227 Cal.App.3d 718", "278 Cal.Rptr. 121"]
+---
+
+# People v. Kelly
+
+## Majority (PUGLIA, P. J.)
+
+Opinion
+PUGLIA, P. J.
+(Pen. Code, § 1538.5), defendant entered a negotiated plea of no contest to charges of discharging a firearm in a grossly negligent manner which could result in injury or death (Pen. Code, § 246.3) and being a felon in possession of a firearm (Pen. Code, § 12021, subd. (a)). Placed on probation for three years, defendant appeals, challenging the denial of his suppression motion. We shall conclude defendant waived his right to appeal the denial of his suppression motion and dismiss the appeal.
+The prosecution and the defendant agreed to a negotiated disposition. Defendant signed a “Change of Plea” form which recited the terms of the bargain and the consequences of the plea. One of the terms was stated on the form as follows: “I understand that as a term and condition of this plea that I give up any direct appeal I may have, except any appeal to [sic] sentencing error.” Defendant inscribed his initials next to this statement. Defendant acknowledged on the form he had read and discussed with his attorney each of the terms, and that he understood them. The form also recited that defendant’s attorney had reviewed the terms of the negotiated plea with defendant and explained the consequences of the plea with defendant.
+At the hearing on defendant’s change of plea, the court asked defendant if he had read and signed the change of plea form. Defendant answered in the affirmative. Defendant also responded affirmatively when the court asked if he was entering the plea “freely [and] voluntarily.” The court found the plea was “freely and voluntarily entered. . . .”
+People v. Charles (1985) 171 Cal.App.3d 552, 557, 558 [217 Cal.Rptr. 402], holds a defendant may validly waive his right to appeal as part of a plea bargain. A waiver of appeal is proper, “provided such waiver is knowing, free and intelligent.” (Id. at p. 559.) In Charles, the defendant entered into an agreement which expressly waived his right to appeal a ruling denying his suppression motion. (Id. at p. 556.) Defendant later filed a notice of appeal challenging the legality of a search and seizure. (Id. at p. 557.) Rejecting defendant’s claim the waiver was coerced by the trial judge, the appellate court noted defendant had been advised repeatedly by both the district attorney and the judge that the plea was conditioned on the defendant’s waiver of his right to appeal the denial of the suppression motion. The court concluded defendant fully understood the conditions of the agreement, including the waiver of his right to appeal. (People v. Charles, supra, 171 Cal.App.3d at p. 562.)
+Relying primarily on People v. Charles, supra, defendant attacks the validity of his waiver of right to appeal. Defendant argues that without an express written waiver of his right to appeal the denial of the suppression motion and a specific admonition by the court at the time of the plea, the waiver cannot be knowing and intelligent. Ascending to the ultimate height of cheek, defendant also claims his filing of a notice of appeal challenging the denial of his suppression motion demonstrates defendant was unaware of the effect of the waiver.
+In People v. Castrillon (1991) 227 Cal.App.3d 718, 721-722 [278 Cal.Rptr. 121], the court held a defendant could waive his right to appeal the denial of a suppression motion as part of a plea bargain, if the waiver was entered “voluntarily, knowingly and intelligently.” Castrillon contained an express written waiver. (Id. at pp. 720-721.) In People v. Nguyen (1993) 13 Cal.App.4th 114, 119-120 [16 Cal.Rptr.2d 490], the court held the scope of a general waiver of the right of appeal must be analyzed in terms of the reasonable expectations of the parties. Although Nguyen suggested trial courts should obtain waivers orally, it concluded a general verification by the trial court that the defendant read and understood a plea form containing a general waiver was sufficient. (Id. at pp. 119-120, fn. 3.) The court upheld the general waiver. (Id. at pp. 120-123.)
+People v. Vargas (1993) 13 Cal.App.4th 1653, 1660, 1662 [17 Cal.Rptr.2d 445], upheld a general waiver as to alleged errors occurring prior to the waiver of the right of appeal. In Vargas, the defendant initialed and signed a change of plea form stating he was waiving his right of appeal, and he received an oral advisement. (Id. at pp. 1660, 1661.) Citing People v. Castrillon, supra, Vargas held the waiver showed, “. . . independent of the oral advisement by the court, defendant was informed sufficiently of his right to knowingly and intelligently waive it.” (Id. at p. 1661.) The court also noted the trial court had questioned the defendant to ensure the plea was voluntary, the defendant received advice by counsel, and he received certain benefits in exchange for the waiver. (Ibid.)
+In this case, defendant initialed a statement waiving his right of appeal, except as to sentencing error. Defendant also initialed a statement on the change of plea form that he “had read, discussed, and have had explained to me by my attorney each of the [terms in the change of plea form], and understand same. I have initialed each item as proof thereof.” At the hearing on the change of plea, defendant confirmed he had signed the form and agreed he was entering the plea freely and voluntarily. At all times defendant was represented by counsel.
+The record demonstrates defendant’s waiver of the right to appeal was made with full knowledge and understanding of the consequences, and specfically that he was waiving his right to appeal the order denying suppression of evidence. (People v. Vargas, supra, 13 Cal.App.4th at p. 1661; People v. Nguyen, supra, 13 Cal.App.4th at pp. 119-123.) In exchange, defendant received, and well understood he was receiving, significant benefits, including the dismissal of one charge and a sentence limit.
+Because we conclude that defendant freely, knowingly and intelligently waived his right of appeal, the merits of the suppression motion are not cognizable.
+The appeal is dismissed.
+Sparks, J., and Nicholson, J., concurred.
