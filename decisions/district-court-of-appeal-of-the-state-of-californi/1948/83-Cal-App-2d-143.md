@@ -1,0 +1,41 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13445"
+decided: "1948-01-06"
+citations: ["83 Cal. App. 2d 143"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAROLD E. JENNINGS, Respondent, v. EUGENE ARATA, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/83/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038625
+cites_cases: ["101 Cal.App. 610", "156 P.2d 69", "212 Cal. 58", "281 P. 1087", "297 P. 544", "298 P. 819", "34 Cal.App.2d 445", "68 Cal.App.2d 23", "93 P.2d 819"]
+---
+
+# Jennings v. Arata
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+This appeal is taken from a judgment on the verdict for the plaintiff awarding damages for injuries sustained in a collision between plaintiff’s motorcycle and defendant’s automobile.
+The accident occurred at the junction between Peabody Road and Highway 4 at a point where the highway and Peabody Road are mutually an extension of each other in a straight line, and Highway 4 curves slowly in a northwesterly direction away from Peabody Road.
+The defendant was proceeding westerly along the straight portion of Highway 4 toward Peabody Road while the plaintiff was approaching from the opposite direction around the curved part of Highway 4 opposite Peabody Road. There is no question of obstructed visibility of either party.
+As the defendant attempted to leave Highway 4 and enter Peabody Road the collision occurred. There was a sharp conflict of evidence as to the point of impact, i. e., whether the defendant had entered the curved portion of the highway or had proceeded in a perfectly straight line.
+During the trial the plaintiff was allowed, over objection, to introduce the testimony of Mr. Barnes of the Highway Maintenance Division who with his crew was working on the road some half mile from the scene of the accident and separated therefrom by an intervening hill. This testimony was to the effect that the defendant at the time he passed the highway crew ignored the 25 mile an hour sign there posted and almost struck the workmen.
+It further appears that during the giving of instructions to the jury the plaintiff’s attorney approached the bench and indicated to the trial judge section 550, subsection (c) of the Vehicle Code governing left-turn signals, and then and there requested that the same be included in the jury instructions. The court assented and read the entire section as an instruction.
+There are only three assignments of error: that the admission of the testimony of Mr. Barnes was prejudicial error; that the court erred in permitting counsel for the plaintiff to offer additional instructions after the hearing; and that the giving of an instruction on left turns was, in any event, erroneous.
+We shall discuss these assignments in inverse order, The appellant contends that the giving of a left-turn instruction was error because it would be impossible from the contour of the highway to make a left turn at the junction in question. While admittedly a court shall not “blind itself to physical facts,” (Waizman v. Black, 101 Cal.App. 610 [281 P. 1087]), we do not find the instruction here erroneous.
+The portion of subsection (c), section 550, Vehicle Code so given to the jury reads as follows: “(Vehicles approaching from opposite directions.) This section shall not apply to vehicles approaching each other from opposite directions, when the driver of one of such vehicles is intending to or is making a left turn.”
+Section 86 of the Vehicle Code provides: “ ‘Intersection’ is the area embraced within the . . . lateral boundary lines of the roadways, of two highways which join one another at approximately right angles or the area within which vehicles traveling upon different highways joining at any other angle may come in conflict.” (Emphasis ours.)
+The appellant predicates his contention on the theory that one must turn at right angles in order to turn “left.” Patently this argument is fallacious. Any change of direction in front of vehicles approaching in the left lane must be construed as a “left turn” requiring proper signals; and where the vehicle, even without an actual change of direction, is leaving the main highway and may cause a hazard to vehicles approaching from the opposite direction it cannot be said as a matter of law that an instruction on left-turns is erroneous. This is particularly true in the instant case, since there was evidence which would have entitled the jury to find that the defendant had actually entered the curved portion of Highway 4, from whence an angle turn would be required to enter Peabody Eoad.
+The second assignment to be discussed is that concerned with the method of giving instructions. Appellant contends that Code of Civil Procedure, section 607a gives an absolute right to inspect instructions before argument. In charging the jury the court may of its own motion instruct them as to all matters of law which it thinks necessary for their information in giving their verdict. (Code Civ. Proc., § 608; James v. Myers, 68 Cal.App.2d 23 [156 P.2d 69] ; 24 Cal.Jur. 794.)
+Since, regardless of authorship, it is well settled that the instructions are those of the court, the appellant is in no worse position here than he would have been had the court given the instruction objected to without any request by respondent’s counsel. However, this is not to be taken as an approval of such conduct on the part of counsel during the course of a trial.
+Coming to the last assignment of error the appellant’s contention is that the evidence of Mr. Barnes was so remote that to admit it was error and being error it must be deemed prejudicial.
+We are satisfied that the rule adopted in California, irrespective of the contrary rule in some other jurisdictions, is that the question of the remoteness of testimony is addressed to the discretion of the trial court. (Lundgren v. Converse, 34 Cal.App.2d 445 [93 P.2d 819]; Mathews v. Dudley, 212 Cal. 58 [297 P. 544, 298 P. 819] ; Wigmore on Evidence, § 382.)
+The evidence showed that the accident occurred about one minute after this incident in point of time, and about a half mile in point of distance and beyond the sight of the witness. The fact that the accident occurred out of the range of vision does not preclude the testimony. In Mathews v. Dudley, supra, the witness testified to the manner of driving of the defendant around several curves until he was lost from sight. The accident followed “but a short space and a few seconds ’ ’ thereafter. In the Mathews case the appellant raised the identical contention as the appellant here, i. e., that the testimony was too remote. The court said (212 Cal. p. 60) “We can perceive no merit in this contention, since the testimony of this witness had relation to a course of conduct which was being pursued by the driver of the truck for a considerable distance in the course of its descent along said highway and up to within a very short distance and a very brief space of time before his truck collided with the car in which the plaintiff was riding . . . and the question of its remoteness, in view of the fact that the witness did not see the collision, was one which rested in the sound discretion of the trial judge as to the admission or rejection of such evidence.’'
+From the evidence in the instant case it clearly appears that the collision occurred less than a minute from the time that the witness was last able to see the defendant’s automobile and less than a half mile from the hill which obstructed the witness’ view.
+While the evidence might have had little weight, that question was not for the court. We are unable to say as a matter of law that there was such a palpable remoteness between the incident testified to and the accident as to require a declaration that the trial judge abused his discretion. Hence, there being no abuse of discretion, the question of prejudice is not involved.
+The judgment of the trial court is affirmed.
+Dooling, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied March 4, 1948. Schauer, J., voted for a hearing.
