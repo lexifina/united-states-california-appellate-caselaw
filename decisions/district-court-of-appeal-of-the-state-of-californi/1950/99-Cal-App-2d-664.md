@@ -1,0 +1,39 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14536"
+decided: "1950-09-27"
+citations: ["99 Cal. App. 2d 664"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of SUE GALLIMORE, Deceased. ELIZABETH GRAY et al., Appellants, v. ROBERT GALLIMORE, JR., et al., as Trustees, etc., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/99/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2281669
+---
+
+# Gray v. Gallimore
+
+## Majority (PETERS, P. J.)
+
+PETERS, P. J.
+Three of the four remaindermen of a testamentary trust created by the will of Sue Gallimore petitioned for a termination of the trust prior to the time fixed for its termination in the trust instrument on the ground that all purposes of the trust had been fulfilled. One remainderman objected. The trial court denied the petition to terminate, and the three petitioning remaindermen appeal. There is no merit to the appeal.
+Sue Gallimore died testate. Elizabeth Gray, John and Margaret Gallimore, the three appellants, and Robert Gallimore, Jr., the objector, were her four surviving nieces and nephews. All are the children of Nellie Gallimore, the sister-in-law of Sue. The final decree of distribution was entered in Sue’s estate in December, 1939, and Sue’s will, by which the testamentary trust was created, was made part of that decree. The decree of distribution, which has long since become final, provides that the residue of the estate is distributed to three named persons as trustees for the following purposes:
+“(a) To pay to Gong Yuen, the sum of Thirty Dollars ($30.00) a month, as long as he shall live.
+“ (b) To pay the net income from this Trust, after the payment of said monthly sum to Gong Yuen, to Mrs. Nellie Gallimore, Elizabeth Gray, Robert Gallimore, Jr., John Gallimore and Margaret Gallimore, share and share alike, until the death of Nellie Gallimore.
+(c) “Upon the death of Nellie Gallimore, said net income shall be paid to Elizabeth Gray, Robert Gallimore, Jr., John Gallimore and Margaret Gallimore, the survivor or survivors of them, share and share alike.
+(d) “Upon the death of both Gong Yuen and Nellie Gallimore, all of said property shall belong to and become the property of Elizabeth Gray, Robert Gallimore, Jr., John Gallimore and Margaret Gallimore, share and share alike.”
+All of the parties named in the testamentary trust are over the age of majority and fully competent. The trust estate presently consists of securities valued at $72,500 and a parcel of real property inventoried at $8,500. The real property produces an income of $300 per year, and the total expenses of maintaining the property amounts to about $400 a year. The various accountings by the trustees show that the total income produced by the trust estate has only been sufficient to pay all the costs of administration and the payments due to Gong Yuen under paragraph “(a).” In the past seven years no payments of income have been made to the income beneficiaries under clause “(b).” Nellie and Gong are still alive.
+In February and March of 1949, the three appellants who are three of the four remaindermen named in paragraph “(d),” being all of the remaindermen with the exception of Robert Gallimore, Jr., acquired all of the rights of Gong Yuen and Nellie Gallimore in the trust. These three remaindermen then disclaimed all rights of their assignors in the trust. Thereupon, appellants, contending that there was no further purpose to be served by continuing the trust, demanded that the trustees terminate it and distribute the corpus to the four remaindermen. The trustees refused to comply, and refused to petition the probate court for instructions. Appellants then petitioned for an order terminating the trust and distributing the corpus. At the hearing, Robert Gallimore, Jr., one of the remaindermen, objected. After a hearing, the trial court denied the petition, and the three petitioning remaindermen appeal.
+The appellants contended before the trial court and how urge that:
+1. The essential and only purpose of the trust was to provide for the payment of income to Gong and Nellie, because as soon as the duty to distribute income to them terminated, the corpus was to be distributed to the trustor’s four nephews and nieces.
+2. By virtue of the assignments to the appellants by Gong and Nellie, and their disclaimers, no further purpose of the trust could be achieved.
+3. The remaining rights of the nephews and nieces to receive income are identical with their rights as remainder-men. Hence, their rights have merged and the trust has terminated.
+4. There is nothing in the trust instrument which indicates an intention of the trustor that the trust should continue until the deaths of Nellie and Gong.
+Robert Gallimore, Jr., at the hearing, urged several reasons why the trust should not be terminated. The trial court recognized that the specific reasons assigned by Robert might not be sound, but concluded that there was a very good reason why the trust should not be terminated. In this connection the court, in a memorandum opinion, stated: “It may be to his [Robert’s] pecuniary advantage if the trust is allowed to continue until the time specified therein for its termination. The trust provisions and particularly the survivorship provision with regard to the payment of income upon the death of Nellie Gallimore [Clause “(c)”] indicate the possibility of this advantage to Robert Gallimore, Jr. if the trust is allowed to continue. In this situation it cannot be said that the termination of the trust at this time would not prejudice the rights of Robert Gallimore, Jr. as an income beneficiary.”
+It seems to us quite clear that the reason assigned by the trial court for not terminating the trust is sound. Obviously, Robert Gallimore, Jr., if he should survive Nellie during the lifetime of Gong, and should survive the other nephews and nieces, would be entitled, as such survivor, under Clause “(c),” to all of the income above that paid to Gong. By now terminating the trust he would lose that important and prospective right.
+Much has been written on the general subject as to whether a trust whose purposes have been fully performed may be terminated, over the objection of a beneficiary, prior to the time specified in the trust. Generally, under such circumstances, it is stated that a trust will not be terminated. (4 Bogert on Trusts and Trustees, part 2, p. 491, § 1002; 3 Scott on Trusts, pp. 1833,1865, §§ 337, 340; 59 Harv.L.Rev. pp. 157, 201.) It is true that there is authority to the effect that if the purposes of the trust have been fully accomplished, the trust will be terminated even if some of the beneficiaries object. (3 Scott on Trusts, p. 1865, §340.) That rule will never be applied, however, where the rights of any beneficiary will be adversely affected by the termination. The rule is that all of the beneficiaries must consent to a termination unless there is no possible purpose to be accomplished in continuing the trust. (See 123 A.L.R. pp. 1427, 1449; 45 A.L.R. pp. 743, 749.)
+The argument of appellants is that this case is one where no purpose can be served by continuing the trust. But this contention disregards Clause “(c)” of the trust. This is not a case where the interests of the holders of the beneficial life interests have merged with the vested remainder interests. Robert Gallimore, Jr., has a contingent survivorship interest in the income of the trust under Clause “(e).” This being so, the trial court properly refused to terminate the trust over his objections.
+The order appealed from is affirmed.
+Bray, J., and Wood (Fred B.), J., concurred.
+A petition for a rehearing was denied October 27, 1950, and appellants’ petition for a hearing by the Supreme Court was denied November 20, 1950.
