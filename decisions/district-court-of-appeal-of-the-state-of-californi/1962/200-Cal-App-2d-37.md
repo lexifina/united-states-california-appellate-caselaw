@@ -1,0 +1,38 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10240"
+decided: "1962-02-06"
+citations: ["200 Cal. App. 2d 37"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANCO WESTERN OIL COMPANY, Plaintiff and Respondent, v. ARTHUR A. CAMERON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-2d/200/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2302524
+cites_cases: ["1 Cal.2d 718", "12 Cal.2d 573", "120 A.L.R. 786", "122 P.2d 557", "139 Cal.App.2d 718", "146 P.2d 482", "168 Cal. 700", "19 Cal.2d 605", "276 P. 606", "294 P.2d 55", "37 P.2d 446", "63 Cal.App.2d 178", "86 P.2d 345", "98 Cal.App. 155"]
+---
+
+# Franco Western Oil Co. v. Cameron
+
+## Majority (PIERCE, J.)
+
+PIERCE, J.
+Defendant appeals from an order of the Sutter County Superior Court denying his motion for a change of venue from that county, the situs of real property involved, to Los Angeles County, the county of his residence. The ground of appeal is that the action is essentially transitory in nature. Whether it is or not must be determined from the allegations of the complaint, and from the character of the judgment which might be rendered against the defendant upon his default. (Donohoe v. Rogers, 168 Cal. 700, 701 [144 P.958].)
+The complaint, in two counts, contains a detailed, lengthy (16 pages), and exhaustive narrative of the transactions between plaintiff and defendant, augmented by exhibits, including correspondence between the parties and other documentary evidence.
+Its allegations can he stated in capsule form as follows: On January 19,1960, the parties, who had had previous joint dealings in obtaining, exploring and developing oil and gas leases of a so-called “Grimes Block” in Colusa and Sutter Counties, entered into a new joint venture covering leases then and later to be acquired in Sutter County in what the parties called the “Meridian Prospect.” It was necessary, as a condition to the acquisition of at least one of these leases, to drill a test well, securing the performance of that obligation by a $75,000 performance bond. Plaintiff was to have a half interest in the leases and was to share equally in rental payments and the expense of drilling. Certain leases in plaintiff’s name were to be included in the joint venture and Cameron was to have a half interest in these. Leases were acquired, the early ones in both names as agreed. Cameron billed plaintiff for rentals paid and costs of drilling. All of these bills were paid excepting one dated July 12, 1960, items of which were questioned by plaintiff and it was agreed to defer payment of this bill until later. Cameron did not bill plaintiff for one-half the cost of first-year rentals paid on certain leases. Plaintiff asked for such billing but Cameron stated he was not yet prepared to render it. Then Cameron is alleged to have repudiated the agreement, contending that the joint venture agreement covered only the leases adjoining the Grimes Block. Cameron took the other leases in his own name. Drilling continued, gas was recovered, and the leases became valuable. It is alleged that plaintiff believes it has paid its share of expenses or tendered payment. There is a general allegation: “Franco Western has performed all its obligations under said joint venture agreement. ’ ’ Plaintiff, however, offers to pay anything further found to be due.
+The second count of the complaint relates to the three leases which had been acquired by plaintiff in which it had agreed to transfer a half interest to Cameron. Regarding these it is alleged that Cameron, without plaintiff’s knowledge, caused the owners to cancel the original lease and execute a new one, identical in form, to Cameron. This was recorded.
+The prayer of the complaint is for a decree (1) adjudging that plaintiff is the owner of an undivided one-half interest in all of the oil and gas leases; (2) declaring that defendant is a constructive trustee of said one-half interest; (3) that defendant be compelled to execute a conveyance to plaintiff covering said half interest; (4) that determination be had of the respective debits and credits of the parties under the joint tenancy agreement, with a judgment against whoever may be determined to be ultimate debtor for the amount due.
+The question is whether the action thus pleaded is local, transitory, or mixed. Defendant argues that it is transitory because it is essentially an action for a declaratory judgment and for an accounting, and only incidentally to recover the half interest, or, if the action is found to be waived that venue follows the transitory cause of action joined. Respondent contends, and the trial court by denying the change of venue motion found, that the action was essentially local in character. We share the latter opinion.
+Code of Civil Procedure section 392 provides, in part, as follows:
+“ (1) . . . [T]he county in which the real property, which is the subject of the action, or some part thereof, is situated, is the proper county for the trial of the following actions:
+" (a) For the recovery of real property, or of an estate or interest therein, or for the determination in cmy form, of such right or interest. ...” (Emphasis added.)
+This language seems clear enough and there can be no question that the principal purpose of this action is for the determination of a right and interest in real property. (Donohoe v. Rogers, supra.)
+Does the fact that the action incidentally prays that debits and credits between the parties be ascertained and a balance struck, constitute it a “mixed” action and bring it within the rule that where a plaintiff joins local and transitory actions defendant is entitled to change venue to the county of his residence (Turlock Theatre Co. v. Laws, 12 Cal.2d 573 [86 P.2d 345, 120 A.L.R. 786])?
+No. Respondent’s prayer that the court determine the items of debits and credit between the parties “and that any balance so determined be paid by the party owing the same to the other” complements the allegations in the complaint which relate to certain rentals and other expenses admittedly payable by plaintiff but the amount of which is peculiarly with defendant’s knowledge. Plaintiff agrees to pay these when ascertained. This is, as plaintiff argues, merely a continuing offer to do equity. It has been stated by this court (per Van Dyke, P. J.) in Etter v. Vollmer, 139 Cal.App.2d 718, 720 [294 P.2d 55], that a local action does not become partly transitory merely “because it may require the determination of the amount of benefits received by respondents.” (Citing Kopke v. Carlson, 98 Cal.App. 155, 157-158 [276 P. 606]; Heffernan v. Bennett & Armour, 63 Cal.App.2d 178, 184-186 [146 P.2d 482].)
+That appellant’s principal reliance upon Neet v. Holmes, 19 Cal.2d 605 [122 P.2d 557], as “a leading case” supporting his position is founded upon a misreading thereof may be pointed out by the following quotation therefrom at page 611:
+“Title or ownership of those properties is not involved inasmuch as there is no allegation therein that the defendants claim any interest therein adverse to the plaintiffs.”
+This is not an action for a declaratory judgment, notwithstanding the caption of the complaint. Such caption does not determine the nature of the action. (Standard Brands of California v. Bryce, 1 Cal.2d 718, 721 [37 P.2d 446].)
+The judgment is affirmed.
+Peek, P. J., and Schottky, J., concurred.
+The caption of the complaint is: ‘1 Complaint for Breach of Joint Venture Agreement and for Declaratory Belief. ’ ’
