@@ -1,0 +1,21 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3521"
+decided: "1920-07-14"
+citations: ["48 Cal. App. 797"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. C. ERASER, Petitioner, v. L. W. CUMMINGS, as City Clerk, etc., Respondent."]
+source_url: "https://static.case.law/cal-app/48/cases/0797-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2067749
+cites_cases: ["192 Pac. 100"]
+---
+
+# Fraser v. Cummings
+
+## Majority (THE' COURT.)
+
+THE' COURT.
+— The above-entitled cause presents the same issues as those involved in Fraser v. Cummings, ante, p. 504, [192 Pac. 100], and for the reasons therein given the petition is denied and the alternative writ discharged.
