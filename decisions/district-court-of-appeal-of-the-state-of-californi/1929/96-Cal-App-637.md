@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6348"
+decided: "1929-02-06"
+citations: ["96 Cal. App. 637"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of WILLIAM SHAW, Deceased. MARIE SHAW McREAVY, Appellant, v. MARION SHAW, Respondent."]
+source_url: "https://static.case.law/cal-app/96/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2120675
+cites_cases: ["248 Pac. 754", "260 Pac. 351", "78 Cal. App. 638", "85 Cal. App. 518"]
+---
+
+# McReavy v. Shaw
+
+## Majority (STEPHENS, J., pro tem.)
+
+STEPHENS, J., pro tem.
+William Shaw died leaving a will wherein he appointed the appellant herein, Marie Shaw McReavy, executrix and trustee. The twelfth paragraph of the will reads as follows: “I hereby affix the compensation of my executor and trustee at the sum of $10 per month, for the first twelve months after qualifying as such, and $5.00 per month for each month thereafter.” Decedent left a codicil to his will, the second paragraph of which reads: “It is my further will and desire that the compensation of my executor and trustee fixed in the twelfth paragraph of my said will be thirty dollars ($30) per month instead of ten dollars ($10) and five ($5) per month respectively, as therein provided, and that said paragraph twelfth of my said will is hereby revoked and changed accordingly.”
+The named executrix entered upon her duties as such, but under the provisions of section 1618 of the Code of Civil Procedure she renounced her right to the designated compensation as executrix by signing and filing with the court a document which reads as follows: “Renunciation of Compensation Given Executrix By Will. Comes now Marie Shaw McReavy, the duly appointed, qualified and acting executrix of the above-named estate, and hereby renounces all compensation given her under the last will and testament of William Shaw, deceased, and hereby elects to take the compensation allowed her by law, under the provisions of Section 1618 of the Code of Civil Procedure of the State of California.”
+Upon distribution of the estate she asked for and was allowed, after coming to this court (85 Cal. App. 518 [260 Pac. 351]), statutory executor’s fees together with some extraordinary fees. In her first annual account of her trusteeship she gave herself credit for the sum of $345 as her compensation at the rate of $30 per month from the fourteenth day of January, 1927. Respondent objected thereto and successfully contended in the superior court that “the executrix has obtained a large sum of money over the amount provided in the will as extra compensation solely, by waiving the compensation provided in the will, part of which was the appointment and compensation as trustee.”
+The objection should have been denied. This court decided, in the opinion in the former appeal, that the office of executrix and trustee are separate offices—especially that such is the case in this estate—and in effect ordered the •settlement of the executrix’s account upon this premise. That being the law of the case, we cannot here disturb it even if we were of a mind so to do. While appellant was executrix of the estate she performed no duties as trustee, and she received the executor’s statutory fee plus an extraordinary fee allowed for extraordinary services as executrix. By her renunciation she had elected to so take in lieu of the sum fixed in the will. This has nothing whatever to do with the matter of the trusteeship. She entered upon her trusteeship upon stepping out of her office as executrix, and is entitled to the compensation fixed by the will therefor.
+The Estate of Whitney, 78 Cal. App. 638 [248 Pac. 754], presents a state of facts not found in the instant case. There the compensation for services as executors and trustees was inextricably mixed, through an agreement recited in the will whereby such services were to be performed for a certain legacy, with a sum of money added thereto by the testator. The executors, as such, renounced their right to take compensation as provided by the will and elected to take under the statute, and when their report as trustees came on they claimed compensation as such without regard to the fact that the will had so mixed the two that separation was impossible. The court of appeal held that this could not be done; that they were limited to the compensation provided by will and that the executors’ fees collected would be credited thereon. The whole difference between the points to be decided in the two cases can be simply stated as follows: In the Whitney case the will provided for one compensation to cover both classes of service, and in the instant case, under the construction given the will when before this court on the first appeal, the will provided for a distinct compensation for each service.
+It should be noted that the trial court in the Whitney case permitted the renunciation of executors’ fees as provided in the will and ordered the statutory fee paid to them. When the petition for allowance of trustees’ fees reached the court of appeal the whole matter of payment of executors’ fees had passed beyond the time of appeal. We do not take it that the appellate court approved the trial court’s action therein. We are inclined to the opinion that where the will fixes one payment for both services of executor and trustee the renunciation of the payment for executor’s fees should not be allowed unless it carry with it the renunciation of the whole payment, with all the consequences thereof.
+The order is reversed.
+Works, P. J., and Thompson (Ira F.), J., concurred.
