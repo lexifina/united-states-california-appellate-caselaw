@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5474"
+decided: "1927-11-30"
+citations: ["87 Cal. App. 185"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OTTO MILLER et al., Respondents, v. MRS. MIRIAM NATHAN et al., Appellants."]
+source_url: "https://static.case.law/cal-app/87/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2098954
+cites_cases: ["169 Pac. 382", "176 Cal. 722"]
+---
+
+# Miller v. Nathan
+
+## Majority (STROTHER, J., pro tem.)
+
+STROTHER, J., pro tem.
+Plaintiffs entered into possession of lands in Mendocino County under a lease from the defendants for a. period of five years from May 16, 1922. The rent reserved by the lease was the sum of $40 per month, beginning June 1, 1922', and payable on the first day of each month thereafter, except that on October 1st of each year the sum of $800 was payable. The lessees made the monthly payments of rental up to the first October payment. In the month of September a large stock of hay belonging to them was burned and they received $432 insurance thereon, which was paid by them to the defendants on account of the $800 October installment. The defendants Locke and Mason live outside of Mendocino County, and their co-owner and lessor Mrs. Nathan resided in that county and received all payments and transacted all business connected with the leased premises. At the time of the payment of the insurance money the plaintiffs notified Mrs. Nathan that they would not be able to pay the balance of the October installment and offered to give her a note for it. After some negotiations between the parties, a note was given and accepted by defendants payable twelve months after date, with the agreement that when the grain crop was planted on the premises a new note would be given secured by a mortgage on the crop. The monthly installments of rent falling due thereafter were paid by plaintiffs and accepted by defendants up to and including the one due January 1, 1923. On January 27th a constable and deputy sheriff served upon plaintiffs a notice signed by defendants, by Mrs. Nathan, informing plaintiffs that unless they vacated the premises action for possession would be begun immediately, and setting forth as the reason that a breach of the lease had been committed in not paying the installment of rent due in October, and other alleged breaches. This notice began with a “scare head” in large letters and equally large words, and directed plaintiffs to deliver possession to one E. M. Whitney as defendants’ agent. It was accompanied by a letter from Whitney on his letter-head as “United 'States Commissioner, Justice of the Peace, Notary Public, Insurance,” in which they were told that “While I do not want to commence a suit against you for possession of the property I will have to do so unless everything can be arranged satisfactory immediately.” Within a few days after the service of this notice and letter the plaintiff Miller had several meetings with Whitney, at which the latter urged Miller to vacate the premises and avoid a lawsuit. Within a week after the service of the notice defendants filed an action in Whitney’s court for $299 on account of the October installment, and attached wood on the leased premises belonging to plaintiffs. It appears that plaintiffs were ignorant and inexperienced in the law and did not know what their rights were in relation to the controversy between them and the defendants. Plaintiffs vacated the premises a few days later, and thereafter brought this action for damages for eviction.
+The case was tried before a jury which found for plaintiffs and assessed their damages at $2,500. Judgment was entered in accordance with the verdict, from which defendants appeal.
+Upon the conclusion of the plaintiffs' case defendants made a motion for a nonsuit upon the specific" ground that the evidence was not sufficient to sustain the charge of eviction. The motion was denied.
+The questions raised by this appeal are in effect the same as in the motion for nonsuit. Appellants rely in support of their position on the ease of Black v. Knight, 176 Cal. 722 [L. R A. 1918C, 319, 169 Pac. 382]. In that case the plaintiff surrendered possession of the leased premises after entry of judgment in an action of unlawful detainer brought against him by the defendant, which judgment was finally reversed by the supreme court. No execution had been issued upon the judgment and no demand for possession thereunder had been made. The court held that there was no disturbance of the plaintiff’s possession which would support a charge of eviction. The court, however, disclaimed making any definition of what facts would constitute an eviction.
+We think the plaintiffs were under all the circumstances justified in quitting the premises. The service upon them of an imposing and peremptory notice by defendants’ agent with his many and magniloquent titles; the agent’s subsequent issuance in his capacity of justice of the peace of an attachment for a debt admittedly not due which was levied upon their personal property; his repeated urgent demands that they quit possession and avoid another lawsuit, all within the space of a few days, constituted an intensive campaign against which the plaintiffs in their state of general apparent ignorance could not, and evidently were not expected to, stand. The evidence was sufficient to justify the judgment as to the eviction.
+The further contention is made that the amount of the verdict is not sustained by the evidence. It is enough to say that the evidence as to the damages suffered by plaintiffs was conflicting, and the finding of the jury will not be disturbed.
+Judgment affirmed.
+Tyler, P. J., and Cashin, J., concurred.
+A petition by appellants to have the canse heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on January 26, 1928.
+All the Justices concurred.
