@@ -1,0 +1,74 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15216"
+decided: "1947-01-06"
+citations: ["77 Cal. App. 2d 535"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of GASTON MALGOR, Deceased. BARNARD LACABE, as Special Administrator, etc., Petitioner and Respondent, v. BARNARD MALGOR et al., Appellants; BEN H. BROWN, as Administrator, etc., Respondent."]
+source_url: "https://static.case.law/cal-app-2d/77/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4453075
+cites_cases: ["100 Cal. 345", "119 Iowa 457", "139 Tenn. 397", "141 P. 922", "168 Cal. 94", "1915 D 742", "201 S.W. 515", "219 Ky. 399", "292 S.W. 1085", "34 P. 825", "38 Misc. 394", "49 Misc. 413", "52 L.R.A.N.S. 1152", "60 L.R.A. 571", "77 N.Y.S. 924", "93 N.W. 344", "97 Am.St.Rep. 324", "99 N.Y.S. 830"]
+---
+
+# Lacabe v. Malgor
+
+## Majority (THE COURT. BY THE COURT)
+
+THE COURT.
+Gaston Malgor died intestate on September 9, 1944, survived by a brother, a sister, a half-brother, and a half-sister, who were citizens and residents of France. On September 11, 1944, Barnard LaCabe, a friend of decedent, was appointed special administrator of decedent’s estate. The order so appointing him recited, among other things, that he was appointed “to take charge of the funeral of the deceased and charge the estate therewith.”
+He arranged for the funeral with the undertaking firm of Godeau & Martinoni, which firm performed the undertaking services. On September 26, 1944, that firm filed a creditor’s claim with the special administrator for $3,101, which amount included $2,500 for a casket. He approved the claim on September 27th. On January 4, 1945, the public administrator was appointed administrator. The special administrator filed his final account on February 20,1945, reciting therein, among other things, that he had made the arrangements for the funeral, that he had approved the undertakers’ claim, that he claimed credit for the amount thereof, and prayed that the account be allowed and that he be ordered to pay the claim.
+Objections to the account were filed on behalf of the brothers and sisters of decedent by a member of the California Bar, who was designated by the Alien Property Custodian of the United States to represent them, they being citizens and residents of Prance and at that time being in enemy-occupied territory. The objections were made upon the grounds that the claimed credit of $3,101 for funeral expenses was in excess of the standard of living adopted by the decedent, was disproportionate to the value of the estate, and was unreasonable. The court allowed, settled, and approved said account. The objectors, through the attorney designated by the Alien Property Custodian to represent them, appeal from the judgment.
+They contend that the court is without jurisdiction to allow credit for funeral expenses in the final account of a special administrator. They state that under the provisions of section 463 of the Probate Code the powers of a special administrator are limited to taking possession of and preserving the estate, selling perishable property, and borrowing money. They argue that the probate court is without authority to enlarge upon the powers conferred by the code. It is to be noted that said section 463 also provides that a special administrator may “exercise such' other powers as are conferred upon him by his appointment." His appointment, as above shown, conferred upon him power to take charge of the funeral and charge the expenses of it to the estate. At the time the special administrator was appointed, it appears that no person who was entitled, under section 7111 of the Health and Safety Code, to the custody of the remains for the purpose of interment was available to take charge of the funeral, and it was necessary that someone be authorized to perform that duty. Appellants concede that the court acted within its jurisdiction in appointing the special administrator to take charge of the funeral, but they contend that the court did not have jurisdiction to allow him credit for any expenses incurred pursuant to the authority conferred upon him by the court. The conferring of power to incur funeral expenses should include also the right to obtain credit therefor. The court, in addition to having jurisdiction to authorize him to take charge of the funeral, had jurisdiction to authorize him to charge the estate with the expenses thereof. He acted under the power so conferred upon him. The court had jurisdiction, in settling the account of the special administrator, to allow him credit for funeral expenses.
+Appellants contend further that the sum claimed for funeral expenses is unreasonable, disproportionate and not in keeping with decedent’s standard of living. Decedent’s estate consisted of $21,520.25 in cash, and $1,900 in United States Savings Bonds, making a total of $23,420.25 in cash and bonds. The total credits of the special administrator, not including the undertaker’s charge, amounted to $479.72. The claim of the undertakers had been allowed by the special administrator but had not been presented to a judge for approval prior to its presentation in the account. It was itemized as follows:
+“Estate of Gaston Malgor, deceased,
+“To GODEAU & MARiTINONI, Dr.
+1944
+Sept. 26 To solid cast iron metal casket with ivory
+velvet tailored interior $2,500.00
+Professional services and care of remains:
+Coroner fee pd. by us 15.00
+Shaving 1.00
+Bathing of body 5.00
+Dressing 5.00
+Cosmetics and manicure 5.00
+Treatment of Tissue Gas 50.00
+Gasketing of body 10.00
+Additional care 3 days 15.00
+Ambulance to Coroner’s office 5’00
+Candles 5.00
+Gloves and boutonniers for pallbearers 12.00
+Funeral notices in Times, Examiner,
+Herald 24.00
+Organist and soloist at Rósary and Funeral 25.00 Auto for clergyman, Rosary and Funeral 11.00
+Limousine Service Funeral 11.00
+Burial Permit Fee 1.00
+Arrangement of Flowers at Rosary and Funeral 10.00
+Cartage of Flowers to Cemetery 11.00
+Memorial Records, including printing 10.00
+Memorial book & register 7.50
+Use of slumber room, chapel & equipment 50.00
+Funeral Direction, including director and 4 assistants 100.00
+Motorcycle escort 5.00
+Auto to Puente & return 17.50
+Telegram 2.00
+Notification to Aunt, Cousin & out-of-town partners 15.00
+Auto & Driver at disposal of Administrator Clothing: Undershirt, Shorts, Shirt, Tie, 25.00
+socks & Shoes 14.00
+Suit 35.00
+Vault 61.50
+Calif. State Sales Tax 37.50
+$3,101.00”
+Other expenses of the funeral were $245 for a grave and interment, $35.87 for a casket spray.
+Section 7101 of the Health and Safety Code reads as follows: “When any decedent leaves an estate in this State, the reasonable cost of interment and an interment plot of sufficient size to constitute a family plot and memorial, including reasonable sums for either, or both, general and special perpetual care of the plot proportionate to the value of the estate and in keeping with the standard of living adopted by the decedent prior to his demise, together with interest thereon from the date of interment, shall be considered as a part of the funeral expenses of the decedent and shall be paid as a preferred charge against his estate as provided in the Probate Code. . . .”
+It is the duty of the executor or administrator to attend to a decent and proper interment of the remains of his decedent in a manner suitable to his estate and station in life; and a reasonable and judicious expenditure for this purpose will always be allowed. ‘' The amount allowed for the expenses of the funeral and the monument should be governed by the custom of people of like rank and condition in society; a distinction being made in this respect, however, between solvent and insolvent estates.” (In re Weringer, 100 Cal. 345 [34 P. 825].) The fact that the services and merchandise may have been of the reasonable value of the charge made therefor is not a sufficient reason for allowing the claim. (Golden Gate Undertaking Co. v. Taylor, 168 Cal. 94-101 [141 P. 922, Ann.Cas. 1915 D 742, 52 L.R.A.N.S. 1152].) In the application of these rules the courts have consistently withheld approval of excessive claims for funeral expenses. (Foley v. Broeksmit (1903), 119 Iowa 457 [93 N.W. 344, 97 Am.St.Rep. 324, 60 L.R.A. 571] ; Burgess & Walter v. Thomas’ Administrator (1937), 219 Ky. 399 [292 S.W. 1085] ; Wiles Bros. & Co. v. Wynne (1918), 139 Tenn. 397 [201 S.W. 515] ; In re Kiernan (1902), 38 Misc. 394 [77 N.Y.S. 924] ; In re Primmer’s Estate (1906), 49 Misc. 413 [99 N.Y.S. 830].)
+It was the duty of the Alien Property Custodian, representing the heirs of decedent, to object to the claim of the undertakers. The amount claimed was, in our opinion, grossly in excess of what would have been a fair and reasonable expense of funeral services and burial of the decedent, considering his manner of living, his station in society, and the condition of his estate.
+The special administrator should have considered these conditions and arranged a funeral that would have been suitable to the manner in which Mr. Malgor had lived. He apparently disregarded them entirely and also was unmindful of his duty to save the estate from unnecessary expense. The fact that he presumably acted in good faith does not alter the situation. The undertakers who sold their services and merchandise should have known the limitation which the law places upon the authority of an executor or administrator in. arranging funerals. They should not have extended credit for an extravagant funeral. It may be presumed that a man expects to be accorded a funeral in keeping with the manner in which he has lived. If he has other wishes he may express them. Mr. Malgor gave no directions either written or oral. Nothing was brought forward to indicate that he would have desired an elaborate and expensive funeral. It was not justified by the manner in which he had lived. His life in a trailer in the Imperial Valley was not one of ease or elegance. He had to cook for himself as he traveled with his sheep and he chose the hardship of that life in preference to a more comfortable existence. He accumulated his small fortune by hard work and frugality. A witness for the undertakers testified that the special administrator had told him that Mr. Malgor was fond of the better things of life, as if this fact alone justified his burial in a $2,500 solid cast iron casket with ivory velvet tailored interior. But the better things of life which he enjoyed, so far as shown by the record, were a room in a hotel at a dollar a day, when he came to Los Angeles, and a meal costing a dollar and a quarter. These were, in fact, the better things of his simple life, but they did not indicate a desire that he be laid away under the auspices of a funeral director with four assistants at a cost of $100. His social standing was fixed by the manner in which he lived. Being isolated from the associations which men usually enjoy, he held no position in the social or political scale which called for an ostentatious and costly funeral. The thought that was given to the matter of expense appears to have run, not in the direction of effecting any saving, but in the opposite direction. If $2,500 was a reasonable sum to expend for a east iron casket for the remains of the frugal Mr. Malgor, what would have been an unreasonable sum? It was quite necessary that the body be placed in the casket (for which the charge was only $10) but we cannot see that it was necessary for the special administrator to have a car and driver at his disposal at a cost to the estate of $25. Other items might be pointed out which indicate that the special administrator and the undertakers were not concerned as to whether the charges that were being levied against the estate were in a reasonable amount. The rights of the absent heirs appear to have been given no consideration. The cost of this lavish interment amounted to slightly less than 15 per cent of the net estate. The cost of a decent and appropriate funeral is a proper charge against the estate, however small, but there were no circumstances in the present case which justified the appropriation of 15 per cent of the estate for that purpose. The heirs in France, who will bear the cost, eventually, were not consulted. Even if they had been fully advised as to their rights, and had consented to the arrangements, they would have been without authority to bind the estate.
+The court should of its own motion take action to disallow unreasonably large claims for funeral expenses. The relatives of a decedent would naturally be reluctant to offer objections, even though the amount charged was manifestly excessive. If there is to be extravagance, such as we see running throughout the claim in question, it must be at the expense of those who insist upon it. The estate may not be charged with it.
+We are not unmindful of the fact that funeral arrangements are usually made by the family and relatives to whom the estate of the deceased will pass and who will ultimately bear the expense. Due consideration should be given to their judgment as to what would be a suitable funeral, although the court must exercise independent judgment as to what would be a reasonable expense. But where an administrator or executor acts entirely upon his own responsibility he should be careful to involve the estate in no unnecessary expense in arranging a suitable funeral. Burial expense of three hundred dollars is allowed under the Workmen’s Compensation Law. While this does not set a standard for the allowance of claims in probate, each ease depending upon the considerations which we have mentioned, it is a recognition of the fact that a decent burial may be had for three hundred dollars. .
+It is ordered that if the special administrator, Barnard Lacabe, shall, within'10 days after the filing of this opinion, file with the clerk of this court written consent to the modification of the order approving his first and final account as special administrator, so as to approve the claim of the undertakers for $750 and credit the special administrator with the sum of $750, instead of the sum of $3,101, for funeral expenses of decedent, the superior court will be directed to modify said order accordingly, and that if said written consent to modification be not filed within said time, the order settling said first and final account will be reversed, appellants in either event to recover costs.
+Reporter’s Note: On January 27, 1947, the following order was filed:
+BY THE COURT
+No written consent to modification having been filed within the time prescribed in the opinion herein, it is ordered that the order settling said first and final account be, and it is hereby, reversed. Appellants to recover costs on appeal.
