@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3683"
+decided: "1921-01-24"
+citations: ["51 Cal. App. 148"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSIE PHOENIX, as Administratrix, etc., Appellant, v. DOROTHY GIBSON, as Administratrix, etc., Respondent."]
+source_url: "https://static.case.law/cal-app/51/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094537
+---
+
+# Phoenix v. Gibson
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+This is an appeal from a judgment in favor of the defendant upon her cross-complaint in an action to quiet title to certain real estate. The action was one originally begun by one Hilario or “Joe” Lopez, who died during its pendency, and the present plaintiff, as the administratrix of his estate, was substituted in his place. Lopez was during his lifetime the owner of the property in question, but it is averred by the defendant in her cross-complaint that an agreement had been entered into between said Lopez and one William Gibson, of whose estate she is administratrix, that said William Gibson would improve and rebuild a dwelling-house upon said premises, and that after the same had been completed the property should be sold, and from the proceeds of such sale said William Gibson should be reimbursed for the moneys expended by him in making said improvements, and that said Gibson had performed his part of said agreement at an expenditure of the sum of twelve hundred dollars, no part of which had been paid. The plaintiff denied these allegations, and upon the issues thus raised the cause went to trial, at the conclusion of which the trial court made its findings in favor of the defendant upon her said cross-complaint, and thereupon entered judgment directing that the property in question be sold, and that from the proceeds of such sale the defendant be paid the sum of twelve hundred - dollars, together with her costs. It is from this judgment that the present appeal has been taken.
+The first point urged by the appellant is that the evidence is insufficient to justify the finding of the trial court as to the existence of the agreement upon which the defendant predicates her right of recovery. The proof of the agreement in question principally consisted in certain letters claimed by the defendant to have been written by said Lopez to William Gibson, the most important of which was a letter couched in the following terms:
+“Taft, Cal., Jan. 16, 1917.
+“Mr. Gibson:
+“In reply to your note in regards to the property, you go ahead and fix things up and pay the taxes and when I come over we will try and sell it and you can get your money out. I haven’t seen or heard from the girls for some time.
+“Tours respectfully,
+“Mb. Lopez.”
+This letter appears upon its face to be an answer to a note or letter written by Gibson to Lopez, with the contents of which we are not made acquainted, and both of these were preceded by another letter from Lopez, which reads as follows:
+“Taft, Cal., Oct. 9, 1915.
+“Mr. Gibson:
+“In regards to note about that property you go ahead and build you a house on 25 feet of it, and you can have it. You beep the taxes paid up in full. I went to Bakersfield to see Lola, but she was away, so if you want to pay the taxes and take twenty-five feet of that lot you can. As ever and respectfully—if you pay the taxes let me know.
+“Joe Lopez.”
+This letter also appears to be an answer to a communication of some sort from Gibson, the purport of which can only be inferred from the reply of Lopez. The authorship of these letters from Lopez was denied by him while a witness during the trial, and the proof of their authenticity rests upon a comparison of the signatures of Lopez with his admitted signature to other documents. The trial court had the original of each of these signatures before it, and had also before it the witness Lopez, whose testimony in relation to his ability to write and to his having:,made the agreement with Gibson was quite materially impeached upon cross-examination. From our own examination of these signatures we are of the opinion that the conclusion of the trial court as to the genuineness of the letters of Lopez is sufficiently supported by the evidence in the case, and will not, therefore, be disturbed upon appeal.
+The next question before us is as to whether or not these letters of Lopez afford sufficient proof of the agreement upon which the respondent relies to justify the court’s findings as to the nature and effect of said agreement. It must be conceded that these letters, and especially the one under date of January 16, 1917, upon which the respondent chiefly depends, are indefinite as to the nature and extent of the work of improvement which Gibson was to do in relation to the building already upon the premises. This uncertainty would probably have been removed had the note of Gibson to which this particular letter was a reply been produced. It, however, was in the possession of Lopez, if in existence, which Lopez denied, and of which he also failed or refused to disclose the contents. His subsequent acts and conduct, however, in relation to the work which Gibson actually did in the way of improving the property shed a strong light upon the understanding between the parties as to what the proposed improvements were to be at the time Gibson was directed to “Go ahead and fix things up,” in the words of the letter of January 16, 1917. We are of the opinion that taking all these things into consideration the trial court was justified in making its findings to the effect that such an agreement as the defendant pleaded in her cross-complaint was made.
+This brings us to the appellant’s concluding contention, which is that the evidence is insufficient to show that it was the intention of the parties to the said agreement to create a lien in Gibson’s favor for the value of the work which he was to do in improving the building upon the premises in question. The trial court, however, does not so find, nor do we think such a finding was necessary to sustain that portion of its judgment which directs a sale of the premises and the payment from the proceeds of such sale of the amount due the estate of Gibson. All that the trial court did was to find that there was an agreement between the parties that after the improvement of the premises had been made the property was to be sold, and that out of. the proceeds of such sale the costs of such improvements were to be paid. The letter of Lopez dated January 16, 1917, justifies the making of this latter finding, and all that the trial court undertook to do in this equitable proceeding was to carry this portion of the agreement between the parties into effect. We are pointed to no authority which denies this power to a court of equity, and have no doubt that it existed in the particular case before us in the absence of any intervening rights of other parties.
+The claim of the appellant that the judgment was excessive was not made to the lower court upon her motion for a new trial, and is urged for the first time upon appeal. It therefore comes too late, and even if it were otherwise, our inspection of the record satisfies us that said claim is devoid of merit.
+Judgment affirmed.
+Kerrigan, J., and Waste, P. J., concurred.
