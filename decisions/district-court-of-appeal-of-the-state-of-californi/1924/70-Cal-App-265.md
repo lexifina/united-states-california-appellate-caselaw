@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4905"
+decided: "1924-12-16"
+citations: ["70 Cal. App. 265"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS A. HUGHES, Respondent, v. MARY C. DeMUND, Appellant."]
+source_url: "https://static.case.law/cal-app/70/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2161707
+cites_cases: ["118 Cal. 234", "141 Cal. 71", "142 Cal. 295", "179 Cal. 669", "180 Pac. 937", "191 Cal. 209", "197 Pac. 361", "215 Pac. 1025", "22 Pac. 1113", "5 Cal. App. 380", "50 Pac. 305", "51 Cal. App. 589", "74 Pac. 448", "75 Pac. 831", "82 Cal. 425", "90 Pac. 470"]
+---
+
+# Hughes v. DeMund
+
+## Majority (CRAIG, J.)
+
+CRAIG, J.
+This is an appeal from an order of the superior court dismissing a motion for new trial, and the respondent moves this court to dismiss the appellant’s bill of exceptions upon the ground that there is no appeal from such order.
+The respondent filed suit praying dissolution of an alleged partnership between the parties, and an accounting, and upon the trial the lower court found that a partnership existed, and that it owned certain real estate, and that a mortgage executed between the partners was invalid; an interlocutory decree was made and entered, reciting the facts found, directing an accounting, and stating that “upon such accounting being had the court will make and cause to be entered its final decree in this matter.” Said interlocutory decree was entered February 2, 1924, and on February 13, 1924, appellant served and filed a notice of intention to move for a new trial; on March 13, 1924, appellant served notice that she would move the court on March 19th for a new trial; such motion was continued until April 3d, and on this latter date, before the motion was heard, respondent moved that the motion for new trial be dismissed upon the ground that the same was premature, that no accounting had been taken, and that the superior court was without jurisdiction to act upon appellant’s motion. The motion for dismissal was granted, and appellant contends, first, that the judgment which was entered is not interlocutory, but final in its nature. However, she insists that it is not material to the determination of the present appeal whether the judgment is interlocutory or final, that in either event she is entitled to have her motion for new trial presented and heard upon its merits. In this behalf it is asserted that section 659 of the Code of Civil Procedure clearly provides for the making of a motion for new trial before the entry of judgment. This is true, but the judgment which that section contemplates as one which a motion for new trial may precede is a final judgment. That section and those preceding and following it having to do with new trials presuppose that the action has been prosecuted to a point where ultimate findings have been made as the basis for a final judgment. Title XIII of the Code of Civil Procedure regulates the method of review of all other judgments or orders than those which are made final. (See. 936, Code Civ. Proc.)
+In the case at bar the trial court found as conclusions of law that “plaintiff is entitled to an interlocutory judgment dissolving said partnership and decreeing that an accounting of the said partnership business be had between plaintiff and defendant and that upon such accounting being had a final judgment in this action be entered in accordance with the facts found upon such accounting.” It was held in Clement v. Duncan, 191 Cal. 209 [215 Pac. 1025], that “under all the authorities such a decree is not final,” and that it is not appealable.
+The order dismissing the motion for a new trial was in effect an order denying the motion (Galbraith v. Lowe, 142 Cal. 295, 299 [75 Pac. 831]), and it has repeatedly been held that there is no right of appeal from an order denying a motion for new trial, but that such order is reviewable upon an appeal from final judgment. (Jones v. Baxter, 51 Cal. App. 589 [197 Pac. 361]; Roberts v. Colyear, 179 Cal. 669 [180 Pac. 937].)
+However, it is difficult to perceive why respondent should have moved to dismiss the bill of exceptions settled by the trial court, instead of making a motion to dismiss the appeal. No attempt is made to question the regularity of any step in the appellate procedure which resulted in bringing the matter before this court for review; in particular, no claim is made that the bill of exceptions was not regularly settled and filed on appeal. Throughout this proceeding respondent therefore admits that the appeal itself was properly perfected, but alleges as reasons why the bill of exceptions should be dismissed that the decree entered by the superior court was an interlocutory one and that the order denying the motion for new trial was not an appeal-able order. The bill of exceptions is no more subject to a motion to dismiss or to strike than would be the notice of appeal, the judgment-roll, or the undertaking. It would be a useless proceeding to strike from the record any one of these and yet leave the appeal pending.
+But, since it appears that the order from which the appeal has been taken is not an appealable one,, this court has no jurisdiction of the subject matter thereof, and under such circumstances the appeal will be dismissed. (Tingley v. Otis, 141 Cal. 71 [74 Pac. 448]; People v. Oakland Water Front Co., 118 Cal. 234 [50 Pac. 305]; Reymert v. Smith, 5 Cal. App. 380 [90 Pac. 470]; Bienenfeld v. Fresno Milling Co., 82 Cal. 425 [22 Pac. 1113].)
+The appeal is dismissed.
+Finlayson, P. J., and Works, J., concurred.
