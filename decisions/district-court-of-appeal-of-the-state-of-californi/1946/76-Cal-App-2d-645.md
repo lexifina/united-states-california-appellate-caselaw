@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1974"
+decided: "1946-10-29"
+citations: ["76 Cal. App. 2d 645"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. MANUEL THOMAS TOMASELLO, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/76/cases/0645-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4477350
+cites_cases: ["147 P.2d 94", "162 P.2d 38", "198 Cal. 112", "243 P. 667", "63 Cal.App.2d 586", "71 Cal.App.2d 114"]
+---
+
+# People v. Tomasello
+
+## Majority (ADAMS, P. J.)
+
+ADAMS, P. J.
+Defendant was convicted by a jury of robbing one Ernie Paullo of the sum of $2,200, the defendant being at the time armed with a pistol. On this appeal from the judgment, no motion for a new trial having been made, it is contended that the conviction is not sustained by the evidence, but is contrary thereto, it being urged particularly that defendant’s testimony and that of certain of his relatives established an alibi for defendant, and was of such a character as to render the testimony of the prosecution witnesses inherently improbable.
+There is no merit in such contention. Ernie Paullo, the complaining witness, testified that on October 7, 1945, he was employed at the Horseshoe Club in Stockton. About 1:30 a. m. he closed the place, leaving a janitor and a dishwasher in the building. As he approached his car which was parked alongside the club, he received a command, from one of two men, to stick up his hands. Thereupon Tomasello ordered him to open the door of the club, which he did. The three then entered and a demand was made for money which the two men proceeded to take from the cash register and cash drawers. Paullo, the janitor and the dishwasher were then forced into another room, and were tied up with some towels and aprons. The two men then departed with the money. This witness positively identified Tomasello as did the janitor and the dishwasher, and the latter two corroborated the testimony of Paullo. A woman who worked in the club as a waitress also identified defendant as a person she had seen there between 7:30 and 8:30 p. m. on October 6th.
+Defendant, testifying on his own behalf, denied that he had ever been in the Horseshoe Club, and categorically denied the testimony of the prosecution witnesses. He further testified that he was at his mother’s home in San Jose the night of the robbery; that he had arrived there the evening of October 6th on his way back from Oregon, traveling by automobile; that he went to San Francisco the morning of October 7th with his brother and the latter’s “girl friend,” and there sought and secured employment on a ship. He produced a paper dated October 8, 1945, which ordered Ms assignment to a designated ship, and also a pass to the ship (undated). On cross-examination he stated that it was on the 8th that he had gone to San Francisco and that he had spent the 7th at San Jose. For the purpose of impeachment, statements he had made to the district attorney shortly after his arrest in January, 1946, in which he had said that he had gone to San Pedro on October 7th, 1945, and returned after spending about five hours there, were introduced. But defendant denied at the trial that he had gone to San Pedro or that he had ever so stated.
+Defendant’s mother, called for the defense, testified that defendant had come to her home in San Jose about 6 o’clock in the afternoon of October 6, 1945, that he was there the next day, Sunday, and that he left on Monday morning with his brother and a girl, on his way to San Francisco to “sign up.’’ Defendant’s brother also testified that defendant arrived in San Jose on the 6th, had dinner with his mother, the brother and a sister, slept with the brother that night, was there on Sunday, and went to San Francisco on Monday when they both signed up for service in the merchant marine. Defendant’s sister also testified, stating that when she arrived at her home in San Jose after work, on the 6th, defendant was there and that he remained there until Monday morning when he went to San Francisco.
+Defendant admitted that he had previously been convicted of robbery of the second degree, had been paroled from San Quentin, but had violated his parole and was, at the time of his trial, serving the remainder of his original term at Folsom Prison.
+In view of the conflict presented by the evidence as above outlined, it cannot be said that the verdict of the jury or the judgment of the trial court is without support in the evidence. It therefore presents no question for review by an appellate court. The testimony of the prosecution witnesses was not rendered inherently improbable because it was contradicted by witnesses for the defense. (People v. Jackson, 63 Cal.App.2d 586 [147 P.2d 94].) The weight to be given the testimony of the witnesses and their credibility were matters for the jury’s determination. In People v. Foster, 198 Cal. 112, 117, 127 [243 P. 667], where an alibi was relied upon by the defendant in a robbery case, the court said that the alibi testimony was to be considered along with all the other evidence in the case; and a judgment of conviction was affirmed, though the mother of the defendant, three brothers and two sisters were called in support of his alibi defense, as against the testimony of one witness for the prosecution who identified defendant as the person who committed the crime. Also see People v. Bradley, 71 Cal.App.2d 114, 119 [162 P.2d 38], and cases there cited.
+The judgment is affirmed.
+Peek, J., and Thompson, J., concurred.
