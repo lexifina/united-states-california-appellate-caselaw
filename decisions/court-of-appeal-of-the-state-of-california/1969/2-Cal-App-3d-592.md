@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 15937"
+decided: "1969-12-12"
+citations: ["2 Cal. App. 3d 592"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. MARSHALL DOUGLAS, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/2/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4395201
+cites_cases: ["263 Cal.App.2d 575", "437 P.2d 489", "454 P.2d 36", "66 Cal.Rptr. 1", "68 Cal.2d 299", "69 Cal.Rptr. 861", "70 Cal.2d 410", "77 Cal.Rptr. 460"]
+---
+
+# People v. Douglas
+
+## Majority (JEFFERSON, J.)
+
+Opinion
+JEFFERSON, J.
+Defendant was convicted by the court of possession of marijuana (Health & Saf. Code § 11530) and granted probation. He appeals, contending that the evidence against him was obtained as the result of an unlawful entry by officers who failed to comply with the provisions of Penal Code, section 844.
+The case was submitted to the court on the transcript of the preliminary examination following the denial of defendant’s motion to suppress evidence under Penal Code section 1538.5. Defendant testified at the hearing on the section 1538.5 motion. The single witness who testified at the preliminary examination was Officer Smith.
+On March 25, 1968, at about 6:20 p.m. Officer Smith received a. phone call. A male voice which he did not recognize stated, “There is a man seated at the kitchen table at 906 East 25th Street, rolling marijuana cigarettes.” After the caller hung up Smith and another officer drove to 906 East 25th Street. Smith observed that the address was a large old residence which had been converted into a rooming house. Smith and the other officer then walked down a sidewalk which ran alongside the house and the adjacent property. They came to a window about halfway down the building. The drapes were pulled back. Looking through the window Smith observed defendant seated at a table smoking a brown paper-wrapped cigarette and rolling numerous brown paper-wrapped cigarettes. While Smith remained at the window the officer with him walked around to the front door of the house. Smith then observed defendant get up, remove all of the items from the table and take them into the bathroom where he placed them underneath the bathtub. Smith’s partner officer then entered the room with defendant. The officer went into the bathroom and picked up the items defendant had placed under the bathtub. After making these observations Smith went around to the front of the house and was admitted by a man called Red who had been sitting outside on the front porch. Red told him that he ran the place. Defendant was arrested and the evidence seized. It was subsequently determined to be marijuana and introduced against defendant at the preliminary hearing.
+Officer Smith testified that he could not see the front door of the house from where he was stationed outside the window watching defendant; he did not know whether the man named Red admitted his partner officer to the house; he did not know how his partner got into the house; neither Red nor his partner were visible from his location; he himself was admitted by Red when he went to the front door after he saw his partner was in the room with defendant.
+On this record the prosecution has not discharged its burden of establishing the legality of the entry. There is nothing to show that the officer who first entered the house and seized the evidence complied with Penal Code, section 844, requiring that he first identify himself, demand admittance and explain his purpose. Nor is there any evidence to support a finding excusing noncompliance. (See People v. Rosales, 68 Cal.2d 299 [66 Cal.Rptr. 1, 437 P.2d 489].)
+The People assert that compliance with section 844 was not required because the evidence shows the area where the officer entered was a “common area” where defndant could have no reasonable expectation of privacy. As pointed out above in the statement of the facts, Officer Smith testified that the building in question was a single family residence converted into a rooming house with single kitchen and bathroom facilities used jointly by the roomers. Smith further related that, after seeing defendant through the window rolling what appeared to be marijuana cigarettes, his partner went around to the front of the house to secure entry while he remained stationed outside watching defendant. Since his partner never testified, the record is barren of details as to how that officer gained entry or what route he took to get to the area of the kitchen and bathroom where he found defendant and the contraband. Even assuming that the officer did not have to pass through any of the rooms of any of the tenants to get to this location, we conclude that the area of the house in which the officer entered was a constitutionally protected area.
+The line of cases relied on by the People all involved entries into common hallways, stairways or garages, areas in which a person would clearly have no reasonable expectation of privacy. (See People v. Terry, 70 Cal.2d 410 [77 Cal.Rptr. 460, 454 P.2d 36]; People v. Seals, 263 Cal.App.2d 575, 577-579 [69 Cal.Rptr. 861].) The People have cited no case nor have we found any which has extended the application of the so-called “common hallway” doctrine to jointly used living areas of rooming or boarding houses. Here, although defendant could reasonably expect to have his privacy invaded by one of the other roomers or his guests, the kitchen and bathroom were not open to others. The area entered could not be regarded as a “relatively public” place. (See People v. Seals, supra, at p. 579.)
+The judgment (order granting probation) is reversed; the purported appeals from other orders are dismissed.
+Files, P. J., and Kingsley, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied February 5, 1970. McComb, J., was of the opinion that the petition should be granted.
+Defendant’s in propria persona notice of appeal which states that he is appealing from the judgment rendered against him, the order denying his motion for new trial (a nonappealable order) and “the judgment of conviction after a plea of guilty” (no such plea having been entered), is treated as an appeal from the order granting him probation, deemed a final judgment for purposes of appeal. (Pen. Code, § 1237, subd. 1.)
