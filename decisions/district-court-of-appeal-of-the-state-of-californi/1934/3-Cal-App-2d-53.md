@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1824"
+decided: "1934-12-14"
+citations: ["3 Cal. App. 2d 53"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of HARRY FERRARI for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app-2d/3/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257809
+cites_cases: ["104 Pac. 448", "105 Cal. 39", "129 Cal. App. 618", "153 Cal. 767", "156 Cal. 349", "187 Cal. 437", "187 Pac. 1077", "19 Pac. (2d) 27", "202 Pac. 661", "246 Pac. 557", "38 Pac. 538", "45 Cal. App. 501", "55 Cal. 212", "77 Cal. App. 301", "96 Pac. 804"]
+---
+
+# In re Ferrari
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+A complaint was filed against the petitioner in the Justice’s Court of San Jose Township, Santa Clara County, purporting to charge a violation of State Liquor Control Act, Statutes of 1933, chapter 658, page 1697. He was arrested and tried before the court, a jury having been waived. The trial court found him guilty and entered a judgment of conviction. The petitioner appealed to the superior court and the judgment was affirmed. Thereafter he applied to this court for a writ of habeas corpus, claiming that the trial court exceeded its jurisdiction.
+The complaint alleges that “ ... on or about the 14th day of May, A. D. 1934, a misdemeanor, towit, a violation of the State Liquor Control Act, was committed by Harry Ferrari, defendant, as follows, towit: The said defendant did, at the time and place aforesaid, wilfully, and unlawfully sell certain intoxicating liquor, towit, whisky, which said sale of intoxicating liquor was then and there prohibited and unlawful. ...” It is conceded that under the provisions of the statute sales of whisky may be made legally. But it is claimed by the district attorney that it is unlawful"to sell whisky in broken packages or to be consumed on the premises where the sale is made. However, no attempt was made to allege that the sale complained of was the sale of a broken package or that the sale was made of whisky to be drunk on the premises. In other words, the complaint is consistent with the innocence of the petitioner to the same extent that it is with his guilt. In the ease of Ex parte Greenall, 153 Cal. 767 [96 Pac. 804], the court was called upon to construe a pleading which attempted to allege a violation of the Medical Act, Statutes 1907, page 252. There, as here, the question arose as to whether the pleading purported to state a cause of action. On page 770 [153 Cal.] Mr. Justice Angellotti, writing the opinion of the court, said: “As we read the act, the allegations of the complaint in the justice’s court in this case are entirely consistent with the innocence of the defendant of any violation of its provisions. It therefore fails to show a public offense.” In the case entitled In re Culver, 187 Cal. 437, at page 439 [202 Pac. 661], the court said:
+“It is true, as petitioner contends, that it is a settled rule in habeas corpus proceedings that a court may determine whether or not a complaint in a justice’s court in a criminal proceeding states facts sufficient to constitute a public offense. (Ex parte Kearny, 55 Cal. 212; Ex parte Greenall, 153 Cal. 767, 770 [96 Pac. 804]; Matter of Ah Sing, 156 Cal. 349 [104 Pac. 448].) ” In the case of In re Garbarini, 129 Cal. App. 618 [19 Pac. (2d) 27], the District Court of Appeal for the Third District was called upon to determine the same question with reference to a complaint purporting to plead a violation of section 626e of the Penal Code. Mr. Presiding Justice Pullen made a most thorough examination of the decisions in which the question was involved whether the pleading was sufficient or insufficient to withstand an attack under a claim that a justice’s court had exceeded its jurisdiction by basing its judgment thereon. On page 626 he stated the conclusion of the court as follows:
+“Counsel for petitioner clearly indicates the vice of the complaint by stating that the complaint as filed charges that petitioner ‘did wilfully and unlawfully kill a doe’. In view of the definition of ‘doe’ that allegation is equivalent to charging that defendant ‘did wilfully and unlawfully kill a female deer, or a female antelope, or a female hare, or a female rabbit, or a female kangaroo’, and reduced to its ultimate absurdity the charge is that defendant ‘did wilfully and unlawfully kill an animal’. We cannot say that such a complaint, would charge a public offense. Such construetion would violate the rule that a complaint must not only be consistent with the theory of guilt of the accused but must be inconsistent with the theory of his innocence. (People v. Eppinger, 105 Cal. 39 [38 Pac. 538]; People v. Lamanuzzi, 77 Cal. App. 301 [246 Pac. 557]; In re Capanna, 45 Cal. App. 501 [187 Pac. 1077].)” Thereafter a petition for a rehearing was presented but it was denied. Later an application to the Supreme Court asking that court for a hearing was also denied. It therefore appears that the complaint filed against the petitioner did not state a public offense and that he should he discharged.
+It is so ordered'.
+Nourse, P. J., and Spence, J., concurred.
