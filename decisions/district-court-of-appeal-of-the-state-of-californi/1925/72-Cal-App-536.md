@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1263"
+decided: "1925-05-07"
+citations: ["72 Cal. App. 536"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of W. H. GOHLKE for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/72/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2222262
+cites_cases: ["162 Pac. 1026", "174 Cal. 180", "26 Pac. 597", "29 Pac. 61", "8 Cal. App. 563", "93 Cal. 427", "97 Pac. 320"]
+---
+
+# In re Gohlke
+
+## Majority (KNIGHT, J.)
+
+KNIGHT, J.
+Petitioner, by this proceeding in habeas corpus, seeks to be discharged from the custody of the sheriff of Fresno County, by whom he is detained under a commitment issued out of the police court of the city of Fresno, following the making of an order holding him to answer for trial before the superior court for “the offense of felony, to wit, driving automobile without owner’s consent.” The charge against petitioner is based upon section 146 of the Motor Vehicle Act of California (Stats. 1923, p. 564), which in part reads as follows: “Any person who shall drive a vehicle not his own without the consent of the owner thereof and in the absence of the owner and with intent to either permanently or temporarily deprive the owner thereof of his title to or possession of such vehicle, whether with or without intent to steal the same, shall be deemed guilty of a felony.” The Motor Vehicle Act omits, however, to prescribe any penalty as a punishment for the commission of the felony therein declared, and upon that ground petitioner contends that the acts denounced by said section do not constitute a crime or public offense.
+It may be conceded, as petitioner claims, that a description, definition, and denouncement of the acts necessary to constitute a crime do not make the commission of such acts a crime unless a punishment be annexed, for a punishment is as necessary to constitute a crime as its exact definition (People v. McNulty, 93 Cal. 427 [26 Pac. 597, 29 Pac. 61]); and, furthermore, it may be admitted that under the rule stated in the case of In re Isch, 174 Cal. 180 [162 Pac. 1026], cited by petitioner, the'penalty provided for in section 18 of the Penal Code, which provides that “Except in cases where a different punishment is prescribed by this code, every offense declared to be a felony is punishable by imprisonment in the state prison, not exceeding five years,” may not be invoked to supply the omission complained of, for the reason that the presence in that section of the words “prescribed by this code” limits the operation thereof to those felonies declared by the Penal Code. Nevertheless, we are of the opinion that, independent of said section 18, the matter of penalty for the commission of the felony defined 'by said Motor Vehicle Act is sufficiently covered by other general provisions of the Penal Code which must be read in connection with and considered as a part of the felony defined in said act.
+Section 17 of said code declares that “a felony is a crime which is punishable with death or by imprisonment in the state prison. ...” Manifestly, the felony under consideration is not punishable with death, and therefore must be punishable by imprisonment in the state prison; that being so, the minimum and maximum duration of such imprisonment is fixed by sections 18a and 671 of said code. Section 18a reads: “Except in cases where a different minimum punishment is prescribed by law, for every offense declared to be a felony and punishable by imprisonment in the state prison, the minimum punishment shall be imprisonment in the state prison for not less than six months”; and section 671 provides: “Whenever any person is declared punishable for a crime by imprisonment in the state prison for a term not less than any specified number of years, and no limit to the duration of such imprisonment is declared, the court authorized to pronounce judgment upon such conviction may, in its discretion, sentence such offender to imprisonment during his natural life, or for any number of years not less than that prescribed.”
+It will be observed that the language of both of these sections is much broader than the language of section 18. Section 18a, which was added to the code after the Isch case was decided (Stats. 1919, p. 7), is not restricted, like said section 18, to cases of felony “prescribed by this (Penal) code,’’ but by its terms applies to all felonies except those wherein a different minimum punishment “is prescribed by law”; and section 671 contains no words of limitation whatever. The fact that the maximum penalty specified by said section 671, if inflicted, might be severe, does not in itself serve as grounds for abolishing the crime sought to be punished, because the imposition of the. maximum penalty is not imperative, and it cannot be assumed that in case of conviction a penalty wholly disproportionate to the offense will be inflicted. (People v. Hallawell, 8 Cal. App. 563 [97 Pac. 320].)
+The writ is discharged and the prisoner is remanded to the custody of the sheriff of Fresno County.
+Cashin, J., and Tyler, P. J., concurred.
