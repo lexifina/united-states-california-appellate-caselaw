@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1444"
+decided: "1935-09-12"
+citations: ["9 Cal. App. 2d 153"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of A. J. HARDER for a Writ of Habeas Corpus. A. J. HARDER et al., Petitioners, v. GEORGE W. LUCOT, Sheriff, etc., Respondent."]
+source_url: "https://static.case.law/cal-app-2d/9/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2261460
+cites_cases: ["1 Pac. (2d) 556"]
+---
+
+# Harder v. Lucot
+
+## Majority (THE COURT.)
+
+THE COURT.
+The petitioners were arrested upon a warrant issued by the justice of the peace of Township No. 1 of the county of Amador, charging them with a misdemeanor, described as follows, to wit: “Violation of Ordinance No. 184 of the Board of Supervisors of the County of Amador, warrant dated June 5th, 1935. ’ ’
+While counsel in this case have argued at length, and with considerable ability, the right of law-making bodies to prohibit peaceful picketing, and have cited a great many decisions where certain acts have been held unlawful, and certain cases wherein appears a statement that in the absence of legislation to the contrary, peaceable picketing cannot be prohibited, all of which cases we have carefully examined. Nevertheless, a consideration of Ordinance No. 184 of the board of supervisors of the county of Amador precludes our expressing any opinion as to whether what counsel has called “peaceful picketing” may or may not be prohibited.
+The ordinance in question, as shown by section 1, being the prohibitive portion of the ordinance, is so indefinite and uncertain as to render it void. That section reads: “It shall be unlawful, in Amador County and outside of incorporated cities or towns therein, to do picketing, in connection with any strike, or otherwise, upon any public highway, or upon any private property without the consent of the owner thereof. ’ ’ While there may be some question as to the power of the board of supervisors to exclude people from the public highway or from using the public highway so long as they do not obstruct the free use and passage thereof by other persons, by reason of what we are about to say it is unnecessary to decide this question. The uncertainty which renders the ordinance under consideration void is that the offense of picketing sought to be prohibited by section 1 contains no definition or description of what acts shall constitute picketing accompanied by violence.
+A reference to the case of People v. Armentrout, 118 Cal. App. (Supp.) 761 [1 Pac. (2d) 556], appellate department of the superior court, to which our attention has been called, and upon which much of the argument of counsel is based, shows that section 1 of the ordinance upheld in that ease described the acts which would constitute picketing.
+In order to be valid as an ordinance, even against peaceful picketing, under our jurisprudence it is necessary for the ordinance to define what acts shall be deemed to constitute peaceable picketing, and providing for the prohibition thereof. The ordinance must not be so indefinite as to leave within the mind of the trial court the question as to what shall constitute the prohibited acts. The court has only to ascertain whether the prohibited acts as defined have been committed by the person charged, and then to impose the penalty provided for. Likewise, it is the right of every person to know exactly what particular acts are prohibited. Under the provisions of the ordinance before us it might be held by one justice of the peace that the mere walking along the highway and observing who were going to work at any particular place, might be denominated “picketing”, and so punished, irrespective of whether any injury resulted therefrom, either to person or property, or whether anyone was either oppressed or discouraged.
+We cannot have recourse to the common law to determine prohibited acts. This rule is clearly stated in 7 California Jurisprudence, page 841, as follows, to wit: “There is no criminal common law in California. All public offenses or crimes are statutory, and unless there is in force at the time of the commission or omission of a particular act a statute making it a crime or a public offense, no one can be adjudged to suffer punishment for its commission or omission.”
+That an ordinance must clearly define the acts constituting a prohibited offense for which punishment is provided, further appears by section 28, found in 16 C. J., page 67, as follows: “The legislature, in creating an offense, may define it by a particular description of the act or acts constituting it, or it may define it as any act which produces, or is reasonably calculated to produce, a certain defined or described result; or it may group together various means by which the end may be accomplished, and make any one of such means an offense when done to attain the object denounced by the statute.” The remaining portion of the section holds that where common-law crime* have been incorporated into the criminal jurisprudence of a state, recourse may be had to the common law to determine the nature and character of the offense. This part of this section of course does not apply here.
+We find further in 7 California Jurisprudence, page 843, the following: “A statute creating a crime must define it so clearly and definitely that all may know what act or omission the violation of the law constitutes, and so that the statute can be enforced. The statute must so define the offense that a person of ordinary understanding may know therefrom when he is violating' its provisions, ’ ’ etc.
+In view of what we have said,' as it appears from the face of the ordinance, any discussion of what would constitute so-called “peaceable picketing” would simply be obiter.
+The petition is granted; petitioners discharged; and bail exonerated.
