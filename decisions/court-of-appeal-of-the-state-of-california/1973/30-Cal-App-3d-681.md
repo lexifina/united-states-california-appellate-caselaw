@@ -1,0 +1,43 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 40272"
+decided: "1973-02-21"
+citations: ["30 Cal. App. 3d 681"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RAYMOND FLORES, Plaintiff and Respondent, v. UNEMPLOYMENT INSURANCE APPEALS BOARD, Defendant and Appellant; McDONNELL DOUGLAS ASTRONAUTICS COMPANY, Real Party in Interest and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/30/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4393310
+cites_cases: ["100 Cal.Rptr. 274", "151 P.2d 233", "155 A.L.R. 405", "168 P.2d 686", "214 Cal.App.2d 586", "23 Cal.App.3d 441", "24 Cal.2d 753", "28 Cal.2d 33", "29 Cal.Rptr. 642", "4 Cal.App.3d 62", "83 Cal.Rptr. 871"]
+---
+
+# Flores v. Unemployment Insurance Appeals Board
+
+## Majority (FILES, P. J.)
+
+Opinion
+FILES, P. J.
+This is a mandate proceeding filed in the superior court by a claimant for unemployment insurance benefits to review a decision of the respondent appeals board. The superior court gave judgment ordering the appeals board to hear claimant’s case on its merits. The board has appealed from that judgment..
+The issue here involves the interpretation and application of section 1328 of the Unemployment Insurance Code which establishes the time for an appeal by a claimant after a summary administrative ruling against him.
+This appeal was brought upon the judgment roll. (Rule 5(f), Cal. Rules of Court.) The facts shown by the trial court’s findings follow:
+After the claimant was discharged by his employer on September 4, 1970, he applied for unemployment insurance benefits. On October 13, 1970, the local unemployment insurance office sent to the claimant a notice of determination, informing him that he was ineligible for benefits. The notice stated “This decision is final unless an appeal is filed on or before 10-23-0.”
+On October 14,1970, the claimant visited a legal aid office and consulted an attorney there, who agreed to handle the appeal. The attorney prepared a notice of appeal and a letter of transmittal in time to meet the October 23 deadline. But because of the large caseload processed through the attorney’s office and. the backlog of secretarial work, the claimant’s appeal was not typed and mailed out until October 25, and was not received at the unemployment insurance office until Monday, October 26.
+The referee’s decision was to dismiss the appeal upon the ground it was untimely filed. In support of this decision he found that the appeal had been prepared in time but was filed late because of the internal office procedure in the office of the claimant’s attorney, and concluded that the claimant had not shown good cause for extending the 10-day period.
+The claimant appealed to the respondent California Unemployment Insurance Appeals Board, which affirmed the decision of the referee. The claimant then commenced this proceeding in the superior court, The court bear'd the case upon the administrative record, and found that the referee’s decision was unsupported by the weight of the evidence, and that the claimant had shown good cause for extending the 10-day period. The judgment of the superior court remanded the case to the respondent board to be determined on its merits.
+Unemployment Insurance Code section 1328 provides, so far as pertinent here: “The claimant . . . may appeal [from the administrative determination) to a referee within 10 days from mailing or personal service of notice of the determination. The 10-day period may be extended for good cause.”
+The statute is ambiguous in that it does not clearly indicate whether the 10-day period can be extended only upon an application made before the period has expired, or whether the referee or board may also grant relief from default upon a showing made after the period has expired. In this case it appears that each considered the claimant’s request for an extension, even though it was received after the period had expired, without expressing any doubt about the power to do so. In two other reported cases it appears that the referee entertained (but refused to grant) a claimant’s request for relief after the 10-day period had expired. (See Perez v. Unemployment Ins. App. Bd. (1970) 4 Cal.App.3d 62, 65 [83 Cal.Rptr. 871]; Hicks v. Sheffield (1972) 23 Cal.App.3d 441 [100 Cal.Rptr. 274].)
+Although the board’s interpretation is not binding upon the courts, the interpretation of a statute by the officials charged with its administration is entitled to great weight. (See Whitcomb Hotel, Inc. v. Cal. Emp. Com. (1944) 24 Cal.2d 753, 756 [151 P.2d 233, 155 A.L.R. 405].) It is hardly necessary to mention that this particular statute is remedial and “must be liberally construed for the purpose of accomplishing its objects.” (Empire Star Mines Co. v. Cal. Emp. Com. (1946) 28 Cal.2d 33, 43 [168 P.2d 686].)
+The 10-day limitation for filing appeals-is doubtless intended to expidite the disposition of claims, but no purpose is served by imposing forfeiture where the delay is minimal and there is no prejudice to others. Where the period for filing an appeal is as short as 10 days, it is expectable that there will be some defaults due to unavoidable circumstances, inadvertence or excusable neglect. Considering the remedial nature of the statute, it seems manifest that the Legislature intended to empower the referee to hear and determine applications for relief received after the 10-day period had expired.
+Considering the explanation given for the delay, which was found to be true, and the amount of time involved, the superior court was fully justified in concluding that the referee and the respondent appeals board had abused their discretion in refusing to hear the claimant’s appeal on the merits. The superior court correctly decided that the claimant was entitled to a one business day extension under section 1328 so as to make his appeal to the referee timely.
+Three cases relied upon by the Attorney General, as attorney for the board, are readily distinguished.
+In Fermin v. Department of Employment (1963) 214 Cal.App.2d 586 [29 Cal.Rptr. 642], the claimant waited three months before filing his notice of appeal, and apparently offered no excuse for the delay. The trial court’s finding of lack of good cause was affirmed.
+In Perez v. Unemployment Ins. App. Bd., supra, 4 Cal.App.3d 62, the claimant’s delay was five months and the reason he gave was that he had initially believed the decision against him was correct. The trial court’s finding of lack of good cause was affirmed.
+In Hicks v. Sheffield, supra, 23 Cal.App.3d 441, neither the length of the delay nor the excuse, if any, offered by the claimant is stated. Again the trial court found no good cause, and its decision was affirmed.
+Here we have (1) a claimant who placed his appeal in the hands of an attorney the first day after the adverse administrative ruling, (2) an appeal one business day late because of the heavy caseload and shortage of stenographic help in the law office, and (3) a trial court finding in favor of the claimant.
+The judgment is affirmed.
+Jefferson, J., and Dunn, J., concurred.
+The subsequent proceedings before the board are of interest, though immaterial to the decision here. Since the superior court refused to stay the effect of its judgment. the appeals board promptly heard the claimant’s case on the merits, and decided that he was eligible for benefits (Appeals Board Decision No. 72-2964). Our decision here confirms the jurisdiction of the appeals board to hear and decide the case in favor of the claimant.
+The Attorney General cited to the superior court an opinion of the appeals board interpreting former section 68, subdivision (a), of the Unemployment Insurance Act (now Unemp. Ins. Code, § 1334), which provided a 10-day time limit for an appeal from the referee to the board, subject to extension “for good cause.” The board there stated that the request for an extension must be made within the 10-day period “whenever the nature of the cause for delay is such as to permit such a timely request to be made.” The opinion acknowledged that there could be circumstances which would justify a request for extension after the 10-day period had expired. {In the Matter of Yoder, Benefit Decision No. 4905, Case No. 10310, filed May 20, 1948.)
+That decision, construing a section of the law which is similar in text to the present section 1328, is further support for the view that the 10-day limitation is not a jurisdictional bar to relief later in a proper case.
