@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 17586"
+decided: "1979-01-18"
+citations: ["88 Cal. App. 3d 468"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JONATHAN S., a Person Coming Under the Juvenile Court Law. THE PEOPLE, Plaintiff and Respondent, v. JONATHAN S., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/88/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046060
+cites_cases: ["102 Cal.Rptr. 850", "498 P.2d 1098", "7 Cal.3d 592"]
+---
+
+# People v. Jonathan S.
+
+## Majority (PUGLIA, P. J.)
+
+Opinion
+PUGLIA, P. J.
+The minor appeals from the judgment (order of commitment to the California Youth Authority (CYA)) following his admission to the allegation that he committed robbery (Pen. Code, § 211).
+The petition is in two counts. Count 1 alleges a single incident in which the minor robbed six victims while armed with a firearm; count 2 alleges the minor committed an assault with a deadly weapon upon the same six victims. (The minor did not challenge the formal sufficiency of the petition. (See Welf. & Inst. Code, §§ 656, subd. (f), 656.1; rule 1309(a)(6), Juvenile Court Rules, Cal. Rules of Court; cf. Pen. Code, § 1004, subd. 3).)
+On June 13, 1977, the minor appeared before the referee and admitted count 1; the armed allegations and count 2 were dismissed. At the disposition hearing on June 28, 1977, the referee continued the minor as a ward and ordered him to participate in the juvenile court work project for 20 days commencing July 5, 1977.
+On July 19, 1977, the juvenile court judge ordered a rehearing of the disposition proceedings. That judge was subsequently disqualified (Code Civ. Proc., § 170.6) and the rehearing was conducted before Judge Morgan who, on December 21, 1977, ordered the minor continued as a ward and committed him to the CYA.
+It is conceded that the juvenile court judge has power to grant a rehearing on his own motion of any matter heard before a referee (Welf. & Inst. Code, § 253). Nor is it contended that the order was not timely. What is contended is that certain contacts of the district attorney with the juvenile court judge in the period between the referee’s disposition order and the order for rehearing constituted improper conduct on the part of the district attorney and vitiated the latter order.
+It is not necessaiy to detail the alleged activities of the district attorney and judge in this interval in order to answer the minor’s contention. Even assuming the impropriety of those activities as claimed by the minor, the latter has not been prejudiced thereby since the subsequent disposition hearing “was fully and fairly reheard de novo by a judge other than the one who ordered the rehearing.” (Donald L. v. Superior Court (1972) 7 Cal.3d 592, 599 [102 Cal.Rptr. 850, 498 P.2d 1098].)
+We do not mean, however, to dismiss the minor’s allegations of improper conduct out of hand. The events of which the minor complains appear in the record in unsworn colloquy among the deputy district attorney, the minor’s counsel and Judge Morgan in proceedings subsequent to the disqualification of the judge who ordered the rehearing. The description of these incidents is provided primarily by the deputy district attorney. We have no reason to discredit his account although we note that the juvenile court judge’s version of the same events is not before us. In any event, for present purposes we accept as true what the record tells us.
+From the record it appears that after the referee’s disposition order the juvenile court judge and the deputy district attorney discussed the legal question whether the court had jurisdiction to grant a rehearing; the deputy then researched that issue further and discussed his findings with the judge who thereafter granted a rehearing. The merits of the case were never discussed between them. The minor’s counsel was not given prior notice of these discussions and perforce did not participate therein.
+Unless expressly authorized by law, ex parte contacts between the court and counsel are always ill-advised and violate the State Bar Rules of Professional Conduct where such contacts deal with the merits of a pending, contested matter. (Rule 7-108(B), Rules Prof. Conduct.) Moreover, unauthorized ex parte contacts of whatever nature erode public confidence in the fairness of the administration of justice, the very cement by which the system holds together.
+These consequences of such conduct are incontrovertible and need no further elaboration. However, such conduct is irrelevant to the minor’s appeal. It appears that the juvenile court judge was unfamiliar with Welfare and Institutions Code section 253 (added by Stats. 1976, ch. 1068) and thought his authority to grant a rehearing was exhausted 10 days after the referee’s disposition order; this belief apparently resulted from the misapprehension that former Welfare and Institutions Code section 559 (the predecessor to § 253), as judicially interpreted before its amendment to provide 20 judicial days in which to grant rehearing, controlled the instant proceedings. The nature of the judge’s misunderstanding is implied in the deputy district attorney’s unsworn account and is to some extent corroborated by the judge’s citation of and reliance upon Welfare and Institutions Code section 559 (which by then had been replaced by § 253) in the order granting rehearing.
+Thus it appears that the subject of the district attorney’s ex parte contacts with the judge involved the power to grant a rehearing, not the exercise of the court’s discretion to do so in circumstances where the judge was certain of his authority. Viewed in the context of the judge’s uncertainty as to his clear authority to grant a rehearing, and assuming as the minor claims that but for the intervention of the district attorney a rehearing would not have been granted, the minor could not in any event have been prejudiced by the judge’s acquisition, from whatever source, of accurate knowledge of the state of the law. The minor has no vested right to perpetuation of error merely because it is to his benefit.
+■ We reject the contention that commitment to the CYA constituted an abuse of discretion. The evidence is substantial that the disposition was both in the interest of the minor and necessary to protect the public. The instant offenses involved assaultive, aggressive conduct; among his coperpetrators the minor was the leader in committing these criminal acts; he repeatedly menaced the victims by placing a gun against a victim’s head and threatening to blow his head off. The minor had a history of past offenses of increasing seriousness and had demonstrated inability to adjust on probation. In addition, there was evidence before Judge Morgan that the minor’s behavior had deteriorated even further subsequent to the referee’s disposition order of June 28, 1977.
+The judgment is affirmed.
+Regan, J., and Reynoso, J., concurred.
