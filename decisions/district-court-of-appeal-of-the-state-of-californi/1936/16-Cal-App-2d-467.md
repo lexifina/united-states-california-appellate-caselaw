@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 298"
+decided: "1936-09-15"
+citations: ["16 Cal. App. 2d 467"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. EUGENE STARK, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/16/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2275013
+cites_cases: ["107 Cal. App. 253", "127 Cal. App. 151", "128 Pac. 952", "15 Pac. (2d) 561", "185 N. W. 111", "192 Iowa, 615", "20 Cal. App. 343", "243 Pac. 67", "260 Pac. 591", "266 Pac. 1020", "271 Pac. 552", "273 Pac. 843", "290 Pac. 678", "43 Pac. (2d) 260", "75 Cal. App. 447", "86 Cal. App. 148", "91 Cal. App. 298", "94 Cal. App. 543", "96 Cal. App. 102"]
+---
+
+# People v. Stark
+
+## Majority (MARKS, J.)
+
+MARKS, J.
+Defendant was charged with the crime of setting fire to and causing to be burned a building known as “Stark’s Rustic Roadhouse” which contained a cafe, and in a second count with setting fire to insured property with intent to injure and defraud the insurer. He was convicted on both counts, was granted probation and has appealed from an order denying his motion for new trial.
+The sole ground upon which defendant seeks reversal of the order is insufficiency of the evidence to support the verdict. The reporter’s transcript contains over eleven hundred pages and no good purpose could be served by detailing the evidence or analyzing it at length. It should be sufficient to state that the evidence against defendant supports the following conclusions and reasonable inferences:
+That the building containing the cafe was leased by or through defendant for a corporation operating the cafe business, in which corporation defendant owned ten per cent of the stock; that defendant caused the furnishings and supplies to be insured for $10,000; that the business lost money continuously from the time it was opened; that on July 30, 1935, the corporation had numerous unpaid bills and little or no funds with which to pay them; that between 2:10 and 2:20 o’clock on the morning of July 30, 1935, a fire was discovered in the building; that defendant was the last person to leave the building and was in it alone before the fire was discovered; that the smoke from the fire was black and the flames dark red, of the same character as those produced by petroleum products when burning; that some refined petroleum product had evidently been spread over the dance floor of the cafe as it floated and continued to burn on top of the water which was sprayed on the floor by firemen; that there was an odor of kerosene along one of the interior walls of the building after the fire had been extinguished; that small quantities of gasoline, kerosene in glasses and an inflammable cleaning solvent were found in jugs and bottles in a storeroom in the building and there was the odor of kerosene in this storeroom; that defendant controlled the only key to this storeroom. Defendant made conflicting and untrue statements when interrogated about the fire on July 30, 1935. There are numerous other circumstances shown in the evidence that point to the incendiary nature of the fire and to the defendant as the incendiary.
+Appellant argues that the evidence is all circumstantial and that as the established circumstances can be as reasonably harmonized with his innocence as with his guilt it is our duty to reverse the judgment. We do not so' construe the evidence nor do we so understand the law governing our action. In the case of People v. Latona, 2 Cal. (2d) 7l4 [43 Pac. (2d) 260], the rule is stated as follows:
+“As before stated, the evidence as to appellant’s participation in the crime is wholly circumstantial. Guilty connection with the commission of a crime may be established by circumstantial evidence (State v. Cristani, 192 Iowa, 615 [185 N. W. 111]; People v. Kneiling, 127 Cal. App. 151 [15 Pac. (2d) 561]), and the jury had before it many circumstances from which they could draw proper legal inferences of guilt. . . . However, as was said in People v. Martinez, 20 Cal. App. 343, 345 [128 Pac. 952], if ‘the circumstances reasonably justified the conclusion of the jury as expressed in their verdict, and even though this court were of the opinion that such circumstances might be reasonably reconciled with the innocence of defendant, such fact does not warrant interference with the determination of the jury’. The case just cited has been approved in the following authorities: People v. Strauss, 75 Cal. App. 447-455 [243 Pac. 67] ; People v. Medalgi, 94 Cal. App. 543-545 [271 Pac. 552]; People v. Mitsunaga, 91 Cal. App. 298 [266 Pac. 1020] ; People v. Page, 86 Cal. App. 148-156 [260 Pac. 591] ; People v. Hector, 96 Cal. App. 102-106 [273 Pac. 843] ; People v. Frahm, 107 Cal. App. 253-266 [290 Pac. 678]. . . . The right to draw proper inferences from the evidence is a function of the jury; and as long as its conclusions do not do violence to reason, an appellate court is not permitted to substitute its finding of the ultimate fact for that reached by the constitutional as well as the statutory arbiter thereof. Circumstantial evidence may be as convincing in its force and as conclusive as the testimony of witnesses to an overt act.”
+As we have reached the conclusion that the verdict of the jury is supported by ample circumstantial evidence we cannot reverse the order denying defendant’s motion for a new trial.
+The order is affirmed.
+Barnard, P. J., and Jennings, J., concurred.
