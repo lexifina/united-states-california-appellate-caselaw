@@ -1,0 +1,47 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 40285"
+decided: "1973-01-30"
+citations: ["30 Cal. App. 3d 300"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT O. ROSENAUER, Individually and as Executor, etc., Plaintiff and Appellant, v. TITLE INSURANCE AND TRUST COMPANY, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/30/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4394085
+cites_cases: ["102 N.J.Eq. 524", "112 Cal.App. 150", "115 Pa. 198", "14 N.Y.S.2d 759", "141 A. 799", "152 Misc. 245", "164 A.L.R. 877", "172 Misc. 63", "18 A.L.R.2d 1006", "185 Mass. 288", "191 Va. 12", "273 N.Y.S. 268", "296 P. 667", "315 Mass. 457", "326 Mass. 49", "353 Pa. 499", "46 A.2d 227", "53 N.E.2d 113", "60 S.E.2d 30", "70 N.E. 89", "8 A. 64", "93 N.E.2d 238"]
+---
+
+# Rosenauer v. Title Insurance & Trust Co.
+
+## Majority (COMPTON, J.)
+
+Opinion
+COMPTON, J.
+Plaintiff Robert Rosenauer, as executor of the estate of Elizabeth Rosenauer, deceased, and as a beneficiary under deceased’s will, seeks to determine conflicting claims to the proceeds of a revocable inter vivos trust established by deceased. Defendant Title Insurance and Trust Company (TI) is trustee. The trial court sustained a demurrer without leave to amend to the first amended complaint. A judgment of dismissal followed. Plaintiff appeals.
+The trust agreement provides in Article V as follows:
+“The Trustor shall have the right at any time during her lifetime to amend any of the provisions of this Trust Agreement, or of any amendment thereto by an agreement in writing executed by the Trustor and the Trustee, and to revoke this Trust in whole or in part by an instrument in writing executed by the Trustor and delivered to the Trustee. Furthermore, notwithstanding any other provision contained in this trust instrument, the Trustor retains and shall have the right to appoint the principal, together with any income accrued or received and undistributed, of the Trust Estate as shall remain undisposed of upon her death, which power may be exercised by the Trustor’s written instrument other than a Will filed with the Trustee.” (Italics added.)
+Deceased’s will which has been admitted to Probate provides: “This will revokes the Revocable Trust Agreement dated April 27, 1965 Number PP-15545 between myself as trustor, and Title Insurance Company and Trust Company, as the trustee.”
+The will further provided: “Sixth: All funds are to come from my Trust Account at Title Insurance and Trust.” Following the admission of the will to probate, plaintiff as executor filed a copy with TI. Neither the will nor any other writing purporting to be a revocation of the trust was delivered to the trustee during the lifetime of the trustor.
+Plaintiff contends that by the execution of the will deceased effectively revoked those provisions of the trust agreement which would otherwise have been effective upon her death and that TI should deliver the trust fund to plaintiff as executor of deceased’s estate.
+Alternatively, plaintiff urges that the execution of the will constituted a valid exercise of the power of appointment so as to require distribution of the trust fund in accordance with the terms of the will rather than the trust instrument.
+TI on the other hand contends that the purported revocation was ineffective because it was not done in compliance with the trust agreement or with Civil Code section 2280 governing the revocation of trusts. It also maintains that the purported exercise of the power of appointment was ineffective because the trust agreement prohibited the exercise of such power by a will.
+The Revocation
+Civil Code section 2280 reads in part as follows: “Unless expressly made irrevocable by the instrument creating the trust, every voluntary trust shall be revocable by the trustor by writing filed with the trustee.”
+According to plaintiff this statute embodies the California preference for free alienability of property and revocability of trusts. Thus he contends that the statute should control regardless of the recitals in the trust instrument concerning the method of revocation. Plaintiff’s position is that since the statute contains no requirement that the revocation be filed with the trustee during the life of the trustor and since the statute does not exclude “will” from the definition of a “writing,” his filing of the will with the TI after the death of deceased complies with the statute.
+The issue presented appears to be one that has not been previously decided in California.
+The Restatement of Trusts, section 330(1), comment (j) provides as follows: “If the settlor reserves a power to revoke the trust only in a particular manner or under particular circumstances, he can revoke the trust only in that manner or under those circumstances. If the settlor reserves a power to revoke the trust by a transaction inter vivos, as for example, by a notice to- the trustee, he cannot revoke the trust by his will.”
+Case law throughout the country is found to be in support of the Restatement view.
+In Leahy v. Old Colony Trust Co., 326 Mass. 49 [93 N.E.2d 238, 18 A.L.R.2d 1006] the Supreme Judicial Court of Massachusetts held that a trust was not revoked by a will under facts similar to our own case. In so holding the court stated at page 240: “Plainly Jennie M. Luhrs could not alter or revoke the trust except in accordance with some power to do so reserved in the trust instrument. [Citations.] The power of amendment or revocation, reserved in the trust instrument, was a power to do so only ‘during the lifetime of said Jennie M. Luhrs.’ A will does not take effect during the lifetime of the testator, but operates only from and after his death.”
+In National Shawmut Bank of Boston v. Joy, 315 Mass. 457, 470-471 [53 N.E.2d 113], it was said: “The distinguishing feature of a testamentary disposition is that it remains ambulatory until the death of one who makes it. Until he dies, his title remains unimpaired and unaffected. A testamentary disposition becomes operative only upon and by reason of the death of the owner who makes it. It operates only upon what he leaves at his death. If the interest in question passes from the owner presently, while he remains alive, the transfer is inter vivos and not testamentary.” Accordingly, it is settled that a power to revoke “during the lifetime” of the settlor, which means by a revocation taking effect before the death of the settlor cannot be exercised by a will that in the nature, of things cannot take effect before the death of the testator.
+Also in accord are a number of cases and other authority, of which the following are but a few. (Kelley v. Snow, 185 Mass. 288, 297 [70 N.E. 89]; Stone v. Hackett, 12 Gray (78 Mass.) 227; In re Dickerson, 115 Pa. 198 [8 A. 64, 69]; In re Shaptey’s Deed of Trust, 353 Pa. 499 [46 A.2d 227, 164 A.L.R. 877]; Chase National Bank v. Tomagno, 172 Misc. 63 [14 N.Y.S.2d 759]; Mayer v. Tucker, 102 N.J.Eq. 524 [141 A. 799]; Cohn v. Central National Bank of Richmond, 191 Va. 12 [60 S.E.2d 30]; see also 4 Bogert on Trusts and Trustees, § 996; 54 Am.Jur., Trusts, § 77.)
+While Civil Code section 2280 was undoubtedly intended to liberalize the power of revocation in California we do not believe it was intended to operate as a nullification of a trustor’s plainly expressed preference for a mode of revocation.
+The thrust of the statute is to remove any doubt concerning the revocability of a voluntary trust which is silent on the subject and it cannot be construed as creating an exclusive method for the exercise of the power when as here the trust is not silent but instead quite specific.
+The Will as an Exercise of
+The Power of Appointment
+Plaintiff’s alternative theory that the execution of the will constituted a valid exercise of a power of appointment so as to require distribution of the trust fund in accordance with the terms of the will is based on section 1385.1 of the Civil Code which follows: “(a) Except as otherwise provided in this title, if the creating instrument specifies requirements as to the manner, time and conditions of the exercise of a power of appointment, the power can be exercised only by complying with those requirements, (b) Unless expressly prohibited by the creating instrument, a power stated to be exercisable by an inter vivos instrument is also exercisable by a written will.” (Italics added.)
+Thus California permits the use of a written will in exercising a power of appointment unless the trust instrument specifically forbids it. Plaintiff now asks that we interpret the language in the trust instrument “Trustor’s written instrument other than a Will . . .’’as words of inclusion rather than exclusion. This we cannot do.
+The words “other than” are synonymous with “except.” “Other than” thus creates an exception. (Words and Phrases “Other Than”; Murray v. Southern Pacific Co., 112 Cal.App. 150 [296 P. 667]; In re Nelson’s Estate, 152 Misc. 245 [273 N.Y.S. 268].) The words of the trust instrument read in effect that the power of appointment may be exercised by any instrument written by the trustor “except” a will. Such a construction is consistent with the overall tenor of the document.
+The judgment is affirmed.
+Roth, P. J., and Herndon, J., concurred.
