@@ -1,0 +1,64 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "F016109"
+decided: "1992-02-14"
+citations: ["3 Cal. App. 4th 720"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAVE MART STORES, Petitioner, v. WORKERS’ COMPENSATION APPEALS BOARD and JULIE GWIN, Respondents."]
+source_url: "https://static.case.law/cal-app-4th/3/cases/0720-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2307484
+cites_cases: ["1 Cal.3d 627", "10 Cal.3d 222", "131 Cal.App.3d 308", "161 Cal.App.3d 382", "182 Cal.Rptr. 304", "207 Cal.Rptr. 652", "215 Cal.App.3d 1477", "216 Cal.App.3d 524", "226 Cal.App.3d 867", "264 Cal.Rptr. 83", "266 Cal.Rptr. 503", "277 Cal.Rptr. 102", "463 P.2d 432", "49 Cal.Comp.Cases 482", "49 Cal.Comp.Cases 500", "83 Cal.Rptr. 208"]
+---
+
+# Save Mart Stores v. Workers' Compensation Appeals Board
+
+## Majority (BUCKLEY, J.)
+
+Opinion
+BUCKLEY, J.
+In this opinion, we hold that one is not a qualified injured worker within the meaning of the workers’ compensation law merely because of an inability to coexist with other workers or supervisors, so long as an equivalent position is available at the same place of employment.
+Factual and Procedural History
+On May 15, 1986, Julie Gwin filed an application for workers’ compensation benefits, alleging that between March 22, 1985, and March 21, 1986, she sustained injury to her psyche from stress related to her employment as an administrative assistant with petitioner Save Mart Stores (Save Mart) in Modesto, California, and more specifically attributed to her immediate supervisor, Jerry Sauer.
+On April 24, 1987, Gwin requested and was awarded rehabilitation services by the Rehabilitation Bureau. Thereafter, she requested a temporary suspension of those services until after the delivery of her second child due later that year. The rehabilitation counselor was in agreement and recommended that further services be interrupted.
+On April 7, 1989, Gwin filed a form RB-104 with the Rehabilitation Bureau requesting an order for reinstatement of rehabilitation benefits.
+The Rehabilitation Bureau by decision and order dated May 31, 1989, determined that Gwin was entitled to receive workers’ compensation rehabilitation benefits, including vocational rehabilitation temporary disability (VRTD).
+Save Mart appealed the decision to the Workers’ Compensation Appeals Board (Board). Subsequently, trial was held before a workers’ compensation judge (WCJ), which resulted in a finding that the decision of the Rehabilitation Bureau establishing that Gwin was a “qualified injured worker” was supported by substantial evidence and that she was entitled to VRTD from February 22, 1989, to the present.
+Save Mart filed a petition for reconsideration by the Board alleging that Gwin was not a “qualified injured worker” because the medical evidence established she was capable of returning to work in the administrative assistant field so long as she did not work under the direction of her former supervisor, personnel director Jerry Sauer. After reconsideration was granted, the Board filed its opinion and decision affirming the order by the WCJ.
+Discussion
+The only issue before this court is whether the Board properly construed California Code of Regulations, title 8, section 10003, subdivision (c)(1) (hereafter rule 10003) by finding that Gwin is a qualified injured worker and is entitled to rehabilitation benefits under Labor Code section 139.5, subdivision (c).
+The findings and conclusions of the Board on questions of fact are conclusive and final so long as, based on the entire record, they are supported by substantial evidence. (LeVesque v. Workmen’s Comp. App. Bd. (1970) 1 Cal.3d 627, 637, fn. 19 [83 Cal.Rptr. 208, 463 P.2d 432].) All aspects of workers’ compensation law, including vocational rehabilitation, are to be liberally construed in favor of the injured worker. (Vasquez v. Workers’ Comp. Appeals Bd. (1991) 226 Cal.App.3d 867, 874 [277 Cal.Rptr. 102].) However, we are not bound by the Board’s conclusions on questions of law; where the award rests on an erroneous interpretation of law, it will be annulled. (Barns v. Workers’ Comp. Appeals Bd. (1989) 216 Cal.App.3d 524, 530 [266 Cal.Rptr. 503].)
+Save Mart does not challenge the Board’s factual finding that “all evaluating and examining physicians preclude the applicant [Gwin] from working under the direction or supervision of the personnel director, Jerry Sauer.”
+However, Save Mart contends that the decision of the Board that Gwin was therefore a qualified injured worker is not supported by substantial evidence. Save Mart argues that there was no medical evidence presented to establish that Gwin was incapable of returning to work as an administrative assistant at Save Mart, so long as she was not under the supervision of Jerry Sauer. Save Mart alleges that other positions were available for Gwin within the company.
+Rule 10003 states in pertinent part:
+“As used in this Article:
+“(c) ‘Qualified injured worker’ means an employee:
+“(1) The effects of whose injury, whether or not combined with the effects of a prior injury or disability, if any, permanently preclude, or are likely to preclude the employee from engaging in his or her usual and customary occupation or the position in which he or she was engaged at the time of injury (hereinafter referred to as ‘medical eligibility’); and
+“(2) Who can reasonably be expected to return to suitable gainful employment through the provision of vocational rehabilitation services (hereinafter referred to as ‘vocational eligibility’).”
+The Board interpreted the language of rule 10003, subdivision (c) literally in finding that Gwin is a qualified injured worker because the injury to her psyche precluded her from returning to the position that she had at the time of injury, which was under Jerry Sauer.
+It is undisputed that an employee who suffers from a psychoneurotic injury arising out of her employment is entitled to receive benefits under workers’ compensation. It is the employee’s perception of the circumstances surrounding his or her employment that is controlling. (Albertson’s, Inc. v. Workers’ Comp. Appeals Bd. (1982) 131 Cal.App.3d 308, 314 [182 Cal.Rptr. 304],) In the case of State Compensation Insurance Fund v. Workers’ Comp. Appeals Bd. and Farmer (1984) 49 Cal.Comp.Cases 500, writ denied, the Board held that for purposes of rule 10003, subdivision (c), it is sufficient if a worker is precluded or is likely to be precluded from returning to work at her same position with her same employer because of injury to her psyche.
+In Campbell v. Workers’ Comp. Appeals Bd. (1984) 49 Cal.Comp.Cases 482, writ denied, the employee filed an application for workers’ compensation benefits alleging that she sustained injury to her internal organs and psyche that was caused by the conduct of her employer. The Rehabilitation Bureau found that she was a qualified injured worker. The WCJ found the injured worker could return to her usual and customary employment; however, she was precluded from working in the same position that she had at the time of the injury because based on a physician’s opinion, she should not return to the same employer, therefore, she was a qualified injured worker. After the petition for reconsideration was granted by the Board, the findings of the WCJ were affirmed.
+Both Farmer and Campbell are correct statements of the law; however, each is distinguishable from this case on the specific issue presented here. Both cases involved the Board’s determination that the injured worker could not return to the same employer (i.e., the “position in which [the worker] was engaged at the time of injury”).
+Gwin is literally correct when she argues that because of her injuries she is precluded from returning to the same position in which she was engaged at the time of injury because the position she left was one under the supervision of Jerry Sauer.
+The evaluation of Dr. Petrakis stated in pertinent part:
+“She indicates that she is ready to return to work and it is my opinion that she could return to work performing the same type of work that she was doing for Save Mart.
+“. . . Given the nature of problems between her and Jerry Sauer, it is my opinion that she should not work under his direction. She could work for others, however, performing the same duties.
+“Her level of psychiatric disability is only that to preclude her from working with Jerry Sauer. She has no other psychiatric disability, in my opinion, although she may continue to have a feeling of anger, resentment, and a sense of disappointment and intermittent depressed mood which may persist for a while longer. However, it is my opinion that once she returns to the labor force these symptoms will gradually dissipate.
+“Because of her excellent cognitive responses, there is little reason to believe that she has any significant impairment in her ability to think, reason, concentrate, remember, and there seems to be little indication that she is having difficulty in getting along or relating to people outside of Jerry Sauer and the situation as described.” (Italics added.)
+The evaluation of Dr. Sheuerman stated in pertinent part:
+“The patient is not capable of returning to her prior place of work; she is capable of returning to work in a similar or different occupation. Her inability to return is not due so much to her current condition but the exacerbation one would expect if she returned to try again to cope with the personnel director.” (Italics added.)
+Courts must construe statutes “to effectuate the intent of the Legislature. ‘In determining such intent “[t]he court turns first to the words themselves for the answer.” [Citation.] We are required to give effect to statutes “according to the usual, ordinary import of the language employed in framing them.” [Citations.] “If possible, significance should be given to every word, phrase, sentence and part of an act in pursuance of the legislative purpose.” [Citation.]’ (Moyer v. Workmen’s Comp. Appeals Bd. (1973) 10 Cal.3d 222, 230 .. . .)
+“The plain meaning of a statute should be followed where its language is clear and unambiguous. [Citation.] ‘We give effect to statutes according to the usual, ordinary import of the language employed in framing them. When statutory language is clear and unambiguous there is no need for construction, and courts should not indulge in it.’ ” (California Eye Institute v. Superior Court (1989) 215 Cal.App.3d 1477, 1481 [264 Cal.Rptr. 83].)
+Under the circumstances before us, we see no advantage for the worker in an interpretation that because she cannot work under Jerry Sauer she is unable to work as an administrative assistant at Save Mart, assuming that such a position were available. “The words of a statute will not be literally construed if this would cause an absurd result, . . .” (Granberry v. Islay Investments (1984) 161 Cal.App.3d 382, 388 [207 Cal.Rptr. 652].) Given the doctors’ evaluation that Gwin was otherwise able to return to work but for the presence of the personnel director, Jerry Sauer, it would be absurd to require that Sauer is the sine qua non of Gwin’s return to Save Mart.
+The concept of qualified injured worker focuses on the performance of duties within the labor market. It does not focus upon the identity of persons with whom or under whom an injured worker performed those duties.
+Assuming that, we see no logical reason why the drafters of rule 10003 could have intended that the actions of one person, not the employer, would disqualify a worker from returning to work or even to intend that the phrase “same position” necessarily excludes equivalent positions within the same company.
+Because the Board erred, as a matter of law, in applying an incorrect interpretation of rule 10003, the order awarding rehabilitation benefits must be vacated.
+Disposition
+The award under review is annulled, and the matter is remanded to the Board for proceedings consistent with the views expressed herein.
+Ardaiz, Acting P. J., and Harris, J., concurred.
+A petition for a rehearing was denied March 10, 1992, and respondents’ petition for review by the Supreme Court was denied April 29, 1992.
+No appeal was taken from this initial order. In the order, it was noted that no response to the request had been received from the employer (Save Mart).
+The pertinent provisions of this section have been codified as section 4635 of the Labor Code. No substantive change was made in the definition of qualified injured worker.
+Labor Code section 3208.3, which applies to injuries occurring after January 1, 1990, sets forth more stringent requirements for an employee to prove she suffers from injury to her psyche than the subjective standard set forth in Albertson’s, Inc. v. Workers’ Comp. Appeals Bd., supra.
