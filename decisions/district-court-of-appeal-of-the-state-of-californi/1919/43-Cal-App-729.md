@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3103"
+decided: "1919-10-22"
+citations: ["43 Cal. App. 729"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VICTOR A. ROSSBACH, Petitioner, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY et al., Respondents."]
+source_url: "https://static.case.law/cal-app/43/cases/0729-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041862
+cites_cases: ["121 Pac. 412", "151 Cal. 732", "155 Cal. 30", "17 Cal. App. 720", "91 Pac. 593", "99 Pac., 359"]
+---
+
+# Rossbach v. Superior Court
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Prohibition. Has the superior court jurisdiction to adjudge a defendant in an action guilty of contempt for his refusal to answer interrogatories in a proceeding regularly instituted- by the plaintiff to take his deposition under the provisions of section 2021 of the Code of Civil Procedure, after the sustaining of a. general demurrer to the complaint, with leave to file an amended complaint, the time within which to file the same not having expired and prior to the exercise by plaintiff of such right?
+As appears from the petition, a general demurrer was sustained to the complaint with leave to amend, after which and before plaintiff had exercised her right under an order of court granting her leave to file an amended complaint, the proceedings for the taking of the deposition of defendant were instituted. Defendant appeared, was duly sworn, and, upon the advice of his attorney, refused to answer certain questions, propounded to him. Whereupon he was cited to appear before the court and show cause why he should not be adjudged guilty of contempt for such refusal. Upon the hearing of the matter it was ordered that he appear before the notary and give answers to the questions so propounded; otherwise the court would adjudge him guilty of contempt and punish him therefor.
+The contention of petitioner is that the court had upon general demurrer held the complaint insufficient, and in the absence of any sufficient complaint on file there was no pleading under which the defendant could be required to give his deposition. We are not in accord with this contention. Section 2021 of the Code of Civil Procedure is broad and comprehensive. It provides: “The testimony of a witness in this state may be taken by deposition in an action at any time after the service of the summons or the appearance of the defendant, and in a special proceeding after a question of fact has arisen therein, in the following cases,” when he is a party to the action. It conclusively appears that the witness whose deposition was sought to be taken was a party to an action as distinguished from a special proceeding, and that he had appeared therein; and the statute in plain and explicit terms provides that the testimony of such witness may be taken by deposition in an action at any time after Ms appearance. In the ease of San Francisco Gas etc. Co. v. Superior Court, 155 Cal. 30, [17 Ann. Cas. 933, 99 Pac., 359], it was claimed there was no issue as to which depositions could be taken, for the reason that the case had been tried and was then pending on appeal in the supreme court. In discussing the point the court, speaking through the late Chief Justice Beatty, said: “It may be answered to this objection that in case of an action, it is not requisite that an issue of fact should have arisen in order to authorize the taking of depositions. As soon as the summons has been served, either party may commence the taking of depositions relevant to any possible issue that may arise upon a denial of the allegations of the complaint or upon the allegation of new matter in the answer, and there is, perhaps, some significance in the distinction made by the statute in this particular between actions and special proceedings. Clearly, therefore, the existence of an actual, as distinguished from a potential, issue of fact is not, by the terms of the statute, made a conclusive test of the right to take depositions de bene esse.” To like effect is Kibele v. Superior Court, 17 Cal. App. 720, [121 Pac. 412], upholding the right to take a deposition before issue joined by answer; and California etc. Co. v. Schiappa-Pietra, 151 Cal. 732, [91 Pac. 593], where it is said: “There is no provision or rule of law to the effect that a deposition may not be taken before an issue of fact has been raised.”
+The filing of the complaint constituted the bringing of the action (Code Civ. Proc., sec. 405), and plaintiff’s right to have defendant’s deposition depends not alone upon whether it is material to issues tendered thereby, but the right thereto is equally clear if it would be material to any possible issue raised by new allegations contained in an amended complaint which the court might properly permit plaintiff to file. (San Francisco Gas etc. Co. v. Superior Court, supra.)
+Moreover, the ruling of the court in sustaining the general demurrer to the complaint might on an appeal by plaintiff be reversed, thus bringing the case within the facts considered in the case last cited, upholding the right to have a deposition taken for use in a possible new trial granted on an appeal from an order denying a motion therefor.
+To sustain petitioner’s contention would not only nullify the plain provisions of section 2021, but destroy the right given by statute for the perpetuation of testimony, as in neither case could a witness be required to testify against his will.
+The alternative writ heretofore granted is discharged and the proceeding dismissed.
+Conrey, P. J., and James, J., concurred.
