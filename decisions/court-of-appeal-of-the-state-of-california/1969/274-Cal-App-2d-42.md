@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 25231"
+decided: "1969-06-16"
+citations: ["274 Cal. App. 2d 42"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BESCO ENTERPRISES, INC., Plaintiff and Appellant, v. CAROLE, INC., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-2d/274/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2232899
+cites_cases: ["125 P. 1076", "136 P.2d 99", "19 Cal.App. 338", "234 P.2d 16", "255 Cal.App.2d 781", "3 Cal.App. 583", "37 Cal.2d 592", "57 Cal.App.2d 1007", "63 Cal.Rptr. 425", "86 P. 825"]
+---
+
+# Besco Entersprises Inc. v. Carole, Inc.
+
+## Majority (BROWN (H. C.), J.)
+
+BROWN (H. C.), J.
+The sole question presented is whether the trial court erred in holding that the retention of a check by appellant, sent as payment in full, constituted an accord and satisfaction, even though appellant did not cash the check and gave prompt notice that it would not be acceptable, as full satisfaction of the obligation.
+Besco Enterprises, Inc. (Besco), is a retail merchant operating jewelry sales concessions in discount houses. Carole, Inc. (Carole), a wholesaler of costume jewelry, was supplying costume jewelry to Besco prior to 1962. In September 1962, the parties ended this business relationship and orally agreed that Besco would return to Carole certain merchandise. Upon return of the merchandise, a dispute arose as to the amount of money Carole was obligated to pay to Besco.
+On June 27, 1963, Carole sent to Besco an uncertified check for $2,370.88, together with a letter stating that the check was in full payment, and a detailed accounting showing the calculation of the amount tendered. On July 1, 1963, Besco responded with a letter which stated in part: uThe deductions shown [on] your statement of account, dated June 27, 1963, are incorrect, and improperly taken, therefore, we are holding your check in the amount of $2,370.88, as we cannot accept this check as presented.” (Italics added.)
+Besco did not return or offer to return Carole’s cheek but retained it. The check was not cashed or certified by Besco. Its return was not requested by Carole nor did Carole inform Besco that the cheek was being kept covered or payment stopped.
+Besco commenced action on July 27, 1964, 13 months after receiving the check. The action was to recover $9,347.40 for merchandise returned. The trial court found that Besco would have been entitled to this sum plus interest had it not retained the check for $2,370.88, which retention constituted an accord and satisfaction.
+The factual situation here of the retention of the check by the payee, uncashed, after prompt protest as to its insufficiency to satisfy the indebtedness, presents a case of first impression in California.
+It is well settled by numerous decisions here and elsewhere that where there is an honest dispute as to the amount due on an obligation and the debtor sends a check in a certain sum as payment in full, the retention and use of the check by the creditor will constitute an accord and satisfaction, even though he notifies the debtor that it is received only as a partial payment on account.
+The above rule was stated in Potter v. Pacific Coast Lumber Co., 37 Cal.2d 592, 597 [234 P.2d 16], as follows: “ [W]here a claim is disputed or unliquidated and the tender of a check or draft in settlement thereof is of such character as to give the creditor notice that it must be accepted 1 in full discharge of his claim’ or not at all, the retention and use of such check or draft constitute an accord and satisfaction . . . ; and it is immaterial that the 1 creditor protests against accepting the tender in full payment’ . . . , for in such case ‘the law permits but two alternatives, either reject or accept in accordance with the conditions’ [citations].”
+To constitute an accord and satisfaction, the creditor must evidence his acceptance of the check actually or by implication. The cashing of the check or its certification is sufficient an act of dominion to constitute such acceptance. Also, where the check is retained for an unreasonable length of time without protest as to its being in full payment, even though uncashed, may constitute an accord and satisfaction. (Sharp v. Conti, 57 Cal.App.2d 1007 [136 P.2d 99]; Sheldon Builders, Inc. v. Trojan Towers, 255 Cal.App.2d 781 [63 Cal.Rptr. 425] ; Western Pacific Land Co. v. Wilson, 19 Cal.App. 338 [125 P. 1076].)
+The facts in the case before us differ from those in Sharp, supra, Sheldon, supra, and Western Pacific Land Co., supra, in that Besco gave prompt notice that it was rejecting the check as payment in full and it did not cash the check or have it certified.
+Civil Code section 1505 specifically provides as follows: “If anything is given to a creditor by way of performance, which he refuses to accept as such, he is not bound to return it without demand; but if he retains it, he is a gratuitous depositary thereof. ’ ’
+Section 1505 was enacted in 1872 and its provisions were considered in Conde v. Dreisam Gold Min. Co., 3 Cal.App. 583, 588 [86 P. 825], where a check was retained by the payee who did not reject it on the basis that it was not payment in full. The court was of the opinion that unless the check was refused (as here) the duty was on the creditor to return it. The court stated: “It is claimed that there was no legal duty on Mr. Healey, to return the draft; citing section 1505, Civil Code, which provides that ‘If anything is given to a creditor by way of performance which he refuses to accept as such, he is not' bound to return it without demand. ’ But in this instance the creditor did not refuse to accept the draft by way of performance. Unless the draft was refused the duty was on the creditor to return it. Instead of doing so her conduct indicated its acceptance.’’ (Italics added.)
+Conde v. Dreisam Gold Min. Co., supra, was cited with approval in Western Pacific Land Co. v. Wilson, supra, 19 Cal.App. 338, and Sheldon Builders, Inc. v. Trojan Towers, supra, 255 Cal.App.2d 781, 788. In both of those cases the court, while finding an accord and satisfaction, limited the duty of the creditor to return the check as to those factual situations where no notice of refusal is given by the creditor. Both use similar language as that used by the court in Conde, i.e., where a check is presented as payment in full and not refused, it is the duty of the payee to return it without unreasonable delay. It is reasonable to infer from these eases that no duty would have been imposed to return the checks if the creditors had given notice of refusal to accept the checks as payment in full.
+We find no reason to imply an accord and satisfaction in the factual situation of the case before us, especially in view of the harsh result to Besco and the unjust enrichment of Carole in a sum in excess of $7,000 which would result if we would affirm the trial court.
+It is concluded that section 1505 of the Civil Code applies. Besco having given notice of the refusal to accept the check as payment in full did not have the duty of returning it until a demand was made for it by Carole.
+The trial court here found that Besco would have been entitled to judgment in the sum of $9,347.40, the value of the merchandise returned had it not retained the check in the sum of $2,370.88. No purpose therefore could be served by a retrial.
+The judgment is reversed and the cause remanded to the trial court with directions to enter judgment for Besco in the sum of $9,347.40 plus interest.
+Draper, P. J., and Caldecott, J., concurred.
+A petition for a rehearing was denied July 16, 1969, and respondent’s petition for a hearing by the Supreme Court was denied August 13,1969.
