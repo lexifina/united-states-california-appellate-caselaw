@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2121"
+decided: "1918-03-12"
+citations: ["36 Cal. App. 508"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. V. UNWIN, Respondent, v. BARSTOW-SAN ANTONIO OIL COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/36/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452691
+---
+
+# Unwin v. Barstow-San Antonio Oil Co.
+
+## Majority (WORKS, J., pro tem.)
+
+WORKS, J., pro tem.
+This cause is before us on two appeals by the defendant, one being from, the judgment and the other from an order denying the defendant’s motion to tax the costs in the action.
+There is but one point presented on the appeal from the judgment. The first appearance of appellant in the action was by a demurrer to the complaint, filed in its behalf by an attorney at law. In the due course of proce'dure in the action the demurrer was overruled and time was allowed to answer. On a certain day thereafter the appellant served and filed a notice to the effect that its attorney had withdrawn from the case. The notice was attached to a document signed by the appellant and by its retiring attorney, which stated that it was “stipulated and agreed” between them that the attorney “may, and he does hereby; withdraw from said action as attorney for said defendant therein, and that the said defendant may, and it does hereby, appear in said action in person and without attorney.” In addition to its appearance, thus formally entered by the appellant in person, it did, on the same day serve and file its answer in the action, signed by itself by its resident agent. _ Thereafter the respondent caused the case to be set down for trial. Upon the date set, the appellant having employed new counsel in the interim, it was objected by him that the court had no jurisdiction to proceed with the trial on the ground that respondent had not complied with the provisions of section 286 of the Code of Civil Procedure, which provides, “When an attorney dies, or is removed or suspended, or ceases to act as such, a party to an action, for whom he was acting as attorney, must, before any further proceedings are had against him, be required by the adverse party, by written notice, to appoint another attorney, or to appear in person.”
+The court overruled the objection, and it is complained that the ruling was erroneous. The contention cannot be sustained. The only object of the notice contemplated by the statute is to require of a party whose attorney has ceased to act that he appoint a new attorney or appear in the action in person. In this ease the appellant had voluntarily appeared in person on the same day that respondent had notice that the attorney had ceased to act. It would be useless, in any situation, and speaking generally, to require one to do a thing which he had already done. The statute, in this instance, does not require the commission of such an act of folly.
+On the appeal from the order the question which is presented has to do with the taxing, as costs, of an item of keeper’s fees under an attachment. Section 4300b of the Political Code provides that there shall be allowed the sheriff, as keeper’s fees, “such sum as the court may fix.” The respondent served and filed his cost bill and in it he included a certain sum for keeper’s fees. The appellant made its motion to tax the costs specified in the cost bill by striking out the sum charged for keeper’s fees on the grounds that the item was not legally chargeable as costs, that it was not necessarily incurred, that it had not been legally fixed as required by law, and that it was prematurely charged and included as costs. On the day that the motion, to tax came on for hearing, the court made an order fixing the amount charged in the cost bill for keeper’s fees as a proper sum to be charged for the service rendered. The court then made its order denying appellant’s motion to tax.
+Appellant contends that the item was not properly included in the cost bill, for the reason that the order of the court fixing it as a proper charge was not made before the cost bill was filed. No authorities are cited which support this contention, although several decided cases are presented which are to the effect that keeper’s fees are not recoverable as costs where there is an entire absence of such an order as was here made on the day the motion to tax was passed on. These cases are in no way helpful in the solution of the question now presented, and we are unable to see why, in such a case, the order need be made earlier than it was made in the present instance. The amount in question had no standing as an item of chargeable costs, even though it appeared in the cost bill, until the order was made disposing of appellant’s motion to tax, for the costs in an action are not determined and the amount of them cannot be inserted in the judgment until disposition is made of any pending motion to tax. (Code Civ. Proc., secs. 1033, 1035.) The order fixing the amount of the keeper’s fees was in time.
+The judgment 'and order are affirmed.
+Conrey, P. J., and James, J., concurred.
