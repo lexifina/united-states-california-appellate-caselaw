@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5328"
+decided: "1935-06-12"
+citations: ["7 Cal. App. 2d 539"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WINIFRED F. MARR, Appellant, v. OLIVER O. CLARK et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/7/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2220561
+---
+
+# Marr v. Clark
+
+## Majority (RANKIN, J., pro tem.)
+
+RANKIN, J., pro tem.
+It appears from the record before us that on December 2, 1928, there was pending in the Superior Court of Los Angeles County an action, number 233765, in which one Donald K. McLeod was plaintiff and Winifred F. Marr, plaintiff and appellant in this case, was defendant; that defendants and respondents, Oliver C. Clark and Charles R. Nelson, were acting as attorneys for said McLeod. The action brought by McLeod was one for the foreclosure of mortgage. McLeod died on December 2, 1928, and some months thereafter the defendants Clark and Nelson, continuing to act as attorney for McLeod and without knowledge of his death, brought the said McLeod action to trial and on September 28, 1929, secured a judgment against said Marr for the foreclosure of McLeod’s mortgage, and appointing R. E. Allen commissioner to sell the mortgaged property. Within a few days after entry of judgment an order of sale was issued by the clerk of the court to R. E. Allen as such commissioner, which order of sale is referred to in plaintiff’s pleadings as a writ of execution. Under this order of sale Allen, as such commissioner, published a notice of sale, but has never filed any report of the sale nor has any certificate of any such sale ever been recorded.
+Appellant brought this action against Oliver 0. Clark, Charles R. Nelson and R. E. Allen and prays for a decree quashing said order of sale, enjoining R. E. Allen, commissioner,' from making any sale of the property or issuing any certificate of sale, or making or delivering any deed to the property, enjoining the other defendants and each of them, from appearing in court or acting as attorneys for said McLeod in said action, and for damages.
+On motion to strike parts of the second amended complaint, the allegations of the complaint upon which the claim for damages was based was stricken by the court. Appellant complains of this ruling, although it is apparent that no cause of action for damages was stated. She claims as damages money' expended by herself and the value of her services in defending the suit against her, she having appeared in persona, and the value of a small house which her neighbors planned to build for her on the property foreclosed in the mortgage foreclosure suit. Such items are not recoverable as damages. The order to strike was not error.
+The respondents filed an answer admitting, by failure to deny, the material allegations of the complaint and raising as the only issue the good faith of respondents in prosecuting the McLeod action and proceeding with the sale of the property. The cause was regularly set for trial and on the trial date the appellant in person appeared and requested a continuance. Her motion for continuance was denied, and we find no error or abuse of discretion on the part of the trial court in denying a continuance. Plaintiff then left the courtroom. The court ordered the trial to proceed and the defendants offered evidence to the effect that said Oliver 0. (!lark and Charles R. Nelson acted as attorneys for defendant McLeod in good faith and without knowledge of the death of McLeod and the court thereupon ordered that the defendant Allen be enjoined from conducting any sale. Mr. Clark volunteered to prepare findings and judgment and did so prepare the papers. The plaintiff Marr made some objection to the sufficiency or proper form of the findings and apparently claimed, as she now claims on this appeal, that the judgment entered in the foreclosure action after the death of McLeod.was erroneous but not void. It is unnecessary to determine this question for the reasons that respondents conceded that such judgment was void and of no effect and the court so found. Whether the judgment was merely erroneous and voidable or void upon its face, there is no doubt that the issuance of the order of sale and proceedings of the commissioner were void, or at least voidable in this action and plaintiff was entitled to the injunction prayed for as against B. E. Allen as commissioner, and this is the only relief to which she is entitled under any view of the situation as shown to exist by the record. The court having by its judgment granted the appellant all the relief to which she is entitled, she has no grounds for complaint. The judgment enjoining said B. E. Allen from further proceeding in the foreclosure suit is worded as follows:
+“That B. E. Allen, receiver, be and he is hereby enjoined from proceeding with any sale or taking any steps respecting thereto in said case #233-765.”
+The use of the word “receiver” is obviously an error. However, in order to make the judgment properly express the intent and purpose of the court issuing the same, the said clause should be modified by inserting the word “commissioner”, in place of the word “receiver”, and the judgment is to that extent hereby modified.
+As so modified, the judgment is affirmed, respondents to recover costs on appeal.
+Thompson, J., and Plummer, Acting P. J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on August 9, 1935.
