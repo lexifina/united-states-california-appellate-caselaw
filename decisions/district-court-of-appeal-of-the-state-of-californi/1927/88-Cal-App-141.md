@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3384"
+decided: "1927-12-30"
+citations: ["88 Cal. App. 141"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OTIS NORTHRUP et al., Appellants, v. M. M. COHN et al., Respondents."]
+source_url: "https://static.case.law/cal-app/88/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2109658
+cites_cases: ["194 Cal. 392", "229 Pac. 34"]
+---
+
+# Northrup v. Cohn
+
+## Majority (FINCH, P. J.)
+
+FINCH, P. J.
+-Plaintiff Jennie Northrup was struck and severely injured by an automobile driven by defendant M. M. Cohn, and this is an action for damages on account thereof. The parties named will be referred to herein as the plaintiff and the defendant, respectively. The jury a verdict in favor of the plaintiff and judgment was entered thereon in her favor. In due time the defendant gave notice of intention to move for a new trial on many specified grounds, including that of “insufficiency of the evidence to justify the verdict.” The court granted the motion “upon all the grounds stated in the notice of intention to move for a new trial.” This appeal is from the order granting the motion.
+Where there is a substantial conflict in the evidence, the determination of the trial court that the verdict is against the weight of the evidence is conclusive on appeal. (Rosenberg v. Moore, 194 Cal. 392, 396 [229 Pac. 34].) In this case the evidence is in substantial conflict and, therefore, no ground for a new trial need be considered except that of the insufficiency of the evidence.
+At the time of the accident the defendant was traveling north along the east side of Moneta Avenue in Los Angeles. While the plaintiff was crossing from the west side to the east side of the avenue she was struck by the right front fender of defendant’s automobile, and her alleged injuries were caused by the impact. She testified that she “was crossing right at the intersection” of Forty-fifth Street and Moneta Avenue, but other witnesses testified that she was crossing forty or fifty feet north of the intersection. She testified that she knew that Moneta Avenue “was a very heavily traveled street”; that as she crossed the avenue she looked to the north until she reached the ear tracks, there being double street-car lines along that avenue; that she then looked south; that when she had reached the center of the avenue she saw defendant’s automobile “halfway up the next block” to the south; that when she had crossed the north-bound car line she “started to run” and ran as fast as she could for about fourteen feet to the point where she was struck; that as she ran she continuously looked at defendant’s automobile; that the automobile did not swerve from its course but “came right straight.” She further testified as follows: “Q. When you were in the middle of the east side of the street and saw it coming at the south side why didn’t you stop? A. Because he didn’t stop. . . . Q. I know, but I am asking you when he didn’t stop why didn’t you? A. I thought if I ran hard enough I would escape. The Court: Were you trying to beat him to it? A. I was. . . . Mr. Nuzum: Did you try to cross all the way in front of the automobile, or did you try to get out of the way of the automobile? A. Tried to get out. . . . The Court: You understood my question perfectly, did you? A. Yes. I thought you meant when I saw it away over I started to run to beat it.” The accident occurred between 8:30 and 9 o ’clock in the evening. Some of the witnesses, including the defendant, testified that the speed of his automobile at the time of the accident was about fifteen miles an hour. The defendant testified that the plaintiff was “within one foot of the front fender” when he first saw her; that he did not see her sooner “because when I saw her in front of my machine she was running, and being there was traffic in both directions very thickly, it was almost impossible to see anyone darting out from under a machine in front of yours”; that he stopped his automobile within two feet from the point of collision. Another witness, who was riding in the rear seat of the defendant’s automobile, testified: “We slowed down because there were machines in front of us. ... I know that there was one directly in front of us.” There is other evidence much more favorable to plaintiff.
+The foregoing evidence is sufficient to warrant the inference that the plaintiff negligently ran in front of defendant’s automobile, and that such negligence was a proximate cause of the accident. Of course, it is not intended to express any opinion as to the weight of the evidence. It cannot be said as a matter of law that the evidence is insufficient to justify the verdict, but, on the other hand, it cannot be held as a matter of law that the evidence is insufficient to justify a verdict in favor of the defendant, and, since the trial court in deciding a motion for a new trial is not bound by even a substantial conflict in the evidence but has the power to pass upon the weight thereof, its determination that justice requires a new trial is conclusive.
+The order is affirmed.
+Plummer, J., and Hart, J., concurred. •
