@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 298"
+decided: "1906-11-14"
+citations: ["4 Cal. App. 400"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD S. GRAHAM, Respondent, v. JOHN E. LIGHT et al., Appellants."]
+source_url: "https://static.case.law/cal-app/4/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1941423
+cites_cases: ["101 Cal. 445", "116 Cal. 552", "116 Cal. 613", "119 Cal. 183", "139 Cal. 94", "173 Cal. 286", "32 Cal. 569", "32 Cal. 82", "34 Pac. 337", "35 Cal. 119", "38 Cal. 519", "38 Cal. 521", "99 Am. Dec. 423", "99 Cal. 604", "99 Cal. 606"]
+---
+
+# Graham v. Light
+
+## Majority (SMITH, J.)
+
+SMITH, J.
+This is a suit on a promissory note for the sum of $500, with interest, etc., of date October 24, 1904, payable November 24, 1904, and secured by assignment of five shares of the capital stock of the Redlands Hospital Association of the par value of $500. The complaint, which was filed January 3, 1906, alleges the execution of the note, which is set out at length, and that the same has not been paid, nor any part thereof. There is no allegation that the plaintiff at the time of the commencement of the suit was the owner or holder of the note; but such an allegation was unnecessary. (Bank of Shasta v. Boyd, 99 Cal. 606, [34 Pac. 337], and cases cited.) The answer consists of a general denial, which puts in issue only the allegation as to the nonpayment of the note. The court found this allegation of the complaint to be true, and judgment was accordingly entered for the plaintiff, March 5, 1906, for the principal of the note with interest and costs, in-eluding an attorney’s fee of $50. The defendants appeal from the judgment.
+On the pleadings and findings as they stand, it is clear that no other judgment could have been entered. But it appears from the bill of exceptions in the case that evidence was introduced, without objection, showing that prior to the beginning of the suit the note had been assigned by the plaintiff to the First National Bank of Redlands as collateral security for $500 loaned him by the bank, and was not reassigned until the day of the trial; and the point is urged by the defendants that the plaintiff had no cause of action when the suit was brought.
+The position of the appellants is, in effect, that the court should have found the facts disclosed by the evidence, though not pleaded; and for the purposes of the decision it may be assumed that it should have done so, provided the facts were material. But we do not conceive this to be the case. The plaintiff at the time of the commencement of the suit was still the owner of the note and had a substantial interest therein. The bank, indeed, held it in pledge, and might, therefore, have maintained an action to collect the same. (Civ. Code, sec. 3006.) Nor under the express provision of the code cited would it have been necessary to make the plaintiff party. But it does not follow that there was not also a right of action in the plaintiff to protect his rights or interest in the note. Such an action, indeed, could not have been maintained at common law; but under our practice, “in the matter of procedure and form all distinctions between law and equity” have been abolished (Grain v. Aldrich, 38 Cal. 519, [99 Am. Dec. 423]), and it cannot be doubted that under the principles of equity the plaintiff was entitled to maintain an action to enforce his rights or protect his interests. Indeed, the right to maintain an action is given him by the provisions of section 367, Code of Civil Procedure. His action, however, could not have been maintained without making the bank, as a party interested, a party; nor in the absence of the bank—its interest still subsisting—would a court of equity have granted the plaintiff relief. But in such case relief would have been denied, “not upon the ground that the facts (did not entitle him to it), but because all the parties.interested in the subject matter (were) not before the court.” (Grain v. Aldrich, 38 Cal. 521, [99 Am. Dec. 423].) Under our system of practice, therefore, the real objection of the defendants to the judgment is, “not a want of facts, but a want of parties” (Id.); and had the note still been held by the bank under its assignment at the time of the trial, it would have been the duty of the court, under the provisions of section 389 of the Code of Civil Procedure, to have ordered the bank to be brought in. But in this case, as it appeared that the bank had reassigned the note to the plaintiff, this was unnecessary. The facts proved, therefore, were immaterial, and it was unnecessary for the court to find them.
+We are of the opinion, however, that the allowance of an attorney’s fee to the plaintiff was improper. An attorney’s fee can be allowed only for services rendered and for the value of such services. Here the suit was improperly brought in omitting the necessary parties. Nor, indeed, was there any apparent necessity for the bringing of the suit by the plaintiff. Under such circumstances, we think that the court erred in allowing any attorney’s fees.
+The judgment must, therefore, be modified by striking therefrom the words: “And in addition thereto, the sum of $50, which is fixed by the court as a reasonable attorney’s fee herein”; and as thus modified will be affirmed.
+It is so ordered.
+Allen, J., and Gray, P. J., concurred.
