@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9758"
+decided: "1935-12-05"
+citations: ["10 Cal. App. 2d 478"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARA LOCKE, Appellant, v. LOS ANGELES RAILWAY CORPORATION (a Corporation) et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/10/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269470
+cites_cases: ["119 Cal. App. 513", "145 Pac. 1023", "151 Pac. 282", "161 Pac. 16", "168 Pac. 586", "169 Cal. 107", "170 Cal. 772", "187 Pac. 50", "191 Cal. 96", "215 Pac. 72", "31 Cal. App. 592", "34 Cal. App. 629", "45 Cal. App. 145", "6 Pac. (2d) 548"]
+---
+
+# Locke v. Los Angeles Railway Corp.
+
+## Majority (ROTH, J., pro tem.)
+
+ROTH, J., pro tem.
+At 8 o'clock in the evening of May 2, 1932, plaintiff and appellant alighted at the intersection of Eagle Rock Boulevard and Avenue 33 from a northbound street car operated by defendant corporation. At that point and for a considerable distance to the north and south, a street car proceeds on a right of way owned by said defendant. A cement sidewalk crosses the right of way from the east to the west. Having alighted from the street car, appellant proceeded to a point on said sidewalk across the easterly northbound track to the westerly northbound track, paused and looked to the north. The night was clear. Appellant, according to her testimony, was 62 years of age, and her faculties of sight and hearing were good. At a point on the westerly northbound track, plaintiff said she looked and she could see 700 or 800 feet to the north. Prom this point she took “about three steps” to the west, looked again to the north and did not see a car. She was asked: “When did you first become aware that there was a street car coming from the north.” She replied: “As I had my right foot across this rail, here, and my left foot, here, in the middle of the track.” The point referred to by appellant was a point between the westerly tracks. She testified that when she was at this latter point, she looked to the north and the street car was 250 feet to her north. She then testified: “I didn’t have my hand up, though; and I eouldn’t get across; it was coming too fast; and I stepped back; I took three steps back; took a step with my left foot first and my right foot next and then my left again, and the street car struck me. ’ ’ Plaintiff further testified that the interior lights and the headlight of the street car were burning; that she would walk a mile in ten minutes, although she was not walking at that rate on the occasion in question. She admitted, however, that she was “moving along briskly”. There was no evidence that there were any obstructions of any kind between her line of vision and a point 700 or 800 feet to the north, when she first looked before crossing the right of way, or at any other time as she was crossing the right of way. The car was proceeding at approximately 35 miles per hour, coasting from the north to the south on a grade which is present at that point; it made little or no noise and sounded no gong or bell.
+The foregoing recital of facts is taken from the testimony ■ of appellant and that of other witnesses who testified for her. The court granted a motion for nonsuit, and from the judgment of nonsuit, this appeal is taken.
+Appellant was undoubtedly a trifle optimistic when she testified that she normally walked at the rate of a mile in ten minutes, but irrespective of the pace maintained by appellant in crossing the right of way it is difficult to understand why the approaching street car was not observed by her in ample time to prevent the accident. She admitted that her faculties of sight and hearing were good and the uncontroverted evidence demonstrates that she had an unobstructed view of 700 to 800 feet to the north, and that she could see that far.
+It is settled that when the only conclusion which can be drawn from admitted facts is one of negligence, the question of negligence is no longer one of fact, but becomes one of law. (Griffin v. San Pedro etc. B. B. Co., 170 Cal. 772, 774, 775 [151 Pac. 282, L. R. A. 1916A, 842].) Irrespective of any negligence of respondent, and irrespective of what may have been the continuing duty of respondent to a passenger to permit such passenger “a reasonable opportunity of leaving the carrier’s premises” (Miller v. Pacific Electric Ry., 169 Cal. 107, 110 [145 Pac. 1023])—-it is clear from the foregoing facts that if appellant had looked to the north when she was at the point where, according to her testimony, she did look, she would have had a clear view of the approaching street car. It seems clear to us that the trial court properly concluded that appellant was guilty of contributory negligence as a matter of law. (Jones v. Southern Pac. Co., 34 Cal. App. 629 [168 Pac. 586]; Finn v. Los Angeles Ry. Co., 119 Cal. App. 513 [6 Pac. (2d) 548] ; Riney v. Pacific Electric Ry. Co., 45 Cal. App. 145 [187 Pac. 50] ; New York etc. Co. v. United Railroads of San Francisco, 191 Cal. 96 [215 Pac. 72] ; Martz v. Pacific Electric Ry. Co., 31 Cal. App. 592 [161 Pac. 16].)
+The judgment is affirmed.
+York, Acting P. J., and Doran, J., concurred.
