@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3150"
+decided: "1919-12-03"
+citations: ["44 Cal. App. 568"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. E. CRONENWETT et al., Respondents, v. DUBUQUE FIRE & MARINE INSURANCE COMPANY (a Corporation), et al., Appellants."]
+source_url: "https://static.case.law/cal-app/44/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057655
+cites_cases: ["1 Fed. 396", "113 Cal. 345", "13 L. R. A. 475", "186 Pac. 824", "25 Am. St. Rep. 191", "27 Pac. 738", "40 Pa. 289", "45 Pac. 680", "66 Md. 236", "7 Atl. 257", "80 Am. Dec. 573", "91 Cal. 323"]
+---
+
+# Cronenwett v. Dubuque Fire & Marine Insurance
+
+## Majority (LANGDON, P. J.)
+
+LANGDON, P. J.
+This is an appeal by the defendants from a judgment against them in an action upon two policies of insurance against fire issued by the defendant companies to plaintiffs. The plaintiff A. E. Cronenwett was the owner of the real property covered by said policies, and Louise Guenther, the other party plaintiff, was the owner of the mortgage upon said property.
+The first objection of the appellants is that the trial court erred in holding that the policies of insurance were not invalidated by a change of possession of the insured prop-
+erty after the issuance of the policies. The facts relating to this objection, as found by the court, are: During the year 1914, the plaintiff A. E. Cronenwett leased the insured building to Messrs. Warren and Nelson, who organized a country club known as the “Automobile Country Club,” which occupied the insured building, Warren and Nelson being its managers. Thereafter, in 1915, one King succeeded Warren and Nelson as manager of the club and a lease of the building was executed to him. Thereafter, the insurance policies were issued by the defendants. In the early part of 1916 one D. W. Markin succeeded King as manager of the club and the lease to King was canceled and a lease to the building executed to Markin, whereby the building was leased to Markin, and Markin was in possession of the building under said lease until the time of the fire, the lease being in full force and effect at that time. The insurance policies contain the following clause: “Unless otherwise provided by agreement indorsed hereon or added hereto, this company shall not be liable for loss or damage occurring . . . while the interest in, title to, or possession of the subject of insurance is changed, except ... a change of occupancy of the building without material increase of hazard.” It is argued
+that by said clause the change of title is made separate and distinct from a change of occupancy; that the “possession” referred to in said quoted clause applies to the possessory rights and not to occupancy. It is argued that the owner of the building is in legal possession of the building, although the building may be occupied by someone else—and that the granting of a lease to Markin was the granting of such an interest and title in the property as to transfer the possessory right from the owner to the lessee, in violation of the conditions of the policies sued upon here. This precise point has been discussed by this court in a case this day decided which involves rights growing out of the destruction of this same building, under other policies of fire insurance. (Cronenwett et al. v. Iowa Underwriters of the Dubuque Fire & Marine Ins. Co. et al., post, p. 571, [186 Pac. 824].) We are of the opinion that a lease is not a change in the title of the property within the meaning of the policies. (Smith v. Phoenix Ins. Co., 91 Cal. 323, 328, 329, [25 Am. St. Rep. 191, 13 L. R. A. 475, 27 Pac. 738] ; Rumsey v. Phoenix Ins. Co., 1 Fed. 396; Insurance Co. v. Helfenstein, 40 Pa. 289, [80 Am. Dec. 573]; Planters’ Ins. Co. v. Rowland, 66 Md. 236, 243, [7 Atl. 257].) The owner of the fee held the seisin to the property and the lease was hut a chattel interest. The possessory right of the lessee was in support of the seisin of his landlord in whom the title to the property was vested. (Jeffers v. Easton, Eldridge & Co., 113 Cal. 345, 352, [45 Pac. 680].)
+The second objection of the appellants is that the •trial court erred in refusing to subrogate the defendants to the interest of the mortgagee, Mrs. Louise Guenther. The claim to subrogation is based upon the standard mortgage clause in the policies to the effect that when the Insurance Company shall pay to the mortgagee any sum under the policy and shall claim, as to the owner, that no liability therefor existed, the company shall be subrogated to the rights of the mortgagee under all securities held as collateral to the mortgage debt, and shall receive full assignment and transfer of the mortgage, etc. The appellants state that they have at all times claimed, and now claim, that there was no liability to the mortgagor and, therefore, should be subrogated to the interest of the mortgagee. We think the clause above quoted only applies to a claim supported by legal right. It is quite immaterial what the company may claim so long as it be decided by the court that such claim is not founded upon legal rights. The decision of the first point made by the appellants completely disposes of their claim that there is no liability upon their part as to the owner of the premises. That being true, the appellants’ right of subrogation falls with their claim.
+The judgment is affirmed.
+Nourse, J., and Brittain, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on January 29, 1920.
+All the Justices concurred, except Kerrigan, J., pro term,., who was absent.
