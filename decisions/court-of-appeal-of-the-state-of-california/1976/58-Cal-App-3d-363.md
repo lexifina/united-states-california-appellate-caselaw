@@ -1,0 +1,33 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 27240"
+decided: "1976-05-17"
+citations: ["58 Cal. App. 3d 363"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. WILLIE ROBINSON, JR., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/58/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039695
+cites_cases: ["1 Cal.App.3d 477", "10 Cal.3d 676", "101 Cal.Rptr. 837", "104 Cal.Rptr. 754", "109 Cal.Rptr. 531", "111 Cal.Rptr. 681", "15 Cal.App.3d 486", "16 Cal.App.3d 758", "169 Cal.App.2d 356", "252 Cal.App.2d Supp. 1053", "28 Cal.App.3d 405", "294 P.2d 23", "33 Cal.App.3d 586", "423 P.2d 557", "424 P.2d 704", "450 P.2d 278", "46 Cal.2d 269", "496 P.2d 1205", "517 P.2d 1145", "56 Cal.Rptr. 485", "57 Cal.Rptr. 152", "65 Cal.2d 842", "66 Cal.2d 184", "7 Cal.3d 186", "7 Cal.App.3d 314", "70 Cal.2d 381", "74 Cal.Rptr. 902", "82 Cal.Rptr. 205", "86 Cal.Rptr. 628", "93 Cal.Rptr. 180", "94 Cal.Rptr. 458"]
+---
+
+# People v. Robinson
+
+## Majority (ASHBY, J.)
+
+Opinion
+ASHBY, J.
+This is a People’s appeal pursuant to Penal Code section 1238, subdivision (a)(7), from an order dismissing the charges in a prosecution for violation of Penal Code section 12021 (possession of concealable weapon by ex-felon) after the granting of defendant’s motion to suppress evidence.
+At 3:40 p.m. on December 30, 1974, Deputy Sheriff Patrick Walsh observed defendant and two other male Negroes in an alley to the rear of 5950 Central. Two of them were carrying cups with a yellowish liquid, and the third was carrying a bottle in a paper sack. Deputy Walsh and his partner stopped their patrol car to warn the three of Los Angeles County Ordinance No. 4027, which prohibits the consumption of alcoholic beverages on public highways. He requested that the three men turn and place their hands on the hood of the patrol vehicle. Instead of doing so, defendant walked away at a rapid pace, and Deputy Walsh followed him. Defendant turned a corner then threw a pistol into a trash can. The pistol, which Deputy Walsh recovered, was the subject of the motion to suppress evidence.
+The trial court granted the motion on the ground that the original detention was unlawful because the local ordinance against consumption of alcoholic beverages on the public highway was invalid, having been preempted by state law. Defendant now concedes the People’s contention that this ruling was erroneous and that the local ordinance is not preempted by state law. (People v. Butler, 252 Cal.App.2d Supp. 1053, 1055-1058 [59 Cal.Rptr. 924]; also see People v. Gibbs, 16 Cal.App.3d 758, 762-764 [94 Cal.Rptr. 458].)
+Defendant contends, however, that the order should be upheld on a different theoiy, raised below but not relied upon by the trial court. He argues that when Deputy Walsh requested the three persons to place their hands on the police vehicle, he intended thereafter to conduct a pat-down search for weapons. Although Deputy Walsh testified to reasons why he felt a pat-down search for weapons would have been appropriate, defendant contends these reasons were insufficient to justify a reasonable belief that these specific individuals might be armed. Therefore, he argues, a pat-down search would have been illegal. Defendant construes the request to place hands on the vehicle as a “threat” to conduct an “illegal” pat-down search, and argues that his flight and disposing of the gun were products of unlawful police action, relying on Badillo v. Superior Court, 46 Cal.2d 269, 273 [294 P.2d 23], and Gascon v. Superior Court, 169 Cal.App.2d 356, 358-359 [337 P.2d 20l].)
+Defendant’s reliance on Badillo and Gascon is misplaced. In Badillo there was a completed invasion of constitutional rights by police officers who illegally broke into a home. The suspect fled the home after the illegal entry and disposed of contraband. (See People v. Stout, 66 Cal.2d 184, 191 [57 Cal.Rptr. 152, 424 P.2d 704], distinguishing Badillo; see also People v. Prendez, 15 Cal.App.3d 486, 488-489 [93 Cal.Rptr. 180].) In Gascon the officers unequivocally told the suspect they were going to search him. (See People v. Stout, supra at p. 192, distinguishing Gascon; In re Michael V., 10 Cal.3d 676, 682 [111 Cal.Rptr. 681, 517 P.2d 1145].)
+In this case Deputy Walsh did not tell defendant he was going to search him. He merely requested defendant to place his hands on the vehicle. This request was not necessarily unlawful or threatening. (People v. Garcia, 7 Cal.App.3d 314, 320 [86 Cal.Rptr. 628] [may request hands be placed on vehicle as safety precaution against surprise movements]; see People v. Stafford, 28 Cal.App.3d 405, 410 [104 Cal.Rptr. 754] [may order hands out of pockets]; People v. Superior Court (Simon), 7 Cal.3d 186, 206, fn. 13 [101 Cal.Rptr. 837, 496 P.2d 1205] [may order hands be kept in sight].) A suspect has no right to flee from lawful police conduct on speculation that the officers might harbor an intent to engage in unlawful conduct. (See People v. Castaneda, 1 Cal.App.3d 477, 482, fn. 6 [82 Cal.Rptr. 205]; People v. Prendez, supra, 15 Cal.App.3d at p. 489.) When defendant walked away, Deputy Walsh merely followed him, without saying anything to him.
+The trial court neither expressly nor impliedly found that defendant’s flight and disposing of the contraband were products of a threat to engage in unlawful conduct. The court relied exclusively on the erroneous legal theory that the original detention was pursuant to an invalid ordinance. Because of this error of law, the trial court made no factual findings and none are implied in favor of the ruling. (See People v. Kanos, 70 Cal.2d 381, 385 [74 Cal.Rptr. 902, 450 P.2d 278]; People v. Henry, 65 Cal.2d 842, 846 [56 Cal.Rptr. 485, 423 P.2d 557]; People v. Manning, 33 Cal.App.3d 586, 603 [109 Cal.Rptr. 531].) Factual determinations must be made by the trial court.
+The order of dismissal is reversed and the cause remanded for further proceedings consistent with this opinion.
+Kaus, P. J., and Stephens, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied July 15, 1976.
+Deputy Walsh testified that he was going to conduct a pat-down for weapons because there had been racial problems between Mexicans living at 5950 Central and blacks from surrounding residences. Deputy Walsh had personally handled two “245’s” in that area, including one in that very alley one or two weeks previously.
+Defendant did not testify at the hearing. We do not know whether he would have done so, had the court’s ruling not avoided the necessity.
