@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 3430"
+decided: "1941-04-14"
+citations: ["44 Cal. App. 2d 183"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. FRED WHITE et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/44/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4558240
+cites_cases: ["117 Pac. 789", "134 Cal. 542", "138 Cal. 530", "149 Cal. 325", "16 Cal. App. 618", "25 Cal. App. (2d) 402", "54 Cal. 89", "66 Pac. 798", "71 Pac. 650", "77 Pac. (2d) 506", "86 Pac. 671"]
+---
+
+# People v. White
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+Defendants were charged by information with two offenses of robbery. The jury returned a verdict of guilty on both counts and this appeal is from the judgments thereafter entered.
+Briefly, the evidence reveals that the defendants on the night of May 4th accosted one Robert Gordon and Jeanne Patrick, who were seated in a parked automobile on Riverside Drive, and robbed them, at the point of a gun; Gordon of his wallet which contained $7 and an identification badge worn by him as an employee of an aircraft company and Mrs. Patrick of a purse which contained nothing of value. Defendants then drove away in their own car, which had been parked back of and near the car occupied by the victims.
+The next night, about 9:15 P. M., Kelly Walp, a patrolman on duty in the Palos Verdes Estates, saw the defendants in an automobile parked at the side of the road in Palos Verdes Hills. Upon questioning defendants and informing them that they were to be taken to the substation for further investigation, defendant White fled. Defendant Clark was arrested and taken to the substation. Walp returned to the scene of the arrest for defendants’ car, at which time a gun was found on the ground about three feet from the car. The badge, above referred to, was also found in the car as well as flashlights and goggles identified as similar to those used in the robbery. White was arrested the following morning in Long Beach on information furnished the officers by defendant Clark.
+With regard to the appeal of defendant White, respondent moves for a dismissal under section 1253 of the Penal Code and Rule II, section 15, Rules of the Judicial Council for the Supreme Court and District Courts of Appeal. The record clearly discloses that such motion should be granted.
+As to defendant Clark, it is argued, among other things, that the verdict is contrary to law and the evidence. In that connection it is contended that appellant is the victim of mistaken identity. It is also urged that the identification of the gun, flashlights and goggles found in the possession of defendants is insufficient. With regard to the latter, it is not necessary that such objects be positively identified. It is sufficient if they are recognized as similar or bear a sufficient resemblance to remove the elements of mere speculation or surmise. Nor need the identification of the defendant be positive. Appellants’ objections go to the weight rather than to the admissibility of such evidence.
+It is also contended that certain errors relating to the defendant White indirectly affected rights of defendant Clark. Without going into detail it is sufficient to note that there is no merit to the contention. Notwithstanding the fact that such contention lacks merit generally, nevertheless there is one phase of the argument relating thereto that is entitled to attention. In that regard it is urged that certain conversations and statements of defendant White’s wife, and another individual as well, were received in evidence over defendants’ objection. The court denied a motion to strike such testimony and sustained an objection to a question calling for such a conversation, ‘unless foundation is laid to show White was present”; and again, the testimony of the arresting officer referring to a conversation had with defendant White’s wife was admitted as follows: “Q. Did you later have a conversation with her in the presence of the defendant White? A. Yes. Q. And what was said at that time? A. In the presence of the defendant? Q. Yes. A. One of the accompanying officers asked the young lady if she was the defendant White's wife. She said she was not. Mr. Ryan: This is objected to as incompetent, irrelevant and immaterial and not binding on the defendant White. It was outside of his presence. The Court: It was in his (defendant White’s) presence, was it not? The Witness: Yes sir. The Court: Objection overruled. Mr. Ryan: It still has no bearing on the issues. The Court: Objection overruled.”
+The foregoing will serve as examples. Apparently the trial court was under the impression that the presence of the defendant alters the character as hearsay of the statements and declarations of others. Such is not the rule.
+Manifestly, statements made by others outside the presence of the defendant are clearly hearsay. Statements made by others are no less hearsay when made in the presence of a defendant. The so-called exception to the rule permitting the introduction of evidence of accusatory statements made to the accused may account for the confusion that appears to exist somewhat generally. Evidence of accusatory statements, however, may be received for but one purpose, namely, as the basis for evidence of the conduct of the accused in the face of such accusations. (People v. Shellenberger, 25 Cal. App. (2d) 402 at 408 [77 Pac. (2d) 506]; People v. Teshara, 134 Cal. 542 at 544 [66 Pac. 798]; People v. Philbon, 138 Cal. 530 at 532 [71 Pac. 650]; People v. Weber, 149 Cal. 325 at 338 [86 Pac. 671]; People v. Ah Yute, 54 Cal. 89; People v. Ayhens, 16 Cal. App. 618 at 623 [117 Pac. 789].) Although often referred to as an exception to the rule, the foregoing doctrine, it would seem, emphasizes and confirms the rule and is in entire accord therewith, rather than an exception.
+The objections by defendants to the questions as above noted should have been sustained. However, under the circumstances here presented, the failure of the court in this respect was not prejudicial.
+It is also contended that the district attorney was guilty of misconduct. An examination of the record reveals no serious infraction in this regard which could be said to have affected the outcome of the trial.
+The evidence is abundantly sufficient to sustain the judgment.
+For the foregoing reasons the judgments arc affirmed. The motion to dismiss the appeal as to White is granted.
+York, P. J., and White, J., concurred.
