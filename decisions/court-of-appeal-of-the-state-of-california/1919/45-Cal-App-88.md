@@ -1,0 +1,27 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 3220"
+decided: "1919-12-17"
+citations: ["45 Cal. App. 88"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CALAVERAS COPPER COMPANY et al., Petitioners, v. INDUSTRIAL ACCIDENT COMMISSION et al., Respondents."]
+source_url: "https://static.case.law/cal-app/45/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2055198
+---
+
+# Calaveras Copper Co. v. Industrial Accident Commission
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+The petitioners, as the employer and its insurer of one Andy Jordan, seek by this proceeding to have annulled an award made by the Industrial Accident Commission to said Andy Jordan by reason of certain injuries received by him while in the employ of said Calaveras Copper Company. The sole question presented for our consideration is as to whether or not at the time of his said injuries said Jordan, in doing the work out of which his injuries immediately arose, was acting within the scope of his employment.
+The particular work which said Jordan was doing at the time the accident occurred which caused his said injuries was this: He was, at said time and for some time prior thereto had been, employed by the Calaveras Copper Company as a truck driver in and about its property at Copperopolis, California, which property included a sawmill upon its premises at said place, his duty as such truck driver being to haul such lumber, wood, or other articles from place to place as directed by his employer. On the date of his injuries he had been instructed to haul some wood for one of the officials of the company, and in order to facilitate the doing of said work he concluded to put some additional sideboard on his truck and to fix the tailboard thereof so as to be able to carry at each load a larger quantity of wood. In order to procure the materials for these changes he went into the sawmill of the company and started up a rip-saw therein in order to cut the pieces required for such purpose to the needed sizes. While so engaged the teeth of the saw caught Jordan’s glove, drawing his fingers into contact with the saw and lacerating them severely.
+The petitioners contend that in thus making use of the saw Jordan was acting outside of the course of his employment as a truck driver, and was not, therefore, entitled to be awarded compensation for his injuries occasioned thereby. Upon a careful reading of the record herein we are satisfied that upon the facts presented to the commission this contention cannot be sustained. The evidence is quite conflicting, but we think sufficient appears from the testimony of the injured employee and others to show that there was sufficient evidence before the commission to sustain the award.
+Jordan, while denominated a truck driver and while such was in the main his employment, was also made use of by his employers to do other things than such as would come within the strict course of his duties as such truck driver. The testimony, for example, shows that upon other occasions, while awaiting a truckload of lumber at the mill, he would join with those immediately in charge of the saws in the task of sawing out such lumber. He was thus familiar with the work of running such saws, and it is not contended herein that his injuries were the result of any lack of skill or knowledge as to the manipulation of the saw which he was making use of at the time of his injuries. There is evidence also tending to show that on prior occasions he had been instructed to do work which required him to use or assist in using the saws. He also testifies that upon prior occasions he had been accustomed to make such repairs and, changes in his truck as might be needed or as would facilitate the work which he was required to do with it. The particular changes which he was undertaking just prior to his injuries were such as would facilitate the performance of the immediate work which he had been ordered to do and would thus be beneficial to his employer. On the particular occasion Jordan took the boards he had selected into the mill for the purpose of having "them sawed into proper lengths. One of the regular sawyers asked him what was wanted and Jordan replied that he desired to have the board sawed. The sawyer told him to wait a few minutes and he would do this, but Jordan, being in a hurry, undertook to use the saw himself. No objection to his doing so was made by the sawyer, and in fact Jordan testifies that he had never been instructed not to use the saws, but, on the contrary, used them for the doing of other work upon prior occasions with the knowledge of his employer and without objection. While the evidence with respect to some of these matters is conflicting, and while, on the whole, the weight of such evidence might preponderate in favor of the petitioners, we are still of the opinion that if the commission believed the statements made by Jordan in the premises, it would have been entitled to make an award in his favor based thereon.
+The petition will, therefore, be denied and the award sustained. It is so ordered.
+Waste, P. J., and Kerrigan, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on February, 13, 1920.
+All the Justices, except Wilbur, J., and Lennon, J., concurred.
