@@ -1,0 +1,119 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C037480"
+decided: "2001-11-30"
+citations: ["94 Cal. App. 4th 40"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT BROWN, Plaintiff and Appellant, v. ROBERT S. KENNARD, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/94/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171367
+cites_cases: ["100 Cal.Rptr.2d 602", "101 Cal.Rptr. 745", "113 Cal.Rptr. 113", "164 Cal.App.2d Supp. 853", "17 Cal.Rptr.2d 828", "216 Cal.Rptr. 718", "232 Cal.Rptr. 567", "250 Cal.App.2d 749", "266 Cal.Rptr. 638", "271 Cal.Rptr. 191", "295 P.2d 405", "31 Cal.App.4th 1466", "37 Cal.Rptr.2d 769", "38 Cal.App.3d 289", "39 Cal.3d 311", "4 Cal.4th 1187", "42 Cal.3d 1157", "46 Cal.2d 375", "496 P.2d 817", "50 Cal.3d 205", "51 Cal.3d 202", "58 Cal.App.4th 860", "59 Cal.Rptr. 34", "64 Cal.App.4th 53", "68 Cal.Rptr.2d 492", "7 Cal.3d 94", "7 Cal.App.3d 1", "703 P.2d 58", "728 P.2d 1202", "75 Cal.Rptr.2d 83", "786 P.2d 365", "793 P.2d 524", "81 Cal.App.4th 529", "84 Cal.App.4th 130", "847 P.2d 1044", "86 Cal.Rptr. 417", "96 Cal.Rptr.2d 801"]
+---
+
+# Brown v. Kennard
+
+## Majority (DAVIS, Acting P. J.)
+
+Opinion
+DAVIS, Acting P. J.
+Robert Brown (Brown) appeals from a judgment of dismissal entered after the trial court sustained a demurrer to his complaint without leave to amend.
+Brown sued Robert S. Kennard (Kennard) for abuse of process after Kennard enforced a purported money judgment by levying on Brown’s deposit account pursuant to a writ of execution. The purported judgment was entered against Robert Womack in an action to which Brown was not a party and in which Kennard represented the judgment creditor, Linda Bennett (Bennett v. Womack (Super. Ct. El Dorado County, 1987, No. 44497)) (Bennett v. Womack).
+On appeal, Brown and Kennard agree that the sole issue is whether Brown’s abuse of process action is barred by the litigation privilege outlined in Civil Code section 47, subdivision (b). We conclude that it is and shall affirm the judgment.
+Discussion
+1. Standard of Review
+When considering an appeal following the sustaining of a demurrer, only the legal sufficiency of the complaint is challenged. “We therefore treat as true all of the complaint’s material factual allegations, but not contentions, deductions or conclusions of fact or law.” We may also consider matters that may be judicially noticed.
+When a demurrer is sustained without leave to amend, our job is to determine whether there is a reasonable possibility that a cause of action can be stated: if it can be, we reverse; if not, we affirm.
+2. Brown’s Complaint
+Brown alleges that Kennard abused process by causing a wrongful writ of execution to be levied upon his “categorically exempt funds,” i.e., Social Security retirement benefits and personal retirement benefits. Additionally, Brown maintains that Kennard refused to release the levy after Brown notified Kennard of the exempt status of the funds. Moreover, Brown claims the purported money judgment that provided the basis for the levy was void because it was an order granting partial summary judgment, and that final judgment was never entered in the corresponding underlying action (i.e., the Bennett v. Womack action). Brown further alleges that he was not a defendant in the underlying litigation or a judgment debtor of that action. In declaring that Kennard abused process, Brown states that Kennard’s ulterior motive was to “extortQ payment from Robert Womack, knowing there had never been a final judgment entered in [the underlying action].”
+Kennard demurred, claiming in part that Brown failed to state a cause of action because “issuance of a writ of execution is absolutely privileged” and that the communicative act of causing the writ to be issued occurred during a judicial proceeding under Civil Code section 47, subdivision (b) (hereafter section 47(b)).
+3. The Tort of Abuse of Process
+The tort of abuse of process arises when one uses the court’s process for a purpose other than that for which the process was designed. “[T]he essence of the tort [is] . . . misuse of the power of the court; it is an act done in the name of the court and under its authority for the purpose of perpetrating an injustice.” To succeed in an action for abuse of process, a litigant must establish two elements: that the defendant (1) contemplated an ulterior motive in using the process; and (2) committed a willful act in the use of the process not proper in the regular conduct of the proceedings. In other words, abuse of process requires an act outside the purpose of the process.
+As early as 1958, California recognized that an action for abuse of process may inhere where a wrongful levy is executed upon exempt property. However, later judicial decisions construing the litigation privilege of section 47(b) have substantially eroded the efficacy of the tort as it pertains to court-sanctioned enforcement of judgments, if adequate alternative remedies exist. For the following reasons, the privilege precludes Brown from asserting a cause of action for abuse of process.
+4. The Litigation Privilege
+Originally enacted in 1872, the litigation privilege—a codified extension of the common law’s defense to defamation actions—protected publications and communications made during proceedings authorized by law. Today, the codified privilege reads in pertinent part: “A privileged publication or broadcast is one made: [f] . . . [^] (b) In any ... (2) judicial proceeding . . . ,” The California Supreme Court, in Silberg v. Anderson, set forth a four-part test for determining whether a publication or communication is privileged. The privilege applies to publications and communications: “(1) made in judicial or quasi-judicial proceedings; (2) by litigants or other participants authorized by law; (3) to achieve the objects of the litigation; and (4) that have some connection or logical relation to the action.”
+Additionally, the Supreme Court in Silberg articulated the policies furthered by the litigation privilege. The chief function of the privilege is to afford litigants and witnesses free access to the courts without the threat of derivative litigation.
+Because the policy goal of encouraging free access to the courts by discouraging derivative litigation is paramount, California courts have extended the litigation privilege beyond the defamation context to preclude numerous other tort actions. For example, abuse of process, fraud, intentional inducement of breach of contract, intentional infliction of emotional distress, intentional interference with prospective economic advantage, invasion of privacy, negligence, and negligent misrepresentation are all subject to the privilege. Malicious prosecution is the only tort not subject to the litigation privilege. Yet, the threshold issue in determining whether the privilege applies is whether the injury resulted from communicative acts or noncommunicative conduct. The litigation privilege applies only to torts arising from communicative acts; it does not protect purely noncommunicative tortious conduct. Because the privilege applies without regard to malice or evil motives, it has been characterized as “absolute.”
+5. The Litigation Privilege Bars Brown’s Claim for Abuse of Process
+As stated, California courts recognized long ago that a wrongful levy may constitute an abuse of process, and a levy is wrongful where made upon the exempt property of a judgment debtor. In Tiffith, the plaintiff in an underlying action obtained a default judgment against the defendant on a promissory note. The plaintiff then garnished the defendant’s wages three times, despite the defendant’s claim of full exemption. Recognizing an action for abuse of process against the plaintiff, the appellate court stated that the issuance of further writs would prejudice the defendant’s employment and result in the expense of reasserting his claim of exemption each time. The successive seizures of the defendant’s exempt property gave rise to a claim of abuse of process.
+In Czap v. Credit Bureau of Santa Clara Valley, the Court of Appeal recognized a cause of action for abuse of process based on allegations that a collection agency obtained a levy and threatened subsequent levies despite knowledge that the plaintiff’s wages were exempt from execution. The plaintiff complained the defendant’s ulterior purpose was to jeopardize the plaintiff’s employment, thus compelling her to use her exempt wages to satisfy her debt.
+Finally, in Barquis, the California Supreme Court held that a plaintiff stated a cause of action for abuse of process by alleging that a collection agency “wilfully and knowingly filed actions in an improper county pursuant to statutorily inadequate pleadings ... for the ulterior purpose and with the intent to impair individuals’ rights to defend suits and, in effect, to coerce inequitable settlements and default judgments by making it inconvenient for defendants to defend suits on their merits.” Specifically, the Barquis court noted that the “widespread occurrence of the alleged misfiling abuse” “stated a cause of action for injunctive relief from an abuse of process.”
+Notwithstanding the recognition of abuse of process in these decisions involving enforcement or enforcement-like contexts, the decisions do not address the litigation privilege of section 47(b). More recent decisions, invoking that privilege, have strictly limited use of that tort in the judgment enforcement context, at least where successive seizures of exempt property are not involved.
+In Merlet, a demurrer was sustained without leave to amend, dismissing a complaint that alleged the judgment creditor defendants abused process by improperly applying for a writ of sale, moving to reconsider the order denying the writ, and filing an appeal from the reconsideration order. The plaintiff, not a party to the judgment sought to be enforced against him, maintained that defendants acted improperly by attempting to acquire his property. The defendants claimed their conduct was privileged under section 47(b). The appellate court determined that the complained of conduct—which consisted of actions to enforce a judgment—was the type of conduct permitted by law in the course of a judicial proceeding. In addition, the appellate court held that the plaintiff could not amend his complaint to allege any injury outside of the judicial proceeding, and that the defendants never interfered with the plaintiff’s property interest through wrongful conduct outside of the judicial proceeding.
+The court in Merlet looked to the decisions in Kimmel and Mero as exemplifying conduct “completely outside the judicial proceedings” and therefore outside the litigation privilege and supportive of an abuse of process claim.
+In Kimmel, the California Supreme Court held that the litigation privilege did not apply where the complained of conduct occurred outside of a judicial proceeding. The alleged injury resulted from the taping of a confidential telephone conversation, not the publication or broadcast of the conversation in a judicial proceeding. Thus, to the extent any injury related to testimony regarding the content of the taped conversation, the privilege applied. To the extent the injury resulted from the invasion of privacy outside the judicial proceeding, the conduct was not privileged.
+In Mero, the plaintiff claimed she was negligently injured during a medical examination that was requested by her employer in a workers’ compensation matter; the plaintiff alleged the defendant doctor strapped her into an apparatus causing her body “ ‘to be contorted and maneuvered in various damaging positions.’ ” The trial court granted summary judgment for the doctor on the ground that the doctor’s actions were privileged under section 47(b). The appellate court held that the litigation privilege applies only to torts arising from communicative acts. The plaintiff’s suit involved only the doctor’s noncommunicative conduct; thus the privilege did not apply and summary judgment was improper.
+Another highly relevant and recent decision in the judgment enforcement context is O’Keefe v. Kompa The trial court below relied upon O’Keefe to sustain Kennard’s demurrer.
+In O’Keefe, the plaintiff sued for abuse of process after the defendants attempted to enforce a judgment entered against the plaintiff in another action while that action was on appeal. The trial court sustained the defendants’ demurrer without leave to amend; the appellate court affirmed, holding that the enforcement efforts (levying on a bank account and filing an abstract of judgment) were privileged “extension[s] of th[e] judicial process” which “were logically and legally related to the realization of a litigation objective—that is, collection of a judgment.” Similar to Brown, plaintiff O’Keefe complained that the levy on his bank account constituted an abuse of process. And similarly, O’Keefe suggested that the filed abstract of judgment was fraudulent. The appellate court rejected these claims noting that, for policy reasons, even an otherwise qualifying fraudulent act is privileged under section 47(b). The court added: “The conclusion that defendants’ actions were privileged (even if, as alleged, wrongful and harmful) necessarily means plaintiff has no tort remedy against them.”
+Brown maintains that O’Keefe is inapt because O’Keefe involved a levy on the nonexempt assets of a party to a valid judgment, in diametric contrast to his allegations of a levy on the exempt assets of a nonparty to an invalid judgment. Brown maintains there was no abuse of process in O’Keefe. Undeniably, however, enforcement proceedings are an extension of the judicial process and are related to the realization of a litigation objective. Here, Kennard sought to enforce an allegedly invalid judgment. Based on facts alleged or judicially noticeable, Kennard employed a court-sanctioned procedure to obtain a writ of execution on that judgment, levied on that writ within the confines of the judicial procedure, and used the writ for its designed purpose. In Merlet, the plaintiff alleged in his abuse of process action that the defendants acted improperly by attempting to acquire his property to enforce a judgment to which he was not a party; and in O’Keefe, the plaintiff alleged in his abuse of process action that the defendants’ judgment enforcement efforts were wrongful, harmful and fraudulent. These allegations did not preclude the affirmance on appeal, in both Merlet and O’Keefe, of demurrers sustained without leave to amend regarding abuse of process complaints. As such, Brown’s similar allegations of wrongful levy lose relevance in the inquiry of whether the litigation privilege bars Brown’s complaint for abuse of process.
+Brown complains that the wrongful levy deprived him of his property interest in his bank account, thus causing injury outside of the judicial proceeding. As stated ante, the court in Merlet looked to the decisions in Kimmel and Mero as exemplifying conduct “completely outside the judicial proceedings” and therefore outside the litigation privilege and supportive of an abuse of process claim. In light of Merlet, Kimmel, and Mero, Brown misinterprets the meaning of injury outside of a judicial proceeding for abuse of process purposes. Again, Kennard employed a judicial process (writ of execution) to enforce a purported judgment pursuant to the purpose for which the process was designed, and did so within the confines of a judicial procedure. (As we shall see, while Brown does not have a remedy of an abuse of process action, he may move to quash the allegedly wrongful writ of execution and levy, and obtain a return of his property.)
+In a related vein, Brown claims that the levy was neither a statement nor a communication within the litigation privilege. Preliminarily, we note that judgment enforcement efforts, as an extension of a judicial proceeding and related to a litigation objective, are considered to be within the litigation privilege. Specifically, Brown contends that his abuse of process claim does not rely on the communicative act of applying for a writ of execution', he notes that the act found to be within the litigation privilege in Merlet was an application for a writ of sale Brown maintains that his abuse of process claim arises from the wrongful levy effected pursuant to the writ, including the interference with his property rights and the levy upon exempt property. As Kennard observes, however, Brown is claiming a “distinction without a difference.” The act of applying for a writ is privileged. The privilege extends to torts arising from the privileged statement or publication. As such, not only does the privilege protect the application for the writ of execution, it also extends to the act of carrying out the directive of the writ. To hold otherwise would effectively strip the litigation privilege of its purpose.
+Here, then, the policy underlying the litigation privilege of encouraging free access to the courts by discouraging derivative litigation simply outweighs the policy of providing Brown with a tort remedy for an allegedly wrongful enforcement of a judgment. That is not to say that Brown is remediless, however.
+The recent decisions that invoke the litigation privilege and curtail the derivative tort remedy of abuse of process arising from allegedly wrongful levies recognize, importantly, that the plaintiff (the one being levied upon) is not left remediless. In O’Keefe, for example, the court acknowledged that the plaintiff could have posted an undertaking or sought a writ of supersedeas to thwart the enforcement efforts. Thus, although the tort remedy of an abuse of process action is outweighed by the policy aim of allowing unfettered access to the courts, there are other remedies. Indeed, Brown’s brief acknowledges the most viable remedy—a motion to quash the allegedly wrongful writ of execution and levy and to obtain the return of his property. Brown notes in his brief that another third party here also faced a writ of execution to collect on the judgment from the underlying litigation and immediately moved successfully to quash the writ.
+We conclude the litigation privilege of section 47(b) bars Brown’s cause of action for abuse of process. It is not reasonably possible that Brown can amend his complaint to state such a cause of action.
+Disposition
+The judgment is affirmed.
+Raye, J., and Morrison, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied February 20, 2002. Baxter, J., did not participate therein.
+216 Sutter Bay Associates v. County of Sutter (1997) 58 Cal.App.4th 860, 866 [68 Cal.Rptr.2d 492] (216 Sutter Bay Associates).
+216 Sutter Bay Associates, supra, 58 Cal.App.4th at page 866.
+Blank v. Kirwan (1985) 39 Cal.3d 311, 318 [216 Cal.Rptr. 718, 703 P.2d 58].
+Ball v. GTE Mobilnet of California (2000) 81 Cal.App.4th 529, 535 [96 Cal.Rptr.2d 801].
+Brown also named as defendants Linda Bennett, the plaintiff in the underlying litigation, and Wells Fargo Bank, NA, the bank where Brown maintained the deposit account at issue. However, Brown only served his complaint upon Kennard, the attorney who represented Linda Bennett in the underlying litigation, and the judgment on appeal here pertains only to Kennard.
+5 Witkin, Summary of California Law (9th ed. 1988) Torts, section 459, page 547.
+Meadows v. Bakersfield S. & L. Assn. (1967) 250 Cal.App.2d 749, 753 [59 Cal.Rptr. 34]; see also 5 Witkin, Summary of California Law, supra, Torts, section 461, page 548.
+Oren Royal Oaks Venture v. Greenberg, Bernhard, Weiss & Karma, Inc. (1986) 42 Cal.3d 1157, 1168 [232 Cal.Rptr. 567, 728 P.2d 1202]; Barquis v. Merchants Collection Assn. (1972) 7 Cal.3d 94, 103-104 [101 Cal.Rptr. 745, 496 P.2d 817] (Barquis).
+Younger v. Solomon (1974) 38 Cal.App.3d 289, 297 [113 Cal.Rptr. 113]; see also Merlet v. Rizzo (1998) 64 Cal.App.4th 53, 65-66 [75 Cal.Rptr.2d 83] (Merlet).
+Arc Investment Co. v. Tiffith (1958) 164 Cal.App.2d Supp. 853, 856 [330 P.2d 305] (Tiffith).
+See Historical and Statutory Notes, 6 West’s Annotated Civil Code (1982 ed.) following section 47, page 239.
+Section 47(b).
+Silberg v. Anderson (1990) 50 Cal.3d 205, 212 [266 Cal.Rptr. 638, 786 P.2d 365] (Silberg).
+Silberg, supra, 50 Cal.3d at page 212.
+Silberg, supra, 50 Cal.3d at page 213, citing Albertson v. Raboff (1956) 46 Cal.2d 375, 380 [295 P.2d 405].
+Silberg, supra, 50 Cal.3d at page 215.
+Silberg, supra, 50 Cal.3d at page 216.
+Kimmel v. Goland (1990) 51 Cal.3d 202, 211 [271 Cal.Rptr. 191, 793 P.2d 524] (Kimmel).
+Mero v. Sadoff (1995) 31 Cal.App.4th 1466, 1480 [37 Cal.Rptr.2d 769] (Mero); Kimmel, supra, 51 Cal.3d at pages 211-212.
+Silberg, supra, 50 Cal.3d at page 215.
+Tiffith, supra, 164 Cal.App.2d at page Supp. 855.
+Tiffith, supra, 164 Cal.App.2d at page Supp. 855.
+Tiffith, supra, 164 Cal.App.2d at page Supp. 855.
+Tiffith, supra, 164 Cal.App.2d at page Supp. 856.
+Czap v. Credit Bureau of Santa Clara Valley (1970) 7 Cal.App.3d 1, 5 [86 Cal.Rptr. 417] (Czap).
+Czap, supra, 7 Cal.App.3d at pages 5-6.
+Barquis, supra, 7 Cal.3d at page 104.
+Barquis, supra, 7 Cal.3d at page 108; see also Czap, supra, 7 Cal.App.3d at page 7 and Tiffith, supra, 164 Cal.App.2d at pages Supp. 856-857.
+Merlet, supra, 64 Cal.App.4th at pages 57-59, 64.
+Merlet, supra, 64 Cal.App.4th at pages 57, 65.
+Merlet, supra, 64 Cal.App.4th at page 65.
+Merlet, supra, 64 Cal.App.4th at pages 65-66.
+Merlet, supra, 64 Cal.App.4th at page 66.
+Merlet, supra, 64 Cal.App.4th at page 65; Kimmel, supra, 51 Cal.3d at pages 209-210; Mero, supra, 31 Cal.App.4th at pages 1479-1480.
+Kimmel, supra, 51 Cal.3d at pages 211-212.
+Kimmel, supra, 51 Cal.3d at pages 209, 211-212.
+Kimmel, supra, 51 Cal.3d at pages 210, 211-212.
+Mero, supra, 31 Cal.App.4th at page 1470.
+Mero, supra, 31 Cal.App.4th at page 1479.
+Mero, supra, 31 Cal.App.4th at page 1480.
+Mero, supra, 31 Cal.App. 4th at page 1480.
+O’Keefe v. Kompa (2000) 84 Cal.App.4th 130 [100 Cal.Rptr.2d 602] (O’Keefe).
+O'Keefe, supra, 84 Cal.App.4th at page 132.
+O’Keefe, supra, 84 Cal.App.4th at page 132.
+O’Keefe, supra, 84 Cal.App.4th at pages 132, 134-135.
+O’Keefe, supra, 84 Cal.App.4th at pages 132, 134.
+O’Keefe, supra, 84 Cal.App.4th at page 135.
+O'Keefe, supra, 84 Cal.App.4th at page 135.
+O‘Keefe, supra, 84 Cal.App.4th at page 135.
+See Merlet, supra, 64 Cal.App.4th at pages 64-66; O’Keefe, supra, 84 Cal.App.4th at pages 134-135.
+Merlet, supra, 64 Cal.App.4th at pages 57, 58, 64-66; O’Keefe, supra, 84 Cal.App.4th at pages 132, 134-136.
+Merlet, supra, 64 Cal.App.4th at page 65; Kimmel, supra, 51 Cal.3d at pages 209-210; Mero, supra, 31 Cal.App.4th at pages 1479-1480.
+O’Keefe, supra, 84 Cal.App.4th at pages 134-135; Merlet, supra, 64 Cal.App.4th at pages 64-66.
+Merlet, supra, 64 Cal.App.4th at pages 64-66.
+Merlet, supra, 64 Cal.App.4th at pages 64-66.
+Mero, supra, 31 Cal.App.4th at page 1480.
+O’Keefe, supra, 84 Cal.App.4th at pages 134-135.
+O’Keefe, supra, 84 Cal.App.4th at pages 135-136; see Rubin v. Green (1993) 4 Cal.4th 1187, 1204 [17 Cal.Rptr.2d 828, 847 P.2d 1044]; Silberg, supra, 50 Cal.3d at pages 218-219.
+O’Keefe, supra, 84 Cal.App.4th at pages 135-136.
+We grant Kennard’s request to judicially notice the writ of execution and instructions to the levying officer, and deny his request to judicially notice the order granting partial summary judgment and the notice of entry of judgment in the Bennett v. Womack action. We have simply assumed, for purposes of this appeal, that the challenged levy was undertaken pursuant to an invalid judgment. We also deny Kennard’s motion to disregard/strike certain defects in Brown’s opening brief.
