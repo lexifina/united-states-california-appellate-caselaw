@@ -1,0 +1,46 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B069855"
+decided: "1993-06-24"
+citations: ["16 Cal. App. 4th 1083"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. DELFINO MUNIZ, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/16/cases/1083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4381283
+cites_cases: ["139 Cal.Rptr. 275", "146 Cal.Rptr. 732", "2 Cal.Rptr.2d 160", "205 Cal.Rptr. 775", "21 Cal.3d 542", "248 Cal.Rptr. 172", "279 Cal.Rptr. 720", "36 Cal.3d 604", "45 Cal.3d 867", "53 Cal.3d 152", "54 Cal.3d 1063", "579 P.2d 1048", "685 P.2d 1126", "71 Cal.App.3d 1", "755 P.2d 355", "807 P.2d 949", "820 P.2d 262"]
+---
+
+# People v. Muniz
+
+## Majority (VOGEL (Miriam A.), J.)
+
+Opinion
+VOGEL (Miriam A.), J.
+Delfino Muniz was charged with conspiracy to commit an assault with a firearm. He waived his right to a jury trial, submitted the matter to the trial court on the transcript of his preliminary hearing, and was convicted. We affirm.
+Facts
+Muniz was originally charged with one count of conspiracy to commit murder. At his preliminary hearing, the prosecutor called only one witness, Deputy James Corrigan, a nine-year veteran of the Los Angeles County Sheriff’s Department who was one of three investigating officers in this case.
+Deputy Corrigan testified that he had reviewed an arrest report prepared by Deputies Thompson and Benson. Corrigan then described the contents of that report: At about 7:45 p.m. on June 22, 1991, Thompson and Benson were patrolling in Compton when they saw a car with four male occupants parked on the street so that it blocked an alley. When the deputies approached the car, they saw Muniz, who was holding the butt end of a rifle, sitting in the back seat next to German Lopez, who was holding the rifle by the barrel. The deputies told all four men to get out of the car, which they did. The deputies then removed from the car a .22-caliber semiautomatic carbine rifle containing 15 live rounds (in a banana clip with a capacity for 30 rounds). Muniz was advised of his rights and arrested (as was Lopez, although he is not a party to this appeal).
+Independent of the report, Deputy Corrigan testified about his expertise in gang investigations and his knowledge of gang activities in the Compton area, and he specifically testified that both Muniz and Lopez were members of the Compton Varrio gang (which is also known as the CV 70’s). Deputy Corrigan then opined that four gang members in a car with a semiautomatic weapon suggests preparation to do a drive-by shooting.
+Deputy Corrigan also testified that his personal involvement with Muniz began at the station. Corrigan advised Muniz of his rights, which Muniz waived. Muniz then admitted membership in the CV 70’s, and admitted he and Lopez were in the car with the rifle on their way to “Acacia Block” (the turf of the Acacia Block Crips, a rival gang) to do a drive-by shooting “to pay them back” for recent shootings and the death of one of their “home boys.” They had no particular victim in mind but were “just going to tell the two guys driving where to go and look for somebody.”
+Although Muniz was held to answer to the charge of conspiracy to commit murder, the information was later amended to charge him with conspiracy to commit an assault with a firearm. (Pen. Code, §§ 182, subd. (a)(1), 245, subd. (a)(2).) Muniz’s motion to dismiss was denied. Following appropriate waivers by Muniz on the day of trial, the parties stipulated to submission of the matter on the transcript of the preliminary hearing and the trial court found Muniz guilty as charged in the amended information. This appeal followed.
+Discussion
+I.
+Muniz concedes that Deputy Corrigan’s hearsay statements were properly admitted at the preliminary hearing but contends they were not admissible at trial and that, therefore, there is no substantial evidence supporting his conviction. We disagree.
+Under Proposition 115, a finding of probable cause may be based in whole or in part upon the hearsay statements of a qualified investigating officer. (§ 872, subd. (b); Whitman v. Superior Court (1991) 54 Cal.3d 1063 [2 Cal.Rptr.2d 160, 820 P.2d 262].) According to Muniz, the omission from subdivision (b) of section 872 of any reference to the admissibility of such hearsay at trial means the evidence was improperly admitted at his trial. We reject this assertion and hold that where, as here, a defendant waives his right to a full trial and stipulates to a submission on the transcript without a specific objection at the preliminary hearing or at trial, hearsay which was properly admitted at the preliminary hearing may be received in evidence at trial.
+Although Muniz objected at the preliminary hearing to the admission there—that is, at the preliminary hearing—of Deputy Corrigan’s hearsay statements, he did not object at that time on the ground that the deputy’s testimony would be inadmissible hearsay if Muniz later decided to submit the matter to the trial court on the basis of the deputy’s testimony as set out in the transcript of the preliminary hearing. At the time of trial, Muniz said only that the matter was submitted on the transcript “subject to” the objections taken at the preliminary hearing, thereby preserving for appeal such issues as there might have been about the admissibility of hearsay evidence at the preliminary hearing. He did not utter a peep about the issue raised for the first time on this appeal.
+Obviously, if the point now made had been raised either at the preliminary hearing or at trial, the People would have refused to stipulate to a submission on the transcript and one or both of the arresting officers would have been brought into court to avoid the hearsay problem. By his failure to raise the point below, Muniz deprived the People of an opportunity to cure the defect he now asserts as error. The result is that the error, if that is what it was, was waived. (People v. Rogers (1978) 21 Cal.3d 542, 547-548 [146 Cal.Rptr. 732, 579 P.2d 1048]; People v. Morris (1991) 53 Cal.3d 152, 187-188 [279 Cal.Rptr. 720, 807 P.2d 949] [an objection to exclude evidence is sufficient if it contains “a request to exclude specific evidence on the specific legal ground urged on appeal”].)
+On the facts of this case, any other conclusion places the defendant in the enviable but inappropriate position of, “Heads I win, tails you lose.” That is not the way the system is supposed to work.
+II.
+Muniz next contends his admissions were improperly admitted because the corpus delicti of the crime was not first established. We disagree.
+Although it is true that the corpus delicti—here, an agreement to commit an assault with a firearm and an overt act in furtherance of that agreement (§§ 182, subd. (a)(1), 245, subd. (a)(2))—must be proved independently of the defendant’s extrajudicial statements (People v. Robbins (1988) 45 Cal.3d 867, 885-886 [248 Cal.Rptr. 172, 755 P.2d 355]), it is equally true that the required “independent proof’ may be by circumstantial evidence and that it need not be beyond a reasonable doubt. A slight or prima facie showing, permitting the reasonable inference that a crime was committed, is sufficient and once this threshold is met, the defendant’s admissions may be considered on all issues. (People v. Alcala (1984) 36 Cal.3d 604, 624 [205 Cal.Rptr. 775, 685 P.2d 1126]; People v. Robbins, supra, 45 Cal.3d at pp. 885-886; People v. Manson (1977) 71 Cal.App.3d 1, 41 [139 Cal.Rptr. 275].)
+The evidence that Muniz, holding the butt end of a loaded semiautomatic rifle with a banana clip, was sitting in a parked car with three fellow gang members, combined with Deputy Corrigan’s expert opinion that four gang members in a car with a semiautomatic weapon suggests preparation to do a drive-by shooting, is more than adequate to establish the corpus delicti. These facts lead logically to the conclusion that there was a conspiracy between Muniz and his cohorts to commit an assault with a firearm (and do not reasonably suggest they were working on their marksmanship merit badges for their scout troop or any other innocent conclusion). No more was required.
+III.
+Finally, Muniz contends his custody and conduct credits were not properly calculated at the time of sentencing. As the People correctly concede, it is impossible to determine from the record the number of actual custody days and thus equally impossible to determine conduct credits. Accordingly, a further hearing in the trial court is necessary to resolve this issue.
+Disposition
+The judgment is affirmed, with directions to the trial court to hold a hearing to determine whether Muniz is entitled to additional custody and conduct credits.
+Spencer, P.J., and Masterson, J., concurred.
+All section references are to the Penal Code.
+At the preliminary hearing, Muniz timely and specifically objected to the introduction of his extrajudicial statements on this ground and the issue is therefore properly before us. (People v. Rogers, supra, 21 Cal.3d at pp. 547-548.)
