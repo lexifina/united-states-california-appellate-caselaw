@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1110"
+decided: "1924-01-17"
+citations: ["65 Cal. App. 306"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. BENJAMIN KING, Appellant."]
+source_url: "https://static.case.law/cal-app/65/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149503
+cites_cases: ["126 Pac. 143", "127 Pac. 1031", "163 Cal. 476", "164 Cal. 143", "164 Pac. 609", "181 Cal. 315", "184 Pac. 389", "33 Cal. App. 195"]
+---
+
+# People v. King
+
+## Majority (ST. SURE, J.)
+
+ST. SURE, J.
+Defendant was charged and convicted of the crime defined in section 288 of the Penal Code. He appeals from the judgment and from an order denying his motion for a new trial. He contends that the evidence is insufficient to warrant the verdict and also that the trial court committed error in failing to make more specific an instruction given on a certain point of law.
+The victim of defendant’s alleged assault was a girl six years of age. The story of the offense was told by Thomas Murphy, a police officer, who was on duty in the old fair grounds, San Francisco. While walking through the high weeds he saw the little girl lying on the ground and the defendant apparently lying over her. He grabbed the defendant and pulled him over. Defendant’s pants were down, his privates were exposed, and the child was lying on her back, her coveralls were down over her feet and her flesh exposed. “I asked him why he should be guilty of such a crime,” testified the officer. “He said his only excuse was he had been drinking moonshine.”
+It is argued, on behalf of defendant, that the evidence does not support the allegations of the information, in that it cannot be inferred from the evidence that “the defendant placed his hands and private parts upon and against the body and legs and private parts of the child.” The facts in the instant case are somewhat similar to those in People v. Dong Pok Yip, 164 Cal. 143 [127 Pac. 1031]. There, as here, the testimony revealed the fact that the defendant had first secured the confidence of the child, whom he led to a secluded place such as would be selected for the commission of the crime charged; that he had induced or placed the child in a position and he himself had assumed an attitude which clearly indicated his indecent purpose; that he exposed his own person, and that the child’s clothing had been disarranged in a manner which comported with the theory of the prosecution regarding the defendant’s guilt. All of this, coupled with the lack of consent on the part of the little child, was sufficient to support a verdict of guilty. (See, also, the case of People v. Smith, 33 Cal. App. 195 [164 Pac. 609].)
+It is the function of the jury in the first instance, and of the trial court after verdict, to determine what facts are established by the evidence, and before the verdict of the jury, which has been approved by the trial court, can be set aside on appeal upon the ground we are discussing, it must be made clearly to appear that upon no hypothesis whatever is there sufficient substantial evidence to support the conclusion reached in the court below. (People v. Tom Woo, 181 Cal. 315, 326 [184 Pac. 389].)
+Defendant’s objection to the instructions of the trial court was that “they were not sufficient to cover the offense charged in the information. In other words, they were not specific enough to establish the rule of evidence in prosecutions under section 288 of the Penal Code. There was no instruction upon the distinction between the" acts constituting an offense in section 288 of the Penal Code and the acts constituting other crimes which are excepted in said section.” This objection is not leveled at any particular instruction, nor is our attention called to any authority supporting any such objection. The record shows that defendant requested no instructions; it further shows that the trial court instructed the jury concerning the offense charged in the information as follows:
+“The Court instructs the jury that if you believe from the evidence beyond a reasonable doubt, that in the city and county of San Francisco, at or about the time mentioned in the information, the defendant did feloniously, willfully and lewdly commit a lewd and lascivious act upon or with the body, or upon or with the members or private parts of the body of Anita Jones, by then and there touching, rubbing or fondling the body, or members, or private parts thereof, of the said Anita Jones, as charged in the information, with intent then and there of arousing, appealing to, or gratifying the lust, passions, or sexual desires of the defendant, and the^ said Anita Jones, or either of them, as charged in the in--formation, and that the said Anita Jones was then under the age of fourteen years, then you should find the defendant guilty.”
+This instruction, by its reference to the particular act charged in the information to have been committed by the defendant, does, we think, sufficiently differentiate between this offense and the acts constituting other crimes against children, provided for in other sections of the Penal Code; and otherwise the instruction follows the language of the statute. We find, therefore, no merit in defendant’s contention. Furthermore, our supreme court has enunciated a rule of law, applicable to this class of case, which provides that “where a party in a criminal case fails to ask the court to give instructions to the jury upon a particular point, he cannot complain of error on the part of the court in not giving the instructions.” (People v. Rogers, 163 Cal. 476, 484 [126 Pac. 143, 146].)
+Judgment and order affirmed.
+Tyler, P. J., and Richards, J., concurred.
