@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10099"
+decided: "1936-07-17"
+citations: ["15 Cal. App. 2d 512"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CENTRAL NATIONAL BANK OF OAKLAND (a National Banking Association), Respondent, v. J. LYDELL PECK, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/15/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2277233
+cites_cases: ["109 Pac. 617", "113 Cal. App. 127", "120 Pac. 422", "132 Cal. App. 330", "132 Cal. App. 573", "153 Cal. 234", "157 Cal. 762", "161 Cal. 710", "2 Cal. (2d) 493", "214 Cal. 251", "22 Pac. (2d) 801", "23 Pac. (2d) 41", "297 Pac. 974", "41 Pac. (2d) 927", "42 Pac. (2d) 663", "5 Cal. App. (2d) 412", "5 Pac. (2d) 4", "94 Pac. 889"]
+---
+
+# Central National Bank v. Peck
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+The complaint declared on a promissory note secured by a pledge of stock; after default, the pledgee sold the shares; the prayer is for the deficiency. The answer and counterclaim pleaded that the sale was fraudulent; that the shares were worth greatly in excess of the proceeds of the sale; the prayer was for .damages for conversion. Plaintiff had judgment on the pleadings. In a former trial judgment went for defendant but plaintiff was granted a new trial. The defendant appealed and the order was affirmed. (5 Cal. App. (2d) 412 [42 Pac. (2d) 663].)
+The ground stated by the appellant as that involved in this appeal is: “When a pledgor seeks damages for a conversion, as distinguished from a return of the shares, he need not make tender or demand. ” The argument is also made, however, that the question of the sufficiency of his answer and cross-complaint was determined on the former appeal and that the former decision is the “law of the case”. The position is not tenable because the only question considered and determined on the former appeal was whether the trial court abused its discretion in granting a new trial. But this ruling did not involve any consideration of the pleadings. “The doctrine of the law of the case is limited to rulings upon questions which were actually presented and considered upon the former appeal.” (Trower v. San Francisco, 157 Cal. 762, 765 [109 Pac. 617].)
+The respondent also has argued questions other than that stated in appellant’s brief. It contends, and properly so, that if the motion for judgment is valid on any ground it must- be sustained. The complaint pleaded the promissory note, the pledge, the sale, and the deficiency due. The answer admitted all but the sale. In his counterclaim and cross-complaint the appellant pleaded a conversion arising out of the sale which he had denied had been made. Whether the denial should be treated as nullified by the subsequent pleadings (Poe v. Francis, 132 Cal. App. 330 [22 Pac. (2d) 801]), or should be treated as frivolous and sham, the result is the same. An ineffectual attempt is made to deny the proceeds of the sale, but there is no denial of the amount of principal and interest alleged to be due.
+The counterclaim pleads no issuable facts. The complaint alleged that the sale of the pledged stock was made through a brokerage concern. The counterclaim pleads that it was fraudulent because the purchaser was a corporation organized by and having its offices with the plaintiff. No facts constituting the alleged fraud are pleaded, but, by the express terms of the note admitted by the appellant, the respondent was permitted to become a purchaser either directly or in the name of another. Thus we are left with nothing but the suspicions which might arise from the circumstances just stated. Such pleadings are not sufficient to raise an issue of fraud. (Hannon v. Madden, 214 Cal. 251 [5 Pac. (2d) 4].)
+Though it pleads that a pretended sale of the stock was made, it does not plead what the proceeds of the sale were, or that they were inadequate or unreasonable. It does plead that the shares of stock “were of the reasonable actual value of $12,500 ’ ’, and that the plaintiff still has them in its possession. A pledgee is not bound to obtain the actual value of the pledged property. When inadequacy of the proceeds of the sale is the issue the market price and not the actual value is the criterion. (Hudgens v. Chamberlain, 161 Cal. 710, 714 [120 Pac. 422].) Furthermore, such allegations alone are insufficient; it must be alleged that the inadequacy of price was caused by some element of fraud, unfairness or oppression. (Stevens v. Plumas Eureka Annex Min. Co., 2 Cal. (2d) 493 [41 Pac. (2d) 927].) The sum and substance of the allegations of the counterclaim and cross-complaint is that the sale was a fraud upon the pledgor because it was made to a business associate of the pledgee for less than the “reasonable actual value”. For the reasons stated the pleadings fail to state a cause of action for conversion.
+Referring to the sole ground stated by appellant it follows, of course, that, since the pleadings affirmatively alleged that the pledgee in fact sold to itself and had possession of the stock and that the obligation for which the stock was pledged remained unsatisfied, allegations of a tender of payment and of a demand were necessary to make a case of conversion. (Kallem v. Vincent, 113 Cal. App. 127, 130 [297 Pac. 974]; Tracy v. Stock Assurance Bureau, 132 Cal. App. 573, 578 [23 Pac. (2d) 41]; Bell v. Bank of California, 153 Cal. 234, 238 [94 Pac. 889].)
+The allegations of the cross-complaint are of the same character and they, for the same reasons, fail to state a cause of action.
+The judgment is affirmed.
+Sturtevant, J., and Spence, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on August 15, 1936, and an application by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on September 14, 1936.
