@@ -1,0 +1,37 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 12488"
+decided: "1943-11-16"
+citations: ["61 Cal. App. 2d 359"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES D. STRICKLIN, Appellant, v. JAMES C. ROSEMEYER et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/61/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4682261
+cites_cases: ["126 P.2d 665", "151 Cal. 242", "161 P. 971", "173 Cal. 750", "52 Cal.App.2d 558", "90 P. 538"]
+---
+
+# Stricklin v. Rosemeyer
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+The plaintiff has appealed from the second
+adverse verdict of a jury denying him damages for injuries. On the former appeal this court reversed the judgment for defendants mainly on the error arising from the introduction of a San Francisco traffic ordinance which the Supreme Court in another matter held to he invalid after the trial of the case. (Stricklin v. Rosemeyer, 52 Cal.App.2d 558 [126 P.2d 665].)
+The evidence upon which the verdict rests is that plaintiff parked his automobile near the curb in front of his home with the left side of the vehicle facing the street. He opened the left front door, put his feet upon the running board and, with his head and shoulders protruding, looked to the rear and saw a passenger bus approaching which was operated by defendants. The bus was then from twelve to twenty feet to the rear of plaintiff’s car, and was traveling about fifteen miles an hour. The plaintiff then threw the door of his car farther open and prepared to alight into the street. The right door of the bus had been left open while the driver was collecting a fare and this door struck the door of plaintiff’s car with such force that it rebounded and injured plaintiff. The collision caused the bus to swerve so that the left rear fender of plaintiff’s ear was scratched by some portion of the rear of the bus. The appeal rests upon two grounds, the plaintiff claiming error in the giving of an instruction and in refusing one proposed by him.
+At the request of respondents the trial court gave this instruction: “Now I will read you some instructions that have been submitted by the defendant.
+“I instruct you that where a person has a choice of two ways of performing an act, one of which is safe and the other of which he knows (or in the exercise of reasonable care should know) is subject to danger; and such person chooses the dangerous way of performing the act and as a direct proximate result thereof is injured, such person is guilty of contributory negligence and is not entitled to recover damages from another on account of his injuries so received. ’ ’
+At the request of appellant the trial court gave this instruction: “The plaintiff, Charles Stricklin, is not to be charged "with negligence merely because he' alighted by the northerly door of his automobile. I instruct you that the standard of care required of the plaintiff in this action is ordinary care as defined in these instructions. It is the care an ordinary person of ordinary prudence would use' under all the circumstances of the situation, and if you find that the plaintiff did use ordinary care in alighting from his automobile, I instruct you that the plaintiff had a right to alight therefrom by the northerly door.”
+If there was any error in the first instruction it was certainly cured by the second. But that instruction is a correct statement of the law. It was so held in Douglas v. Southern Pacific Co., 151 Cal. 242, 251 [90 P. 538]; and Eontz v. San Pedro etc. R. R. Co., 173 Cal. 750, 757 [161 P. 971]. The rule is accurately stated in 38 Am.Jur. 873, as follows: ‘ ‘ One having a choice between methods of doing an act which are equally available, who chooses the more dangerous of the methods, is ordinarily deemed negligent, in the absence of a showing of the existence of an emergency, sudden peril, or other circumstance justifying such choice. The fact that the less dangerous method takes longer and is inconvenient and attended with difficulties furnishes no excuse for knowingly encountering the peril. ’ ’ The exceptions to the application of the rule are also noted, but no one is pertinent here.
+On the application of the rule it has been frequently stated that the “question” is whether the plaintiff knew that one way was safe and the other dangerous and chose the latter with full knowledge of those conditions. Here the appellant concedes that he had such knowledge and that the chosen way was in fact dangerous. It is a matter of common knowledge that sidewalks are maintained for the safety of pedestrians and that they are ordinarily less dangerous to the pedestrian than the traveled portion of vehicle highways.
+The instruction complained of was but a generalization of this well settled rule. Its application to the facts of this case was carefully tied in by the admonition that the use of the left door was not in itself negligence but that the plaintiff “had a right to alight therefrom” and could be • charged with negligence by reason of that act only if the jury found that he had not used “ordinary care as defined in these instructions.” It is a rational conclusion from the case as a whole that the jury denied appellant relief because it believed that he did not use “ordinary care” in continuing to expose himself to the known danger of the traveled portion of the highway after he saw the bus approaching.
+The failure to give the instruction proposed by appellant was not error because the same matter was covered by the instructions actually given. The proposed instruction was to the effect that even though plaintiff was negligent, his negligence would not bar a recovery by him if by the exercise of ordinary care on his part “the consequences of defendant’s negligence would not have been avoided.” This was but a repetition of what the trial court covered as will be seen from the following instructions which were given:
+“The proximate cause of an event must be understood to be that which, in the natural and continuous sequence, unbroken by any new, independent cause, produces that event and without which that event would not have occurred....
+“Now in regard to contributory negligence you are instructed that when the negligence of the injured party contributes proximately to the injuries complained of, the law will afford no redress. If, therefore, you find in this case that the plaintiff was negligent, and such negligence contributed proximately to the resulting accident, I instruct you that plaintiff cannot recover against defendant. . . .
+“Unless it is shown by, or may be inferred from, the evidence offered by plaintiff, such negligence is a matter of defense, to be proved affirmatively by defendants.
+“It is not incumbent upon the plaintiff to prove that he was free from contributory negligence.” (Emphasis ours.)
+Taking these instructions together the jury was informed that unless it was proved affirmatively that the plaintiff was negligent, and that without such negligence the accident would not have occurred, he would not be barred from recovery by contributory negligence. The proposed instruction was merely a restatement of the same matter in another form, but it was framed in such a manner that it would have tended to confuse the minds of the jurors.
+The judgment is affirmed.
+Sturtevant, J., and Spence, J., concurred.
