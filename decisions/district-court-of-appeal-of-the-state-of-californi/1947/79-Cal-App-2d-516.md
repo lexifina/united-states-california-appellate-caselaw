@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7358"
+decided: "1947-05-07"
+citations: ["79 Cal. App. 2d 516"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DELFINA TARASCO, Respondent, v. THURMON DEVINE MOYERS et al., Defendants; CHRISTIANA FARMS COMPANY (a Copartnership) et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/79/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4453756
+cites_cases: ["102 P.2d 1096", "106 P.2d 207", "189 Cal. 433", "206 Cal. 456", "208 P. 962", "22 Cal.2d 1", "23 Cal.App.2d 570", "274 P. 748", "39 Cal.App.2d 336", "41 Cal.App.2d 206", "74 P.2d 73"]
+---
+
+# Tarasco v. Moyers
+
+## Majority (THOMPSON, Acting P. J.)
+
+THOMPSON, Acting P. J.
+The plaintiff moved to dismiss the appeal of certain defendants from an order granting a new trial. The motion was made on the ground that the appeal is frivolous and that it was taken for the sole purpose of delay. The motion was opposed by the appellants on the grounds that the record discloses that there is merit in the appeal, and that a motion to dismiss an appeal on the mere ground that it is frivolous and was taken for the purpose of delay only, since the adoption of Rules on Appeal, which became effective July 1, 1943 (22 Cal.2d 1) in effect abrogates former rule V, section 3 of said rules (213 Cal., p. xliii), which then authorized the dismissal of an appeal when it appeared to have been frivolously taken for the purpose of delay. The plaintiff brought suit for damages for personal injuries sustained as a result of an automobile collision. The jury returned a verdict in favor of the defendants. The trial court granted a motion for new trial with respect to the appellants and denied a new trial as to the other defendants. From that order granting the new trial this appeal was perfected. The issue on appeal is the question as to whether there was any evidence showing that the driver of appellant’s car was then operating it in the course of his employment. For the purpose of this motion we may assume the evidence was conflicting on that issue.
+It is true that the present Rules on Appeal do not provide for the dismissal of an appeal on the mere grounds that it is “sham, frivolous or taken solely for the purpose of delay.” The appellants cite Taylor v. Parsons, 39 Cal.App.2d 336 [102 P.2d 1096], and Plecity v. Keilly, 41 Cal.App.2d 206 [106 P.2d 207], in support of their contention that the motion for dismissal of the appeal on the grounds specified does not lie, since the rules have been changed in that respect. The respondent, however, asserts that the court has inherent power to dismiss an appeal which clearly appears to have been taken frivolously or for the sole purpose of delay, even though no statute or rule of court exists upon that subject. (Sonoma Magnesite Co. v. National Magnesite Products Corp., 189 Cal. 433 [208 P. 962] ; Stern & Goodman Investment Co. v. Danziger, 206 Cal. 456 [274 P. 748]; 4 C.J.S. 1961, § 1358; 3 Am.Jur. 675, § 1164.) But, in view of our conclusion that it does not clearly appear on this motion that the appeal was taken for the sole purpose of delay and that it has no merit, it is unnecessary for us to determine whether the reviewing court has inherent power to dismiss an appeal on that ground regardless of the existence of a court rule to that effect. In the present case, after a verdict was returned and a judgment rendered in favor of the defendants, the trial court granted a new trial with respect to the appellants, from which they had a right to and did appeal. (Code Civ. Proc., § 963.) In granting the new trial for lack of evidence the court had a wide discretion with which we may not interfere on this motion unless there is “a clear and affirmative showing of a gross, manifest and unmistakable abuse. ’ ’ (Gallichotte v. California Mutual Building & Loan Assn., 23 Cal.App.2d 570, 576 [74 P.2d 73, 535].) Even though this court has inherent authority to dismiss an appeal for lack of merit or because it is taken solely for the purpose of delay, those facts should clearly appear on the motion to dismiss. The merits of the new trial depend on' the evidence adduced at the trial involving the question of liability of the appellants for the automobile casualty. The evidence appears to be conflicting on that issue. We therefore think respective parties should be afforded a full and fair opportunity to file briefs and present arguments on that important issue.
+The motion to dismiss the appeal is denied, and the plaintiff is granted thirty days within which to file her reply brief upon the merits of the appeal.
+Schottky, J. pro tem., and Peek, J., concurred.
