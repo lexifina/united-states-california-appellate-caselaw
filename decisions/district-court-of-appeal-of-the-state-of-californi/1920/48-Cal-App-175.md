@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3311"
+decided: "1920-06-14"
+citations: ["48 Cal. App. 175"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM GILBERT McDUFF, Respondent, v. SARAH FRANCES McDUFF, Appellant."]
+source_url: "https://static.case.law/cal-app/48/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2067712
+cites_cases: ["103 Pac. 488", "134 Am. St. Rep. 107", "151 Pac. 12", "156 Cal. 1", "170 Cal. 621", "23 L. R. A. (N. S.) 880", "31 L. R. A. (N. S.) 1092"]
+---
+
+# McDuff v. McDuff
+
+## Majority (KNIGHT, J., pro tem.)
+
+KNIGHT, J., pro tem.
+This action was brought by plaintiff against his wife to quiet title to certain real property situate in the city of Long Beach in which the defendant claims a community interest. Judgment was for plaintiff, and defendant appeals.
+In the year 1881, four years prior to the marriage of the parties, plaintiff purchased a farm in Kansas for five thousand dollars, paying two thousand five hundred dollars in cash and trading an interest in other property valued at two thousand five hundred dollars. The two thousand five hundred dollars in cash was borrowed by plaintiff,' and plaintiff gave a mortgage covering the farm to secure its payment. In the year 1913 plaintiff sold the Kansas farm for eleven thousand five hundred dollars, and after paying off the mortgage, which then amounted to three thousand five hundred dollars, received a net balance of eight thousand dollars in cash. Of that sum he invested four thousand dollars in the property in controversy here, upon which he borrowed eight thousand five hundred dollars, and erected four houses thereon. Plaintiff is a carpenter and contractor by trade, and contributed some of his time to the construction of the houses.
+Appellant contends that part of the profits derived from the sale of the Kansas farm, and with which the purchase of the Long Beach property was made, were the result of the activity, ability, and capacity of plaintiff and defendant, and are therefore community property. The findings and judgment of the lower court are in effect a holding to the contrary, and the only question on this appeal is whether or not there is sufficient evidence to sustain such findings and judgment.
+At the time respondent acquired the Kansas farm it was fenced, improved with a dwelling and other structures,, a small portion of it was planted to fruit trees and vines, and some of it was covered with a growth of timber. After plaintiff and defendant were married and moved on to the property no permanent improvements of a substantial character were made. During their occupancy of the property thirty-eight acres were planted to orchard, the cost of the trees being met by increasing the mortgage, but the orchard was an entire failure on account of being destroyed by “borers.” The house was destroyed by fire, but was rebuilt with the money received from the insurance, together with three hundred dollars more which plaintiff borrowed from his father. Other farm outbuildings were constructed, but the cost thereof did not exceed two hundred dollars. They were built with rock obtained on the farm and with lumber cut on the premises by a mill on shares.
+It is quite clear from the evidence stated that the activity of the parties .added nothing to the value of the property, It is true that from the time plaintiff and defendant moved on to the farm in 1885 until they vacated it in 1905, they worked thereon as farmers usually -do, but the proceeds were used not to improve the property, but to pay the living expenses of the family and the taxes and interest, and at times there was scarcely enough produced by the farm to meet the ordinary expenses, plaintiff being obliged to engage in outside enterprises, the proceeds from which he devoted to the support of his family. After plaintiff and defendant vacated the farm in 1905 it was leased to various tenants for a rental of five hundred dollars a year, which was sufficient to pay the interest and taxes without drawing upon the personal earnings of plaintiff or defendant. Upon a full examination of the record it is obvious that the increase in the value of the farm from the time'of the purchase in 1881 to the time of the sale in 1913 was due alone to the natural enhancement of real estate values, and not to any improvements made thereon through the activity, ability, or capacity of plaintiff or defendant.
+It has been held that the proper method of determining the value of a husband’s interest in a business in which he was engaged at the time of his marriage is to allow the usual interest to the husband on the amount invested on the basis of a long investment, well secured. (Pereira v. Pereira, 156 Cal. 1, [134 Am. St. Rep. 107, 23 L. R. A. (N. S.) 880, 103 Pac. 488] ; Estate of Gold, 170 Cal. 621, [151 Pac. 12].) Measuring the instant case by that rule, the allowance of a moderate rate of interest on the sum of two thousand ñve hundred dollars, which represented the net value of the farm at the time of its purchase, for a period of twenty-eight years, would bring the entire investment up to as much as, if not more, than plaintiff received net for the property in 1913, and by such computation no allowance is made for the natural enhancement in the value of the property.
+We are of the opinion that there is ample evidence to support the conclusions of the lower court, and the judgment appealed from is therefore affirmed.
+Waste, P. J., and Richards, J., concurred.
