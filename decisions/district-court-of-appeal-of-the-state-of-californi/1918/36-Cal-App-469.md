@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2324"
+decided: "1918-03-07"
+citations: ["36 Cal. App. 469"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES A. JOHNSTON, Respondent, v. HERMAN MURPHY, Appellant."]
+source_url: "https://static.case.law/cal-app/36/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452543
+cites_cases: ["137 Pac. 1101", "23 Cal. App. 315"]
+---
+
+# Johnston v. Murphy
+
+## Majority (BEASLY, J., pro tem.)
+
+BEASLY, J., pro tem.
+This is an action begun December 31," 1914, on a promissory note given by defendant to plaintiff. The principal defense is that the note was secured by a mortgage and that the action should have been one of foreclosure.
+The note was dated January 23, 1909. The alleged mortgage consists of a letter from the defendant to plaintiff, the body of which reads as follows: “I hereby certify that there is due to you the sum of four thousand dollars. Said sum is secured by a lien upon that certain land comprising 937 acres in the rancho Los Positos, being the same land conveyed to me by Louis Aurreeoechea. The indebtedness is a prior claim to any lien I may have. ’ ’ The letter was not acknowledged nor recorded.
+The transactions between the parties of which this letter formed an incident may be stated more at large as follows: The defendant Murphy during or perhaps before the year 1902, acting for one Aurreeoechea, borrowed four thousand dollars from plaintiff, and Aurreeoechea executed a mortgage on a ranch belonging to him to secure payment of the loan. In 1904 Murphy purchased the ranch from Aurreeoechea, and on July 19, 1906, he conveyed it to his wife. This deed was not recorded until June 30, 1908. Some time in the early summer of 1906—so Johnston testified—-Murphy induced him to sign what he, Johnston, supposed was a release of a part of the ranch from the lien of the Aurreeoechea mortgage, but what turned out to be a deed of the entire ranch to Murphy. This deed was not recorded until November, 1906. Johnston did not learn until January 23, 1909—the date of the note in suit—of the true character of the paper he had signed in 1906, namely, of the deed to Murphy of the whole ranch, nor that this deed released the ranch from the lien of the mortgage; nor was anything said by Murphy even at that time about the deed to Mrs. Murphy, and it appears from Johnston’s evidence that although the letter which defendant now seeks to have construed to be a mortgage is dated November 1, 1906, it was actually received by Johnston through the mail and after the execution of the note in suit. It also appears that Johnston kept this letter but made no reply to it; that is to say, it does not appear that he accepted it or treated it as a mortgage.
+Upon the facts, the defendant desires to defeat recovery on this note by claiming that the letter in question is a mortgage, and argues that if it is not as a matter of law such, it should be so construed in equity.
+We cannot agree with him, for the reason, among others, that it is evident that Johnston did not receive or accept or treat it as a mortgage; nor does it appear upon its face nor from the surrounding circumstances in evidence that Murphy ever so intended it. Counsel suggests that it is “an imperfect attempt to create a mortgage” which will be considered a mortgage in equity, but it seems to us, in view of the defendant’s conduct throughout these transactions, that he is in no position to invoke the aid of equity to have this paper declared a mortgage—a result which would defeat the collection of the note in this action. And it could not be collected in a new action should the defendant plead the bar of the statute of limitations. It is quite plain from the evidence that the trial court decided that Murphy had deceived Johnston into releasing the Aurrecoechea mortgage in full, and that the latter was not undeceived until after the note sued on here was executed. At that time Murphy’s mortgage would have been of no value, for Mrs. Murphy owned the property, and Murphy refused to let her even sign the note. Upon these facts Murphy cannot be permitted to call upon a court of equity and conscience to indirectly relieve him from the payment of a just debt by holding this mere letter to be a mortgage. “It is not alone fraud or illegality which will prevent a suitor from entering a court of equity; any really unconseientious conduct connected with the controversy to which he is a party will repel him from the forum whose very foundation is good conscience.” .(1 Pomeroy’s Equity Jurisprudence, 3d ed., sec. 404.)
+Defendant claims that the amount of interest included in the judgment is excessive. Without going into the computation here it is sufficient to say that we find no error in the amount allowed by the trial court under this head. The plaintiff testified clearly as to the payments, and they were not disputed. It is claimed, however, that the plaintiff contradicted this testimony on cross-examination; but his testimony on cross-examination was susceptible of reconciliation with that on direct examination, and it was accordingly the duty of the court to reconcile this testimony. This it patently did.
+The judgment provides for seven hundred dollars attorney’s fees, which defendant objects is excessive. Under the provisions of the note the duty of fixing a reasonable fee for plaintiff’s attorney rested upon the trial court; and its judgment in that matter will not be disturbed unless its discretion has been abused. (Berkeley Bank of Savings & T. Co. v. Miller, 23 Cal. App. 315, [137 Pac. 1101].) The court’s discretion does not seem to have been abused in this case considering the work of counsel evidenced by the record.
+Judgment affirmed. ,
+Lennon, P. J., and Kerrigan, J., concurred.
