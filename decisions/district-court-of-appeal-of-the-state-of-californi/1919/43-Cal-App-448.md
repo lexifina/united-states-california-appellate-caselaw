@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1990"
+decided: "1919-10-04"
+citations: ["43 Cal. App. 448"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS J. EHRHART et al., Respondents, v. D. R. MAHONY et al., Appellants."]
+source_url: "https://static.case.law/cal-app/43/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041923
+cites_cases: ["148 Pac. 934", "149 Cal. 613", "15 Cal. 186", "170 Cal. 148", "87 Pac 193"]
+---
+
+# Ehrhart v. Mahony
+
+## Majority (HART, J.)
+
+HART, J.
+On September 27, 1910, the parties to the action entered into a written agreement denominated "Contract for Deed,” whereby the plaintiffs agreed to sell and the defendants agreed to purchase three certain quartz mining claims in Calaveras County for the sum of three thousand dollars, payable in installments, and defendants agreed to do all assessment work on said claims from the date of said contract. Defendants paid the first installment of fifty dollars, but made no further payments, and they notified plaintiffs that they refused to carry out said contract or to pay any further installments. On the 19th of December, 1910, plaintiffs executed a deed of said mining property conveying the same to defendants and offered to deliver the same to defendants upon the payment of the balance of the pur chase price, which defendants refused to do. This action was brought to recover the balance of the purchase price, $2,950, and the sum of three hundred dollars, which plaintiffs alleged they had expended for assessment work upon the claims. Judgment was in favor of plaintiffs for the amount sued for and this appeal is prosecuted by defendants from said judgment upon the judgment-roll alone.
+The action was before the supreme court upon an appeal from a former judgment for the same amount. (Ehrhart v. Mahony et al., 170 Cal. 148, [148 Pac. 934].) That court held, upon the authority of White v. Sage, 149 Cal. 613, [87 Pac 193], and Sparks v. Hess, 15 Cal. 186, that the action here is in effect one for the specific performance of a contract, and reversed the judgment for the reason that "the complaint does not allege, nor does the court find, facts showing that there was an adequate consideration for the obligation sought to be enforced, or that the contract was just or reasonable as to the defendants.” Upon the case being returned to the superior court of Calaveras County the complaint was amended as follows: "That said defendants have received an adequate consideration for said contract; that the price for which the defendants so agreed to purchase said property and the plaintiffs so agreed to sell the same is a fair and reasonable price for said property and a fair valuation thereof, and that said contract is, as to the defendants, just, reasonable, fair, and equitable and was fairly entered into between the plaintiffs and defendants,” and a finding was made accordingly. To the amended complaint the defendants submitted a general demurrer, which was overruled, whereupon they filed an answer thereto.
+Two points are made by appellants for a reversal of the present judgment: First: That the complaint fails to disclose that the contract, as to the defendants, is just and reasonable, and that they have received an adequate consideration for the contract. (Civ. Code, sec. 3391.) Second: That the findings do not support the theory that “defendants served notice that they refused to perform their part of the contract prior to the time that respondents made tender and demand.”
+Section 3391 of the Civil Code declares that specific performance cannot be enforced as to the party against whom that remedy is invoked “if he has not received an adequate consideration for the contract,” or “if it is not, as to him, just and reasonable. ’ ’
+The above requisites in an action for relief by way of specific performance, as all the authorities say, must be pleaded and proved to justify the awarding of such relief.
+The amended complaint in this action, as we have seen, alleges that the price at which the defendants agreed to purchase the property in question “is fair and reasonable and a fair valuation thereof, and that said contract is, as to the defendants, just, reasonable, fair and equitable,” etc. While these allegations in a measure involve conclusions of the pleader and of law, they also involve a statement of the fact. At any rate, they are sufficient to resist the effect of a general demurrer. The amended answer specifically denies these allegations and thus tendered an issue upon the question of the fairness and reasonableness of the consideration; and the appeal not being supported by a transcript of the testimony or a bill of exceptions, we may presume, in support of the judgment, that the action was tried upon the theory that the allegations were sufficient and that testimony was received without objection in support thereof.
+The remaining point of those urged for a reversal involves an attack upon the findings that the defendants notified the plaintiffs of their refusal to perform their part of the contract, and that plaintiffs made a tender of a conveyance to defendants and demanded of them the performance of the contract.
+The complaint, the answer, and the findings upon the question of tender and the refusal of the defendants to stand up to the contract are precisely the same here as they were in the record on the former appeal, which, like the appeal here, was from the judgment on the judgment-roll alone. The question of tender was presented to the supreme court on the former appeal and, in the opinion in that case (Ehrhart et al. v. Mahony et al., 170 Cal. 148, [148 Pac. 934]), was disposed of as follows: “The appellants criticise the allegation of tender, but since their answer showed that a conveyance would have been refused in any event, technical defects in the tender, or even a want of any tender, would be of no importance. (Civ. Code, sec. 1440.)”
+The facts presented on both appeals upon the point now under review being the same, the above is the law of the case as to said point and is decisive thereof against the position of the appellants.
+No other points are presented.
+The judgment is affirmed.
+Ellison, P. J., pro tem., and Burnett, J., concurred.
