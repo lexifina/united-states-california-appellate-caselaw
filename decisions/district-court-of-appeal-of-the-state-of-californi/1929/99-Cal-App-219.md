@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6446"
+decided: "1929-05-29"
+citations: ["99 Cal. App. 219"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEONORA MASON, Respondent, v. WALTER E. BUCK, Appellant."]
+source_url: "https://static.case.law/cal-app/99/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127638
+cites_cases: ["126 Cal. 521", "169 Pac. 1003", "177 Cal. 88", "192 Cal. 186", "219 Pac. 452", "58 Pac. 1051"]
+---
+
+# Mason v. Buck
+
+## Majority (NOURSE, J.)
+
+NOURSE, J.
+Plaintiff sued in Contra Costa County for the conversion of personal property. The defendant Buck moved for a change of venue upon the ground that he was a resident of the city and county of San Francisco. The motion was denied and this defendant has appealed on a typewritten transcript.
+It is conceded that no one of the defendants was a resident of Contra Costa County and that the motion of defendant Buck should have been granted unless it is held that the cause of action is one for damages to personal property within the meaning of section 395 of the Code of Civil Procedure. Sections 392, 393 and 394 of this code prescribe where certain classes of actions are to be tried. Section 395 provides: “In all other cases, the action must be tried in the county in which the defendants, or some of them, reside at the commencement of the action, or if it be an action for injury to person, or property, or for death from wrongful act, or negligence, in the county where the injury occurs, or the injury causing death occurs, or in the county in which the defendants, or some of them, reside at the commencement of the action.” The portion of the section quoted reading “or if it be an action for injury to person, etc.,” was added by amendment of 1911 (Stats. 1911, p. 847). Section 28 of the same code reads: “An injury to property consists in depriving its owner óf the benefit of it, which is done by taking, withholding, deteriorating, or destroying it,” and section 29 reads: “Every other injury is an injury to the person.”
+The respondent defends the order appealed from on the ground that a conversion of personal property is a “depriving its owner of the benefit of it” within the meaning of section 28 and that such an injury was contemplated by section 395. The appellant argues that the latter section relates solely to corporeal or physical injuries to person or property.
+In Monk v. Ehret, 192 Cal. 186 [219 Pac. 452], the supreme court had occasion to interpret the amendment to section 395. The action was one for false imprisonment in which it was contended that the forcible seizure, accusation ,and arrest of plaintiff was an “injury to the person.” But the supreme court held that the term was limited to “the wrongful or negligent act of another” and that “The specific terms indicate that the injuries to person within the contemplation of the legislature were those which cause physical injury or incapacity” (p. 192). In the same case it was pointed out that the increasing number of bodily injuries and injuries to property caused by the use of motor vehicles was the suggestion for the amendment of 1911 and that there was nothing to indicate an intention of the legislature to make such a radical change as that contended for. In Graham v. Mixon, 177 Cal. 88 [L. R. A. 1918F, 1023, 169 Pac. 1003], an action for libel, the supreme court held that . the definitions of injuries found in sections 28 and 29 did not control the interpretation of the section on venue and that the expression “injury to person” should not be interpreted to mean every “invasion of personal rights.”
+The reasoning of these cases is equally applicable to actions relating to property. Sections 28 and 29 are merely general classifications of the right of action for injuries to person and property. Sections 392-395 relate to the place of trial of all civil actions. The specific intent is manifested in section 395 to make all these actions triable in the county where the defendant resides except as otherwise, specified in these four sections. A conversion of personal property is not necessarily a taking or withholding it from another (Horton v. Jack, 126 Cal. 521, 526 [58 Pac. 1051]); it includes any act of ownership or exercise of dominion in defiance of the rights of another. (24 Cal. Jur. 1022.) To hold that all such acts are an “injury” to property within the meaning of section 395 would nullify the provisions of that section which aim to grant a defendant the right of trial in the county of his residence. Generally speaking, an amendment to a statute is designed to add something to it or to limit its force rather than to nullify its purpose, and judicial interpretation of an amendment should be made with that end in view, unless the intention to nullify is evident.
+From our consideration of the purposes of the code amendment as outlined in the decisions cited we are satisfied that the legislature intended to except from the general provisions of section 395 only such actions for injury to person or property, caused by the wrongful act or negligence of another, where the cause of action arose from a “corporeal or physical” injury to the person or property, and that it was not intended to include every invasion of personal and property rights. As an action for conversion is not a corporeal injury to property within this meaning, it would follow that it should be tried in the county where the defendant resides within the general provisions of section 395.
+The order is reversed.
+Buford, P. J., and Sturtevant, J., concurred.
