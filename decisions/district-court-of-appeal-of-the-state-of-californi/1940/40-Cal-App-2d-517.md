@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11431"
+decided: "1940-08-22"
+citations: ["40 Cal. App. 2d 517"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IAN L. MacDONALD, Petitioner, v. THE SUPERIOR COURT OF SAN MATEO COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/40/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6042119
+cites_cases: ["107 Cal. App. 488", "109 Cal. App. 633", "114 Pac. 978", "130 Cal. App. 180", "159 Cal. 474", "187 Cal. 620", "19 Pac. (2d) 840", "199 Cal. 749", "203 Pac. 93", "251 Pac. 1118", "254 Pac. 939", "290 Pac. 626", "293 Pac. 814", "81 Cal. App. 742"]
+---
+
+# MacDonald v. Superior Court
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+This is an application for a writ of mandate. Facts material to the application are as follows: On July 19, 1939, the petitioner commenced an action to obtain a divorce from his wife, Bessie E. MacDonald. The action was commenced in San Francisco, but on application of the defendant an order was entered transferring the case to the county of San Mateo. On September 25, 1939, the Superior Court of the State of California, in and for the County of San Mateo, made an order directing the petitioner to pay to the defendant $50 per month as maintenance pendente lite, the further sum of $15 on account of costs, and $50 on account of attorney’s fees for defendant. At all times herein mentioned the defendant had and has an income of $250 per month. On January 22, 1940, the petitioner served and filed a notice of motion for an order modifying the previous order for maintenance, costs and counsel fees, and in support thereof he served and filed an affidavit. On March 4, 1940; said motion came on for hearing. At that time petitioner was present and represented by his counsel. The defendant was present and represented by her counsel. The trial court refused to countenance, entertain or hear the petitioner’s motion, stating that the petitioner had not complied with the order dated September 25, 3939. The record’does not disclose that at any time or at all, any proceedings have been had charging the petitioner as being in contempt or that any order or judgment to that effect has been entered.
+The record does not disclose that the petitioner has paid any part or portion of the sums specified in the order dated September 25, 1939. The affidavit above mentioned tendered in support of petitioner’s motion set forth that the petitioner has not been employed since September 13, 1939, although he has, on numerous occasions, attempted to obtain work and employment; that the defendant is steadily employed on a salary of $200 a month and has additional income in the sum of $50 per month; that the petitioner is in a highly nervous and excited condition and his doctor has recommended rest; that petitioner is willing to comply, and will, as soon as he is able, comply with the order made September 25, 1939.
+The nature of the modification asked by the petitioner is stated by him as follows: “The said order now reads that said plaintiff shall pa)' to said defendant the sum of $50 per month, beginning on said 25th day of September, 1939, and the further sum of $50 on account of attorney’s fees; and your said plaintiff desires that said order be modified by eliminating therefrom any further payments in the sum of $50 per month until the trial of said action.” In other words, the request of the petitioner is in effect to limit his obligations before the trial is had to the payment of $50 as attorney’s fees, and $200 as maintenance of the defendant.
+From the foregoing facts it is obvious that the petitioner may be said to be in default, but it is equally clear he may not be said to be in contempt. No party to an action can, with right or reason, ask the aid and assistance of a court in hearing his demands while he stands in an attitude of contempt to its legal orders and processes. (Weeks v. Superior Court, 187 Cal. 620, 622 [203 Pac. 93] ; Schubert v. Superior Court, 109 Cal. App. 633 [293 Pac. 814] ; Funfar v. Superior Court, 107 Cal. App. 488 [290 Pac. 626].) However, it is settled law that one, who is not in contempt but through an abundance of caution makes a timely application to be relieved from an order which, if allowed to stand, may in the future become the basis of contempt proceedings, is entitled to have such application heard and determined. (Manriquez v. Superior Court, 199 Cal. 749 [251 Pac. 1118]; Isakson v. Superior Court, 130 Cal. App. 180 [19 Pac. (2d) 840] ; Archer v. Superior Court, 81 Cal. App. 742 [254 Pac. 939].)
+The trial court confused the foregoing rules. The confusion resulted in the court erroneously divesting itself of jurisdiction. Such facts clearly support the application now before us. (Golden Gate Tile Co. v. Superior Court, 159 Cal. 474 [114 Pac. 978].)
+The defendant’s attorney has filed an answer “for the respondents.” In it they admit all of the foregoing propositions of law and fact. But they set forth facts and figures showing or tending to show that the defendant needs the benefit of all of the moneys allowed to her by the terms of the order dated September 25, 1939. Be that as it may, such issues are the very ones the plaintiff sought to have heard and determined by the motion which he sought to have heard and determined and which the trial court refused to hear.
+Let a peremptory writ of mandate issue as prayed.
+Nourse, P. J., concurred.
