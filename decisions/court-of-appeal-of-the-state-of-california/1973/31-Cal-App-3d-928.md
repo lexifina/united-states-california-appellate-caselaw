@@ -1,0 +1,32 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 32023"
+decided: "1973-04-27"
+citations: ["31 Cal. App. 3d 928"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOPHIE T. GALLOWAY et al., Plaintiffs and Appellants, v. FRANCHISE TAX BOARD, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/31/cases/0928-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 104865
+cites_cases: ["1 Cal.3d 56", "208 Cal.App.2d 489", "25 Cal.Rptr. 280", "275 P.2d 467", "43 Cal.2d 594", "442 P.2d 659", "460 P.2d 137", "47 A.L.R.2d 991", "69 Cal.2d 7", "69 Cal.Rptr. 579", "81 Cal.Rptr. 465"]
+---
+
+# Galloway v. Franchise Tax Board
+
+## Majority (DRAPER, P. J.)
+
+Opinion
+DRAPER, P. J.
+Each plaintiff is a former employee of the state, now receiving a pension or retirement allowance under the Public Employees Retirement Law. Each claims such income (insofar as it exceeds contributions paid by her from income previously taxed to her) to be exempt from income taxation, and seeks refund of the portion of her income tax attributable to such income only. Each side moved for summary judgment. The cases were submitted upon a stipulation of facts. The motions of plaintiffs were denied and those of defendant Franchise Tax Board were granted. Judgments of dismissal followed, and plaintiffs appeal.
+Appellants rely upon the code provision (Gov. Code, § 21200.5) that the right of a person to a pension or retirement allowance under the state retirement law is “exempt from taxation, including any inheritance tax.” Although the issue is wholly one of statutory construction, we do not look solely to the face of this section but, under established principles, consider also the legislative-judicial history of its language. A statute adopted in 1937. (Stats. 1937, ch. 677, p. 1900, now Gov. Code, § 31452) and derived from a 1919 act (Stats. 1919, ch. 373, p. 782) provided that a pension or retirement allowance under the county employee’s retirement act is “exempt from taxation, whether State, county, municipal or district.” The wife of a longtime county employee contended that death benefits due to her from his retirement fund were exempt from state inheritance tax. The Supreme Court reviewed in detail the history of retirement legislation and of tax exemptions in California (Estate of Simpson (1954) 43 Cal.2d 594 [275 P.2d 467, 47 A.L.R.2d 991]). It concluded that the exemption applied only to ad valorem property levies, and not to other taxes. Simpson specifically pointed out language which would effectively express a legislative intent to exempt retirement proceeds from all taxes. It quoted (p. 599) a New York statute which had been held to effect exemption from all taxes, including those on inheritance, by use, of the phrase, “ ‘exempt from any . . . tax.’ ” Holding that it could not construe the words “ ‘exempt from taxation’ ” to apply “beyond the limits of property taxation,” our Supreme Court pointed out, obviously as an alternative, that “if further extension is deemed appropriate so as to include ... the state inheritance tax, the act should be so clarified by the Legislature in unmistakably clear language.” (Id., p. 603.)
+The Legislature, at its next session following Simpson, determined to broaden the exemption. But in doing so, it clearly chose the narrower of the two semantic routes suggested by the Simpson court. The amendment of section 31452 provided that retirement benefits “are exempt from taxation, including any inheritance tax” (Stats. 1955, ch. 1503, p. 2745). In choosing this limited extension of the exemption, the Legislature rejected the all-inclusive exemption language pointed out in Simpson (see Simpson at p. 600). It did not exempt retirement benefits “from any tax.”
+The parties agree that the 1955 amendment was adopted in the light of Simpson. Under the established rule of statutory construction, this choice leaves the law unchanged, except as it extends the exemption to include inheritance tax as well as property taxes (see Bishop v. City of San Jose, 1 Cal.3d 56, 65 [81 Cal.Rptr. 465, 460 P.2d 137] and cases there cited).
+The section under which appellants seek exemption here (Gov. Code, § 21200.5) was adopted at the same session which so amended section 31452 (Stats. 1955, ch. 1506, p. 2747) and deals with a like subject matter. Obviously, it is to be construed to effect the same result. Legislative satisfaction with this limitation of the exemption was emphasized in the same chapter of the 1955 statutes by application of the identical language to the State Teachers Retirement Law (Ed. Code, § 14278, now § 13807).
+The post-Simpson decisions relied upon by appellants do not aid them. One (Estate of Wyman, 208 Cal.App.2d 489 [25 Cal.Rptr. 280]) but emphasizes that Simpson turns upon the omission of the word “any.” Wyman holds that the exemption from inheritance tax of the “ ‘right of any person to a pension, . . .’” under “ 'any public retirement system . . .’” (Rev. & Tax. Code, § 13880) extends the exemption to retirement benefits of a federal employee. Yet in the 10 years since Wyman, the Legislature has failed to extend the exemption of section 21200.5 to any tax. We recognize, of course, that a court cannot make exceptions to a general rule announced by a statute which itself makes no exceptions (e.g., Ogle v. Heim, 69 Cal.2d 7 [69 Cal.Rptr. 579, 442 P.2d 659]). But that rule has no application here, since Simpson makes clear that the exemption is not general, as it would be if it applied to any tax, but is strictly limited.
+The bulk of appellants’ argument turns basically upon their disagreement with Simpson. But the Supreme Court has spoken, the Legislature has elected to take only the more limited of the options spelled out by that court, there is no suggestion of excess of authority in that choice, and the issue is foreclosed.
+We hold that, on the present statute, the pension or retirement benefit of a state employee is not exempt from the state income tax.
+Judgments affirmed.
+Brown (H. C.), J., and Caldecott, J., concurred.
+A petition for a rehearing was denied May 25, 1973, and appellants’ petition for a hearing by the Supreme Court was denied June 28, 1973. Tobriner, J., and Mosk, J., were of the opinion that the petition should be granted.
