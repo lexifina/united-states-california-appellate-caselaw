@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2548"
+decided: "1918-04-09"
+citations: ["36 Cal. App. 745"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. M. OVERELL FURNITURE COMPANY (a Corporation), Petitioner, v. SUPERIOR COURT OF LOS ANGELES COUNTY et al., Respondents."]
+source_url: "https://static.case.law/cal-app/36/cases/0745-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452411
+---
+
+# J. M. Overell Furniture Co. v. Superior Court
+
+## Majority (WORKS, J., pro tem.)
+
+WORKS, J., pro tem.
+Ethel K. Patterson commenced an action in the superior court against Clarence H. Patterson and Monnie Blackburn for the purpose of recovering certain real property which Patterson had conveyed to Mrs. Blackburn. The recovery was sought on the ground of fraud. The property consisted, in part, of an apartment house, the furniture and some other equipment of which were the property of the J. M. Overell Furniture Company, the petitioner in this proceeding. This personal property had been under lease from the petitioner to Patterson, the lease containing provision for a transfer of title by the petitioner upon the completion, by Patterson, of the payment of a certain total sum in rents. Patterson had assigned the lease to Mrs. Blackburn and the petitioner had consented to the assignment, Mrs. Blackburn agreeing to make the payments of rental called for by the lease.
+A receiver was appointed in the action commenced by Mrs. Patterson, the order of appointment requiring the officer to take possession of the real property which was the subject of the action, “to collect the rents thereof, ... to pay out of said rents and income any and all expenses connected with the said real property or the improvements thereon, including interest or encumbrances, or liens, insurance and other necessary expenses and to preserve any balance of said rents and income remaining in the hands of the receiver pending the further determination and decision of this court.” The receiver qualified and took possession of the real property, the personal property of petitioner still remaining and yet being on the premises.
+• By its petition in this proceeding the petitioner seeks to restrain the respondents from enforcing or carrying out the order appointing the receiver on the ground that it is void, but the petitioner concedes in its brief that it is not entitled to the broad relief prayed for. The petitioner’s theory is that the order requiring the collection and retention of rents, taken in connection with the fact that the receiver is in possession of the personal property, amounts to an infringement of its rights under the contract between it and Mrs. Blackburn. It is alleged in the petition that Mrs. Blackburn, upon taking the assignment of the lease, agreed with petitioner that she would thereafter pay the monthly rentals on the personal property out of the rents from the apartment house as they came in, and the allegation is not denied by the respondents. The petitioner also had the right, under the terms of the lease itself, to take possession of its property at any time, without notice, upon default in the payment of rent. The petitioner insists that both of its remedies are cut off by the order appointing the receiver; that it cannot seize the property for the reason that it is in the custody of the court, and that payment of the amounts due it out of the rents collected from the apartment house cannot be made, because they are directed by the court’s order to be devoted to other purposes.
+There are several answers to the petitioner’s proposition that it cannot avail itself of the provision of the contract to the effect that it may seize its property upon default in the payment of rent. In the first place, the respondent court and the respondent receiver have filed separate answers to the petition, and it is alleged in each answer that the receiver is in possession of the personal property solely because it was on the premises when he took possession of the real property, that his possession of it is incidental to his possession of the realty, and that he neither claims nor has any right to the possession of the personalty as receiver. Further, the order appointing the receiver does not direct him to take possession of the personal property of the petitioner. It is manifest, then, that if the petitioner desires to take advantage of its right to seize the property, it may do so at will and without trouble.
+The petitioner’s right to enforce payment of the rentals due under the lease appears to be equally untrammeled. The agreement of Mrs. Blackburn to pay the rental charges out of a particular fund does not relieve her of her general liability under the terms of the lease, and the petitioner may at any time enforce a collection from her of amounts due it; or it may pursue Patterson, if he yet remains liable under the lease, a point which we do not decide.
+It therefore appears that the petitioner has no beneficial interest in this proceeding. The alternative writ of prohibition is set aside and the application for a peremptory writ is denied.
+Conrey, P. J., and James, J., concurred.
