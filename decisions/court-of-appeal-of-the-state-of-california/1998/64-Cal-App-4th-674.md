@@ -1,0 +1,51 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A081100"
+decided: "1998-06-08"
+citations: ["64 Cal. App. 4th 674"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH KENNEDY, Petitioner, v. THE SUPERIOR COURT OF MARIN COUNTY, Respondent; LUCKY STORES, INC., Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-4th/64/cases/0674-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 505151
+cites_cases: ["10 Cal.App.4th 1282", "13 Cal.Rptr.2d 363", "13 Cal.Rptr.2d 856", "203 Cal.Rptr. 626", "222 Cal.App.3d 647", "271 Cal.Rptr. 698", "36 Cal.3d 171", "4 Cal.4th 29", "681 P.2d 893", "840 P.2d 961"]
+---
+
+# Kennedy v. Superior Court
+
+## Majority (HANING, J.)
+
+Opinion
+HANING, J.
+In this case we hold that a party who submits to a medical examination pursuant to Code of Civil Procedure section 2032, subdivision (c), is entitled to a report of that examination on demand even if the examining physician has not prepared one. We further hold that a party who has submitted to such an examination has the right to depose the examining physician in spite of the fact that the party requesting the examination has withdrawn the physician as an expert witness and redesignated him or her as a “consultant.”
+Petitioner Elizabeth Kennedy is plaintiff in a personal injury action against real party in interest Lucky Stores, Inc. (Lucky). Petitioner slipped and fell in a Lucky store and was injured, and apparently required plastic surgery as a result. Lucky demanded that petitioner submit to a medical examination pursuant to Code of Civil Procedure section 2032, subdivision (c). Petitioner complied. She then demanded a report of the examination, to which she was entitled under section 2032, subdivision (h). Lucky refused, claiming the examining physician had not prepared a report. Lucky also canceled the deposition of the examining doctor, on the ground that he had been withdrawn as an expert and designated a defense “consultant.” Petitioner filed a motion to compel Lucky to produce a doctor’s report of the examination, and to produce the examining doctor for deposition. The motion was denied. Petitioner seeks writ review.
+Facts
+In February 1997, about nine months after petitioner filed her complaint, Lucky demanded that petitioner appear for a medical examination by Dr. Randall Weil, a San Francisco plastic surgeon.
+On March 25, 1997, petitioner submitted to the examination. According to the declaration of a registered nurse who was present, Dr. Weil made notes while he was examining petitioner.
+On April 25, 1997, petitioner’s counsel sent a letter to Lucky’s attorney requesting a copy of Dr. Weil’s report of the medical examination, per section 2032, subdivision (h). Petitioner’s counsel received no response.
+On September 18, 1997, Lucky designated Dr. Weil as an expert. On September 25, 1997, petitioner’s counsel made a second written demand for his examination report. This second demand went unanswered.
+Petitioner’s counsel then spoke to Lucky’s attorney by telephone, and was told that Dr. Weil had made no report of the examination. Petitioner’s counsel responded that by the specific language of the statute, Dr. Weil was required to generate a report if none existed. The issue was not resolved.
+Petitioner’s counsel then noticed Dr. Weil’s deposition for Monday, October 20, in the doctor’s San Francisco office. On Friday, October 17, Lucky’s attorney called petitioner’s counsel at 3:30 p.m., and asked if she still intended to depose the doctor. She replied in the affirmative.
+At 5 p.m. that day, petitioner’s counsel’s office received a fax from Lucky’s attorney stating, in its entirety, “Be advised that defendant Lucky Stores, Inc. hereby withdraws Randall Weil, M.D. as an expert.” The fax does not indicate that the deposition would be canceled.
+Petitioner’s counsel arrived at Dr. Weil’s office on Monday, October 20, and was told by the doctor’s secretary that Lucky’s attorney had canceled the deposition. The doctor refused to speak to petitioner’s counsel, who in turn called Lucky’s attorney from the doctor’s office. Lucky’s attorney indicated petitioner was not entitled to take Weil’s deposition because he had been withdrawn as an expert. The attorney also rejected a third written request for Dr. Weil’s report, stating no report had been prepared and the discovery statute did not require Dr. Weil to prepare one.
+Petitioner filed a motion to compel. In response, Lucky indicated that Dr. Weil had been redesignated a defense consultant. The trial court, indicating its belief that Dr. Weil could not be required to prepare a report, denied the motion.
+This petition followed.
+Discussion
+“Although prerogative writs generally do not issue to review discovery rulings, a writ may issue to review questions of first impression to provide guidance to the bench and bar. [Citation.]” (Liberty Mutual Ins. Co. v. Superior Court (1992) 10 Cal.App.4th 1282, 1286 [13 Cal.Rptr.2d 363].)
+I
+Petitioner’s Right to a Report of Dr. Weil’s Examination
+Section 2032, subdivision (h) provides that “If a party submits to ... a physical or mental examination in compliance with a demand . . . , that party has the option of making a written demand that the party at whose instance the examination was made deliver to the demanding party (1) a copy of a detailed written report setting out the history, examinations, findings, including the results of all tests made, diagnoses, prognoses, and conclusions of the examiner, and (2) a copy of reports of all earlier examinations of the same condition of the examinee made by that or any other examiner. If this option is exercised, a copy of these reports shall be delivered within 30 days after service of the demand, or within 15 days of trial, whichever is earlier. The protection for work product under Section 2018 is waived, both for the examiner’s writings and reports and to the taking of the examiner’s testimony.” (Italics added.)
+Lucky took the position below, with which the trial court agreed, that this statute only requires disclosure of a defense examiner’s report if the examiner actually made one. Petitioner contends the statute refers to “a” detailed report, not “the” detailed report, or “any existing” detailed report, thus requiring a party to have a report prepared, on demand, in exchange for the other side’s submitting to the examination. Although there is a general reluctance to order parties to produce reports not in existence, the statute clearly requires that a party who submits to a physical examination is entitled to a report of that examination, which must contain certain specified information. The trade-off is clear: If one party to personal injury litigation is required by his or her opponent to submit to a medical examination, at the very least he or she is entitled to a report of the information obtained by the adversary in litigation.
+We note that in section 2032, subdivision (j), the Legislature provides for reciprocal disclosure of any “existing” reports of the examinee. This suggests that by not using the word “existing” in subdivision (h), the Legislature expected a written report be prepared for the examinee whenever requested, even if one did not exist. Clearly, had the Legislature been concerned only with “existing” reports when it drafted subdivision (h), it could have so specified. Its failure to do so reinforces our interpretation of the statute.
+II
+Petitioner’s Right to Depose Dr. Weil
+It does not appear that withdrawing Dr. Weil as an expert entitles Lucky to shield him from deposition with regard to the examination. By the explicit terms of section 2032, subdivision (h), the work product privilege with regard to the examination is waived. (See also Weil & Brown, Cal. Practice Guide: Civil Procedure Before Trial 2 (The Rutter Group 1996) ^ 8:1606, p. 81-27.) Lucky argues, as it did below, that it is free to withdraw Weil as an expert and thus preclude his deposition. This may be generally true (see County of Los Angeles v. Superior Court (1990) 222 Cal.App.3d 647 [271 Cal.Rptr. 698]), but not in the specific context of section 2032. A party may “hide” an expert from deposition by withdrawing him and dubbing him a “consultant,” thereby reinstating work product protection—but when the expert is also the examining physician per section 2032, the specific terms of the statute must control. Despite the withdrawal, petitioner is entitled to depose Dr. Weil with regard to the physical examination.
+Disposition
+We have previously informed the parties we might act by issuing a peremptory writ in the first instance. (See Palma v. U.S. Industrial Fasteners, Inc. (1984) 36 Cal.3d 171, 177-180 [203 Cal.Rptr. 626, 681 P.2d 893].) Generally this court will employ “the accelerated Palma procedure . . . only when petitioner’s entitlement to relief is so obvious that no purpose could reasonably be served by plenary consideration of the issue ... or when there is an unusual urgency requiring acceleration of the normal process.” (Ng v. Superior Court (1992) 4 Cal.4th 29, 35 [13 Cal.Rptr.2d 856, 840 P.2d 961].) Here, there is no purpose to be served by oral argument because petitioner’s right to relief is clear.
+Let a peremptory writ of mandate issue commanding respondent superior court to vacate its order denying the motion to compel, and to enter a new and different order granting the motion. Petitioner shall recover her costs of this writ proceeding.
+Peterson, P. J., and Jones, J., concurred.
+The petition of real party in interest for review by the Supreme Court was denied September 2, 1998.
+All further section references are to the Code of Civil Procedure.
+The court has no authority to directly order Dr. Weil, a nonparty, to prepare a report. But Lucky is a party. We assume, since it has not argued otherwise, that Lucky can obtain a report from its designated examining physician. As a party, Lucky can be ordered to produce such a report—appropriate discovery sanctions may be imposed for a failure of production. The court can compel attendance at a deposition through the subpoena process.
