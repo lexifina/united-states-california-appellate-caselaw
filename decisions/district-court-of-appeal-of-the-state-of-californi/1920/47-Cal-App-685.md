@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2935"
+decided: "1920-05-22"
+citations: ["47 Cal. App. 685"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WRIGHT-CALLENDER-ANDREWS COMPANY (a Corporation, Respondent, v. MARIE S. EATON, Appellant."]
+source_url: "https://static.case.law/cal-app/47/cases/0685-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065564
+cites_cases: ["23 Am. St. Rep. 469", "26 N. W. 1", "26 Pac. 830", "34 Minn. 374", "89 Cal. 327"]
+---
+
+# Wright-Callender-Andrews Co. v. Eaton
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+In this action the trial court gave plaintiff judgment for services rendered in procuring a purchaser of certain real and personal property pursuant to the terms of a written contract executed by defendant, who appeals from the judgment.
+The property is described in the contract as “3828 Wilshire Boulevard (city of Los Angeles), being lot 20 West-. ern Wilshire Heights Tract. Property as is completely furnished except piano player, music, cuckoo clock, sewing machine and (picture) boat. Old silver, family pictures, pier glass and books.” Within the time fixed therefor in said contract, plaintiff, claiming to have acted in pursuance of authority conferred thereby, and representing to him that the personal property included an automobile owned by defendant, presented a party ready, able, and willing to purchase the property, if the automobile was included, at the price specified: Defendant refused to transfer the automobile, by reason of which fact the proposed sale was not consummated. The question is, whether the contract covered the automobile. The error of the court upon which appellant argues for a reversal, occurred in the trial of this issue, as to which the court found adversely to defendant.
+No mention of the automobile is made in the contract. Nevertheless, counsel for respondent argue that, since the property was located in the “fashionable Wilshire residence district,” an automobile might very well be deemed a part of the furnishing of “property completely furnished.” With equal propriety, as said by counsel for appellant, they might insist that an aeroplane or pair of horses and carriage should be deemed a part thereof. We cannot believe the trial judge in making the findings was influenced in so doing by such argument; but that, deeming the case a proper one therefor, the court, over defendant’s objection, and not for the purpose of reforming the contract, permitted the introduction of parol testimony, upon which, since the contract by its terms did not include the automobile, it is clear the court based its decision. In so doing we think it erred. Section 1856 of the Code of Civil Procedure provides that, “When the terms of an agreement have been reduced to writing by the parties, it is to be considered as containing all those terms, and therefore there can be between the parties and their representatives, or successors in interest, no evidence of the terms of the agreement other than the contents of the writing, except in the following cases: 1. Where a mistake or imperfection of the writing is put in issue by the pleadings.” As stated, no such question is in issue here. This section further provides that, in ascertaining the proper construction of an instrument, other evidence as to the circumstances under which it was made may be received for the purpose of placing the judge in the position of those whose language he is to interpret; and further provides that where the contract is of doubtful meaning, or it is necessary to explain an extrinsic ambiguity, other evidence may be received.
+To our minds, the terms of the contract are perfectly clear, and it should be construed in accordance with the plain import of the language used therein. No reason was presented for the reception of parol evidence other than to add thereto terms which it did not, as written, include; and, as provided by section 1858 of the Code of Civil Procedure, when construing contracts of such character, “the office of the judge is simply to ascertain and declare what is in terms or in substance contained therein, not to insert what has been omitted.” Including the automobile was clearly doing that which the judge is prohibited from doing by the provisions of the statute. Upon like evidence, since a written contract, however carefully drawn, would afford a party no protection, he could be completely divested of his substance. Authorities in support of the proposition would seem unnecessary. Suffice it to say that where parties deliberately and solemnly put their agreement in writing, using language which imports a complete expression of the whole agreement, the law presumes that they have introduced into it every material item and term intended to be inserted therein, and parol evidence cannot be admitted for the pur- . pose of adding other terms or items thereto. (Thompson v. Libby, 34 Minn. 374, [26 N. W. 1]; Greenleaf on Evidence, sec. 275; Harrison v. McCormick, 89 Cal. 327, [23 Am. St. Rep. 469, 26 Pac. 830].) In our opinion, the court erred in admitting parol evidence upon which it based the finding that, under the terms of the contract, plaintiff was authorized to include in the sale of the property described in the contract the automobile, which was not specified therein.
+The judgment is reversed.
+Conrey, P. J., and James, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on July 19, 1920.
+All the Justices concurred, except Wilbur, J., and Lennon, J., who were absent.
