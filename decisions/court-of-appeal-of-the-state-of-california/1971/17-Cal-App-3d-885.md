@@ -1,0 +1,34 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 38303"
+decided: "1971-05-26"
+citations: ["17 Cal. App. 3d 885"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLENE HELEN SCOTT, Petitioner, v. THE MUNICIPAL COURT FOR THE BEVERLY HILLS JUDICIAL DISTRICT OF LOS ANGELES COUNTY, Respondent; THE PEOPLE, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/17/cases/0885-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4429934
+cites_cases: ["100 A.L.R.2d 371", "107 Cal.App.2d 407", "14 Cal.Rptr. 657", "2 Cal.3d 707", "203 Cal.App.2d 687", "21 Cal.Rptr. 753", "237 P.2d 568", "24 P. 789", "255 Cal.App.2d 443", "363 P.2d 889", "470 P.2d 345", "56 Cal.2d 273", "58 Cal.2d 1", "59 Cal. 357", "63 Cal.Rptr. 317", "85 Cal. 383", "87 Cal.Rptr. 361"]
+---
+
+# Scott v. Municipal Court
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+Petitioner was charged in respondent court with a violation of subdivision (b) of section 647 of the Penal Code (soliciting an act of prostitution). She pled not guilty and waived jury trial. At the trial, on the representation of the prosecuting attorney that it went to probable cause for her arrest, the court admitted testimony of conversations, outside the presence of defendant, with another woman who had been charged with a similar offense on the same occasion. After the case had been submitted, the trial judge, in summarizing the evidence, referred to these conversations; defense counsel interrupted to object to consideration of that evidence on the issue of guilt and, in connection with that objection, advised the court that the other woman had been acquitted of the charges against her by another judge of respondent court. The trial judge chastized counsel for making that statement, declared that because of it he could no longer render an impartial verdict, and declared a mistrial.
+When the case was called for retrial, defendant entered a plea of double jeopardy, which was denied. She thereafter sought, unsuccessfully, to secure a writ of prohibition in the superior court. She then instituted the present petition; we issued our alternative writ; the matter has been argued and submitted. For the reasons set forth below, we issue our peremptory writ of prohibition.
+Although there were factual differences, we feel that the language and the philosophy of Curry v. Superior Court (1970) 2 Cal.3d 707 [87 Cal.Rptr. 361, 470 P.2d 345], governs the case at bench. Admittedly, a mistrial may be granted, without the consent of defendant, only where a “legal necessity” exists. In Curry, the court defined “legal necessity” in the following terms (at pp. 713-714):
+“In California, legal necessity for a mistrial typically arises from an inability of the jury to agree (Pen. Code, § 1140; Paulson v. Superior Court (1962) supra, 58 Cal.2d 1, 5 [22 Cal.Rptr. 649, 372 P.2d 641]) or from physical causes beyond the control of the court (Pen. Code, § 1141; Cardenas v. Superior Court (1961) supra, 56 Cal.2d 273, 276 [14 Cal.Rptr. 657, 363 P.2d 889, 100 A.L.R.2d 371]), such as the death, illness, or absence of judge or juror (Pen. Code, §§ 1123, 1147; People v. Ross (1890) 85 Cal. 383 [24 P. 789]; People v. Hess (1951) 107 Cal.App.2d 407, 425-426 [237 P.2d 568]) or of the defendant (Pen. Code, § 1043; People v. Higgins (1881) 59 Cal. 357, 358). A mere error of law or procedure, however, does not constitute legal necessity. (Cardenas v. Superior Court (1961) supra, 56 Cal.2d 273 [prosecutor’s question on cross-examination objected to by defendant]; People v. Huff (1967) 255 Cal.App.2d 443 [63 Cal.Rptr. 317] [testimony of police officer that he saw defendant talking to two jurors during recess]; Hutson v. Superior Court (1962) supra, 203 Cal.App.2d 687 [21 Cal.Rptr. 753] [public defender’s asserted inability to cross-examine codefendant whom he previously represented].)” The court expressed itself as to the underlying policy in the following terms (at p. 717):
+“A defendant may choose not to move for or consent to a mistrial for many reasons. He may be of the opinion that no error in fact occurred, or if it occurred, that it was not prejudicial. He may believe that any error in admitting improper evidence can be cured by a motion to strike or a request for admonition, or can be refuted by impeachment of the witness or contrary defense evidence. Indeed, even when a palpably prejudicial error has been committed a defendant may have valid personal reasons to prefer going ahead with the trial rather than beginning the entire process anew, such as a desire to minimize the embarrassment, expense, and anxiety mentioned above. These considerations are peculiarly within the knowledge of the defendant, not the judge, and the latter must avoid depriving the defendant of his constitutionally protected freedom of choice in the name of a paternalistic concern for his welfare.”
+In the light of the language above quoted, we conclude that no “legal necessity” existed for the order of mistrial and that, defendant having been in jeopardy at her first trial, she cannot now be retried for the same offense.
+The alternative writ is discharged; let a peremptory writ issue, prohibiting respondent court from taking any further action in its case No. 470 06530, except to dismiss it.
+Files, P. J., and Jefferson, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied August 4, 1971.
+The papers before us raise a factual dispute as to whether the trial judge acted in part because of his displeasure at the prosecuting attorney for introducing the disputed evidence since that evidence was neither pertinent nor necessary to the issue of probable cause, or whether he acted solely because defense counsel had improperly referred to the acquittal of the other woman. Both the judge and counsel for respondent have insisted in superior court and here that he acted solely on the latter ground; we dispose of the case on that assumption.
+Superior court case No. 996987.
+The issuance of an alternative writ constitutes a determination by us that the remedy of appeal from the superior court’s denial of defendant’s petition there was not an adequate remedy. (Witkin, Cal. Procedure (1967 supp.), Extraordinary Writs, § 31, p. 1046).
+Curry v. Superior Court also settles the rule that defendant need not expressly object to the dismissal in order to claim the benefit of a double jeopardy plea, saying (at p. 713): “When a trial court proposes to discharge a jury without legal necessity therefor, the defendant is under no duty to object in order to claim the protection of the constitutional guarantee, and his mere silence in the face of an ensuing discharge cannot be deemed a waiver.”
