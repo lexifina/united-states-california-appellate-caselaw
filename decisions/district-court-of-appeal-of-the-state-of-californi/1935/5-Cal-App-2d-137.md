@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 176"
+decided: "1935-03-05"
+citations: ["5 Cal. App. 2d 137"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. CHARLEY QUONG, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/5/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178960
+cites_cases: ["106 Cal. App. 109", "133 Cal. App. 192", "23 Pac. (2d) 777", "288 Pac. 832"]
+---
+
+# People v. Quong
+
+## Majority (ALLYN, J., pro tem.)
+
+ALLYN, J., pro tem.
+Defendant appeals from a judgment of conviction on the charge of possession of opium and from an order denying his motion for a new trial. For reversal he depends upon, the insufficiency of the evidence to support the conviction and upon an affidavit of one Yee Haw, filed in support of his motion for a new trial, wherein said Yee Haw states that he was the guilty party and that defendant had no knowledge that the opium was on his premises.
+There is ample evidence to support the jury’s conclusion that the defendant is guilty. He was arrested on his premises in company with other Chinese after the officers had forced entry. While he had been absent .from Bakersfield for several months he had returned the day before his arrest and had spent the night in his room. At the time of his arrest many articles used by opium smokers were spread upon a table in the room in full view. There was a strong odor of opium smoke and a quantity of yen shee, containing more than two per cent of opium was among the articles found on the table. The defense that defendant had no knowledge of the presence of the opium created at most a conflict with the prima facie case made out by the prosecution showing that the opium was in his possession. This defense was for the consideration of the jury. (People v. Randolph, 133 Cal. App. 192 [23 Pac. (2d) 777].)
+The affidavit of Yee Haw, wherein he admits the ownership of the yen shee and of the smokers’ articles and attempts to exonerate the defendant, is at most corroborative of the latter’s testimony at the trial. The granting of a motion for a new trial in such a ease rests in the sound discretion of the trial court and its judgment will not be disturbed on appeal unless it manifestly appears that this discretion has been abused. (People v. Ledbetter, 106 Cal. App. 109, 288 Pac. 832].) There is ample justification in the record for the ruling of the trial court.
+The judgment and the order denying defendant’s motion for a new trial are affirmed.
+Barnard, P. J., and Marks, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on March 19, 1935, and the following opinion then rendered thereon:
+MARKS, J.—Defendant has filed a petition for rehearing wherein he confidently asserts that the evidence is entirely insufficient to support the verdict and judgment and intimates that we placed an unjustified construction upon the evidence. This may be due to the extremely abridged statement of facts in the opinion. We have again carefully reviewed the record and find it necessary to adhere to our former opinion. Our reasons for this conclusion, in addition to those already given, will be made clear by a summary of the evidence.
+Defendant was the lessee or owner of the building in which he was arrested but had not personally occupied it for some time. He had not been in it between January 1 and April 5, 1934, as he was operating a store in the city of Corcoran.
+The building in Bakersfield was constructed of brick and had a ground floor and basement. On the ground floor was a room formerly used to operate a store, a bedroom, another room which one witness referred to as an office, and a kitchen. In the basement were one or more bedrooms and a large storeroom in which were two cots. A stairway led from the basement and into the office on the main floor through a trap door. A high window with bars on the outside opened from this room. We cannot give a more detailed description of the interior because the witnesses testified from a drawing on a blackboard which is not reproduced in the record. Any question on the sufficiency of the evidence caused by the absence from the record of a photographic copy of the drawing, or other reproduction of this drawing, must be resolved against defendant because it was his duty to furnish us with a complete record, showing errors, if any there be.
+On the night of April 5, 1934, defendant slept in his bedroom on the ground floor of the building. He visited personal friends and attended to his business on the next day and returned to the building at about 11 o’clock thát night. At about 11:45 o’clock police officers armed with a search warrant sought admission. They broke open the front door, but could not force their way into the living quarters on the ground floor. They forced an entrance into the basement by the use of a sledge hammer and started an attack on the trap door when it was opened by Joe Poy. On entering the “office” they found defendant there in company with Poy.
+The following articles pertaining to the smoking of opium were admitted in evidence and were identified as having been found in the office when it was searched in the presence of defendant: Two wooden pillows used by opium smokers; two opium pipe bowls; a tin box containing yen shee; five small tins containing scrapings of opium and yen shee; a third opium pipe bowl containing a deposit on its inside; a box containing yen shee; tools for cleaning opium pipe bowls; one or two peanut oil lamps. One witness testified that these articles were in plain sight in the room where defendant and Poy were found. John G. Lounsbury, one of the arresting officers, testified that there was a distinct odor of opium smoke in the room. An opium pipe had been dropped out of the window of this room. Other articles used by opium smokers, and opium and yen shee were found in the basement.
+We are of the opinion that the foregoing evidence is sufficient to support the inference which the jury drew that the defendant had opium in his possession at the time of his arrest.
+The newly discovered evidence offered in support of the motion for new trial is set forth in an affidavit of Yee Haw, who sought to take entire responsibility for the presence in the building of the opium, yen she and opium smokers’ equipment found by the officers. It appears from the affidavit that Yee Haw had been charged with possession of opium and convicted and that after his conviction he offered to relieve defendant from the charge against him by assuming responsibility for the contraband found. Under these circumstances and in addition to the reasons already given we cannot conclude that the trial judge abused his discretion in denying a new trial because of this newly discovered evidence, if such it could be called.
+The petition for rehearing is denied.
+Barnard, P. J., and Jennings, J., concurred.
