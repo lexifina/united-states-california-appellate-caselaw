@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10041"
+decided: "1938-09-08"
+citations: ["28 Cal. App. 2d 383"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LIONEL HAYDEL, Respondent, v. ANDREW WADE MORTON, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/28/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039503
+cites_cases: ["123 Cal. 248", "138 Cal. App. 267", "19 Cal. App. (2d) 697", "214 Cal. 722", "24 Cal. 52", "32 Pac. (2d) 661", "48 Pac. (2d) 709", "55 Pac. 1008", "66 Pac. (2d) 204", "7 Pac. (2d) 1006", "8 Cal. App. (2d) 730"]
+---
+
+# Haydel v. Morton
+
+## Majority (MAXEY, J., pro tem.)
+
+MAXEY, J., pro tem.
+The plaintiff herein secured a judgment against the defendant, predicated upon a charge of malicious prosecution. The case was tried before a jury and interrogatories were propounded and findings thereon duly made by the jury. Judgment was rendered in accordance with the verdict. The defendant appealed, and on March 24, 1937, this court reversed the judgment; the respondent petitioned for a hearing by the Supreme Court after judgment in the District Court of Appeal. This petition was denied by the Supreme Court on May 20, 1937. Thereafter a remittitur was issued out of this court and the respondent herein, on February 25, 1938, filed a motion to recall the remittitur.
+The basis of this motion is that said judgment was improvidently granted by this court upon a false suggestion by appellant; under a mistake as to the facts of the case, and through the inadvertence of the court; that the decision results in a miscarriage of justice due to the error of this court.
+A motion to recall a remittitur is an extraordinary remedy that is only exercised in cases of fraud or imposition practiced upon the court or upon the opposite party or where a judgment is improvidently granted, upon a false suggestion, or under a mistake as to the facts of the case. (Rowland v. Kreyenhagen, 24 Cal. 52 ; Trumpler v. Trumpler, 123 Cal. 248, 252 [55 Pac. 1008] ; Municipal Bond Co. v. City of Riverside, 138 Cal. App. 267, 279, 285 [32 Pac. (2d) 661] ; Isenberg v. Sherman, 214 Cal. 722, 725 [7 Pac. (2d) 1006].)
+Improvidently granted is defined as being thoughtlessly granted, or without due consideration.
+Respondent’s motion is predicated upon certain statements alleged to have been made in appellant’s briefs on file herein, and upon the alleged suppression by the appellant of the fact that the findings upon the special interrogatories made by the trial jury were not called to the attention of this court by appellant in his opening brief, and that the decision of this court was mistakenly made by reason of the alleged suppression of these facts by appellant. These points are set forth in detail in respondent’s memorandum of authorities and in the affidavit filed in support of this motion. The affidavit fully sets forth the factual situation relative to the alleged misleading statements and suppression of the special findings.
+The action is one in malicious prosecution. In order to sustain such an action it is well settled that the burden is upon the plaintiff to establish two indispensable elements: First, that the defendant acted without probable cause; second, that defendant was actuated by malice. (Haydel v.. Morton, 8 Cal. App. (2d) 730, 732 [48 Pac. (2d) 709], and cases cited.)
+It is not sufficient in such a prosecution to merely show malice upon the part of the defendant. It must further appear that the prosecution was not only maliciously had, but that it was had without probable cause. The question of what facts or circumstances amount to probable cause has been held to be a pure question of law for the court. (Haydel v. Morton, supra, and cases cited.) In the instant ease, therefore, it is inconsequential as to the findings of the jury upon the propounded interrogatories, should the facts and circumstances of the particular case be insufficient as a matter of law to show a want of probable cause in the defendant. The decision in the instant case is predicated upon the legal conclusion that the facts of the case, being without conflict, do not, as a matter of law, support the verdict based upon the want of probable cause on the part of the defendant. Any special findings made by the jury upon that question, whether in findings predicated upon propounded interrogatories, or contained in a general verdict, would have no effect upon the legal conclusions to be drawn from such nonconflicting facts.
+It is therefore our conclusion that the decision reached in this case was not improvidently granted for the following reasons: Respondent had ample opportunity in his reply brief to refute any statements contained in appellant’s opening brief and to expose the suppression of facts alleged to have been made by appellant in this court; upon decision by this court an opportunity was afforded respondent to petition this court for a rehearing, and at that time to call to the court’s attention the very matters which are now set forth in the motion to recall the remittitur; such a petition for a rehearing was never filed in this court. Respondent had the opportunity of raising the questions here involved in his petition before the Supreme Court for a hearing after determination in this court; and, lastly, the decision of this case as made by this court, and reported in 19 Cal. App. (2d) 697 [66 Pac. (2d) 204], clearly indicates that the decision was not “improvidently granted” but was based upon the failure of the respondent to show a want of probable cause in the original trial of the action that would justify the legal conclusion that the prosecution had been without probable cause as a matter of law.
+The record does not indicate, nor has any instance been called to our attention which would warrant the conclusion that any fraud or imposition had been practiced upon this court, or that the decision was thoughtlessly made without due consideration to all of the facts and circumstances involved therein, but quite to the contrary, the decision shows that the record was fully and carefully examined without reference to the prior ease between these same parties, and that the conclusion of this court was predicated upon its independent research and careful study of the matters involved in this appeal.
+The motion will, therefore, be denied.
+Knight, Acting P. J., concurred.
+Cashin, J., dissented.
+A petition by respondent to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on November 7, 1938.
