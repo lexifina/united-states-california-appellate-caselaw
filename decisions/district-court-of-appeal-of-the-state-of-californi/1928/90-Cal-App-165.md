@@ -1,0 +1,45 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6157"
+decided: "1928-03-16"
+citations: ["90 Cal. App. 165"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CORA OLMSTEAD, Appellant, v. GLENDORA BANK (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app/90/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2105569
+---
+
+# Olmstead v. Glendora Bank
+
+## Majority (MURPHEY, J., pro tem.)
+
+MURPHEY, J., pro tem.
+This is an action in tort brought by the plaintiff; to recover the reasonable value of certain bonds of the aggregate and par value of $3,390, together with interest thereon at the rate of six per cent per annum as provided in said bonds. It is the contention of the plaintiff that these bonds were converted by defendant to its own use and benefit. Judgment was for the defendant and the plaintiff appeals.
+At the time the negotiations and transactions resulting in this litigation were initiated, plaintiff, a widow residing in Glendora, Los Angeles County, was the owner of cash and securities amounting in the aggregate to about $3,500. In the early months of 1922, January or February, the bulk of these funds, being the plaintiff’s capital, were deposited in the First National Bank of Glendora, she having, however, at that time a small account in the Bank of Glendora, the defendant in this action. Being dissatisfied with merely a bank interest return on her capital, the plaintiff consulted one Boye, the cashier of the defendant bank, with regard to investing her funds in more remunerative ventures. Boye suggested real estate loans, to which the plaintiff demurred, being desirous of having something more readily convertible into cash and suggested safe stocks and bonds. She was informed by the cashier that the bank did not undertake to handle investments of that character, but that he would recommend a Los Angeles man who frequently acted for him and for the bank in such matters and was highly recommended for that character of employment. This resulted in the introduction of plaintiff by Boye to a man named Pearman, who was a salesman for a Los Angeles brokerage firm. There are no specific findings as to the exact relationship or as to the specific terms of any arrangement or agreement as between the plaintiff and Boye and Pearman or plaintiff and either of them. However, there is no objection in the record as to the lack of specific findings on this issue. The testimony in this regard is contradictory and wholly lacking in convincing force. It may, however, be said from a consideration of the entire record that it was the purpose and intention of the plaintiff that Pearman, in conjunction with Boye, should invest and reinvest her funds and deposit the profits to her credit in a savings account opened in the Bank of Glendora in her name at the suggestion of Pearman. As to the plaintiff’s understanding in this matter we quote from the record:
+“Q. What did you think was meant by the conversation between Mr. Boye and Mr. Pearman, telling him to be more careful of your money?
+“A. Well, I thought Mr. Boye would tell him what to do with it.
+“Q. Then you did know that he was going to do something with it?
+“A. Of course I knew.
+“Q. Did you know he was going to invest your funds?
+“A. Why, of course, yes; that is what Mr. Boye said that he was—he would let him.
+“Q. Well, then, when was it that you did tell Mr. Pear-man that it would be all right to invest your funds if Mr. Boye thought so?'
+“A. I don’t know that I particularly told him—I don’t remember; there was quite a bit said the day that we were in the bank, and we were talking about it, and Mr. Boye said that he was going to have him invest some of his money, and I said, ‘Very well, whatever you say.’ ”
+Subsequent to the introduction of Pearman to the plaintiff by the cashier her money, was transferred from the First National Bank of Glendora to the Glendora Bank, and thereafter several purchases and sales of securities were made by Pearman, the profits of which were credited to the account of the plaintiff in her savings account in the Glendora Bank and the securities were kept in a box in this bank, accessible to Pearman and Boye.
+In November, 1922, the plaintiff being about to depart for an extended visit in the east, asked Boye for a statement of her investments or bond account and was given a receipt in words and figures following:
+“Glendora, Cal., 11-22, 1922. No.....
+“Received of (in printing) holding for Mrs. Cora Olmstead 3 N. V. Central 6% bond, amount pd. 113, total $3390.00, all former bonds having been sold and traded.
+“Glendora Bank, Glendora, Cal.
+“By W. F. Bote, Cash.”
+The bonds named in this receipt had been purchased by Pearman and are the bonds alleged to have been converted by the bank. In January, 1923, while the plaintiff was still in the east, these bonds were either sold and the proceeds invested in or they were traded for 35 shares, par value $100, of the capital stock of the Foothill Finance Company, a building concern of which corporation Boye was president and Pearman secretary. 0
+With respect to the transaction the court finds:
+“The defendant did not convert the said bonds to its own use and benefit, and the plaintiff is not damaged in any sum whatever by reason of any action of the defendant. The plaintiff did not deliver to G. C. Pearman the bonds in question, but she had delivered other bonds to him, and he had sold them and reinvested the proceeds thereof in other securities for the benefit of said plaintiff, and deposited any profits made on said transactions to the benefit of the plaintiff in a savings account in defendant bank, but at the time that these particular bonds were delivered, and for some time previous thereto, the plaintiff had had no savings account in defendant bank.
+“The securities that Pearman had at different times were placed in a box under his control in the defendant bank, but these particular bonds, as shown by said receipt, were in the possession of the defendant bank.
+“Pearman did not have the sum of $3,500 belonging to the plaintiff in his possession, and he did not invest $3,500 in money belonging to the plaintiff in the preferred stock of the Foothill Finance Company, but Mr. Boye, the cashier of the defendant, turned over to him or allowed him to take the three New York Central bonds above referred to, and to trade them for preferred stock of the Foothill Corporation, and Pearman took a certificate of stock in said company in the name of the plaintiff for stock of $3,500 par value. Three dividends on said preferred stock were not paid to the plaintiff, but three dividends were in her absence put to her credit in her checking account in defendant bank. The certificate for stock of the Foothill Finance Corporation was delivered to the plaintiff by the said Boye, but it is not true that she made no objection until the Foothill Finance Corporation became financially involved and ceased to pay dividends.
+“The plaintiff did not know that the three New York Central bonds were left with G. C. Pearman for the purpose of sale and reinvestment. She did not know that those bonds had been traded for stock of the Foothill Finance Corporation. ’ ’
+There is evidence to support these findings, and whether the bonds were given to Pearman by Boye or withdrawn by Pearman from the box in which they were deposited in the bank would seem to be of no particular consequence, as the deal was in furtherance of and in conformity with the arrangement made for the investment of the plaintiff’s capital that had been in operation before she departed for the east. There is nothing in the record that would warrant a finding or conclusion that the bank had converted any property of the plaintiff. It may be further stated that the bank did not know of the dealings of Boye, Pear-man and Mrs. Olmstead, except in so far that it had constructive notice by reason of Boye’s official relationship to the bank, and it may be further said in this connection that the bank received no compensation whatever in connection with the transaction involved in this litigation. The use of its vaults and safety boxes was entirely gratuitous. Furthermore, the purchase of the Foothill Finance Company’s stock, in so far as the record discloses, was not in violation of the business deals sanctioned and ratified at various times by the plaintiff. Her misfortune may be attributed to the fact that the business sagacity of her agents and representatives was bad, or worse than bad.
+There is no direct evidence as to the value of the stock of the Foothill Finance Company at the time they were taken over for the account of the plaintiff. It may be fairly inferred, however, that it was worthless, otherwise this litigation would not have materialized.
+Judgment is affirmed.
+Koford, P. J., and Sturtevant, J., concurred.
