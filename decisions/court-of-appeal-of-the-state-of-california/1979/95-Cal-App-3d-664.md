@@ -1,0 +1,50 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 55124; Civ. No. 53562"
+decided: "1979-07-31"
+citations: ["95 Cal. App. 3d 664"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHARD MORGAN, Plaintiff and Appellant, v. KARL K. RANSOM, Defendant and Respondent. RICHARD MORGAN, Petitioner, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app-3d/95/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004955
+cites_cases: ["10 Cal.Rptr. 377", "149 Cal.Rptr. 499", "188 Cal.App.2d 300", "244 Cal.App.2d 605", "53 Cal.Rptr. 341", "84 Cal.App.3d 771"]
+---
+
+# Morgan v. Ransom
+
+## Majority (FILES, P. J.)
+
+Opinion
+FILES, P. J.
+This is an appeal by plaintiff from an order dismissing his action because of his failure to answer a written interrogatory in the proper form and at the proper time. Also before us is a petition for a writ of mandate to set aside the dismissal.
+Inasmuch as plaintiff made a showing that he was indigent, without counsel, and imprisoned in state prison, this court ordered the superior court file transmitted here as the record on appeal in lieu of a clerk’s transcript.
+The chronological history, as shown in the superior court file, will be related first.
+On March 23, 1976, plaintiff, acting in propria persona, filed a complaint for damages for malpractice against an attorney who had allegedly represented him in a criminal proceeding in Los Angeles County in 1971. PlaintfFs mailing address, as it appeared on the face of the complaint, was a post office box at Tamal, California, which is recognizable as the mailing address of a prisoner at San Quentin State Prison. Subsequent papers filed by plaintiff gave post office box 11264 in Fresno as his address.
+Defendant appeared through counsel and answered, admitting the employment and denying malpractice. Statutes of limitations were pleaded as additional defenses.
+On September 16, 1977, defendant took plaintiff’s deposition at a law office in Fresno.
+On September 22, 1977, defendant mailed to plaintiff at Fresno post office box 11264, an interrogatory which begins as follows: “During the past seven (7) years, have you commenced any lawsuits or administrative proceedings in propria persona? If so, for each lawsuit or administrative proceedings state the following:”.
+There followed nine subparts, requiring detail about each of the prior lawsuits or proceeding.
+On November 10, 1977, defendant’s attorney mailed a letter to plaintiff reminding him that the answers were overdue.
+On November 30, 1977, defendant’s attorney served and filed a notice of motion to compel answers to the interrogatory.
+On December 12, 1977, that motion was granted. The court’s order also provided: “Said attorney [s/c] is ordered to pay to moving party’s counsel the sum of $250.00 as reasonable expenses and fees . . . .”
+Notice of the ruling was mailed to the Fresno box on December 16, 1977.
+The next succeeding document in the superior court file is a group of five hand-printed sheets, each apparently signed by plaintiff, dated January 23, 1978. The clerk of the superior court did not place on these papers any file stamp or notation of the date of receipt. These papers included a motion to vacate the December 12 ruling, supported by a declaration under penalty of perjury that plaintiff had never received the interrogatories or any information about them until he received the notice of the December 12 ruling. A declaration of service stated that a copy of the notice of motion had been mailed to defendant’s attorneys January 24.
+The county clerk sent to plaintiff a check-box form letter dated January 31, 1978, with the message “Document to be typed on 8’A by 11 legal paper.” Plaintiff returned that paper to the clerk with the notation “I am in the Madiera County jail and I am denied access to legal paper and typewriter. Please advise by return mail.”
+On February 2, 1978, defendant filed a notice of motion to dismiss the action for failure to comply with the court’s order of December 12, 1977. Nothing was said in the moving papers about the papers which plaintiff claimed to have mailed to defendant’s counsel on Januaiy 24, 1978.
+The next paper in the superior court file is a hand-printed letter from plaintiff to the clerk of the superior court dated February 7, 1978, and stamped “Rec’d Cent. Feb. 18, 1978.” The letter repeated the statement that plaintiff was confined in the Madera County jail without access to legal paper or a typewriter. Attached to the letter were four hand-printed pages, bearing the caption of the case and headed “Answer to interrogatories received on 1-18-78.”
+Plaintiff’s answer to the interrogatory was “yes.” Under the subheadings, plaintiff listed 19 civil actions which he had filed as plaintiff, giving some of the requested details as to each, but explaining that he did not have complete records. A declaration of service attached to these papers showed service on defendant by mailing on Februaiy 7, 1978.
+On Februaiy 21, 1978, the motion to dismiss was heard in plaintiff’s absence and the action was dismissed.
+The superior court file also contains a copy of a letter from the trial judge to defendant’s attorney dated April 21, 1978, in which the judge stated he had received a copy of the petition for writ of mandate filed by plaintiff in the Court of Appeal. The judge stated he had reviewed the file and discovered the hand-written communications from plaintiff. The judge wrote “Although all of this material was received on February 18th it was neither in the file nor called to my attention on February 21st at the time I granted the order of dismissal.”
+Defendant’s attorney responded with a letter stating that her office had received the answers from plaintiff on February 17, but she had been absent and had not seen them; and that she had told the court on February 21 that some answers which were incomplete and unverified had been received. Counsel also disclosed a letter from “D. O’Malley,” dated November 19, 1977, and received December 5, 1977, which stated: “Mr. Morgan never received any interrogatories from you or your office. He is out of town and I have been in contact with him and he related that he has no knowledge of any interrogatories. This letter is to inform you of the fact.”
+The order of dismissal must be reversed for several reasons which must be considered together.
+First: It has often been said that a layman who represents himself is not entitled to any greater privileges than an attorney. But neither should he receive any less consideration and courtesy. It is not uncommon to grant a continuance to an attorney who sends word in advance that he is unavoidably detained so that he cannot attend a hearing.
+Second: A court has discretion to accept papers which are not in the form prescribed by the rules. (Rule 201(h), Cal. Rules of Court.) The answers to interrogatories tendered by plaintiff were legible and reasonably detailed, considering the circumstances which plaintiff offered in explanation.
+Although we credit counsel’s statement that the court was told that plaintiff had tendered some answers, it is apparent that the court had not seen any of the papers sent by plaintiff and had no information about plaintiff’s problem. A judge in a busy motion department is necessarily dependent upon the clerk and counsel to bring to the court’s attention the papers which should be considered. It is common knowledge that papers do not always reach the file as they should. Nevertheless a miscarriage of justice is simply that, whether caused by opposing counsel, the clerk or the judge. Plaintiff was entitled to have the court consider whether his answers were adequate, and whether his delinquency was wilful. The record shows the court did not consider what plaintiff had submitted before it ruled on the motion to dismiss.
+Third: Most important of all, defendant has never contended he would be prejudiced in any respect by plaintiff’s failure to answer the interrogatory. The motion to dismiss was based solely upon the perceived wickedness of plaintiff’s non compliance. The interrogatory, on its face, gives no indication that the information sought would be relevant to any issues raised by the pleadings. If defendant’s purpose was to elicit facts upon which to move for security under Code of Civil Procedure, section 391.1, defendant’s counsel could have so informed the trial court, and that problem could have been handled without dismissing the action. (See, e.g., Code Civ. Proc., § 2034, subd. (b)(2)(i).) But the court’s order of dismissal was not based upon any showing of prejudice, or even any showing that the interrogatory had any legitimate purpose. The dismissal was not remedial, but punitive.
+The code entrusts to the trial courts a wide discretion to take such action as is necessary to compel responses to interrogatories. But the answering of interrogatories is not an end in itself. The purpose of discovery is to bring out information which will lead to a just decision on the merits. The sanction of peremptory dismissal, without consideration of the merits, is fundamentally unjust unless the conduct of a plaintiff is such that the delinquency interferes with the court’s mission of seeking truth and justice. (See Caryl Richards, Inc. v. Superior Court (1961) 188 Cal.App.2d 300, 303-304 [10 Cal.Rptr. 377]; Fred Howland Co. v. Superior Court (1966) 244 Cal.App.2d 605, 609-612 [53 Cal.Rptr. 341]; Deyo v. Kilbourne (1978) 84 Cal.App.3d 771, 793-796 [149 Cal.Rptr. 499].) Upon the record made in this case, there is no justification for dismissal as a sanction for failure to answer the defendant’s interrogatory.
+The order of dismissal is reversed. The petition for writ of mandate is dismissed as moot.
+Kingsley, J., and Jefferson (Bernard), J., concurred.
+The copy of the letter which is in the appendix to respondent’s brief omits one page of the letter as it appears in the superior court file.
