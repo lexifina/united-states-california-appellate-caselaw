@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11027"
+decided: "1939-04-17"
+citations: ["32 Cal. App. 2d 184"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. WILLIAM WITTMAN, Jr., Respondent, v. MARIAN WITTMAN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/32/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4536418
+cites_cases: ["1 Cal. App. (2d) 572", "159 Pac. 1179", "16 L. R. A. 660", "173 Cal. 372", "220 Cal. 398", "3 Cal. (2d) 740", "30 Pac. (2d) 298", "31 Pac. (2d) 195", "37 Pac. (2d) 133", "47 Pac. (2d) 273", "95 Cal. 171"]
+---
+
+# Wittman v. Wittman
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+From the judgment of the superior court awarding a decree of divorce to her husband, the plaintiff, and denying her a divorce on the allegations contained in her cross-complaint, the defendant wife has appealed. In his complaint the plaintiff prayed for a decree based on the ground of cruelty. The defendant answered the complaint and at the same time filed a cross-complaint. Later she filed an amended cross-complaint. In the latter pleading she prayed for a divorce based on the ground of cruelty. By the stipulation of the parties the allegations contained in the amended cross-complaint were deemed denied. The first point made by the defendant is that the trial court did not determine the allegations set forth in her amended cross-complaint. It is not contended that the trial court did not make findings on said allegations. The point is presented in this manner. The appeal was taken and presented under section 953a, Code of Civil Procedure. The defendant has brought up what purports to be the judgment roll certified by the clerk. She has also brought up a transcript of the evidence certified by the reporter and also certified by the judge presiding at the trial. After the action had been tried the said judge wrote a memorandum of decision apparently for the assistance of counsel in the preparation of findings and the framing of a decree. Among other documents contained in the purported judgment roll the clerk included the said memorandum. Pointing to certain language contained in said document the defendant predicates the point above stated. For several different reasons the point may not be sustained. The contents of the judgment roll are specified in the statute. (Code Civ. Proe., sec. 670, subd. 2.) It is perfectly clear that the memorandum above mentioned is not one of the documents 'specified in said statute. The fact that the document was, notwithstanding, inserted in the purported judgment roll and certified as being a part thereof does not give said document any additional standing. (Sutcliffe v. Sutcliffe, 220 Cal. 398, 401 [31 Pac. (2d) 195].) Conceding that in some instances a court of review will for certain purposes examine such a memorandum, it is settled law that the court of review will not examine such a memorandum for the purpose of defeating the judgment of the trial court. (Scholle v. Finnell, 173 Cal. 372, 376 [159 Pac. 1179]; 24 Cal. Jur. 924.) We find nothing at variance with what we have said in the cases cited by the defendant. (Union Sugar Co. v. Hollister Estate Co., 3 Cal. (2d) 740, 749 [47 Pac. (2d) 273]; Hayes v. Khinoo, 1 Cal. App. (2d) 572 [37 Pac. (2d) 133].)
+As this record is presented this court is bound to presume in support of the judgment that there was no conflict whatever between the memorandum of opinion and the findings as signed by the trial court, or, if there was, that the memorandum of opinion was changed to conform to the findings as signed by the trial court.
+The overt acts of cruelty on which the defendant relied and on which she contends the trial court should have made findings of fact in her favor, she alleged occurred on December 28, 1935. That was the day the plaintiff and the defendant separated. On that date the defendant alleged the plaintiff said he did' not love her and that he wished she would leave their home. She further alleged that she refused and thereupon the plaintiff left the home and had not returned. The record shows the defendant was not free from blame. We cannot say the trial court erred in making findings against her.
+The defendant makes two other points. They are to the effect that the findings are not supported by the evidence and that the findings do not support the judgment. Neither contention may be sustained. In his complaint the plaintiff alleged a course of conduct extending from the date of the marriage of the parties down to the date of their separation in December, 1935. The trial court found said allegations to be true. There was evidence to sustain each finding. As we understand her the defendant seems to contend that the plaintiff was bound to show acts of assault and battery. But to sustain an action in divorce based on the ground of extreme cruelty it was decided at ah early date that such a showing was not the sole proof within the meaning of the statute. (Barnes v. Barnes, 95 Cal. 171 [30 Pac. (2d) 298, 16 L. R. A. 660].)
+We find no error in the record. The judgment is affirmed.
+Nourse, P. J., and Spence, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on June 15, 1939.
