@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10085"
+decided: "1935-04-29"
+citations: ["6 Cal. App. 2d 528"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MYRTELLE L. GUNSUL, Appellant, v. FREDERICK RAY, Jr., et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/6/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2200524
+cites_cases: ["121 Pac. 714", "136 Pac. 367", "17 Cal. App. 705", "278 Pac. 1046", "28 Ariz. 53", "76 Wash. 314"]
+---
+
+# Gunsul v. Ray
+
+## Majority (CRAIL, J.)
+
+CRAIL, J.
+This is an appeal from a judgment in favor of the defendant after an .order had been made sustaining a general demurrer to the complaint without leave to amend. The only questions involved on this appeal are: Was the language used by the defendant libelous? Was it privileged? If the privilege was qualified privilege, was malice properly alleged in the complaint in order to remove the privilege? If, so, the complaint stated a cause of action and the demurrer should have been overruled.
+As regards these matters, the complaint alleged that the defendants, through evil motive and malice toward the plaintiff, wilfully, maliciously and with intent and design to injure, disgrace and defame the plaintiff, and to bring her into public discredit as an auditor and as a woman, and to cause the public to hold the said plaintiff in contempt and ridicule, did sign a statement addressed to the city clerk of Long Beach, a notice given to the qualified electors of said city containing the following statements: “Whereas, for years the City Auditor has been taking from the City of Long Beach, $600.00 more per year than she is entitled to, in direct violation of the Charter of the City of Long Beach, Section 55-A. Whereas, the City Auditor (Miss Gunsul) has violated the City Charter, sections 136 (2) and 136 (4) by causing the issuance of a warrant for a considerable sum, to a certain prominent Los Angeles Attorney, drawn on the general payroll funds of the City of Long Beach, as payment for his services in defending her in a personal suit, after a demand by said attorney had been turned down by our own City Council, and which our own City Attorney labeled as a personal action, and in which suit as City Attorney, he declared he could not properly defend her.” That said statements were not only false but were known by defendants to be false and were made through malice toward the plaintiff and with the intent of injuring plaintiff as heretofore set out-.
+A false and unprivileged publication by writing or printing which exposes a person to hatred, contempt or obloquy, or which has a tendency to injure him in his occupation is libelous. To charge a public official with the misappropriation of public funds is an attack upon his or her honesty and fitness for public service. It is not necessary in order to be libelous that a publication charge the commission of a crime. It is obvious that the statements herein complained of tended to expose the plaintiff to contempt and obloquy and to injure her in her occupation as a public officer and were libelous, if false, unless privileged.
+The defendant contends that the statement was absolutely privileged under subdivision 2 of section 47 of the Civil Code, which reads, “In any (1) legislative or (2) judicial proceeding, or (3) in any other official proceeding authorized by law,” or if not so privileged, at least qualifiedly privileged under subdivision 3 of said section, which reads, “In a communication, without malice, to a person interested therein ... by one who is also interested.” Obviously the publication was not had in a legislative or judicial proceeding. A proceeding for a recall is political in its nature and the issue is of the latter character. (Abbey v. Green, 28 Ariz. 53 [235 Pac. 150]; Conn v. City Council of Richmond, 17 Cal. App. 705 [121 Pac. 714, 719]; Cudihee v. Phelps, 76 Wash. 314 [136 Pac. 367].) Neither is a recall proceeding an official proceeding. An “official proceeding” is defined in 46 Corpus Juris, 1085, as “a term denoting action taken by an officer”. (See, also, Layne v. Kirby, (Cal. App.) 278 Pac. 1046.) Webster’s Dictionary defined ‘‘official’’: “Of or pertaining to an office, position or trust; connected with the holding of office.” “Official act” is defined as “Any act done by the officer in his official capacity under color and by virtue of his office.” (46 Cor. Jur. 1084.)
+We agree that- the publication was qualifiedly privileged under said subdivision 3 in the same way that publications made in connection with other elections are privileged. Such publications, if false, must be “without malice” and the complaint herein would not be good unless it contained a proper allegation of malice. The complaint does sufficiently allege malice. (16 Cal. Jur. 85, and cases cited.)
+The defendant contends that “When the facts clearly constitute a privileged communication, even though the language employed under other circumstances might be slanderous per se, the very privilege creates a presumption that the communication is used innocently and without malice,” citing numerous cases and texts. But we are considering the pleadings, not the evidence. Malice may be alleged and was alleged. We recognize no rule of public policy which would give to a citizen actuated by malice a greater immunity from suits for libel in cases arising out of recall elections than in cases arising out of ordinary elections. The complaint states a cause of action.
+Judgment reversed with directions to overrule the demurrer.
+Stephens, P. J., concurred.
+A petition by respondents to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on June 27, 1935.
