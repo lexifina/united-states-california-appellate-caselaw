@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3989"
+decided: "1921-11-09"
+citations: ["55 Cal. App. 134"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE E. BILLINGS et al., Petitioners, v. THOMAS FINN, Sheriff, etc., Respondent."]
+source_url: "https://static.case.law/cal-app/55/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2070236
+cites_cases: ["67 Cal. 143", "7 Pac. 413"]
+---
+
+# Billings v. Finn
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This is an application for a writ of mandate directing the respondent, Thomas Finn, as sheriff, to sell certain property in accordance with the instructions of petitioners.
+The facts upon which the petition is based may be briefly summarized as follows: The petitioners herein in 1916 commenced an action against John Fauser and John Doe, alleging such persons to be “copartners doing business under the firm name of John Fauser & Co.” The action was brought upon a bond' executed in the name of John Fauser & Co. Judgment was rendered against “John Fauser and John Doe, copartners doing business under the firm name and style of John Fauser & Co.”“for the sum of $1,056.77. Subsequently the plaintiffs caused execution to issue thereon, and the sheriff accordingly levied upon certain personal property consisting of machinery and stock fixtures located in a building upon Guerrero Street which it is claimed belonged, to John Fauser & Co. Thereafter and before a sale could be had one Annie Fauser filed with the sheriff a third party claim to the property. Plaintiffs bonded against such claim and demanded that the sheriff proceed with the sale. Thereupon Annie Fauser delivered to the sheriff an undertaking pursuant to the provisions of section 710a of the Code of Civil Procedure, and the sheriff then refused to act further in carrying out a sale.
+It appears from the record that one John Fauser, owned the business conducted under the name of John Fauser & Co. He died, and Annie Fauser acquired the business, and filed in the office of the county clerk the certificate provided for by sections 2466-2472 of the Civil Code, to the effect that she was conducting said business under the name of John Fauser & Co. Notwithstanding this notice plaintiffs in the action above referred to, in attempting to proceed against John Fauser & Co., alleged the same to be a copartnership, and sued John Fauser and John Doe as co-partners doing business under such copartnership name, and service of summons was had upon John Fauser, a brother of Annie Fauser, who, it appears from the record, had no interest whatever in the business, but was a mere employee therein. Appearance was made in the action for the defendants by a firm of attorneys, and judgment was rendered in favor of plaintiffs as above recited.
+It is here claimed by respondent that as the business was owned by Annie Fauser, she should have been made the party defendant, and that not having been made such party and never having been served with summons, the judgment here sought to be enforced can in no manner affect the property of “John Fauser & Co.” of which she is the sole owner. It is admitted that the business attempted to be sued and the one against which the levy is sought to be made is one and the same. There is no question that in the action above referred to • an attempt was made to sue a copartnership known as John Fauser & Co., for the obligation sued upon was executed under such name. The pleader, however, failed to do so. Both in the caption of the complaint and in the averment as to the relations of the parties the defendants are described as John Fauser and John Doe, copartners doing business under the firm name and style of John Fauser, & Co. In such a case the action is against the persons or individuals named and not against the business, although such names are followed by the description “partners doing business under” a designated firm name; and conversely, where the declaration or complaint is in terms against the firm, the addition of the averment that such firm consists of certain named persons does not render such persons parties individually, but the action is against the firm, such additional averments being considered mere descriptto personae. (15 Ency. of PI. & Pr., p. 850; Davidson v. Knox, 67 Cal. 143 [7 Pac. 413].)
+This being so, neither John Fauser & Co. nor Annie Fauser, the owner of the business, was either sued or served in the action referred to, nor did the judgment run against either of them, it being against John Fauser and John Doe, copartners doing business under the firm name of John Fauser & Co. The defendants were not copartners so far as the record shows, and did not do business under the firm name mentioned, for Annie Fauser was the sole owner of the business conducted under such name, as her certificate filed in the office of the county clerk showed. Plaintiffs could have ascertained this fact by proper inquiry. They failed to do so and sued the wrong parties. Neither John Fauser & Co. nor Annie Fauser can properly he' considered parties to the action, and it follows that appearance by attorneys for all the defendants in no manner bound Annie Fauser nor her pseudonym “John Fauser & Co.,” nor were they affected by the judgment.
+For the reasons given the writ is denied.
+Waste, P. J., and Sturtevant, J., pro tem., concurred.
