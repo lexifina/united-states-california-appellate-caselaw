@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 14695"
+decided: "1944-12-13"
+citations: ["67 Cal. App. 2d 278"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PAUL DONALD MALONEY, Appellant, v. MARGUERITE MALONEY, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/67/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4574637
+cites_cases: ["112 Cal. 101", "15 Cal.App.2d 224", "15 P.2d 556", "152 Miss. 365", "171 N.E. 815", "20 Cal.App.2d 477", "271 Mass. 545", "29 Wash. 61", "32 L.R.A. 82", "36 Cal.App.2d 583", "44 P. 345", "53 Am.St.Rep. 165", "59 P.2d 170", "67 P.2d 715", "69 P. 389", "70 A.L.R. 518", "74 N.W. 362", "97 P.2d 1048", "98 Wis. 553"]
+---
+
+# Maloney v. Maloney
+
+## Majority (MOORE, P. J.)
+
+MOORE, P. J.
+The question for decision is whether the superior court in an action for divorce filed by the husband may make an order against him relative to the custody of the minor children, after he had departed from the state with the children.
+On January 6, 1944, plaintiff filed his complaint for divorce and requested that custody of the two minor children be , granted to himself and defendant jointly and that the court .make “an order directing the plaintiff to pay a reasonable amount for the support and maintenance of said minor children.” The cross-complaint was filed on January 25th. Defendant alleged the extreme cruelty of her husband and prayed . for divorce, for the sole, custody of the children and for an order compelling plaintiff to pay for their support.
+The last time defendant saw her children was on February 19, 1944. After that time plaintiff took the children to the State of Nevada and there instituted action for divorce and caused notice thereof to he served upon his wife in the city of Los Angeles. Plaintiff absented himself from the trial in the court below. Findings were filed in accordance with the alle,gatipns ;of the,, cross-complaint .awarding the custody of the minor children to the defendant and ordering plaintiff to pay defendant $80 per month for their support.
+The appeal is grounded upon the sole proposition that “a court has no jurisdiction to award the custody of . children when the children are not physically present within the state” at the time the decree is entered. In other words, plaintiff invokes the jurisdiction of the superior court of this state to adjudicate his grievance and to. determine the-question of the custody of his children and then denies that the .same court has jurisdiction to make an order upon the subject. presented, by his own pleading. In . this he is altogether out of line with the traditional concept of justice, of the powers of courts whose aid he seeks and of the rights of his adversary whom he has charged as unfaithful to her obligations. This fallacious contention is based upon an erroneous interpretation of those decisions which have clearly defined the powers of a court over persons within, as contradistinguished from its powers over persons without, its jurisdiction, or who have had notice of the action only by substituted service.
+The order awarding Mrs. Maloney the custody of her children and requiring her husband to provide for their support is a proper and correct judgment. (Marts v. Marts, 15 Cal.App.2d 224 [59 P.2d 170].) No factor was wanting to ' clothe it with the quality of finality. Numerous decisions are reported in support of the proposition that where jurisdiction of the person or of the res has once attached it is not defeated by the removal of the person or of the res beyond the jurisdiction of the court. (15 C.J., p. 824.) Jurisdiction once acquired is not defeated by subsequent events which might have prevented jurisdiction had they occurred before personal service of the action was made. (Bigelow v. Washburn, 98 Wis. 553 [74 N.W. 362].) When the action was commenced by plaintiff the children were in California under the joint control of their parents. By his very act in commencing the action plaintiff submitted not only himself to the jurisdiction of the court but also the res, that is, his status as husband and as father. The court thereafter had the power to enter an effective judgment for him or against him, in personam,, relative to any substantial allegation of the pleadings. Neither the mere physical departure of himself nor that of the children from California in the least altered the juris- • diction of the court completely to determine the controversy which he had lithely initiated. (State v. Rhoades, 29 Wash. 61 [69 P. 389].) Plaintiff cannot question the jurisdiction which by his own act he conferred. Although the' children are beyond the territorial limits of California, they are still under the jurisdiction of the court below (Hersey v. Hersey, 271 Mass. 545 [171 N.E. 815, 818, 70 A.L.R. 518]), which at- . tached at the time the suit was filed.
+The authorities cited by plaintiff in support of his appeal (De La Montanya v. De La Montanya, 112 Cal. 101 [44 P. 345, 53 Am.St.Rep. 165, 32 L.R.A. 82]; Warren v. Warren, 127 . Cal.App. 231 [15 P.2d 556]; In re Chandler, 36 Cal.App.2d 583 [97 P.2d 1048]; Boens v. Bennett, 20 Cal.App.2d 477 [67 P.2d 715]; Steele v. Steele, 152 Miss. 365 [118 So. 721]; Cody v. Cody, 21 Sask.L.R. 391) are not pertinent. In those cases, either no personal service was ever had upon the party against whom the appealed judgment had been entered, or the children involved were outside of the jurisdiction of the court from a date prior to the commencement of the action. All of them are founded upon the inefficacy of substituted service of process as a means of obtaining a judgment in personam.
+Judgment affirmed.
+Wood (W. J.), J., concurred.
+MeComb, J., deeming himself disqualified, did not participate.
