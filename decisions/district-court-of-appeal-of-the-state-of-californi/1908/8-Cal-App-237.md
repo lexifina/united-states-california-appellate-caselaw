@@ -1,0 +1,44 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 489"
+decided: "1908-05-08"
+citations: ["8 Cal. App. 237"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELEN YOUNGER, Respondent, v. CHARLES MOORE et al., Appellants; F. A. HIHN COMPANY, Respondent."]
+source_url: "https://static.case.law/cal-app/8/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4509925
+cites_cases: ["102 Cal. 618", "120 Cal. 33", "36 Pac. 943", "52 Pac. 122", "65 Am. St. Rep. 147"]
+---
+
+# Younger v. Moore
+
+## Majority (COOPER, P. J.)
+
+COOPER, P. J.
+This is an 'appeal by Charles Moore, Stella Moore, Alice Hoffmann and William C. Hoffmann, from an order denying their motion for a new trial. The case is the same as No. 488 of the same title this day decided, [rehearing granted] but involves a different question as to the rights of appellants on this appeal.
+It appears from the record that each of the appellants was regularly served with summons, and made default, which default was duly entered. The defaults were entered in August, 1902, and not until the trial had commenced in December, 1903, was any motion made by said appellants to be relieved of the default. The court held—and it seems to be conceded—that the application having been made more than six months after the entry of the defaults, it had no power, upon the showing made, to relieve the defendants by setting aside such defaults. Accompanying the application of appellants, and as a part thereof, was an answer, which they served with their motion and asked to be permitted to file in case the defaults were set aside. This answer alleged that the appellants, Charles Moore, Stella Moore and Alice Hoffmann, are (each) the owners of an undivided one-fourth interest in and to “all the tract of land described in plaintiff's complaint lying and being situate south of the county road leading from the city of Santa Cruz in said county of Santa Cruz in the State of California, to the town of Pescadero.” They further stated that as to the proportions in which the remaining one-fourth of the tract is owned they had no information or belief sufficient to enable them to answer. The answer sets forth a plea in abatement of another action pending in regard to the same subject matter, and alleged to be between the same parties. During the discussion of the motion of these appellants to have the default set aside and to be permitted to file their said answer, counsel on the part of the plaintiff and the other parties to the suit stated that, notwithstanding the default of appellants, they had no objection to the action being tried on its merits, and to the appellants offering testimony as to what their rights were; but that they objected to having any delay in the matter by setting aside the defaults. The court remarked that it was not the policy of the law to set aside a default so that the defendant could put in a plea in abatement. After some preliminary discussion the following took place:
+“Mr. Leonard (Plaintiff’s- Attorney) : Now if this is to be set aside for that purpose I would like it specifically understood that they are not to come in and have the default set aside and be allowed to answer, and then save an exception to not being allowed to enter that plea.
+“Mr. Cassin: I am not saving any exception to that.
+“Mr. Leonard: I would like an understanding about that.
+“The. Court: The answer is there with the motion. So much of the answer as is necessary aside from the plea of another action pending, whatever the plea is, the answer will be permitted, and that portion of the answer will be stricken -out. Now all that portion of the answer beginning on page 2 at line 4 commencing, ‘said defendant as a special answer and plea in abatement, ’ running through page 2 down to and including the words ‘in said action is the .same Helen Younger who is plaintiff named in the complaint herein, ’ on line 6, page 3; that will be stricken out. And commencing on page 3, line 29, ‘further answering and as a plea in abatement herein said defendants allege’ running down to ‘to which reference is hereby made, and that part of the answer is hereby repeated’ on line 5, page 4, that will be stricken out.
+“Mr. Cassin: If your honor wishes, I will file the answer at noon today, eliminating that part of it.”
+On the following day the defendants offered to file, not the answer that they had before prepared and served, with the plea in abatement eliminated therefrom, but a different answer, setting up different matter than alleged in the answer that the court permitted them to file; and alleging that at the time of his death the father, William H. Moore, held nine-tenths of the lower portion of the ranch in trust for his wife; that the interests of appellants were different from that they had stated in the answer they had first prepared and served. Objection being made to this answer, the court held that, as the default was set aside with the consent of the parties for the purpose of allowing a particular answer as then proposed to be filed, it would not allow appellants to change the answer they had been permitted to file. No permission was given to file any but the original answer, eliminating therefrom the plea in abatement. The original answer was not filed. When another and different answer was offered the following day the court refused to permit it to be filed. No exception was taken to the court’s ruling.
+The court during the trial, although appellants had not filed the answer which the court had given them permission to file, asked appellant’s attorneys if they had any testimony to offer. After mature consideration counsel for appellants declined to introduce any testimony in support of such answer. Then the following took place:
+“The Court: You must remember in this connection that you were allowed to file the defense to this action that you then offered. Under the answer they have already offered, which they have been given an opportunity to file, they would make certain proofs if you would agree to make no objection.
+“Mr. Younger: No, sir; we don’t agree to anything of the kind.
+“The Court: To which counsel declined to agree, as I understand it. If that is the ease then you have no proofs to offer?
+“Mr. Cassin: We have not an answer on file at the present time.
+‘ ‘ The Court: That situation was fixed yesterday. I am not prepared to say that the answer offered is not an answer.
+“Mr. Cassin: I want it understood so that the record will be clear. I don’t claim the right or waive the right to set up any plea of abatement, anything of that kind. The only thing we ask is to set up a proper answer under the provisions of section 758 of the Code of Civil Procedure.
+“The Court: Whether or not you have an answer, here is a legal proposition that will be determined by the facts that occurred yesterday.
+“Mr. Cassin: I am satisfied we have not, because we were given until yesterday to file it, and we have not filed it.
+“Mr. Cassin: I will take leave of the Court, and bid your honor good-by.
+“The Court: I am sorry to part with you at this stage of the road.”
+It will thus be seen that even with the appellants in default counsel were willing to allow them to be heard, to file an answer that they had prepared but eliminating the dilatory plea. The court by its order permitted the answer to be filed as by consent of attorneys representing parties who had not defaulted. This they declined to do, and no answer was filed.
+It is sufficient to say that, it being conceded that appellants had no legal right to have their defaults set aside and be allowed to answer, they could only insist on filing the kind of answer to which- consent had been given. The conditions were insisted upon, and imposed by the court by which the defaults were to be set aside. As appellants did not comply with the terms, they cannot here complain. (Dennison v. Chapman, 102 Cal. 618, [36 Pac. 943].) If the appellants had filed the answer which the court permitted them to file, they would, no doubt, have been permitted to amend it if it appeared to the court during the trial that the ends of justice would be subserved by such amendment. As the facts appear, we do not think that the court abused its discretion in refusing to allow the second answer to be filed.
+It may be further said that, as to these appellants, there was no trial of an issue of fact because there was no answer on file. A new trial is a re-examination of an issue of fact, and a motion for a new trial is not a proper proceeding to review the action of- the court in giving judgment in a case where there is no issue of fact tried. (Foley v. Foley, 120 Cal. 33, [65 Am. St. Rep. 147, 52 Pac. 122].),
+The order is affirmed.
+Kerrigan, J., and Hall, J., concurred.
