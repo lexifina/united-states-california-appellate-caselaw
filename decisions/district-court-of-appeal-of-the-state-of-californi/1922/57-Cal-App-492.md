@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4209"
+decided: "1922-04-28"
+citations: ["57 Cal. App. 492"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. J. BRISCOE, Respondent, v. GUARANTEE MORTGAGE COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/57/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2081667
+cites_cases: ["111 Cal. 371", "12 A. L. R. 437", "124 Pac. 730", "135 Cal. 572", "136 Cal. 134", "163 Cal. 114", "184 Cal. 367", "194 Pac. 11", "43 Pac. 1108", "67 Pac. 1034", "68 Pac. 491", "7 Cal. App. 186", "94 Pac. 91"]
+---
+
+# Briscoe v. Guarantee Mortgage Co.
+
+## Majority (KNIGHT, J., pro tem.)
+
+KNIGHT, J., pro tem.
+This is an appeal by defendant Guarantee Mortgage Company, a corporation, from an order denying its motion for a change of place of trial from Fresno County to the city and county of San Francisco. The motion was based upon the grounds that the city and county of San Francisco at the time of the commencement of the action was the residence of the defendant Guarantee Mortgage Company, and that the causes of action sued upon accrued in said city and county of San Francisco.
+The action is one to rescind an agreement to purchase corporate stock upon the ground of fraud and upon the ground that the agreement to purchase said stock was procured in violation of the so-called “Corporate Securities Act” [Stats. 1917, p. 673] of the state of California, and to cancel two promissory notes, one for the principal sum of six thousand five hundred dollars and the other for the principal sum of three thousand five hundred dollars, given by plaintiff in payment of the purchase price of said stock. It is alleged in the complaint that the note for the sum of three thousand five hundred dollars was assigned by said defendant Guarantee Mortgage Company to the defendant B. J. Sheagren, and that the latter was at the time of the commencement of the action the owner and holder thereof. The prayer of the complaint is that the agreement for the purchase of said stock be canceled; that defendant Sheagren be required to deliver up said note for three thousand five hundred dollars, and that the defendant Guarantee Mortgage Company be required to deliver up said note for six thousand five hundred dollars, and that both of said notes be thereupon canceled, and that plaintiff have such other and further relief as to the court may seem meet and agreeable to equity.
+The defendant Sheagren did not join in the action for the change of place of trial, and there was no proof offered on the hearing of said motion to show that he was not a resident of Fresno County. Under such circumstances the motion was properly denied. The rule applicable here is stated in Donohoe v. Wooster, 163 Cal. 114 [124 Pac. 730], as follows: “Where there are several defendants in a personal action, a nonresident defendant, moving alone, is not entitled to have the place of trial changed to the county of his residence in the absence of a showing that none of the other defendants are residents of the county in which the action was brought. (Code Civ. Proc., sec. 395; Hearne v. De Young, 111 Cal. 371 [43 Pac. 1108]; Quint v. Dimond, 135 Cal. 572 [67 Pac. 1034]; County of Modoc v. Madden, 136 Cal. 134 [68 Pac. 491]; Sullivan v. Lusk, 7 Cal. App. 186 [94 Pac. 91].)”
+Appellant endeavors to escape the effect of the rule above stated by claiming that the defendant Sheagren is not a necessary party to the action, and that the complaint fails to state a cause of action against him in that it contains no allegation that Sheagren was a party to the alleged fraud or had notice or knowledge thereof.
+This contention cannot be sustained. It is alleged in the complaint that Sheagren is the holder of one of said promissory notes which plaintiff by this action seeks to have canceled, which of itself is sufficient ground for making him a party defendant. It would be impossible to obtain a valid judgment for the cancellation of said note without making him a party defendant, and in order to state a cause of action against him it was not necessary to allege that he was a party to the fraud or had knowledge thereof. Section 3136 of the Civil Code provides that the title of a person who negotiates an instrument is defective when he obtains. the instrument under such circumstances as amount to fraud, and section 3140 of the same code provides that “when it is shown that the title of any person who has negotiated the instrument was defective the burden is on the holder to prove that he or some person under whom he claims acquired the title as holder in due course.”
+Inasmuch as it is alleged in the complaint that the title of the defendant Guarantee Mortgage Company, who negotiated the instrument, was defective on account of the alleged fraud, the burden therefore rests with the defendant Sheagren, as assignee, to show, and for that purpose to affirmatively allege as a defense, that he is a holder in due course. The case of Rhode v. Dock-Hop Co., 184 Cal. 367 [12 A. L. R. 437, 194 Pac. 11], relied upon By appellant, is not in point here, for the reason that there the action was' one to recover unpaid balances due on the subscription for corporate stock, and did not involve a negotiable instrument. The rule declared by section 3140 of the Civil Code applies peculiarly to negotiable instruments.
+The order appealed from is affirmed.
+Kerrigan, J., and Tyler, P. J., concurred.
