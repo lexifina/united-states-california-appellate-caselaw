@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1268"
+decided: "1913-03-05"
+citations: ["21 Cal. App. 376"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY P. GOODWIN, Respondent, v. THE CENTRAL BROADWAY BUILDING COMPANY (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/21/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4488816
+cites_cases: ["102 Cal. 71", "121 Cal. 202", "123 Cal. 397", "144 Cal. 597", "34 Pac. 529", "53 Pac. 634", "55 Pac. 1063", "77 Pac. 1113"]
+---
+
+# Goodwin v. Central Broadway Building Co.
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+The action is by an assignee to recover the value of certain legal services alleged to have been rendered by plaintiff’s assignor to defendant at defendant’s' special instance and request. The answer denied the averments of the complaint. The court found that defendant employed plaintiff’s assignor as an attorney to perform legal services; that the same were performed, were of the value of two thousand dollars and remained unpaid, and that the assignment to plaintiff was regular. Judgment followed in plaintiff’s favor, from which, and a subsequent order denying a new trial, defendant appeals.
+The transcript discloses evidence upon plaintiff’s part tending to show these facts: Defendant corporation was the owner of certain real estate in the city of Los Angeles. A proceeding was instituted by the city of Los Angeles to open an alley, which affected defendant’s premises. One Isaac Norton was defendant’s president and employed plaintiff’s assignor to appear as an attorney and contest such proceedings. Authority from the board of directors in this regard is not shown. Norton as president was present at the trial during all of the proceedings and assisted therein. "While the proceedings resulted in an order to open the alley, it also appears that an award of compensation and damages satisfactory to defendant was made. Thereafter proceedings were instituted to vacate the award and dismiss the proceedings. In this matter plaintiff’s assignor appeared and acted for defendant at the instance and request of defendant’s president, who was also shown to have been present during all of the proceedings. The proceedings were dismissed. Whether we consider the large awards satisfactory to the corporation defendant or the subsequent dismissal of the proceedings through which the corporation’s original contention was sustained, the effect is that the corporation accepted and received the benefits of the action and of the attorney’s services. Section 1589 of the Civil Code provides: “A voluntary acceptance of the benefit of a transaction is equivalent to a consent to all the obligations arising from it, so far as the facts are known, or ought to be known, to the person accepting.” The supreme court of California in construing this section has said, in Gribble v. Columbus Brewing Co., 102 Cal. 71, [34 Pac. 529] : “And where, with full knowledge of all the facts involved, a principal reaps the fruits of the unauthorized contract of his agent, and for some time yields acquiescence to its provisions, he will be deemed to have ratified it, and will be estopped, as 'against one who has fully performed the contract on his part, from repudiating it to "the injury of the latter. And this doctrine applies to corporations equally with individuals.” As to the requisite notice sufficient under the section above referred to, it is said in Balfour v. Fresno Canal, etc. Co., 123 Cal. 397, [55 Pac. 1063]: “The president of a corporation is a proper person to whom notice, which is to affect a corporation, is to be given. . . . The president is considered the head of the corporation, and it is his duty to report to the trustees information affecting the interests of the corporation. And the presumption is that he does so.” (Approved in Montecito Valley Co. v. Santa Barbara, 144 Cal. 597, [77 Pac. 1113].) The evidence presented by the record as to the employment is conflicting. The learned trial judge accepted as. true plaintiff’s testimony, and under the established rule this is binding upon an appellate court when reviewing the question of the sufficiency of the evidence to support the findings. This action is not brought upon a special contract, as was the dase of Pacific Bank v. Stone, 121 Cal. 202, [53 Pac. 634], and other authorities cited by appellant, and the rule discussed in such cases with reference to a special contract alleged is not here involved, this action being upon a quantum meruit.
+We find no prejudicial error in the record, and the judgment and order are affirmed.
+James, J., and Shaw, J., concurred.
