@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11181"
+decided: "1936-12-29"
+citations: ["18 Cal. App. 2d 287"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WESTERN HARDWOOD LUMBER COMPANY (a Corporation), Appellant, v. SUPERIOR FURNITURE MANUFACTURERS, LTD., et al., Defendants; JOHN O. KING et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/18/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2278877
+cites_cases: ["137 Pac. 9", "166 Cal. 386", "17 Cal. 515", "198 Cal. 252", "22 Pac. 72", "244 Pac. 368", "80 Cal. 139"]
+---
+
+# Western Hardwood Lumber Co. v. Superior Furniture Manufacturers, Ltd.
+
+## Majority (CRAIL, P. J.)
+
+CRAIL, P. J.
+The Superior Furniture Manufacturers, Ltd., hereafter called the corporation, made and delivered to the plaintiff three negotiable promissory notes to evidence a preexisting indebtedness of the corporation to the plaintiff. Several days after the plaintiff had received and accepted the notes and as an entirely separate transaction the plaintiff requested the defendants John 0. King and Helene W. King to place their indorsements on the backs of the notes for the accommodation of the plaintiff in order to enable the plaintiff to discount the notes at a bank. This the defendants did. The Corporation went into bankruptcy. Thereafter the plaintiff brought an action against the defendants on the notes.
+The defendants answered the complaint setting up as an affirmative defense that they placed their indorsements on the notes for the accommodation of the plaintiff and without receiving any consideration whatever therefor and that this was done several days after the notes had been delivered by the maker and accepted by the plaintiff. At the trial the plaintiff contended the fact to be and introduced evidence to prove that the notes bore the indorsements of the defendants at the time of delivery. The defendants on their part testified that the indorsements were made several days after the notes had been delivered; that an agent of the plaintiff brought the notes to the home of the defendants and there requested them to place their indorsements on the notes in order to enable the plaintiff to discount the notes at a bank and raise some money.
+The trial court found that it was not true as claimed by the plaintiff that the notes were indorsed at the same time as the execution of the notes and as a part of the same transaction, but that it was true that several days subsequent to the making, execution and delivery of the notes to the plaintiff by the corporation and subsequent to the acceptance of said notes by the plaintiff, an agent of the plaintiff procured the indorsement of defendants and that the defendants indorsed the notes for the accommodation of the plaintiff, and that neither of the defendants received any consideration or anything of value whatever for such indorsements. Judgment was entered in favor of defendants, and it is from this judgment the appeal is taken.
+The parties agree that the law is well settled that an accommodation indorser is not liable to the accommodated party, defendants citing First Nat. Bank v. Reed, 198 Cal. 252, 259 [244 Pac. 368]; Williams v. Hasshagen, 166 Cal. 386, 390 [137 Pac. 9] ; Leverone v. Hildreth, 80 Cal. 139 [22 Pac. 72]; Coghlin v. May, 17 Cal. 515, 516.
+It is an admitted fact in the case that the defendants own a large majority of the capital stock of the corporation, and it is the first contention of the plaintiff that indorsements on the notes of a corporation by such stockholders are supported by a sufficient consideration.
+Whether the defendants are or are not accommodation indorsers is ordinarily a question of fact for the fact-finder. That the defendants owned a large part of the stock in the corporation would be an item of evidence to be weighed along with all the other facts and circumstances in evidence bearing upon the question and upon the probabilities of their testimony. In spite of the findings the plaintiff presents its case as if the indorsements had been placed on the notes prior to or as a condition attaching to their delivery to the plaintiff by the corporation. But it must be remembered that the trial court found as a fact that the defendants indorsed the notes as a separate transaction after delivery to and acceptance by the plaintiff and for the accommodation of the plaintiff, not for the accommodation of the corporation. The plaintiff does not cite us to any precedent which holds that as a matter of law one who indorses a note at the request of and for the accommodation of another and without any consideration to himself unless it be such ownership of stock will be liable as a matter of law to that other at whose request and for whose accommodation such indorsement was made. There was no claim at the trial that the corporation was the alter ego of the defendants.
+It might well be that this court would have decided the facts differently. On the other hand, we did not have the opportunity of viewing the witnesses and of watching their conduct and demeanor on the witness stand. This court will not weigh the evidence for the purpose of reversing a trial court on the facts.
+The notes were given by the corporation in lieu of instruments previously guaranteed by the defendants, and it is the final contention of the plaintiff that the indorsements by the defendants were executed in consideration of a preexisting liability and therefore not accommodation indorsements. What we have said with regard to the first contention applies with equal force to the second, with the additional statement that it must be remembered that it was the notes which were executed in lieu of previous instruments and not the indorsements.
+Judgment affirmed and motion to dismiss denied.
+Wood, J., and McOomb, J., pro tern., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on January 19, 1937, and an application by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on February 25, 1937.
