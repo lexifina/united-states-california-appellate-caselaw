@@ -1,0 +1,23 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1115"
+decided: "1912-01-29"
+citations: ["18 Cal. App. 128"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Z. H. RUBENSTINE, Petitioner, v. THE SUPERIOR COURT OF THE STATE OF CALIFORNIA IN AND FOR THE COUNTY OF LOS ANGELES, and Hon. W. M. CONLEY, Judge Thereof, Respondents."]
+source_url: "https://static.case.law/cal-app/18/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4575723
+cites_cases: ["129 Cal. 191", "17 Cal. 122", "31 Pac. 565", "31 Pac. 8", "61 Pac. 910", "96 Cal. 121", "96 Cal. 653"]
+---
+
+# Rubenstine v. Superior Court
+
+## Majority (THE COURT.)
+
+THE COURT.
+It appears from the record that in an action pending in a justice’s court of Long Beach township, Los Angeles county, wherein petitioner was plaintiff and one M. A. Dyer was defendant, judgment was rendered against defendant ; that within due time notice of appeal was served upon petitioner by defendant, and an undertaking on appeal filed on the fourteenth day of October, 1911; that on the sixteenth day of October, 1911, petitioner filed with the said justice written exception to the sureties, and on the same day deposited in the United States mail at the city of Los Angeles a notice of such exception, addressed to the' attorneys of defendant at Long Beach, California, in which notice the petitioner assumed the duty of fixing the date for justification of the sureties, and fixed the eighteenth day of October, 1911, as the date for the appearance and justification; that on said date all parties appeared at the office of the magistrate, who was absent from the city of Long Beach and was not present at his office during the entire day, and the sure: ties did not justify, although being in attendance for that purpose. The justice transmitted all of the papers to the clerk of the superior court, and thereafter the petitioner moved the court to dismiss the appeal, because the sureties did not justify after exception filed. This motion to dismiss was heard by the superior court and denied, and this court is asked to annul and adjudge void such order denying the motion to dismiss the appeal.
+It does not appear from the record that service of the notice of exception to the sureties was had upon counsel for appellant, which notice is said to be necessary in Roush v. Van Hagen, 17 Cal. 122. The affidavit attached to the notice merely states that the same was placed in a sealed envelope, addressed to Denio & Hart at their offices in the city of Long Beach, county of Los Angeles, state of California, postage prepaid. It nowhere appears in the record that the attorneys of plaintiff and defendant resided or had their offices in different places, or that there was any communication by mail between Long Beach and the city of Los Angeles. The service of notice of the exception upon appellant’s counsel was substituted service, attempted to be made under section 1012, Code of Civil Procedure. This section provides that service by mail may be made when the person making the service and the person on whom it is made reside or have their offices in different places, between which there is a regular communication by mail. “Service by mail is good only where the person making the service and the person on whom it is to be made reside in different places, between which there is regular mail communication; and the affidavit of service must show a strict compliance with these provisions of the statute, or otherwise the evidence is insufficient to establish the fact of service.” (Linforth v. White, 129 Cal. 191, [61 Pac. 910].) Assuming the right of petitioner herein, notwithstanding the insufficiency of the proof of service of notice, to establish the facts amounting to the same by other evidence, and assuming the right of the court upon the motion to hear evidence touching the acts- of the parties in connection with the attempted justification as tending to show personal service, nevertheless it was within the jurisdiction of the superior court to determine the sufficiency of such proof, if any was offered; and having jurisdiction to hear the motion, and proof in support thereof, this writ will not lie, even though the court was in error in its judgment. We are of opinion that the rule laid down in Buckley v. Superior Court, 96 Cal. 121, [31 Pac. 8], and Sherer v. Superior Court, 96 Cal. 653, [31 Pac. 565], may be properly invoked in this proceeding.
+Application for writ denied.
