@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9216"
+decided: "1957-11-06"
+citations: ["155 Cal. App. 2d 33"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARL LEUTENEKER et al., Respondents, v. T. N. FISHER, Appellant; JOE W. RUESS et al., Respondents, v. THOMAS N. FISHER et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/155/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4424681
+cites_cases: ["138 Wash. 203", "244 P. 712"]
+---
+
+# Leuteneker v. Fisher
+
+## Majority (WARNE, J. pro tem.)
+
+WARNE, J. pro tem.
+Respondents brought separate actions to recover damages to their lands as a result of a “controlled burn” which had been ignited on appellants’ land and escaped to the respondents’ adjoining lands. The eases were consolidated for trial and tried by the court sitting without a jury. The trial court found that the respondents had suffered damage to their lands by reason of the negligence and carelessness of the appellants in maintaining the fire on their said lands. A money judgment was rendered in favor of each respondent.
+Subject to certain conditions appellants were issued a permit by the Division of Forestry to conduct a controlled burn on their lands. In compliance with certain precautionary requirements for the burn, appellants bulldozed a fire trail around the area of the proposed burn 75 to 100 feet in width, but failed to give respondents the required notice of the time of the intended burning. Neither did appellants comply with the condition of the permit that “Brush along County Road on East side to be pushed back 60' or more.” There is testimony that the fire, which spread to respondents’ property, started within 50 feet across the road in this area. The appellant Fisher, while a witness, admitted that the fire which damaged respondents’ land had its origin from the fire which had been ignited on his (appellants’) adjoining land. There is evidence that the fires were set under living trees; that piles of debris and slash were burned under living trees and that in one instance there was a spectacular burn of a cedar tree which “went up with a roar and created quite a vortex.” It was a warm day in August. A Mr. Overmire testified that on five occasions he objected to the practice of lighting fires under trees and questioned it “very vociferously. ’ ’ He also testified to falling sparks in the area, making it necessary for him to move his car and the members of his family to a safer position. He said that he had been parked near the place where the fire jumped the road; that while this condition prevailed it was decided to light but one more fire which was to be the last; that soon after this last fire was ignited it escaped easterly across the county road upon other property of the appellants. From then on the fire was out of control and ultimately damaged respondents’ lands. It also appears that appellants had no one stationed east of the road near the point where the fire jumped to extinguish any spot fires that might be caused by flying sparks. We feel that this evidence supports the findings of the trial court.
+An assistant ranger of the Division of Forestry was present during the burn and took charge of the setting and control of the fires. However, the fact that he directed and supervised the burning does not necessarily relieve appellants from the duties imposed by law of exercising due diligence to avoid damage to the property of others while conducting the burn authorized by the permit. (Pub. Resources Code, § 4883; see also Health & Saf. Code, § 13008.) The burn was ignited by appellants on their land and for their sole use and benefit. It was not to serve a public purpose as contended for by appellants. The most that section 4880 of the Public Resources Code requires of the Division of Forestry in relation to the actual burning authorized by a controlled bum permit is that it “. . . shall provide stand-by fire protection, to such extent as personnel, fire crews, and fire fighting equipment are available. ” While a person conducting a controlled burn should ordinarily follow the directions of the state ranger, it is, nevertheless, within his power not to proceed if the precautions taken by the state ranger are inadequate and in that event he should discontinue the burning. He is not required to surrender to the state ranger’s judgment for, as stated in Wood & Iverson, Inc. v. Northwest Lbr. Co., by the Supreme Court of the State of Washington, 138 Wash. 203 [244 P. 712, 714] :
+“ ‘It is a mistake to say he is compelled in such a case to surrender entirely to the forester’s judgment. While he is possibly required to follow the directions given by the forester, clearly it is always within his power to refuse to proceed if he thinks the forester’s precautions inadequate, and within his power to take precautions in addition to those prescribed by the forester. In other words, if an owner undertakes to abate the nuisance of this sort by burning, under the direction of the forester, he is an actor in the proceedings; a joint actor with the forester it may be, but liable, nevertheless, for any loss caused to a third person by a negligent performing of the burning.’ ”
+We conclude that there is no merit in appellants’ contention that participation of the assistant state forester relieved them from the exercise of due diligence nor did it relieve them of liability for damages caused by their negligence in maintaining the fire.
+No other point presented in the briefs requires discussion.
+The judgment in each of the cases is affirmed.
+Peek, Acting P. J., and Schottky, J., concurred.
+Assigned by Chairman of Judicial Council.
