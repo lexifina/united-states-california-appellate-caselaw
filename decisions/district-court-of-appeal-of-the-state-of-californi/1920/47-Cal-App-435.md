@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2795"
+decided: "1920-05-11"
+citations: ["47 Cal. App. 435"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN H. UPLINGER, Respondent, v. HENRY H. YONKIN, Appellant."]
+source_url: "https://static.case.law/cal-app/47/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065572
+cites_cases: ["101 Am. St. Rep. 125", "143 Cal. 275", "149 Cal. 492", "76 Pac. 1036", "87 Pac. 13"]
+---
+
+# Uplinger v. Yonkin
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+Action to recover judgment for money due upon a judgment entered against the defendant in the circuit court of DeKalb County, Illinois. Judgment was entered herein against the defendant, who now appeals therefrom. Appellant presents three points, on which he claims that this judgment should be reversed.
+First point: That the Illinois judgment has not been proved as required by law, in this, that an authenticated copy of the judgment alone was received in evidence, without the judgment-roll. This question has been determined adversely to appellant’s contention in McHatton v. Rhodes, 143 Cal. 275, [101 Am. St. Rep. 125, 76 Pac. 1036]. An issue presented in that case depended upon the validity of a judgment of a circuit court, a court of general jurisdiction in the state of Missouri. An authenticated copy of the Missouri judgment was admitted in evidence, without the judgment-roll. The judgment of the superior court was affirmed, notwithstanding'that the decision therein contained was clearly wrong unless supported by the evidence of the foreign judgment.
+Second point: That the judgment sued on is invalid as the basis of a recovery thereon in California, inasmuch as the judgment itself does not show that personal service of the summons in said action was had upon the defendant in the state of Illinois and within the jurisdiction of the court rendering said judgment, and there is not any other proof, by way of record or otherwise, offered in support of such jurisdiction. The judgment, as shown by the copy thereof, duly certified under seal of court and authenticated, states that “it appearing to the court that due personal service of process of summons issued in said cause has been had on the defendant for at least ten days before the first day of this term and he being now here three times solemnly called in open court comes not nor does any person for him, but herein he makes default which is on motion of plaintiff’s attorney ordered to be taken and the same is hereby entered of record.” Thereupon, it is stated, evidence was received, the damages were assessed, and recovery had in the sum specified. The certificate recites that said court is a court of record, having a seal. This is sufficient to establish 'prima facie that it is a court of general jurisdiction. In McHatton v. Rhodes, supra, the Missouri judgment was a judgment determining adversely to one Hattie Meagher her claim of title to certain real property. The recitals contained' in the judgment were to the effect that she had been duly notified by publication. The supreme court of California held that in that case, “the court being of general jurisdiction, all presumptions are that it had jurisdiction, and that the effect of the recital in the judgment is that the notice or summons was properly published. It is declared in the constitution of the United States that full faith and credit shall be given in each state to the judicial proceedings of every other state.” The court referred to section 1963, subd. 16, of the Code of Civil Procedure, and after some further discussion, said: “In all cases where a judgment is collaterally attacked we must presume, in the absence of anything appearing to the contrary, that they were properly brought in. The presumption is the same where service has been made by publication as where personal service has been had.”
+Third point: That the record does not show that any notice of the time of the hearing of said action was ever served upon or had by the defendant, or served upon or had by any attorney for defendant, and no evidence other than the so-called judgment was offered in that regard. This contention is based upon the provisions of section 594 of the Code of Civil Procedure of California, and the presumption (in the absence of other evidence) that the law of Illinois, as to the requirement of notice of the time of trial, is the same as the law of California. But the notice provided for need not be given to a defaulting defendant. And even where the requirements of the section are applicable, a trial and judgment given without such notice is merely erroneous and is not in excess of the court’s jurisdiction; such, at least, is our inference from the only decision which seems to have touched the question. For in that decision (Estate of Dean, 149 Cal. 492, [87 Pac. 13]), the court very carefully limited to cases of direct appeal its declaration that a judgment rendered in disregard of that section is erroneous and should be reversed.
+We are of the opinion that the court did not err in receiving the evidence to which reference has been made, or in rendering judgment against appellant on the facts as thus proved.
+The judgment is affirmed.
+Shaw, J., and James, J., concurred.
