@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3700"
+decided: "1929-02-23"
+citations: ["97 Cal. App. 160"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. R. TERRY, Appellant, v. P. J. PETERSON, Respondent."]
+source_url: "https://static.case.law/cal-app/97/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2118627
+cites_cases: ["190 Cal. 477", "196 Cal. 308", "197 Cal. 256", "198 Pac. 39", "199 Cal. 545", "203 Cal. 210", "213 Pac. 490", "224 Pac. 143", "237 Pac. 1066", "240 Pac. 16", "249 Pac. 533", "250 Pac. 565", "255 Pac. 755", "263 Pac. 226", "52 Cal. App. 133", "65 Cal. App. 402", "79 Cal. App. 339", "82 Cal. App. 215"]
+---
+
+# Terry v. Peterson
+
+## Majority (FINCH, P. J.)
+
+FINCH, P. J.
+This ease was tried before a jury, which returned a verdict in favor of the plaintiff for damages in the sum of six thousand five hundred dollars for the death of his son in a collision of automobiles alleged to have been caused by the negligence of the defendant. Judgment was entered accordingly. Thereafter the trial court granted defendant’s motion for a new trial upon the ground of insufficiency of the evidence to sustain the verdict. This appeal is from the order granting a new trial.
+The collision occurred about 8 o’clock in the evening of June 4, 1926, on a straight stretch of the state highway, which runs north and south through level land, about two miles north of Maxwell, Colusa County. Shortly before the collision a patch had been placed in the east side of the pavement and immediately south thereof there was a barrier across the east edge of the pavement, consisting of a two by twelve board ten feet in length, supported by sawhorses. The west end of the board extended four feet over the pavement. Lanterns having red globes were placed on the pavement and the ground at the ends of the barricade. The defendant was driving north in a Buick automobile while the deceased was going south in a Ford roadster. The defendant’s automobile struck and demolished the barricade and then swerved to the left and, continuing in a northerly course, collided with the Ford roadster between fifty and one hundred feet north of the barricade. When the defendant’s automobile came to a standstill the left front wheel thereof was west of the west edge of the pavement and the roadster was fifteen feet or more further west, the deceased lying near it unconscious.
+There is testimony that the lanterns at the ends of the barricade were lighted at 5 o’clock in the evening; that they were still lighted at 6 o’clock and that shortly after the collision the lanterns, which had been broken in the collision, were still warm. The board constituting the barrier had been painted white, but there is evidence that it had become a “dirty grayish white,” that “it was very hard to see.” The defendant testified that he did not see the barrier before his automobile collided with it and that he saw no lights at the ends thereof. His wife testified that she was riding in the front seat of the Buieb, watching the road ahead carefully, and that she did not see the barrier until the collision therewith. She testified positively that there were no lights at the barrier. The headlights of both automobiles were burning and both appear to have been traveling at a speed of between thirty and thirtv-five miles an hour.
+It is clear from the foregoing facts that it was a question of fact for the jury whether the lanterns at the barricade were lighted at the time of the collision. If they were lighted it was a question of fact for the jury to determine whether the defendant was guilty of negligence in failing to see them. If they were not lighted, still it was a question of fact for the jury whether the defendant was negligent in failing to see the barricade in time to avoid a collision therewith. . The rule of law applicable to the facts is so well settled that it is deemed sufficient to cite a few of the numerous decisions bearing upon the question. (Hoy v. Tornich, 199 Cal. 545 [250 Pac. 565; Gonzales v. Davis, 197 Cal. 256 [240 Pac. 16]; Rush v. Lagomarsino, 196 Cal. 308 [237 Pac. 1066]; Haines v. Fewkes, 190 Cal. 477 [213 Pac. 490]; McManus v. Arnold Taxi Corp., 82 Cal. App. 215 [255 Pac. 755] ; Duggan v. Forderer, 79 Cal. App. 339 [249 Pac. 533]; Carnahan v. Motor Transit Co., 65 Cal. App. 402 [224 Pac. 143] ; Haynes v. Doxie, 52 Cal. App. 133 [198 Pac. 39].) If the defendant was guilty of negligence in colliding with the barricade, such negligence was the proximate cause of the collision with the Ford roadster, even though the defendant completely lost control of his automobile by the first collision. “A primary cause may be the proximate causé though it operates through successive instrumentalities.” (19 Cal. Jur. 559.) Under the decisions cited, however, it cannot be held as a matter of law that the defendant was guilty of negligence. “If there is a substantial conflict in the evidence, the trial court will not be deemed to have abused its discretion when it has determined that the verdict or finding is against the weight of the evidence and that there should be a new trial.” (Buck v. Borchers, 203 Cal. 210 [263 Pac. 226].)
+The order is affirmed.
+Thompson (R. L.), J., and Plummer, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on March 23, 1929, and a petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on April 22, 1929.
+Curtis, J., dissented.
