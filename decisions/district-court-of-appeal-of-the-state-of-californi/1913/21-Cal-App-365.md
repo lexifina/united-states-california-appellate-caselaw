@@ -1,0 +1,36 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1157"
+decided: "1913-03-05"
+citations: ["21 Cal. App. 365"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GERMAIN POUCHAN, Appellant, v. JULIUS S. GODEAU, Respondent."]
+source_url: "https://static.case.law/cal-app/21/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4488743
+cites_cases: ["117 Pac. 564", "120 Cal. 234", "120 Cal. 236", "123 Pac. 548", "128 Cal. 75", "154 Cal. 686", "16 Cal. App. 515", "18 Cal. App. 467", "5 Cal. App. 319", "52 Pac. 491", "54 Atl. 63", "60 Cal. 228", "60 Pac. 522", "90 Pac. 463", "96 Md. 221", "98 Pac. 1062"]
+---
+
+# Pouchan v. Godeau
+
+## Majority (MURPHEY, J., pro tem.)
+
+MURPHEY, J., pro tem.
+This is an appeal from an order of the superior court of the city and county of San Francisco fixing costs.
+After this case was once tried in the superior court, resulting in a verdict for appellant, a new 'trial was granted, whereupon issue was again joined before a jury and again resulted in a verdict in appellant’s favor.
+After the second trial appellant seasonably and regularly filed and served a statement of his costs and disbursements incurred in both trials, and included therein an item of two hundred dollars on account of attorney fees, claiming such under section 7 of the Libel and Slander Act (Stats. 1871-2, p. 534), that section providing that “In case plaintiff recovers judgment he shall be allowed as costs one hundred ($100) dollars to cover counsel fees in addition to other costs.”
+Respondent insists that the appeal must be dismissed for the reason that appellant has failed either to bring up any authenticated bill of exceptions in pursuance of rule 29 of the supreme court' [144 Cal. lii, 78 Pac. xii ] or any record such as is contemplated by sections 953a, 953b and 953c of the Code of Civil Procedure.
+The record before us contains certain papers designated as “transcript,” which is stipulated by counsel to be “a true and correct copy of the material papers on appeal . . . and that the same shall constitute the record on appeal herein and that the appeal herein shall be heard thereon”; and also a certificate of the clerk of the superior court that the papers contained in the transcript are true and correct copies of the originals of such papers on file in his office.
+Neither this certificate by the clerk nor the stipulation can take the place of a judge’s certificate required by section 953a of the Code of Civil Procedure, because the law provides that a judge alone can certify as to what evidence was received and what proceedings had at the hearing before him. Neither parties litigant nor counsel can confer original or appellate jurisdiction on this court by stipulation or consent.
+In Credit Clearance Bureau, v. Weary & Alford Co., 18 Cal. App. 467, [123 Pac. 548,] this court said: “To perfect such an appeal it was necessary for the appellant to adopt either the method prescribed by sections 953a, 953b, 953c, of the Code of Civil Procedure, or that prescribed by rule 29 of the supreme court, (144 Cal. lii, [78 Pac. xii]). If either of such methods had been pursued the record would have been examined and authenticated by the trial judge, the person who knew what papers were used upon the hearing of the motion.”
+As was said in Walsh v. Hutchings, 60 Cal. 228, “It is not for the clerk to determine what papers or evidence the court acted upon.”
+In Harrison v. Cousins, 16 Cal. App. 515, [117 Pac. 564], the judge of the superior court attached this certificate: “I do hereby certify that upon the hearing of the motion of H. D. Cousins, one of the defendants in the above entitled action . . . the only papers considered were the complaint in said action, the affidavit óf merits of- H. D. Cousins, with four exhibits ‘A,’ £B,’ ‘C,’ and ‘D,’ said Cousins’s notice of motion for a change of venue, and the demurrer of H. W. Hutton . . . and that I granted the order changing the venue in said action. That true and correct copies of the above named papers are set out in the foregoing transcript.” The record also contained a certificate of the clerk of the superior court certifying the correctness of the copies of the papers contained in the transcript. This count held that the record did not constitute an authenticated bill of exceptions under rule 29 of the supreme court, supra; nor did it contain any record that would measure up to the requirements of section 953a of the Code of Civil Procedure, and cites Ramsbottom v. Fitzgerald, 128 Cal. 75, [60 Pac. 522] ; Melde v. Reynolds, 120 Cal. 234, [52 Pac. 491] ; Muzzy v. McEwen Lumber Co., 154 Cal. 686, [98 Pac. 1062],
+In Manuel v. Flynn, 5 Cal. App. 319, [90 Pac. 463], this court refused to consider certain affidavits found in the transcript together with the following stipulation: ‘ ‘ That the foregoing printed papers shall constitute the transcript on appeal in the above entitled cause, and that the appeal may be heard thereon,” and “that the papers therein mentioned are correct copies of the originals on file, etc.” The court said. “It is not clear that the stipulation includes the affidavits mentioned, but whether it does or not we think that under the rules of this court and the decisions, the affidavits not being in a bill of exceptions, and therefore authenticated as required by rule 29 of this court, cannot be considered on this appeal”; and the court finally concludes: “Certainly where as here, there is nothing more than the mere stipulation of attorneys showing that they have been so used, could not authorize their consideration upon appeal. Moreover, it does not thereby or otherwise appear that they constituted all the affidavits and papers used on the hearing. ’ ’
+The situation in the case at bar is identical with the situation above set out.
+In Melde v. Reynolds, 120 Cal. 236, [52 Pac. 491], the supreme court refused to consider affidavits indorsed by the trial court over the signature of the judge as having been used upon the hearing of a motion for a new trial, the court holding that they had not been incorporated in a bill of exceptions and authenticated as required by rule 29 of that court.
+It follows that the appeal must be dismissed. We arrive at this- conclusion with less hesitancy for the reason that we are satisfied that on principle, supported by authority, the conclusion of the trial court was correct on the merits. The costs provided in this class of cases are penal in their character and are not part of the costs denominated as such, and should only be taxed in the statutory amount after final judgment. (Singer v. Fidelity & Deposit Co. of Md., 96 Md. 221, [54 Atl. 63].)
+The authorities cited by appellant are not applicable to the situation presented by the record in this case. There can be no doubt, and it is conceded, -that the ordinary costs of a first trial of an action tried a second time, either because of the granting of a new trial or on reversal of the judgment, may ultimately be taxed in favor of the prevailing party.
+The appeal is dismissed.
+Lennon, P. J., and Hall, J., concurred.
