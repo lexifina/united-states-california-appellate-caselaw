@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 36109"
+decided: "1970-12-16"
+citations: ["13 Cal. App. 3d 523"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GREATER WESTCHESTER HOMEOWNERS ASSOCIATION, INC., Plaintiff and Appellant, v. CITY OF LOS ANGELES, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/13/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6037901
+cites_cases: ["198 P.2d 514", "254 P.2d 6", "283 P.2d 704", "32 Cal.2d 833", "32 Cal.Rptr. 830", "330 P.2d 778", "384 P.2d 158", "40 Cal.2d 344", "433 P.2d 732", "44 Cal.2d 574", "50 Cal.2d 844", "60 Cal.2d 276", "63 Cal.Rptr. 724", "67 Cal.2d 695", "7 Cal.App.3d 419", "86 Cal.Rptr. 623", "90 Cal.Rptr. 224"]
+---
+
+# Greater Westchester Homeowners Ass'n v. City of Los Angeles
+
+## Majority (DUNN, J.)
+
+Opinion
+DUNN, J.
+Appellant, Greater Westchester Homeowners Association, Inc., together with some 669 individually named persons, filed a first amended complaint to which respondent, City of Los Angeles demurred and filed a notice of motion to strike some paragraphs from the amended complaint. The demurrer and motion to strike were heard together, the court sustaining the demurrer and granting 20 days leave within which to amend; it additionally granted the motion to strike so far as appellant Association was concerned. The Association filed no amendment within the time allowed, and a judgment was filed dismissing Association from the action. It appeals from this judgment.
+The suit purported to be a class action. The amended complaint’s first paragraph alleged: “Plaintiffs (property owners, residents and those similarly situated, herein called Homeowners) are the individuals named in the caption of this Complaint and those similarly situated.” The fourth paragraph alleged: “Greater Westchester Homeowners Association, Inc. is a non-profit California corporation organized by persons owning property or residing in the Westchester area of Los Angeles for the purpose of their mutual protection against damage to their property, person, family and those residing with them, caused by the Los Angeles International Airport. Association therefore sues as a representative of its members.” Following these allegations no further mention is made of the Association. All the allegations are made by “Homeowners.” For example, the complaint alleges “Homeowners” filed claims with defendant city; “Homeowners’ ” properties were damaged by virtue of noise, vibration and fumes arising from use of the airport; and “Homeowners” suffered personal injuries. In their prayer for relief, “Homeowners” seek (1) compensation for the taking and damaging of their properties (inverse condemnation), (2) money for damage to each home (property damages) and (3) damages for personal injuries.
+Inasmuch as no cause of action is stated on behalf of appellant the trial court properly sustained the demurrer and granted the motion and, upon appellant’s failure to amend, properly dismissed appellant from the action.
+Aside from the foregoing fatal omission, it is apparent appellant is not a proper party; it does not have the “standing” to sue. Representative (class) actions are authorized under Code of Civil Procedure, section 382 providing, in part: “. . . when the question is one of a common or general interest, of many persons, or when the parties are numerous, and it is impracticable to bring them all before the Court, one or more may sue or defend for the benefit of all.” The existence of a community of interest between the members of the class, with regard to the questions of law and fact involved, is essential. Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695, 704 [63 Cal.Rptr. 724, 433 P.2d 732]; Bowles v. Superior Court (1955) 44 Cal.2d 574, 587 [283 P.2d 704]; Parker v. Bowron (1953) 40 Cal.2d 344, 352 [254 P.2d 6]; Weaver v. Pasadena Tournament of Roses (1948) 32 Cal.2d 833, 837 [198 P.2d 514]; Collins v. Rocha (Cal.App.) 90 Cal.Rptr. 224.
+The complaint sets forth no facts bringing appellant under this rule regarding representative actions. It is not alleged and there is nothing to indicate that appellant is a member of the interested class, consisting of homeowners who allegedly sustained property damage and personal injury from jet aircraft flights authorized by the city. There is not even an allegation that appellant’s members sustained property damage or personal injury from the acts which allegedly affected the Homeowners. Thus, it does not appear that either appellant or the members whom it purportedly represents belong to the interested class. The case of Professional Fire Fighters, Inc. v. City of Los Angeles (1963) 60 Cal.2d 276 [32 Cal.Rptr. 830, 384 P.2d 158] relied upon by appellant at the time of oral argument, is clearly distinguishable, the Supreme Court therein stating (p. 284): “But here, we have ... no basis for a claim that the class for whom the action was brought is without beneficial interest. None of the authorities relied upon sustains the conclusion that the plaintiff union was without sufficient beneficial interest to bring this action” going on to state such interest is created under Labor Code sections 1960-1963 and Government Code sections 3500-3509 (see fns. 1 and 4), no one of which is here applicable.
+Appellant cannot give itself standing to sue by purporting to represent a class of which it is not a member or a group of persons not belonging to the class. California Gas Retailers v. Regal Petroleum Corp. (1958) 50 Cal.2d 844, 850 [330 P.2d 778]; Parker v. Bowron, supra, 40 Cal.2d at pp. 352-353, 354, 356; Los Angeles Fire & Police Protective League v. Rodgers (1970) 7 Cal.App.3d 419, 423-424 [86 Cal.Rptr. 623].
+The judgment is affirmed.
+Files, P. J., and Kingsley, J., concurred.
+Other plaintiffs, self-designated as “Homeowners” filed an Amendment to First Amended Complaint, but Association did not, and is not mentioned in it.
+A hearing was granted by the Supreme Court on December 3, 1970. Thereafter on June 23, 1971, the cause was transferred to the Court of Appeal with directions.
