@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2341"
+decided: "1921-10-15"
+citations: ["54 Cal. App. 565"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["N. L. KOHN, Respondent, v. JOHN B. RUPLEY, as Executor, etc., et al., Appellants."]
+source_url: "https://static.case.law/cal-app/54/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2072626
+cites_cases: ["109 Pac. 158", "117 Pac. 556", "13 Cal. App. 218", "141 Pac. 1179", "144 Fed. 594", "145 Pac. 1008", "146 Cal. 191", "157 U. S. 429", "160 Cal. 494", "168 Cal. 258", "169 Cal. 80", "39 L. Ed. 817", "75 C. C. A. 396", "79 Pac. 878", "9 Cal. App. 511", "99 Pac. 731"]
+---
+
+# Kohn v. Rupley
+
+## Majority (FINCH, P. J.)
+
+FINCH, P. J.
+Plaintiff, being the owner of a promissory note and mortgage executed by the testator, presented his claim for the amount due thereon more than three months prior to the time the same would have become barred by the statute of limitations. The executor and the judge of the superior court allowed the claim a few days after it had apparently become barred. Thereafter, as required by law, the executor rendered, “a full account and report of his administration.” The report contained a list of claims allowed and filed, among which was plaintiff’s claim with a statement of the name of' the claimant, the amount of the claim, that it was secured by mortgage, and the dates of presentation and allowance thereof. After due notice and hearing the account was by the court “allowed, settled and approved.” Thereafter this suit was brought and the defendants pleaded the statute of limitations as a defense thereto. The court rendered judgment for plaintiff reforming the mortgage and foreclosing the same as so reformed.
+The only question presented by the appeal is whether the allowance of the account as stated is a conclusive adjudication against the defendants as to the validity of the claim upon which this suit is based. The question was answered in the affirmative in Estate of McDougald, 146 Cal. 191 [79 Pac. 878], and Kowalshy v. Superior Court, 13 Cal. App. 218 [109 Pac. 158], where the same issue was presented. Appellants contend that these cases have been overruled by the later decisions in Haub v. Leggett, 160 Cal. 494 [117 Pac. 556], where it is said that “an allowed claim against an estate does not attain to the dignity and force of an absolute judgment until, upon the settlement of an account, an order is made directing the executor to pay it,” and Estate of Bell, 168 Cal. 258 [141 Pac. 1179], where similar language is used. With equal logic it might be said, however, that the cases last cited have been overruled by Estate of Hellier, 169 Cal. 80 [145 Pac. 1008], wherein it is said that “until a claim has been passed upon on settlement of an account or rendition of an exhibit, or in making a decree of sale ... it may be contested by the heirs or legatees.”
+The decisions in the five cases cited are not inconsistent. The first two decide the identical question here raised. The others decide only that the allowance of a claim by the executor and the judge of the superior court “is not the equivalent of an ordinary judgment.” It is what is decided and not what is said in an opinion which is controlling. In Pollock v. Farmers' Loan & Trust Co., 157 U. S. 429 [39 L. Ed. 817, 15 Sup. Ct. Rep. 673, see, also, Rose's U. S. Notes], it is said: “This court, and other courts organized under the common law, has never held itself bound by any part of an opinion, in any case, which was not needful to the ascertainment of the right or title in question between the parties.”
+The executor is required to “render a full account and report of his administration.” (Code Civ. Proc., see. 1628.) “Any person interested in the estate may appear and file his exceptions in writing to the account, and may contest the same.” (Sec. 1635.) “All matters, including allowed claims not passed upon on the settlement of any former account, or on rendering an exhibit, or on making a decree of sale, may be contested by the heirs for cause shown.” (See. 1636.) “The settlement of the account and allowance fXreof by the court, or upon appeal, is conclusive against all persons in any way interested in the estate.” (Sec. 1637.) From the foregoing code provisions and the cases cited, it seems clear that the order settling and allowing the executor’s account, in which the claim sued on was duly reported, is conclusive upon the defendants.
+Appellants urge that the note on which the claim against the estate is based was barred by the statute of limitations when the claim was allowed, and that, therefore, the court was without jurisdiction to allow it. “The jurisdiction of a question is the lawful power to enter upon a consideration of and to decide it, and it is not limited to authority to render a correct decision, but includes the power to decide wrong as well as right.” (Ex parte Moram, 144 Fed. 594 [75 C. C. A. 396].) This court cannot infer from an inspection of the claim that it was in fact barred. Section 1499 of the Code of Civil Procedure provides: “When a claim is presented to a judge for his allowance, he may, in his discretion, examine the claimant and others, on oath, and hear any legal evidence touching the validity of the claim.” From legal evidence, the judge may have determined that the maker was absent from the state, as in the case of Scott Stamp etc. Co., Ltd., v. Leake, 9 Cal. App. 511 [99 Pac. 731], for such length of time as to prevent the bar of the statute, or other facts may have been proven .to avoid the apparent limitation.
+The judgment appealed from is affirmed.
+Burnett, J., and Hart, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 12, 1921.
+All the Justices concurred.
+Lawlor, J., was absent, and Richards, J., was acting.
