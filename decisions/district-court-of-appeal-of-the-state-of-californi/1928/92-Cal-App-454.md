@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6439"
+decided: "1928-06-08"
+citations: ["92 Cal. App. 454"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARRY EDWARD WALSH, Petitioner, v. THE SUPERIOR COURT OF ALAMEDA COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app/92/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2114288
+cites_cases: ["138 Pac. 696", "167 Cal. 27", "18 Pac. 766", "192 Wis. 507", "198 Cal. 525", "213 N. W. 301", "244 Pac. 932", "246 Pac. 39", "76 Cal. 545", "76 Cal. App. 434", "9 Am. St. Rep. 249"]
+---
+
+# Walsh v. Superior Court
+
+## Majority (STURTEVANT, J.)
+
+STURTEVANT, J.
+The plaintiff alleges that his wife employed George H. Derrick for a compensation to perform, and he performed an illegal operation on her. The plaintiff heard of the incident, a family quarrel was had, the wife obtained a divorce and the custody of the minor child, and the plaintiff commenced an action against Derrick to recover damages. It is not alleged that the plaintiff’s wife was confined to her bed or made sick, or that medical expenses were incurred, but it is alleged the plaintiff’s wife left him on May 9, 1927, and that" since then they have continuously lived apart.
+In his claim for damages the plaintiff inserted (1) loss ,of services, $15,000; (2) loss of services of his daughter, $15,000; (3) loss of the unborn child, $20,000. Derrick interposed a demurrer. Before the demurrer was heard Derrick died testate and his wife was appointed executrix of his estate. The plaintiff presented his claim to the executrix of the estate of Derrick, the claim was rejected, and the plaintiff prepared a supplemental complaint and moved to substitute the executrix in the place of the deceased. The plaintiff supported his motion by his complaint, supplemental complaint and all the records and files in the action. No other evidence was offered by either side. The motion to substitute was denied. Relying on the doctrine as stated in Wood v. Strother, 76 Cal. 545 [9 Am. St. Rep. 249, 18 Pac. 766], the plaintiff has made an application in this court for a writ of mandate compelling the trial court to grant the motion.
+The plaintiff sets forth in his petition for a writ of mandate copies of the briefs which he presented to the trial court on his motion for a substitution of the executrix in the place of her deceased husband. The record before us does not show that in the trial court any question arose or was considered regarding the regularity of the proceedings or of the sufficiency of the papers used by the moving party. But it does show that the sole question presented to the trial court was whether the plaintiff’s cause of action, if any, survived the death of Derrick. But whether the proper practice or otherwise, that question was before the court only by treating the contention of the executrix as in effect a demurrer. The contention was sustained and the motion to substitute was denied. It follows that the ruling thereon was in effect an order sustaining a demurrer. In the case of Howard v. Lunaburg, 192 Wis. 507, 509 [213 N. W. 301, 302], the supreme court of Wisconsin said “The objection to the survival of the action was that, since the sole defendant was dead, it appeared from the face of the complaint that it stated no cause of action against the executrix. The objection was equivalent .to a general demurrer, and the order overruling it was therefore appeal-able.”
+It is stated in 21 California Jurisprudence, 180 “While objections to the filing of a proposed amendment may be heard, objections to the sufficiency of proposed amendments and those based on the statute of limitations should not be considered, orderly procedure requiring the testing of the sufficiency of an amended pleading in the first instance by demurrer after it is filed.” Nevertheless we are aware that it has been more or less the common practice to convert the hearing on the motion into a hearing as on a demurrer. While the practice is not the best practice it is sometimes adopted. When, as here, that practice is adopted, the order made on such a hearing is not merely a ruling on the motion to substitute but it is also, in legal effect, an order sustaining a demurrer or overruling a demurrer as the case may be.
+The executrix contends that a writ of mandate should be denied because the plaintiff had a plain, speedy, and adequate remedy by appeal. In making this contention she calls attention to the fact that the effect of the order made by the trial court was not only to decline to make the order of substitution but to terminate and finally end the litigation. In other words, she contends that the order was in effect a final judgment. The recent case entitled Howe v. Key System Transit Co., 198 Cal. 525 [246 Pac. 39], clearly supports her in the contention which she presents. (See, also, Zappettini v. Buckles, 167 Cal. 27, 33 [138 Pac. 696].) It follows that the plaintiff was entitled to appeal from the order. As he was entitled to appeal, apparently he had a plain, speedy, and adequate remedy. (Code Civ. Proc., sec. 1086.) As there is nothing in the record showing that his remedy was not plain, speedy, and adequate] the writ should be denied. (Carton Corporation v. Superior Court, 76 Cal. App. 434, 438 [244 Pac. 932].) It is so ordered.
+Koford, P. J., and Nourse, J., concurred.
+An application by petitioner to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on August 6, 1928.
+All the Justices present concurred.
