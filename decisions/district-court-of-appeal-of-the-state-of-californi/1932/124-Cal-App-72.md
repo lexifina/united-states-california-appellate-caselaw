@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 7265"
+decided: "1932-06-03"
+citations: ["124 Cal. App. 72"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGIA CASUALTY COMPANY (a Corporation), Appellant, v. LINDAUER CORPORATION (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app/124/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2252172
+cites_cases: ["101 Cal. App. 274", "151 Cal. 90", "183 Cal. 777", "192 Pac. 720", "23 Pac. 1035", "281 Pac. 1081", "84 Cal. 219", "90 Pac. 197"]
+---
+
+# Georgia Casualty Co. v. Lindauer Corp.
+
+## Majority (TAPPAAN, J., pro tem.)
+
+TAPPAAN, J., pro tem.
+Appellant instituted this action to recover certain moneys expended by it, for one Buis, for medical services and compensation and for future compensation to be paid him. The injured man, Buis, was the employee of certain independent contractors, and was injured while working on a bin which was a part of respondent’s rock-crusher. The action is brought under the provisions of sections 26 (Stats. 1917, p. 831, as amended by Stats. 1919, p. 920) and 30 (2f) of the Workmen’s Compensation Act.
+The judgment was in defendant’s favor and from this judgment plaintiff appeals, “upon the judgment roll in that said findings are at variance”. The facts found by the court, in so far as material here, may be summarized as follows: Defendant contracted with the injured man’s employers for the doing of certain carpenter work consisting in the repairing of a conveyor and the building of bins under the conveyor. That at the time of the injury complained of, defendant was operating the conveyor and the injured man was working upon a bin. The control of the operation of the plant during the period of the work was with defendant at times, then with the contractors, and again, at times both were in control. There are findings, that there was no negligence upon the part of defendant; that the contractors were in control and direction of the work and their employees; that the bins, pulleys, conveyors and runways were.fit and proper for the use made of them and were carefully inspected and examined by defendant; that the contractors and their employees, including the injured man, were requested and advised by defendant to notify defendant in the event any work was to be done in an exposed or dangerous place so that the operation of the plant could be stopped; that no such notice was given to defendant; that if defendant had had such notice the operation of the plant would have been stopped; that defendant had no knowledge that the injured man was at work or intended to work at the place he was injured. The court then finds that Buis, the injured man, failed and neglected to use and exercise ordinary care and caution, and that the injuries suffered or caused him “were directly contributed to and proximately caused by the neglect and carelessness of the said Alvah D. Buis.”
+Appellant’s theory upon this appeal is that the findings are in conflict in that defendant is found not guilty of negligence, while it is found that the injuries “were directly contributed to and proximately caused by the negligence and carelessness of said Alvah D. Buis”. This theory as advanced by appellant rests upon, the assumption that there can be no contributory negligence on the part of Buis without negligence on the part of defendant. Appellant cites Zechiel v. Los Angeles Gas & Electric Corp., 183 Cal. 777 [192 Pac. 720], in support of this position. The rule as announced in that case, that the ultimate fact of contributory negligence cannot be upheld upon contradictory findings as to probative facts has no application to the instant ease. In Zechiel v. Los Angeles Gas & Electric Corp., supra, the findings ascribed the primary negligent act to both plaintiff and defendant. In the instant case the only negligence found is that of the injured man, and no conflict appears in the probative facts. Bead as a whole, the findings cannot fairly be construed to mean that Buis, the injured man, was guilty of contributory negligence. The use of the term “ddrectly contributed’’ when considered with the context and the findings read as a whole, does not support the inference that contributory negligence was found. The rule is well established that findings are to be liberally construed in support of the judgment, and that all of the findings are to be read and considered together, and, if possible, are to be reconciled so as to prevent any conflict on material points. (Haight v. Haight, 151 Cal. 90, 92 [90 Pac. 197].)
+In the case at bar there is no conflict or variance in the findings when considered together. Even though there had been a finding of contributory negligence, it would have been immaterial, under the circumstances here present. (Rath v. Bankston, 101 Cal. App. 274, 287 [281 Pac. 1081]; Rosewarn v. Washington G. M. Co., 84 Cal. 219, 220 [23 Pac. 1035].) Inasmuch as the findings here discussed are sufficient to sustain the judgment entered in defendant’s favor, it becomes unnecessary to comment upon the other points presented by appellant.
+The judgment appealed from is affirmed.
+Conrey, P. <T., and Houser, J., concurred.
