@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2363"
+decided: "1919-07-31"
+citations: ["42 Cal. App. 520"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AMERICAN STEEL PIPE & TANK COMPANY (a Corporation), Respondent, v. ELLA P. HUBBARD, Appellant."]
+source_url: "https://static.case.law/cal-app/42/cases/0520-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044555
+cites_cases: ["105 Pac. 275", "109 Pac. 616", "11 Cal. App. 421", "141 Pac. 917", "151 Cal. 32", "153 Cal. 725", "158 Cal. 47", "168 Cal. 81", "90 Pac. 122", "96 Pac. 369"]
+---
+
+# American Steel Pipe & Tank Co. v. Hubbard
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+In this action plaintiff sought to recover for the price of a lot of oil orchard heaters sold and delivered to defendant upon her order in writing made therefor. Judgment went for plaintiff, from which defendant appeals.
+The giving of the order is admitted in the answer, pursuant to which it is therein alleged “that said plaintiff did send certain heaters to the premises of this defendant, but denies that the same were of the class, character, or kind represented to this defendant or by her purchased.” As to this allegation the court found “that it is not true as alleged in defendant’s answer that the said heaters were not of the class, character, or kind represented to or purchased by the defendant,” but, on the contrary, found that pursuant to the written contract plaintiff delivered the heaters so ordered to the defendant, who received, accepted, and used the same, for which she agreed to pay $916.65, no part of which was paid.
+Appellant attacks the finding of the court to the effect that the heaters delivered by plaintiff were of the class, character, and kind purchased by her. Her argument is based upon the claim that the order as given was based upon a sample of the heater exhibited to her by plaintiff’s selling agent, compared with which the heaters delivered were mechanically different. Section 1766 of the Civil Code provides that “One who sells or agrees to sell goods by sample, thereby warrants the bulk to be equal to the sample.” While it appears from the evidence that á sample heater was exhibited to defendant at the time she gave the order, it fails to show wherein the heaters delivered differed from such sample. Not only was defendant uncertain as to the identity of the heater produced by her at the trial, but her meager testimony was flatly contradicted by plaintiff’s selling agent and other witnesses, thus at least creating a conflict, in solving which the court found in favor of plaintiff. Hence, assuming that the heaters delivered differed from the one produced in court by defendant, it cannot be said that the goods delivered differed from the sample exhibited to defendant when she gave the order.
+Moreover, the written contract was made June 19, 1913, and called for “Coe Orchard Heaters of 5 gallons capacity,” and contained a provision to the effect “that this paper, in writing and printing, contains the entire agreement between the parties hereto named and that no outside verbal understanding with any one will be of any force or effect.” The heaters, some one thousand four hundred in number, were delivered on November 23, 1913, and defendant, having full. opportunity for examination of the same, accepted them, distributed them through her orchard and used them during the winter of 1913-14. While the court, in our opinion, upon sufficient evidence, found the goods were of the class and kind purchased by defendant, nevertheless, having opportunity to inspect the same, even were they different from those contracted for, she, by accepting and using them, must be deemed to have waived any objection on account of the heaters being otherwise than as represented by the seller. (Jackson v. Porter Land & W. Co., 151 Cal. 32, [90 Pac. 122]; Treis v. Berlin Dye Works etc. Co., 11 Cal. App. 421, [105 Pac. 275]; Byron Jackson Machine Works v. Duff, 158 Cal. 47, [109 Pac. 616].)
+Appellant also insists that the heaters were constructed in a manner which permitted water to leak into them during rainstorms, which fact constituted a violation of an implied warranty under section 1770 of the Civil Code. As to this contention, it is sufficient to say that defendant’s pleading contains no defense predicated upon a violation of an implied warranty. Code warranties which are not pleaded or proved cannot be relied upon, either in support of a cause of action or as a defense thereto. (Kullman, Salz & Co. v. Sugar etc. Co., 153 Cal. 725, [96 Pac. 369].) Moreover, the contract was in writing and the only warranty given by plaintiff was a written warranty under date of June 20, 1913, which is silent as to the matters upon which appellant bases her contention. Where a writing exists between the parties, the extent of a warranty made is limited to the language used therein. “Parol evidence will not be admitted to extend, enlarge, or modify that which the writing specifies.” (United Iron Works v. Outer Harbor D. & W. Co., 168 Cal. 81, [141 Pac. 917].) Not only was there ample evidence to support the finding of which appellant complains, but even were it otherwise, defendant is in no position to invoke such defense.
+The judgment is affirmed.
+Conrey, P. J., and James, J., concurred.
