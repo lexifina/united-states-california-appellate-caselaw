@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3217"
+decided: "1920-09-16"
+citations: ["49 Cal. App. 296"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE W. SIMONS et al., Plaintiffs and Respondents, v. W. L. PORTERFIELD et al., Defendants and Appellants; AMANDA M. ALLEN, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app/49/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2060452
+cites_cases: ["130 Pac. 881", "132 Pac. 75", "165 Cal. 1", "165 Cal. 326"]
+---
+
+# Simons v. Porterfield
+
+## Majority (WELLER, J.)
+
+WELLER, J.
+This is a consolidated action involving the relative rights of mortgagee, beneficiary under a trust deed and mechanic’s lien claimants.
+The facts necessary to an understanding of the controversy are set forth in the findings of the court. It appears that defendant W. L. Porterfield was, on October 14, 1915, the owner of certain real property in Long Beach, and on that day he and his wife executed a mortgage on the property in favor of Harry E. Martin for the sum of twenty-seven thousand dollars, which mortgage was - recorded October 20, 1915, and, on October 25, 1915, assigned by Martin to John Watry, the latter paying Martin the full amount of the note secured by the mortgage. Concurrently with the execution of the note and mortgage, Porterfield and wife also executed their note for ten thousand five hundred dollars, and secured payment thereof by a trust deed on the property; and on April 25, 1916, signed another note for one thousand dollars, secured by the same trust deed. On October 15, 1915, Porterfield entered into an agreement with Martin, by the terms of which the latter undertook to construct a building upon the premises covered by the mortgage and trust deed, and to clear the title of certain other liens then existing against the property. These agreements on the part of Martin constituted the only consideration for the execution of the notes secured by the mortgage and trust deed.
+On April 25, 1916, Martin borrowed of John Watry the sum of nine thousand five hundred dollars, and from Amanda M. Allen the sum of two thousand dollars, giving his notes for these amounts to the respective parties, and as security he pledged the two Porterfield trust deed notes. At the time of the loan of the two thousand dollars made by Amanda M. Allen, she did not know of the contract between Porterfield and Martin, or that the building was being constructed. Martin failed to complete his contract according to its terms, and as the result Porterfield became entitled to credits against him in excess of the amount of the trust deed notes.
+In its conclusions of law the court adjudged the foreclosure of the twenty-seven thousand dollar mortgage; that the assignment of the trust deed notes was subject to the equities in favor of Porterfield, so far as Watry was concerned, but not as against Amanda M. Allen; and ordered that the proceeds of the sale of the property be first applied to the satisfaction of the mortgage, and next to the payment to Amanda M. Allen of the amount found due on her two thousand dollar note. This appeal is from that portion of the decree adjudging the claim of Allen to be superior to the offset of Porterfield with .relation to the trust deed notes.
+The notice of appeal also states that it is taken from an order denying the motion of Porterfield to enter a different judgment on the findings; but we find nothing in the record filed here upon which we can act. Neither the notice of motion nor the order made appear in the transcript. However, this is not material, as the same result may be accomplished on the appeal from the judgment.
+Respondent’s counsel devotes much of his brief to an argument against the consideration of the appeal, for the reason that it was taken too late. A motion to dismiss was made in the supreme court and denied; and we are bound by that action.
+It is contended by appellants that the court erred in adjudging the lien of Amanda M. Allen on the trust deed notes to be superior to the offset of Porterfield as against Martin, the payee of the notes. We think this contention must be sustained. As will appear from the findings, the trust deed notes were executed in consideration of the agreement made by Martin at the time, a compliance with which on his part was prerequisite to his right to recover on the notes.- Having failed to complete his contract, for which the notes were executed in payment, he would not be entitled to maintain an action against Porterfield on the notes. As the notes were found to be, and were, in fact, non-negotiable, Allen took the assignment in pledge subject to all defenses existing in favor of the makers against the payee, her assignor. (Sec. 368, Code Civ. Proc.; McKenney v. Ellsworth, 165 Cal. 326, [132 Pac. 75].) The fact that the pledgee had no knowledge of the existing equities of Porterfield makes no difference, as the rule of caveat emptor applies to the transfer of non-negotiable instruments. (National Hardware Co. v. Sherwood, 165 Cal. 1, [130 Pac. 881].)
+Respondent argues that, because the evidence is not brought up, we cannot consider the proposition raised on this appeal. The record shows the facts as found by the court, and the conclusions drawn from the findings. The question for our determination is whether the conclusions of law are supported by the findings of fact. The transcript contains sufficient data for that purpose.
+The facts found by the court are not, and cannot, be challenged in this proceeding. It must be presumed that the evidence was sufficient to sustain each finding made, and that the issues were correctly decided. From the record it appears that the trust deed notes were non-negotiable, that at the time of the pledge to Amanda M. Allen there were offsets existing in favor of Porterfield against Martin, the payee, and that Allen loaned two thousand dollars to Martin, taking the notes as security for the payment of her loan, without actual knowledge of the existence of the claims of Porterfield. This state of facts did not warrant the court in adjudging her lien to be paramount to the setoff which was awarded to Porterfield by the judgment.
+The superior court is therefore directed to modify its judgment in accordance with the views herein expressed.
+Finlayson, P. J., and Thomas, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on November 15, 1920.
+ALL the Justices concurred.
