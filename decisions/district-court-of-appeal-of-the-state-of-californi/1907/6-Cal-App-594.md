@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 350"
+decided: "1907-10-09"
+citations: ["6 Cal. App. 594"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE BAULE, Respondent, v. FANNIE DROBATZ, Appellant."]
+source_url: "https://static.case.law/cal-app/6/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963911
+cites_cases: ["129 Cal. 690", "143 Cal. 392", "144 Cal. 278", "145 Cal. 4", "22 Pac. 967", "62 Pac. 254", "77 Pac. 169", "77 Pac. 904", "78 Pac. 235", "81 Cal. 608"]
+---
+
+# Baule v. Drobatz
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This is an action for work and labor done, and for money loaned. Judgment was entered on both counts for plaintiff. From this judgment and the order denying her motion for a new trial defendant appeals. Insufficiency of the evidence to support the findings of fact and newly discovered evidence are the chief grounds upon which appellant relies.
+The plaintiff was a second cousin of Martin Drobatz, the husband of the defendant, and also an intimate friend of the Drobatz family. He lived with that family at intervals up to the death of defendant’s husband in May, 1905. While living with them plaintiff would sometimes pay for his board by working, and at other times by the payment of such sums of money as would seem to him to be fair. He testified, however, that on March 1, 1905, the defendant told him that her husband was ill and could not work, and she requested plaintiff to take charge of her ranch in Santa Clara county. From that date until August 1, 1905, he was the only man on the place, and he did all the work necessary to be done about the premises; that there had been no agreement as to his wages, but he thought his services were reasonably worth $30 a month. He also testified that at different times from August, 1903, to May, 1904, he had loaned defendant various sums of money, aggregating $1,260, on account of which he had been paid $500.
+The defendant testified substantially as follows: “He [plaintiff] never pretended that he was working for wages, nor did I dream of it. After my husband’s death Baule became a different man toward the family. He was insolent, and acted as if he was the head of the concern. Finally I told him he must leave. Then for the first time he claimed that my husband 'owed him money at the time of his death. I recalled .that about three years ago on the street Baule gave my husband some money in a package, which I understood was about $400. He at this time claimed that it was $500, and then he also claimed that he should have something for what he had done on the place since my husband’s death, and that he wanted a settlement before he left. We talked the matter over, and while I did not believe it, I considered the money loaned to my husband a debt of honor, and finally concluded that I would pay him that money and $50 in complete settlement of all demands, and he said that if I would pay him the $550 he would be satisfied and would leave. . . . He came back in the afternoon, and when I had the money on a table I called in my children, Geraldine, May and Francis, and I counted out the $500, and then $60, and he gave me back $10 in change. . . . He said, ‘That settles everything between us.’ I said, ‘Now, that’s all that I owe you. Is there anything more?’ He said, ‘No, that is all; I’ll ask you for nothing more.’ ”
+The settlement between the parties testified to by the defendant was corroborated by the testimony of two of her daughters.
+The trial court found that defendant owed the plaintiff a balance of $58 for services rendered, and $760 for money loaned.
+There is a plain and substantial conflict in the testimony of the respondent and that of the appellant and her two daughters as to the facts upon which the court made its findings. When there is a substantial conflict in the evidence this court, under a well-established rule of law in this state, will not disturb the findings of the trial court.
+The next point urged by appellant is as to the action of the trial court in refusing to grant her motion for a new trial on the ground of newly discovered evidence. Respondent asserts that the affidavits for and against the motion are not certified as provided in rule XXIX of this court, [78 Pac. xii], nor are they incorporated in the bill of exceptions, and hence he contends they cannot be considered on this motion. (Somers v. Somers, 81 Cal. 608, [22 Pac. 967]; Skinner v. Horn, 144 Cal. 278, [77 Pac. 904].) This point has merit, but we prefer to rest our decision upon another ground. Appellant claims that the newly discovered evidence is material for her, and that she could not with reasonable diligence have discovered and produced it at the trial. On this motion there were introduced nine affidavits—six by the appellant and three by the respondent. No good purpose would be subserved by summarizing the contents of those affidavits. It is sufficient to say that the question of whether the newly discovered evidence could with reasonable diligence have been discovered and produced at the trial, and the question whether, if it had been produced, a different conclusion might have resulted, were questions addressed to the sound legal discretion of the trial court, and its action will not be disturbed unless it appears that its discretion has been manifestly abused. (Oberlander v. Fizin, 129 Cal. 690, [62 Pac. 254]; People v. Buckley, 143 Cal. 392, [77 Pac. 169]; People v. Sing Yow, 145 Cal. 4, [78 Pac. 235].) We have carefully examined the affidavits on the motion for a new trial, and the showing made by them does not warrant us in saying that the trial court improperly exercised its discretion in the matter.
+There is no other point meriting attention. The judgment and order appealed from are affirmed.
+Hall, J., and Cooper, P. J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on December 5, 1907.
