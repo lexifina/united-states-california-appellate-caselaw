@@ -1,0 +1,54 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 50703"
+decided: "1982-06-25"
+citations: ["133 Cal. App. 3d 88"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RIA GRIMMER, a Minor, etc., Plaintiff, v. HARBOR TOWERS et al., Defendants, Cross-complainants and Appellants; KAEHLER-FARRAR DEVELOPMENT, INC., et al., Cross-defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/133/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2092539
+cites_cases: ["108 Cal.App.3d 567", "146 Cal.Rptr. 182", "163 Cal.Rptr. 585", "166 Cal.Rptr. 644", "20 Cal.3d 578", "211 P.2d 564", "26 Cal.3d 744", "34 Cal.2d 465", "578 P.2d 899", "608 P.2d 673"]
+---
+
+# Grimmer v. Harbor Towers
+
+## Majority (FEINBERG, J.)
+
+Opinion
+FEINBERG, J.
+The sole issue presented is whether Code of Civil Procedure section 337.15 operates to bar the cross-complaint for indemnity filed by the owners (appellants Majors, Hourigan and Harbor Towers, collectively Harbor Towers) against the builder and architect (respondents Kaehler-Farrar Development, Inc., Reuben Kaehler and D. H. Gregory Coleman, collectively Kaehler).
+The complaint was filed on April 27, 1976, by Beulah Ann Grimmer, the mother and guardian ad litem of the one and one-half-year-old minor plaintiff, Ria Grimmer. The complaint alleged that on August 10, 1975, Ria, who resided with her mother at the apartments owned by Harbor Towers, fell through a railing from the second floor to the ground, and sustained severe personal injuries and damages. The complaint alleged that the 20 fictitiously named Does negligently owned, maintained, controlled, designed, constructed and leased the second floor area. Harbor Towers answered and on July 17, 1978, filed its cross-complaint against Kaehler, who designed or constructed the railing. The cross-complaint sought implied indemnity on the theory of active-passive negligence as well as comparative contribution, pursuant to American Motorcycle Association v. Superior Court (1978) 20 Cal.3d 578 [146 Cal.Rptr. 182, 578 P.2d 899]. After Kaehler filed their answer to the cross-complaint, Ria’s attorney filed and served them with the complaint.
+Subsequently, Kaehler filed a motion for summary judgment, alleging, inter alia, that although they designed and constructed the apartments in question, the notice of completion was filed on September 11, 1962, and therefore the actions of Ria and Harbor Towers were barred by sections 337.1 and 337.15. For purposes of the motion the trial court treated the alleged defect in the railing as latent, granted the motion, and ordered dismissal of the complaint and cross-complaint as to Kaehler. Harbor Towers appeals. Ria does not.
+Discussion
+Section 337.15, so far as pertinent and at the time here applicable, provided:
+“(a) No action may be brought to recover damages from any person who develops real property or performs or furnishes the design, specifications, surveying, planning, supervision, testing, or observation of construction or construction of an improvement to real property more than 10 years after the substantial completion of such development or improvement for any of the following'.
+“(1) Any latent deficiency in the design, specification, surveying, planning, supervision, or observation of construction or construction of an improvement to, or survey of, real property.
+“(2) Injury to property, real or personal, arising out of any such latent deficiency....
+“(c) As used in this section, ‘action’ includes an action for indemnity brought against a person arising out of his performance or furnishing of services or materials referred to in this section, except that a cross-complaint for indemnity may be filed pursuant to Section 442 in an action which has been brought within the time period set forth in subdivision (a) of this section.
+“(d) Nothing in this section shall be construed as extending the period prescribed by the laws of this state for bringing any action.
+“(e) The limitation prescribed by this section shall not be asserted by way of defense by any person in actual possession or the control, as owner, tenant or otherwise, of such an improvement, at the time any deficiency in such improvement constitutes the proximate cause for which it is proposed to bring an action.” (Italics added.)
+Kaehler, relying on Ernest W. Hahn, Inc. v. Superior Court (1980) 108 Cal.App.3d 567 [166 Cal.Rptr. 644], argues that since the instant action was not filed within 10 years after completion of construction, Harbor Towers’ action for indemnity also was so barred. In Hahn, supra, as here, the personal injury complaint against the owner and the owner’s cross-complaint against the contractor were filed more than 10 years after the completion of construction. The court in Hahn assumed that the personal injury action was barred and held, at pages 570-571, that since the period of limitation of section 337.15 was triggered by the completion of construction, the application of the usual rule that a cause of action for indemnity accrues after judgment and payment of damages in the underlying action (People ex rel. Dept, of Transportation v. Superior Court (1980) 26 Cal.3d 744 [163 Cal.Rptr. 585, 608 P.2d 673]) would result in the accrual of the indemnity cause of action at a point long after the lapse of 10 years from the completion of construction. “Since injuries to persons may occur at the building as long as it remains standing, the failure to apply Code of Civil Procedure section 337.15 would result in removing any limitation period for” latent defects. {Id., at pp. 570-571.) The Hahn court then concluded that the cross-complaint for indemnity also was barred by section 337.15.
+We are of the view that Hahn was erroneously decided for the reason that section 337.15 does not apply to an action for personal injuries and therefore does not apply to an action for indemnity where the underlying action is for personal injuries.
+We explain;
+1. Section 337.15 specifically states that it applies to recover damages for (a) a latent deficiency in, essentially, anything involved in the “construction of an improvement to, or survey of, real property” or (b) an injury to property, real or personal, arising out of that latent deficiency.
+Thus, section 337.15 applies to damages sought where the latent deficiency is the proximate cause of either a diminution of value in the real property, or an injury to the property, real or personal. It is to be noted that section 337.15 makes no mention of an action for personal injuries.
+That hoary maxim of interpretation, embalmed in Latin, but still a settled rule of statutory construction, expressio unius est exclusio alterius, (Ainsworth v. Bryant (1949) 34 Cal.2d 465, 473 [211 P.2d 564]), tells us that the legislation, by specifying that section 337.15 applied to latent defects that impair the value of the property, or result in injury to property, intended to exclude from the umbrella of the section, latent defects that give rise to other kinds of causes of action such as one for personal injuries.
+2. Our view as to the legislative intent is buttressed by the legislative history. As originally introduced in the State Assembly, the bill specifically included personal injury and wrongful death actions arising out of latent defects. (Assem. Bill No. 2742 (Apr. 15, 1971).) Subsequently, the language relating to personal injury and wrongful death actions was removed from the bill by amendment and enacted in substantially its present form as section 337.15. (Stats. 1971, ch. 1569, § 1, p. 3148.)
+3. Finally, we compare section 337.1 with section 337.15. Section 337.1 deals with a four-year statute of limitations applicable to “patent deficiencies” in an improvement to real property. As we have noted, section 337.15 relates to “latent deficiencies” in an improvement to real property. (Italics added.)
+Section 337.15, subdivision (a)(1) is identical to section 337.1, subdivision (a)(1) except that the word “latent" in the former section has replaced the word “patent” in the latter section.
+Section 337.15, subdivision (a)(2) is identical to section 337.1, subdivision (a)(2) except that again, the word “latent” in the former section has replaced the word “patent” in the latter section.
+There are other similarities if not identities in the language of the two sections.
+Section 337.1, subdivision (a)(3) specifically makes the four-year statute applicable to an “[ijnjury to the person or for wrongful death arising out of any such patent deficiency.” (Italics added.) It is this language which is conspicuously absent from section 337.15.
+Section 337.1 was enacted in 1967 (Stats. 1967, ch. 1326, § 1, p. 3157). Section 337.15 was enacted in 1971 (Stats. 1971, ch. 1569, § 1, P- 3149).
+It would strain credulity and the laws of probability to believe that the Legislature in enacting section 337.15 did not have before it the language of section 337.1. Thus, the omission from section 337.15 of language relating to a cause of action for personal injuries can only have been intentional on the part of the Legislature.
+It is apparent that the Legislature in enacting sections 337.1 and 337.15 has created a comprehensive scheme of statutes of limitation for the construction industry arising out of deficiencies relating to construction that proximately cause damage.
+The differences between the two sections such as the time span specified and the kinds of damages that must be sought within the respective time constraints is clearly due to the difference between a patent deficiency, section 337.1, and a latent deficiency, section 337.15. Personal injuries are covered by section 337.1 and, designedly, not covered by section 337.15.
+Short of an express direction in section 337.15 that personal injury actions are not included therein, it would be difficult to conceive of a clearer expression of legislative intent than that manifest by this legislative history.
+(2) Because an action for personal injuries does not come within the purview of section 337.15, it follows that under section 337.15, subdivision (c), an action for indemnity does not come within the embrace of section 337.15 where the underlying action is based on damages for personal injuries proximately caused by a latent deficiency.
+The judgment dismissing the cross-complaint for equitable indemnity is reversed.
+White, P. J., and Barry-Deal, J., concurred.
+All statutory references hereinafter are to the Code of Civil Procedure, unless otherwise indicated.
+Former section 442 was repealed by Statutes 1971, chapter 244, section 45, operative July 1, 1972, and its provisions reenacted as part of the new cross-complaint statute, section 428.10 et seq., Statutes 1971, chapter 244, section 23, operative July 1, 1972.
