@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A059273"
+decided: "1993-08-24"
+citations: ["18 Cal. App. 4th 1102"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COUNTY OF LAKE, Plaintiff and Appellant, v. GERALD ANTHONY ANTONI, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/18/cases/1102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4682886
+cites_cases: ["14 Cal.Rptr.2d 411", "211 Cal.App.3d 879", "225 Cal.App.3d 469", "259 Cal.Rptr. 582", "274 Cal.Rptr. 911", "4 Cal.4th 225", "841 P.2d 931"]
+---
+
+# County of Lake v. Antoni
+
+## Majority (CHIN, J.)
+
+Opinion
+CHIN, J.
+The County of Lake (County) appeals from a child support order that set respondent Gerald Anthony Antoni’s support payment obligation at less than file presumptive amount under Civil Code section 4721. The County contends that the trial court erred by the way in which it considered Antoni’s support of his stepdaughter and his substantial consumer debt monthly payments. The trial court did not abuse its discretion; we affirm.
+Facts
+No responding brief has been filed. Accordingly, we may accept the factual recitation of the opening brief as true while adhering to the requirement that the County affirmatively demonstrate prejudicial error despite the absence of a brief by Antoni. (Cal. Rules of Court, rule 17(b); Miles v. Speidel (1989) 211 Cal.App.3d 879, 881 [259 Cal.Rptr. 582].)
+In June 1992, the County sought modification of an existing child support order filed in May 1983. The existing order required Antoni to pay $100 per month for the support of his 13-year-old son, Neil B., who lives with his mother, Jeanette B. Jeanette, a full-time nursing student who receives some limited scholarship funds, relies on Aid to Families with Dependent Children (AFDC) payments to support Neil.
+Antoni has a net monthly income of $1,978. He is married and lives with his wife, his eight-year-old son, and his seventeen-year-old stepdaughter. In completing his income and expense declaration for the trial court, Antoni did not claim a hardship deduction for his eight-year-old son. (See § 4722, subd. (b).) Antoni’s declaration showed extensive personal debts for revolving credit accounts, department stores, and finance companies, some of which apparently represented expenditures for clothing and household articles. Those debts amounted to $41,444 and required monthly payments totaling $1,378. Antoni’s declaration showed total monthly expenses of $3,709, with his wife contributing to the household’s income through a temporary, seasonal job.
+The County gave the trial court a worksheet showing its calculation of Antoni’s support obligation for Neil under section 4721. The calculation included a section 4722, subdivision (b), deduction for Antoni’s support of his eight-year-old son. The County’s worksheet showed that the presumptive amount of Antoni’s monthly child support obligation for Neil, calculated under the mandatory guidelines of section 4721, would be $419.06 per month.
+The trial court set the monthly amount of child support at $294. The court did not apply a hardship deduction for the son living with Antoni and so calculated the presumptive amount of child support as being $494 per month. The trial court then reduced the presumptive amount by $200, finding that there were special circumstances that made the presumptive amount unjust or inappropriate under section 4721, subdivision (e)(6). The court cited two circumstances: (1) Antoni’s providing support for the two children living with him, with the likelihood that Antoni would have been entitled to a hardship deduction under section 4722; and (2) “[t]he father has an extraordinarily high amount of monthly debt service, on account of debt seemingly incurred for living needs.”
+The County unsuccessfully sought to have the decision reconsidered. This timely appeal followed.
+Discussion
+We review support awards for abuse of discretion. (See In re Marriage of Simpson (1992) 4 Cal.4th 225, 234 [14 Cal.Rptr.2d 411, 841 P.2d 931]; In re Marriage of Smith (1990) 225 Cal.App.3d 469, 479-480 [274 Cal.Rptr. 911]; Hogoboom & King, Cal. Practice Guide: Family Law 1 (The Rutter Group 1993) f 16:64, p. 16-34.)
+The County’s arguments primarily concern the differences between the trial court’s decision and the specifics of sections 4721, subdivision (g)(7), and 4722, subdivison (b). The County accurately notes that section 4722 hardship deductions—which are subtracted from gross income under section 4721, subdivision (g)(7), to reach net disposable income—do not include support of stepchildren or payment of staggering consumer debt. The County’s arguments would be persuasive except that the trial court’s decision reflects an exercise of its discretion under a different provision, section 4721, subdivision (e)(6).
+Subdivision (e) of section 4721 concerns factors that may, when found to be applicable by a preponderance of the evidence, rebut the presumed correctness of child support amounts determined by the formula in subdivision (a) of that section. In order to apply one of the rebuttal factors of subdivision (e), the trial court must find “in writing or on the record that application of the formula would be unjust or inappropriate in the particular case and that the revised amount is in the best interests of the children ....’’ (§ 4721, subd. (e).) Here, the trial court made those findings.
+Under section 4721, subdivision (e), the bases for a variation from the formula’s support amount include: “(6) Application of the formula would be unjust or inappropriate due to special circumstances in the particular case. These special circumstances include, but are not limited to, the following: cases in which the parents have different time-sharing arrangements for different children; cases in which both parents have substantially equal time-sharing of the children and one parent has a much lower or higher percentage of income used for housing than the other parent; and cases in which the children have special medical or other needs that could require child support that would be greater than the formula amount.” (§ 4721, subd. (e)(6), italics added.) As a leading authority on California’s family law observes, this section effectively vests trial courts with considerable discretion to approach unique cases on an ad hoc basis. (Hogoboom & King, Cal. Practice Guide: Family Law 1, supra, 6:32.11, at p. 6-60.)
+The County argues that Antoni’s consumer debts should not be allowed to affect the amount of child support as a special circumstance under section 4721, subdivision (e)(6). After suggesting that high consumer debt is regrettably common, the County contends that the trial court’s approach “would give an obligor parent carte blanche to overspend on optional, nonessential items for himself and others as to whom he has no legal duty of support »
+The trial court’s exercise of its discretion in light of the facts before it does not present the ominous picture the County suggests. When the County sought to quadruple Antoni’s support obligation after nine years, the trial court appropriately considered Antoni’s situation at that time. That situation included Antoni’s servicing a debt burden that already was in place while supporting another son and his 17-year-old stepdaughter. Thus, it is apparent that the trial court’s decision to set the support payments at nearly three times the previous level, but $125 per month less than the County sought, was founded on the best interests of all of the children. (See § 4721, subd. (e).) We find no abuse of discretion.
+The order appealed from is affirmed.
+Merrill, Acting P. J., and Werdegar, J„ concurred.
+All further statutory references are to the Civil Code.
