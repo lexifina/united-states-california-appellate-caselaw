@@ -1,0 +1,40 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 50040"
+decided: "1977-07-28"
+citations: ["72 Cal. App. 3d 128"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["REX D. SUMMERFORD, Plaintiff and Respondent, v. BOARD OF RETIREMENT OF THE SANTA BARBARA COUNTY EMPLOYEES’ RETIREMENT ASSOCIATION, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/72/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987654
+cites_cases: ["102 Cal.Rptr. 815", "122 P.2d 892", "18 Cal.App.3d 273", "18 Cal.Rptr. 256", "19 Cal.2d 807", "198 Cal.App.2d 397", "249 P.2d 8", "253 Cal.App.2d 1020", "254 P.2d 26", "273 Cal.App.2d 124", "293 P.2d 18", "39 Cal.2d 781", "40 Cal.2d 477", "46 Cal.2d 76", "498 P.2d 1063", "61 Cal.Rptr. 791", "7 Cal.3d 616", "77 Cal.Rptr. 891", "95 Cal.Rptr. 657"]
+---
+
+# Summerford v. Board of Retirement
+
+## Majority (KINGSLEY, J.)
+
+Opinion
+KINGSLEY, J.
+This is an appeal from a judgment granting a peremptory writ of mandate directing the Board of Retirement of the Santa Barbara County Employees’ Retirement Association to issue petitioner Summerford a service-connected disability retirement.
+Rex Summerford was employed as a deputy sheriff for the County of Santa Barbara and had been a member of the County Employees’ Retirement Association since 1965.
+On March 23, 1974, Summerford applied to the Workers’ Compensation Appeals Board (WCAB) for disability compensation as a result of certain psychiatric injuries incurred in the course of his employment with the county. On February 7, 1975, a second application, based on the same injury, was filed with the County Employees’ Retirement Association for service-connected disability retirement.
+On July 22, 1975, a Workers’ Compensation trial judge ruled that Summerford had, in fact, sustained a psychiatric injury which had resulted in 100 percent permanent disability thereby entitling him to the requested disability compensation. The findings of the trial judge were affirmed by the WCAB on May 17, 1976.
+The board of retirement, desiring to make its own determinations regarding the applicant’s injuries, arranged for a psychiatric examination of Summerford pursuant to Government Code section 31723. Summer-ford declined to attend the meeting, allegedly believing the findings of the WCAB to be conclusive as to the retirement board as well. As a result of his failure to meet with the board-appointed physician, his application for work-related disability retirement was denied on June 16, 1976.
+The only question before us on appeal is whether the decision of the Workers’ Compensation Appeals Board is binding upon the board of retirement under the doctrine of res judicata.
+A judgment in one tribunal is res judicata as to subsequent proceedings where: (1) the identical issue is under consideration; (2) a final judgment was reached on the merits in the earlier adjudication; (3) the party against whom that judgment is now asserted was a party or in privity with a party in the prior action. (French v. Rishell (1953) 40 Cal.2d 477, 479 [254 P.2d 26]; Bernhard v. Bank of America (1942) 19 Cal.2d 807, 813 [122 P.2d 892]; Barber v. Retirement Board (1971) 18 Cal.App.3d 273, 278 [95 Cal.Rptr. 657].) Since there is no dispute as to the identity of issues involved in the two proceedings, the present appeal focuses only on the latter two requirements, i.e., identity of parties and finality of judgment.
+The Supreme Court has stated on numerous occasions that a final judgment of the WCAB will be given res judicata effect, so long as the other essential elements of the doctrine are also present. (Unruh v. Truck Insurance Exchange (1972) 7 Cal.3d 616, 633 [102 Cal.Rptr. 815, 498 P.2d 1063]; Scott v. Industrial Acc. Com. (1956) 46 Cal.2d 76, 83 [293 P.2d 18]; French v. Rishell (1953) supra, 40 Cal.2d 477, 479-480; Duprey v. Shane (1952) 39 Cal.2d 781, 790 [249 P.2d 8].) The retirement board argues, however, that they should not be bound by a decision of the WCAB in the present case, as the crucial factor of party identity is lacking. We agree with this contention.
+In granting the request for writ of mandate, the lower court relied on the Supreme Court’s holding in French v. Rishell, supra. In French the Oakland City Pension Board refused to grant a pension to the widow of a deceased city fireman, despite an earlier finding by the Industrial Accident Commission that the husband’s death was proximately caused by an injury arising within the scope of his employment. The Supreme Court held that determinations of the commission were binding upon the municipal pension board where “under the city charter, the pension board acts as an agent of the city.” As the pension board represented the city, the fact that the board, itself, was not a party to the IAC proceeding did not preclude the application of the res judicata doctrine, since the municipality, the real party in interest before the pension board, was a party to the earlier proceeding. As the city was bound by the prior judgment, the board in its representative capacity was similarly bound. (French v. Rishell (1953) supra, 40 Cal.2d at p. 482.)
+The instant case does not involve a city pension board, but rather a county employees’ retirement association formed pursuant to the 1937 County Employees’ Retirement Act. Such an association is a contributory system, in which the contribution rate of the members is subject to adjustment based upon the mortality, service and compensation experience of the members. Thus any adjudication of a claim for benefits may have an economic impact upon the membership as well as on the county treasury (see Gov. Code, § 31453).
+The association is governed by a nine-person board, one member of which is the county treasurer. Of the other eight board members, three are individuals belonging to, and elected by, the association itself; one is a retired member elected by the retired association members; and four are qualified voters residing in the county who are “not connected with the county government in any capacity.” Unlike the Oakland City Pension Board, which functioned as an agent of the beneficiaries’ employer, the county employees’ retirement associations created under the 1937 act are organizations totally “distinct from the county.” (Flaherty v. Board of Retirement (1961) 198 Cal.App.2d 397, 404 [18 Cal.Rptr. 256].)
+While the county was represented in the WCAB proceeding, the retirement board was not. Therefore, findings of the WCAB regarding the claimant’s injury are not binding upon the retirement board. The retirement board has a “valid, independent right to determine whether petitioner suffered injuiy in the course and within the scope of his employment.” (Petry v. Board of Retirement (1969) 273 Cal.App.2d 124, 129 [77 Cal.Rptr. 891]; Grant v. Board of Retirement (1967) 253 Cal.App.2d 1020, 1021 [61 Cal.Rptr. 791]; Flaherty v. Board of Retirement (1961) 198 Cal.App.2d 397 [18 Cal.Rptr. 256].)
+The retirement board urges, as a further ground for reversal, that the decisions of the WCAB are not entitled to res judicata effect as they do not become final until the five-year period during which they are subject to amendment or recision has elapsed. As we have concluded that the doctrine of res judicata is inapplicable in the present case for want of party identity, it is unnecessary to discuss this contention.
+The judgment is reversed.
+Files, P. J., and Dunn, J., concurred.
+Section 31723 states: “The board may require such proof, including a medical examination at the expense of the member, as it deems necessary or the board upon its own motion may order a medical examination to determine the existence of the disability.”
+Government Code section 31450 et seq.
+Govemrnent Code section 31520.1. One of the four qualified county electors may be a supervisor, however. Provision is also made for an alternate member.
+Labor Code sections 5803 and 5804.
