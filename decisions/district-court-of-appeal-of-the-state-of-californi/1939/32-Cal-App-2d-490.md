@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11019"
+decided: "1939-05-02"
+citations: ["32 Cal. App. 2d 490"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CONGREGATION MUKUOM ISRAEL (a Corporation), Plaintiff and Respondent, v. CONGREGATION AHABOT ISRAEL (a Corporation), Appellant; YETTA WEINBERG et al., Interveners and Respondents."]
+source_url: "https://static.case.law/cal-app-2d/32/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4535871
+cites_cases: ["2 Pac. (2d) 357", "212 Cal. 380", "213 Cal. 426", "217 Cal. 673", "22 Pac. (2d) 5", "23 Cal. App. (2d) 187", "298 Pac. 976", "72 Pac. (2d) 258"]
+---
+
+# Congregation Mukuom Israel v. Congregation Ahabot Israel
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+This action was in the nature of an action to quiet title in which it was sought to set aside a deed from plaintiff to defendant Congregation Ahabot Israel, a corporation. From a judgment in favor of plaintiff, defendant appeals upon the judgment roll.
+This controversy arose out of the proceedings relating to the proposed merger and consolidation of two religious corporations, namely, plaintiff Congregation Mukuom Israel and one of the original defendants, Congregation Ahabot Achim. During those proceedings the defendant Congregation Ahabot Israel was organized as a corporation and plaintiff deeded the real property in question to said defendant. This action was dismissed as to defendant Congregation Ahabot Achim. The plaintiff corporation and the defendant corporation, Congregation Ahabot Israel, may therefore be referred to as plaintiff and defendant.
+Some facts, stated in the briefs, do not appear from the record before us which consists solely of the judgment roll. Such facts cannot be accepted for the purpose of defeating the judgment but on the contrary, every intendment and presumption, not contradicted by or inconsistent with the record on appeal, must be indulged in favor of the judgment. (2 Cal. Jur. 852, sec. 499.) Where the appeal is taken on the judgment roll alone, “the findings are conclusively presumed to be supported by the evidence; furthermore, it is also elementary that they are to receive, if possible, such a construction as will uphold rather than defeat the judgment thereon; they are to be liberally construed and, if possible, any ambiguity or inconsistency will be resolved in favor of sustaining the judgment”. (Ochoa v. McCush, 213 Cal. 426, 430 [2 Pac. (2d) 357].) Furthermore, “the judgment may be reversed only upon some fatal error appearing upon the face of the judgment roll”. (Gin S. Chow v. City of Santa Barbara, 217 Cal. 673, 680 [22 Pac. (2d) 5]; see, also, Estate of Woods, 23 Cal. App. (2d) 187 [72 Pac. (2d) 258].)
+The trial court found that both plaintiff and Congregation Ahabot Achim were religious corporations organized under the laws of this state; that plaintiff was the owner of the real property in question; that in 1933, said two corporations entered into negotiations for the merger or consolidation of said two corporations; that committees were appointed and resolutions were passed by said corporations for that purpose; that the defendant was organized as a corporation and said real property was conveyed to defendant; that the grant of said real property was conditional; that no proceedings were had under section 361 of the Civil Code for the merger or consolidation of the two original corporations and that said corporations were never merged or consolidated; that there was no consideration of any kind for the deed from plaintiff to defendant and that said deed was ultra vires, invalid, void and ineffectual for any purpose; that plaintiff was never dissolved; that the proceedings for merger and consolidation were abandoned, rescinded and annulled by plaintiff and due notice thereof was given to defendant; that demand had been made upon defendant for the return of said property and that plaintiff was entitled to have said property reconveyed to it. There is nothing in the record before us to show the terms and conditions of said deed, the terms and conditions of the resolutions passed by said corporations or the terms and conditions of any agreement that may have been entered into between said corporations or their committees for the purposes of merging or consolidating said corporations.
+A fair construction of the findings shows that the grant from plaintiff to defendant was conditioned upon the proposed merger or consolidation of the two original corporations and that no merger or consolidation was ever effected as agreed. We are of the opinion that the findings to that effect constituted the material findings and that said findings support the judgment entered. We find no irreconcilable conflict in the findings as claimed by defendant and a review of the judgment roll discloses no error warranting a reversal of the judgment.
+Defendant discusses at length the powers of religious corporations under our amended statutes, the merger and consolidation of corporations and the subjects of consideration, ultra vires, and failure of consideration. We find nothing in said discussion which justifies the claim that the record before us discloses error. Under the discussion of the last-mentioned subject, defendant cites and relies upon Lavely v. Nonemaker, 212 Cal. 380 [298 Pac. 976]. The opinion in that case makes it entirely clear that the rule there enunciated has no application to a case involving a conditional grant.
+The judgment is affirmed.
+Nourse, P. J., and Sturtevant, J., concurred.
+A petition by appellant to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on June 30, 1939.
