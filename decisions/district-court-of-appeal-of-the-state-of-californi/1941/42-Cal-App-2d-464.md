@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11545"
+decided: "1941-01-16"
+citations: ["42 Cal. App. 2d 464"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WINIFRED S.WINDSOR, Appellant, v. JAMES B. WINDSOR, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/42/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4551868
+cites_cases: ["127 Cal. App. 231", "15 Pac. (2d) 556"]
+---
+
+# Windsor v. Windsor
+
+## Majority (SPENCE, J.)
+
+SPENCE, J.
+Plaintiff appeals from a judgment denying her any relief in an action for divorce.
+Plaintiff and defendant married in 1915. They separated in 1936. Thereafter defendant went to live in the State of Nevada where he resided for a period slightly in excess of that required to obtain a divorce. While so residing in Nevada, defendant there filed an action for divorce and plaintiff employed an attorney in Los Angeles and authorized an attorney in Nevada to represent her in the Nevada action. A property settlement agreement was prepared by plaintiff’s attorney in Los Angeles and was forwarded to Nevada for defendant’s signature. Defendant signed said agreement and plaintiff filed an answer in the Nevada action and was represented by counsel at the trial thereof. A divorce decree was entered in the Nevada action on January 7, 1937, and the property settlement agreement was approved and made a part of said decree. Shortly thereafter defendant returned to the State of California and, on March 17, 1937, he married Ewing Mayfield in the State of Arizona. Plaintiff made no objection to the Nevada decree and she accepted the benefits of the property settlement and the monthly payments thereunder until the present action was commenced on December 29, 1937.
+Plaintiff’s complaint herein was in two counts. The first count charged desertion. The second count charged adultery alleged to have been committed with Ewing Mayfield at times subsequent to the marriage of defendant and said Ewing Mayfield on March 17, 1937. No mention was made in the complaint of the Nevada decree. Defendant and said Ewing Mayfield filed separate answers setting up as defenses the Nevada decree and estoppel. The trial court found against plaintiff on the material allegations of her complaint and found in favor of the defendant on said defenses. Among the findings and conclusions of the trial court were 'those to the effect that defendant went to the State of Nevada with the intent to establish his residence there and resided in that state continuously for the period of time required by law to give the Nevada court jurisdiction; that defendant established a bona fide residence in the City of Reno, State of Nevada, and lived in said city and state for the period of time required by law prior to the filing of his divorce action; that the decree of the Nevada court “is now final and is valid and binding upon the parties to this action”.
+Plaintiff contends that the evidence was insufficient to support these last mentioned findings but we find no merit in this contention. Defendant testified that he had desired for many years to acquire a ranch and live thereon; that he had discussed his desires with plaintiff on several occasions and that plaintiff would never agree to live on a ranch; that he went to Nevada shortly after their separation for the purpose of buying a ranch or trading his business for a ranch; that he gave up his residence in this state and took his belongings to Nevada; that he did not go to Nevada for the purpose of obtaining a divorce and that he did not make up his mind to get a divorce until after he had arrived there; that he remained in the State of Nevada continuously from the time he arrived there until his return to California after the granting of the Nevada decree; that he took an apartment in Reno and resided there during his stay in Nevada; that he traveled around the State of Nevada spending his time looking at ranches; that he was unable to trade his business for a ranch and did not acquire one. While there was other testimony elicited from defendant on cross-examination for the purpose of casting doubt on the question of defendant’s intention in going to Nevada, we believe that the foregoing summary shows that there was substantial evidence to support the above mentioned findings of the trial court. The most that can be said is that under the evidence the trial court might have decided the disputed issue of fact either way and under such circumstances, an appellate court may not interfere after the trier of the facts has made its determination. Plaintiff cites and relies upon (Warren v. Warren, 127 Cal. App. 231 [15 Pac. (2d) 556]), but that case is not determinative here. The appellate court, there upheld the finding of the trial court and the statement in the opinion that a contrary finding could not have been sustained is necessarily dicta. In any event, the facts of that case are quite different from those presented in the record before us.
+In view of our conclusion that the findings and conclusions of the trial court relating to the validity of the Nevada decree were sustained by the evidence, it becomes unnecessary for us to discuss the question of whether plaintiff was estopped to question the validity of said decree.
+The judgment is affirmed.
+Nourse, P. J., and Sturtevant, J., concurred.
