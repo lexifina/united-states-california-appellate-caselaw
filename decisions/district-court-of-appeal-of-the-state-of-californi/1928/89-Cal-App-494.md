@@ -1,0 +1,33 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6130"
+decided: "1928-02-27"
+citations: ["89 Cal. App. 494"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IDA ELLEN HEDDEN et al., Appellants, v. FRED A. WALDECK et al., Respondents."]
+source_url: "https://static.case.law/cal-app/89/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116465
+cites_cases: ["151 Cal. 526", "156 Pac. 375", "200 Pac. 37", "21 Pac. 860", "239 Pac. 92", "24 Cal. 127", "265 Pac. 340", "265 Pac. 345", "29 Cal. App. 584", "42 Cal. 346", "53 Cal. App. 279", "73 Cal. App. 678", "79 Cal. 433", "9 Cal. App. 212", "9 Cal. App. 641", "91 Pac. 498", "98 Pac. 544", "99 Pac. 1107"]
+---
+
+# Hedden v. Waldeck
+
+## Majority (KOFORD, P. J.)
+
+KOFORD, P. J.
+JThe plaintiffs, husband and wife, brought this action for possession. It was labeled an action for forcible entry and detainer, but is referred to in the briefs as ejectment. It was tried by stipulation at the same time and upon the same evidence as case No. 6129, Waldeck v. Hedden et al., ante, p. 485 [265 Pac. 340], a specific performance case between the same parties. Separate findings and judgment for the defendant were made and entered.
+No separate briefs are filed for this case. It is submitted upon the briefs in case No. 6129, supra. The briefs in that case make scant reference to this one. The only evidence printed is that printed by appellant in case No. 6129. The pleadings of this case are not printed in the briefs, although the record is brought here under the alternative method of appeal provided by Code of Civil Procedure, section 953a. The briefs in referring to this case call it an action in ejectment. The clerk’s typewritten transcript shows that the complaint in the first cause of action alleges that on July 27, 1922, while plaintiffs were in peaceable possession of the north one-half of lot 105 and all of lot 106, Shoreline Villa Tract on Branner Avenue, “the defendants, by means of fraudulent pretenses, deceit and misrepresentation herein after mentioned and by force also, entered the premises and that they have ever since unlawfully and forcibly against the will and consent of these plaintiffs held and kept possession . . . ” Then follow allegations of fraudulent representations inducing plaintiff Hedden to make the agreement of exchange. This agreement and these alleged fraudulent representations are the same as were pleaded in the specific performance case. The complaint alleges service of notice to surrender and quit possession and prays for restitution of the premises, damages, and costs.
+No evidence is indicated or printed to show that the defendants did not obtain possession peaceably. The theory of the first cause of action seems to be that the alleged fraudulent representations constituted the alleged force in gaining possession of the property. The court found that the agreement of exchange was not procured by fraud and that defendants obtained possession peaceably. The finding against fraud, as we point out in case No. 6131, Hedden v. Waldeck, post, p. 497 [265 Pac. 345], must be sustained.
+So far as the judgment in this case determines only the issues of the first cause of action of the complaint it merely determines that .defendants w'ere not guilty of forcible entry or detainer. This much of the judgment is not in conflict with our conclusions in case No. 6129, supra, because it does not determine the right of possession or title. (12 Cal. Jur. 597, sec. 4, Forcible Entry and Detainer.) Neither would this part of the judgment mean that the plaintiff herein, Ida Ella Hedden, might not hereafter assert such right of title or possession as she may have in the property 'by reason of its community character or by reason of the agreement of exchange not having been signed by her, or by reason of the exchange agreement not being subject to specific performance.
+The second cause of action in the complaint, however, alleges: 1. Plaintiffs’ peaceable possession. 2. Defendants’ alleged unlawful entry against the will and consent of plaintiffs. 3. Plaintiffs’ written demand on defendants for possession; the defendants’ refusal for more than five days to surrender possession. 4. That on August 28, 1922 (more than five days after the demand), plaintiffs were and still are entitled to the possession of the premises. This cause of action does not allege force nor other essential requirements of subdivisions 1 and 2 of the Code of Civil Procedure, section 1159 and section 1160.
+The court included in its decision the finding that at no time since defendants took possession were the plaintiffs entitled to the possession of the premises. The judgment declared that plaintiffs were not entitled to any judgment against defendants whatever.
+This part of the judgment is erroneous. Although the defendants are held to have taken peaceable possession under an executory contract of exchange of lands which is held not subject to rescission for fraud, nevertheless that contract is not capable of specific performance and the plaintiff Hedden, who agreed to convey this particular parcel of land, is unable to convey title thereto.
+Waldeck of course cannot remain in possession of the land and retain the consideration for it just because the vendor is unable to convey the title. (Garvey v. Lashells, 151 Cal. 526, 531 [91 Pac. 498].) The contract not being capable of specific performance is for that reason not a defense to. an action to quiet title brought by the owner. (Jolliffe v. Steele, 9 Cal. App. 212 [98 Pac. 544]; Valentine v. Streeton, 9 Cal. App. 641 [99 Pac. 1107]; Crane v. Roach, 29 Cal. App. 584 [156 Pac. 375]; Archer v. Miller, 73 Cal. App. 678 [239 Pac. 92].)
+The right of possession is a part of the title and the same rule applies to ejectment as well as to quiet title. (Bruck v. Tucker, 42 Cal. 346; Flint v. Conner, 53 Cal. App. 279 [200 Pac. 37]; Blum v. Robertson, 24 Cal. 127; Wallace v. Maples, 79 Cal. 433, 436 [21 Pac. 860].)
+It is therefore ordered that the judgment appealed from is affirmed in so far as it relates to the issues of forcible entry and detainer, but in so far as it determines that defendants and not plaintiffs are entitled to the possession of the premises it is reversed, each party to this appeal to pay his own costs.
+Sturtevant, J., and Nourse, J., concurred.
+A petition by respondents to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on April 26, 1928.
+All the Justices present concurred.
