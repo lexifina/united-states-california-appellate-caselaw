@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1777"
+decided: "1929-02-23"
+citations: ["97 Cal. App. 163"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of WILLIAM M. AYDELOTTE for a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/cal-app/97/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2118640
+cites_cases: ["235 Pac. 60", "71 Cal. App. 357"]
+---
+
+# In re Aydelotte
+
+## Majority (CONREY, P. J.)
+
+CONREY, P. J.
+On petition of Aydelotte the writ was issued. Return was made on behalf of the sheriff and a traverse was filed by the petitioner. On these papers, and some evidence produced at the hearing, the matter has been submitted.
+By indictment duly found and presented in the superior court of Los Angeles County the petitioner stands accused-of the crime of grand theft. After indictment the defendant was admitted to bail in the sum of $2,500; he -gave bond in that amount and was released from custody. He entered a plea of not guilty and the case was placed on the calendar, to be tried on the seventeenth day of January, 1929, at 10 o’clock A. M. When the case was called for trial, the defendant not being present, his attorney represented to the court that the defendant was confined to his bed by a serious illness. The court continued the-case until 2 o’clock of that day. Thereupon a physician who had been in' attendance upon the defendant and who had examined defendant late the night before testified- that defendant’s condition was such that, according' to the physician’s belief, it would result in defendant’s death if defendant were brought into court. Thereupon the case was continued to January 18, 1929, at 10. o’clock A. M., and a bench warrant was issued for the arrest of the defendant. When the case was again called on January 18th it appeared that a .deputy sheriff, to whom the bench warrant had been delivered, had visited the defendant, but owing to defendant’s apparent illness, had not taken him into custody, and the deputy sheriff so reported to the court. The uncontradicted evidence before the court was as above stated. Thereupon' the court continued the case for trial to February 25, 1929, In connection therewith, however, and upon arrest of the defendant under the bench warrant, the court (without any request of defendant or his sureties) exonerated the sureties on the $2,500 undertaking of bail and ordered that defendant remain in custody and that he be released only upon exetiution of a new undertaking of bail in the sum of $10,000.
+With the exception of certain capital cases, the defendant in a criminal action may be admitted to bail before conviction, as a matter of right. (Pen. Code, sec. 1271.) If he has been admitted to bail by a magistrate before indictment, the court to which the indictment is returned may enlarge the amount of bail. (Pen. Code, sec. 1273, subd. 3.) “When a defendant who has given bail appears for trial, the court may, in its discretion,. at any time after his appearance for trial, order him to be committed to the custody of the proper officer of the county, to abide the judgment or further order of the court, and he must be committed and held in custody accordingly.” (Pen. Code, sec. 1129.) Admission to bail after conviction in a felony case punishable by imprisonment is a matter of discretion with the court. (Frankfort v. Superior Court, 71 Cal. App. 357 [235 Pac. 60].)
+“After a defendant has been admitted to bail upon an indictment or information, the court in which the charge is pending may, upon good cause shown, either increase or decrease the amount of bail. If the amount be increased, the court may order the defendant to be committed to actual custody, unless he give bail in such increased amount. . . . ” (Pen. Code, sec. 1289.)
+It is conceded that the defendant in this case had regularly given bail in the sum of $2,500 in accordance with an order of the superior court. He was not present in court when his case was called for trial, but the evidence showed, without impeachment or conflict, that his absence was justified by the fact of serious illness. Nothing appeared, to show that the defendant had threatened or intended or in any way indicated that he would become a fugitive from justice. There were no facts in the record with relation to the charge against the defendant which had not been in the record when the $2,500 bond was ordered by the court and given by the defendant with the court’s approval. From these facts, in connection with the fact that the trial was postponed, it follows that the action of the court in requiring the defendant to give bail in a larger sum was arbitrary and was not within its power as defined by section 1289 of the Penal Code.
+It appears that the said criminal action is set down to be tried only two days from the present time. The fact that the application for this writ was not promptly made, and that counsel desired to brief the case, prevented us from submitting the matter until the present week. Unless the trial shall be continued again, this decision will be of very little practical advantage to the defendant, since at all events he may be committed to custody at the commencement of the trial. Nevertheless, it is our duty to decide the matter.
+It is ordered that upon giving a new undertaking of bail in the sum of $2,500, to be approved by a judge of the superior court, at any time before trial of the action in the court below, the petitioner be released from custody. This order is made without prejudice to the right of the superior court at any time upon proper notice and good cause shown either to increase or reduce the amount of bail required to be given by the defendant in said action.
+Houser, J., concurred.
+York, J., dissented.
