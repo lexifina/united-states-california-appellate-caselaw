@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1648"
+decided: "1917-07-13"
+citations: ["34 Cal. App. 314"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESTHER AHEARN, Plaintiff and Respondent, v. JACK LANE and WILLIAM BOITANA, Defendants; JACK LANE, Appellant."]
+source_url: "https://static.case.law/cal-app/34/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2029395
+---
+
+# Ahearn v. Lane
+
+## Majority (BURNETT, J.)
+
+BURNETT, J.
+This is an appeal by Jack Lane from a judgment of the superior court in and for the county of Humboldt against the two defendants, for $150.
+William Boitana, representing himself to be the agent of defendant, Jack Lane, induced plaintiff to rent a lodging-house belonging to said Lane, and purchase the furniture therein. To this end plaintiff paid said Boitana $60 rental and $150 toward the furniture, receiving receipts therefor signed by Boitana. Thereafter plaintiff was refused possession of the premises, and she brings this action for the recovery of the sum of $210 paid by her to Boitana and for $375 damages due to loss of rental profits.
+In his brief appellant declares, “the only material question at issue is as to whether or not the defendant and appellant Jack Lane rented the property to the respondent or to the defendant William Boitana, and was the defendant William Boitana the agent of appellant Jack Lane.” It may be said that the complaint of the plaintiff is based upon the theory that he was such agent and that plaintiff’s dealing was directly with said William Boitana. It is earnestly claimed by appellant that there is no proof of such agency. Plaintiff, however, testified that before entering into the contract with Boitana she telephoned to said Lane and he informed her that “he was acting through Mr. Boitana.” It is true that other portions of the plaintiff’s testimony are rather inconsistent with this declaration and that the showing of the appellant to the contrary is quite strong and persuasive, but these were considerations for the trial court, and we cannot say that the conclusion of the trial judge was entirely unsupported. He had the legal right to accept at its full value the said statement of plaintiff and to act upon it, and it is not within our province to dispute the correctness of his conclusion.
+As to the other proposition contended for by appellant that the property was not rented to plaintiff, the testimony of plaintiff is positive and unequivocal that she had such agreement with William Boitana and in pursuance thereof paid him said sum of money, and, as before suggested, this was supplemented by the testimony as to agency based upon said conversation with appellant.
+Another point is made by the appellant for the first time in his closing brief to the effect that the complaint fails to state a cause of action against said Jack Lane. It must be said that the complaint is inartificially drawn, and it is quite defective in the respect suggested. There is no direct allegation that Boitana was the agent of Lane nor that he was authorized to represent the latter in the transaction relied upon. The direct allegation is that “the said William Boitana represented to said plaintiff that he was the agent of the owner of said furniture in said lodging and rooming-house at said number 236 Second Street in said city of Eureka, said county of Humboldt,” etc. An allegation that he represented himself to be the agent is, of course, not an allegation of the fact of agency. However, it is further alleged “that it was then and there orally agreed to by and between said plaintiff and the said defendant, gaid William Boitana, that the purchase price of said furniture should be the sum of three hundred and fifty ($350) dollars, one hundred and fifty dollars to be then and there paid by said plaintiff to said defendant William Boitana as the agent for said defendant said Jack Lane,” etc. We think it thus appears that an attempt was made to allege that the defendant Boitana was the agent of Lane in the transaction. It, of course, falls short of the direct and explicit averment that should be found in a pleading of this character, but we think it may be regarded as an instance of an imperfect allegation of a material element rather than an utter failure to make an essential averment of a cause of action.
+In this connection it may be said that no demurrer was filed to the complaint, that no objection was made to the introduction of evidence on the ground that the complaint failed to state a cause of action against the appellant; furthermore, that the action seems to have been tried upon the theory that the complaint was sufficient in the respect indicated, and that no attention was called to this defect until the closing brief of appellant was presented in this court.
+While, of course, advantage may be taken at any time o f the entire absence of a material averment in a complaint, yet it is well settled that the privilege of challenging a defective allegation may be waived and the complaining party be thereafter deprived of the right to urge such imperfection as a ground of reversal. The infirmity herein suggested could have been easily remedied, and appellant should have called attention to it. Manifestly, plaintiff was quite careless in drafting her complaint, but this did not justify appellant in remaining silent until the last word was about to be spoken in the appellate court and then with no opportunity for respondent to reply, demanding a reversal for a defect that in no wise operated to his prejudice.
+We think under the circumstances that the complaint should not be held so radically defective as to demand a retrial of the cause.
+The judgment is therefore affirmed.
+•Chipman, P. J., and Hart, J., concurred.
