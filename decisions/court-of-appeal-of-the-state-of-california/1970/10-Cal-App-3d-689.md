@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 16644"
+decided: "1970-08-21"
+citations: ["10 Cal. App. 3d 689"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. OLIVER MASSENGALE, JR., et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-3d/10/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4402001
+cites_cases: ["104 P.2d 639", "116 Cal.App. 412", "135 Cal.App. 562", "142 Cal.App.2d 484", "15 Cal.2d 706", "173 P.2d 392", "2 P.2d 843", "227 Cal.App.2d 749", "261 Cal.App.2d 758", "27 P.2d 670", "298 P.2d 656", "35 Cal.Rptr. 77", "357 P.2d 839", "386 P.2d 677", "39 Cal.Rptr. 11", "395 U.S. 711", "398 U.S. 319", "412 P.2d 806", "422 P.2d 998", "50 Cal.Rptr. 462", "55 Cal.2d 11", "56 Cal.Rptr. 110", "60 Cal.2d 482", "64 Cal.2d 412", "65 Cal.2d 650", "68 Cal.Rptr. 415", "76 Cal.App.2d 515", "9 Cal.Rptr. 607"]
+---
+
+# People v. Massengale
+
+## Majority (JEFFERSON, J.)
+
+Opinion
+JEFFERSON, J.
+Oliver Massengale, Jr., and Charles Arthur Massengale appeal from the judgments following their convictions on separate charges as follows: Count I extortion of Myra Teed (Pen. Code, § 518), count II attempted extortion of Olive Fetherolf (Pen. Code, § 524), and count III obtaining a signature by extortionate means from Olive Fetherolf (Pen. Code, § 522).
+The defendants pleaded not guilty, waived jury trial and submitted the matter on the transcript of the preliminary hearing. Motions for new trial were denied and the court sentenced appellants to one year in the county jail on counts I and II and 180 days on count III, all sentences to run concurrently. He then granted probation to each defendant (a period of two years for Charles and three years for Oliver) upon conditions, inter alia, that each spend the first 90 days in the county jail.
+Defendants first contend that the evidence against each is insufficient as to each respective count to sustain the conviction of either.
+The defendants Massengale forcibly entered upon the property surrounding certain single family dwellings and, over the objection of the elderly female occupants, trimmed trees and shrubbery, thereafter extracting high prices for their unsolicited services. The precise facts of the case are set forth at length in a prior published opinion of this court wherein the preliminary hearing proceedings were reviewed and the evidence deemed sufficient to bind the defendants over for trial. The matter having been submitted for trial on the preliminary transcript without additional evidence, we hereby adopt the statement of facts as heretofore published. (People v. Massengale (1968) 261 Cal.App.2d 758, 759-762 [68 Cal.Rptr. 415].) The evidence obviously sustains the convictions of the defendants Massengale.
+Defendants contend that neither can properly be convicted of violating both section 524 (count II, attempted extortion from Mrs. Fetherolf) and section 522 (count III, extortion of signature from the same victim). The elements of the two offenses are distinct, and neither is necessarily included within the other. Attempted extortion, under section 524, requires an intent to obtain property or an official act (see Pen. Code, § 518 defining extortion and People v. Snyder (1940) 15 Cal.2d 706, 708 [104 P.2d 639], holding intent is an element of attempt). Extortion of a signature, as defined in section 522, is complete when a signature is obtained to an instrument which, if freely given, would have transferred property, without the necessity of proof that the defendant intended to use the instrument for that purpose.
+In the case at bench, although the defendants were properly convicted of violating both statutes, they may be punished for only one because the two crimes involved a single act and a single intent. (Pen. Code, § 654; Neal v. State of California, 55 Cal.2d 11 [9 Cal.Rptr. 607, 357 P.2d 839].)
+Had the trial court pronounced a proper sentence on count III, the remedy on appeal would be to vacate the sentence on count II and affirm the judgment in other respects (In re Wright, 65 Cal.2d 650 [56 Cal.Rptr. 110, 422 P.2d 998]). We cannot do that in this case because the sentences pronounced both under count I and under count III are unauthorized by law.
+Under count I, a violation of Penal Code section 518, the only sentence authorized by the Penal Code is imprisonment in the state prison for not less than one nor more than 10 years. (Pen. Code, § 520.) Thus the sentence of one year in the county jail, as given by the trial court, is improper.
+Under count III, for extorting a signature, section 522 prescribes the same punishment as if the money had been delivered, i.e., the punishment provided in section 520. The county jail sentence for this count also is unauthorized.
+When a court pronounces a sentence which is unauthorized by the Penal Code, that sentence must be vacated and a proper sentence imposed whenever the mistake is appropriately brought to the attention of the court. (See In re Sandel, 64 Cal.2d 412 [50 Cal.Rptr. 462, 412 P.2d 806] (illegal concurrent sentence for escape corrected to run consecutively); In re Robinson, 142 Cal.App.2d 484, 486 [298 P.2d 656] (jail sentence for forcible rape vacated and prison sentence substituted).) If a trial court refuses to correct an illegal sentence, the People may obtain relief in the appellate court by writ of mandate. (People v. Superior Court, 135 Cal.App. 562 [27 P.2d 670]; People v. Superior Court, 116 Cal.App. 412 [2 P.2d 843].) When the mistake is discovered while the defendant’s appeal is pending, the appellate court should affirm the conviction and remand the case for a proper sentence. (People v. Phillips, 76 Cal.App.2d 515, 525 [173 P.2d 392].)
+It should be noted that such a correction of the judgment is not a penalty imposed upon appellants because of their appeals. The rationale of People v. Henderson, 60 Cal.2d 482 [35 Cal.Rptr. 77, 386 P.2d 677], forbidding increased punishment after a reversal and second trial, does not apply. The correction in the judgments here would be required whenever the mistake was discovered, regardless of whether or not defendants had appealed.
+We are mindful that the trial court suspended execution of its sentences and granted probation to both defendants. Nothing we say here is intended to influence adversely the trial court’s consideration of defendants’ application for probation when they are again arraigned for judgment. The fact that defendants exercised their rights to challenge their convictions on appeal must play no part in the disposition made of their cases after remand. (Moon v. Maryland, 398 U.S. 319 [26 L.Ed.2d 262, 90 S.Ct. 1730]; North Carolina v. Pearce, 395 U.S. 711 [23 L.Ed.2d 656, 89 S.Ct. 2072],)
+If on remand the court sentences on count II it should suspend execution, in accordance with People v. Niles, 227 Cal.App.2d 749 [39 Cal.Rptr. 11], approved, In re Wright, 65 Cal.2d 650, 655, fn. 4 [56 Cal.Rptr. 110, 422 P.2d 998].
+The convictions are affirmed and the cases are remanded to the superior court for the pronouncement of sentences according to law.
+Files, P. J., and Dunn, J., concurred.
