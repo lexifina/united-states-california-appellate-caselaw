@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13271"
+decided: "1942-02-03"
+citations: ["49 Cal. App. 2d 497"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEONA CLARK, Appellant, v. EMANUEL ABRAMS et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/49/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4570636
+cites_cases: ["111 Pac. (2d) 387", "195 Cal. 699", "235 Pac. 45", "43 Cal. App. (2d) 706"]
+---
+
+# Clark v. Abrams
+
+## Majority (STEPHENS (Jess E.), J. pro tem.)
+
+STEPHENS (Jess E.), J. pro tem.
+Appeal was taken herein from a judgment in favor of defendants.
+Plaintiff was the daughter of Mabel Pearl Abrams, who was deceased at the time of bringing the action, and defendant Prank Rouse was administrator of her estate, being sued in his representative capacity only; defendant Emanuel Abrams was the surviving husband of said decedent. Plaintiff was the daughter of decedent by a prior marriage.
+It is alleged that some six or seven months prior to her death decedent executed a deed conveying certain real property to defendant Abrams and herself as joint tenants; that at the time of the execution of said deed “the said Mabel Pearl Abrams was mentally incompetent to sign or execute said instrument, by reason of the fact that she was then, and had been for many months prior thereto, in an intoxicated, inebriated and debilitated state and condition, by reason of her continual consumption of excessive amounts of alcoholic liquors, and that the said defendant Emanuel Abrams knew of her condition at said times and procured her to sign or execute said conveyance while she was in such state of intoxication, inebriety and mental incompetency; and that by reason of said intoxication, inebriety and mental incompetency the said Mabel Pearl Abrams could not and did not know or understand that she had signed or executed said deed”; that by reason of the said “purported joint tenancy deed” defendant Abrams claims title to said real property, is in possession thereof and refused to turn over said real property or the rents collected therefrom to defendant Rouse, as administrator ; that said Rouse, as administrator, has refused to bring any action on behalf of the estate or to join plaintiff therein, and has demanded that he be made a party defendant herein; and that for these reasons he is made a defendant in his representative capacity as administrator. A second cause of action is set forth, attacking a claimed gift of personal property upon exactly the same grounds.
+In her specifications of error appellant sets forth nine findings of fact and nine conclusions of law, but makes no contention that the findings are not supported by substantial evidence. Portions of the testimony are quoted and authorities cited in support of the apparent contention that the trial court did not give sufficient weight to the evidence presented by her, or required too high a degree of proof on her part. It is of course a thoroughly established rule in this state that where, upon a question of fact, the testimony in the court below involves a substantial conflict, the action of the trial court will not be disturbed. (Bright v. Zabler, 43 Cal. App. (2d) 706 [111 Pac. (2d) 387]; 10 Cal. Jur. 1172, and cases there cited.)
+The burden was upon appellant to establish by a preponderance of the evidence that “said Mabel Pearl Abrams was mentally incompetent to sign or execute said instrument” at the time of signing it. There was no direct evidence that upon that day she was intoxicated or that she had even taken one drink. The only testimony of anyone who had seen her on that day was that of the notary public, a disinterested witness, who testified that she was not intoxicated, that she was perfectly normal and that he did not observe any smell of liquor on her breath, and defendant Abrams, who corroborated this testimony. No evidence was presented which could support a finding that defendant Abrams procured deceased to sign the deed while intoxicated.
+The case was tried solely on the theory that deceased had mentally deteriorated to the point where she was incapable of knowing what she was doing. Appellant relies upon the testimony of several witnesses who testified to habitual and excessive drinking by decedent over a period of many months, both prior to the signing and subsequently, and up to the date of her death, resulting in her general mental deterioration. Two physicians who had treated her at various times testified to the effect upon her of the excessive use of liquor when they had seen her (though not at or immediately near the date of signing); but upon cross-examination one of them said: “I can’t go so far as to say she was mentally completely deranged, no. She was able to answer questions. She was able to respond to various things, but her whole mental attitude was uncooperative and appeared in an intoxicated state.” The other physician, in answer to a request for his opinion as to how far her mind was normal, said: “Well, her mind was very keen. It was surprising to me . . . The mental condition, however, at least at the time that I spoke to her, was very clear.” Again, in answer to the question, “In your opinion was she at that time sane or insane?” he replied: “Absolutely sane.” This was about two months after the signing.
+At least two witnesses (in addition to defendant Abrams) were produced by defendants who testified strongly that decedent's mind was normal and even unusually keen in business matters. It must be borne in mind that the presumption is always that a person is sane. (Estate of Perkins, 195 Cal. 699 [235 Pac. 45], and cases there cited.)
+It therefore clearly appears that there was a substantial conflict in the evidence, and consequently the action of the trial court will not be disturbed.
+The judgment is affirmed.
+Wood (W. J.), Acting P. J., and McComb, J., concurred.
