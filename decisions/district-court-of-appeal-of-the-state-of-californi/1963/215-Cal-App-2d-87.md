@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 26699"
+decided: "1963-04-12"
+citations: ["215 Cal. App. 2d 87"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUIS L. LAUFMAN, Respondent, v. HALL-MACK COMPANY, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/215/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110797
+cites_cases: ["100 Cal.App. 572", "119 Cal.App.2d 21", "14 Cal.Rptr. 297", "161 Cal.App.2d 522", "172 A.L.R. 225", "223 U.S. 1", "238 U.S. 507", "258 P.2d 1077", "280 P. 697", "327 P.2d 18", "330 U.S. 386", "353 U.S. 550", "363 P.2d 313", "363 U.S. 564", "363 U.S. 574", "363 U.S. 593", "56 Cal.2d 169"]
+---
+
+# Laufman v. Hall-Mack Co.
+
+## Majority (KINGSLEY, J.)
+
+KINGSLEY, J.
+This is an appeal from an order of the superior court, made pursuant to section 1281.2 of the Code of Civil Procedure, granting a request of a labor union for arbitration of a dispute concerning the discharge of two employees. Contending that the matter thus submitted to arbitration was not arbitrable under the collective bargaining agreement between the parties, the employer has appealed.
+Under California procedure an order directing arbitration, not being one of those orders listed in section 1294 of the Code of Civil Procedure, is not appealable. (Falloon v. Caledonian Ins. Co. (1958) 161 Cal.App.2d 522 [327 P.2d 18]; Corbett v. Petroleum Maintenance Co. (1953) 119 Cal.App.2d 21 [258 P.2d 1077]; Jardine-Matheson Co., Ltd. v. Pacific Orient Co. (1929) 100 Cal.App. 572 [280 P. 697].) While these cases were decided under section 1293 of the code prior to the 1961 revision of the arbitration law, they apply equally to section 1294 which, in the revision, replaced the older section. As the court said in the Jar dine case, at pages 575-576:
+“. . . the fact that the legislature saw fit to specify in one code section the different orders and judgment from which appeals may be taken clearly indicates, in our opinion, an intention to restrict the appeals in such proceeding to the orders and judgment therein specified; and the obvious reason for not including among such appealable orders the one which directs the parties to proceed with the arbitration was that if at the very threshold of the proceeding the defaulting party could appeal and thereby indefinitely delay the matter of arbitration, the object of the law and the purpose of the written agreement of the parties would be entirely defeated. ’ ’
+However, appellant argues that the appealability of the order is to be determined by section 301 of the National Labor Relations Act and not by section 1294 of the Code of Civil Procedure. Both sides concede that the employer is in interstate commerce and that the merits of the ultimate issue are to be decided according to substantive rights based on section 301; and it is settled that, had the order to arbitrate been made by a federal court in a proceeding brought directly under section 301, the order would have been appealable. (Goodall-Sanford, Inc. v. United Textile Workers (1957) 353 U.S. 550 [77 S.Ct. 920, 1 L.Ed.2d 1031].)
+In enforcing a federally created right, the state court must follow federal law. (Testa v. Katt (1947) 330 U.S. 386 [67 S.Ct. 810, 91 L.Ed. 967, 172 A.L.R. 225] ; Mondou v. New York, N.H. & H.R. Co. (1911) 223 U.S. 1 [32 S.Ct. 169, 56 L.Ed. 327].) But, in enforcing such a federal right, the state court may follow its own rules of procedures, unless those rules so subvert the federal right as to make it meaningless. (Central Vermont R.R. Co. v. White (1915) 238 U.S. 507 [35 S.Ct. 865, 59 L.Ed. 1433].)
+The rule of federal law, as set forth in the landmark eases of United Steelworkers v. American Mfg. Co. (1960) 363 U.S. 564 [80 S.Ct. 1343, 4 L.Ed.2d 1403]; United Steelworkers v. Enterprise Wheel & Car Corp. (1960) 363 U.S. 593 [80 S.Ct. 1358, 4 L.Ed.2d 1424]; United Steelworkers v. Warrior & Gulf Nav. Co. (1960) 363 U.S. 574 [80 S.Ct. 1347, 4 L.Ed.2d 1409], is to encourage, rather than to discourage, the use of arbitration processes in matters relating to labor-management relations. We think that the policy underlying our state procedure, as set forth in the quotation from the Jardine case, supra (100 Cal.App. 572, 574) carries out this mandate, and is even more encouraging of the use of arbitration than is the federal procedure. In Posner v. Grunwald-Marx, Inc. (1961) 56 Cal.2d 169, 184 [14 Cal.Rptr. 297, 363 P.2d 313], the Supreme Court adopted the federal rule, to the effect that 1 ‘... all disputes as to the meaning, interpretation and application of any clause of the collective bargaining agreement, even those that prima facie appear to be without merit, are the subject of arbitration. ...”
+Requiring appellant to submit to arbitration at this time will not substantially affect its rights. In the arbitration proceeding, appellant may prevail on the issue that its right to discharge an employee is not an arbitrable issue within the terms of the collective bargaining agreement; or, if the issue is found to be arbitrable, appellant may prevail on the ground that sufficient cause existed to discharge these employees. On the other hand, if appellant loses in arbitration it then has a statutory right of appeal under section 1294 of the Code of Civil Procedure.
+In addition, if the normal process contemplated by the California arbitration statute can be shown to be excessively time consuming or excessively expensive, appellant may invoke the processes of this court, in advance of an arbitration hearing, by application for a writ of prohibition or of mandate. While the issuance of such writs is not a matter of right, as is appeal, still they afford a remedy as consistent with protection of the federal right as does the federal procedure.
+For the foregoing reasons, the appeal must be dismissed. Nothing said herein, of course, is intended to determine whether or not the policy of federal law, which both parties accept, does or does not compel arbitration, under this particular collective bargaining agreement, of these particular discharges; that issue must await the events to follow.
+The appeal is dismissed; each party to bear its own costs in this court. (Cal. Rules of Court, rule 26.)
+Burke, P. J., and Jefferson, J., concurred.
+Formerly Rules on Appeal, rule 26.
