@@ -1,0 +1,41 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 12762"
+decided: "1973-10-17"
+citations: ["34 Cal. App. 3d 685"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RYERSON CONCRETE COMPANY et al., Petitioners, v. WORKMEN’S COMPENSATION APPEALS BOARD and MANUEL G. PENA, Respondents."]
+source_url: "https://static.case.law/cal-app-3d/34/cases/0685-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4453270
+cites_cases: ["10 Cal.App.3d 1027", "100 Cal.Rptr. 149", "166 P.2d 310", "180 P.2d 972", "20 Cal.Rptr. 321", "369 P.2d 937", "477 P.2d 175", "493 P.2d 877", "57 Cal.2d 450", "6 Cal.3d 687", "73 Cal.App.2d 248", "78 Wn.2d 537", "79 Cal.App.2d 711", "89 Cal.Rptr. 356"]
+---
+
+# Ryerson Concrete Co. v. Workmen's Compensation Appeals Board
+
+## Majority (BROWN (Gerald), P. J.)
+
+Opinion
+BROWN (Gerald), P. J.
+The Workmen’s Compensation Appeals Board denied Ryerson Concrete Company’s and its insurer, Reliance Insurance Company’s petition to reopen in Manuel G. Pena v. Ryerson Concrete Company and Reliance Insurance Company. Petitioners seek review of that order, after the board denied reconsideration.
+The board ignored stare decisis and erred in failing to reopen the case. Its order should be annulled.
+The board first awarded Pena temporary disability indemnity benefits of $44.46 per week on October 2, 1969. The board granted Pena a 10 percent increase on December 3, 1969, based on unreasonable delay by petitioners in paying compensation (Lab. Code, § 5814). A second 10 percent penalty for unreasonable delay was assessed March 27, 1970. These two penalties increased the benefit by $8.89 per week making petitioners liable for temporary disability payments to Pena totalling $53.35 per week.
+On October 1, 1970, the board awarded Pena permanent disability of $53.35 per week, admittedly incorporating in the permanent disability award the 20 percent penalty assessed for delay in paying temporary disability benefits.
+On February 23, 1972, the California Supreme Court filed its opinion in Garcia v. Workmen’s Comp. Appeals Bd., 6 Cal.3d 687 [100 Cal.Rptr. 149, 493 P.2d 877].
+On March 14, 1973, relying on Garcia, petitioners asked the board to reopen the case. On May 14, 1973, the board denied the petition, and later denied reconsideration.
+Garcia v. Workmen’s Comp. Appeals Bd., supra, 6 Cal.3d 687 held the award of a penalty for delay in paying one kind of disability benefit could only be applied to payments of that specific type of disability benefit. That is, if the delay was in paying temporary disability, the penalty could only increase temporary disability payments, not permanent disability benefits. Similarly, delay in paying permanent disability benefits might justify a penalty increasing those benefits, but not temporary disability benefits.
+The court stated: “[W]e believe the words ‘order, decision or award,’ on the full amount of which the penalty must he applied, must be construed to mean the ‘order, decision or award’ with respect to which payment of compensation has been unreasonably delayed.” (Garcia, supra, pp. 689-690.) The Supreme Court affirmed the board’s action in striking from a permanent disability award a 10 percent penalty imposed for delay in paying temporary disability benefits.
+Garcia involved an identical fact situation to this case. The board is under a duty to follow thb law as declared by the Supreme Court (Auto Equity Sales, Inc. v. Superior Court, 57 Cal.2d 450, 455 [20 Cal.Rptr. 321, 369 P.2d 937]; West v. Industrial Acc. Com., 79 Cal.App.2d 711, 719 [180 P.2d 972]).
+As a matter of law, petitioners have shown good cause to reopen (Knowles v. Workmen’s Comp. App. Bd., 10 Cal.App.3d 1027, 1030 [89 Cal.Rptr. 356]; State Comp. Ins. Fund v. Ind. Acc. Com., 73 Cal.App.2d 248 [166 P.2d 310]). “[Rectification of . . . ‘mistakes of law’has uniformly been upheld by the appellate courts as good cause for reopening earlier cases . . . .” (1 Hanna, Cal. Law of Employee Injuries and Workmen’s Compensation (2d ed. 1970) § 9.02[2][e].)
+The referee in his report to the board on petition for reconsideration stated his opinion the petition to reopen should be denied on “equitable grounds.” In opposing the petition to reopen, Pena asserted there was some delay in payment of the permanent disability payments. The board did not hold a hearing on this issue.
+It may be there was no delay, or if there was, the delay was excusable. Certainly, there has been no showing a penalty of 20 percent tacked on to the permanent disability benefits is authorized. A hearing should be held to determine if a penalty added to the permanent disability payments is warranted. If not, the penalty should be removed and future payments reduced accordingly.
+This does not necessarily mean an award eliminating the penalty should have retroactive effect so as to permit recoupment of the over-payments by drastically reducing the remaining payments due Pena from $53 to $25 a week. While it would be contrary to law (Garcia v. Workmen’s Comp. Appeals Bd., supra, 6 Cal.3d 687) and inequitable for Ryerson to continue to pay the penalty in the future, it would also be inequitable to Pena to so sharply lower his weekly benefit if recoupment were allowed. He has received this sum in good faith and with no wrongdoing on his part. The board need only reduce the future weekly payments by the amount of the erroneously added penalty, $8.89.
+A similar factual situation arose in Deal v. Department of Labor and Industries, 78 Wn.2d 537 [477 P.2d 175]. On a widow’s claim for death benefits for herself and her children, following her husband’s death in an industrial accident, the department denied her a widow’s pension on grounds she and Robert Deal, the decedent, were never legally married. Robert Deal’s two minor children were deemed “orphans” and $140 monthly was paid for them. The widow petitioned the superior court, which ruled she and Robert Deal had been legally married. The children, however, were no longer “orphans” and were entitled to receive only $68 per month. The department sued to recover the amount overpaid. The Washington Supreme Court held recoupment was improper under the circumstances. The court stated, although superficially it would appear correct to allow recovery of funds paid without ultimate legal justification, “[V]ery real practicalities are presented in cases of this nature. If the industrial insurance recipient must live in the fear that he may be required to repay, at some indeterminate date, that money which he has already in good faith accepted, a fundamental purpose of the act—to provide ‘sure and certain relief for workmen, * * * their families and dependents’—would be emasculated.” (Deal v. Department of Labor and Industries, supra, 477 P.2d 175 at p. 177.) The court also noted the amount the family received was a “bare subsistence,” already spent on necessities. “To allow recoupment . . . [would cause a reduction in benefit which] would at the least be painful, and at worst would be totally disruptive of the family’s capacity to maintain itself on a reasonable subsistence basis.” (Ibid.)
+We agree with the Washington Supreme Court. The reasoning of the court applies fully to this case.
+Finally, we note Ryerson Concrete Company waited more than a year after the Garcia case was filed before petitioning to reopen. Its lack of diligence in allowing these payments to continue should not prejudice the workman.
+The order denying the petition to reopen is annulled and the matter is remanded to the board for further proceedings consistent with this opinion.
+Ault, J., and Cologne, J., concurred.
+A petition for a rehearing was denied October 29, 1973, and the opinion was modified to read as printed above. Petitioner’s application for a hearing by the Supreme Court was denied December 14, 1973.
+section 5814 of the Labor Code provides in part: “When payment of compensation has been unreasonably delayed or refused, either prior to or subsequent to the issuance of an award, the full amount of the order, decision or award shall be increased by 10 percent.”
