@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 13285"
+decided: "1941-10-24"
+citations: ["47 Cal. App. 2d 464"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of ROBERT NEEL BURNETT, Deceased. SYLVESTER HOFFMANN, as Executor, etc., Petitioner and Appellant; MRS. L. M. HAND et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/47/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038365
+cites_cases: ["103 Pac. (2d) 241", "107 Cal. App. 557", "15 Cal. App. (2d) 348", "15 Cal. App. (2d) 599", "166 Pac. 11", "175 Cal. 454", "183 Cal. 121", "190 Pac. 625", "2 Cal. App. (2d) 579", "290 Pac. 640", "3 A. L. R. 1396", "38 Pac. (2d) 853", "39 Cal. App. (2d) 355", "4 Cal. App. (2d) 486", "40 Pac. (2d) 864", "43 Pac. (2d) 820", "5 Cal. App. (2d) 632", "59 Pac. (2d) 462", "59 Pac. (2d) 876"]
+---
+
+# Estate of Burnett
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+The executor of the last will of the decedent herein appeals from a judgment and decree of the probate court ordering payment of claims against the estate and embodying certain instructions to the executor. The appeal is taken upon a bill of exceptions and is in reality only an appeal from that portion of the decree which seeks to subject the proceeds of certain insurance policies to the payment of creditors’ claims.
+The deceased was insured under three policies of life insurance, his estate being named beneficiary thereof. Just before he died, Mr. Burnett, the decedent, wrote to the head office of each of the life insurance companies concerned asking that they change the beneficiary in each policy from his estate to Mrs. C. G. Macaulay and Mrs. L. M. Hand, in equal shares; but Mr. Burnett died after the letters were mailed and before they were received by the insurance companies, and the insurance companies refused to make payment to either Mrs. Macaulay or Mrs. Hand, as beneficiaries, on the ground that the requested change of beneficiary had reached the companies after the death of the insured. Mrs. Macaulay was decedent’s sister. Mrs. Hand was not related to decedent but was a former, divorced wife. In his will Mr. Burnett bequeathed one-half of his insurance to Mrs. Macaulay and one-half to Mrs. Hand. The proceeds of the policies were paid by the insurers to the executor, who set these funds aside through deposit in a special bank account for the purpose.
+By the decree here appealed from, the court ordered the executor to pay all claims against the estate out of all moneys in his hands belonging to the estate, irrespective of the source thereof; and the executor was specifically instructed that none of the moneys belonging to the said estate in his possession were exempt from the claims of the creditors, and that the creditors were entitled to receive payment out of the said moneys, whether received by the executor as proceeds of any life insurance policy or policies upon the life of the deceased, or otherwise.
+It is the contention of appellant that the proceeds of the life insurance policies in question are exempt from the claims of creditors of the estate, and that the court erred in so far as its decree purported to subject such proceeds to the payment of claims and to instruct the executor accordingly.
+Appellant takes the position that proceeds of life insurance payable to the estate of the insured, in the hands of the executor, are exempt from the claims of creditors. Such a position is not fully supported by the authorities in this state. (See Estate of Pillsbury, 175 Cal. 454 [166 Pac. 11, 3 A. L. R. 1396] ; Estate of Starr, 183 Cal. 121 [190 Pac. 625].) However, the pivotal question in the case at bar is whether the efforts of the insured prior to his death were effective to change the beneficiaries under the policies so as to make the proceeds of the life insurance policies payable to the beneficiaries attempted to be substituted. If so, then the insurance proceeds would be the property of the substituted beneficiaries and not that of the estate; and such proceeds would consequently be exempt from the debts of the insured. (Prudential Ins. Co. v. Beck, 39 Cal. App. (2d) 355, 360 [103 Pac. (2d) 241].) The annual premiums for the insurance in question did not exceed $500.
+It should be noted that the insurance companies are not parties to any controversy here, will not be affected by the outcome, and are in much the same position they would be in had they filed an interpleader and paid the proceeds of the insurance into court. Under the circumstances here presented and upon the facts, about which there is no dispute, the law is well settled; and Mr. Burnett’s efforts made prior to his death were effective to change the beneficiaries under the policies in question. (Johnston v. Kearns, 107 Cal. App. 557 [290 Pac. 640] ; Aetna Life Ins. Co. v. Wood, 2 Cal. App. (2d) 579 [38 Pac. (2d) 853] ; Filcher v. Cox, 4 Cal. App. (2d) 486 [40 Pac. (2d) 864] ; Beaumond v. Prudential Ins. Co., 5 Cal. App. (2d) 632 [43 Pac. (2d) 820]; Aetna Life Ins. Co. v. Hanes, 15 Cal. App. (2d) 348 [59 Pac. (2d) 462] ; Shaw v. Johnson, 15 Cal. App. (2d) 599 [59 Pac. (2d) 876].) A full discussion of the rule and the reasons therefor may be found in Johnston v. Kearns, supra.
+There is nothing in the record to indicate that the probate court did not view the proceeds in question as the property of the estate. In any event, in so far as the judgment and decree here appealed from purport to subject such proceeds to the payment of claims of creditors of the estate, the judgment is in error.
+For the foregoing reasons the judgment is reversed with directions to modify the same in accord with the views herein expressed.
+York, P. J., and White, J., concurred.
