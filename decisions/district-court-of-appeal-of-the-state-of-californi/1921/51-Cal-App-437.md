@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 743"
+decided: "1921-02-17"
+citations: ["51 Cal. App. 437"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. CHARLES DESCHENEAU, Appellant."]
+source_url: "https://static.case.law/cal-app/51/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094619
+cites_cases: ["100 Am. St. Rep. 95", "142 Cal. 8", "29 Pac. 1026", "75 Pac. 314", "94 Cal. 481"]
+---
+
+# People v. Descheneau
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+By information filed, the defendant was charged with the crime of burglary, in that he unlawfully entered a warehouse with the intent to commit larceny.
+The trial resulted in. his conviction, as charged, after which, upon a denial of his motion for a new trial, he appealed from the judgment pronounced against him.
+It appears from the evidence, in which there is little conflict, that defendant prepared a trunk arranged so that it could be unlocked and the lid opened from the inside, in which, at his room, he concealed himself, and, pursuant to an agreement made by his confederate, Earl Wilson, for the storage thereof in the vault of the Hollywood Pire Proof Storage Company, the trunk, with, defendant therein, was by Wilson transported to the warehouse of the storage company, where it was unloaded upon the receiving platform and received by the employees of the company, who placed it upon a truck and conveyed it to the door of the vault, where Mr. Leonard, the manager, assisted in putting it into the vault. Thereupon an officer who was present opened the trunk and, finding the defendant therein, took him into custody.
+Section 459 of the Penal Code defines burglary as follows: “Every person who enters any . . . warehouse, ... or any underground portion thereof, with intent to commit grand or petit larceny or any felony is guilty of burglary.” Notwithstanding defendant’s testimony to the contrary, the evidence is amply sufficient to show, as found by the jury, that the act of defendant in thus gaining entrance to the warehouse was accompanied with the intent to commit larceny by freeing himself from the trunk while it was left in the vault and, during the ni^ht following its deposit, take goods and articles from the shelves therein, and, after placing them in the trunk, return to bis hiding-place therein and await the return of Wilson, who, according to the arrangement, was to call for the trunk and contents the next morning. Indeed, we do not understand appellant to question the sufficiency of the evidence to justify such conclusion of the jury. The contention of his counsel is that, since it is made to appear that a detective had from some private source received information that defendant would be concealed in the trunk so delivered by Wilson for storage and communicated such information to the manager of the warehouse, defendant’s entry in the manner stated was with the permission and consent on the part of the owner, and, hence, having knowledge that he was concealed in the trunk and knowingly permitting him to so enter the vault, the act, whatever his intent, did not constitute burglary. In support of this contention a number of common-law authorities, together with decisions from other states, are cited. These authorities, however, have no application to the crime of burglary as defined by the section of the Penal Code above quoted. In the case of People v. Barry, 94 Cal. 481, [29 Pac. 1026], it is said that common-law burglary and statutory burglary in this state have but few elements in common, and the plain language of our statute must control as to the acts which constitute the crime. In that ease the crime, the commission of which was sustained by the court, was based upon the fact that the defendant entered a grocery-store during business hours and attempted to commit larceny therein. In People v. Brittain, 142 Cal. 8, [100 Am. St. Rep. 95, 75 Pac. 314], the defendant entered a store in the night-time, but during business hours and while the store was open to the public, and because such entry was with the intent to commit larceny the act was held to constitute the offense of burglary. The court there said: “No words are found in the statute qualifying the character, kind, time, or manner of the entry, save that such entry must be accompanied with a certain intent.” One may, during business hours when a store is open to the public, enter therein with a view to purchasing goods, and if, after he enters, he concludes to steal, such act would constitute larceny only; but if when he entered he intended to commit larceny, his act, under the statute of this state, constitutes burglary, even though the proprietor of the store, having knowledge of his purpose in entering, does nothing to prevent it.
+While, according to defendant’s testimony, he did not intend to commit larceny, but caused himself to be so transported to the vault with the intention to be found engaged in a game of solitaire when the employees of the warehouse opened the door, and thus create surprise and consternation on their part, with a view of attracting the attention of proprietors engaged in the moving picture business and thus obtain employment, the jury, as shown by their verdict, did not believe the story, but were satisfied from other sufficient evidence that his intent was to steal the property in possession of the owners of the warehouse, and to have himself, together with the stolen goods, transported therefrom the next day.
+We find no merit in the appeal.
+The judgment is affirmed.
+Conrey, P. J., and James, J., concurred.
