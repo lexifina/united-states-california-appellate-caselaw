@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6650"
+decided: "1929-06-28"
+citations: ["99 Cal. App. 660"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of ESAU A. INGRAM, Deceased. JOSEPH M. INGRAM, Appellant, v. CHARLES G. BOSTER et al., Respondents."]
+source_url: "https://static.case.law/cal-app/99/cases/0660-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127769
+cites_cases: ["128 Pac. 329", "142 Cal. 124", "154 Pac. 835", "164 Cal. 196", "169 Pac. 392", "171 Cal. 704", "172 Pac. 168", "176 Cal. 663", "191 Pac. 968", "36 Cal. App. 355", "48 Cal. App. 135", "75 Pac. 672"]
+---
+
+# Ingram v. Boster
+
+## Majority (THOMPSON (IRA F.), J.)
+
+THOMPSON (IRA F.), J.
+Esau A. Ingram died intestate in Los Angeles County on January 8, 1929, leaving surviving him a brother, who is the petitioner in this matter, a sister, Mary E. Thrasher, one of the respondents, who waived her claim to letters of administration, and nephews and nieces, who are the other contestants and respondents. On January 21, 1929, Joseph M. Ingram filed his petition for appointment as administrator of the estate of his deceased brother. On January 25, 1929, Charles G. Poster, one of the contestants filed a similar petition and in addition thereto all of the contestants filed opposition to the appointment of Joseph M. Ingram alleging as grounds therefor as follows: “That the said Joseph M. Ingram is more than seventy-five (75) years of age, and for some time past, and at the present time, is incompetent to transact business, and would be wholly incompetent to take charge of said estate, and to manage the same for the best interests of those interested in said estate.” The answer to the opposition denies that petitioner is incompetent either by reason of age or otherwise to serve as administrator and alleges that he is possessed of all his mental faculties and competent in every way to manage the business of the estate.' Upon those pleadings the cause was tried by the court, resulting in an order sustaining the opposition of the contestants, the appointment of Charles G. Poster, administrator, and the denial of the petition of Joseph M. Ingram. This appeal is prosecuted by the petitioner from all the orders thus made.
+The principal ground relied upon by appellant is that the trial court failed to make any findings upon the issues framed; that without such decision there is no adjudication to support the refusal of the court to appoint the surviving brother of the deceased to administer his estate. Sections 1716 and 1717 of the Code of Civil Procedure by reference make sections 632 and 633 of the same code applicable to the trial and determination of issues of fact in probate proceedings as in ordinary civil actions. These latter sections render it necessary for the court to make its decision in writing, i. e., to sigh findings. It has been said by this court that “the right to findings is a substantial right, as inviolate, under the statute, as that of trial by jury under the Constitution. . . . ‘The right to have a material issue presented by the pleadings in a cause determined by a finding of the court is one important to the parties to a suit, and the failure to make such a finding results in prejudicial error entitling the complaining suitor to reversal.’ (Huntington v. Vavra, 36 Cal. App. 355 [172 Pac. 168]. See, also, Tucker v. United Railroads, 171 Cal. 704 [154 Pac. 835].)” (Frascona v. Los Angeles Ry. Corp., 48 Cal. App. 135 [191 Pac. 968].)
+When the trial judge orally announced his opinion upon the subject matter of the contest he gave his reasons for making the orders appealed from, and counsel for respondents has quoted from this opinion as though it constituted the findings. With this assumption we cannot agree. “Such opinions are not part of the findings.” (Estate of Felton, 176 Cal. 663 [169 Pac. 392].) They are not properly a part of the record on appeal. (Classen v. Thomas, 164 Cal. 196 [128 Pac. 329].) And as is said in 2 California Jurisprudence, 235: “When it (the opinion) is incorporated in the transcript, it may be stricken out on motion.” We are therefore confronted with orders made depending upon an, issue of fact joined without a determination of that question, and without an adjudication by the court that the petitioner was incompetent to execute the duties of the trust as required by section 1369 of the Code of Civil Procedure, and by authority. (See Estate of Gordon, 142 Cal. 124, at p. 133 [75 Pac. 672].)
+We have assumed in the discussion so far that the allegation of the respondents was sufficient to put the competeney of petitioner in issue. It certainly lacks that degree of certainty which would commend it to the thoughtful pleader. In view of the fact, however, that it was not the subject of an attack by demurrer and the parties went to trial upon the theory that it was sufficient, the appellant can hardly be heard to urge its insufficiency on appeal.
+The appellant also assails the orders on the ground that the testimony does not support them. In view of the fact, however, that it will be necessary to try the issue of the competency of the appellant, it seems to us improper to discuss the state of the evidence other than to observe that hearsay testimony to which appellant objects was adduced on his own cross-examination.
+Orders reversed.
+Craig, J., concurred.
+Works, P. J., being absent, did not participate in this opinion.
