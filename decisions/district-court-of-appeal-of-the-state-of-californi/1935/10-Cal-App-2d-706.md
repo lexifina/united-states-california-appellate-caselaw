@@ -1,0 +1,35 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9489"
+decided: "1935-12-18"
+citations: ["10 Cal. App. 2d 706"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANDY JENSEN, Respondent, v. EUREKA CASUALTY CO. (a Corporation in Liquidation) et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/10/cases/0706-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269392
+cites_cases: ["214 Cal. 743", "261 Pac. 486", "7 Pac. (2d) 999", "85 A. L. R. 13", "86 Cal. App. 671"]
+---
+
+# Jensen v. Eureka Casualty Co.
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+One O. I. Abroms was a policyholder of appellant, the Eureka Casualty Company. In an action for damages, resulting from a collision in which Mr. Abroms was involved, a judgment was obtained against him. The plaintiff in that action then made demand of the Eureka Casualty Company for payment of the judgment, which demand was refused,- the present action followed, in which plaintiff prevailed and defendant company appeals from the judgment.
+The policy issued by appellant contained the following clause: “(16) Report of Accident, Claim and Suits, and Cooperation of Assured: Upon the occurrence of any loss or accident covered under Section 11 hereof, and irrespective of whether any injury or damage is apparent at the time, the Assured shall give immediate written notice to the company at its office in Los Angeles, California, or to the Authorized Representative who issued this policy, with the fullest information obtainable at the time. If a claim is made on account of any such accident the Assured shall give like notice thereof immediately after such claim is made, with full particulars. If thereafter any suit is brought against the Assured to enforce such claim, the Assured shall immediately forward to the Company every summons or other process as soon as the same shall have been served: Whenever requested by the Company, the Assured shall aid in effecting settlement, securing information and evidence, the attendance of witnesses and in prosecuting appeals, and at all times render all possible co-operation and assistance (not pecuniary); ...”
+The opening statement of appellants’ brief presents the question raised by this appeal as follows: “Practically none of the facts were disputed and the whole question presented is one of law upon the circumstances herein; that is, the court is here called upon to determine whether the policyholder herein complied with the conditions of the policy so as to permit the plaintiff to recover against the company and its successor on that policy or whether the failure of the assured constituted a breach of the conditions and prejudiced the rights of the company to such extent that there is no responsibility upon the part of the carrier.”
+Under the heading “argument”, the same brief contains the following declaration: “The whole question that follows, therefore, is whether the defendant here, through its agents and attorney, expended all the efforts that a reasonable, careful and prudent person would have used to locate another and if having done so they are to be held liable for the disappearance of the person on whom they were obliged to rely. Also whether the trial court was, in the face of the uncontradicted evidence given for the defendant, justified in making its finding number Y. ’ ’
+In finding No. Y, the court found that it was not true that said G-. I. Abroms failed, neglected or refused to perform the said conditions or any of them upon his part to be performed.
+Respondent filed no brief.
+The accident above referred to occurred September 13, 1929. The action for damages against Mr. Abroms was filed a few days after the accident. The answer, verified by Mr. Abroms, was filed September 28, 1929. The trial was delayed, at the request of plaintiff and with consent of defendant, until the summer of 1932, judgment being entered July 23, 1932. Upon this judgment, the present action is based.
+That the violation of the cooperation clause of such an insurance policy by the assured, where the insurer is substantially prejudiced thereby, is a valid defense, is well settled. (Hynding v. Home Accident Ins. Co., 214 Cal. 743 [7 Pac. (2d) 999, 85 A. L. R. 13].) This rule, however, must be interpreted to assume that the insurer, diligently and in good faith, has complied with the terms and conditions of the policy. (Pigg v. International Indemnity Co., 86 Cal. App. 671 [261 Pac. 486].)
+The evidence and record reveal that on the day of the accident Mr. Abroms appeared at appellant’s office and made a report of the accident; that when he was served with the complaint and summons he delivered them to appellant; that by occupation he was a traveling salesman and gave as his address the Alexandria hotel; that he responded promptly to the notice, sent to that address, to appear and verify the answer ; that the ease thereafter was set for trial and later went off calendar; that six or eight months after the action was filed when plaintiff’s attorney desired to take Mr. Abroms’ deposition, it was learned that he had gone.
+It should be noted that the evidence reveals further, that when Mr. Abroms called to verify the answer, the witness Letts, adjuster for the company, testified: “I asked him where we would be able to get in touch with him when it was necessary to go to trial in this case, and at that time he gave me an address on Fuller street, . . . but he said ‘not to be sure about that address’, because he says, ‘I am at the Alexandria more than I am at home, and you can always get me by just phoning the hotel.’ ”
+The case at bar is somewhat analogous to the case of Pigg v. International Indemnity
+Certainly, in the instant case, the evidence does not warrant the conclusion that Mr. Abroms wilfully failed to lend further cooperation. The foregoing references to the evidence and the record represent the sum total of appellants’ activities in the premises; except, that diligent effort was made to locate the traveling salesman after it was discovered that he was gone. Can the appellant escape responsibility, in the light of the record, because Mr. Abroms failed to do more?
+Appellants’ brief closes with the following paragraph: “We do not think that the law contemplates that the insurance carrier shall be responsible where the defendant takes no interest whatever in a lawsuit, or that the insurance carrier should be penalized under such circumstances where they have been definitely prejudiced by the failure of the assured to appear, as in this case.” Such argument finds scant support in the evidence; but the finding of the trial court, that it was not true that said G. I. Abroms failed, neglected or refused to perform the said conditions or any of them upon his part to be performed, is amply sustained by the evidence and under the law will not be disturbed on appeal.
+The judgment is affirmed.
+Houser, P. J., and York, J., concurred.
