@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 15812"
+decided: "1947-12-02"
+citations: ["82 Cal. App. 2d 657"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEANNETTE E. TAYLOR, Respondent, v. CLARENCE E. TAYLOR, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/82/cases/0657-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2354616
+cites_cases: ["108 Pa.Super.Ct. 108", "120 Conn. 161", "164 A. 808", "179 A. 644", "187 P. 85", "199 P. 885", "21 N.J. Eq. 36", "42 Cal.App. 618", "53 Cal.App. 17", "9 N.Y.S. 583"]
+---
+
+# Taylor v. Taylor
+
+## Majority (WHITE, J.)
+
+WHITE, J.
+This is an appeal by the husband, defendant and cross-complainant, from an interlocutory judgment of divorce granted to the wife. Plaintiff’s complaint contained three causes of action, charging respectively extreme cruelty, habitual intoxication, and adultery. The trial court found in favor of plaintiff on the charges of cruelty and adultery and against her on the charge of habitual intoxication.
+Appellant’s first assignment of error is that the court erred in admitting evidence of adultery on the part of the husband, particularly acts alleged to have occurred more than two years prior to the filing of plaintiff’s complaint. Appellant in this respect relies upon the case of Klemmer v. Klemmer, 42 Cal.App. 618 [187 P. 85], as authority for the proposition that evidence of an act of adultery is inadmissible where the alleged corespondent is known to the complaining party and such corespondent is not served with a copy of the pleadings charging such adultery, as required by section 1019 of the Code of Civil Procedure. Appellant further urges that the “court erred in awarding virtually all the community property to respondent and was influenced in so doing by the evidence objected to under Assignment of Error No. 1”; that the court improperly found certain war savings bonds in the joint names of the parties to be community property; and that the award of $150 per month for support of the wife is excessive. None of these contentions can be sustained.
+No useful purpose would be served by setting forth the evidence disclosed by the record. It is sufficient to say that there was ample evidence to support the findings of the trial court as to extreme cruelty and adultery.
+The trial court found “that on or about the 4th day of July, 1943, but more than two years prior to the institution of this action, the defendant and cross-complainant committed adultery with a person unknown to the plaintiff and that 'the defendant and cross-complainant has committed adultery with various persons during the period between the 4th day of July, 1943, and the 31st day of July, 1945, in the City and County of Los Angeles, State of California, and has lived in adulterous intercourse and committed adultery with persons unknown to the plaintiff.” This action was commenced August 23, 1945. While a divorce may not be based upon the acts which took place more than two years prior to the commencement of the action (Civ. Code, §124), evidence as to such acts of adultery was admissible to show the adulterous disposition of the defendant (19 C.J. 129; 27 C.J.S. 723, 724; Derby v. Derby, 21 N.J. Eq. 36, 60; Carpenter v. Carpenter, 9 N.Y.S. 583; Zeiner v. Zeiner, 120 Conn. 161 [179 A. 644]; Pierpoint v. Pierpoint, 108 Pa.Super.Ct. 108 [164 A. 808]), and also in support of the general charge of extreme cruelty set forth in the first cause of action (see 9 Cal.Jur. 657; Van Camp v. Van Camp, 53 Cal.App. 17, 22 [199 P. 885]). There was ample evidence, which it is unnecessary here to narrate, to sustain the finding of adulterous conduct with persons unknown within the statutory period of two years prior to the commencement of the action.
+Our conclusion in this regard makes it unnecessary to consider the ease of Klemmer v. Klemmer, supra, cited by appellant, but it may be noted that in denying a hearing in that case the Supreme Court expressly withheld approval of that portion of the opinion upon which appellant relies. It would appear that the error, if any, in admitting evidence of adultery with a known corespondent without requiring compliance with section 1019 of the Code of Civil Procedure, is not an error of which appellant can complain in the absence of a showing that he has been substantially prejudiced thereby. No such showing has been here made.
+In dividing the property, the court awarded to the wife the home of the parties, the household goods, a 1938 Willys sedan automobile, and $1,700 in war savings bonds. The defendant husband was awarded a 1942 DeSoto automobile, a horse, and the proceeds of the sale of some chickens. It is urged that the award was error because “the trial judge, by his own remarks, was greatly influenced by the evidence that appellant twice in his own home had committed an act of adultery.” Since, as hereinabove stated, the evidence of adultery was properly admitted, appellant’s contention is without merit. Moreover, the division made by the court, in view of the evidence of the circumstances of the parties, and the husband’s conduct, exclusive of the alleged adultery, appears to be well within the wide discretion vested in the trial court. The contention that there is no evidence that the bonds were held other than in joint tenancy and that the court therefore erred in finding them to be community property, is answered by the fact that defendant failed to deny plaintiff’s allegation that the bonds were community property, and in fact, his cross-complaint described the bonds as “community in character” and as having been acquired by the parties during their marriage.
+With respect to the award to the wife of $150 per month, the record discloses substantial testimony as to the needs of the wife and that the husband’s annual earnings approximated $9,500.
+The judgment is affirmed.
+York, P. J., and Doran, J., concurred.
+Appellant’s petition for a hearing by the Supreme Court was denied January 29, 1948.
