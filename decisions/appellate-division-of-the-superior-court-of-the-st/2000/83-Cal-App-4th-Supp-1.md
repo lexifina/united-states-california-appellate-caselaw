@@ -1,0 +1,35 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "BR39807"
+decided: "2000-06-27"
+citations: ["83 Cal. App. 4th Supp. 1"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. RON PAUL BRACKEN, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/83/cases/Supp. 1-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6034692
+cites_cases: ["17 Cal.App.4th 917", "173 F.3d 752", "174 Cal.Rptr. 867", "175 Cal.App.3d Supp. 8", "21 Cal.Rptr.2d 785", "221 Cal.Rptr. 776", "252 Kan. 657", "29 Cal.3d 591", "336 N.W.2d 525", "359 N.W.2d 115", "50 Cal.App.4th 1202", "507 N.W.2d 736", "51 Or.App. 173", "577 P.2d 698", "58 Cal.Rptr.2d 205", "629 P.2d 961"]
+---
+
+# People v. Bracken
+
+## Majority (BEVERLY, J.)
+
+Opinion
+BEVERLY, J.
+Appelant Ron Paul Bracken was charged with a violation of Vehicle Code section 23152, subdivision (a) (driving under the influence) with an allegation that he refused to submit to a chemical test, in violation of Vehicle Code former section 23159. Prior to trial, appellant made a motion to suppress evidence. Following the denial of the motion, he pleaded nolo contendere.
+Appellant contends that the trial court erred in finding that reasonable suspicion can be based on a single factor involving wholly lawful conduct.
+Our standard of review concerning a motion to suppress was settled by the Supreme Court in People v. Leyba (1981) 29 Cal.3d 591 [174 Cal.Rptr. 867, 629 P.2d 961]. In Leyba, the high court explained an appellate court first finds the facts relating to the challenged search. Since Penal Code section 1538.5 vests this power in the trial court, “ ‘[o]n appeal all presumptions favor the exercise of that power, and the trial court’s findings on such matters, whether express or implied, must be upheld if they are supported by substantial evidence.’ ” (People v. Leyba, supra, 29 Cal.3d at pp. 596-597.) The second step of appellate review is to “ ‘measure the facts, as found by the trier, against the constitutional standard of reasonableness.’ [Citation.] On that issue, in short, the appellate court exercises its independent judgment.” (Id. at p. 597.)
+“[A] police officer can legally stop a motorist only if the facts and circumstances known to the officer support at least a reasonable suspicion that the driver has violated the Vehicle Code or some other law. [Citations.]” (People v. Miranda (1993) 17 Cal.App.4th 917, 926 [21 Cal.Rptr.2d 785].)
+The facts here are not in dispute. The only reason the citing officer initiated the traffic stop was because appellant’s vehicle was weaving within its own lane for a distance of approximately one-half mile. The officer had five and one-half years’ experience and had previously qualified as an expert in cases involving driving under the influence. Appellant asserts that because his vehicle remained in its own traffic lane, there was no violation and his legal conduct cannot justify a traffic stop.
+This issue has been addressed only once in California, by the Appellate Department of the San Diego Superior Court, in People v. Perez (1985) 175 Cal.App.3d Supp. 8 [221 Cal.Rptr. 776]. In that case, the vehicle drifted two feet in either direction, not leaving its lane, for approximately three-quarters of a mile. (Id. at p. Supp. 10.) The court relied on four out-of-state cases that held that weaving within the lane was sufficient to provide reasonable cause to stop the vehicle. (Id. at p. Supp. 11.) The court noted that the officer involved had extensive training and experience in driving under the influence cases. (Ibid.) Finally, the court noted that an officer is justified in stopping a weaving vehicle to discover if the weaving is caused by an equipment violation. (Id. at p. Supp. 12.)
+Appellant argues that People v. Perez, supra, 175 Cal.App.3d Supp. 8, is not binding authority and urges us to adopt the reasoning of U.S. v. Jimenez-Medina (9th Cir. 1999) 173 F.3d 752 (Jimenez-Medina). In that case, the defendant was stopped on an Arizona highway because the officer suspected him of alien smuggling. He was arrested on a drug charge. The arresting officer stated six reasons for his suspicion: 1) the vehicle was travelling 30 miles per hour below the speed limit; 2) the vehicle was a pickup truck and pickups are often used to smuggle aliens; 3) when the officer began to follow the vehicle he noticed it weaving within its own lane, which suggested that the driver was preoccupied with the fact that he was being followed by law enforcement; 4) the vehicle was registered to a Mexican national from Sonora, an area where there had been a recent increase in smuggling, which led the officer to conclude that the defendant had recent border access; 5) the highway’s reputation as an alien smuggling corridor; and 6) the time of evening, from which the officer determined that the defendant would have come through Tucson at the time of the border patrol shift change. (Id. at pp. 753- 754.)
+The court determined that there was no basis for the officer’s determination that because the vehicle was registered to a Mexican national the defendant had recent border access, and that without this inference there was no reasonable suspicion. The court noted that the officer could see the bed of the pickup, which was empty. (Jimenez-Medina, supra, 173 F.3d at pp. 754- 755.)
+Jimenez-Medina is also not binding authority (People v. Superior Court (Moore) (1996) 50 Cal.App.4th 1202, 1211 [58 Cal.Rptr.2d 205]), and it is factually distinguishable. It is not a reasonable inference that the driver of a vehicle that is weaving when followed by law enforcement is engaged in alien smuggling. There is a reasonable inference that something is wrong when a vehicle weaves while it is being followed by a law enforcement officer and that the cause may be a driver under the influence of alcohol or drugs.
+In making its determination in People v. Perez, supra, 175 Cal.App.3d Supp. 8, the four out-of-state cases cited by the court held that weaving within a lane was sufficient to support a traffic stop. Two out-of-state cases have relied on Perez in reaching the same conclusion.
+We find no fault with the reasoning in People v. Perez, supra, 175 Cal.App.3d Supp. 8. The officer in this case was an expert in the area of driving under the influence cases. He observed appellant’s vehicle weave within its lane for a considerable distance. These facts are sufficient to establish reasonable suspicion.
+The order denying appellant’s motion to suppress is affirmed. Schiavelli, P. J., and Todd, J., concurred.
+State v. Bailey (1981) 51 Or.App. 173 [624 P.2d 663]; Ebona v. State (Alaska 1978) 577 P.2d 698; State v. Dorendorf (N.D. 1984) 359 N.W.2d 115; and State v. Kvam (Minn. 1983) 336 N.W.2d 525.
+State v. Tompkins (Iowa Ct.App. 1993) 507 N.W.2d 736 and State v. Field (1993) 252 Kan. 657 [847 P.2d 1280].
