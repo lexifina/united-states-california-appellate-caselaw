@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11061"
+decided: "1940-06-11"
+citations: ["39 Cal. App. 2d 458"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNA VAN ANTWERP, Respondent, v. F. E. SMITH, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/39/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6040002
+cites_cases: ["10 Cal. App. (2d) 710", "116 Pac. 513", "12 Cal. App. (2d) 468", "14 Cal. (2d) 168", "160 Cal. 237", "18 Cal. App. (2d) 167", "261 Pac. 481", "33 Cal. App. (2d) 230", "52 Pac. (2d) 518", "55 Pac. (2d) 938", "63 Pac. (2d) 876", "86 Cal. App. 595", "91 Pac. (2d) 211", "93 Pac. (2d) 135"]
+---
+
+# Van Antwerp v. Smith
+
+## Majority (WARD, J.)
+
+WARD, J.
+An appeal by defendant in a personal injury action from an order granting plaintiff’s motion for a new trial. The order was granted upon the grounds of the insufficiency of the evidence to justify the verdict, and that the verdict is against the law. Appellant contends that the evidence as a matter of law establishes his freedom from negligence, and that contributory negligence of plaintiff was conclusively shown.
+Appellant attacks certain instructions given the jury on the court’s own motion. It is admitted, however, that no prejudice resulted to his cause as a result thereof as the jury returned a verdict in his favor. He contends that the instructions, nevertheless, indicate the attitude of the trial judge in ruling upon the motion for a new trial. In passing upon the propriety of an order granting a new trial, the only test is whether or not there is any evidence that would legally substantiate and uphold a verdict for the moving party had the jury decided for him. Measured by this test, the only question to be decided in the instant ease is, has the trial court abused its discretionary powers.
+The accident occurred at Soquel and Pacific Avenues in the city of Santa Cruz. Soquel Avenue, running approximately easterly and westerly, intersects and terminates at Pacific Avenue, which runs generally in a northerly and southerly direction. Traffic signals are operated at the intersection. Defendant, accompanied by his wife, was driving his automobile in a westerly direction on Soquel Avenue, approaching its intersection with Pacific Avenue. He testified that he stopped his car at the intersection to await the " Go ” signal, whereupon he made a left hand turn. At that time pedestrians were crossing from the west to the east side of Pacific Avenue in the southerly pedestrian lane, plaintiff being approximately five feet behind the other crossing pedestrians. When near the center of Pacific Avenue plaintiff was struck by the front right bumper of defendant’s car, knocked down and suffered certain injuries, the basis for the claim for damages. -
+Defendant claims that immediately before the impact plaintiff gave him a signal to proceed. According to plaintiff’s testimony, she did not observe the ear and did not give such signal. She also contends that the defendant “cut” into the intersection. To substantiate this claim, the position of her body after the impact, and the location of the car, are called to our attention. With considerable force, defendant quotes testimony to disprove this contention. The jury could reasonably have adopted either theory.
+Defendant urges that plaintiff was guilty of contributory negligence, but on this point the evidence seems to be conflicting. Defendant places plaintiff outside of the pedestrian lane. Plaintiff’s testimony contradicts this statement, and the evidence of the impact, the location of the car, and the position of plaintiff’s body within the pedestrian lane near the center thereof, tend to uphold her contention. If plaintiff’s contention that defendant was on, or at least partially on, the wrong side of the street, is correct, and there is some evidence to uphold it, then the rule requiring constant vigilance on the part of pedestrians to protect their own safety, as in Zibbell v. Southern Pac. Co., 160 Cal. 237 [116 Pac. 513], “to look is to see”, must be relaxed and made applicable to the facts of this case. (Wright v. Los Angeles Ry. Corp., 14 Cal. (2d) 168 [93 Pac. (2d) 135]; Wright v. Foreman, 86 Cal. App. 595 [261 Pac. 481]; Lavin v. Fereira, 10 Cal. App. (2d) 710 [52 Pac. (2d) 518]; Gibb v. Cleave, 12 Cal. App. (2d) 468 [55 Pac. (2d) 938]; Sinclair v. Harp, 18 Cal. App. (2d) 167 [63 Pac. (2d) 876].) It should be noted that generally, dependent however upon the facts of a ease, the driver of an automobile should yield the right of way to a pedestrian crossing a road within a pedestrian lane. (Vehicle Code, sec. 560.)
+In Gallardo v. Luke, 33 Cal. App. (2d) 230, 233 [91 Pac. (2d) 211], the court said: “In the instant case a scrutiny of the evidence shows that the experienced mind of the judge could reach a different though rational conclusion than the possibly equally reasonable one drawn by the jury. Upon the question of whether or not decedent misjudged his ability to avoid the impact with the truck, and whether he exercised due care and prudence under the particular circumstances presented in this case are debatable questions. Even if this court reached a conclusion in conformity with the views of the jury, it could not impose and substitute its views upon this controvertible issue unless the trial court abused its discretion.’’
+No abuse of discretion on the part of the trial judge has been demonstrated. The order granting a new trial is affirmed.
+Peters, P. J., and Knight, J., concurred
