@@ -1,0 +1,67 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B136170"
+decided: "2000-10-19"
+citations: ["84 Cal. App. 4th 863"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS SCALESE, as Trustee, etc., Plaintiff and Respondent, v. STANTON ALAN WONG et al., Defendants and Appellants."]
+source_url: "https://static.case.law/cal-app-4th/84/cases/0863-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1166865
+cites_cases: ["10 Cal.3d 729", "111 Cal.Rptr. 897", "17 Cal.App.3d 346", "190 Cal.App.3d 1496", "236 Cal.Rptr. 59", "275 Cal.Rptr. 201", "4 Cal.App.4th 587", "5 Cal.Rptr.2d 712", "51 Cal.3d 991", "518 P.2d 329", "800 P.2d 557", "94 Cal.Rptr. 773"]
+---
+
+# Scalese v. Wong
+
+## Majority (NOTT, J.)
+
+Opinion
+NOTT, J.
+Stanton Alan Wong and Karen Wong appeal from a judgment in favor of the trustee for the Pegorare Family Trust (the Trust).
+Background
+In June 1987, Elizabeth M. Pegorare, the original trustee, sold a five-unit apartment building (the property) to Frederick and Ami Jo Leeds, taking back a promissory note (the note) and deed of trust. The note was for a period of 15 years, with interest at 11 percent per annum and monthly payments of $1,650.
+Mr. and Mrs. Leeds sold the property to a three-person partnership, which assumed the note and trust deed. That entity then sold the property to appellants, who likewise assumed the note and deed of trust.
+Appellants made payments through January 1993, when they advised Mrs. Pegorare that they wished to pay off the note in full. Mrs. Pegorare refused, based on terms of the note that prohibited an early payoff.
+Appellants thereafter refused to make any monthly payments. On February 6, 1997, Mrs. Pegorare filed the instant action, which contained causes of action for specific performance and judicial foreclosure. Iri their answer, appellants did not raise the statute of limitations, nor did they assert a defense under Code of Civil Procedure section 726.
+Mrs. Pegorare subsequently passed away. Her son, Thomas Scalese, became successor trustee of the Trust. (Hereafter respondent is used to refer to both Mrs. Pegorare and Thomas Scalese.)
+During the court trial, the central issue was whether appellants had the right to pay off the note prior to its maturity. In that regard, the note had two provisions that the trial court found to be ambiguous.
+The first provision was that the principal was to be paid off “on or before” July 1, 2001, leading to the argument that appellants could pay off the note prior to maturity.
+The second provision was a statement that “Payor shall be prohibited from making any principal reductions or payments in full of the within Note at any time prior to its due date.”
+The trial court admitted parol evidence on the issue. It found the intent of the original parties was that there was no right to prepayment, and appellants were bound by that intent. Next, the court required respondent to select between its remedies, either to have a judgment for damages under the cause of action for specific performance, or a judicial foreclosure. Respondent opted for specific performance. Appellants did not object, nor did they demand that respondent be forced to exhaust the security under section 726.
+The court thereafter awarded judgment in favor of respondent for all accumulated monthly interest installments, with prejudgment interest at 10 percent per annum, and costs and attorney fees. The court also ordered that all monthly interest payments be made until July 1, 2001, at which time all principal and unpaid interest would be due in full.
+Contentions
+Appellants contend that respondent’s sole remedy was under section 580b and that, accordingly, the award of damages, prejudgment interest, and attorney fees was incorrect.
+Discussion
+1. The various statutes
+a. Civil Code section 2954.9
+Civil Code section 2954.9 provides at subdivision (a)(1) that “where the original principal obligation is a loan for residential property of four units or less,” the borrower may pay off the note at any time.
+In the present matter, appellants converted the five-unit apartment building into a single-family residence. However, it is uncontroverted that at the inception of the loan, the “original principal obligation” was for residential property of over four units, thus making Civil Code section 2954.9 inapplicable. Appellants do not argue to the contrary.
+b. Section 726
+Section 726 is known as the “one form of action” rulé. In general, the statute requires that a creditor who has accepted a security interest in real property exhaust that security before proceeding with a personal judgment against the debtor. (Security Pacific National Bank v. Wozab (1990) 51 Cal.3d 991, 996-997 [275 Cal.Rptr. 201, 800 P.2d 557] (Wozab).)
+c. Section 580b
+Section 580b provides, in pertinent part: “No deficiency judgment shall lie in any event after a sale of real property or an estate for years therein for failure of the purchaser to complete his or her contract of sale, or under a deed of trust or mortgage given to the vendor to secure payment of the balance of the purchase price of that real property or estate for years therein, or under a deed of trust or mortgage on a dwelling for not more than four families given to a lender to secure repayment of a loan which was in fact used to pay all or part of the purchase price of that dwelling occupied, entirely or in part, by the purchaser.”
+It is important to note that the protective provisions of setition 580b are in the disjunctive, i.e., protection is given to a debtor who fits into any category. Accordingly, respondent’s argument that appellants do not qualify for the protection of section 580b (because the original loan was for a dwelling containing more than four units) is without merit. Theoretically, appellants could have availed themselves of the protection of section 580b since they assumed “a deed of trust or mortgage given to the vendor [respondent] to secure payment of the balance of the purchase price of that real property . . . .” In any event, as we shall discuss, appellants have missed the boat insofar as section 580b is concerned.
+2. Appellants’ argument
+Despite not having objected to respondent’s election to proceed with a personal judgment against them, appellants now argue that the judgment constitutes a deficiency judgment in that respondent’s sole remedy at trial was foreclosure against the security.
+That argument is without merit. If appellants had wished to avail themselves of the protection of section 726 (and thus § 580b), it was their obligation during trial to demand foreclosure. They are now simply too late.
+“[A] creditor’s right to enforce a debt secured by a mortgage or deed of trust on real property is restricted by statute.” (Walker v. Community Bank (1974) 10 Cal.3d 729, 733 [111 Cal.Rptr. 897, 518 P.2d 329] (Walker).) Thus, in general, under section 726, such a creditor must exhaust the security before proceeding personally against the debtor. (Walker, supra, at p. 733.) If the security proves insufficient, depending on the facts, the creditor may or may not be able to proceed against the debtor for any deficiency. (Ibid.)
+Where the creditor sues the debtor, seeking a money judgment before foreclosing on the property, the creditor has elected a personal action and has given up the right to a security interest in the property. (Walker, supra, 10 Cal.3d at p. 733.)
+If the debtor raises the security interest as a defense, the creditor will be required to exhaust the security (i.e., go through with foreclosure proceedings) before proceeding against the debtor personally—assuming there is no bar to a deficiency under sections 580a, 580b or 580d. (Walker, supra, 10 Cal.3d at pp. 733-734.)
+In the event the creditor proceeds personally against the debtor .without first exhausting the security, and the debtor does not object, the creditor has lost any further security interest in the property. (Walker; supra, 10 Cal.3d at p. 734; Wozab, supra, 51 Cal.3d at p. 997.) If the debtor does not raise the defense of section 726, the creditor may sue the debtor personally. (Kaiser Industries Corp. v. Taylor (1971) 17 Cal.App.3d 346, 353 [94 Cal.Rptr. 773].)
+“If the creditor sues on the note, disregarding the security, and the debtor allows personal judgment to go against him without objecting on that ground, (1) the debtor waives the protection of [Code of Civil Procedure section] 726, and (2) the creditor elects the single remedy of a personal action and cannot thereafter foreclose or sell the security under a power of sale. [Citations.]” (3 Witkin, Summary of Cal. Law (9th ed. 1987) Security Transactions in Real Property, § 119, p. 620; see also O’Neil v. General Security Corp. (1992) 4 Cal.App.4th 587, 597 [5 Cal.Rptr.2d 712]; Passanisi v. Merit-McBride Realtors, Inc. (1987) 190 Cal.App.3d 1496, 1505-1506 [236 Cal.Rptr. 59].)
+In the present matter, respondent filed a complaint that requested the alternate relief of specific performance and damages, or judicial foreclosure. When forced by the trial court to make an election of remedies, respondent selected the personal judgment against appellants and thereby waived the security interest in the property. As mentioned, appellants did not assert section 726 as a defense to the complaint. Further, at the time respondent made the election at the conclusion of trial, appellants voiced no objection and did not demand that the security be exhausted. The record shows that after respondent made the election, the court asked counsel for appellants if he wished to be heard. Counsel replied “I don’t know if there’s anything I can say. I mean, that’s the remedy he [respondent] wants.”
+Accordingly, under the above authorities (Walker and Wozab), both sides have given up various of their respective rights. Respondent has for all time waived its right to have the property serve as security for the note. Appellants have given up their right to have the security exhausted before becoming (potentially) personally liable for any shortfall. Thus, section 580b never comes into play.
+Appellants contend that Walker and Wozab are inapplicable because they each involve security interests that do not involve purchase money mortgages, and thus do not come within the ambit of section 580b. They claim that to allow a personal action under section 726 would encourage an “end run” around the protective provisions of section 580b. We disagree.
+The principles enunciated by our Supreme Court were not limited to any particular type of loan, whether purchase money or a refinance. In fact, Walker specifically mentioned section 580b in its comments. (Walker, supra, 10 Cal.3d at p. 733.) Contrary to appellants’ views, the results in Walker and Wozab do not undercut section 580b. If a debtor wishes that protection, he or she has simply to require the creditor to first exhaust the security. The failure to do so will result in a personal judgment against the debtor; however, the creditor’s security interest in the property will have been extinguished. In sum, Walker and Wozab are controlling.
+We note that the result here is equitable. The trial court found that the evidence clearly showed that at the time they purchased the property, appellants were fully aware of all terms of the note, including the prohibition against early payoff. In 1993, after being rebuffed in their request to pay off the note in full, appellants could have continued making monthly payments while filing their own action for declaratory relief. Instead, appellants made the risky unilateral choice to make no payments whatsoever. Affirmance of the trial court places the parties where they would have been, absent the breach of contract by appellants.
+Appellants’ only quarrel with prejudgment interest, attorney fees and costs was based on the propriety of the personal judgment against them. Inasmuch as we have upheld that judgment, any issues on interest, fees and costs are moot.
+Disposition
+The judgment is affirmed. Respondent is awarded costs on appeal. The matter is remanded to the trial court for consideration of an award to respondent for attorney fees on appeal, as well as fees for that court hearing.
+Boren, P. J., and Todd, J., concurred.
+On November 16, 2000, the opinion was modified to read as printed above. Appellants’ petition for review by the Supreme Court was denied January 17, 2001.
+Unless otherwise stated, all statutory references are to the Code of Civil Procedure.
+Section 726 provides, in pertinent part, “(a) There can be but one form of action for the recovery of any debt or the enforcement of any right secured by mortgage upon real property or an estate for years therein, which action shall be in accordance with the provisions of this chapter.” The lengthy statute then goes on to describe the mechanics of handling a judicial foreclosure.
+Walker involved the refinancing of business debts. The debtor gave as security both a chattel mortgage on trucks and equipment, and a trust deed on real property. In Wozab, the debtor secured a line of credit from his bank by giving a deed of trust on real property.
+In this opinion, we do not decide whether respondent may later obtain another (or amended) judgment on the sums of money that will accrue from the date of judgment to July 1, 2001.
