@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2582"
+decided: "1918-12-26"
+citations: ["39 Cal. App. 287"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. G. CUSHING, Appellant, v. H. C. MACAULAY et al., Respondents."]
+source_url: "https://static.case.law/cal-app/39/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032489
+---
+
+# Cushing v. Macaulay
+
+## Majority (THE COURT.)
+
+THE COURT.
+The complaint sets out a contract between two corporations, one named Pacific Wall Bed Company of Los Angeles, and the other named Pacific Wall Bed Manufacturing Company (hereinafter referred to as the Manufacturing Company), under which on March 18,1915, a certain indebtedness existed from the latter to the former and which was-assigned to the plaintiff. Said indebtedness was made up in part of a bonus upon the sale of beds at the rate of five dollars per bed sold by the Manufacturing Company, and on said last-mentioned date the plaintiff commenced an action against said company in the superior court of Los Angeles County for the sum of one thousand five hundred dollars, alleged to be the balance due upon said bonus account, and levied an attachment upon certain accounts due to the said corporation. The complaint then charges that thereupon the plaintiff and defendant in said action, through their respective attorneys, entered into a written stipulation, by which the plaintiff agreed to release the attachment, and that the amount due to plaintiff upon said bonus account should be arbitrated, and when determined, should be paid by H. C. Macaulay and C. M. Henderson, the defendants in the present suit, and who were officers and stockholders of said Manufacturing Company. It is also alleged that as a part of said stipulation and agreement these defendants agreed to execute and deliver to plaintiff their promissory note in the sum of $3,735.35, in replacement of a note of similar amount which the Manufacturing Company had agreed to pay under the contract first mentioned, the right to receive which had also been assigned to the plaintiff. The complaint then proceeds to charge that subsequently and on May 25, 1915, the plaintiff and defendants herein entered into a supplemental agreement by which the appointment of the arbitrator hereinbefore mentioned was waived, and defendants agreed to execute and deliver to plaintiff their promissory note in the sum of $3,959.47, which sum represented the note previously mentioned of $3,735.35 and interest thereon. Finally, it is charged that the defendants refused to execute or deliver said notes as provided in said last-mentioned agreement, to the plaintiff’s damage in the sum of $3,478.22, for which amount he prays judgment.
+The court found (finding III) that only 87 beds were sold upon which the plaintiff was entitled to receive the bonus of five dollars per bed, and (finding VIII) that said amount had been paid. That as to the written stipulation and agreement to arbitrate the dispute between the plaintiff and the Manufacturing Company, the same had been entered into by one R. L. Dailey without authority from the Manufacturing Company so to do (finding VI); that as to the supplemental agreement alleged to have been entered into between the plaintiff and defendants, by which the latter agreed to execute certain promissory notes in favor of the plaintiff, it was never consummated nor entered into by the defendants (finding VII), and, finally, that the plaintiff has not been damaged by anything contained in said complaint.
+Judgment was accordingly entei*ed in favor of the defendants, from which the plaintiff appeals, basing his appeal upon the contention that findings III, VII, and VIII, the substance of which is given above, are not supported by the evidence.
+In support of this contention counsel for the plaintiff quote copiously from the evidence adduced upon the whole case, and draw therefrom deductions which he claims could and should have been made in his favor by the trial court. On the other hand, counsel for the respondents deduces from the same and other evidence, which he quotes, clearly contrary conclusions, which he, in effect, claims could he and were in fact drawn by the trial court in support of the findings assailed. It will thus he seen that the argument pro and con is but a discussion of the weight of the evidence, which, of course, avails nothing upon appeal.
+If it be conceded that the evidence upon the whole ease would have warranted and supported findings in favor of the plaintiff, still the fact remains that a review of the record shows that the evidence, as a whole, is also susceptible of the construction placed upon it by the trial court as implied from the findings made, and, consequently, it must be held that the evidence supports the findings, which, in turn, support the judgment.
+The judgment appealed from is affirmed.
