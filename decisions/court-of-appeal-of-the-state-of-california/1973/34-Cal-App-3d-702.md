@@ -1,0 +1,65 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 5345"
+decided: "1973-10-18"
+citations: ["34 Cal. App. 3d 702"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. HERBERT SCOTT III, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/34/cases/0702-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452269
+cites_cases: ["105 Cal.Rptr. 305", "200 F.2d 232", "332 F.2d 160", "408 U.S. 471", "411 U.S. 778", "443 F.2d 528", "503 P.2d 1313", "8 Cal.3d 451"]
+---
+
+# People v. Scott
+
+## Majority (WHELAN, J.)
+
+Opinion
+WHELAN, J.
+Herbert Scott, defendant, has appealed from an order made October 19, 1972, revoking probation, and a judgment imposing a prison sentence made the same day.
+The probation order had been made on July 14, 1971, after defendant, on June 10, had entered a plea of guilty to uttering a forged check on June 9. Another forgery charge and a charge of possession of restricted dangerous drugs were dismissed.
+On October 11, 1972, a supplemental probation report was filed whose purpose was to bring defendant before the court to show cause why his probation should not be revoked, and hearing was set for October 19. In a further report prepared before October 6, 1972, but filed with the court on October 19, the probation officer recommended defendant be cpntinued on probation with some time in local custody.
+Among the matters stated in that report was that defendant had been arrested in Santa Ana on charges of armed robbery and possession of dangerous drugs; that defendant admitted he had been convicted on the dangerous drug charge and was given three years’ probation after having spent 25 days in jail. Many other less serious violations of probation were also alleged, including the fact defendant was to appear in the municipal court October 6 on misdemeanor charges for which he had been arrested at the same time as his arrest for probation violation.
+Defendant appeared before the court with counsel on October 19, 1972. No denial was made of the truth of the matters alleged in the supplemental probation report.
+The sole appellate contention is that defendant was denied due process of law in the revocation of his probation because the trial court did not make written findings as to the grounds for revocation. It is contended such written findings are required by the doctrine of Morrissey v. Brewer, 408 U.S. 471 [33 L.Ed.2d 484, 92 S.Ct. 2593], as made applicable to California parole revocation proceedings by People v. Vickers, 8 Cal.3d 451 [105 Cal.Rptr. 305, 503 P.2d 1313], and by Gagnon v. Scarpelli, 411 U.S. 778 [36 L.Ed.2d 656, 93 S.Ct. 1756].
+In laying down certain rules for revoking a parole from a prison sentence, the court in Morrissey v. Brewer, supra, stated at pages 488-489 [33 L.Ed.2d pages 498-499, 92 S.Ct. page 2604]: “We cannot write a code of procedure; that is the responsibility of each State. Most States have done so by legislation, others by judicial decision usually on due process grounds. Our task is limited to deciding the minimum requirements of due process. They include (a) written notice of the claimed violations of parole; (b) disclosure to the parolee of evidence against him; (c) opportunity to be heard in person and to present witnesses and documentary evidence; (d) the right to confront and cross-examine adverse witnesses (unless the hearing officer specifically finds good cause for not allowing confrontation); (e) a ‘neutral and detached’ hearing body such as a traditional parole board, members of which need not be judicial officers or lawyers; and (f) a written statement by the factfinders as to the evidence relied on and reasons for revoking parole.” (Fn. omitted.)
+The California Supreme Court held in People v. Vickers, supra, 8 Cal.3d 451, that due process in proceedings for revocation of probation was also required by Morrissey v. Brewer since such a revocation, no less than a ' revocation of parole, entailed a significant deprivation of liberty.
+In Gagnon v. Scarpelli, supra, 411 U.S. 778, 784-786 [36 L.Ed.2d 656, 663-664], the court stated: “In Morrissey, we recognized that the revocation decision has two analytically distinct components:
+“ ‘The first step in a revocation decision thus involves a wholly retrospective factual question: whether the parolee has in fact acted in violation of one or more conditions of his parole. Only if it is determined that the parolee did violate the conditions does the second question arise: should the parolee be recommitted to prison or should other steps be taken to protect society and improve chances of rehabilitation?’ [Citation.]
+“It was to serve all of these interests that Morrissey mandated preliminary and final revocation hearings. At the preliminary hearing, a probationer or parolee is entitled to notice of the alleged violations of probation or parole, an opportunity to appear and to present evidence in his own behalf, a conditional right to confront adverse witnesses, an independent decision-maker, and a written report of the hearing. [Citation.] The final hearing is a less summary one because the decision under consideration is the ultimate decision to revoke rather than a mere determination of probable cause, but the ‘minimum requirements of due process’ include very similar elements:
+“ ‘(a) written notice of the.claimed violations of [probation or] parole; (b) disclosure to the [probationer or] parolee of evidence against him; (c) opportunity to be heard in.person and to present witnesses and documentary evidence; (d) the right to confront and cross-examine adverse witnesses (unless the hearing officer specifically finds good cause for not allowing confrontation); (e) a “neutral and detached” hearing body such as a traditional parole board, members of which need not be judicial officers or lawyers; and (f) a written statement by the factfinders as to the evidence relied on and reasons for revoking [probation or] parole.’ [Citation.]
+“These requirements in themselves serve' as substantial protection against ill-considered revocation . . . .”
+In Gagnon the court held that a previously sentenced probationer whose probation was revoked without either a preliminary hearing or a final hearing was denied due process.
+The court in Gagnon held a probationer does not, in every probation revocation, have a constitutional right to appointed counsel; and discussed possible situations in which appointment of counsel might constitutionally be refused.
+It may be said, therefore, that the sweeping language of the opinion may be viewed in the light of the language used in the earlier Morrissey decision that: “We have no thought to create an inflexible structure for parole revocation procedures.” (Morrissey v. Brewer, 408 U.S. 471, 490 [33 L.Ed.2d 484, 499].)
+The Court in People v. Vickers, supra, 8 Cal.3d 451, 458, did not say a judge in revoking probation must make written findings of fact. Rather, it said: “Morrissey is thus equally applicable in the case of a revocation of probation insofar as it assures that revocation can be had only with due process protections. However, the precise nature of the proceedings for such revocation need not be identical if they assure equivalent due process safeguards.”
+We face the question whether in a proceeding for revocation of probation due process invariably requires the making of written findings of fact as to the basis for the revocation order.
+There are significant differences between a revocation of probation hearing, held in open court, at which the probationer is represented by counsel, and a hearing for revocation of parole in a prison setting.
+We note that Morrissey does not require the phonographic reporting of parole revocation hearings. The making of written findings, in the absence of a requirement of reporting, will serve to dispel the atmosphere of an in camera hearing that might otherwise be present.
+The proceedings held in open court in the case at bench which have been reported by the official reporter serve the same purpose.
+In such a situation, the test of due process is not the making of written findings but whether the matters presented as grounds for possible revocation were sufficient to support such action, whether they have been shown to be true, and, if controverted, whether the judge has found the controverted matters to be true.
+In the case at bench no offer or attempt was made to deny the truth of the matters alleged in the supplemental probation report.
+The standards fixed by Morrissey permit the use of hearsay in parole revocation proceedings.
+At the revocation hearing the trial judge observed: “[W]e have a man who spent 25 days in jail up in Los Angeles and was released from the robbery but convicted of possession of dangerous drugs and given three years probation. That alone would be sufficient to revoke his probation.” The judge also reviewed verbally the other possible violations contained in the report.
+In California a judge trying a criminal case without a jury may pass upon the issue of guilt or innocence without being required to make written findings of fact and without specifying the evidence he considered in finding a defendant guilty.
+Procedure in the federal trial court where a jury has been waived is governed by rule 23 (c) of the Federal Rules of Criminal Procedure, which provides: “In a case tried without a jury the court shall make a general finding and shall in addition on request find the facts specially. If an opinion or memorandum of decision is filed, it will be sufficient if the findings of fact appear therein.”
+Where no request for special findings has been made under rule 23(c), the failure to make them may not be urged on appeal (United States v. Privett, 443 F.2d 528, 531; United States v. Devenere, 332 F.2d 160, 162). The purpose of the requested special finding is to preserve a question of law for purposes of appeal (Cesarlo v. United States, 200 F.2d 232, 233).
+It is obvious that the circumstances that require written findings in a parole revocation proceeding in a prison do not obtain in a hearing held in open court, which has been fully reported, and where the usual constitutional right to counsel has been given.
+We hold that in a proceeding for revocation of probation the making of written findings of fact is not an indispensable concomitant of due process if there is a substantially equivalent substitute therefor, such as appears from the official reporter’s transcript of the oral proceedings in the case at bench, and that the defendant here was not deprived of due process.
+The order and judgment are affirmed.
+Brown (Gerald), P. J., and Cologne, J., concurred.
+A petition for a rehearing was denied November 1, 1973, and appellant’s petition for a hearing by the Supreme Court was denied December 14, 1973.
+That appears from the superior court file, which we have had brought before us.
+The following from Morrissey v. Brewer, 408 U.S. at page 490 [33 L.Ed.2d at page 499, 92 S.Ct. at page 2605], is of interest as regards the case at bench: “[A] parolee cannot relitigate issues determined against him in other forums, as in the situation presented when the revocation is based on conviction of another crime.
+“. . . If it is determined that petitioners admitted parole violations to the Parole Board, as Iowa contends, and if those violations are found to be reasonable grounds for revoking under state standards, that would end the matter.”
+We note certain of the standards of the “Approved Draft, 1970, of Standards Relating to Probation” of the American Bar Association.
+Even before the trial of a new criminal charge, probation revocation proceedings may be initiated “. . . conditioned upon a showing of probable cause that a new offense has been committed by the probationer. . . .
+<6
+“Of couse, an indictment or formal charge would supply such probable cause. . . .” (P. 64)
+“5.4 Nature of revocation proceedings, (a) The court should not revoke probation without an open court proceeding attended by the following incidents: (i) a prior written notice of the alleged violation; (ii) representation by retained or appointed counsel; and (iii) where the violation is contested, establishment of the violation by the government by a preponderance of the evidence.
+66
+“(c) As in the case of all other proceedings in open court, a record of the revocation proceeding should be made and preserved in such a manner that it can be transcribed as needed.” (P. 65)
+Commentary on section 5.4(c) reads: “The need for a record of the revocation proceeding would seem as great as in any other open court proceeding. See Sentencing Alternatives § 5.7 & comment a-c at 273-76. A record is of course necessary for review of either the merits or the procedure. An available record can also cut short a subsequent collateral inquiry into the type of proceeding that was held, either by habeas corpus or some other form of proceeding.” (P. 70)
