@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 32602"
+decided: "1973-10-29"
+citations: ["35 Cal. App. 3d 127"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MELVILLE MACK et al., Plaintiffs and Appellants, v. ROBERT L. IRONSIDE et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-3d/35/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4451483
+cites_cases: ["12 Cal.App.3d 550", "90 Cal.Rptr. 843"]
+---
+
+# Mack v. Ironside
+
+## Majority (DEVINE, P. J.)
+
+Opinion
+DEVINE, P. J.
+The judgment from which plaintiffs appeal is one them a writ of mandate compelling the City of Menlo Park to issue a use permit to them.
+On February 28, 1972, plaintiff Melville Mack applied to the Planning Commission of the City of Menlo Park for a use permit for a self-service gas station. On March 20, 1972, the planning commission approved the application by a five to zero vote. The city’s zoning ordinance section 30.701D provides: “A use permit shall be effective the fifteenth day after planning commission approval unless the planning commission action is appealed to the city council, in which case the permit shall not be effective until the city council has acted upon the appeal.”
+Section 30.1101 of the ordinance reads: “Any person may appeal to the city council any order, requirement, decision or determination of the commission, in the manner provided herein.”
+Section 30.1102 of the zoning ordinance provides: “Appeals shall be made in writing and filed with the city clerk within fourteen days after the final action of the planning commission. The appeal shall be accompanied by a fee, as set by the city council, and clearly shall state the reason for appeal. Upon receipt of such appeal, the city clerk shall notify the commission and shall set a time, within thirty days after the receipt of such appeal, for a public hearing on such appeal. Notice of such hearing shall be given as set forth in section 30.10.”
+No written appeal of the planning commission action was filed by any person with the city clerk within the 14-day period provided by section 30.1102. However, on March 28, 1972, at its regular weekly meeting the city council itself determined to “review” the action of the planning at its next regular meeting, on April 4, 1972. On April 4, since there were only three members of the five-member city council present, the matter was continued to April 18, 1972. On April 18, a full hearing was held. Arguments by both sides were heard, and appellants’ counsel requested that the matter be continued to the May 9th meeting so that the city council could examine plans of the proposed development. At the May 9th meeting, after more arguments by both sides, the city council voted five to zero to deny the use permit.
+The question, raised for the first time on appeal, is whether the city council lacked jurisdiction to hear the appeal. We conclude that it did not lack jurisdiction. The ordinance provides that “any person” may appeal. The council is composed of five persons, and acting collectively, they may do what any one of them may do as an individual.
+In doing so, the council does not comply literally with section 30.1102, because it does not appeal in writing, nor does it pay the fee, nor does it clearly “state the reason for appeal.” Under some circumstances, the beneficiary of a ruling by the planning commission might be so prejudiced by the irregularities as to justify nullifying of the council’s decision.
+But a fairly liberal construction of section 30.1102 warrants a holding that surely a “person”—indeed, five “persons” have, in effect, appealed; that it would be futile for these persons acting as a board, to cause the city to pay the fee to itself, and that the clear statement of reasons was waived, as discussed below.
+That there should be applied such a liberal construction appears from the mandate of Government Code section 65801, which is that no action by any legislative or administrative body shall be set aside by any court as to any matter pertaining to appeals or any matters of procedure whatever, unless after consideration of the entire case, including the a different result would have been probable if the error had not occurred. Although this section would not confer jurisdiction where none existed, it does justify liberal interpretation of the procedural statute to jurisdiction, where there has been no denial of due process. (City of Sausalito v. County of Marin, 12 Cal.App.3d 550, 559 [90 Cal.Rptr. 843].)
+The provisions of Government Code section 65801 are buttressed by those of section 30.1203 of the Menlo Park Zoning Ordinance, which that no action of the city, its city council or planning commission shall be deemed invalid by reason of failure to comply with or conform to the provisions “of this chapter” (and the chapter includes § 30.1102) “provided that the procedural requirements of the state Government Code have been met.” Thus, the city has shown its willingness to place substance above procedural formality to the full extent allowable by general law. Appellants argue that because the proviso in section 30.1203 limits the mitigating or ratifying effect of that section to the extent delineated by the Government Code, the limitation brings into effect Government Code 65903, which provides that procedures for appeals or applications for use permits shall be as provided by local ordinance, and this in turn the need for following ordinance section 30.1102. This reflex reasoning does violence to the beneficent purposes of Government Code section 65801, of section 30.1203 of the city ordinance, and also to the purpose of Government Code section 65903 itself, which is essentially permissive in nature.
+Due process, which assuredly was requisite, was by no means wanting. Appellants do not assert deficiency of notice. At the meeting on April 18, 1972, the attorney for appellants spoke in favor of the permit and asked the council to withhold action until it could see plans of the proposed development. The request was granted. A representative of Shell Oil Company, one of the applicants, also spoke. Counsel did not protest the manner of appeal. At the May 9, 1972, meeting, the attorney and the representative addressed the council again; the attorney suggested conditions which might be added to the use permit. Again, there was no challenge to the appeal itself, although vigorous opposition to the permit was voiced by citizens.
+By taking upon itself the function of initiating the appeal shortly after the planning commission’s decision, the council may well have precluded another “person” from doing this, and by its anticipative action have defeated the review provided for by the ordinance. The result ought to be avoided, full opportunity for hearing and opposition having been provided.
+The judgment denying the petition for writ of mandate is affirmed.
+Rattigan, J., and Bray, J., concurred.
+Retired Presiding Justice of the Court of Appeal sitting under assignment by the Chairman of the Judicial Council.
