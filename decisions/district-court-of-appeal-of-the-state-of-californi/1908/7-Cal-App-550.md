@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 407"
+decided: "1908-02-15"
+citations: ["7 Cal. App. 550"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOS ANGELES BREWING COMPANY, Respondent, v. WILLIAM KLINGE et al., Defendants. GEORGE G. GARRETTSON, Appellant."]
+source_url: "https://static.case.law/cal-app/7/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4522921
+cites_cases: ["124 Cal. 212", "133 Cal. 145", "54 Cal. 626", "56 Pac. 1026", "65 Pac. 301", "71 Am. St. Rep. 46"]
+---
+
+# Los Angeles Brewing Co. v. Klinge
+
+## Majority (SHAW, J.)
+
+SHAW, J.
+Action against surety on bond to recover payment of the value of goods sold to principal. The appeal is from a judgment in favor of plaintiff.
+On February 20, 1906, William Klinge, as principal, and George G. Garrettson and one Walger, as sureties, executed a certain bond to the Los Angeles Brewing Company in the sum of $1,500. By the terms of this instrument, copy of which is made a part of a verified complaint, it was provided that the brewing company should sell to said Klinge, as principal, such amount of beer as he might demand, and should open and establish an account with him, and, as it might deem advisable, extend to him a line of credit for such purchases as he might make, not exceeding $1,500. To secure the payment of any indebtedness incurred by said Klinge for beer sold him by said brewing company, appellant and Walger as sureties, undertook and agreed to pay the same on demand. Plaintiff alleges that between February 20, 1906, and July 18, 1906, under and in accordance with the terms of said instrument, it sold and delivered to Klinge certain beer for which he agreed to pay plaintiff the sum of $930.54, which sum, although demanded, he had failed to pay. By his separate answer appellant admits all the allegations of the complaint, except that he alleges the aggregate amount of beer sold by plaintiff to Klinge between said dates to have been $2,045, instead of $930.54, as stated in the complaint; and alleges, further, that between said dates Klinge paid to plaintiff on account of said purchase the sum of $2,047.77, and avers that plaintiff was paid in full for all beer so sold to Klinge under the provisions of said contract.
+It thus appears that the only issue joined by the pleadings related to the transactions had between the parties subsequent to February 20, 1906—plaintiff charging that the amount sold was of the value of $930.54, no part of which had been paid, and defendant alleging that the value of the beer sold was $2,045, all of which had been paid. This constituted the sole issue before the court.
+The court made the following finding: “That previous to the 20th day of February, 1906, the plaintiff did sell and deliver beer to the defendant Klinge, for which the agreed price was $2,179.20; that subsequent to the 20th day of February, 1906, and in pursuance of the instrument in writing herein-before set forth, the plaintiff did sell and deliver certain quantities of beer to the defendant William Klinge for the agreed price of $2,020; that all the goods hereinbefore mentioned were charged to the defendant Klinge on the books of the plaintiff in the form of a running account; that prior to the 20th day of February, 1906, the defendant Klinge did pay to the plaintiff the sum of $1,145.89 on said running account; that subsequent to the 20th day of February, 1906, the defendant Klinge did pay to the plaintiff the sum of $2,147.77 on the said running account; that all of said payments, both subsequent and prior to the 20th day of February, 1906, when received by the plaintiff, were immediately placed upon the books of the plaintiff to the credit of the defendant Klinge on said running account; that prior to and at the time of the filing of the complaint herein, for the said goods sold and delivered, the agreed price unpaid was the sum of $905.54.”
+If we disregard that part of the finding as to the dealings between the parties prior to February 20, 1906, no reference to which appears in the complaint, and consider only that portion applicable to the issues raised by the pleadings, it would appear that during the period specified in the complaint Klinge bought beer of plaintiff to the value of $2,020 and paid on account thereof, and for other goods purchased, the sum of $2,147.77. The court so finds. It cannot be claimed that such finding supports the judgment rendered. In order to sustain the judgment we must invoke the support of a finding not within the issues, namely: that relating to transactions had between Klinge, the principal, and respondent prior to February 20, 1906, and in no wise mentioned or referred to in the complaint. The law will not permit this to be done. A finding made outside the issues will not warrant a judgment. (Moynihan v. Drobaz, 124 Cal. 212, [71 Am. St. Rep. 46, 56 Pac. 1026] ; Green v. Chandler, 54 Cal. 626 ; Gamache v. South School District, 133 Cal. 145, [65 Pac. 301].)
+It follows from what has been said that the court erred in its conclusion of law that plaintiff was entitled to recover of-defendant Garrettson the sum of $905.54.
+The transcript contains a bill of. exceptions purporting to embody certain evidence had upon the trial. This, however, is not a subject for consideration upon this appeal, for the reason that the appeal was not taken within sixty days after the entry of judgment. (Code Civ. Proc., see. 939.) The evidence given on behalf of defendant seems to bear upon the question of unfairness claimed to have been exerted in procuring appellant’s signature to the bond, but no such issue was tendered.
+The judgment is reversed.
+Allen, P. J., and Taggart, J., concurred.
