@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 4354"
+decided: "1923-11-14"
+citations: ["64 Cal. App. 384"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. T. STOCKTON et al., Appellants, v. SANTA PAULA OIL COMPANY (a Corporation), Respondent."]
+source_url: "https://static.case.law/cal-app/64/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2151186
+cites_cases: ["228 U. S. 243"]
+---
+
+# Stockton v. Santa Paula Oil Co.
+
+## Majority (HOUSER, J.)
+
+HOUSER, J.
+In form this action is a quiet-title suit between adverse claimants to mineral land, and, as is admitted by counsel representing the respective parties hereto, the ultimate question for determination by the trial court was simply which of them was entitled to priority. Plaintiffs claim under an original location made in 1910, while the defendant claims under locations made in 1916. Assuming that plaintiffs’ location was made in accordance with the law, based upon a “discovery” and followed by a compliance with the law regulating the performance of the required assessment work after such location, it would result that any subsequent location made by the defendant would necessarily yield to plaintiffs’ prior rights.
+The right of any claimant, first to the possession of public mineral land and ultimately to ownership thereof through the medium of a patent therefor issued by the United States government, rests primarily on the discovery of a mineral deposit of such value as would justify a man of ordinary prudence in expending sufficient money for its development'; and, secondarily, upon the performance by the claimant of the development work required by the statute. (Donnelly v. United States, 228 U. S. 243 [Ann. Cas. 1913E, 710, 57 L. Ed. 820, 33 Sup. Ct. Rep. 449, see, also, Rose’s U. S. Notes], and cases there cited; 2 Lindley on Mines, 1st ed., p. 773.)
+The only alleged errors committed by the trial court of which complaint is here made consist in findings by the court which it is contended are not supported by the evidence. The first of these has to do with the question of whether or not a discovery was made within the meaning of the statute, and the second relates to the question of the performance of the assessment work required thereunder. It is manifest that the decision of both these questions must be based upon findings of fact made by the court. In the absence of either of such findings in favor of a claimant, assuming no abuse of discretion on the part of the trial court, no legal foundation exists to support his claim. In the instant ease, so far as those particular issues were concerned, the trial court found: “That neither the plaintiff, J. T. Stockton, nor any of the other said locators of the said claim ‘Flow 4’ (the claim in question), ever made any discovery of any gas, petroleum or other mineral oils on or in the said south half (S. %) of the south half (S. %) of the said Section Eighteen (18), embraced within the exterior boundaries of the said claim ‘Flow 4,’ or ever made discovery of any mineral, of any kind, of any value, thereon or therein, or ever prosecuted any work of discovery, diligently, or otherwise, thereon or therein; that the alleged discovery by the plaintiff, J. T. Stockton, of valuable deposits of ochre and minerals other than natural gas, petroleum and other mineral oils, on and in the said last mentioned land is sham and a subterfuge; that the palintiff, J. T. Stockton, as the owner of the said claim ‘Flow 4,’ performed work and made improvements on the said, claim ‘Flow 4,’ as and for purported annual assessment work thereon, during each of the years subsequent to the said location of the said claim ‘Flow 4/ and prior to the respective said locations of the said (claims of defendant), but the said purported assessment work and improvements for each of the said last mentioned years were not of the reasonable value of the sum of $100, and were flimsy in character, were not in good faith, and did not tend to develop the said claim ‘Flow 4,’ or to facilitate the extraction of any minerals therefrom.” The said findings also contain the following: “That none of the said last mentioned land (referring to the claim of plaintiffs) is valuable for, or contains valuable deposits of, ochre, or any minerals other than natural gas, petroleum and other mineral oils.”
+The record discloses a substantial conflict in the evidence with reference to each of the said several findings of fact, and under the rule which has been many times announced by the courts of this state, and to which we must adhere, whether from the evidence we would reach the same conclusion or not, the findings of the trial court when supported by substantial evidence cannot be disturbed on appeal.
+Some other contentions are made by appellants, especially one to the effect that another finding of the court as to a relocation by plaintiffs of the same claim was invalid by reason of the fact that a homestead entry embracing a part of such claim was filed thereon prior to such relocation, but each of such objections falls within the ruling heretofore announced. There are other findings made by the trial court which support the judgment in favor of the defendant.
+It is therefore ordered that the judgment be and the same is affirmed.
+Conrey, P. J., and Curtis, J., concurred.
+A petition by appellant to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on January 10, 1924.
