@@ -1,0 +1,31 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3818"
+decided: "1948-02-17"
+citations: ["83 Cal. App. 2d 689"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE W. SMITH, Respondent, v. CANTLAY & TANZOLA, INC., et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/83/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4434880
+cites_cases: ["197 Cal. 598", "242 P. 76"]
+---
+
+# Smith v. Cantlay & Tanzola, Inc.
+
+## Majority (GRIFFIN, J.)
+
+GRIFFIN, J.
+Action for damages for injury from collision of an automobile and a tank truck with trailer. Plaintiff Smith and his fellow serviceman, Walton, were stationed near Barstow. About 7:30 a. m. on May 8, 1945, they secured a ride from San Bernardino with Lieutenant Dillon, who was driving his automobile from that city to Victorville on Highway 66, which highway runs in a general easterly and westerly direction. Near the Cajon Pass the Dillon car ran into the tank truck and trailer which had been proceeding towards San Bernardino. This truck was owned by defendant corporation and was being driven by its driver, defendant Mar-cum.
+Marcum testified that he left Barstow for San Bernardino in the early morning of May 8, 1945; that it was a very foggy morning and visibility varied between 10 and 75 feet; that he was following another truck or trailer driven by one Hasha; that as he reached the summit, where there was a cafe, he discovered that two other trucks with trailers were parked on the north side of the highway; that there was no additional room for him to park so he pulled his truck and trailer south across the highway and parked off of and parallel with it and about 10 feet to the south thereof in a space in front of the cafe; that he went in and ate and waited for the fog to rise; that there was no improvement in that condition; that he left the cafe with Hasha, got into his truck, turned on the lights, sounded his horn, placed his truck in low gear and “took off”; that he pulled across the highway to the north at a 45 degree angle; that at about the time the truck reached the center line of the highway he stopped his truck because he heard, but did not see, a car coming from his left traveling toward Victorville; that he could not form any estimate of its speed but believed the motor was being accelerated.
+The east-bound car' in which plaintiff was riding struck defendant’s truck near its left front wheel. Plaintiff’s head was thrown through the windshield of the Dillon car and there were multiple injuries to plaintiff, the most serious of which was a permanent foot and knee fracture.
+Plaintiff testified that both headlights and fog lights were burning on the Dillon car; that it was proceeding about 2 or 3 feet south of the center lane and about 20 to 25 miles per hour; that the weather was cold and the windows were up; that the windshield wipers were working; that suddenly plaintiff saw headlights directly in front of him “pointed off at sort of an angle” and about 50 feet away in the lane of traffic occupied by the Dillon car; that no warning sound had been heard; that plaintiff immediately “hollered” to Dillon “look out”; that immediately the brakes were applied and he felt the car making a slight swerve. This evidence was corroborated by Mr. Walton, the other passenger in the Dillon car. Dillon was not present to testify.
+Hasha testified that he and Marcum came out of the cafe together; that due to the fog, visibility was only about 25 to 30 feet; that he walked across the highway to his truck; that he could not see Marcum’s truck from there but heard him start the motor and heard the horn sound; that soon thereafter he heard the brakes being applied on the Marcum truck and then a crash; that thereafter he noticed no lights burning on the Dillon car; that he looked at the wreck and noticed the headlight switch on the Dillon car was not on, but did ■not examine the switch as to the fog lights.
+Upon this evidence the jury returned a verdict for $10,000 for plaintiff. Defendants appeal from the judgment and raise no question as to the amount of the verdict, rulings of the court or instructions given. Two contentions are presented on this appeal: (1) that the sole proximate cause of the collision was the result of the negligence of Lieutenant Dillon, and that the defendants were free from negligence; and (2) that plaintiff was guilty of contributory negligence as a matter of law.
+As to the first contention it is argued that, under the evidence, Lieutenant Dillon was violating section 510 of the Vehicle Code in reference to the basic speed law by proceeding at a rate of speed between 20 and 25 miles per hour, when his visibility of the roadway was impaired by the fog, and without proper headlights.
+The evidence as to whether the Dillon car was burning headlights or fog lights at the time is in conflict. From all the evidence it appears that he was driving on his right half of the highway and in a careful and prudent manner and was suddenly faced with a dangerous situation created by the act of the defendant driver in crossing over the highway and stopping in Dillon’s pathway with a long truck and trailer. Under the conditions prevailing the negligence of the defendant driver was clearly established by the evidence. (Kelley v. Hodge Transportation System, 197 Cal. 598 [242 P. 76].) The question of the proximate cause of the accident and injury was left to the jury to determine under proper instructions and it found against defendants on this question. The evidence fully supports its findings.
+The second argument has less merit. The claimed contributory negligence of plaintiff is predicated upon the theory that plaintiff assumed the risk involved by riding with Lieutenant Dillon, who kept the windows of his car up and who drove at the speed indicated without plaintiff making any comment with respect' to the weather conditions and the possibility of danger at the top of the pass, since plaintiff was familiar with the condition of the highway at that point. This question of plaintiff’s claimed negligence was purely a question of fact for the jury.
+Judgment affirmed.
+Barnard, P. J., concurred.
