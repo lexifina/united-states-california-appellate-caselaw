@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 37955"
+decided: "1971-08-31"
+citations: ["19 Cal. App. 3d 769"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT E. DONALD, Plaintiff and Appellant, v. LEE A. GARRY, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/19/cases/0769-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4403237
+cites_cases: ["15 Cal.Rptr. 821", "320 P.2d 16", "364 P.2d 685", "449 P.2d 161", "49 Cal.2d 647", "56 Cal.2d 583", "65 A.L.R.2d 1358", "70 Cal.2d 223", "74 Cal.Rptr. 225"]
+---
+
+# Donald v. Garry
+
+## Majority (THOMPSON, J.)
+
+Opinion
+THOMPSON, J.
+This is an appeal from a judgment of dismissal entered after the trial court sustained respondent’s demurrer to appellant’s complaint without leave to amend. We reverse the judgment.
+Appellant filed his complaint in the case at bench on September 24, 1970. Respondent is named as a defendant only in the second cause of action. The pertinent portion of the complaint alleges the following. Respondent is an attorney at law admitted to practice in California. In 1966, appellant “forwarded” to Mutual Credit Bureau (Mutual), a licensed collection agency, a contract debt owed him in the amount of $10,634.40 plus interest at the rate of 7 percent per annum. Through respondent acting as its attorney, Mutual caused an action to be filed in the Los Angeles Superior Court to collect the debt. By reason of respondent’s negligence, the action was dismissed for lack of diligent prosecution. By reason of the dismissal, appellant has lost recovery on a valid and collectible claim.
+Respondent filed a general demurrer to the second count of the complaint claiming that it fails to state a cause of action and that it shows on its face that the claim alleged is barred by the statute of limitations. The trial court sustained the demurrer without leave to amend on the first, ground apparently on the theory that respondent, having been retained by Mutual, owed no duty of care to the appellant. We conclude that it erred in doing so.
+The Restatement Second of Torts provides in section 324A: “One who undertakes, gratuitously or for consideration, to render services to another which he should recognize as necessary for the protection of a third person or his things, is subject to liability to the third person for physical harm resulting from his failure to exercise reasonable care to protect his undertaking, if (a) his failure to exercise reasonable care increases the risk of such harm, or (b) he has undertaken to perform a duty owed by the other to the third person, or (c) the harm is suffered because of reliance of the other or the third person upon the undertaking.”
+The second cause of action of the complaint here considered alleges facts meeting the test of section 324A of the Restatement. Respondent undertook to render services to another (Mutual) which he should have recognized as necessary for the protection of the property of a third person (appellant). Appellant suffered harm in the loss of his collectible account by reason of respondent’s negligence in the performance of the undertaking assumed by him. Respondent’s failure to exercise reasonable care increased the risk of harm; he undertook but negligently failed to perform a duty owed by another (Mutual) to appellant; and there is a fair inference from the facts alleged that the harm suffered by appellant was due to the reliance of another (Mutual) upon respondent’s undertaking. Tested by the standards of the Restatement Second of Torts, the second cause of action of the complaint at bench, while somewhat inartfully drawn, is adequate to withstand a general demurrer.
+We reach the same conclusion from an analysis of California decisions. An attorney may be liable for damage caused by his negligence to a person intended to be benefited by his performance irrespective of any lack of privity of contract between the attorney and the party to be benefited. (1 Witkin, Cal. Procedure (2d ed. 1970) Attorneys, § 144.) The liability sounds in tort. (Heyer v. Flaig, 70 Cal.2d 223 [74 Cal.Rptr. 225, 449 P.2d 161].) The determination of whether the duty undertaken by an attorney extends to a third person not in privity “involves the balancing of various factors, among which are the extent to which the transaction was intended to affect the plaintiff, the foreseeability of harm to him, the degree of certainty that the plaintiff suffered injury, the closeness of the connection between the defendant’s conduct and the injury suffered, the moral blame attached to the defendant’s conduct, and the policy of preventing future harm.” (Biakanja v. Irving, 49 Cal.2d 647, 650 [320 P.2d 16, 65 A.L.R.2d 1358]; see also Lucas v. Hamm, 56 Cal.2d 583 [15 Cal.Rptr. 821, 364 P.2d 685].)
+In the case at bench, the transaction in which respondent’s negligence occurred was intended primarily for the benefit of appellant. Respondent was retained to collect an account due him. Harm to appellant from respondent’s negligence in failing diligently to prosecute the litigation was clearly foreseeable. The degree of certainty that appellant suffered injury is unquestioned if, as we must, we assume the allegations of the complaint to be true. On that same assumption, there is a direct connection between respondent’s conduct and the injury suffered. There is certainly some moral blame and no virtue whatsoever in respondent’s unjustified procrastination. Lastly, there is a policy that lawsuits should be diligently prosecuted which is served by fastening liability upon respondent in the case at bench and which would be frustrated by permitting the dilatory lawyer the luxury of insulation from liability because he was employed by a collection agency serving as an intermediary rather than by the client whose debt he was retained to collect.
+We thus conclude that the pertinent portion of the complaint at bench states a cause of action. The judgment of dismissal is reversed.
+Wood, P. J., and Clark, J., concurred.
+Respondent’s petition for a hearing by the Supreme Court was denied October 27, 1971.
