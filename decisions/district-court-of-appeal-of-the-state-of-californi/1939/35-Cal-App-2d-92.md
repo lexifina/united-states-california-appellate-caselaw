@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10442"
+decided: "1939-10-11"
+citations: ["35 Cal. App. 2d 92"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOCONY-VACUUM OIL COMPANY, INC. (a Corporation), Petitioner, v. THE SUPERIOR COURT OF THE CITY AND COUNTY OF SAN FRANCISCO, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/35/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4449672
+cites_cases: ["118 N. E. 211", "132 Cal. App. 67", "148 Pac. 206", "150 U. S. 653", "170 Cal. 33", "183 Cal. 506", "191 Pac. 911", "199 Cal. 420", "2 Cal. App. 582", "21 Pac. 609", "22 Pac. (2d) 271", "222 N. Y. 39", "233 Fed. 127", "24 Pac. (2d) 247", "249 Pac. 849", "32 Pac. (2d) 1002", "58 A. L. R. 1374", "79 Cal. 103", "84 Pac. 289"]
+---
+
+# Socony-Vacuum Oil Co. v. Superior Court
+
+## Majority (WARD, J. —)
+
+WARD, J. —
+This is a petition praying for a writ of prohibition restraining the superior court from entering a default based upon service of summons and complaint under the provisions of subdivision 2 of section 411 of the Code of Civil Procedure providing that summons in a suit against a foreign corporation doing business in this state must be served in the manner provided by section 406a of the Civil Code which, so far as material to this proceeding, provides that such process may be served upon the corporation by delivering a copy to its designated agent “or to the president or other head of the corporation, a vice-president, a secretary, an assistant secretary, the general manager in this state ...”
+Petitioner herein, a New York corporation having its principal place of business in New York city, has been named as one of the defendants in an action entitled Lotto v. SoconyVacuum Oil Company, Inc., et al., instituted in the superior court of this state in and for the city and county of San Francisco. The action arose out of injuries received by the plaintiff while in the employ of petitioner as seaman aboard its steamship “Socony Vacuum”. No agent having been designated by petitioner upon whom process may be served in this state, summons was served upon one L. J. Moore who held a power of attorney from petitioner corporation to represent it in matters before customs districts of the United States customs service at Los Angeles and San Francisco authorizing him “to make, indorse, sign, declare, or swear to any entry, withdrawal, declaration certificate, bill of lading, or other document required by law or regulation in connection with the importation, transportation or exportation of any merchandise shipped by or to, or consigned to said grantor; to perform any condition or act that may be required by law or regulation in connection with said merchandise; to receive any goods deliverable to said grantor”.
+The steamship Socony Vacuum was a carrier of petroleum products to and from various Pacific coast ports. Its purpose in touching at San Francisco and San Pedro harbors in California was to unload and reload the whole or portions of its cargo. In this connection, notices of its arrival and departure were entered in the United States custom house of these ports by the corporation’s agent L. J. Moore, who also represented and acted for petitioner in its various activities and engagements with the public in California ports and in connection with the entry and departure of its ships from such ports.
+From the statement of facts presented it appears that petitioner was transacting more than one isolated act of business in the State of California. Its business here was similar to the ordinary business transacted in its home port, New York, and was of sufficient substantial character to bring it within the purview of actively “doing business in this state”. (Code Civ. Proc., sec. 411; Jameson v. Simonds Saw Co., 2 Cal. App. 582 [84 Pac. 289]; Davenport v. Superior Court, 183 Cal. 506 [191 Pac. 911]; Milbank v. Standard Motor Const. Co., 132 Cal. App. 67 [22 Pac. (2d) 271] ; Winfield v. United Fruit Co., 135 Cal. App. (Supp.) 791 [24 Pac. (2d) 247].)
+Moore was an agent of the petitioner corporation, managing and controlling generally whatever services any of the ships of the petitioner corporation might require in loading or reloading. He was a general manager in California as distinguished from one in charge of a branch or department in a particular district (Pacific Coast Ry. Co. v. Superior Court of San Luis Obispo County, 79 Cal. 103 [21 Pac. 609]; Gordon v. Industrial Acc. Com., 199 Cal. 420 [249 Pac. 849, 58 A. L. R. 1374]; People v. Arthur, 1 Cal. App. (2d) (Supp.) 768 [32 Pac. (2d) 1002] ; Whipple v. Prudential Ins. Co., 222 N. Y. 39 [118 N. E. 211]), and his position with petitioner corporation was of sufficient character and rank to make it reasonably certain that the corporation would be apprised of the service of summons in the action of Lollo v. Socony-Vacuum Oil Co., Inc., et al. (Winfield v. United Fruit Co., supra; Tropico Land etc. Co. v. Lambourn, 170 Cal. 33 [148 Pac. 206] ; Frontier S. S. Co. v. Franklin S. S. Co., 233 Fed. 127; In re Hohorst, Petitioner, 150 U. S. 653 [14 Sup. Ct. 221, 37 L. Ed. 1211] ; Nichizui Trading Co. v. United States, 6 Fed. (2d) 335.)
+The peremptory writ is denied.
+Peters, P. J., and Knight, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on November 10, 1939, and an application by petitioner to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on November 30, 1939.
