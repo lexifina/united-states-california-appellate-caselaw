@@ -1,0 +1,57 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "E010259"
+decided: "1993-04-08"
+citations: ["14 Cal. App. 4th 1252"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. TOBY KIRK JONES, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/14/cases/1252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6037237
+cites_cases: ["10 Cal.App.4th 700", "12 Cal.Rptr.2d 662", "13 Cal.App.4th 1606", "136 Cal.Rptr. 521", "16 Cal.Rptr.2d 844", "167 Cal.App.3d 36", "185 Cal.App.3d 822", "199 Cal.Rptr. 45", "212 Cal.Rptr. 873", "220 Cal.App.3d 1413", "222 Cal.App.3d 723", "231 Cal.Rptr. 569", "270 Cal.Rptr. 172", "271 Cal.Rptr. 811", "35 Cal.3d 510", "56 A.L.R. 4th 1055", "6 Cal.App.4th 33", "67 Cal.App.3d 267", "674 P.2d 1303", "8 Cal.Rptr.2d 123"]
+---
+
+# People v. Jones
+
+## Majority (DABNEY, J.)
+
+Opinion
+DABNEY, J.
+A jury convicted defendant Toby Kirk Jones of first degree murder (Pen. Code, § 187). In an earlier appeal, this court filed an unpublished opinion on April 26, 1990, reversing the judgment of conviction because of instructional error. (People v. Jones (Apr. 26, 1990) E006297.)
+In the new trial on remand, a jury convicted Jones of second degree murder, and the court sentenced him to 15 years to life. Jones now contends the trial court erred in (1) failing to instruct on the lesser related offense of accessory after the fact; (2) excluding evidence of his girlfriend’s history of drug use and prostitution; (3) giving prosecution instructions that focused the jury’s attention on specific evidence rather than on general legal theories; and (4) allowing inflammatory photographs of the victim to go to the jury.
+Facts
+The victim, Marion Lee Usher, 67 years old in 1988, subsisted on Social Security payments. He became acquainted with Jones and his girlfriend, Denise Davis, at the. restaurant where Jones worked. Jones and Davis learned that Usher was sleeping in the park, and they invited him to stay with them. He lived with them for the next few weeks, paying $100 a month for rent.
+In May 1988, Usher received a back payment of about $2,700 from Social Security. He used part of the money to buy a car. Because he did not have a driver’s license, he asked Jones to drive him on a trip to Wyoming.
+After they returned from the trip on May 21, 1988, Jones and Usher argued frequently about money. Usher accused Jones of having taken money from him.
+On Tuesday, May 24, 1988, Usher was drinking heavily. Davis testified that she got high on rock cocaine that evening and went to the bedroom to lie down while Jones remained in the living room with Usher. Usher and Jones argued about money, about racial issues, and about the basketball game they were watching. At one point, Jones came into the bedroom and told Davis that Usher had threatened him. He remarked that he would do something to Usher before Usher did something to him.
+The two men were quiet for awhile, and then Davis heard Usher say, “ ‘For God sakes, Toby,’ ” in a loud voice as if he were frightened. Davis then heard a hammering sound several times. Jones said he had dropped something.
+Davis looked into the living room and saw Usher on the couch covered up with a blanket. Jones closed the door in Davis’s face. Davis heard a dragging sound and then heard Jones leave in Usher’s car. Davis later saw blood on the floor leading to the back door.
+Jones was gone for about an hour. When he returned, he brought cleaning supplies, and he asked Davis to help clean up. Jones scrubbed the couch and the floor, and he cut part of the cushion out of the chair.
+Jones told Davis he had thrown Usher’s body in the river. His clothes had sand and blood on them. Usher’s body was later discovered in the river. An autopsy revealed that he had died from trauma to the head caused by multiple blows with a blunt instrument.
+In a search of Davis and Jones’s house, officers seized a pair of black pants with sand on them. The pants were still damp. In the trunk of Usher’s car, officers found a bloodstained carpet. There were blood spatters, consistent with Usher’s blood type, on the wall behind the couch and on the couch cushion.
+Jones told an investigator that Usher had been drunk on May 24 and had left to catch a bus to Phoenix or Wyoming. In another conversation, Jones said that Davis “did’t [sic] know nothing and she didn’t do nothing.”
+Defense. Jones testified in his own behalf. He stated that on Tuesday morning, he went to a restaurant to apply for a job and was hired on the spot. He worked from about 8 a.m. until 3 p.m. and was then called back to work from 3:15 p.m. until 11:30 or 12 p.m. He came home from work and went right to bed without seeing Usher.
+When he got up at 10:30 or 11 the next morning, Davis was scrubbing the carpet. She said she and Usher had argued, and she had hit him in the nose, causing a nose bleed. She had been high on rock cocaine at the time. Jones helped Davis clean the floor. He did not see any blood on the walls or on the couch.
+Jones drove around in Usher’s car looking for Usher and then went to work. Usher still was not there when he got home. The next day, Davis called Jones at work and told him Usher had been killed. Jones went home, and Davis told him she had fought with Usher while she was high on rock cocaine, and she had killed Usher.
+When Davis visited Jones in jail, she told him Usher had told her he was dying of AIDS, and she would die too because she had had sex with him. She then went crazy and beat Usher to death with an iron.
+Dr. Irving Root, a pathologist, testified that the wounds to Usher’s head could have been caused by a tire iron or hand iron. If someone with Jones’s build and strength had hit Usher with such an object, the skull and brain would have been much more severely damaged than the autopsy showed. Root would have expected the skull to be fragmented and the brain pulverized. The position of the blows and their severity led Root to believe that the killing had occurred during an uncontrolled outburst of rage rather than during a premeditated act.
+Other relevant facts are set forth below.
+Discussion
+I
+Failure to Instruct on Offense of Accessory After the Fact
+Jones contends the trial court erred in refusing his request to instruct the jury on the offense of accessory after the fact as a lesser related offense to murder. On the defendant’s request, the trial court must instruct on lesser related offenses when three conditions are met: (1) there is some evidentiary basis, other than the inexplicable rejection of prosecution evidence, on which the jury could find the offense to be less than that charged; (2) the offense is closely related to the charged offense; and (3) a conviction for the related offense would be consistent with the defendant’s theory of defense. (People v. Geiger (1984) 35 Cal.3d 510, 531 [199 Cal.Rptr. 45, 674 P.2d 1303, 56 A.L.R. 4th 1055].)
+In People v. White (1986) 185 Cal.App.3d 822 [231 Cal.Rptr. 569], the court held that the crime of accessory to murder is closely related to murder. (Id., at pp. 829-830.) However, the trial court did not address the meaning or applicability of the second prong of the Geiger test. After reviewing Geiger and cases which have followed it, we conclude that White was wrongly decided, and we decline to adopt its holding, for reasons we discuss below.
+In People v. Farrow (1993) 13 Cal.App.4th 1606 [16 Cal.Rptr.2d 844], we recently discussed how to determine whether the second prong of the Geiger test has been met. In that case, we exhaustively examined the historical origins of the second prong of the Geiger test and reviewed various courts’ treatment and interpretation of that prong. Quoting People v. Blevins (1990) 220 Cal.App.3d 1413 at page 1417 [270 Cal.Rptr. 172], we concluded, “[T]he second prerequisite is established when the evidence offered by either side [which would support the giving of instructions on a lesser related offense] is relevant to and was admitted for the purpose of establishing whether the defendant is guilty [vel non] of the charged offense.” (Farrow, supra, 13 Cal.App.4th at p. 1623, italics omitted.) We noted that the actual wording of Geiger's “closely related” criterion focused “on the evidence adduced at trial to establish whether the defendant is guilty of the charged offense” and that Geiger's approach was evidentiary rather than sociological. (Farrow, supra, 13 Cal.App.4th at p. 1623.)
+We further note that the societal interest test, as discussed in cases such as People v. Hill (1992) 6 Cal.App.4th 33, 41 [8 Cal.Rptr.2d 123]; People v. Santos (1990) 222 Cal.App.3d 723 [271 Cal.Rptr. 811]; and People v. Boyd (1985) 167 Cal.App.3d 36 [212 Cal.Rptr. 873], in our view, may be both overinclusive and underinclusive with respect to defining lesser related crimes. It may be overinclusive, because crimes, in the abstract, may relate to the same societal interest, but the evidence supporting proof of one crime may be irrelevant to proof of the other crime. In those instances, the societal interest test may lead to a conclusion that the crimes are closely related without regard to the evidence adduced at trial.
+The societal interest test may also be underinclusive, if a narrow definition of the societal interest is used. The concept of the “societal interests” underlying various criminal offenses is subject to great variation in interpretation and application, and the use of a test based exclusively on this concept may lead to anomalous and inconsistent results. Therefore, we reject the reasoning of the Hill, Boyd and Santos courts with respect to their application of the second Geiger factor.
+Here, the evidence that could have supported an accessory instruction was that Jones lied to an investigator, telling him that Usher had left to catch a bus out of state and that Davis did not know anything and had not done anything. The prosecutor used the evidence of lying and covering up as evidence of Jones’s consciousness of guilt of the murder. However, the evidence related to the murder only circumstantially and indirectly. In other words, the evidence was relevant to the murder charge only to the extent it permitted the jury to infer a consciousness of guilt of that offense. (Cf. People v. Araujo (1992) 10 Cal.App.4th 700, 705 [12 Cal.Rptr.2d 662].) We conclude that the evidence did not establish that murder and accessory were closely related crimes. The requested instruction was properly refused.
+II, III
+Disposition
+The judgment is affirmed.
+Ramirez, P. J., and McKinster, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied July 15, 1993. Kennard, J., was of the opinion that the petition should be granted.
+Jones weighed about 250 pounds.
+In People v. Prado (1977) 67 Cal.App.3d 267 [136 Cal.Rptr. 521], the court instructed, “The crime of being an accessory after the fact has the following essential elements: (1) someone other than the person charged as an accessory . . . must have committed a specific completed felony; (2) the accused must have harbored, concealed or aided the principal; (3) with knowledge that the principal committed a felony; and (4) further, the hiding, concealing or harboring must be with the specific intent that the principal may escape from arrest and trial [citations].” {Id., at p. 271.)
+See footnote, ante, page 1252.
