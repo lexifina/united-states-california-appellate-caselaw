@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5682"
+decided: "1937-02-27"
+citations: ["19 Cal. App. 2d 384"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE N. KEYSTON et al., Petitioners, v. BANTA-CARBONA IRRIGATION DISTRICT et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/19/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2281096
+cites_cases: ["205 Cal. 426", "271 Pac. 487"]
+---
+
+# Keyston v. Banta-Carbona Irrigation District
+
+## Majority (THE COURT.)
+
+THE COURT.
+These petitioners, who are the owners and holders of coupons of certain bonds of the above-entitled district, are seeking by this writ of mandate to compel respondents to transfer to the bond interest fund of the district, all moneys which constitute the proceeds of assessments heretofore levied for bond interest, and to pay out said' moneys to holders of coupons entitled thereto.
+Since the issuance of the bonds to which these coupons were attached, the district, it is alleged, has regularly levied assessments on the lands within its boundaries for the purpose of paying the obligations of the district, including the accumulated interest on the bonds, and has collected large sums on account of said interest charges, which, however, have not been carried in a bond interest fund but have been deposited in the general fund or in some special fund, and although sufficient money has been received to pay all the interest on the outstanding coupons, respondents have refused to transfer such fund to the bond interest account or to pay these coupons belonging to petitioners.
+To this petition respondents have demurred on the ground of uncertainty, and of insufficiency of facts to justify the issuance of the writ, and have also answered, interposing a plea in abatement, alleging that an action is now pending in the Superior Court of the State of California in and for the County of San Joaquin seeking the same relief, and based essentially upon the same subject-matter as set forth in the petition for the writ.
+As we view the situation we need not consider any of the various points raised except that presented by the plea in abatement. While it is true one action filed in the Superior Court of San Joaquin County entitled Mason v. Banta-Carbona Irrigation District and E. Draper, Treasurer of Banta-Carbona Irrigation District, being numbered among the records thereof as 27487, wherein the petitioners sought, by writ of mandate, to compel the respondents therein to pay certain matured interest bearing coupons, has been dismissed, there is still pending in the courts of San Joaquin County, an action entitled Keyston et al. v. Banta-Carbona Irrigation District, and being numbered therein 27527. This latter proceeding was brought by three of the four petitioners who are here seeking this writ, praying for a judgment against the Banta-Carbona Irrigation District for the amount due them on certain interest coupons of bonds issued by the district, and will involve a consideration of practically the same questions presented in the petition for the writ now before this court.
+It is true that the action still pending in San Joaquin County is an action at law, and the petitioners or parties plaintiffs and defendants are not identical with the parties in the present action, but it does appear that generally they are the same and that in order to present the issues sought to be raised by the petition filed in this court the issues there suggested must be considered and determined.
+It is also asserted by respondents and conceded by petitioners that they are not in accord as to all of the facts in the case before us which would require the taking of testimony by this court directly or through a referee. In accordance with rule XXVI of the Rules for the Supreme Court and District Courts of Appeal, petitioners have set forth in their petition for the writ, a statement of circumstances, which in their opinion renders it proper that this writ should issue originally from this court, but an examination of these circumstances in the light of our study of the record and the facts there presented does not justify our assuming jurisdiction. The attitude of this court is well expressed in the case of Brougher v. Board of Public Works, 205 Cal. 426 [271 Pac. 487], where the court said:
+“Petitioners have advanced no sufficient reason why this court should assume jurisdiction of the proceedings to determine and settle in the first instance the facts involved in this controversy. The matter is now before us simply upon an order to show cause why the alternative writ of mandate prayed for by petitioners should not issue. It has never been the policy of this court to encourage the institution of proceedings herein, particularly where there is a dispute as to the facts involved, when such proceedings could as well have been instituted in the first instance in the superior court of the' county where the controversy arose. No good reason appears to us why we should depart from this policy in the present proceeding. The motion of petitioners to file an amended petition, therefore, is hereby denied and the order to show cause dismissed.
+“These orders are made, however, without prejudice to the right of petitioners to seek in the proper tribunal such relief, not inconsistent with the views herein expressed, as they may be advised they are entitled to.”
+■Therefore, in view of the fact that there is an action now pending that will present the question here attempted to be raised and that the superior court is better able to determine all of the conflicting facts than is this court, and that petitioners have a plain, speedy and adequate remedy in the superior court, the peremptory writ of mandate is denied.
+An application by petitioners to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on April 26, 1937.
