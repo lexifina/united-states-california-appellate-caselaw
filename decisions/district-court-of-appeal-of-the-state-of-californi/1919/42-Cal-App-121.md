@@ -1,0 +1,26 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 2642"
+decided: "1919-07-08"
+citations: ["42 Cal. App. 121"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. E. VANDEGRIFT, Respondent, v. J. B. MULLEN, Appellant."]
+source_url: "https://static.case.law/cal-app/42/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044577
+cites_cases: ["5 Cal. App. 344", "90 Pac. 365"]
+---
+
+# Vandegrift v. Mullen
+
+## Majority (JAMES, J.)
+
+JAMES, J.
+The plaintiff was successful in this action, which was brought to recover judgment for a sum of money alleged to have been paid to the defendant on account of the purchase price of certain real property. The defendant has appealed.
+In consideration of the payment to him of a certain sum of money, defendant issued to plaintiff a writing, which was subscribed by him, covering the terms of purchase of a certain tract of land. This writing contained the following paragraph:
+“I agree to furnish an unlimited certificate of title vested in the buyer’s name showing clear of all incumbrances and to accept for said real property the sum of $11,700.00 net to me, to be paid in the following manner: The balance of $11,050.00 Vandegrift Realty Co. agrees to pay as follows, one-fourth (^4) cash on delivery of deed, balance mortgage 1, 2 and J years at 7% interest, payable semi-annually.”
+The preliminary payments were made in accordance with the terms stated and the parties met together for the purpose of completing final papers, including the execution of a mortgage. The defendant then presented a mortgage which contained various terms, including those for the compounding of interest, the payment of street liens and assessments, insurance on the property, attorney’s fees in case of foreclosure, a condition that the mortgage might determine upon default of any payments of the principal or interest, etc. The plaintiff presented and offered to execute a mortgage in the form prescribed by section 2948 of the Civil Code. This mortgage the defendant refused to accept, and announced that he would accept no other mortgage than that which he had prepared. This suit was then brought by the plaintiff to recover back the money already paid out under the agreement. The sole question presented is as to whether the defendant, under the terms of the agreement, had the right to exact from the plaintiff the execution of the mortgage in the particular form determined upon by the defendant. This form contained many conditions not mentioned in the code section to which we have referred; in fact, nearly all of the particular conditions which we have noted it did contain constitute no part of the mortgage form prescribed in the section cited. However, it is the contention of the defendant that the contract was made with reference to a custom prevailing in the county of Los Angeles; that by that custom the form of mortgage offered by the defendant was the one generally adopted and in use. Several witnesses were examined and testified that the form prepared by the defendant was the one most generally in use, although it was admitted that the shorter or statutory form was found occasionally on the books of the county recorder. A printer of legal and commercial blanks testified that there were some five or more different forms furnished to the trade, but he did not dispute the statement made by the other witnesses to the effect that the long form containing conditions similar to those inserted in the mortgage by the defendant was the one most generally made use of. It will be noted from the paragraph which we have quoted from the agreement or writing signed by the defendant that no form of mortgage is referred to. In order to have read into an agreement a custom or practice, it is necessary not only to show that such custom prevails, but that the contract was made with reference to the custom. Where no express words are relied upon as referring to the custom at the time of making the agreement, it must then be shown that the party attempted to be bound had knowledge, actual or constructive, of the custom itself. (2 Parsons on Contracts, 9th ed., p. 696; 2 Page on Contracts, p. 926.) We find no evidence quoted from which it would appear that the plaintiff had any actual knowledge of the existence of the custom as to the form of mortgage used, and we do not think that under the facts the plaintiff should be constructively charged with notice of any such custom. Where there is a statutory form for the execution of written instruments, then, if we are to look for a presumption in the construction of contracts, it would be logical to infer that the parties, making an agreement which was silent as to a form to be used, had in view the legal form and not some other form. (Hale Bros. v. Milliken, 5 Cal. App. 344, [90 Pac. 365].) Our conclusion is that the evideuce as here presented was insufficient to show that the contract was entered into having in view the custom prevailing in Los Angeles County as to the form of mortgage to he used. The judgment of the court as entered was therefore right.
+The judgment appealed from is affirmed.
+Conrey, P. J., and Shaw, J., concurred.
