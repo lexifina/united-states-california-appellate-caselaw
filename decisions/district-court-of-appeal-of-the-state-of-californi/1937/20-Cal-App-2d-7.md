@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 10345"
+decided: "1937-03-25"
+citations: ["20 Cal. App. 2d 7"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JULIEN STRAUSS, Respondent, v. STAFFORD BUCKLEY et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/20/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6039253
+cites_cases: ["11 L. R A. 252", "25 Pac. 681", "87 Cal. 464"]
+---
+
+# Strauss v. Buckley
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+On a trial before a jury in an action for personal injuries plaintiff had a verdict upon which a judgment followed for $5,000. At about 6:30 A. M. of December 17, 1935, plaintiff was driving an automobile northerly on San Pablo Avenue in Berkeley, and defendant Stafford Buckley was driving southerly along the same street. As plaintiff passed the intersection of Oregon Street, he saw defendants’ ear swerve suddenly to the left and then turn sharply to the right. Plaintiff turned to his left, and the cars came in collision on the westerly side of the highway. The point of impact of each car was the right front portion, approximately at or above the right front wheel. The highway was a wide boulevard with room for six lanes of traffic. The defendant Stafford Buckley was intoxicated at the time, and his negligence is not disputed. The other defendant is held because of her ownership of or interest in the car.
+The judgment for $5,000 is manifestly excessive, and can be accounted for only through the prejudice and passion of the jury aroused by the frequent references to the drunken condition of the driver or through the errors in the cross-examination of the plaintiff. In either case the judgment must be reversed. The damages recoverable in a case of this kind are to be compensatory only; punitive damages are not recoverable because of the drunkenness of the defendant. That is an offense in itself for which punishment may be imposed in the ordinary course of law. Evidence of the drunkenness may be offered, of course, to show the negligence of the driver, but it may not be used to enhance the award of damages beyond that which will fairly compensate the plaintiff for the injuries suffered.
+The collision occurred on December 17, 1935. The plaintiff was taken to a hospital where he remained eight days. His hospital bill was $135; his bill for nursing was $60; that for two doctors was $135. His injuries consisted of a scalp wound, bruises on the nose and arm and a sprained ankle. He suffered no broken bones and no permanent injuries. The scar on his scalp had healed at the time of the trial in June, 1936. Plaintiff was a traveling salesman selling women’s apparel/ Within nineteen days after the accident he resumed calling on his customers, drove his automobile as soon as it came from the repair shop, and increased his business about fifty per cent over the previous year. On direct examination he testified that his average earnings during this part of the season were from $25 to $100 a day, but that from the date of the accident to January 20, 1936, he was unable to earn more than $25 for the entire period, that the winter and spring of 1936 was an exceptionally good season in his line of business, but that he was unable to profit by it because of his injuries. He also testified that, except through the accident, he had never been sick and had not had any trouble at any other time. On cross-examination he admitted that he had not made any income tax return, state or federal, for the year 1935, and no federal return for the year 1934.
+The loss of income as a result of the injuries was one of the principal items of damage claimed, and the defendants sought to cross-examine plaintiff on this issue to disprove his testimony that he had not suffered from other injury or illness, but that his loss of income was due solely to the injuries received in this accident. For this purpose he was asked the following questions, objections to all of which were sustained:
+“Q. You had the flu this year, didn’t you? A. No, I had a little cold. Q. You collected insurance benefits for that didn’t you, for the flu? . . . Q. Is it not a fact in February of this year you had the flu and because of that disability you put in and collected a claim from the insurance company? ... Is it not a fact you made a statement to the Travelers Health Association and another statement to the Illinois Commercial Travelers Association in February of this year that you had the flu and collected benefits from them for that? ... Is it not a fact you wrote to those companies you had been laid up with the flu? . . . Isn’t it a fact you made a claim and collected from the Iowa State Travelers Association? ... Is it not a fact in February of this year you made a claim and collected for sickness, influenza, from the Travelers Health Association? . . . And at the same time collected, made a claim and collected from the Illinois Commercial Travelers Association ? ’ ’
+These questions were proper cross-examination directed to discredit plaintiff’s testimony relating to his loss of earning capacity and the exaggeration of his physical injuries, as well as to discredit him as a witness. These were matters which the defendants could with great difficulty contradict by other witnesses, and, under such circumstances, great liberality should have been allowed in the cross-examination. The rule applicable is stated in McFadden v. Santa Ana etc. Ry. Co., 87 Cal. 464, 470 [25 Pac. 681, 11 L. R A. 252].
+The judgment is reversed.
+Sturtevant, J., and Spence, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on April 24, 1937.
