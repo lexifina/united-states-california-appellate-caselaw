@@ -1,0 +1,43 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B143513"
+decided: "2001-06-07"
+citations: ["89 Cal. App. 4th 1013"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. ANGEL VALDEZ, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/89/cases/1013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 703633
+cites_cases: ["10 Cal.App.4th 690", "12 Cal.Rptr.2d 768", "19 Cal.4th 1074", "25 Cal.App.4th 913", "31 Cal.Rptr.2d 423", "73 Cal.App.4th 704", "81 Cal.Rptr.2d 315", "82 Cal.App.4th 1072", "86 Cal.Rptr.2d 675", "969 P.2d 160", "98 Cal.Rptr.2d 767"]
+---
+
+# People v. Valdez
+
+## Majority (COFFEE, J.)
+
+Opinion
+COFFEE, J.
+Angel Valdez appeals from his involuntary commitment as a mentally disordered offender (MDO) under Penal Code section 2960 et seq. He contends the evidence was insufficient to prove three of the five criteria required for an MDO commitment because (1) his underlying conviction of sexual battery under section 243.4 did not involve force or violence and did not otherwise qualify as an MDO offense; (2) his mental illness was not an aggravating factor in that underlying offense; and (3) he did not present a substantial danger of physical harm to others. We reject these claims and affirm the judgment.
+Background
+Appellant molested his five-year-old niece in 1997. He was convicted of sexual battery under section 243.4 and was sentenced to three years in prison. While serving his sentence, he exhibited several signs of mental illness, including depression, delusional thoughts, social withdrawal and auditory hallucinations. He was transferred to Atascadero State Hospital (ASH) for more intensive psychiatric care and was diagnosed as suffering from schizoaffective disorder, bipolar type. The Board of Prison Terms certified appellant as an MDO, and the trial court confirmed his status after a hearing under section 2966.
+Discussion
+Crime of Force or Violence
+The MDO statutes apply only to defendants who are serving prison sentences for crimes contained in section 2962, subdivision (e). That subdivision lists several specific crimes, and additionally provides that “[a] crime not enumerated ... in which the prisoner used force or violence . . .” is a qualifying offense. (§ 2962, subd. (e)(2)(F).) Sexual battery under section 243.4 is not an enumerated MDO offense, but the trial court determined that appellant’s conviction qualified because it involved the use of force or violence. Appellant argues this finding was unsupported by the evidence.
+Our task on appeal is to determine whether a rational trier of fact could have made the finding that appellant used force or violence during the commission of the sexual battery. (People v. Clark (2000) 82 Cal.App.4th 1072, 1082 [98 Cal.Rptr.2d 767].) We consider the entire record in the light most favorable to the judgment and must affirm if there is any substantial evidence supporting the finding. (Id. at pp. 1082-1083; People v. Miller (1994) 25 Cal.App.4th 913, 919 [31 Cal.Rptr.2d 423].)
+Here, two of the three psychologists who examined appellant as part of the MDO certification process (Dr. Michael Salby and Dr. Lance Portnoff) concluded that appellant had used force in the commission of the sexual battery. Dr. Michael German, appellant’s treating psychiatrist at ASH, testified that while the crime did not involve “force in terms of the physical contact,” the sexual battery was a qualifying offense because the young victim was unable to resist appellant. These opinions were based on the probation report in the criminal case, which described the offense as an incident in which appellant had placed his hands- under the buttocks of his five-year-old niece, lifted her onto his lap and touched her vagina through her clothing for several minutes. According to the report, appellant was confronted by family members about his behavior and said, “I touched her but I didn’t molest her. Molestation goes on in heaven all the time.”
+A qualified mental health professional may render an opinion on the criterion of force or violence and may rely upon the underlying probation report in formulating that opinion. (People v. Miller, supra, 25 Cal.App.4th at p. 917.) The three doctors’ opinions were substantial evidence that appellant’s sexual battery conviction was a-qualifying MDO offense.
+Appellant argues that the doctors’ conclusions on the force or violence issue should not be credited, because it was apparent from the probation report that the sexual battery involved only a slight touching and was not sufficiently egregious to qualify as an MDO offense. He relies primarily on our Supreme Court’s decision in People v. Anzalone (1999) 19 Cal.4th 1074 [81 Cal.Rptr.2d 315, 969 P.2d 160], superseded by statute in other part as stated in People v. McCauley (1999) 73 Cal.App.4th 704, 708-709 [86 Cal.Rptr.2d 675]. We are not persuaded.
+In Anzalone, the underlying offense was an unarmed bank robbery accomplished by a written demand for money. The defendant had not touched his victim or threatened her with any harm, and the court held that the implied threat of force inherent in a robbery did not make it a crime of “force or violence” under the MDO statutes. (People v. Anzalone, supra, 19 Cal.4th at pp. 1080-1081.) Anzalone relied in part on People v. Collins (1992) 10 Cal.App.4th 690, 697 [12 Cal.Rptr.2d 768], which considered a challenge to jury instructions in an MDO case and concluded that “force or violence” meant something more than the slight touching required for a battery.
+Appellant’s sexual battery conviction involved much more than a slight touching. He physically restrained a small child too young to resist and touched her vaginal area for several minutes despite the presence of other family members. Nothing in Anzalone suggests that such conduct falls short of the force required for an MDO determination.
+Mental Illness as Aggravating Factor
+An MDO commitment requires a finding that the defendant suffers from a severe mental disorder that was a cause of or an aggravating factor in the underlying crime. (§ 2962, subd. (d)(1).) Appellant does not dispute that his schizoaffective disorder was a severe mental disorder, but contends it did not contribute to the sexual battery. We disagree.
+Dr. German testified that in his opinion, appellant’s mental illness was a factor in the molestation of his niece. He noted that appellant had been mentally ill since at least 1987, but had stopped taking his prescribed medications about a week before the offense. The symptoms of appellant’s illness included religious delusions, and his explanation that “Molestation goes on in heaven all the time” suggested that his criminal act was related to these delusions. From this testimony, a reasonable trier of fact could conclude that appellant’s mental disorder was an aggravating factor in the sexual battery. (People v. Clark, supra, 82 Cal.App.4th at p. 1083.)
+Substantial Danger of Physical Harm
+Appellant argues that the People failed to prove another statutory criterion for an MDO commitment: that by reason of his severe mental disorder, he “represents a substantial danger of physical harm to others.” (§ 2962, subd. (d)(1).) Again we disagree.
+Dr. German testified that appellant met this criterion. He observed that appellant had been verbally and physically assaultive toward a prison guard a few months earlier, and explained, “[Appellant] has [a] long history of mental disorder, noncompliance with treatment, violation of parole. His psychiatric condition would deteriorate without medications. The patient has poor insight and lack of understanding for medication therapy which predispose him for decompensation and dangerous behavior. [f] . . . [f] . . . He is compliant in the hospital setting. But on a number of occasions, he stated that he feels he is much better, doesn’t need his medications.” This testimony by a qualified expert supported the trial court’s finding that appellant presented a substantial danger of physical harm to others. (See People v. Clark, supra, 82 Cal.App.4th at p. 1083.)
+The judgment is affirmed.
+Gilbert, P. J., and Yegan, J., concurred.
+All statutory references are to the Penal Code.
+As relevant here, section 243.4, subdivision (a) provides: “Any person who touches an intimate part of another person while that person is unlawfully restrained by the accused or an accomplice, and if the touching is against the will of the person touched and is for the purpose of sexual arousal, sexual gratification, or sexual abuse, is guilty of sexual battery.”
