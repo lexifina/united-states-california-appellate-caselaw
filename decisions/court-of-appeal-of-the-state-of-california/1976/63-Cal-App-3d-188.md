@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 48692"
+decided: "1976-10-26"
+citations: ["63 Cal. App. 3d 188"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FOREST E. OLSON, INC., et al., Petitioners, v. THE SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent; EDWARD BERNSTEIN, Real Party in Interest."]
+source_url: "https://static.case.law/cal-app-3d/63/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4464321
+cites_cases: ["125 Cal.Rptr. 306", "52 Cal.App.3d 894"]
+---
+
+# Forest E. Olson, Inc. v. Superior Court
+
+## Majority (ASHBY, J.)
+
+Opinion
+ASHBY, J.
+This is a proceeding in mandamus brought after respondent court overruled petitioners’ demurrer to the second cause of action of a pending cross-complaint. We issued an alternative writ and set the matter for oral argument to enable us to consider the following question of first impression: Does section 632 of the Penal Code prohibit one participant to a telephone conversation from recording such conversation without the knowledge or consent of the second participant to the conversation? We hold that it does.
+The first amended cross-complaint filed below by real party in interest pleads two causes of action against petitioners. Both allege that petitioners recorded telephone conversations between themselves and real party in interest in December 1973, without the consent of real party, and that the recordings of said conversations were introduced into evidence over real party’s objection at arbitration proceedings conducted in November 1974 before the San Fernando Valley Board of Realtors. The first cause of action asserts that petitioners’ conduct was violative of section 631 of the Penal Code. Petitioners’ demurrer to this cause of action was sustained by respondent court on the authority of Rogers v. Ulrich, 52 Cal.App.3d 894 [125 Cal.Rptr. 306]. The second cause of action grounds liability on conduct assertedly violative of section 632 of the Penal Code and seeks damages pursuant to section 637.2 of the Penal Code. Petitioners’ demurrer to this cause of action was overruled thus raising the issue before us now.
+Discussion
+Petitioners, relying on the statement of legislative intent contained in section 630 of the Penal Code, contend that section 632 applies only to the recording of telephone communications by third parties and that a participant in the conversation qualifies as a person “known by all parties to a confidential communication to be overhearing” the communication and is thus expressly excluded by the definition of the word “person” contained in section 632, subdivision (b), from the prohibitions contained in section 632, subdivision (a). We find neither of these arguments persuasive.
+As the court noted in Rogers v. Ulrich, supra, 52 Cal.App.3d 894, albeit by way of dictum, section 632 goes beyond the scope of section 631 by prohibiting not only eavesdropping, but also recordation by a party to the conversation. Section 632 is the successor to former section 653j of the Penal Code which specifically forbade recordation of confidential communications by an individual “.. . not a party to the communication. . . .” Section 632 eliminated this language. Thus the persons whom the Legislature intended to exclude from the purview of subdivision (a) of section 632 are expressly enumerated in subdivision (b) of that section, as follows: “[A]n individual known by all parties to a confidential communication to be overhearing or recording such communication.” The ordinary meaning of the term “overhearing” connotes nonparticipation by a third party in the conversation. A participant in conversation hears it, he does not “overhear” it. We thus conclude that a participant to a telephonic communication is exempted from the prohibition against recording such communication only if the other participant to the communication knows that it is being recorded.
+Our conclusion is directly supported by Penal Code section 633.5 which states one of the two exceptions to sections 631 and 632. Section 633.5 provides as follows:
+“Nothing in Section 631 or 632 shall be construed as prohibiting one party to a confidential communication from recording such communication for the purpose of obtaining evidence reasonably believed to relate to the commission by another party to such communication of the crime of extortion, kidnapping, bribeiy, any felony involving violence against the person, or a violation of section 653m, and nothing in Section 631 or 632 shall be construed as rendering inadmissible in a prosecution for extortion, kidnapping, bribeiy, any felony involving violence against the person, or a violation of Section 653m, or any crime in connection therewith, any evidence so obtained.” Clearly there would be no need for this exception were it not the rule under sections 631 and 632 that a participant to a telephonic communication cannot record that communication without the knowledge of the other participant or participants.
+The second cause of action in the first amended cross-complaint pleads only that petitioners recorded conversations, without real party’s consent. It does not say that real party did not know that the recording was being made. Subdivision (b) of section 632 speaks in the disjunctive. As presently pleaded, the second cause of action is therefore demurrable. Real party should, however, have the opportunity to amend if he can . assert that the conversations were recorded without his knowledge.
+The alternative writ of mandate is discharged. The cause is remanded for further proceedings not inconsistent with the views expressed herein.
+Kaus, P. J., and Hastings, J., concurred.
+Section 632 of the Penal Code provides in relevant part as follows:
+“(a) Every person who, intentionally and without the consent of all parties to a confidential communication, by means of any electronic amplifying or recording device, eavesdrops upon or records such confidential communication, whether such communication is carried on among such parties in the presence of one another or by means of a telegraph, telephone or other device, except a radio, shall be punishable by fine ... or by imprisonment....
+“(b) The term ‘person’ includes an individual, business association, partnership, corporation, or other legal entity, and an individual acting or purporting to act for or on behalf of any government or subdivision thereof, whether federal, state, or local, but excludes an .individual known by all parties to a confidential communication to be overhearing or recording such communication.” (Italics added.)
+Section 630 of the Penal Code reads as follows:
+“The Legislature hereby declares that advances in science and technology have led to the development of new devices and techniques for the purpose of eavesdropping upon private communications and that the invasion of privacy resulting from the continual and increasing use of such devices and techniques has created a serious threat to the free exercise of personal liberties and cannot be tolerated in a free and civilized society.
+“The Legislature by this chapter intends to protect the right of privacy of the people of this state.
+“The Legislature recognizes that law enforcement agencies have a legitimate need to employ modern listening devices and techniques in the investigation of criminal conduct and the apprehension of lawbreakers. Therefore, it is not the intent of the Legislature to place greater restraints on the use of listening devices and techniques by law enforcement agencies than existed prior to the effective date of this chapter.”
+Section 633 excepts district attorneys and other law enforcement officers from the provisions of sections 631 and 632 when they are acting within the scope of their authority.
