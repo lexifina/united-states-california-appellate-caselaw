@@ -1,0 +1,32 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 2527"
+decided: "1955-01-03"
+citations: ["130 Cal. App. 2d 67"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. HOWARD J. BENNER, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/130/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2164488
+cites_cases: ["260 P. 582", "86 Cal.App. 86"]
+---
+
+# People v. Benner
+
+## Majority (PEEK, J.)
+
+PEEK, J.
+By an indictment defendant was charged with two separate violations of section 72 of the Penal Code. In Count I he was accused of wilfully making a fraudulent claim for his expenses in transporting one Robert Sellers, a ward of the juvenile court of Del Norte County, from Crescent City to the Preston School of Industry at lone. Count II charged a similar violation of the same section involving a claim for expenses incurred in conveying one Alvery Miner, a ward of said court, to the same institution. Although the record does not show what disposition was made thereof, it does show that defendant moved to set aside the indictment, and also demurred to the same. A trial was had before a jury which found the defendant not guilty of the crime charged in Count I but guilty of the crime charged in Count II. Defendant’s motion for a new trial was denied, and thereafter his application for probation was granted. He now appeals from the judgment entered pursuant to the verdict of the jury, and from the order denying his motion for a new trial.
+During all of the times mentioned herein, defendant was the probation officer of Del Norte County. In that capacity he was called upon to drive to Roswell, New Mexico, and there to take into custody one Robert Sellers, a juvenile who had violated his parole. By the terms of the court order defendant was ordered to deliver Sellers to the Preston School. Also, by said order, defendant’s expenses were to be paid by Sellers’ parents, the sum agreed upon between them and defendant being $300, and a check in that amount was given to him. In addition, however, defendant filed a claim in the sum of $75.09 with the state for the expenses incurred by him in transporting Sellers from Crescent City to lone. It is this claim which formed the basis of the first count of the indictment, and on which he was found to be not guilty.
+At approximately the same time a second juvenile, Alvery Miner, who was then in Del Norte County, had been committed by the same court to the Preston School. For his necessary expenses in transporting Miner from Crescent City to the institution, defendant also filed a claim with the state in an identical amount, $75.09. This claim formed the basis of the second count of the indictment on which he was found guilty and which in substance charged as follows:
+. . . Said claim was false, and fraudulent as said Howard J. Benner well knew, in that the said Howard J. Benner claimed that he had conveyed the said Alvery Miner from said Del Norte County to said Preston School of Industry on or about the 15th day of September 1951, and that he, the said Howard J. Benner, returned on September 16, 1951 to the County of Del Norte after the delivery of said Alvery Miner to said Preston School of Industry, when in truth and in fact said Howard J. Benner did not return from said Preston School of Industry to said County of Del Norte on the 16th day of September 1951, and did proceed from said Preston School of Industry to Boswell, New Mexico.”
+It is to be noted that the claim was charged to be false in that Benner claimed that he conveyed Miner from Del Norte County to Preston School on or about September 15th and that he returned to Del Norte County on September 16th after such delivery, when in truth and in fact he did not return on the 16th but proceeded directly from the Preston School to New Mexico.
+Penal Code, section 72, provides that:
+“Every person who, with intent to defraud, presents for allowance or for payment to any state board or officer, or to any county, town, city, district, ward or village board or officer, authorized to allow or pay the same if genuine, any false or fraudulent claim, bill, account, voucher, or writing, is guilty of a felony.”
+The very evident purpose of said section is to prevent and penalize the making of fraudulent claims against public funds. (People v. Richards, 86 Cal.App. 86 [260 P. 582].) However here the falsity of defendant’s act as alleged in the indictment is that he claimed to have returned to Del Norte on September 16th when in truth and in fact he did not return on that date but continued on to New Mexico. The indictment does not charge that the amount of the claim was in error. Neither does it charge that the defendant did not deliver Miner to the school; nor is it charged, and obviously it could not be, that he did not ultimately return to Del Norte County. Such allegation certainly could not sustain a charge of presenting a false or fraudulent claim to the state. Whether he returned to Del Norte County on the 16th or on some other date would be wholly immaterial if he did in fact ultimately return; hence the conclusion is inescapable that the indictment does not charge the commission of a public offense.
+Even if the indictment were not subject to such an attack, the evidence before us would be likewise wholly insufficient to sustain the conviction of the defendant as to Count II. The record shows without contradiction that, acting under a valid order of the juvenile court, defendant conveyed a ward of that court from Del Norte County to lone. The claim which he filed for his necessary expenses was, according to the claims officer of the state, correct in amount for the miles traveled and the costs incurred for food and lodging. Again, even assuming his testimony in explanation of his activities to be false, that is that he did return to Del Norte County on September 16th, the fact remains that he did return, however circuitous his route may have been, and he was validly entitled to reimbursement for the return portion of his trip from lone to Del Norte County.
+The judgment is reversed.
+Van Dyke, P. J., and Schottky, J., concurred.
+A petition for a rehearing was denied January 18, 1955, and respondent’s petition for a hearing by the Supreme Court was denied February 2, 1955. Edmonds, J., and Spence, J., were of the opinion that the petition should be granted.
