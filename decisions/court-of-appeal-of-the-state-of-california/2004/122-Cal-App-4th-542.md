@@ -1,0 +1,78 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "E033600"
+decided: "2004-08-31"
+citations: ["122 Cal. App. 4th 542"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. LARRY DONELL EARLEY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/122/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1137542
+cites_cases: ["109 Cal.Rptr.2d 31", "113 Cal.Rptr. 43", "13 Cal.4th 622", "135 Cal.Rptr.2d 370", "18 Cal.4th 894", "191 Cal.App.3d 819", "23 Cal.App.4th 1506", "236 Cal.Rptr. 680", "26 Cal.4th 81", "26 P.3d 357", "265 Cal.Rptr. 144", "27 Cal.Rptr.2d 646", "28 Cal.Rptr.2d 758", "30 Cal.4th 1084", "37 Cal.App.3d 976", "40 Cal.App.4th 750", "418 U.S. 506", "47 Cal.Rptr.2d 595", "49 Cal.3d 1230", "523 U.S. 224", "530 U.S. 466", "542 U.S. 296", "55 Cal.Rptr.2d 26", "7 Cal.4th 380", "7 Cal.App.4th Supp. 8", "70 P.3d 359", "77 Cal.Rptr.2d 25", "783 P.2d 731", "867 P.2d 757", "9 Cal.Rptr.2d 827", "919 P.2d 640", "959 P.2d 18"]
+---
+
+# People v. Earley
+
+## Majority (GAUT, J.)
+
+Opinion
+GAUT, J.
+1. Introduction
+A jury convicted defendant of possession of marijuana for sale and misdemeanor vandalism. The court found true beyond a reasonable doubt that defendant had a prior serious and violent felony conviction that qualified as a strike and that he had served five prior prison terms. The court denied defendant’s motion to dismiss the strike and sentenced defendant to 10 years in prison. The court also charged defendant with five counts of contempt, for which the court summarily convicted him and sentenced him to 5 six-month consecutive jail terms to be served concurrently with the 10-year prison sentence.
+Defendant appeals, arguing he was denied his constitutional right to testify; challenging the admission of evidence of a prior uncharged marijuana offense; charging the prosecutor committed misconduct; and attacking the contempt convictions. We reject the first three contentions but we agree the contempt convictions were invalid. We also reject defendant’s supplemental argument, relying on Blakely v. Washington (2004) 542 U.S. 296 [159 L.Ed.2d 403, 124 S.Ct. 2531], that the court could not impose the three-year upper term on defendant’s conviction of possession for sale.
+2. Factual and Procedural Background
+In December 2001, the police apprehended defendant and another man as they loitered near a garbage dumpster for the Jarvis Apartments, a location known for drag-related activity. The police detained the men and performed a patdown search on defendant. The police found a pocket knife and a small baggie of marijuana in defendant’s pocket. Defendant acted bizarrely and appeared to be intoxicated. While sitting in the back of the police car, defendant smashed the rear passenger window and bent the doorjamb. The police subdued him with pepper spray.
+The police found another baggie of marijuana discarded near the dumpster. From the dumpster, the police retrieved another four baggies and more baggies of marijuana inside a pizza box. One single baggie of marijuana was found in the center console of a nearby car. In total, the police recovered 51 grams of marijuana. A police expert testified that defendant possessed the marijuana for sale.
+3. Defendant’s Right to Testify
+After both sides had rested but before the jury was instructed, the trial court granted the prosecution’s motion to amend the second count to make it a misdemeanor. Defendant then announced he wanted to testify, against his counsel’s advice, that the marijuana found in his pocket differed from the marijuana found in the dumpster. The court denied defendant’s motion to reopen the evidence because defendant’s testimony would have necessitated expert rebuttal evidence prolonging the trial.
+Defendant relies on two cases, People v. Harris and People v. Guillen. In Guillen, the appellate court held the defendant had forfeited his right to testify by not asserting it until after a jury convicted him and as grounds for a new triad. In Harris, however, the appellate court held the trial court erred when it denied the defendant’s request to testify after the prosecution rested its case.
+Following these authorities, we cannot say the trial court abused its discretion in denying defendant’s motion to reopen evidence. The motion came too late in the proceedings and did not propose to offer any new, particularly significant, evidence. Had defendant been permitted to testify it would have prolonged the trial and may have required the prosecution to present rebuttal testimony from an expert who, in turn, would first have to conduct further testing. Furthermore, even if the marijuana defendant was charged with possessing came from different batches, defendant could easily have been in possession of marijuana of varying qualities.
+Finally, there was no reason to permit defendant to testify because the prosecution was allowed to amend the information on count 2 to conform to the evidence. Defendant’s proposed testimony had no bearing on the charge of misdemeanor vandalism.
+4. Prior Uncharged Offense
+A police deputy testified that, in November 2001, he detained defendant outside the same apartments and found marijuana on his person and on the ground nearby.
+Defendant’s counsel objected to testimony concerning this previous incident. The trial court permitted the evidence to establish “common plan or scheme, knowledge [and] intent.” We review the trial court’s ruling for an abuse of discretion.
+Evidence Code section 1101 prohibits the admission of other-crimes evidence to show a defendant’s bad character or propensity to commit bad acts except when relevant to prove other facts like motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or accident. The list is not exclusive.
+People v. Ewoldt states: “In determining whether evidence of uncharged misconduct is relevant to demonstrate a common design or plan, it is useful to distinguish the nature and degree of similarity (between uncharged misconduct and the charged offense) required in order to establish a common design or plan, from the degree of similarity necessary to prove intent or identity.” Identity is not at issue here.
+Regarding intent and common plan or design, Ewoldt elaborated: “The least degree of similarity (between the uncharged act and the charged offense) is required in order to prove intent. [Citation.] ‘[T]he recurrence of a similar result . . . tends (increasingly with each instance) to negative accident or inadvertence or self-defense or good faith or other innocent mental state, and tends to establish (provisionally, at least, though not certainly) the presence of the normal, i.e., criminal, intent accompanying such an act ... .’ [Citation.] In order to be admissible to prove intent, the uncharged misconduct must be sufficiently similar to support the inference that the defendant ‘ “probably harbor[ed] the same intent in each instance.” [Citations.]’ [Citation.]
+“A greater degree of similarity is required in order to prove the existence of a common design or plan. As noted above, in establishing a common design or plan, evidence of uncharged misconduct must demonstrate ‘not merely a similarity in the results, but such a concurrence of common features that the various acts are naturally to be explained as caused by a general plan of which they are the individual manifestations.’ [Citation.] ‘[T]he difference between requiring similarity, for acts negativing innocent intent, and requiring common features indicating common design, for acts showing design, is a difference of degree rather than of kind; for to be similar involves having common features, and to have common features is merely to have a high degree of similarity.’ [Citations.]
+“To establish the existence of a common design or plan, the common features must indicate the existence of a plan rather than a series of similar spontaneous acts, but the plan thus revealed need not be distinctive or unusual. . . . Unlike evidence of uncharged acts used to prove identity, the plan need not be unusual or distinctive; it need only exist to support the inference that the defendant employed that plan in committing the charged offense. [Citation.]”
+The foregoing principles are somewhat difficult to apply in practice. It could reasonably be argued the November incident was admissible on the issue of intent to sell because there was a recurrence of a similar result: only two weeks before the current offense, defendant was caught at the same apartment complex, in possession of marijuana that he attempted to discard by tossing it away. It could also be argued that the two incidents were not sufficiently similar to support an inference of the same intent in each instance. On the other hand, a common design or plan may be shown by the common features between the two incidents.
+Based on the foregoing, we properly defer to the trial court’s finding that defendant’s prior conduct tended to show either intent or a common plan or design in the present offense. The record reflects the court properly weighed, both expressly and impliedly, the probative and prejudicial value of the evidence. The trial court did not abuse its discretion in admitting evidence about the November incident.
+5. Prosecutorial Misconduct
+In closing argument, the prosecutor told the jury it was clear defendant had possessed marijuana for sale on both occasions. The court sustained defense counsel’s objection and admonished the jury about the limited purpose of the evidence of the November offense and of there being no evidence of possession for sale at that time.
+On appeal, defendant argues the prosecutor’s misconduct was prejudicial and warrants reversal. We disagree. If there was error in the prosecutor’s somewhat clumsy effort to argue intent and common design or plan, it was harmless, being cured by the court’s timely admonition.
+The absence of evidentiary error or prejudicial prosecutorial misconduct means there was no cumulative error.
+6. Blakely
+Defendant requested the court decide in a bifurcated proceeding the truth of the allegations of his five prior prison terms and a prior strike. Defendant waived his right to jury trial on these allegations and the court decided they were true beyond a reasonable doubt.
+Defendant’s conviction for possession for sale was punishable by 16 months, two years, or three years in prison. The court sentenced him to the upper term of three years, based on a number of aggravating factors, including the court’s finding, beyond a reasonable doubt, that defendant had suffered a prior prison term. The court doubled the three-year term to six years because of the prior strike, and finally the court added 4 one-year enhancements for the prior prison terms for a total sentence of 10 years.
+In Apprendi v. New Jersey (2000) 530 U.S. 466, 490 [147 L.Ed.2d 435, 120 S.Ct. 2348], the court determined that “[o]ther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.” In June 2004, the United States Supreme Court decided Blakely v. Washington, supra, 542 U.S. 296 [159 L.Ed.2d at p. 412, 124 S.Ct. at p. 2536, extending Apprendi to circumstances where a defendant’s punishment is increased by the use of facts other than those based solely on a jury verdict or a plea. To do otherwise violates the Sixth Amendment right to a jury trial.
+Defendant now argues the court could not select the upper term in the present case without violating Blakely and Apprendi. We disagree. Defendant acknowledges that he waived his right to a jury trial on the prior prison term allegations and submitted to a court trial in which aggravating factors were proved beyond a reasonable doubt. For that reason, Almendarez-Torres v. U.S. (1998) 523 U.S. 224 [140 L.Ed.2d 350, 118 S.Ct. 1219]—holding that Apprendi, and by extension Blakely, does not apply to a court’s determination regarding recidivist-based sentencing factors—is not specifically relevant because here defendant agreed to let the court decide the issue and it was decided beyond a reasonable doubt.
+Nor is there a problem with an overlap between the aggravating circumstance used to impose the upper term and the facts used to impose the four one-year enhancements. One prior prison term alone was a sufficient aggravating circumstance to allow the court to impose the upper term of three years. The upper term was doubled because of defendant’s prior strike. The remaining four prior prison terms were sufficient to allow the court to impose the 4 one-year enhancements.
+7. Contempt Convictions
+Defendant engaged in wildly disruptive behavior throughout his first trial, ending in a mistrial, and also in his second trial. After sentencing him, the court proceeded to find defendant in contempt based on section 166 on at least five previous occasions and summarily imposed five consecutive six-month jail terms to be served concurrently with his 10-year prison sentence.
+Unfortunately, the trial court did not afford defendant his constitutional and statutory right to a jury trial. Under these circumstances involving a summary postverdict adjudication of acts of contempt allegedly committed during trial, defendant was entitled to due process, including a jury trial.
+The People offered no opposition in their respondent’s brief. At oral argument, the People conceded defendant had the right to a jury trial although the deputy attorney general acknowledged that under different circumstances defendant might not have such a right. Nevertheless, the long-suffering trial court could not properly impose summary contempt as it did in this instance.
+8. Disposition
+We affirm the judgment except we reverse the 5 six-month contempt convictions.
+Hollenhorst, Acting P. J., and Richli, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied November 10, 2004.
+Health and Safety Code section 11359.
+Penal Code section 594. Unless otherwise stated, the statutory references are to the Penal Code.
+Sections 667, subdivisions (c) and (e)(1), and 1170.12, subdivision (c)(1).
+Section 667.5, subdivision (b).
+People v. Harris (1987) 191 Cal.App.3d 819, 821 [236 Cal.Rptr. 680].
+People v. Guillen (1974) 37 Cal.App.3d 976, 984-985 [113 Cal.Rptr. 43].
+People v. Jones (2003) 30 Cal.4th 1084, 1110 [135 Cal.Rptr.2d 370, 70 P.3d 359], citing People v. Funes (1994) 23 Cal.App.4th 1506, 1520 [28 Cal.Rptr.2d 758],
+People v. Catlin (2001) 26 Cal.4th 81, 120 [109 Cal.Rptr.2d 31, 26 P.3d 357],
+People v. Ewoldt (1994) 7 Cal.4th 380 [27 Cal.Rptr.2d 646, 867 P.2d 757],
+People v. Ewoldt, supra, 7 Cal.4th at pages 402-403.
+Evidence Code section 352.
+People v. Frye (1998) 18 Cal.4th 894, 970, and 976 [77 Cal.Rptr.2d 25, 959 P.2d 18],
+Section 667.5, subdivision (b).
+Sections 667, subdivisions (c) and (e)(1), and 1170.12, subdivision (c)(1).
+Health and Safety Code, section 11359; Penal Code section 18.
+California Rules of Court, rule 4.421(b)(3).
+People v. Osband (1996) 13 Cal.4th 622, 728 [55 Cal.Rptr.2d 26, 919 P.2d 640],
+Codispoti v. Pennsylvania (1974) 418 U.S. 506, 511, 517 [41 L.Ed.2d 912, 94 S.Ct. 2687]; Mitchell v. Superior Court (1989) 49 Cal.3d 1230, 1240-1241 [265 Cal.Rptr. 144, 783 P.2d 731]; In re Kreitman (1995) 40 Cal.App.4th 750, 755 [47 Cal.Rptr.2d 595]; People v. Kalnoki (1992) 7 Cal.App.4th Supp. 8, 11 [9 Cal.Rptr.2d 827],
