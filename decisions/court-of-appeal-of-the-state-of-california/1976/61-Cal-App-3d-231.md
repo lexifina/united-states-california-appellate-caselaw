@@ -1,0 +1,41 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 15438"
+decided: "1976-07-20"
+citations: ["61 Cal. App. 3d 231"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Appellant, v. UNITED STATES FIRE INSURANCE COMPANY, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-3d/61/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4499929
+cites_cases: ["183 P.2d 10", "30 Cal.2d 463", "311 P.2d 500", "34 Cal.App.2d 201", "48 Cal.2d 588", "68 Cal. 82", "8 P. 679", "93 P.2d 593"]
+---
+
+# People v. United States Fire Insurance
+
+## Majority (PARAS, J.)
+
+Opinion
+PARAS, J.
+Plaintiff, the State of California, acting on behalf of the State Board of Equalization, brought an action to enforce the asserted liability of United States Fire Insurance Company (hereinafter “defendant”), under a written contract of surety by which defendant guaranteed the payment of sales and use taxes incurred by Gibson Products of Lodi, California, Inc. (hereinafter “Gibson Products”). The trial court held for defendant, ruling that plaintiff failed to file suit within the time period provided in the applicable statute of limitations, Revenue and Taxation Code section 6711. Plaintiff appeals.
+The case was tried on the following stipulated facts:
+“1. The State Board of Equalization made determinations pursuant to the Sales and Use Tax Law (Rev. & Tax. Code, § 6001 et seq.) that Gibson Products Company of Lodi, California, Inc., is liable through November 5, 1969, for sales and use taxes of the State of California in the sum of $12,690.83, which sum is comprised of $9,452.40 tax, $2,293.19 interest, and $945.24 penalties.
+“3. Plaintiff has made demand upon Gibson for the payment of the stated amounts, but neither the whole nor any portion of these said amounts has been paid by Gibson to plaintiff.
+“4. On February 28, 1967, United States Fire Insurance Company executed a Bond of Seller pursuant to demand for security under the California Sales and Use Tax Law. The Bond had an effective period from November 1, 1966 to November 5, 1969, and named Gibson Products of Lodi, California, Inc., as principal. The penal sum of the bond is $10,000.00.
+“5. The bond cause of action arose on May 29, 1970, when the notice of determination became final.
+“6. A Certificate of Amount of Tax, Interest and Penalties Due was recorded in San Joaquin County on July 27, 1970 and filed with the Secretary of State at Sacramento on July 28, 1970. This certificate is numbered BE-98393 and encompasses the effective period of the bond. Copies of the certificate are attached as Exhibits “A” and “B” and are incorporated herein by reference.
+“The- only issue to be determined by the Court in this action is whether the action is barred by the statute of limitations.”
+Approximately three years and five months after the cause of action arose, plaintiff filed its complaint against defendant, alleging that it was proceeding pursuant to sections 6711-6715 and sections 2787-2854 of the Civil Code. The trial court considered three statutes to determine the applicable limitation period. Section 6711, as amended effective January 1, 1970, provides as follows: “At any time within three years after any tax or any amount of tax required to be collected becomes due and payable and at any time within three years after the delinquency of any tax or any amount of tax required to be collected, or within the period during which a lien is in force as the result of the recording of an abstract under Section 6738 or of a certificate under Section 6757 or 6757.5, the board may bring an action in the courts of this state, of any other state, or of the United States in the name of the people of the State of California to collect the amount delinquent together with penalties and interest.” (Italics added.) Code of Civil Procedure section 338 provides that an action based on a liability created by statute, other than a penalty or forfeiture, must be brought within three years. Finally, Code of Civil Procedure section 337, subdivision 1, states that an action upon a contract, obligation or liability founded upon an instrument in writing must be brought within four years.
+I
+Plaintiff contends that even if section 6711 is applicable (which plaintiff disputes), the limitation provisions contained therein do not bar the present action, because they provide that a suit for taxes may be brought either within three years of the time they become due and payable or within the period during which a lien is in force as a result of recording a certificate under section 6757. By the terms of the latter section, a lien is in force for a period of 10 years from the filing of the certificate unless sooner released or otherwise discharged. Plaintiff thus argues that since certificates were filed in the instant case in July 1970, the cause of action is timely.
+With this contention we agree. The only contrary argument is that section 6711 did not always read as it does now; prior to its amendment of January 1, 1970, and at the time the bond expired (Nov. 5, 1969), it required filing no later than three years after the last recording of a certificate under section 6757; since the amendment was not effective until after the bond expired; it could not affect the surety’s liability. (Spencer v. Houghton (1885) 68 Cal. 82 [8 P. 679].) Prior to the amendment, section 6711 read as follows: “At any time within three years after any tax or any amount of tax required to be collected becomes due and payable and at any time within three years after the delinquency of any tax or any amount of tax required to be collected, or within three years after the last recording of an abstract under Section 6738 or of a certificate under Section 6757, the board may bring an action in the courts of this state, or any other state, or of the United States in the name of the people of the State of California to collect the amount delinquent together with penalties and interest.” (Italics added.) Generally, statutes defining the rights of the parties as they existed at the time the bond was issued “entered into [the] contract of suretyship, and became a vested right, of which [the surety] could not be deprived by subsequent legislation.” (Spencer v. Houghton, supra, at p. 90; see also Feldmeier v. Mortgage Securities, Inc. (1939) 34 Cal.App.2d 201, 260 [93 P.2d 593]; 72 C.J.S., Principal and Surety, § 6, p. 517.) Despite this general rule, the statute of limitations in effect for the duration of a contract of suretyship affects only the remedy and not the right (Evelyn, Inc. v. California Emp. Stab. Com. (1957) 48 Cal.2d 588, 592 [311 P.2d 500]); and the Legislature may extend the period of limitations, if it does so before the cause of action is barred. (Ibid.; see also Muddy. McGolgan (1947) 30 Cal.2d 463 [183 P.2d 10].) The current version of section 6711 enlarged the period of limitation before the plaintiff’s claim was barred, and hence the complaint was timely.
+II
+The foregoing makes it unnecessary to resolve plaintiff’s contention that Code of Civil Procedure section 337, subdivision 1, applies. Accepting the trial court’s decision to apply section 6711 as correct, plaintiff should have prevailed.
+Ill
+Defendant contends that the three-year period of Code of Civil Procedure section 338 properly applies to this cáse. Suffice it to say that civil periods of limitation are normally governed by Code of Civil Procedure sections 312 to 363, “unless Where, in special cases, a different limitation is prescribed by statute.” (Code Civ. Proc., § 312.) Section 6711 prescribes such a different limitation period for actions to collect delinquent taxes.
+The judgment is reversed.
+Friedman, Acting P. X, and Regan, X, concurred.
+Hereinafter section references are to the Revenue and Taxation Code, unless otherwise specified.
+Plaintiff later moved to amend its complaint to allege that plaintiff was bringing the action in its individual capacity as a sovereign, i.e., a juristic person, rather than pursuant to sections 6711-6715. The court denied the motion.
