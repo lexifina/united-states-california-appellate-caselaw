@@ -1,0 +1,29 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 90"
+decided: "1908-08-07"
+citations: ["8 Cal. App. 597"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. JAMES BUDD CLAUDIUS, Appellant."]
+source_url: "https://static.case.law/cal-app/8/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4508012
+---
+
+# People v. Claudius
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+Appeal by defendant from a judgment of conviction and from an order denying a new trial.
+The information, filed October 9, 1907, charged the defendant with unlawfully taking away from the custody of the mother, and without her consent, an unmarried female under the age of eighteen years for the purpose of prostitution. Within the sixty days next ensuing after the date of filing the information the cause, by consent, was set for trial December 9th, at which date it was commenced and thereafter concluded on December 12, 1907. While it is true that the defendant was not brought to trial within sixty days after the filing of the information, yet his consent that the trial should be set for the date fixed obviated the necessity upon the part of the people of showing upon the motion to dismiss other good cause why the motion should be denied.
+It is claimed upon this appeal that the evidence contained in the record is insufficient to warrant a verdict of guilty as charged. It is disclosed by the evidence that this young girl claimed to have been abducted, was of that class who frequent the public dance-halls of Los Angeles, where she met the defendant, a young man who, while but twenty-four years of age, had been once married to and lived with a woman whom he conceded was a prostitute, but who had procured an annulment of the marriage before defendant’s relations with the girl began. The usual results which are to be expected from a dance-hall acquaintance followed. Shortly after they had commenced their illicit relations the defendant accepted employment as floor manager from one Moore, the keeper of a disreputable resort at Bakersfield. He and the girl accompanied Moore to Bakersfield, where she entered the house as one of the dancing girls kept for the entertainment of customers and after the dance to sell drinks. Above this dance-hall rooms were provided where the girls, engaged in dancing and selling drinks during the early part of the evening, were permitted to entertain their admirers after the bar closed and to retain money earned by them in such rooms. Defendant and this young girl occupied one of these rooms during their stay in Bakersfield. It is not shown by direct evidence that she actually practiced public prostitution, and both defendant and the girl testify that it was understood between them that she should not engage in prostitution, although it is shown that the other girls similarly situated did, and the rooms were maintained for that purpose. The girl gave all the money she earned to defendant, and Moore provided her with a striking costume in which she appeared at the dances. This costume was in evidence and exhibited to the jury.
+We make this rather extended statement of facts to illustrate the conditions surrounding this girl, for which defendant was responsible and which he knew existed before he took her there, and to demonstrate that the jury were warranted, even in the absence of direct evidence, in finding that the girl was taken away for the purpose of prostitution. Men of average intelligence could not have found otherwise. To say that the conduct of the defendant in relation to this girl was not satisfactory evidence of the intent charged, notwithstanding their joint protest, would be to destroy the force of the established principle that one is conclusively presumed to contemplate the probable consequences of his own acts. The intent charged was a matter of fact which was for the jury to determine, and with their determination we are perfectly satisfied.
+The court did not err in permitting evidence of defendant’s statements to the effect that, before his acquaintance with the girl, he had been married to, and had been living with, a prostitute. It was competent as tending to show to the jury the intent reasonably to be inferred from defendant’s relation with this young girl and the object sought to be attained by him in placing her under the surroundings shown. Humiliating as it may be, courts and juries cannot close their eyes to the fact that among the degenerates in all cities has grown up a class who live upon the shame of women, and while it cannot be classed as a business, yet it has become so widespread that in a case like this, where there is involved the intent with which the defendant acted, it was proper to show that from his previous conduct and life he was of that class, and that in the prosecution of that nefarious calling he induced this girl to enter a life from which but one result could be anticipated.
+The record discloses no impropriety in any statement made by the court during the progress of the trial, nor any language by the district attorney not warranted from the facts in evidence.
+The admission in evidence of the costume provided by Moore for these women in his employ was proper, that the jury might have before them the whole of the surroundings into which this girl was placed, and that it might more intelligently determine the intent and object of those charged with recruiting victims for this den of vice.
+The instructions given by the court embodied the law upon the particular subjects, and none so given is open to criticism.
+We perceive no prejudicial error in the record, and the judgment and order are affirmed.
+Shaw, J., and Taggart, J., concurred.
