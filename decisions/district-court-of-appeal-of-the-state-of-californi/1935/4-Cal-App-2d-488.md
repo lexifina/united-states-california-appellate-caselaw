@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 8393; Civ. No. 8394"
+decided: "1935-02-11"
+citations: ["4 Cal. App. 2d 488"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARGARET I. WOODWORTH, Respondent, v. E. P. MORGAN et al., Appellants. LUCIUS E. WOODWORTH, Respondent, v. E. P. MORGAN et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/4/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259777
+---
+
+# Woodworth v. Morgan
+
+## Majority (YORK, J.)
+
+YORK, J.
+Plaintiffs, who are husband and wife, brought two actions which were consolidated for trial, asking for damages for personal injuries sustained by them in a collision between their car and defendants’ truck. From judgments in favor of plaintiffs, defendants prosecute this appeal.
+Among the various errors claimed by appellants is one which will require a reversal of the judgment. It is upon the point that the court failed to make a finding upon the allegation in the answer wherein it is specifically stated that the plaintiff “Margaret I. Woodworth so negligently, carelessly and unlawfully ran and operated said Chevrolet automobile that the same was caused to turn directly in the path of said truck being driven by defendant E. P. Morgan at a time when it was a hazardous act on the part of said Margaret I. Woodworth to attempt to make said turn and said Margaret I. Woodworth before making said turn did not first see that.said movement could be made in safety, and said Margaret I. Woodworth did not wait until said movement could be made in safety and said movement affected the operation of the truck being driven by defendant E. P. Morgan and said Margaret I. Woodworth negligently and carelessly failed to give any signal of her intention to make said turn and said Margaret I. Woodworth negligently and carelessly drove said Chevrolet automobile into the path of said truck at a time when an ordinarily prudent person would not have done so and as a proximate result of said negligence, carelessness and unlawful conduct on the part of said Margaret I. Woodworth, a collision occurred between said Chevrolet automobile and said truck and injury, if any, or damage, if any, sustained by said plaintiff were, and each thereof was, a proximate result of said negligence, carelessness and unlawful conduct on the part of said Margaret I. Woodworth.”
+The testimony of the driver of the defendants’ truck was that Mrs. Woodworth signaled that she was going to make a stop and that was the sole reason for the collision, in that she did not make the stop for which she had signaled, but that she made a left-hand turn and the collision then occurred. Her testimony, which evidently was believed by the trial court, was that she signaled a left-hand turn more than fifty feet before starting to make the turn. However, under all the circumstances of the case, the findings of' the court were not sufficient to support the judgment in this, that the trial court failed to find that the accident was caused without any negligence on the part of the plaintiff Margaret I. Woodworth contributing thereto, and in failing to find specifically or even generally on the different allegations of negligence and carelessness set forth in defendants’ answer; and also upon the separate affirmative defense by which it was alleged that the careless, negligent and unlawful operation of the Chevrolet automobile was the proximate cause of the collision and the injury sustained.
+This court is not deciding that the allegations of negligence contained in defendants’ affirmative defense are in proper form to constitute a plea of contributory negligence. But the answer did set forth an allegation that the accident was proximately caused by specific alleged acts of the plaintiff Margaret • I. Woodworth and the only finding of the trial court in relation to this matter is that the defendant “E. P. Morgan so negligently and carelessly drove and operated the truck of the defendants . . . that said truck struck the automobile in which plaintiffs were riding with great force and violence.” The only other finding of negligence is that “it is true that by reason of the said collision and the negligence of the defendants herein the plaintiff Margaret I. Woodworth was injured and bruised . . . ”; and that “by reason of such collision Lucius E. Woodworth was injured and bruised” and suffered specific injuries.
+There was direct evidence as to whether or not the facts stated in the answer were true, and whether or not the facts set forth in the complaint were true. Plaintiffs would not be entitled to recover unless the facts stated in the answer as to the negligence of the plaintiff Margaret I. Woodworth were untrue. There is no general finding such as frequently is incorporated that might cover the point involved, and there is no finding as to the truth or falsity of such allegations of negligence. This court cannot appropriately make findings of fact of its own in a case of this kind, where there is a direct conflict in the evidence upon an issue which should have been and should be determined by the trial court.
+The judgments are both reversed.
+Conrey, P. J., and Houser, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on March 12, 1935.
