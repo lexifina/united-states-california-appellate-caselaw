@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 1815"
+decided: "1934-12-04"
+citations: ["2 Cal. App. 2d 572"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. OSCAR W. DeVAUGHN, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/2/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2256072
+cites_cases: ["117 Cal. App. 476", "4 Pac. (2d) 244"]
+---
+
+# People v. DeVaughn
+
+## Majority (NOURSE, P. J.)
+
+NOURSE, P. J.
+The defendant was convicted upon an indictment charging the offense of subornation of perjury. He has appealed from the judgment and from the order denying his motion for a new trial.
+In the course of a previous trial of this defendant on a charge of murder occurring during the performance of an abortion, this defendant produced as a witness Mrs. May Perati, who testified that a short time before her death the deceased had appeared at her home and, in her presence, had attempted to produce an abortion upon herself with the use of a stick of slippery elm. The materiality of this testimony is not questioned and its falsity is not denied. In the present trial the witness Perati testified that this testimony was false and that it had been given at the request and upon the advice and suggestion of the defendant. She testified further that, for several years prior to the trial, she and her husband had been obtaining narcotic prescriptions from the defendant, a practicing physician, and that he had promised her, in return for her false testimony, that he would procure for her and for her husband a permanent narcotic order. In the murder trial the defendant was convicted. The witness Perati has pleaded guilty to an indictment charging her with perjury.
+The first point raised is that the evidence is insufficient to support the verdict. The foregoing statement should be sufficient answer; but to this it may be added that the witness Perati also testified in this trial that she had not known the deceased; that the deceased had not been to her home at any time; that her testimony in the murder trial that she had not known the defendant, had never been in his office, and had never been treated by him was false and was directed by the defendant; that all the testimony which she gave in the murder trial was prepared and suggested by the defendant; and that he had also directed her to attend the preliminary examination to learn what she could about the appearance and habits of the deceased. The defendant did not take the stand and offered no evidence contradicting the story of this witness.
+The appellant then argues that the verdict must be set aside because the evidence of Mrs. Perati was not corroborated. The same question was raised in People v. Layman, 117 Cal. App. 476 [4 Pac. (2d) 244], That case arose after the 1915 amendment to section 1111 of the Penal Code which added to the definition of an accomplice the following: “An accomplice is hereby defined as one who is liable to prosecution for the identical offense charged against the defendant on trial in the cause in which the testimony of the accomplice is given.” In construing the section the court held that one who has been suborned to commit perjury is not an accomplice of the suborner because he is not “liable to prosecution for the identical offense”. The decision is supported by many authorities; it adopts an accurate interpretation of the statute; and it is in accord with sound principles and reason.
+Error is assigned in the admission in evidence over appellant’s objection of a portion of the opening statement of appellant’s counsel in the murder trial. The offer was made for the sole purpose of showing that one of the defenses raised in the murder trial was that the abortion had been self-inflicted and that the Perati testimony was therefore material and related to a material issue of that trial. Proper practice would have brought a stipulation conceding that fact because it was a matter that was never in dispute. The same fact could have been proved by offering the whole record in the murder trial. The appellant suffered no prejudice by the offer objected to.
+Criticism is made of the ruling denying admission of- certain portions of the hospital report showing the history of the deceased. In the murder trial the appellant was convicted of having performed an abortion. His defense was that the act had been self-administered in the manner detailed by the witness Perati. In this trial the prosecution offered evidence to show that the appellant knew that the evidence of this witness was false. To counteract this evidence the appellant offered the hospital report which contained a recital of a statement purported to have been made by the deceased to the attending physician. This portion was not admitted and the appellant assigns the ruling as error, but for what reason we cannot understand. The rejected statement was to the effect that the patient, accompanied by another woman, went into an alleyway to a doctor’s office where a doctor performed the operation. In the murder trial this story was corroborated by identification of time, place and parties. But, in the trial for subornation of perjury, neither the statement of the deceased nor that portion of the report of the physician had any possible bearing on the issue of the falsity of the Perati testimony, or of the appellant’s knowledge that it was false.
+The judgment and order are affirmed.
+fíturtevant, J., and Spence, J., concurred.
