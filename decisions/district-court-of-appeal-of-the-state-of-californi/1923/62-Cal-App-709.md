@@ -1,0 +1,30 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 695"
+decided: "1923-06-28"
+citations: ["62 Cal. App. 709"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. WILLIE MURPHY, Appellant."]
+source_url: "https://static.case.law/cal-app/62/cases/0709-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2088043
+cites_cases: ["122 Pac. 969", "141 Pac. 380", "153 Cal. 398", "167 Cal. 754", "18 Cal. App. 209", "188 Cal. 602", "20 A. L. R. 1441", "206 Pac. 63", "95 Pac. 880"]
+---
+
+# People v. Murphy
+
+## Majority (JONES, J., pro tem.)
+
+JONES, J., pro tem.
+The appellant and one Hatler were jointly charged with an attempt to commit robbery on H. C. Cann. Upon his arraignment in the superior court the appellant pleaded guilty and asked for probation, but before his motion for probation was passed upon he moved the court for permission to withdraw his plea, the motion being based upon the ground that the plea of guilty had been made through inadvertence, ignorance, and without due deliberation. In his affidavit filed in support of the motion the appellant claims that he was not aware of the fact that he was charged with an attempt to rob Cann, and that he had not had any intention of robbing Cann. This motion was denied, as was also the motion for probation, and the court rendered judgment, from which an appeal has been taken.
+In support of his appeal appellant presents but one ground—that the court erred in not permitting the withdrawal of his plea, and properly maintains that the order denying his motion may be reviewed on the appeal from the judgment (People v. Dabner, 153 Cal. 398 [95 Pac. 880]).
+On the hearing of the motion in the superior court, all the testimony produced at the preliminary examination of the two eodefendants was made a part of the record, and an examination of that testimony shows that the appellant admits that, on November 25, 1922, in the evening, he and Hatler, in an automobile, went out on the H Street road, just out of Sacramento, with the intention of holding up travelers on the highway, and that he, Murphy, carried a revolver and had a handkerchief tied around his neck in such manner that it could be used as a mask. Two attempts to stop passing machines were made, but their efforts not proving successful, he and his confederate, according to his statement, abandoned their plans to rob, and started back to the city.
+In the meantime, two deputy sheriffs, in response to telephone calls, drove along the road and, going beyond the machine of appellant for a short distance, turned back and followed the appellant, and they observed that the license plates on appellant’s automobile were covered. After proceeding a short distance, the latter machine came to a stop, and appellant got out and walked toward the deputies, who had brought their machine to a standstill. In a statement made after his arrest appellant stated that he went back to “see why they were following us so close,” and that, as he approached the deputies, his hand was on his gun in his coat pocket, but that he did not intend to rob them and did not take his gun out of his pocket or try to. The deputies, however, each testified at the preliminary examination that the appellant came up to their machine and pulled a gun partly out of his pocket, at which time one of the deputies pointed a gun at him and compelled him to throw up his hands. He and his companion were then put under arrest and later were jointly charged in the justice court with the crime of attempting to rob the deputy, Gann.
+At the preliminary examination, held on February 21, 1923, the appellant was represented by counsel, and, though waiving the reading of the complaint, wa,s present when it was read to his codefendant. Upon the conclusion of the preliminary examination the two defendants were held to answer to the superior court, and when appearing there, on February 27th, for arraignment, the appellant was again represented by the same attorney who had appeared for him in the justice court, and who, in the superior court, apparently waived the reading of the information. At this time a copy of the information was handed to the appellant and on being asked for his plea he said “guilty.” The motion for probation was then made, and the court, after stating that there “was very little chance for a highway robber to get probation” from it, referred the matter to the probation officer for investigation and report.
+That the evidence produced at the preliminary examination would be sufficient, if presented to a jury, to sustain a verdict of guilty cannot be doubted. (People v. Moran, 18 Cal. App. 209 [122 Pac. 969].)
+The granting of permission to withdraw a plea of guilty is a matter within the discretion of the trial court, and before its action will be reversed there must clearly appear to have been an abuse of such discretion. (People v. Dabner, supra; People v. Bostic, 167 Cal. 754 [141 Pac. 380]; People v. Manriquez, 188 Cal. 602 [20 A. L. R. 1441, 206 Pac. 63].)
+No showing was made by appellant that any advantage of him was taken in any of the proceedings leading up to his arraignment in the superior court. He was represented by an attorney in both the justice and superior courts; he was present when the complaint was read to his codefendant in the justice court, and upon his arraignment in the superior court he received a copy of the .information (which, he avers, ho handed to his attorney without reading), and when asked for his plea to the charge, he responded that he was guilty. In view of these facts the trial court was not compelled to accept, as true, the averment of the appellant that he was not aware of the charge of the attempt to rob Cann, and a review of the entire record fails to substantiate his claim that there was an abuse of discretion in not granting his motion. It would, therefore, follow that the action of the trial court must be upheld.
+The judgment is affirmed.
+Finch, P. J., and Burnett, J., concurred.
