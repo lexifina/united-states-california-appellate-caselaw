@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "A065058"
+decided: "1995-05-23"
+citations: ["35 Cal. App. 4th 1"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JESSE BARNETT, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/35/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4870843
+cites_cases: ["150 Cal.App.3d 910", "17 Cal.App.4th 783", "198 Cal.Rptr. 124", "22 Cal.Rptr.2d 157"]
+---
+
+# People v. Barnett
+
+## Majority (STEIN, J.)
+
+Opinion
+STEIN, J.
+Jesse Barnett was convicted of second degree burglary (Pen. Code, § 459) and theft of items with a value in excess of $400. (Pen. Code, § 487.1.) An allegation that Barnett had suffered a prior conviction was found true. The trial court sentenced Barnett to a total of three years in state prison, further imposing on him a $200 restitution fine. The court, however, then found that Barnett might be addicted or be in imminent danger of becoming addicted to narcotics, and ordered the district attorney to file a petition for the commitment of Barnett to the California Rehabilitation Center (CRC). (See Welf. & Inst. Code, § 3051.) Barnett was determined to be a drug addict. The court thereafter suspended execution of sentence and ordered Barnett committed to the CRC for a period not to exceed three years. Barnett appeals from the judgment of commitment insofar as it imposed the restitution fine.
+Facts
+The facts underlying Barnett’s convictions are not relevant to any issue on appeal. It is enough that he was seen running out of a store carrying leather jackets attached to hangers, and was arrested a very short time later in possession of 13 leather jackets, each valued at $245.
+Discussion
+We decline to consider the validity of the restitution fine, because, under the statutory scheme surrounding commitment to CRC, the sentence imposed by the court, including the restitution fine, is for practical purposes only an interim sentence. The purpose of requiring the court to impose sentence prior to committing the defendant to CRC is not to fix for all purposes the sentence, but to ensure that a defendant committed to the narcotics rehabilitation program will be sentenced under the same statutes as others convicted of the same crime, and that the deprivation of liberty imposed on that defendant in the form of involuntary commitment to CRC will be no greater than that imposed on defendants sent directly to prison. (People v. Scott (1984) 150 Cal.App.3d 910, 918 [198 Cal.Rptr. 124].) There will be another sentencing hearing at a later date, at which time the court will be entitled to modify Barnett’s sentence and even to dismiss the charges against him. Any determination of the validity of the current sentence, accordingly, would be premature.
+Under section 3051, a court determining that a defendant might be an addict or in imminent danger of becoming an addict, “shall suspend the execution of the sentence and order the district attorney to file a petition for commitment of the defendant to the [CRC].” If, as here, it is determined that the defendant is an addict, the court “shall make an order committing the person to the custody of the Director of Corrections for confinement in the facility until a time that he or she is discharged.” Upon discharge from the CRC the defendant is returned to the court that suspended sentence which then “may, unless otherwise prohibited by law, modify the sentence, dismiss the criminal charges of which such person was convicted, or suspend further proceedings, as it deems warranted in the interests of justice.” (§ 3200, subd. (b); and see also § 3201, subd. (c).) If the court ultimately determines that the defendant is not a candidate for CRC, the court again is entitled to modify the sentence or suspend its disposition. (§ 3051.) Thus, the sentence imposed prior to the initiation of commitment proceedings is subject to modification whether or not the defendant ultimately is committed to CRC. If the defendant is committed to CRC but later is determined to be unfit for confinement or treatment, the court which suspended sentence “shall then promptly set for hearing the matter of the sentencing of the defendant upon the conviction which subsequently resulted in the original civil commitment.” (§ 3053.) Although section 3053 does not specify that the sentencing court has the same broad powers to modify the prior sentence as is expressly conferred by sections 3051, 3200 and 3201, we can conceive of no reason why a court would be entitled to modify the sentence if it is determined that the defendant is not a candidate for CRC before commitment, but not if it is determined that the defendant is unfit after he or she has been committed to CRC. Presumably the Legislature views an involuntary termination as a discharge from commitment which then empowers the court to enter a sentence appropriate to the circumstances. The only limitation on sentencing after discharge or termination from commitment is that a defendant may not be sentenced to a greater term than the term in the sentence originally imposed and suspended. (People v. Scott, supra, 150 Cal.App.3d at pp. 916-920.)
+It follows that the trial court will resentence Barnett, whether Barnett does or does not serve the full term of commitment to CRC. Indeed, if he succeeds in that program the court may dismiss the charges against him. The actual sentence (or dismissal of charges) will not be entered until Barnett is discharged from CRC and returned to the trial court for further proceedings. At that time Barnett may, if he so wishes, seek modification of the restitution fine and may, of course, present evidence demonstrating an inability to pay. Barnett may appeal from any sentence imposed at that time. (E.g., People v. Madison (1993) 17 Cal.App.4th 783 [22 Cal.Rptr.2d 157], People v. Scott, supra, 150 Cal.App.3d 910.) Any ruling by us on what is for sentencing purposes only an interlocutory judgment would be premature.
+The judgment is affirmed.
+Strankman, P. J., and Newsom, J., concurred.
+Unless otherwise indicated, all statutory references are to the Welfare and Institutions Code.
