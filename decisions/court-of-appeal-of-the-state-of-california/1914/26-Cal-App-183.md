@@ -1,0 +1,31 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Civ. No. 1399"
+decided: "1914-12-11"
+citations: ["26 Cal. App. 183"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WOLVERINE BRASS WORKS (a Corporation), Respondent, v. PACIFIC COAST CASUALTY COMPANY OF SAN FRANCISCO (a Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app/26/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 332673
+cites_cases: ["1 Tenn. Ch. App. 365", "10 L. R. A. 666", "131 N. Y. 485", "153 Mass. 176", "16 L. R. A. 33", "25 Am. St. Rep. 619", "26 N. E. 230", "30 N. E. 496", "36 C. C. A. 671", "67 Cal. 438", "7 Pac. 817", "91 U. S. 510", "95 Fed. 111"]
+---
+
+# Wolverine Brass Works v. Pac. Coast Cas. Co. of S.F.
+
+## Majority (KERRIGAN, J.)
+
+KERRIGAN, J.
+This is an appeal from a judgment in favor of plaintiff and from an order denying defendant’s motion for a new trial in an action upon a policy of insurance, issued by defendant, insuring the plaintiff against loss through the dishonesty of one Edwin J. Pope, its employee.
+Some time prior to the fifteenth day of July, 1910, Edwin J. Pope, who at that time was employed by plaintiff as cashier, applied to the defendant for an indemnity bond in a certain sum. Thereupon defendant addressed a letter to plaintiff containing certain questions to be answered by it. Among these were: “Has he (referring to Pope) ever been in arrears with you, or do you know of any reason why this bond should not be issued?” and “Is he now in debt to you?” To both questions the plaintiff, through one of its officers, answered “No.” The document containing the questions with their answers was returned to the defendant about the eighteenth day of July, and about a month later the indemnity bond upon which the present suit is brought was issued, relating back to June 15, 1910, as the date on which the risk was to take effect. Within the life of the bond Pope embezzled $1255.79 from the plaintiff. At the trial it was also established that there had been a prior embezzlement by Pope, while in the employ of the plaintiff, concerning which, however, the testimony shows that plaintiff was ignorant at the time of the negotiations for the present bond.
+According to one of the stipulations of the policy the statements or answers made in the letter of July 15th for the purpose of procuring the bond, were declared to be warranties and part of the contract of insurance.
+At the conclusion of plaintiff’s case, which showed the facts above detailed,, defendant moved for a nonsuit, which was denied; whereupon and without any testimony being introduced by the defendant the case was submitted to the jury, with the result already indicated.
+We think that the defendant’s contention must be sustained that under the proof the court should have directed a verdict in its favor. The above mentioned warranties being false, the policy issued in reliance upon them was in our opinion void ab initio. When a warranty is broken in its inception the policy never attaches to the risk which it purports to cover (Civ. Code, sec. 2612; Wenzel v. Commercial Ins. Co., 67 Cal. 438, [7 Pac. 817]). “As a warranty is in the nature of a condition precedent to the validity of the policy, and must be literally true, if the fact warranted is not true there is a breach of the warranty. It follows as a matter of course that a breach of warranty will avoid the policy. ’ ’ (Cooley’s Briefs on Insurance, vol. III, p. 1950.)
+Plaintiff does not deny this as a sound proposition of law, nor is it denied, nor could it well be, that so far as the phraseology of the bond and application therefor is concerned, the truth of the answers to the questions propounded in the application is warranted by the plaintiff. It claims, however, that inasmuch as the evidence showed that those answers were made in good faith, and without any negligence in the examination of the books—which might have led but did not to a knowledge of the prior embezzlement—the bond is valid, and the judgment should consequently stand. But the answers quoted, relating as they do to the existence of arrears by Pope in his then employment, had a direct and vital bearing upon the contract of insurance (Frost on Guaranty Insurance, 69), and they being, as we have seen, warranties, it is not important, according to the great weight of authority, that the party making them really believed them to be true. Being false in fact, the contract was thereby rendered void. In American Credit Indemnity Co. v. Carrollton etc. Co., 36 C. C. A. 671, 95 Fed. 111, it is said: “When there is a distinct agreement that an application for insurance is a part of the contract, and the statements in the application are expressly declared to be warranties, they are to be treated as such, and not merely as representations, and must be strictly true, or the policy will not take effect.
+So in Aetna Life Ins. Co. v. France, 91 U. S. 510 [23 L. Ed. 401], the same rule is declared: “It is only necessary to reiterate that all the statements contained in the proposal must be true, that the materiality of such statements is removed from the consideration of a court or jury by the agreement of the parties that such statements are absolutely true, and that if untrue in any respect the policy shall be void.” In that case as in this, the application was made the basis of the policy.
+In Clemans v. Supreme Assembly R. S. of G. F., 131 N. Y. 485, [16 L. R. A. 33, 30 N. E. 496], the court says: “The answer was a warranty, and upon this evidence there was a breach thereof. It is not important that the party making the warranty really believed in its entire truth. If it be false, it avoids the contract.” (See, also, Cobb v. Covenant Mut. Benefit Assoc., 153 Mass. 176, [25 Am. St. Rep. 619, 10 L. R. A. 666, 26 N. E. 230] ; Model Mill Co. v. Fidelity & Deposit Co., 1 Tenn. Ch. App. 365.)
+It follows that the judgment and order should be reversed, and it is so ordered.
+Lennon, P. J., and Richards, J., concurred.
+A petition to have the cause heard in the supreme court, after judgment in the district court of appeal, was denied by the supreme court on February 8, 1915,
