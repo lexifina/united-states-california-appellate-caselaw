@@ -1,0 +1,29 @@
+---
+court: "Appellate Division of the Superior Court of the State of California"
+docket: "Civ. A. No. 8626"
+decided: "1955-02-24"
+citations: ["131 Cal. App. 2d Supp. 874"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AL C. DAVIDSON, Respondent, v. HERRING-HALL-MARVIN SAFE COMPANY, Appellant."]
+source_url: "https://static.case.law/cal-app-2d/131/cases/0874-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2166643
+cites_cases: ["100 Pa. Super. 588", "143 P.2d 846", "158 A. 721", "173 Wis. 382", "181 Minn. 347", "181 N.W. 313", "187 Minn. 180", "193 P.2d 1", "232 N.W. 522", "245 N.W. 36", "31 Cal.2d 826", "52 R. I. 149", "56 Cal.App.2d 918", "63 F.2d 206"]
+---
+
+# Davidson v. Herring-Hall-Marvin Safe Co.
+
+## Majority (PATROSSO, J.)
+
+PATROSSO, J.
+Action for damages for breach of warranty wherein plaintiff recovered judgment, from which defendant appeals. Briefly stated, the facts, viewed in the light most favorable to plaintiff, are these: On September 9, 1949, plaintiff purchased from defendant a safe wherein, on or about January 7, 1950, he placed a valuable stamp collection. Thereafter, in the month of September, 1950, plaintiff opened the safe and discovered that the stamp collection had been damaged by the adherence of the stamps to each other, which he ascertained was occasioned by an unusual amount of moisture within the safe. The evidence is to the effect that the presence of this moisture in the safe was due to the fact that the safe was defectively manufactured in that it was not “cured” so as to remove the moisture which is present in safes in the course of manufacture.
+Defendant urges various grounds for a reversal of the judgment, but we need consider but one of them as it is determinative of the controversy.
+While, as noted, plaintiff alleged, and he so testified, that he discovered the damage to his stamps on September 14, 1950, and that the damage was occasioned by the undue amount of moisture in the safe, he further testified that he did not notify defendant of the defective condition of the safe or of the damage to the stamps until the “early part” of 1952.
+Section 1769, Civil Code, provides that there shall be no liability for a breach of warranty where, as here, the goods are accepted, if the buyer fails to notify the seller of any breach within a reasonable time after the buyer knows or ought to know of such breach. Our Supreme Court had occasion to consider this section in Whitfield v. Jessup (1948), 31 Cal.2d 826, 829-830 [193 P.2d 1], and held that it was applicable to “a warranty such as we have here whether an action thereon be said to sound in tort or contract.” The court also declared that what constitutes a reasonable time “must be determined from the particular circumstances in the individual case.” There the plaintiff alleged that she contracted undulant fever from drinking raw cream purchased from defendant, and notice of breach of warranty was given to defendant within 11 months of the time she purchased the cream and six months from the time when she learned that she had contracted the disease. Under these circumstances, the majority of the court held that it could not be “said as a matter of law that the notice was not given within a reasonable time.” However, the court was there careful to observe (p. 832): “What constitutes a reasonable time where the goods sold are foods containing latent defects, which are immediately consumed, presents a different question them does the ordinary sale where the article is subject to examination and use which will reveal its defect. For all these reasons little light is shed upon the issue by an examination of the cases deciding that certain periods of time were or were not reasonable. The case imest be controlled by its special circumstances.” (Emphasis added.)
+The fair inference from this language is that in the case of sales of goods other than foodstuffs “containing latent defects,” the court would regard a delay in giving notice of six months from the date plaintiff had knowledge of the breach as unreasonable as a matter of law. And such appears to be the fairly uniform holding of the courts which had occasion to consider the question under statutes identical with our own which is a counterpart of section 49 of the Uniform Sales Act. (See Columbia Axle Co. v. American Auto. Ins. Co. (C.C.A. 6th, 1933), 63 F.2d 206, 208; Stewart v. B. R. Menzel Co. (1930), 181 Minn. 347, 348 [232 N.W. 522]; Patterson Foundry & Mach. Co. v. C. S. Williams Lacquer Co. (1932), 52 R. I. 149, 151 [158 A. 721, 723]; Chess & Wymond Co. v. La Crosse Box Co. (1921), 173 Wis. 382, 387 [181 N.W. 313, 315]; Bomze v. M. Scharz Textile Corp. (1931), 100 Pa. Super. 588, 592; Laundry Serv. Co. v. Fidelity Laundry Mach. & Eng. Co. (1932), 187 Minn. 180, 183 [245 N.W. 36, 38].) In the foregoing cases delays of from four to six months were held to be unreasonable as a matter of law. And in Ice Bowl, Inc. v. Spalding Sales Corp. (1943), 56 Cal.App.2d 918, 921 [143 P.2d 846], wherein defendant sought damages for an alleged breach of warranty of ice skates, and where it appeared that some eight months elapsed between the date that the skates were ordered (when they were delivered does not appear) and notice by defendant of the claimed breach of warranty, it was held that section 1769, Civil Code, precluded recovery. (See also cases collected in 1A U.L.A. (Sales), pp. 108-110, and in Cum.Supp. thereto.)
+In the circumstances here a delay in giving notice of more than 15 months, from the time plaintiff admittedly had knowledge of the breach of warranty and the damage occasioned thereby, must be held to be unreasonable as a matter of law.
+The judgment is reversed.
+Bishop, Acting P. J., concurred.
+Respondent’s petition for rehearing denied on March 8, 1955.
