@@ -1,0 +1,34 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 6644"
+decided: "1942-01-19"
+citations: ["49 Cal. App. 2d 211"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KRSTO TRKLJA et al., Appellants, v. J. A. KEYS et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/49/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4572732
+cites_cases: ["184 Cal. 469", "184 Cal. 481", "194 Pac. 19", "199 Cal. 203", "248 Pac. 672"]
+---
+
+# Trklja v. Keys
+
+## Majority (STEEL, J. pro tem.)
+
+STEEL, J. pro tem.
+This is an action for injunctive relief wherein plaintiffs sought to restrain the defendants from mining certain creek bottom lands situated in Amador County, the fee in which vests in the plaintiffs, subject to a reservation of the mineral rights vesting in the defendants. Both parties deraign title through a common grantor.
+To the complaint in the action, the defendants interposed a demurrer alleging that the complaint failed to state a cause of action against the defendants for the reason that plaintiffs purchased only the surface rights in the property, subject to the mineral reservation reserved and owned by the defendants, which, it was argued, carries with it the right to extract said minerals from the property. The trial court sustained the demurrer without leave to amend, hence this appeal.
+The sole issue presented, therefore, is whether or not the defendants, respondents herein, have a right to extract the minerals so owned by them, even though they may injure or destroy the surface of said lands in so doing.
+While this point is somewhat novel in this jurisdiction we do find that it has received the attention of the Supreme Court of this state in considering two cases arising in Tuba County, to-wit: Yuba Investment Co. v. Yuba Consolidated Gold Fields, 184 Cal. 469 [194 Pac. 19], and again in the same entitled case reported in 199 Cal. 203 [248 Pac. 672], wherein the court affirmed the judgment of the trial court rendered pursuant to the law and directions of the court as set forth in the opinion in the first case supra.
+While one of the points considered in the Tuba County cases, supra, had to do with the right of the defendant, successor in title to the United States Government, to deposit detritus in a settling basin on another tract of land to which plaintiff had succeeded as owner of the minerals therein, the court very thoroughly considered the respective rights of the parties arising by virtue of the deed involved which contained the same mineral reservation as the one we are here considering.
+The court held that the expressed mineral reservation contained in the deed carried with it, by necessary implication, the right to remove such minerals by the usual or customary methods of mining and thus reduce them to possession even though the surface ground may be wholly destroyed as the result thereof.
+After a consideration of the authorities submitted, many of which are here cited by appellant, the Supreme Court, in the case reported in 184 Cal. 481, states:
+“The principle that the right to precious metals implies the right to mine the same, fortified by the statutory rule that reservations and exceptions are to be construed in favor of the grantor, and by the express reservation and exception of the right to use the premises, in any manner not inconsistent with the use by the grantee, and by the further fact that the premises could still be used by the grantee as a settling basin if the materials were extracted with due regard to that use, and that the only known method of extraction in contemplation by the parties was dredge mining, all lead to the conclusion that the plaintiff as grantee of 0 ’Brien mining rights in tract “First” is entitled to extract the precious metals therefrom, even though the effect thereof is to wholly destroy the surface.”
+It is contended by the appellant here that the two cases, supra, limit the rule to the right to extract the minerals so far as not inconsistent with the use of the owner of the surface rights. We do not think such a limitation can reasonably be accepted as the rule stated in the decision. The court had before it the interpretation of a quitclaim deed containing the reservation hereinbefore referred to, and the question presented was whether the deed conveyed the fee or merely an easement. The court held, after considering the facts and circumstances involved, that the deed, on its face, was sufficient in form to convey the fee to the government, and that it was clear from the deed itself that the government intended to use the premises for the construction of reclamation works and a portion thereof as a settling basin; that dredge mining was not inconsistent with such use, although the deed contained no express provision limiting the use by the government to that purpose but on the contrary it was expressly provided that the premises may be used for any and all purposes. Continuing, the court says that dredge mining destroys the surface, leaving the top composed of cobblestones and its value destroyed for agricultural purposes, but on the other hand, it is pointed out, that if the reservation and exception of the precious metals do not authorize the owners to operate a mining dredge in the customary manner, the reservation would be of no effect and of no value, as no other method of mining was practicable.
+In the instant case we have a similar situation, a reservation excepting the minerals from a comparatively shallow creek bed deposit of gravel, which is unlike an underground river channel such as may be found in the higher altitudes, and worked by means of a shaft and tunnel or drifts far beneath the surface in much the same manner as a vein or lode claim is worked, and in such cases a different rule applies as to the rights of the surface owner as the deposits may be extracted without injury to the surface.
+It is generally recognized that the only methods used in mining surface gravel deposits are by hydraulic mining, the use of sluice boxes which were used to a considerable extent in the early days, or the more recent dredge or dragline process, all of which methods of extracting the gold from the gravel deposits necessarily mean the destruction of the surface ground.
+We conclude, therefore, that the logical rule is the one that will permit the owner of surface minerals to remove them in the usual methods practiced generally in conducting placer mining operations. To hold otherwise would, in effect, amount to a determination that the deed is void as the owner of the mineral rights would he precluded from enjoying or recovering that which he owned.
+The judgment is affirmed.
+Thompson, Acting P. J., and Tuttle, J., concurred.
