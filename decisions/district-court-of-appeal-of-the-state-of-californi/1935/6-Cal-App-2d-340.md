@@ -1,0 +1,25 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 9683"
+decided: "1935-04-22"
+citations: ["6 Cal. App. 2d 340"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. I. ROGERS, Respondent, v. TRANSAMERICA CORPORATION (a Corporation) et al., Defendants; LOUIS FERRARI et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/6/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2200337
+cites_cases: ["1 Cal. App. (2d) 565", "121 Pac. 701", "145 Cal. 578", "154 Cal. 265", "17 Cal. App. 692", "2 Cal. App. 165", "224 Pac. 243", "3 Pac. 859", "36 Pac. (2d) 818", "43 Pac. (2d) 855", "65 Cal. 244", "65 Cal. App. 456", "79 Pac. 278", "83 Pac. 172", "97 Pac. 516"]
+---
+
+# Rogers v. Transamerica Corp.
+
+## Majority (CRAIL, J.)
+
+CRAIL, J.
+This is an appeal from an order of the superior court denying motions for a change of venue made by the defendants, Louis Ferrari, L. M. Giannini and A. J. Mount, who are residents of other counties than the county of Los Angeles. Said defendants served upon the plaintiff their notice of intention to move for a change of place of trial, but before the motions were heard and before the order thereon was made, the plaintiff filed with the clerk of the court a dismissal as to each of said defendants. It is the contention of the said defendants that at the time their motions were made they were entitled to a change of venue and therefore it was the duty of the court to grant the motions regardless of the dismissal. While there were many original parties defendant in the action, only the three defendants against whom „ the action was dismissed have appealed.
+The dismissal was made by the plaintiff under section 581 of the Code of Civil Procedure and it was accomplished without any intervention or action by the court and by simply filing with the clerk of the court a dismissal of the action as to those three defendants as is expressly authorized by that section. The effect was, ipso facto, to dismiss the ease as to said defendants. (Huntington Park Imp. Co. v. Superior Court, 17 Cal. App. 692 [121 Pac. 701].) Under the situation which existed the plaintiff had an absolute right under said section to dismiss his action as to these defendants and the act of the clerk in filing the request with the papers of the case was merely a ministerial act. A defendant cannot, by making a demand for a change of venue, deprive the plaintiff of such right to dismiss, and the rule that no judicial action can be taken pending such a demand has no application. (McDonald v. California Timber Co., 2 Cal. App. 165 [83 Pac. 172]; Prendergast v. Mitchell-Sullivan Co., 65 Cal. App. 456 [224 Pac. 243].) Upon the filing of the dismissal the action immediately ceased as to said defendants and they were not and could not be aggrieved by anything done thereafter in the action for the reason that as to such defendants the action did not exist. It is elementary, of course, that after such an ending of the action as to said defendants, any order on the motions for a change of venue was without jurisdiction and invalid as to them; however, for the reason that the defendants at the time of the order were not parties to the action and are not now and that only aggrieved parties may appeal, this appeal must be dismissed.
+This case is similar to the case of Page v. Hale, 1 Cal. App. (2d) 565 [36 Pac. (2d) 818], with the exception that in that case the respondents filed a stipulation that at any time they sought to rejoin the appellants as parties defendant, the entire action might be ordered dismissed without prejudice, and thereupon the appeal was dismissed. No such stipulation has been filed in this ease, and the appellants contend herein that they might be subsequently aggrieved in this action because the plaintiff is “free to bring them back into the ease by an amendment to his complaint . . . and the defendants would not then be entitled to have a second motion for a change of venue granted’’. There is no merit in this contention. When a party is dismissed from an action he becomes a stranger thereto and no judgment or order can be rendered against him therein until the dismissal is vacated. (Sere v. McGovern, 65 Cal. 244 [3 Pac. 859]; Fisch & Co. v. Superior Court, ante, p. 21 [43 Pac. (2d) 855].) If by any procedure the said defendants are brought back into the case they will find their original motions for a change of place of trial still on file, still undisposed of as to them. Again, the effect of a dismissal such as was made in this case is the same as if the said defendants had never been made parties. (Holt Mfg. Co. v. Collins, 154 Cal. 265 [97 Pac. 516]; Page v. W. W. Chase Co., 145 Cal. 578 [79 Pac. 278].) Under this rule the defendants might again make their motions if and when they are required to again appear in the action. The- trial court will protect the defendants in their right to move for a change of venue.
+The appeal is dismissed.
+Fricke, J., pro tem., and Stephens, P. J., concurred.
