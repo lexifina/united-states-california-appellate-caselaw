@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 11582"
+decided: "1938-11-15"
+citations: ["29 Cal. App. 2d 181"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARTHUR TAYLOR et al., Appellants, v. THE CITY OF LOS ANGELES (a Municipal Corporation) et al., Respondents."]
+source_url: "https://static.case.law/cal-app-2d/29/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4447147
+cites_cases: ["169 Tenn. 366", "170 So. 356", "220 Iowa, 1364", "264 N. W. 611", "48 Stat. 195", "72 Pac. (2d) 540", "87 S. W. (2d) 1016", "9 Cal. (2d) 705"]
+---
+
+# Taylor v. City of Los Angeles
+
+## Majority (DORAN, J.)
+
+DORAN, J.
+This is an appeal, on the judgment roll, from a judgment based on the sustaining of a demurrer to the complaint without leave to amend.
+The complaint alleged, in substance, that while plaintiffs, as employees of the Works Progress Administration, were performing certain duties with a compressor crew engaged in the removal of an old abandoned concrete storm drain from a ditch on a street in Los Angeles, sparks from a jackhammer operation caused an explosion of accumulated gas, on account of which plaintiffs suffered serious burns. It is further alleged that such injuries resulted from the negligence of employees of the city in directing said work and in exposing said plaintiffs to unnecessary danger, as well as in ordering them to work under dangerous and unsafe conditions.
+Appellants’ brief sets forth that “the reason for the refusal to allow plaintiffs to amend, we understand, was the conviction of the trial court that the facts involved did not give rise to a cause of action by the plaintiffs—in other words, that the city was not exercising a proprietary function and owed no duty to these men”. On such premise it is argued that “this appeal, then, is concerned mainly with the question whether the city was engaged in a governmental function and immune from liability for the negligent acts of its servants in overseeing other workers on the project, or whether it was engaged in a proprietary function, and liable for such negligence”.
+Appellants’ understanding of the trial court’s reasons for the ruling on the demurrer may or may not be correct. In any event, respondent City of Los Angeles offers this further argument: First, that respondent is not liable for injuries suffered by relief workers connected with a Works Progress Administration project under conditions set forth in plaintiffs’ complaint; and second, that, assuming plaintiffs to have been employees of the city, then in that event the exclusive remedy is that provided by the terms of the California Workmen’s Compensation Act. As above noted, the complaint alleges that “plaintiffs were engaged in their duties as employees of the Works Progress Administration in a compressor crew on a Los Angeles City project known as No. 1503 65-3-132 sewer storm drain, removing an old abandoned concrete storm drain from a ditch at West Chester Place between Ninth street and Olympic boulevard in said City of Los Angeles”. It is unnecessary to give consideration to all of the possible issues that may have influenced the trial court in the determination of the questions raised. It is sufficient to note that under the facts alleged as above quoted from plaintiffs’ complaint, the case comes squarely within the rule established in City of Los Angeles v. Industrial Acc. Com., 9 Cal. (2d) 705 , [72 Pac. (2d) 540]. There the court quoted with evident approval from Hoover v. Independent School Dist., 220 Iowa, 1364 [264 N. W. 611], as follows: “ ‘The purpose of the Civil Works Administration was to create employment. It was set up under the provisions of the National Industrial Recovery Act, 48 Stat. 195, for that purpose. It undertook these projects with the consent of the public body affected by the project as a means of furnishing employment. The fact that the property of the school district was benefited, and the further fact that representatives of the school district were present when the work was being done to see that the completed job conformed to its plan for the improvement, are not controlling. The' purpose of the Civil Works Administration was being accomplished by carrying out these projects with workmen employed by it. The workmen, therefore, were actually working for the Civil Works Administration when their injuries were received, and the rule of the loaned employee, even if recognized by us, would not apply. ’ (See, also, Todaro v. City of Shreveport, (La. App.) 170 So. 356, 360).
+“Courts have judicially noticed the fact that the primary objective of the Federal Emergency Relief Act of 1935 was not to benefit particular municipalities or localities, but to provide relief for unemployment. By contributing a small part of the necessary expense and by contributing the services of a superintendent and a small number of employees the City of Los Angeles was able to obtain the benefit of this project. It was not, however, city work of which the city had control, but was under the rules and regulations of the Emergency Relief Administration. (Hoover v. Independent School Dist., supra; Shelton v. City of Greeneville, 169 Tenn. 366 [87 S. W. (2d) 1016]; Todaro v. City of Shreveport, supra.) ”
+The allegations of plaintiffs’ complaint clearly recited a state of facts from which the trial court properly concluded, not only that no cause of action was stated against defendant City of Los Angeles, but also that no purpose could be served by permitting an amendment.
+The judgment is therefore affirmed.
+York, P. J., and White, J., concurred.
