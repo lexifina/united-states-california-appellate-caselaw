@@ -1,0 +1,47 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "Crim. No. 5524"
+decided: "1970-06-24"
+citations: ["9 Cal. App. 3d 74"]
+reporter: "cal-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. PAUL EDWARD SHEARER, JR., Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-3d/9/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4399034
+cites_cases: ["13 Cal.App.2d 208", "164 Cal.App.2d 502", "208 Cal.App.2d 321", "224 Cal.App.2d 578", "242 Cal.App.2d 351", "242 Cal.App.2d 820", "25 Cal.Rptr. 111", "252 P.2d 1", "285 P.2d 926", "330 P.2d 907", "36 Cal.Rptr. 838", "40 Cal.2d 160", "44 Cal.2d 861", "51 Cal.Rptr. 385", "51 Cal.Rptr. 851", "56 P.2d 978"]
+---
+
+# People v. Shearer
+
+## Majority (BRAY, J.)
+
+Opinion
+BRAY, J.
+Defendant appeals from judgment of conviction, after jury verdict, of violation of section 192, subdivision 3(a) of the Penal Code (misdemeanor manslaughter; driving a vehicle with gross negligence).
+Questions Presented
+1. No error in giving Instruction No. 20 (CALJIC No. 342 (rev.)).
+2. No error in refusing defendant’s offered instructions.
+Evidence
+About 11:55 on the evening of April 2, 1969, Melba Glenn had been driving a Corvair south on Highway 395, about three or four miles from Doyle, when going in the same direction defendant ran his pickup truck into the back of the Corvair, killing Miss Glenn. Ralph Keith, the first person to arrive at the scene of the accident, found defendant sitting behind the steering wheel of his truck and Miss Glenn’s body lying in the middle of the road. There was evidence of bits of flesh, blood and clothing fibers found on the bumpers of both vehicles from which it could be concluded that Miss Glenn was out of her car when struck. The road leading up to the point of the accident was level and straight for a distance of approximately six-tenths of a mile. Three officers testified to smelling alcoholic beverages on defendant’s breath at the scene of the accident, and later two testified that defendant was definitely under the influence of intoxicating liquor, their conclusion being based on defendant’s manner of speech, alcoholic breath and manner of walking. A Mobat balloon test to determine defendant’s sobriety taken some three hours after the accident indicated defendant’s blood alcohol content to be 24 milligrams per 100 cubic centimeters of blood or .24 grams. It was estimated that at the time of the accident it would have been .28, and to have a blood alcohol content of .24 defendant would have had to have the equivalent of about 10 drinks of 100-proof alcohol, or the same number of beers, in his system. The expert testified a person should not be driving with a blood-alcohol content of .10.
+A skid mark of defendant’s truck extended 78 feet to the point of impact with the Corvair, and that car traveled approximately 60 feet down the highway after being struck. The lights of the Corvair were on, the left rear tire was flat, and the wheel itself hung up at the time of the accident.
+Defendant called three friends who testified that on the day after the accident they examined the two vehicles at a service station and found no evidence of blood or flesh on either vehicle. Another witness talked to defendant at the scene but smelled no odor of alcohol. An engineer testified that following the accident there was no evidence that the Corvair had been incapacitated prior to the accident, and the skid marks indicated that the rear tire of the Corvair was inflated at the time the marks occurred. Defendant told an officer that he was driving about 60 miles per hour, came over a little hump in the road, was blinded by headlights and did not see the Corvair until he was 10 feet from it. He claimed there was no one around the car at the time of the accident.
+At the trial defendant claimed to have had two bottles of beer, one glass of draft beer and after dinner two bourbons and water.
+Although he was only convicted of misdemeanor manslaughter, defendant’s closing brief states that whereas the record shows that there was sufficient evidence to support a verdict of “felony manslaughter,” there was also ample evidence to support a not guilty verdict. The brief is wrong in the latter statement.
+“. . . It is well established . . . that a homicide proximately caused by the driving of an automobile while under the influence of intoxicating liquor is manslaughter,” within the meaning of subdivision 3(a), section 192, of the Penal Code. (People v. Hernandez (1966) 242 Cal.App.2d 351, 358 [51 Cal.Rptr. 385].) Failure of defendant to see the victim does not excuse his grossly negligent conduct. (People v. Hoe (1958) 164 Cal.App.2d 502, 509 [330 P.2d 907].) A recital of the circumstances of the accident is alone all that is necessary to show that defendant acted with gross negligence. (See People v. Costa (1953) 40 Cal.2d 160 [252 P.2d 1], where the defendant was held guilty of demonstrating an entire failure to exercise care and a conscious indifference to consequences under circumstances surprisingly similar to those in the case at bench.)
+1. No error in giving Instruction No. 20 (CALJIC No. 342 (rev.)).
+Subdivision 3(a), section 192 of the Penal Code prohibits the driving of a vehicle “with gross negligence.” CALJIC No. 342 (rev.) (instruction No. 20) given by the court defines “gross negligence.”
+1 Witkin, California Crimes (1963) section 348, points out that gross negligence is defined in CALJIC No. 342 mainly on the basis of tort cases decided before the amendment of the Guest Law (see 2 Witkin, Summary of Cal. Law (1960), Torts, §§ 353, 361) and therefore gives an accepted definition.
+Defendant not only cites no authority for his contention that the instruction is improper, but also does not point out any particular in which it is unfair or is not a true definition of gross negligence.
+2. No error in refusing defendant’s offered instructions.
+Defendant’s requested instruction on criminal negligence is drawn from People v. Villalobos (1962) 208 Cal.App.2d 321 [25 Cal.Rptr. 111], He relies on a sentence in People v. Madison (1966) 242 Cal.App.2d 820, 826 [51 Cal.Rptr. 851], that “essential to a conviction of a violation of Penal Code, section 192, subdivision 3(a), is a proof of criminal negligence.”
+People v. Villalobos, supra, deals not with subdivision 3(a) but with subdivision 2, which subdivision expressly states it does “not apply to acts committed in the driving of a vehicle.” In People v. Villalobos, supra, quoting from People v. Penny, 44 Cal.2d 861, 879 [285 P.2d 926], the court defined the words “ ‘lack of “due caution and circumspection” ’ ” of subdivision 2 to be the equivalent of “ ‘ “criminal negligence.” ’ ” Subdivision 3(a) gives “gross negligence” as the standard of negligence required for the crime of manslaughter in the driving of a vehicle.
+Neither does People v. Madison, supra, compel an instruction on criminal negligence. The case cited by that court in support of its proposition, namely, People v. Hurley, 13 Cal.App.2d 208, 213 [56 P.2d 978], was decided in 1936, nine years before the 1945 amendment of section 192 took vehicle cases out of subdivision 2 and added subdivision 3(a) with its specific requirement of gross negligence. In addition, the court in People v. Madison, supra, does not pretend to make criminal negligence a sole requirement for convictions under subdivision 3(a). The court goes on to admit that “Gross negligence is now defined to be ‘an entire failure to exercise care, or the exercise of so slight a degree of care as to justify the belief that there was an indifference to the things and welfare of others.’ ” (P. 826.) This definition of gross negligence is almost identical to that of CALJIC No. 342 (revised). (People v. Pfeffer (1964) 224 Cal.App.2d 578, 580-581 [36 Cal.Rptr. 838], and cases there cited; People v. Costa, supra, 40 Cal.2d 160, 166.) Therefore an instruction on gross negligence, not criminal negligence, is proper under subdivision 3(a), section 192 of the Penal Code.
+Defendant’s other proposed instructions were repetitive. Defendant’s “proximate cause” instruction was given in detail in the trial court’s instruction No. 18. Defendant’s requested instruction to the effect that there must exist a union or joint operation of act and intent was given in the trial court’s No. 17, where the jury was told that if they found defendant guilty of manslaughter, they must also find whether the act causing death was done with or without gross negligence and declare their finding in the verdict.
+There was no error in the giving or refusal of instructions.
+Judgment is affirmed.
+Pierce, P. J., and Regan, J., concurred.
+Retired Presiding Justice of the Court of Appeal sitting under assignment by the Chairman of the Judicial Council.
+The jury recommended a county jail sentence, making the offense a misdemeanor. Defendant was granted two years probation and was released on bail pending appeal.
+“The term ‘gross negligence’, as used in the definition of manslaughter given in these instructions, means the failure to exercise any care, or the exercise of so little care that you are justified in believing that the person whose conduct is involved was wholly indifferent to the consequences of his conduct and to the welfare of others.”
