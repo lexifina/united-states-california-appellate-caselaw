@@ -1,0 +1,27 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 1334"
+decided: "1935-02-28"
+citations: ["5 Cal. App. 2d 25"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ED KUEHN, Respondent, v. F. DON CARLOS et al., Appellants."]
+source_url: "https://static.case.law/cal-app-2d/5/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178978
+cites_cases: ["105 Pac. 413", "112 Cal. 8", "156 Cal. 460", "44 Pac. 357", "53 Am. St. Rep. 151"]
+---
+
+# Kuehn v. Carlos
+
+## Majority (ALLYN, J., pro tem.)
+
+ALLYN, J., pro tem.
+In this action for claim and delivery of an airplane, based upon a chattel mortgage giving to the mortgagee the right to possession upon default of the principal obligation, it was set up in defense that the mortgagee had waived the lien of his mortgage by allowing a balance of the principal and interest secured by the mortgage to be included as costs as provided by sections 2969 and 2970 of the Civil Code in a justice court action in which the airplane was levied upon on a writ of execution, and further that the mortgagee was estopped to claim the lien of his mortgage by an agreement he had made with the judgment creditor whereby the latter agreed to either pay the mortgagee the balance of the mortgage indebtedness or deliver to bim the airplane upon payment of the amount of his judgment plus costs of sale. It appears that a receipt of plaintiff was filed showing payment to him of the amount of this balance by the judgment creditor although it was stipulated that no money was actually paid on this account. The constable proceeded to sell the property free from the mortgage although the judgment creditor was present at the sale and announced that there was a mortgage against the property. It was sold for an amount much less than the judgment, costs of sale, and the mortgage balance. The defendant F. Don Carlos is the mortgagor and the defendant Beck a successor in interest of the purchaser at the sale.
+It is well established that the right to attach mortgaged personal property can be exercised only after compliance with the condition of payment, tender or deposit of the amount of the mortgage debt (Civ. Code, secs. 2968, 2969 and 2970), and that without such compliance no lien is created by the attempted levy (Sousa v. Lucas, 156 Cal. 460 [105 Pac. 413]). In the latter case the mortgagee sought to foreclose a crop mortgage as against the mortgagor, an attaching creditor, and the sheriff levying the writ. It was directly held that a levy under such circumstances was unlawful and was not a valid seizure of the interest remaining in the mortgagor.
+In this case if the plaintiff mortgagee had merely stood by there could be no question of his right to foreclose the mortgage and reclaim his security from the purchaser at the sale or his successors in interest or from the officer who levied the writ. Did his action in entering into the agreement with the judgment creditor, whereby the latter either agreed to pay him the mortgage balance or deliver the airplane upon payment of the judgment plus costs of sale, and in filing a third-party claim and a receipt in full with the justice of the peace amount to a waiver of his lien, or did it create an estoppel to enforce it? Admittedly the whole procedure was irregular. The plaintiff could have stood by or he could have filed his claim with the constable. Instead, he negotiated with the judgment creditor for the sale of the property on execution and in order to have the balance of the mortgage debt included as an item of costs filed with the justice a third-party claim and a receipt for payment, although in fact he received no money.
+A chattel mortgagee may waive his mortgage lien or be estopped to enforce it by conduct inconsistent with its existence (11 C. J., p. 674; 5 Cal. Jur., p. 88). Thus, consent to sell under certain circumstances may constitute a waiver (5 R C. L., p. 458). A sale authorized by the mortgagee upon condition that the proceeds be deposited to his account operates to extinguish the mortgage lien (Maier v. Freeman, 112 Cal. 8 [44 Pac. 357, 53 Am. St. Rep. 151]). In this case, if the airplane had been sold for an amount sufficient to discharge the' mortgage indebtedness it appears to be fundamental that the mortgagee could not assert his lien as against the purchaser merely because the judgment creditor failed to pay over the money received from the sale. It is not reasonable that the rule should be any different merely because the judgment creditor failed in the performance of his 'agreement by neither purchasing the property nor bidding up to the amount of the mortgage indebtedness and thus assuring a sufficient return from the sale to satisfy plaintiff’s demand. The conduct of the mortgagee, as disclosed by .the record in this ease, was so inconsistent with the continued existence of the mortgage lien that we are forced to the conclusion that the lien was waived.
+The judgment is accordingly reversed.
+Barnard, P. J., and Marks, J., concurred.
+A petition for a rehearing of this cause was denied by the District Court of Appeal on March 28, 1935, and an application by appellants to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on April 29, 1935.
