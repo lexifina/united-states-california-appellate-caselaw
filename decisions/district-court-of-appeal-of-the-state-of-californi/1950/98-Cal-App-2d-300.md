@@ -1,0 +1,39 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 17692"
+decided: "1950-07-06"
+citations: ["98 Cal. App. 2d 300"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES L. CARTWRIGHT, Petitioner, v. SUPERIOR COURT OF LOS ANGELES COUNTY, Respondent."]
+source_url: "https://static.case.law/cal-app-2d/98/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2283646
+---
+
+# Cartwright v. Superior Court
+
+## Majority (WHITE, P. J.)
+
+WHITE, P. J.
+From the petition it appears that petitioner, individually and as special administrator of the estate of Benjamin B. Cartwright, deceased, was the plaintiff in a superior court action against Alexander Benjamin Cartwright, Sr., et al., in which case judgment was rendered in favor of the defendants. Plaintiff thereafter, on July 20, 1949, filed a notice of appeal from such judgment, which appeal is now pending, being numbered Civil No. 17426 in the District Court of Appeal.
+It further appears that petitioner made the usual request to the county clerk to prepare the reporter’s and clerk’s transcripts on appeal. On August 9, 1949, the clerk notified petitioner in writing “that the cost of a clerk’s transcript on appeal, with one copy, is $28.54, and that an extra copy for appellant’s use would cost appellant an additional $8.10; . . . and on August 18, 1949, petitioner deposited with said clerk in response to said demand and not otherwise the sum of $36.64, and protested said demand and deposit to the extent of . . . $8.10 for a copy of said transcript to be retained by said clerk. ’ ’
+The petition further sets forth that a similar notice from the clerk stated that the reporter’s estimate for the reporter’s transcript, “including one copy to remain on file with the clerk,” was $450, “and that arrangements for an additional copy for appellant’s office use would have to be made with respondent court reporter.” Petitioner thereafter made the required deposit “under protest in so far as the same included a charge by said reporter for preparing more than one carbon copy to be delivered to appellant for his office use . . . and that appellant he not charged or required to pay for a copy . . . to remain on file with the clerk.”
+It is further averred “That notwithstanding the foregoing protest and objection, and without any notice or hearing afforded petitioner, . . . respondent court made, rendered and entered an order ex parte, directing said clerk to pay said reporter . . . $450.00 upon the latter’s unverified petition for said sum without any itemization of the number of folios . . . or the number of copies.” Petitioner filed objections to various items in the reporter’s transcript and at a hearing thereon certain of the objections were allowed so that the transcript as finally settled contained 1,000 folios, according to the petition which at the legal rate of 25 cents per folio for the original and 10 cents per folio for a copy thereof, amounted to $350 in all, in place of petitioner’s deposit of $450 hereinbefore mentioned. The court reporter refused to make any refund to petitioner, whereupon petitioner moved the court for an order vacating the previous ex parte order for distribution of the deposit, which motion was denied on February 15, 1950.
+The theory of the petitioner is that the practice of the courts “to require appellants in civil actions to deposit with said clerk and pay the cost of transcribing an original and one copy of each the clerk’s and reporter’s transcript on appeal, and also for an additional copy if appellant desires the same for his office use, and to require the other copy of said transcripts to be retained by the clerk . . . imposes an unnecessary and oppressive burden upon litigants . . . thereby in many eases effecting a denial of justice,” and is contrary to law. Petitioner also assails “the Star-Chamber ex parte practice of denying the security-depositor a hearing upon the disbursement of his fund,” which practice, it is alleged, constitutes a denial of due process of law.
+In denying petitioner’s motions to vacate the previous order to pay the reporter the amount deposited and to order the clerk to refund to petitioner the sum deposited for one copy of the clerk’s and reporter’s transcripts, the trial judge called attention to rule 4 of the Judicial Council Rules Relating to Appeals from Superior Courts. Section 4(d) of such rules requires the original and one copy to be filed with the clerk and Rule 10 (c) provides in part:
+“. . . The additional copy of the record required by these rules shall be made available for the use of the parties to the appeal in such manner as the judge, or the clerk under his direction, shall prescribe; provided that the parties may stipulate to its use, and in such event only the original need be filed with the clerk of the superior court.”
+The trial judge then held that “to compel the appellant to pay for a copy of the transcript which may be used by the respondent” is not “an unjust burden of the expense of the appeal,” since the appellant likewise had the privilege of using such clerk’s copy or of buying an extra copy for office use. An analogy was suggested between the present contention and that of “taxpayers who object to paying public school taxes because they have no children or who send their children to private schools.” The memorandum opinion also stated that the settlement of the transcript was not a prerequisite to the making of payment to the reporter, and that petitioner had no right to notice before the making of the order authorizing such payment.
+In the return to the alternative writ of mandate, respondent superior court filed a demurrer, in which it is pointed out that “No duty is enjoined by law upon respondent court or a judge thereof to take any action in relation to payment of reporter’s fee,” hence that “the order by Judge Jeffery had no force and effect and there was no need that it be vacated”; that “No duty is cast upon the clerk to hold the fees deposited until settlement of the transcript”; and that “The money deposited with the clerk was not in custodia legis,” since it was not deposited under an order of court.
+It is also argued by respondent that “The promulgation of rules of practice on appeal is lodged in the sound discretion of the Judicial Council”; that rules 4, 5 and 10, complained of herein, requiring appellant to furnish an original and one copy of the transcripts, so prescribed by the Judicial Council, have the force of positive law and do not conflict with section 274 of the Code of Civil Procedure providing for the fees of reporters and the taxation of such fees as costs. “Petitioner’s contention that the rule is unreasonable,” avers the respondent’s return, “should properly be addressed to the Judicial Council. ’ ’
+It is therefore apparent that the trial court properly followed the rule. The rule permits the parties appellant and respondent access to, and use of one copy of the reporter’s transcript on appeal. It required the appealing party to pay for the original and one copy. If he is successful on his appeal, of course, the expense may be taxed as costs.
+In effect this is a saving to litigants, because otherwise both parties would ordinarily have to have and to pay for a copy of the transcript. Thus one copy serves the place of two.
+The petition is denied.
+Drapeau, J., concurred.
+
+## Concurrence (DORAN, J.)
+
+DORAN, J.
+I concur, with the qualification, however, that I do not wish to be understood as approving any act of the Judicial Council which amounts to legislation.
+Petitioner’s application for a hearing by the Supreme Court was denied August 31,1950. Carter, J., voted for a hearing.
