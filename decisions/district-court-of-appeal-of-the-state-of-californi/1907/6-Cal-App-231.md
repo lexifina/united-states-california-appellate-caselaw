@@ -1,0 +1,28 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Crim. No. 60"
+decided: "1907-08-17"
+citations: ["6 Cal. App. 231"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Respondent, v. A. B. CARPENTER, Appellant."]
+source_url: "https://static.case.law/cal-app/6/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963912
+cites_cases: ["122 Cal. 214", "145 Cal. 106", "17 Pac. 270", "54 Pac. 725", "77 Cal. 173", "78 Pac. 354"]
+---
+
+# People v. Carpenter
+
+## Majority (ALLEN, P. J.)
+
+ALLEN, P. J.
+Appeal by defendant from a judgment of conviction and from an order denying a new trial.
+An information was regularly filed by the district attorney of Riverside county charging defendant with the crime of obtaining money by false pretenses. This information alleged that defendant, “with intent to defraud one C. S. Gove of his property, unlawfully, knowingly, designedly, falsely and feloniously, did represent and pretend to the said C. S. Gove that he was then and there the owner of a certain patent device to light gasoline stoves, duly issued by the Government of the United States of America, and then and there in the hands of his attorneys at Los Angeles, California, and that he then and there needed the sum of one hundred and fifty dollars in money to settle expenses with his attorneys aforesaid and procure his said patent, and that on getting possession thereof he had an opportunity to at once obtain the sum of two thousand five hundred dollars for the right to sell the said patent in the State of California, and did then and there exhibit and read to said Gove a pretended telegram to him, said defendant, so as aforesaid offering the said sum of two thousand five hundred dollars for the said right to sell said patent in said State, and said Gove being deceived thereby and believing said false representations to be true, was induced by reason of said false pretenses and representations so made as aforesaid by the said defendant to loan said defendant, and did then and there deliver to said defendant, relying solely on the truth of said false pretenses, the sum of one hundred and fifty dollars in lawful money of the United States of America, which said money was so obtained by said defendant, A. B. Carpenter, unlawfully, knowingly, and designedly to defraud said C. S. Gove out of money aforesaid, and all of said representations were made knowingly, designedly, fraudulently and feloniously by defendant with intent to cheat and defraud said Gove out of all said money, and by which means said Gove was defrauded as aforesaid.”
+To this information a demurrer was filed,' which, among other things, challenged the information as not containing a statement of the facts constituting the offense charged in ordinary and concise language and in such manner as to enable a person of common understanding to know what is intended; that said facts stated in said information do not constitute a public offense. This demurrer was overruled by the court, and defendant’s trial and conviction followed.
+A motion for a new trial was interposed, based solely upon the misconduct of the jury who tried the case in this: That the jury received evidence out of court in reference to the merits of the case other than that resulting from a view of the premises. A bill of exceptions is found in the record, embodying, however, only the affidavits and testimony received by the court on the hearing of the motion for a new trial with reference to the receipt of testimony by the jury out of court.
+We are of opinion that the information is defective. “To constitute the offense charged, four things must concur, and four distinct averments must be proved: 1. There must be an intent to defraud; 2. There must be actual fraud committed; 3. False pretenses must be used for the purpose of perpetrating the fraud; and 4. The fraud must be aceomplished by means of the false pretenses made use of for the purpose, viz., they must be the cause which induced the owner to part with his property.” (People v. Wasservogle, 77 Cal. 173, [17 Pac. 270].) The facts going to show that an actual fraud was committed in this case do not appear in the information. There is no allegation of any fact tending’to show wherein the statements and representations were false or fraudulent. “The falsity or fraudulent character of this claim, if it was in fact false or fraudulent, arose from some fact or facts not alleged, and concerning which the indictment furnished absolutely ho information. . . . Nothing but the conclusion that it was both false and fraudulent is alleged.” (People v. Mahony, 145 Cal. 106, [78 Pac. 354].) It is nowhere alleged that any of the representations made were untrue and in fact false. It is not sufficient to allege the fraudulent character of representations, but the fact must be alleged from which it may be determined whether or not the conclusion of their false and fraudulent character is correct. Aside from the legal conclusions, there is nothing in this indictment which negatives the presumption of innocence. Omitting these conclusions, the allegations of the information can be true and the defendant still be innocent. (People v. Griffith, 122 Cal. 214, [54 Pac. 725].)
+In our opinion, the information was insufficient and the court erred in overruling the demurrer thereto.
+Judgment reversed and cause remanded, with instructions to sustain the demurrer to the information.
+Shaw, J., and Taggart, J., concurred.
