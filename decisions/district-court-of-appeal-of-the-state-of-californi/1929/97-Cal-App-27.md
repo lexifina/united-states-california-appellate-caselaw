@@ -1,0 +1,24 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 3674"
+decided: "1929-02-16"
+citations: ["97 Cal. App. 27"]
+reporter: "cal-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. OLIVER, Respondent, v. CARRIE EVELYN SPERRY et al., Defendants; CHARLES ELMER MILLER, Appellant."]
+source_url: "https://static.case.law/cal-app/97/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2118554
+cites_cases: ["119 Pac. 209", "120 Pac. 429", "17 Cal. App. 184", "17 Cal. App. 502", "202 Pac. 168", "54 Cal. App. 494"]
+---
+
+# Oliver v. Sperry
+
+## Majority (PLUMMER, J.)
+
+PLUMMER, J.
+This action was instituted to secure a decree of partition of certain real property, the plaintiff, J. E. Oliver, claiming an undivided one-quarter interest therein as surviving husband and heir at law of Harriett A. Oliver (née Miller), deceased.
+The complaint sets forth that at the time of her death Harriett A. Oliver (née Miller) was the owner of an undivided one-half interest in and to the property described in the complaint; that the appellant, Charles Elmer Miller, was the surviving son and only child of the said Harriett A. Oliver; that the plaintiff and respondent, J. E. Oliver, was the surviving husband of the deceased. The property involved in this action was originally owned by Charles Sperry, deceased; that the said Charles Sperry died testate, leaving a will in which he devised his property to his surviving widow, Lydia J. Sperry, for and during the natural term of her life, and upon her death, to Frank Sperry and Harriett A. Miller (at the time of her death, Harriett A. Oliver). The decree of distribution in the estate of Charles Sperry, deceased, reads as follows: “That there be, and hereby is distributed to the said Lydia J. Sperry, for and during the natural term of her life, and upon her death, the remainder to Frank Sperry and Harriett A. Miller (née Sperry) forever, said remainder to be held by said Frank Sperry and Harriett A. Miller, from the time of the death of said Lydia J. Sperry, as tenants in common, in equal proportions forever.” Harriett A. Oliver (née Harriett A. Miller, née Harriett A. Sperry) died on the twelfth day of July, 1917, leaving her surviving as heirs at law her husband, J. E. Oliver, and appellant, Charles Elmer Miller, her only surviving child. Lydia J. Sperry, the holder of the life estate, died on the nineteenth day of August, 1925. The claim of the appellant is that no estate vested in Harriett A. Oliver (née Harriett A. Miller, née Harriett A. Sperry) at the time of the death of Charles Sperry, and that no estate was confirmed and vested in her by reason of the decree of distribution entered in the estate of Charles Sperry, deceased, which we have herein set forth. This contention of the appellant, however, was decided adversely in the case of Miller v. Oliver, 54 Cal. App. 494 [202 Pac. 168]. The questions presented upon this appeal were also decided adversely to the appellant in the case of Hall v. Wright, 17 Cal. App. 502 [120 Pac. 429], and also in the matter of the Estate of De Vries, 17 Cal. App. 184 [119 Pac. 209]. Were these cases not in existence, section 694 of the Civil Code determines the correctness of the judgment of the trial court in this case. That section reads: “A future interest is vested when there is a person in being who would have a right, defeasible or indefeasible, to the immediate possession of the property upon the ceasing of the intermediate or precedent interest.” It requires only a reading of the paragraph of the decree of distribution set out herein to conclusively demonstrate that there were two persons in existence at the time of the entry of the decree, to wit, Frank Sperry and Harriett A. Miller (Harriett A. Oliver at the time of her death), who would immediately succeed to the possession and enjoyment of the estate in which Lydia J. Sperry was given a life tenure. We do not need to elaborate further upon this question, as the code provision and the two cases cited are conclusive. It appears that the plaintiff sued himself as an administrator of the estate of Harriett A. Oliver, deceased, and afterward the court entered an order of dismissal as to the plaintiff as a party defendant, as administrator. Whether this order was regular or irregular, valid or void, cannot affect the merits of this case or in any way prejudice the appellant, for the simple reason that the judgment of the court finds the ownership of the property in the parties just as the law directs, and just as the law gives to them. Therefore, section 4% of article VI of the constitution applies, and no reversal can be had for an error, if admitted to be error, where no injury or prejudice has resulted.
+The judgment of the trial court is affirmed.
+Finch, P. J., concurred.
