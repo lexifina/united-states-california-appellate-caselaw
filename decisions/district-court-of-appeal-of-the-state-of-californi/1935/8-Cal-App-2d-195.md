@@ -1,0 +1,46 @@
+---
+court: "District Court of Appeal of the State of California"
+docket: "Civ. No. 5346"
+decided: "1935-06-28"
+citations: ["8 Cal. App. 2d 195"]
+reporter: "cal-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST TRUST & SAVINGS BANK OF PASADENA (a Corporation), Respondent, v. COE COLLEGE (an Iowa Corporation), Appellant."]
+source_url: "https://static.case.law/cal-app-2d/8/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2240877
+cites_cases: ["103 Cal. App. 39", "11 Pac. 592", "125 Me. 191", "129 Cal. App. 541", "132 Atl. 417", "155 Pac. 995", "159 N. E. 173", "164 Minn. 57", "172 Cal. 182", "19 Pac. (2d) 21", "204 N. W. 546", "246 N. Y. 369", "283 Pac. 949", "3 Cal. App. 246", "38 A. L. R. 869", "4 Cal. App. (2d) 676", "41 Pac. (2d) 377", "44 A. L. R. 1333", "57 A. L. R. 980", "70 Cal. 158", "84 Pac. 1000"]
+---
+
+# First Trust & Savings Bank v. Coe College
+
+## Majority (ROSS, J., pro tem.)
+
+ROSS, J., pro tem.
+Doctor Robert A. Condit was professor of ancient languages at Coe College, Cedar Rapids, Iowa, from 1881 to 1906. After his retirement, he and his wife, Margaret E. Condit, moved to California. A pension was received by him, and, after his death, by his widow. It appears that what property Doctor Condit accumulated, and which his widow succeeded to on his death, was savings from his salary at Coe College, and from his pension obtained for him by the college.
+About February, 1925, Coe College was endeavoring to raise a fund of $500,000 for its endowment. On February 24, 1925, Lloyd Morris, vice-president of the college, paid a social call on Mrs. Condit, then a widow, at her Pasadena home, and on that occasion she volunteered to subscribe $2,500, payable on her death, and executed the following instrument:
+“2500.00 1920 Fund 5196
+“Endowment Note
+“Feb. 24, 1925.
+“With the desire to aid the cause of Christian education in Coe College, and with the purpose not only that the endowment of the College shall be increased by this gift, but also that it may be used in securing gifts from others to the same object, I promise to pay to Coe College, Cedar Rapids, Iowa, Twenty-five Hundred & 00/100 Dollars on or before Jan. 1-1960. Provided, in the event of my death prior to said date of maturity, this note shall become due upon the date of my death, and shall thereafter bear interest at the rate of five per cent per annum. This gift is to provide a memorial endowment to be known as the Dr. Robert A. Condit Scholarship Foundation. The principal to be kept forever intact, and the income to be used toward the maintenance of the college.
+“ (Mrs.) Margaret E. Condit.
+“Witness: Lloyd Morris
+“C. W. Harris.”
+On April 1, 1930, Mrs. Condit made a declaration of trust by which she conveyed all her property to First Trust & Savings Bank of Pasadena, the respondent herein, with the provision that she should receive all the income during her lifetime, and on her death, her funeral expenses and all debts which were presented as claims to the trustee within sixty days of her death, were to be paid, and the balance was to go to certain beneficiaries, about eleven in number, some being nephews, some cousins, and one a friend only.
+Mrs. Condit died December 1, 1931, and Coe College presented its claim within sixty days. Objections to its validity being voiced by some of the beneficiaries under the trust, respondent brought this action under section 1060 of the Code of Civil Procedure, asking the court to determine its rights, duties and powers with respect to said claim. Coe College answered and filed a cross-complaint alleging that the note was valid, and asking payment. Most of the beneficiaries appeared in the action and answered, asking that the claim be not paid.
+At the trial respondent put in evidence the declaration of trust, the note of Mrs. Condit, and the claim filed by the college, and rested. Coe College called one witness, and presented the deposition of four others, all persons being connected with the college and having knowledge of the Condit note transaction. The beneficiaries were represented at the trial, but produced no evidence.
+The trial court found that the claim was filed within the required sixty days, but found no consideration passed to Mrs. Condit at the time she executed the note, and, as a conclusion of law, that the note was not a just debt of decedent. Appellant claims that the declaration of trust was void as against creditors under the authority of McColgan v. Walter Magee, Inc., 172 Cal. 182 [155 Pac. 995, Ann. Cas. 1917D, 1050], and also, that a new trial should have been granted on the showing by affidavit that Mrs. Condit was incompetent at the time she made the declaration. These points need not be considered as respondent alleges that it stands ready to pay appellant’s claim if the court holds it valid. Appellant, as a creditor, could not then complain of the alleged invalidity of the declaration of trust.
+The sole point is whether the finding of lack of consideration of the endowment note is supported by the evidence. The appellant had the benefit of the presumption of consideration given by section 1614 of the Civil Code and by section 1615 of the Civil Code, the burden of proof was on the party seeking to invalidate the written instrument to show a want of consideration.
+The trend of modern authorities is to uphold subscriptions to charity, and similar causes, whenever that can be done without overstepping entirely established rules requiring consideration. Consideration is supplied where, upon good faith of the subscriptions, moneys have been expended, liabilities incurred or work performed. Other courts have found consideration in the mutual promises of the subscribers. (38 A. L. R. 869, note; University of Southern California v. Bryson, 103 Cal. App. 39 [283 Pac. 949].)
+A subscription which is not accepted or acted upon in any way, and which is not one of many making up an aggregate sum, is a mere offer to make a gift, and is revoked by the death of its maker. (Grand Lodge I. O. G. T. v. Farnham, 70 Cal. 158 [11 Pac. 592]; Board of Home Missions & Church, Extension v. Manley, 129 Cal. App. 541 [19 Pac. (2d) 21].)
+In the instant case, however, Mrs. Condit’s subscription was one of many, although it was not conditioned upon the securing of any particular sum in the aggregate. It was used by Coe College with other personal subscriptions to induce the Carnegie Corporation and General Education Board to contribute funds to the college, and these bodies made their contributions on the strength of the various personal subscriptions, including Mrs. Condit’s. This was consideration for the note, although supplied after the note was given. (University of Southern California v. Bryson, 103 Cal. App. 39 [283 Pac. 949]; Calvary Presbyterian Church v. Brydon, 4 Cal. App. (2d) 676 [41 Pac. (2d) 377]; Horan v. Keane, 164 Minn. 57 [204 N. W. 546].)
+In addition, the note requested that the subscription be used in a memorial fund to Dr. Condit. The evidence shows that such a fund was actually set up to the extent of $30,000, other cash subscriptions apparently being diverted to this fund. Carrying out Mrs. Condit’s wish that her husband’s name be remembered, and compliance with her request that a memorial fund be created, supplied a consideration for the giving of the note.
+An offer to make an unilateral contract to pay money into a memorial fund in which the offeror has a particular interest is accepted and becomes binding when the donee either obligates itself to create such memorial fund or actually does create it. (Allegheny College v. National Chautauqua County Bank, 246 N. Y. 369 [159 N. E. 173, 57 A. L. R. 980].)
+Where a proposed gift is stipulated by the donor to be devoted to some particular purpose, and is accepted with that condition attached, a special obligation in respect to that particular fund ensues, and will satisfy the requirements of a consideration. (Central Maine General Hospital v. Carter, 125 Me. 191 [132 Atl. 417, 44 A. L. R. 1333]; Buchtel College v. Chamberloix, 3 Cal. App. 246 [84 Pac. 1000].)
+Where the intent of the party is evident from a written instrument, the mere use of the words “gift” or “donation” will not be accepted as. conclusive evidence of an absence of consideration. (University of Southern California v. Bryson, supra.)
+For these reasons it appears that the testimony in the instant case not only did not rebut or dispel the presumption of consideration, but showed that there was ample consideration, and the claim of Coe College on the note should be paid.
+As appellant has no interest in' the trust, except that its claim be paid, the cause is remanded with instructions that judgment as prayed for be entered for appellant on its cross-complaint, and that otherwise the judgment be affirmed.
+The purported appeal from the order denying appellant’s motion for a new trial is dismissed.
+Thompson, J., and Plummer, Acting P. J., concurred.
+A petition by respondent to have the cause heard in the Supreme Court, after judgment in the District Court of Appeal, was denied by the Supreme Court on August 26, 1935.
