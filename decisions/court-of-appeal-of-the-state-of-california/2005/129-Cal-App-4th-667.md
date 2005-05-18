@@ -1,0 +1,36 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B165944"
+decided: "2005-05-18"
+citations: ["129 Cal. App. 4th 667"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARIA PADILLA, Plaintiff, v. GREATER EL MONTE COMMUNITY HOSPITAL et al., Defendants; NEIL M. HOWARD, Movant and Appellant; PAM MUIR, as Conservator, etc., Objector and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/129/cases/0667-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2480825
+cites_cases: ["19 Cal.4th 629", "35 Cal.App.4th 112", "40 Cal.App.4th 1433", "41 Cal.Rptr.2d 295", "48 Cal.Rptr.2d 301", "73 Cal.App.4th 871", "80 Cal.Rptr.2d 46", "86 Cal.Rptr.2d 752", "967 P.2d 585"]
+---
+
+# Padilla v. Greater El Monte Community Hospital
+
+## Majority (RUBIN, J.)
+
+Opinion
+RUBIN, J.
+Attorney Neil M. Howard appeals from the trial court’s denial of his motion to recompute the jury’s present value calculation of his client’s medical malpractice award almost two years after the court entered its final judgment. We affirm.
+FACTS AND PROCEDURAL BACKGROUND
+Medical malpractice by Maria Padilla’s doctor left her in a permanently vegetative state. Attorney Neil Howard filed a malpractice lawsuit on Padilla’s behalf. Howard tried the case to a jury and in January 2001 the jury rendered a special verdict for Padilla compensating her for past and future damages. For her future medical expenses, the jury awarded Padilla 12 annual payments, which started at $250,000 the first year and increased by 6 percent every year thereafter. The jury calculated the present value of the future medical expenses as $2,095,000. In reaching that value, the jury appears to have mistakenly used a chart that calculated the present value for a stream of constant payments, not, as here, a series of rising payments.
+In February 2001, the court entered judgment for Padilla. It awarded her more than $1.2 million for past damages. The court also awarded Padilla her future medical expenses as determined by the jury and, relevant to this appeal, adopted the jury’s calculation of the present value of those future payments. No one appealed from the court’s final judgment.
+In June 2002, the probate court overseeing Padilla’s estate appointed respondent Pam Muir as Padilla’s conservator. Conservator Muir concluded Howard had taken more in legal fees from Padilla’s judgment than the statutory formula in the Medical Injury Compensation Reform Act allowed. She asked Howard to return the excess fees. In response, in October 2002, Howard filed with the trial court that had heard the malpractice case a motion asking the court to calculate the total value of the malpractice award from which he could draw his fees. In determining the value of the award, Howard asked the court to ignore the jury’s calculation of the present value of Padilla’s future medical payments and instead use a present value calculation Howard tendered in his motion.
+The court denied the motion as untimely because the judgment was final. It told Howard during the hearing on his motion, “You’re asking me to change the finding of the jury . . . almost two years after it took place. ... [][]... I think it’s a finding of the jury as to what the present cash value of future judges [sic]. And if it’s incorrect, it’s too late.” This appeal followed.
+DISCUSSION
+Howard contends the court erred when it refused to recalculate the total value of Padilla’s award. He argues the court, not the jury, must determine the total value of the jury’s verdict, including the present value of future damages. In support, he cites Business and Professions Code section 6146, subdivision (b), which states, “If periodic payments are awarded to the plaintiff. . ., the court shall place a total value on these payments based upon the projected life expectancy of the plaintiff and include this amount in computing the total award from which attorney’s fees are calculated under this section.” Seizing on the language “the court shall place a total value,” Howard contends the court did not fulfill its duties under section 6146. His contention fails on several grounds.
+First, Howard did not object at the time of trial to the jury’s calculation of the present value. Failing to timely object to a purported error when it occurs in the trial court ordinarily waives the objection on appeal. (Jensen v. BMW of North America, Inc. (1995) 35 Cal.App.4th 112, 131 [41 Cal.Rptr.2d 295].) Howard cites no authority suggesting that the rule does not apply here.
+Second, even if the objection were not waived, Howard cites no authority that he can wait almost two years after the trial court entered its final judgment to complain for the first time. (Cal. Rules of Court, rule 2 [maximum time to file notice of appeal from final judgment is 60 or 180 days].) Howard notes that section 6146, subdivision (b) does not state any time limit on when the court “shall” set the total value. We are unpersuaded, however, because many statutes do not contain any time limit, but the period for challenging a court’s purported misapplication of such statutes ordinarily ends after the time for filing a notice of appeal from the final judgment passes, and Howard cites no authority to the contrary. (Accord, Nguyen v. Los Angeles County Harbor/UCLA Medical Center, supra, 40 Cal.App.4th at p. 1447 [no special provisions for amending MICRA judgment awarding periodic payments after it becomes final].)
+Finally, the law permits the jury to calculate the present value of a future award, as demonstrated by the very authorities Howard cites. For example, in Holt v. Regents of University of California (1999) 73 Cal.App.4th 871 [86 Cal.Rptr.2d 752], the jury calculated the present value of future economic damages without comment or criticism by the appellate court, except for the appellate court to note that the jury’s calculation was binding on the trial court. (Id. at pp. 876-880.) And in Salgado v. County of Los Angeles (1998) 19 Cal.4th 629 [80 Cal.Rptr.2d 46, 967 P.2d 585], the parties were not obligated to submit to the jury the question of the present value of future medical care, but if they did so the jury’s calculation was binding. (Id. at pp. 648-649.) To the extent the statute should be read literally to require the court, not the jury, to make that calculation, the court discharged that duty when it entered judgment on the verdict without objection by the parties.
+DISPOSITION
+The order denying Howard’s motion is affirmed. The present value of $2,095,000 for Padilla’s future medical payments stands undisturbed. Respondent to recover her costs on appeal.
+Cooper, P. J., and Flier, J., concurred.
+“This case illustrates the pitfalls even experienced attorneys may encounter in collecting fees in a MICRA case.” (Nguyen v. Los Angeles County Harbor/UCLA Medical Center (1995) 40 Cal.App.4th 1433, 1448 [48 Cal.Rptr.2d 301] [describing one way a plaintiff’s attorney can protect his fees when future periodic payments are involved].) Plainly, MICRA (Medical Injury Compensation Reform Act of 1975) requires that attorneys be especially alert, for its fee provisions can be a trap for the unwary.
