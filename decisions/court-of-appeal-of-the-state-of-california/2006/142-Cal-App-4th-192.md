@@ -1,0 +1,44 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B187352"
+decided: "2006-08-22"
+citations: ["142 Cal. App. 4th 192"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Coffee, J., and Perren, J., concurred."]
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. TINA LOUISE JEFFERY, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/142/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3500128
+cites_cases: ["105 Cal.Rptr.2d 1", "116 Cal.Rptr.2d 924", "217 Cal.App.3d 413", "22 Cal.App.4th 194", "266 Cal.Rptr. 29", "27 Cal.Rptr.2d 286", "87 Cal.App.4th 592", "96 Cal.App.4th 700"]
+---
+
+# People v. Jeffery
+
+## Majority (GILBERT, P. J.)
+
+Opinion
+GILBERT, P. J.
+An error-free trial exists more in imagination than in reality. Many a judgment in a criminal case is tethered to the principle of harmless error. Errors that make no difference to the outcome of a case do not undermine the judgment. When a trial judge does not comply strictly with statutory requirements, the facts dictate whether an appellate court may conclude that a remand is unnecessary because it is reasonably probable the trial' court will reach the same decision. Here we conclude a remand is necessary.
+Tina Louise Jeffery appeals a judgment of conviction following her nolo contendere plea to transportation of cocaine, possession of cocaine for sale, possession of methamphetamine for sale, and transportation of methamphetamine, with an admission of a prior narcotics conviction. (Health & Saf. Code, §§ 11352, subd. (a), 11351, 11378, 11379, subd. (a), 11370.2, subd. (a).) We conclude that the trial court erred by not stating with specificity its reasons for not committing Jeffery to the California Rehabilitation Center. We reverse and remand so that the trial court may do so. (Welf. & Inst. Code, § 3051.)
+FACTS AND PROCEDURAL HISTORY
+In the early morning of January 19, 2005, San Luis Obispo Sheriff’s deputies executed a search warrant for a search of Jeffery and her Toyota automobile. Inside the automobile, the deputies discovered methamphetamine, cocaine, pay-and-owe sheets, scales, and drug paraphernalia. During a booking search, female deputies saw Jeffery conceal cocaine in her vagina. The deputies accompanied Jeffery to a hospital where a physician removed the cocaine. During the drive to the hospital, Jeffery stated that she brought narcotics from Fresno to sell in San Luis Obispo County because “there is a party on every street corner.”
+On July 27, 2005, Jeffery pleaded nolo contendere to transportation of cocaine, possession of cocaine for sale, possession of methamphetamine for sale, and transportation of methamphetamine. (Health & Saf. Code, §§ 11352, subd. (a), 11351, 11378, 11379, subd. (a).) She admitted that she suffered a prior narcotics conviction pursuant to section 11370.2, subdivision (a). The trial court agreed to sentence Jeffery to a prison term of five years, and to refer her for a psychological evaluation pursuant to section 3051. The trial judge stated that he was not “making any commitment” regarding a California Rehabilitation Center commitment.
+On August 29, 2005, Dr. David Fennell interviewed Jeffery and opined that she was addicted to narcotics and would benefit from a one-year residential treatment program. Fennell recounted Jeffery’s 15-year drug addiction, and noted that she “has had good success in the past with substance abuse treatment programs.”
+The trial court acknowledged that Jeffery was addicted to narcotics, but “for a variety of [unstated] reasons,” refused to commit her to California Rehabilitation Center. The trial court sentenced Jeffery to a five-year prison term and recommended that the Department of Corrections “provide her as much treatment as possible” within their “very good rehabilitative programs.”
+Jeffery appeals and contends that the trial court abused its discretion by declining to initiate commitment proceedings.
+DISCUSSION
+Jeffery argues that the trial court’s reference to “a variety of reasons,” is ambiguous, and does not explain whether the trial court found “a pattern of criminality” pursuant to section 3051. She points out that she has a limited criminal history (narcotics convictions in 1995 and 1997), and that she successfully completed a drug treatment program in 1995. Jeffery adds that the commitment statute and judicial decisions restrict the trial court’s discretion to determining only if addiction or criminality is a defendant’s “main problem.” (People v. Cruz (1990) 217 Cal.App.3d 413, 421 [266 Cal.Rptr. 29].)
+Section 3051 provides: “Upon conviction of a defendant for a felony . . . and upon imposition of sentence, if it appears to the judge that the defendant may be addicted or by reason of repeated use of narcotics may be in imminent danger of becoming addicted to narcotics the judge shall suspend the execution of the sentence and order the district attorney to file a petition for commitment of the defendant to the Director of Corrections for confinement in the narcotic detention, treatment, and rehabilitation facility unless, in the opinion of the judge, the defendant’s record and probation report indicate such pattern of criminality that he or she does not constitute a fit subject for commitment. . . .”
+If the trial court finds that a defendant is addicted or in danger of becoming addicted, it must suspend execution of sentence and order commitment proceedings unless it finds that the defendant is unsuitable for commitment. (People v. Masters (2002) 96 Cal.App.4th 700, 704-706 [116 Cal.Rptr.2d 924].) In the determination of a “pattern of criminality,” the trial court may consider a defendant’s prior convictions, his performance on probation or parole, and the circumstances of the present offense. (Ibid, [e.g., defendant possessed methamphetamine for his own use as well as for sale].) “[E]xcessive criminality is the only consideration a sentencing court should look to for refusing to initiate CRC proceedings.” (People v. Granado (1994) 22 Cal.App.4th 194, 200 [27 Cal.Rptr.2d 286].)
+When a trial court decides not to order the initiation of commitment proceedings, it must provide a statement of reasons. (Cal. Rules of Court, rule 4.406(b)(9); People v. Granado, supra, 22 Cal.App.4th 194, 201-202.) “[A]t a minimum the required statement of reasons must include some specification of where the court was looking in making its finding of excessive criminality. . . . [W]as it looking at the defendant’s prior convictions, his prior performance on probation or parole, the nature and seriousness of the current offense, or some other factors evidencing criminality?” (Id., at pp. 202-203.) The trial court may not “ ‘parrot’ ” the statutory language when refusing to initiate commitment proceedings. (People v. McGinnis (2001) 87 Cal.App.4th 592, 595 [105 Cal.Rptr.2d 1].)
+Here contrary to California Rules of Court, rule 4.406(b)(9) and well-settled decisional law, the trial court did not provide specific reasons for declining to initiate commitment proceedings. Its statement that the ruling is based on “a variety of reasons,” leaves us guessing. Our decision should not rest upon speculation regarding the trial court’s reasoning.
+The Attorney General suggests that remand will result in the same decision. That may be true, but we will have the benefit of the trial court’s thinking. In specifying the reasons for its decision, the trial court must test its thinking. A statement of reasons also informs the parties and the public. That purpose underlies California Rules of Court, rule 4.406(b)(9).
+Here there is evidence of excessive criminality. There is also evidence that the defendant is an addict who may profit by a California Rehabilitation Center commitment. It is likely that however the trial court rules, with a proper articulation of its decision, its ruling will be affirmed on appeal.
+In many cases the appellate court enters the mind of the trial judge and affirms a ruling because of “implied findings.” There are also cases in which an appellate court takes a flight of fancy to conclude that there is no possibility of a different decision. This is not such a case. Here there is evidence of excessive criminality. There is also evidence that the defendant is an addict who may profit by a California Rehabilitation Center commitment.
+We remand so that the court may either initiate California Rehabilitation Center commitment proceedings or specify its reasons for not doing so. We take no position on how the trial court should rule.
+The judgment is reversed and remanded.
+Coffee, J., and Perren, J., concurred.
+On September 21, 2006, the opinion was modified to read as printed above.
+All further statutory references are to the Welfare and Institutions Code unless stated otherwise.
