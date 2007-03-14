@@ -1,0 +1,59 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C051132"
+decided: "2007-03-14"
+citations: ["148 Cal. App. 4th 596"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KAREN STONE, Plaintiff and Appellant, v. GARY DAVIS, Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/148/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5571776
+cites_cases: ["10 Cal.Rptr.3d 146", "116 Cal.App.4th 201", "116 Cal.App.4th 305", "1999 SD 162", "279 Cal.Rptr. 834", "325 N.J. Super. 122", "45 Cal.App.4th 631", "53 Cal.3d 442", "53 Cal.Rptr.2d 50", "785 So.2d 1138", "80 Cal.App.4th 846", "807 P.2d 1063", "9 Cal.Rptr.3d 902", "95 Cal.Rptr.2d 691"]
+---
+
+# Stone v. Davis
+
+## Majority (NICHOLSON, J.)
+
+Opinion
+NICHOLSON, J.
+Plaintiff challenges a trial court’s order transferring continuing, exclusive jurisdiction over a child support order to another state. She claims the governing statute mandated jurisdiction remain with the California court. We agree and reverse the trial court’s decision.
+FACTS
+Plaintiff Karen Stone and defendant Gary Davis are the parents of a son. In 1997, the Sacramento County Superior Court issued an order establishing joint legal custody and child support. The court granted Stone primary physical custody, and it ordered Davis to pay $212 per month in child support.
+In 1999, the trial court granted Stone permission to move to Alabama with the child. Davis continued to reside in California, where he still lives.
+In 2001, Davis filed a petition in the Alabama court seeking additional visitation rights. Stone filed a counterclaim seeking an increase in child support in accordance with Alabama rules.
+In 2002, the Alabama court modified visitation. As to child support, the Alabama court ordered all payments be made through its clerk’s office, and ordered child support “shall remain $212.00 per month as previously ordered by the California courts.”
+In December 2004, Davis filed a petition with the Alabama court seeking to modify visitation.
+In February 2005, Stone filed this petition in the Sacramento County Superior Court seeking to modify the 1997 child support order.
+In May 2005, Davis filed both an amended petition to modify in the Alabama court and a response to Stone’s petition in the California court. In the Alabama proceeding, Davis alleged the Alabama court took jurisdiction of all child support matters with its 2002 order, and he asked that court to modify child support in accordance with Alabama rules.
+In the California proceeding, Davis raised the same arguments. He also declared Stone, in response to his Alabama petition, had served discovery on him regarding his income and assets, to which he had already responded. She was now making the same discovery requests on him in her California petition. He asked the court not to proceed with Stone’s petition and instead allow the Alabama court to determine child support.
+The California court directed the parties to address the issue of which court had continuing, exclusive jurisdiction to modify child support. Following briefing by the parties and a hearing, the California court mled the parties “have consented to jurisdiction in Alabama by their actions and proceedings in 2001 and again in 2004 and 2005. [f] Alabama has exclusive continuing jurisdiction over child support issue. Further, California is inconvenient forum as the parties are proceeding on related issues in Alabama.”
+Stone appeals the trial court’s order. She claims under Family Code section 4909, part of the Uniform Interstate Family Support Act (UIFSA or the Act) which both California and Alabama have adopted, California has exclusive, continuing jurisdiction over child support orders until all parties consent otherwise in a writing filed in the California court. No such writing was filed in this matter, and Stone claims the court erred by concluding the parties’ actions in Alabama were a sufficient demonstration of consent to Alabama jurisdiction. Stone also argues forum non conveniens is not a lawful basis under the Act for transferring continuing jurisdiction to another state.
+DISCUSSION
+Stone claims the trial court erred when it concluded Alabama had continuing, exclusive jurisdiction over the 1997 child support order. She claims the relevant statute vests that jurisdiction with the Sacramento County Superior Court until all parties to the order consent to jurisdiction in another state in a writing filed with the Sacramento court. We agree.
+Whether California has continuing, exclusive jurisdiction over a support order is a question of law we review de novo. (Lundahl v. Telford (2004) 116 Cal.App.4th 305, 312 [9 Cal.Rptr.3d 902].)
+In 1997, California and Alabama adopted the UIFSA. (Fam. Code, § 4900 et seq.) The UIFSA governs child support orders in interstate cases. (In re Marriage of Newman (2000) 80 Cal.App.4th 846, 849 [95 Cal.Rptr.2d 691].) “[T]he UIFSA ensures that in every case only one state exercises jurisdiction over child support at any given time.” (In re Marriage of Crosby & Grooms (2004) 116 Cal.App.4th 201, 206 [10 Cal.Rptr.3d 146].)
+Perhaps the “most crucial provision” of the UIFSA is codified in California as section 4909 of the Family Code. (Uniform Interstate Family Support Act com., 29F West’s Ann. Fam. Code (2004 ed.) foil. § 4909, p. 448.) Under this provision and subject to narrow exceptions, the judicial tribunal that issues a support order retains “continuing, exclusive jurisdiction” to modify that order. This concept is “the cornerstone of the Act.” (Id. at p. 449.)
+The statute reads in relevant part: “(a) A tribunal of this state issuing a support order consistent with the law of this state has continuing, exclusive jurisdiction over a child support order:
+“(1) As long as this state remains the residence of the obligor, the individual obligee, or the child for whose benefit the support order is issued; or
+“(2) Until all of the parties who are individuals have filed written consents with the tribunal of this state for a tribunal of another state to modify the order and assume continuing, exclusive jurisdiction.
+“(b) A tribunal of this state issuing a child support order consistent with the law of this state may not exercise its continuing jurisdiction to modify the order if the order has been modified by a tribunal of another state pursuant to this chapter or a law substantially similar to this chapter.” (Fam. Code, § 4909, subds. (a), (b), italics added.)
+Regulations promulgated by the state Department of Social Services state the requirement thusly: “(a) Except as specified in subsection (b), only the issuing state shall have continuing, exclusive jurisdiction to modify a support order.
+“(b) In determining whether it believes California or another state has continuing, exclusive jurisdiction to modify a support order, the local child support agency shall apply the following rules:
+“(1) Only one state shall have continuing, exclusive jurisdiction to modify a support order at any given time.
+“(2) If the child, the obligee who is an individual, or the obligor resides in the state that issued the controlling order, that state has continuing, exclusive jurisdiction to modify.
+“(3) Once a state has continuing, exclusive jurisdiction, it shall retain jurisdiction as long as any one of the parties or children in the case still resides in the state, unless the parties file a written consent in the issuing tribunal allowing another state, with personal jurisdiction over any of the parties, to assume continuing, exclusive jurisdiction to modify the order.” (Cal. Code Regs., tit. 22, § 117300.)
+The statutory language is unambiguous and clear. A California court retains continuing, exclusive jurisdiction to modify a child support order it lawfully issued so long as one of the parties to the order continues to reside in the state, unless all of the parties to the order file with the California court a writing consenting to jurisdiction in another state, or another state court modified the order as allowed under the UIFSA.
+No party in this case has filed a written consent with the Sacramento County Superior Court. As Davis admits, “[njeither party had filed any documents in California” since Stone obtained permission to move to Alabama in 1999 until Stone filed her motion in 2005 seeking to modify child support.
+The trial court, however, was not concerned that a consent had not been filed with it. It believed the parties’ actions in filing matters in Alabama put each on notice that they consented to Alabama gaining continuing, exclusive jurisdiction. This interpretation ignores the statute’s clear language and renders the requirement of filing a written consent in the issuing court superfluous. Courts must avoid statutory constructions that render provisions unnecessary. (Dix v. Superior Court (1991) 53 Cal.3d 442, 459 [279 Cal.Rptr. 834, 807 P.2d 1063].)
+While we may be the first California court to address this issue in a published decision, we do not write on a blank slate. The other states addressing the matter have universally held that a written consent filed with the issuing court is required to transfer continuing, exclusive jurisdiction to another state. (See McCarthy v. McCarthy (Ala.Civ.App. 2000) 785 So.2d 1138, 1139; Peace v. Peace (1999) 325 N.J. Super. 122 [737 A.2d 1164, 1167-1169]; Weekley v. Weekley (1999) 1999 SD 162 [604 N.W.2d 19, 24].) These courts have enforced the statute’s unambiguous language, and we do the same.
+Davis argues the 2002 Alabama order, which directed child support be paid to that clerk’s office, modified the 1997 order and thus transferred jurisdiction to Alabama. We disagree with that argument. The Alabama court stated the amount of support shall remain at the same amount ordered by the California court in 1997.
+More importantly, Alabama had no authority to modify the order. Under the UIFSA, a state cannot modify an order when one of the parties resides in the issuing state or, if that is so, when all of the parties have not filed written consents in the issuing state. (Fam. Code, § 4960, subd. (a).) Davis resides in the issuing state, and all of the parties have not filed consents here. Alabama had no jurisdiction to modify the 1997 order.
+Davis claims Stone is judicially estopped from asserting California jurisdiction over the support order when she has sought to invoke Alabama jurisdiction in the past to modify the order. This contention is without merit. Subject matter jurisdiction cannot be conferred by estoppel. (Old Republic Ins. Co. v. St. Paul Fire & Marine Ins. Co. (1996) 45 Cal.App.4th 631, 639 [53 Cal.Rptr.2d 50].)
+We also agree with Stone that forum non conveniens is not a ground on which continuing, exclusive jurisdiction over a support order can be transferred to another state. The statute lists the exclusive means by which jurisdiction can be transferred, and inconvenience of the forum is not one of those grounds. So long as one of the parties resides in the issuing state, jurisdiction remains in that state no matter where the other parties live unless and until all parties consent otherwise in writing with the issuing state.
+In summary, the Sacramento County Superior Court has continuing, exclusive jurisdiction over the child support order it issued in 1997. Any modifications to that order must be made by that court unless all parties file with that court a writing consenting to jurisdiction elsewhere, or unless California no longer remains the residence of any of the parties or the child in this action.
+DISPOSITION
+The trial court’s order is reversed, and the case is remanded for further proceedings. Costs on appeal are awarded to Stone. (Cal. Rules of Court, rule 8.276(a).)
+Scotland, P. J., and Morrison, J., concurred.
