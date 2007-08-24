@@ -1,0 +1,35 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "D049679"
+decided: "2007-08-24"
+citations: ["154 Cal. App. 4th 622"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE CADLE COMPANY II, INC., Plaintiff and Appellant, v. SUNDANCE FINANCIAL, INC., et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/154/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3615544
+cites_cases: ["1 Cal.4th 1105", "10 Cal.3d 351", "110 Cal.Rptr. 353", "126 P.2d 187", "151 Cal.Rptr. 169", "196 Cal. 395", "21 Cal.4th 383", "230 Cal.App.3d 1385", "238 P. 78", "251 Cal.App.2d 206", "282 Cal.Rptr. 18", "37 Cal. 154", "4 Cal.Rptr.2d 857", "44 Cal.App.4th 1672", "515 P.2d 297", "52 Cal.App.2d 236", "52 Cal.Rptr.2d 599", "59 Cal.Rptr. 299", "75 Cal.App.4th 1082", "8 Cal.App.3d 893", "824 P.2d 663", "87 Cal.App.3d 696", "87 Cal.Rptr. 756", "87 Cal.Rptr.2d 453", "89 Cal.Rptr.2d 760", "981 P.2d 79"]
+---
+
+# Cadle Co. II, Inc. v. Sundance Financial, Inc.
+
+## Majority (McINTYRE, J.)
+
+Opinion
+McINTYRE, J.
+In this appeal we address the question of when the 10-year statute of limitations begins to run on an action to renew a stipulated judgment. (Code Civ. Proc., § 337.5, subd. (3), all statutory references are to this code unless otherwise specified.) We conclude that the limitations period begins to run when the trial court enters the stipulated judgment, unless the parties agreed to the judgment for the purpose of facilitating an appeal. Accordingly, we affirm the dismissal of this action because it was filed more than 10 years after entry of the stipulated judgment and there is no indication that the parties agreed to the judgment to facilitate an appeal.
+FACTUAL AND PROCEDURAL BACKGROUND
+Union Bank and Pacific Scene, Inc. (Pacific Scene), entered into a stipulated judgment on April 18, 1996, which awarded $508,475.74 to Union Bank. The Cadle Company II, Inc. (Cadle), later acquired all right, title, and interest to the judgment. On May 8, 2006, Cadle filed the instant complaint against Pacific Scene and Sundance Financial, Inc. (together Sundance), Pacific Scene’s alleged successor in interest. Sundance demurred to the complaint, arguing that the matter was barred by the statute of limitations. The trial court agreed and dismissed the action.
+STANDARD OF REVIEW
+When reviewing a judgment of dismissal following the sustaining of a demurrer, we independently review the moving and opposition papers in order to determine whether the judgment was proper. (Sacramento Brewing Co. v. Desmond, Miller & Desmond (1999) 75 Cal.App.4th 1082, 1085 [89 Cal.Rptr.2d 760].) We make this determination without any deference to the trial court.
+DISCUSSION
+A lawsuit to renew a judgment is subject to a 10-year statute of limitations period. (§ 337.5, subd. (3).) This 10-year period does not ordinarily commence with the entry of judgment, but rather when the judgment becomes final, i.e., after the determination of an appeal, or, if no appeal is filed, after the time in which an appeal could have been filed. (Turner v. Donovan (1942) 52 Cal.App.2d 236, 238 [126 P.2d 187].) A stipulated judgment, however, may not normally be appealed, and becomes final when entered. (Reed v. Murphy (1925) 196 Cal. 395, 399 [238 P. 78]; Lawler v. Bannerman (1970) 8 Cal.App.3d 893, 894 [87 Cal.Rptr. 756]; Papadakis v. Zelis (1991) 230 Cal.App.3d 1385, 1387 [282 Cal.Rptr. 18].) An exception to this rule exists when both parties enter into the stipulated judgment in order to facilitate an appeal. (Norgart v. Upjohn Co. (1999) 21 Cal.4th 383, 400 [87 Cal.Rptr.2d 453, 981 P.2d 79].)
+Here, the trial court entered the stipulated judgment on April 18, 1996. When Cadle filed the instant action to renew the stipulated judgment on May 8, 2006, the 10-year limitations period had already elapsed, rendering the action time-barred. To avoid this result, Cadle proposes a rule that would make all stipulated judgments final only when the time for appeal has passed. It claims that this rule is simpler, because the trial court would not need to examine the record. This claim is somewhat undermined, however, by Cadle’s admission that the court would still have to examine the record in order to determine whether the appealing party had received notice of the entry of judgment, since in the absence of such notice the time for appeal is extended from 60 days to 180 days. (Cal. Rules of Court, rule 8.104(a).) Cadle’s rule also ignores decades of case law holding that a party stipulating to a judgment waives the right to appeal unless the purpose of the stipulation was to facilitate an appeal. (Connolly v. County of Orange (1992) 1 Cal.4th 1105, 1111 [4 Cal.Rptr.2d 857, 824 P.2d 663]; Mecham v. McKay (1869) 37 Cal. 154, 158-159; Kenworthy v. Hadden (1978) 87 Cal.App.3d 696, 700 [151 Cal.Rptr. 169].)
+Cadle also asserts that because stipulated judgments may be appealed under certain circumstances, such a judgment should be final only when the time for appeal has elapsed. It is true that stipulated judgments can be attacked on various grounds, such as lack of subject matter jurisdiction by the trial court or a judgment that goes beyond the terms of the stipulation. (Rooney v. Vermont Investment Corp. (1973) 10 Cal.3d 351, 359 [110 Cal.Rptr. 353, 515 P.2d 297]; Reed v. Murphy, supra, 196 Cal. at p. 399.) Cadle gives many other examples, all of which essentially fall into two categories: judgments that are facially void and judgments that are void for lack of jurisdiction by the trial court. A party to a stipulated judgment, however, can collaterally attack the judgment on these grounds at any time. (Selma Auto Mall II v. Appellate Department (1996) 44 Cal.App.4th 1672, 1683 [52 Cal.Rptr.2d 599]; Thorson v. Western Development Corp. (1967) 251 Cal.App.2d 206, 211-212 [59 Cal.Rptr. 299].)
+Cadle’s complaint does not allege that there are any jurisdictional issues involved in this case, or that the stipulated judgment went beyond the terms of the stipulation. Nor did Cadle seek leave to amend to add allegations that the stipulated judgment could have been appealed on one of these grounds. Furthermore, there is nothing in the record indicating that Union Bank and Pacific Scene agreed to the stipulated judgment for the purpose of filing an appeal, and Cadle has not even attempted to argue that this exception applies. (We grant Sundance’s unopposed request for judicial notice of the stipulation for entry of judgment in the underlying case. (Evid. Code, § 452, subd. (d).))
+In summary, the 10-year limitations period of section 337.5 begins to run when a judgment is final. Generally, stipulated judgments are final when entered and Cadle has not alleged any facts showing why this general rule does not apply. Accordingly, the trial court properly dismissed this action as time-barred.
+DISPOSITION
+The judgment is affirmed. Costs are awarded to Respondents.
+McDonald, Acting P. J., and O’Rourke, J., concurred.
