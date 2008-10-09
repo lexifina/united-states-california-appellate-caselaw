@@ -1,0 +1,49 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B195452"
+decided: "2008-10-09"
+citations: ["167 Cal. App. 4th 524"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. RAYMOND P. BRIONES, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/167/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5730186
+cites_cases: ["12 Cal.4th 593", "189 Cal.App.3d 603", "236 Cal.Rptr. 404", "24 Cal.4th 219", "46 Cal.App.4th 1119", "49 Cal.Rptr.2d 390", "54 Cal.Rptr.2d 578", "6 P.3d 228", "68 Cal.App.4th 1393", "68 Cal.App.4th 509", "80 Cal.Rptr.2d 308", "81 Cal.Rptr.2d 207", "909 P.2d 994", "99 Cal.Rptr.2d 570"]
+---
+
+# People v. Briones
+
+## Majority (GILBERT, P. J.)
+
+Opinion
+GILBERT, P. J.
+Defendant is convicted of two counts of possession of drugs for sale, each count for a different drug. He is also convicted of two additional counts of conspiracy to possess those drugs for sale.
+Here we conclude defendant may be convicted for only one act of conspiracy to possess drugs for sale. And because the conspiracy and drug convictions are based on the same set of operative facts, defendant may not be punished for both the substantive offenses and the conspiracy.
+Raymond P. Briones was convicted of possessing heroin for sale (Health & Saf. Code, § 11351), conspiracy to possess heroin for sale (Pen. Code, § 182), possessing methamphetamine for sale (Health & Saf. Code, § 11378), and conspiracy to possess methamphetamine for sale (Pen. Code, § 182).
+The trial court sentenced him to 50 years to life in prison under the “Three Strikes” law. (§§ 667, subds. (b)-(i), 1170.12, subds. (a)-(e).) The sentence consists of 25 years to life for the heroin possession count, a concurrent 25 years to life for the methamphetamine possession count, a consecutive 25 years to life for conspiracy to possess methamphetamine, and a concurrent 25 years to life for conspiracy to possess heroin.
+We conclude the trial court erred in sentencing Briones on two conspiracy counts instead of one. We also conclude the trial court erred in its belief that section 667, subdivision (c)(6), mandates consecutive sentences for the conspiracy and drug possession for sale that is the object of the conspiracy. Because section 667, subdivision (c)(6), does not apply, section 654 applies to the conspiracy and the object of the conspiracy. Thus the sentence for conspiracy is stayed, leaving concurrent 25-year-to-life sentences for the two drug possession counts. In all other respects we affirm.
+FACTS
+In early March 2006, Briones was unemployed and staying in a room of the Broadway Motel in Santa Maria. The room was registered to his friend, Tanya Alvarez.
+Briones told another friend, Donald Gothard, that he wanted to borrow $6,000 to buy drugs. Gothard agreed to loan him the money. Briones purchased the drugs and invited Gothard into his room to see them. Alvarez was also in the room. Gothard noticed some heroin and methamphetamine on a table.
+A Santa Maria police officer knocked on the door and identified himself. He heard a commotion inside and kicked down the door. Briones ran into the bathroom and tried to leave through the window. During a search, police officers found approximately 100 grams of methamphetamine and 260 grams of heroin in the room, including one bindle of methamphetamine and five bindles of heroin in Alvarez’s clothing. Gothard later accepted a plea agreement that required him to testify truthfully at Briones’s trial.
+DISCUSSION
+[[I]]
+ii
+Briones challenges his sentence.
+First, he argues the trial court erred by sentencing him on two or more counts of conspiracy. The Attorney General concedes. Briones was found guilty of conspiracy to possess heroin for sale and conspiracy to possess methamphetamine for sale. But there was only a single conspiracy to possess both drugs. Therefore we strike one of the 25-year-to-life terms imposed for conspiracy. (See People v. Liu (1996) 46 Cal.App.4th 1119, 1133 [54 Cal.Rptr.2d 578].)
+Second, Briones argues that because the object of the conspiracy was to commit both of the charged drug offenses, it was error to sentence him on all counts. He claims he can be sentenced on either the conspiracy or one of the drug offenses, but not all three.
+Briones claims the court mistakenly believed that section 667, subdivision (c)(6), requires a mandatory consecutive sentence because the conspiracy occurred on an earlier date than the substantive offense. Subdivision (c)(6) requires consecutive sentences for concurrent convictions for felonies “not committed on the same occasion, and not arising from the same set of operative facts . . . .”
+The Attorney General argues the conspiracy did not arise on the same occasion and from the same set of operative facts as the drug offenses. The Attorney General relies on People v. Durant (1999) 68 Cal.App.4th 1393, 1405-1406 [81 Cal.Rptr.2d 207]. There, the court stated: “[W]here the elements of the original crime have been satisfied, any crime subsequently committed will not arise from the same set of operative facts underlying the completed crime; rather such crime is necessarily committed at a different time.” (Id. at p. 1406.) The Attorney General points out that the crime of conspiracy requires only an agreement to commit a crime and an overt act in furtherance of the agreement. (§§ 182, subd. (a)(1), 184; People v. Swain (1996) 12 Cal.4th 593, 600 [49 Cal.Rptr.2d 390, 909 P.2d 994].) Here the minimum facts necessary to prove the conspiracy to possess the drugs occurred when Gothard gave Briones the money to make the purchase. That was prior to the time Briones committed the drug possession offenses. Thus the Attorney General believes section 667, subdivision (c)(6), mandates consecutive sentences.
+But in People v. Lawrence (2000) 24 Cal.4th 219 [99 Cal.Rptr.2d 570, 6 P.3d 228], our Supreme Court cautioned that factors in addition to the minimum facts necessary to prove the charged offenses may be relevant. There, the defendant stole a bottle of brandy from a store. During his flight through a neighborhood, a resident tried to stop him. He hit the resident with the brandy bottle. The trial court imposed consecutive sentences under section 667, subdivision (c)(6), for felony petty theft with a prior and felony assault.
+Our Supreme Court held that the two felonies were sufficiently separated in time and space that they did not occur on the same occasion. (People v. Lawrence, supra, 24 Cal.4th at p. 229.) The court then considered the question whether the felonies arose from the “same set of operative facts.” The court defined “ ‘operative’ ” as “producing an appropriate or desired effect; exerting force or influence.” (Id. at p. 231.) The court interpreted “not arising from the same set of operative facts” to mean “not sharing common acts or criminal conduct that serves to establish the elements of the current felony offenses . . . .” (Id. at p. 233.) The court cautioned that in making such determination, the sentencing court must consider “the extent to which common acts and elements of such offenses unfold together or overlap, and the extent to which the elements of one offense have been satisfied, rendering that offense completed in the eyes of the law before the commission of further criminal acts constituting additional and separately chargeable crimes . . . .” (Ibid.) The court concluded the theft and assault did not arise from the same set of operative facts.
+Here the possession for sale of the drugs was an object of the conspiracy. Neither Durant nor Lawrence considered the meaning of “not arising from the same set of operative facts” within the context of a conspiracy and its objective.
+Although the crime of conspiracy requires only an agreement and an overt act, the conspiracy does not necessarily end on the commission of the first overt act. Instead, conspiracy is a continuing offense while the agreement continues. (See 1 Witkin & Epstein, Cal. Criminal Law (3d ed. 2000) Defenses, § 226, pp. 593-594.) The crime that forms the objective of the conspiracy is the conspiracy’s “desired effect,” and the conspiracy and its objective share “common . . . criminal conduct.” (See People v. Lawrence, supra, 24 Cal.4th at pp. 231, 233.) Thus, here, the conspiracy and possession of the drugs for sale arise from the same set of operative facts. Section 667, subdivision (c), does not require consecutive sentences.
+Because section 667, subdivision (c)(6), does not require consecutive sentences, section 654 applies. (3 Witkin & Epstein, Cal. Criminal Law, supra, Punishment, § 363, p. 474.) Section 654 prohibits multiple punishment for both the conspiracy and the substantive offenses that were its object. (People v. Ramirez (1987) 189 Cal.App.3d 603, 615 [236 Cal.Rptr. 404].) Thus punishment on the conspiracy count must be stayed.
+Finally, the trial court did not err in refusing to stay one of the drug counts pursuant to section 654. There were two types of drugs in large amounts. This supports the inference Briones intended multiple sales to different customers. Under the circumstances, section 654 does not prohibit punishment for each drug offense. (People v. Blake (1998) 68 Cal.App.4th 509 [80 Cal.Rptr.2d 308].)
+One of the 25-year-to-life terms for conspiracy is stricken. The other 25-year-to-life term for conspiracy is stayed. In all other respects, the judgment is affirmed.
+Coffee, J., and Perren, J., concurred.
+Appellant’s petition for review by the Supreme Court was denied January 14, 2009, S168150. George, C. J., did not participate therein.
+All statutory references are to the Penal Code unless stated otherwise.
+See footnote, ante, page 524.
