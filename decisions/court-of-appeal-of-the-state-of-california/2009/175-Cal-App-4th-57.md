@@ -1,0 +1,50 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B205715"
+decided: "2009-06-22"
+citations: ["175 Cal. App. 4th 57"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. RAY RONNIE GOVEA, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/175/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3974833
+cites_cases: ["126 Cal.App.4th 1063", "2 Cal.3d 118", "24 Cal.Rptr.3d 735", "270 Cal.Rptr. 817", "422 U.S. 806", "465 P.2d 44", "51 Cal.3d 72", "793 P.2d 23", "84 Cal.Rptr. 156"]
+---
+
+# People v. Govea
+
+## Majority (SUZUKAWA, J.)
+
+Opinion
+SUZUKAWA, J.
+Defendant Ray Ronnie Govea appeals from the judgment entered following his retrial and conviction by jury of attempted murder, assault by means likely to produce great bodily injury, aggravated mayhem, and the unlawful taking of a vehicle. (Pen. Code, §§ 664, 187, subd. (a), 245, subd. (a)(1), 205; Veh. Code, § 10851, subd. (a).) The jury also found that defendant inflicted great bodily injury upon the victim under circumstances involving domestic violence during the commission of the attempted murder and assault, and used a deadly and dangerous weapon during the commission of the attempted murder. (Pen. Code, §§ 12022.7, subd. (e), 12022, subd. (b)(1).) He contends (1) the trial court’s failure to conduct a Marsden hearing violated his constitutional right to effective assistance of counsel; (2) the court erred by failing to grant his motion for a mistrial; (3) the court improperly instructed the jury; and (4) there is insufficient evidence to support the attempted murder and aggravated mayhem convictions. In the published portion of the opinion we conclude that there was no prejudicial Marsden error, and in the unpublished portion of the opinion we find the remainder of defendant’s claims to be without merit. We noticed that the abstract of judgment does not accurately reflect the sentence ordered by the court. We direct the trial court to modify the abstract and, as modified, affirm the judgment.
+FACTUAL AND PROCEDURAL BACKGROUND
+DISCUSSION
+I. The Failure to Hear Defendant’s Marsden Motions
+Defendant contends that the trial court erred when it refused to hear his Marsden motions during the period when criminal proceedings were suspended. While we conclude that the court should have conducted a hearing even though defendant’s competence to stand trial was undetermined, the error was harmless.
+On December 28, 2005, defendant was arraigned on the information and entered not guilty pleas. He requested that a Marsden hearing be conducted on the next court date, scheduled for January 5, 2006. On January 5, his Marsden motion was denied and he entered a plea of not guilty by reason of insanity. Two doctors were appointed to prepare psychological reports.
+On March 21, 2006, defendant moved to relieve counsel and asked that he be allowed to represent himself. After a long discussion in open court, during which defendant made it clear that he wanted to withdraw his plea of not guilty by reason of insanity, the court reserved its ruling on defendant’s motion until March 29.
+On March 29, defendant’s attorney declared a doubt as to defendant’s competence pursuant to section 1368, and criminal proceedings were suspended. Defendant announced he would not speak to doctors appointed to examine him (he had already refused to speak to the psychiatrists who were appointed after he entered a plea of not guilty by reason of insanity) and complained that he and his attorney had a conflict. The court appointed two experts and set the matter for a competency hearing.
+The hearing was continued several times as the parties awaited the receipt of the experts’ reports and certain records. On October 23, 2006, defendant filed a written request for a Marsden hearing. Two brief continuances were granted until November 2.
+On November 2, 2006, defendant, who continued to refuse to speak to the appointed doctors, reiterated in open court that he wished to proceed with his Marsden motion. The court refused to hold a hearing pending a determination of defendant’s competency. The court asked defendant to speak to the appointed experts.
+At a hearing on January 8, 2007, the court learned that defendant still refused to speak to doctors. The court explained to defendant that once he was found competent to stand trial, it could entertain his Marsden and Faretta motions. Defendant maintained that he would not speak to the experts and repeated his demand for a Marsden hearing. Again, the court declined his request.
+On January 15, 2007, defendant filed another written request to proceed with his Marsden motion. He claimed his attorney had no basis to declare a doubt as to his competence to stand trial.
+On February 8, 2007, the court heard and denied defendant’s Marsden motion. On March 8, 2007, although defendant had not been examined by doctors, the court found him competent to proceed to trial. It also granted defendant’s Faretta motion and appointed his former attorney to act as standby counsel.
+On April 2, 2007, defendant withdrew his plea of not guilty by reason of insanity. On April 24, he asked that counsel be appointed to represent him on the condition that his former attorney be relieved. His request was granted, and on April 26, a new attorney was appointed to represent him. That attorney represented defendant at both trials.
+Although defendant consistently requested Marsden hearings after his counsel declared a doubt pursuant to section 1368, the trial court declined to act, believing that defendant’s mental competence had to be determined first. The court was incorrect. “While it is true that section 1368 mandates the suspension of ‘all proceedings in the criminal prosecution’ once the court has ordered a hearing into the mental competence of the defendant [citations], it is equally true that the Sixth Amendment right to effective representation virtually compels a hearing and an order granting a motion for substitution of counsel when ‘there is a sufficient showing that the defendant’s right to the assistance of counsel would be substantially impaired if [the defendant’s] request was denied.’ [Citations.]” (People v. Stankewitz (1990) 51 Cal.3d 72, 87-88 [270 Cal.Rptr. 817, 793 P.2d 23].) Here, defendant unequivocally stated on several occasions that he wanted new counsel because an irreconcilable conflict had arisen. He claimed counsel acted in bad faith when he declared a doubt that defendant was competent to stand trial. The court should have conducted a Marsden hearing, notwithstanding the pending issue regarding defendant’s competency. (People v. Solorzano (2005) 126 Cal.App.4th 1063, 1069-1070 [24 Cal.Rptr.3d 735] (Solorzano).)
+However, the court’s failure to conduct a Marsden hearing earlier in the proceedings does not require reversal. Defendant argues to the contrary, relying on Solorzano. In that case, while criminal proceedings were suspended, the defendant requested a Marsden hearing. The court believed that a hearing was not required at that time due to counsel’s declaration of a doubt as to the defendant’s competency. The defendant, who chided his attorney for not securing medical and school records which might have demonstrated his incompetence to proceed, was found competent against his wishes. The court then denied his motion to relieve counsel. The appellate court reversed, finding that it could not “ ‘conclude beyond a reasonable doubt that this denial of the effective assistance of counsel did not contribute to [the finding he was competent to stand trial]. [Citation.]’ ” (Solorzano, supra, 126 Cal.App.4th at p. 1071.)
+Here, in contrast, the court conducted a Marsden hearing on February 8, 2007, before it adjudicated the issue of defendant’s competency. Defendant had a full opportunity to establish his counsel’s inadequacies before the criminal proceedings resumed. He does not explain how he was prejudiced by the mere fact that his Marsden hearing was delayed. Defendant suffered no harm from the delay for another reason: Defendant’s dissatisfaction stemmed from his belief that counsel had no basis for declaring a doubt as to his competency. He did not concur with counsel’s decision to enter a plea of not guilty by reason of insanity. Ultimately, the court declared defendant competent to stand trial, relieved counsel, allowed defendant to represent himself and withdraw his not guilty plea by reason of insanity, and appointed a new attorney upon his request. Put simply, the trial court gave defendant everything he sought. Under these circumstances, we conclude beyond a reasonable doubt that defendant was not prejudiced by the trial court’s refusal to conduct an earlier Marsden hearing. (See Marsden, supra, 2 Cal.3d at p. 126 [test for determining prejudice].)
+II.-V.
+DISPOSITION
+The clerk of the superior court is directed to modify the judgment to provide: (1) as to defendant’s life sentence, that he serve 14 years before becoming eligible for parole; and (2) that five years be added to his determinate term to reflect the sentence imposed for a prior conviction pursuant to section 667, subdivision (a). The clerk is directed to send a copy of the corrected abstract to the Department of Corrections and Rehabilitation. As modified, the judgment is affirmed.
+Epstein, P. J., and Manella, J., concurred.
+A petition for a rehearing was denied July 9, 2009, and appellant’s petition for review by the Supreme Court was denied September 30, 2009, S174784.
+In the first trial, the jury was unable to reach a verdict.
+All further undesignated statutory references are to the Penal Code.
+People v. Marsden (1970) 2 Cal.3d 118 [84 Cal.Rptr. 156, 465 P.2d 44],
+See footnote, ante, page 57.
+Faretta v. California (1975) 422 U.S. 806 [45 L.Ed.2d 562, 95 S.Ct. 2525],
+Defendant does not claim the trial court erred in denying his request to relieve counsel.
+See footnote, ante, page 57.
