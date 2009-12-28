@@ -1,0 +1,46 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C058443"
+decided: "2009-12-28"
+citations: ["181 Cal. App. 4th 349"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. POR YE HER, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-4th/181/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4213342
+cites_cases: ["13 Cal.4th 1073", "20 Cal.4th 936", "56 Cal.Rptr.2d 142", "86 Cal.Rptr.2d 243", "921 P.2d 1", "978 P.2d 1171"]
+---
+
+# People v. Her
+
+## Majority (ROBIE, J.)
+
+Opinion
+ROBIE, J.
+—Convicted of murder and attempted murder, defendant Por Ye Her appeals, contending the trial court erred in instructing the jury on voluntary manslaughter and voluntary attempted manslaughter and his trial attorney was ineffective in failing to object to certain evidence and argument. Finding no prejudicial error or ineffective assistance of counsel, we will affirm the judgment.
+FACTUAL AND PROCEDURAL BACKGROUND
+On an evening in March 2003, defendant and his brother, Chang Her, were at a dance club on Fruitridge Road when Chang got into an argument outside the club with Lou Saephan. The argument ended without a fight, but afterwards Chang and defendant were both very upset. A friend of Saephan’s named Keng Thao came out of the club and insisted on talking to the Her brothers to prevent a fight. Defendant pushed Thao in the face, and Thao fell over a chair and onto the ground. Chang and defendant began to leave, when two other brothers, Sua and Chue Moua—one of whom was Thao’s best friend—came out of the club. Chue asked Chang, “Do you want a piece of me?” and hit Chang in the face. Sua then went after defendant.
+Two men pulled Sua and defendant apart, then turned to help break up the fight between Chang and Chue, when there was a gunshot. This shot struck Sua in the left temple. Defendant then approached Chue, pointed a gun at his head, and shot him. Chue suffered a gunshot wound through his face. Defendant then pursued Thao and, after saying, “You want to talk shit to me?” shot him in the back. Defendant then fled.
+Thao died as a result of internal injuries from the bullet that entered his back.
+Defendant was charged with one count of murder and two counts of attempted murder with related firearm enhancements. In addition to the charged crimes, the jury was instructed on the lesser included offenses of voluntary manslaughter and attempted voluntary manslaughter, as well as self-defense and defense of another.
+The jury found defendant guilty of all three offenses as charged and found the enhancement allegations true. The trial court sentenced him to a term of nine years four months, plus 100 years to life, in prison.
+DISCUSSION
+I
+Voluntary Manslaughter and the Malice Element of Murder
+II
+Imperfect Self-defense
+Defendant alleges prejudicial error in a discrepancy between the CALCRIM instruction on imperfect self-defense relating to an actual killing (voluntary manslaughter) (CALCRIM No. 571) and the CALCRIM instruction on imperfect self-defense relating to an attempted killing (attempted voluntary manslaughter) (CALCRIM No. 604). The former instruction told the jury that “[t]he defendant acted in imperfect self-defense or imperfect defense of another if: [][] 1. The defendant actually believed that he or Chang Her was in imminent danger of being killed or suffering great bodily injury, and; [f] 2. The defendant actually believed that the immediate use of deadly force was necessary to defend against the danger, but; [(ft] 3. At least one of those beliefs was unreasonable.” The latter instruction told the jury that “[t]he defendant acted in imperfect self-defense or imperfect defense of another if: [][] . . . [f] 3. The defendant believed that he or Chang Her was in imminent danger of being killed or suffering great bodily injury, and; [f] 4. The defendant believed that the immediate use of deadly force was necessary to defend against the danger, but; [f] 5. The defendant’s beliefs were unreasonable.”
+Defendant correctly observes that the voluntary manslaughter instruction tells the jury that imperfect self-defense exists if either of the defendant’s two beliefs was unreasonable, while the attempted voluntary manslaughter instruction tells the jury that imperfect self-defense exists only if both of the defendant’s beliefs were unreasonable.
+The formulation in the voluntary manslaughter instruction is the correct one. “For killing to be in self-defense, the defendant must actually and reasonably believe in the need to defend. [Citation.] If the belief subjectively exists but is objectively unreasonable, there is ‘imperfect self-defense,’ i.e., ‘the defendant is deemed to have acted without malice and cannot be convicted of murder,’ but can be convicted of manslaughter.” (People v. Humphrey (1996) 13 Cal.4th 1073, 1082 [56 Cal.Rptr.2d 142, 921 P.2d 1].) Where, as in the CALCRIM instructions, the “belie[f] in the need to defend” is described as two beliefs—(1) the belief in imminent danger of death or great bodily injury and (2) the belief in the need to use deadly force to defend against that danger—the unreasonableness of either belief would be sufficient to transform perfect self-defense into imperfect self-defense. Thus, the requirement in the attempted voluntary manslaughter instruction that “[t]he defendant’s beliefs were unreasonable” is incorrect.
+Defendant is incorrect, however, in arguing that the erroneous instruction was prejudicial to him. Defendant posits that the evidence would have allowed the jurors to entertain a reasonable doubt as to whether he “reasonably perceived imminent serious bodily danger to himself and Chang” and whether “he reasonably believed in the necessity of immediate deadly force in defense.” He further contends that “[a] juror following CALCRIM No. 604 would incorrectly understand that reasonable doubt on only one element proved attempted murder.”
+We are not persuaded. Following CALCRIM No. 505 (the pattern instruction on self-defense or defense of another) and CALCRIM No. 604, the jurors would have understood that if defendant reasonably believed he or Chang was in imminent danger of being killed or suffering great bodily injury, reasonably believed the immediate use of deadly force was necessary to defend against that danger, and used no more force than was reasonably necessary to defend against that danger, defendant was not guilty of any crime. Following CALCRIM No. 604, they would have understood that if defendant held both of the foregoing beliefs but those beliefs were unreasonable, then he was guilty of only attempted voluntary manslaughter as to Sua and Chue. Defendant posits that if the jury found he held both beliefs (or—more accurately—entertained a reasonable doubt about whether he held those beliefs), but concluded that only one of the beliefs was unreasonable, then following CALCRIM No. 604, the jury would have found he “must be guilty of attempted murder.” In other words, he suggests the jury could have understood the instructions to require acquittal if both beliefs were reasonable (and he did not use excessive force), a verdict of attempted voluntary manslaughter if both beliefs were unreasonable, but a verdict of attempted murder if one belief was reasonable and one was unreasonable. Thus, in his view, the jury could have understood the instructions to require a harsher verdict for a partially reasonable belief in the need to defend himself or his brother than for a completely unreasonable belief in that regard.
+We find no reasonable likelihood that the instructions, considered in their entirety, could have been understood in the manner defendant suggests. (See People v. Smithey (1999) 20 Cal.4th 936, 964 [86 Cal.Rptr.2d 243, 978 P.2d 1171].) Although CALCRIM No. 604 erroneously stated that imperfect self-defense or defense of another existed only if defendant’s “beliefs” were unreasonable, another part of the instruction made clear that “[t]he difference between complete self-defense or defense of another and imperfect self-defense or imperfect defense of another depends on whether the defendant’s belief in the need to use deadly force was reasonable.” Assuming for the sake of argument that the jury could have entertained a reasonable doubt as to whether defendant actually believed in the need to defend himself or his brother (despite the fact that he did not testify), we conclude the jury would have understood from the instructions as a whole that the reasonableness of that belief (or those beliefs, if broken into components) went to whether defendant was guilty of attempted voluntary manslaughter or no crime at all, and not to whether he was guilty of attempted murder. Accordingly, we reject this claim of error.
+Ill, IV
+DISPOSITION
+The judgment is affirmed.
+Scotland, P. J., and Nicholson, J., concurred.
+A petition for a rehearing was denied January 26, 2010, and the opinion was modified to read as printed above. Appellant’s petition for review by the Supreme Court was denied May 12, 2010, SI80834.
+See footnote, ante, page 349.
+See footnote, ante, page 349.
