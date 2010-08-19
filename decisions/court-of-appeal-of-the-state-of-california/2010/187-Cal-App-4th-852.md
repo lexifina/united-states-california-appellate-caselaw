@@ -1,0 +1,56 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "B216323"
+decided: "2010-08-19"
+citations: ["187 Cal. App. 4th 852"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUZANNE C. RADFORD, Plaintiff and Appellant, v. MELINDA SHEHORN, as Trustee, etc., Defendant and Respondent."]
+source_url: "https://static.case.law/cal-app-4th/187/cases/0852-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6053359
+cites_cases: ["108 Cal.Rptr.2d 642", "152 Cal.App.4th 137", "25 P.3d 1117", "26 Cal.4th 1", "34 Cal.Rptr.2d 898", "61 Cal.Rptr.3d 200", "8 Cal.4th 704", "882 P.2d 894"]
+---
+
+# Radford v. Shehorn
+
+## Majority (GILBERT, P. J.)
+
+Opinion
+GILBERT, P. J.
+Mediators facilitate settlement of legal disputes. They use a variety of techniques to achieve that goal which include listening, enlightening, suggesting, empathizing and, sometimes, cajoling. But once the mediation is concluded, the mediator may not offer clarification concerning the mediation or a disputed settlement unless the parties agree otherwise. Like an actor whose concluding scene occurs in act 2, the mediator may not reenter the stage to play a part in act 3.
+The parties here signed a settlement agreement during a mediation. One party brought a motion to enforce the agreement pursuant to Code of Civil Procedure section 664.6. The first page of the agreement contains a waiver of mediation confidentiality. A question arose whether the first page was part of the agreement. The trial court found it was and granted the motion to enforce the settlement.
+We conclude the trial court erred in admitting the mediator’s declaration into evidence, but that the error was harmless. We affirm.
+FACTS
+Suzanne C. Radford and Melinda Shehom are sisters and beneficiaries of a trust established by their parents. Their father died in 2006 and their mother died in 2007, leaving Shehom sole trustee.
+In 2008, Radford filed a petition in probate court challenging Shehom’s distribution of trust assets. The trial court ordered the parties to mediate and they selected Retired Judge Joe D. Hadden as the mediator. The parties attended the mediation with their attorneys.
+The mediation ended with a settlement agreement consisting of two pages. The first page was a printed form provided by Hadden. The printed form provides that plaintiff shall execute a release of all known and unknown claims. The form also provides in part: “This Settlement Agreement is binding on the parties pursuant to [Code of Civil Procedure] § 664.6 or comparable Federal Statutes and is admissible in court as set forth in Evidence Code § 1123 and/or the applicable Federal Rules.” The page has “Page 1 of 2” handwritten on the bottom. The page was signed by Shehom and her attorney, but not by Radford or her attorney.
+The second page of the agreement is entitled “Settlement Agreement,” and contains the substantive terms of the settlement. It is entirely handwritten, and signed by both parties and their attorneys. The agreement requires the parties to execute mutual releases but, unlike the first page, does not specify that the release includes unknown claims. The second page has “Page 2 of 2” handwritten at the bottom.
+The day before the parties were to report the results of the mediation to the trial court, a new attorney retained by Radford informed Shehom’s attorney that Radford was not bound by the agreement. Shehorn filed a motion to enforce the settlement pursuant to Code of Civil Procedure section 664.6.
+In support of the motion, Shehorn’s attorney, David Edsall, submitted an affidavit. Edsall declared that Radford reviewed the settlement agreement with her attorney. After consulting with her attorney, Radford signed and dated page 2 in the presence of her attorney and Hadden. Shehorn declared that the two-page settlement agreement was prepared at the time of the mediation, and that she signed page 2.
+Radford submitted her affidavit in opposition to the motion. She declared that neither she nor her attorney signed the first page of the agreement. She signed the second page but at the time she signed it, the words “Page 2 of 2” were not there. She did not receive a copy of the first page until about a week later when she asked the attorney who represented her in the mediation, Robert Baskin, to send her a copy of what she signed. It was her understanding that there would be no settlement until a final typewritten settlement agreement was signed by the parties.
+In response, Shehorn’s attorney, Edsall, submitted another affidavit. He declared that he wrote “Page 1 of 2” at the bottom of the first page. He drafted the second page and wrote “Page 2 of 2” at the bottom. Radford’s attorney made some modifications on page 2. Thereafter, the parties and their attorneys signed page 2 in the presence of Hadden. After the parties signed the agreement, no changes were made. Hadden immediately made copies, and gave a copy to each party.
+Shehorn also submitted Hadden’s affidavit. Hadden declared:
+“1. On October 14, 2008,1 mediated the dispute between Melinda Shehorn and Suzanne C. Radford, in reference to Ralph and Joy I. Brady First Amended and Restated September 7, 1993 Trust.
+“2. At the conclusion of mediation, I observed that a settlement had been reached by the parties and committed to a writing consisting of two (2) pages. Because their agreement called for me to act as an arbitrator should certain issues arise, I kept a copy of the agreement. My copy of the agreement is attached hereto and incorporated herein as Exhibit 1.
+“3. Once the settlement agreement was executed by the parties in the form that is attached as Exhibit 1, neither I nor anybody else further modified the document in any way. I immediately took the executed two page document to the hotel staff to be copied. I waited until the document had been copied, and then promptly distributed all of the resulting documents to the parties and their counsel.”
+Radford objected to Hadden’s declaration as inadmissible testimony by a mediator. The trial court overruled the objection. In overruling the objection, the court found that the settlement agreement consisted of two pages, and that page 1 contained a waiver allowing the mediator to testify. The court stated that its ruling was based on the declarations of Edsall, Shehorn and Hadden. The court granted Shehorn’s motion to enforce the settlement.
+DISCUSSION
+Radford contends the trial court erred in admitting Hadden’s declaration. She argues the testimony of a mediator is barred by Evidence Code sections 703.5 and 1121.
+Section 703.5 provides in part: “[N]o . . . mediator . . . shall be competent to testify, in any subsequent civil proceeding, as to any statement, conduct, decision, or ruling, occurring at or in conjunction with the prior proceeding . . . .” Section 1121 provides: “Neither a mediator nor anyone else may submit to a court or other adjudicative body, and a court or other adjudicative body may not consider, any report, assessment, evaluation, recommendation, or finding of any kind by the mediator concerning a mediation conducted by the mediator, other than a report that is mandated by court rule or other law and that states only whether an agreement was reached, unless all parties to the mediation expressly agree otherwise in writing, or orally in accordance with Section 1118.”
+Shehorn relies on the waiver provision contained on the first page of the agreement. That provision states: “This Settlement Agreement is . . . admissible in court as set forth in Evidence Code section 1123 . . . .” Section 1123 provides:
+“A written settlement agreement prepared in the course of, or pursuant to, a mediation, is not made inadmissible, or protected from disclosure, by provisions of this chapter if the agreement is signed by the settling parties and any of the following conditions are satisfied:
+“(a) The agreement provides that it is admissible or subject to disclosure, or words to that effect.
+“(b) The agreement provides that it is enforceable or binding or words to that effect.
+“(c) All parties to the agreement expressly agree in writing, or orally in accordance with Section 1118, to its disclosure.
+“(d) The agreement is used to show fraud, duress, or illegality that is relevant to an issue in dispute.”
+Radford concedes that the first page of the agreement contains an adequate waiver. The question is whether Hadden’s declaration can be admitted to show that the first page is part of the agreement. Radford points out that the second page contains no such waiver.
+“The Supreme Court has repeatedly resisted attempts to narrow the scope of mediation confidentiality. The court has refused to judicially create exceptions to the statutory scheme, even in situations where justice seems to call for a different result. Rather, the Supreme Court has broadly applied the mediation confidentiality statutes and has severely curtailed courts’ ability to formulate exceptions.” (Wimsatt v. Superior Court (2007) 152 Cal.App.4th 137, 152 [61 Cal.Rptr.3d 200].)
+The mediation confidentiality statutes prohibit a mediator from testifying to anything about the agreement, including the number of pages it contains. The trial court erred in admitting Hadden’s declaration into evidence, but the error is harmless.
+The trial court also considered the declarations of Shehorn and her attorney. Radford argues the declarations are inadmissible under section 1119. She concedes that section 1119 bars evidence of communications during mediation, but it does not bar testimony about conduct. (Foxgate Homeowners’ Assn. v. Bramalea California, Inc. (2001) 26 Cal.4th 1, 18, fn. 14 [108 Cal.Rptr.2d 642, 25 P.3d 1117] [§ 1119 does not prohibit a party from revealing or reporting noncommunicative conduct].)
+Shehorn’s attorney, Edsall, declared that he wrote “Page 1 of 2” on the first page and “Page 2 of 2” on the second page; that the parties signed page 2 of the agreement; and that thereafter no changes were made. The declaration describes noncommunicative conduct showing that page 1 is part of the agreement.
+Radford’s declaration contains probative evidence that supports a two-page agreement. After stating that she “was not presented with” page 1 at the time she signed page 2, she declared: “Indeed, it was not until nearly one week later, when I asked Mr. Baskin [(her first attorney)] to send me a copy of what I signed, that I was provided with a copy of ‘page 1.’ ” That Attorney Baskin, who represented Radford at the mediation, provided her with a copy of page 1, in response to her request for “what [she] signed,” supports the trial court’s ruling. Radford’s declaration demonstrates that her attorney knew the agreement included page 1. There is no reasonable probability Radford would have obtained a more favorable result in the absence of the error in admitting Hadden’s declaration. (College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704, 715 [34 Cal.Rptr.2d 898, 882 P.2d 894].)
+The judgment is affirmed. Costs are awarded to respondent.
+Yegan, J., and Coffee, J., concurred.
+All statutory references are to the Evidence Code unless stated otherwise.
