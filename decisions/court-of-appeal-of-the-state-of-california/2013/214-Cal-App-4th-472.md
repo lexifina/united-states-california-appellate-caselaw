@@ -1,0 +1,51 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C068802"
+decided: "2013-03-13"
+citations: ["214 Cal. App. 4th 472"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SCOTT GOOD, Plaintiff and Appellant, v. PATRICK MILLER et al., Defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/214/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4264632
+cites_cases: ["101 Cal.Rptr.2d 86", "104 P.3d 844", "127 Cal.App.3d 875", "129 Cal.App.4th 62", "142 Cal.Rptr.3d 362", "158 Cal.App.2d 658", "17 Cal.App.4th 462", "179 Cal.Rptr. 747", "196 Cal.App.3d 669", "206 Cal.App.4th 934", "21 Cal.Rptr.2d 335", "23 Cal.Rptr.3d 490", "234 Cal.App.3d 1072", "242 Cal.Rptr. 84", "28 Cal.Rptr.3d 124", "285 Cal.Rptr. 673", "323 P.2d 158", "35 Cal.4th 15", "410 P.2d 390", "46 Cal.App.4th 1007", "48 Cal.Rptr. 886", "54 Cal.Rptr.2d 330", "64 Cal.2d 65", "84 Cal.App.4th 536"]
+---
+
+# Good v. Miller
+
+## Majority (DUARTE, J.)
+
+Opinion
+DUARTE, J.
+Although under certain circumstances we have discretion to permit a premature appeal from a nonappealable order to be treated as timely filed after the ensuing judgment, there is a limit to our willingness to salvage appeals for parties “who ignore the statutory limitations on appealable orders.” (Cohen v. Equitable Life Assurance Society (1987) 196 Cal.App.3d 669, 671 [242 Cal.Rptr. 84].) In this case, plaintiff has exceeded that limit. We publish this case to illustrate that limit, and also to emphasize that it is imperative to appeal from an appealable order.
+BACKGROUND
+Scott Good sued Patrick Miller and United Truck Insurance Services (collectively Miller), and Sutter Insurance Company (not a party on appeal), alleging a dispute over an insurance policy.
+On October 26, 2010, the trial court had granted Miller’s unopposed motions to compel responses to discovery requests, ordering Good to provide “complete responses . . . without objections” no later than November 15, 2010.
+On January 5, 2011, Miller sought monetary and terminating sanctions, alleging willful noncompliance with the order compelling discovery.
+On May 11, 2011, an order granting terminating sanctions was filed.
+On July 11, 2011, Good filed a notice of appeal from that order, mischaracterizing it as an order “dismissing” Miller from the case.
+On July 26, 2011, a judgment in favor of Miller was filed.
+On August 15, 2011, Miller’s civil appeal mediation statement filed with this court contended that Good’s appeal had been taken from a nonappealable order.
+Good’s opening brief, filed on August 3, 2012, under an “Appealability” section, incorrectly asserted that the notice of appeal “was timely filed following the Entry of Judgment in this matter.” (Italics added.)
+The first argument in Miller’s respondent’s brief sought dismissal of the appeal on the ground that Good was attempting to appeal from a nonappealable order.
+Good’s reply brief failed to respond to this argument.
+DISCUSSION
+As Miller correctly and repeatedly pointed out, Good noticed his appeal from the order granting terminating sanctions, which is a nonappealable order. (Code Civ. Proc., § 904.1; see Nickell v. Matlock (2012) 206 Cal.App.4th 934, 940 [142 Cal.Rptr.3d 362].)
+In some cases, this court has discretion to save premature notices of appeal;
+“(1) A notice of appeal filed after judgment is rendered but before it is entered is valid and is treated as filed immediately after entry of judgment.
+“(2) The reviewing court may treat a notice of appeal filed after the superior court has announced its intended ruling, but before it has rendered judgment, as filed immediately after entry of judgment.” (Cal. Rules of Court, rule 8.104(d) (rule 8.104).)
+Rule 8.104(d)(1) is phrased in mandatory terms, but Rule 8.104(d)(2) vests discretion in the reviewing court. (See Giannuzzi v. State of California (1993) 17 Cal.App.4th 462, 464-465, fh. 2 [21 Cal.Rptr.2d 335] [party “rectified his initial oversight prior to any action by this court”].) For purposes of this rule, a “ ‘judgment’ includes an appealable order if the appeal is from an appealable order.” (Rule 8.104(e).) Because the order granting terminating sanctions is not an appealable order and because it did not purport to dismiss the case (cf. Code Civ. Proc., § 581d [filed written dismissal order signed by a judge “shall constitute” a judgment]), or equate to the “rendition” of judgment (see Evola v. Wendt Construction Co. (1958) 158 Cal.App.2d 658, 660-661 [323 P.2d 158] [appeal from order sustaining demurrer without leave to amend “was certainly filed ‘prior to rendition of the judgment’ ”]), rule 8.104(d)(1) does not apply, and instead we must apply the discretionary power granted by rule 8.104(d)(2). (See 9 Witkin, Cal. Procedure (5th ed. 2008) Appeal, §§ 620-621, pp. 698-699 (Witkin).)
+It has been said that a reviewing court will grant relief if a judgment was entered, “there is no doubt concerning which ruling appellant seeks to have reviewed, and respondents were not misled to their prejudice.” (Boyer v. Jensen (2005) 129 Cal.App.4th 62, 69 [28 Cal.Rptr.3d 124].) Another court expressed concern that, “If the present appeal were dismissed, the judgment . . . would stand affirmed immune from appellate review.” (American Motorists Ins. Co. v. Cowan (1982) 127 Cal.App.3d 875, 883 [179 Cal.Rptr. 747].) In a case involving a notice of appeal mistakenly specifying a nonappealable order denying a new trial, instead of the then extant underlying judgment, our Supreme Court has held that reviewing courts generally should exercise discretion in favor of preserving the right to appeal. (See Walker v. Los Angeles County Metropolitan Transit Authority (2005) 35 Cal.4th 15, 19-22 [23 Cal.Rptr.3d 490, 104 P.3d 844] (Walker); see Cal. Rules of Court, rule 8.100(a)(2) [“The notice of appeal must be liberally construed.”].) We are mindful of these concerns as we continue our analysis of the instant case.
+A leading practice guide warns that filing a premature notice of appeal “may be risky” because “whether to treat the appeal as timely is discretionary with the appellate court. Given the appellate court trend to insist on strict adherence to applicable statutes and court rules for perfecting appeal rights [citation] it may be an uphill battle to convince the court to forgive procedural defects.” (Eisenberg et al., Cal. Practice Guide: Civil Appeals and Writs (The Rutter Group 2012) Notice of Appeal and Cross-Appeal, f 3:55, p. 3-27 (rev. # 1, 2012); see Cal. Civil Appellate Practice (Cont.Ed.Bar 3d ed. 2012) Filing the Notice of Appeal, § 7.49, p. 430 [also cautioning the bar].)
+For three reasons, we decline to exercise our discretion to salvage Good’s appeal.
+First and foremost, he has not asked us to do so. Despite notice in the form of Miller’s civil appeal mediation statement, as well as notice in the form of Miller’s argument in his appellate briefing that dismissal of Good’s appeal is warranted, Good has not asked us to exercise discretion to save his appeal. (Cf. Allabach v. Santa Clara County Fair Assn. (1996) 46 Cal.App.4th 1007, 1011 [54 Cal.Rptr.2d 330] (Allabach) [relief granted absent request because plaintiffs were presumably unaware of the problem].) We are disinclined to exercise discretion in favor of a party who declines to ask us to do so. (See Witkin, supra, § 622, pp. 699-700 [commenting that it is “difficult to see how the appellate court can find that good cause exists without something brought to its attention by the appellant” but noting that some courts have nonetheless done so]; cf. Walker, supra, 35 Cal.4th at pp. 20-21 [counsel presented “colorable, argument” explaining mistake]; Vibert v. Berger (1966) 64 Cal.2d 65, 66-68 [48 Cal.Rptr. 886, 410 P.2d 390] [counsel filed declaration explaining the mistake].)
+Second, Miller repeatedly raised the issue and Good repeatedly ignored it. (Cf. Allabach, supra, 46 Cal.App.4th 1007, 1010-1011 [choosing to excuse the problem in part because “defendants have failed to attack plaintiffs’ notice of appeal . . .”].) Thus, this is not merely a case of ignorance of appellate procedural rules, but stubborn refusal to follow the rules even after they have been explained.
+Third, Good misstated the relevant facts in the “Appealability” section of his briefing. That section of the opening brief is required by a rule of court that was adopted expressly to avoid issues such as that seen in the instant case. (Cal. Rules of Court, rule 8.204(a)(2)(B) [opening brief must “[s]tate that the judgment appealed from is final, or explain why the order appealed from is appealable”]; see Allabach, supra, 46 Cal.App.4th at p. 1010 [i.e., discussing Cal. Rules of Court, former rule 13].)
+In discussing the predecessor rule, we have explained as follows: “Where an appeal is taken from an order other than a final judgment, [former] rule 13’s statement of appealability serves multiple purposes. First, it requires an appellant to make the preliminary and fundamental determination that the order appealed from is, in fact, an appealable order or judgment. [Citation.] Second, it demonstrates both to other parties and to the Court of Appeal, before work on the merits of a case is begun, why the order is appealable.” (Lester v. Lennane (2000) 84 Cal.App.4th 536, 556 [101 Cal.Rptr.2d 86] (Lester).) A misleading appealability statement merely “serves the question of appealability onto the court’s [or respondent’s] side of the net.” (Lester, supra, 84 Cal.App.4th at p. 557.) Thus, although Miller may not have been misled to his prejudice, a factor militating in favor of granting Good relief, (see Walker, supra, 35 Cal.4th at p. 22), Good’s briefing was misleading to this court, which militates sharply against granting him relief.
+Based on the record detailed above, for the reasons we express above, we decline to exercise discretion on our own motion to salvage this defective appeal from a nonappealable order. (See Modica v. Merin (1991) 234 Cal.App.3d 1072, 1074-1075 [285 Cal.Rptr. 673].)
+DISPOSITION
+The appeal is dismissed.
+Robie, Acting R J., and Murray, J., concurred.
+On April 9, 2013, the opinion was modified to read as printed above.
