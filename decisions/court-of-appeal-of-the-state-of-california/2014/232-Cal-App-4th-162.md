@@ -1,0 +1,52 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "E053187"
+decided: "2014-12-09"
+citations: ["232 Cal. App. 4th 162"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CALIFORNIA BANK & TRUST, Plaintiff and Appellant, v. THOMAS DELPONTI et al., Defendants and Respondents; ADVENT, INC., Plaintiff and Appellant, v. CALFORNIA BANK & TRUST, Defendant, Cross-complainant and Appellant; THOMAS DELPONTI et al., Cross-defendants and Respondents."]
+source_url: "https://static.case.law/cal-app-4th/232/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6053312
+cites_cases: ["130 Cal.Rptr.3d 496", "154 Cal.App.4th 525", "198 Cal.App.4th 903", "231 Cal.App.2d 382", "264 Cal.App.2d 915", "273 Cal.App.2d 774", "35 Cal.App.4th 620", "41 Cal.Rptr. 792", "41 Cal.Rptr.2d 329", "447 P.2d 956", "53 Cal.App.4th 692", "62 Cal.Rptr.2d 446", "65 Cal.Rptr.3d 205", "70 Cal.2d 81", "71 Cal.Rptr. 120", "73 Cal.Rptr. 564", "78 Cal.Rptr. 761", "81 Cal.App.4th 1108", "97 Cal.Rptr.2d 432"]
+---
+
+# California Bank & Trust v. DelPonti
+
+## Majority (RAMIREZ, P. J.)
+
+Opinion
+RAMIREZ, P. J.
+Five Comers Rialto, LLC (Five Corners), obtained a construction loan from Vineyard Bank (Bank) to develop a 70-unit town-home project (Project), with guaranties from Thomas DelPonti and David Wood, principals of Five Corners (Guarantors). Five Comers contracted with Advent, Inc. (Advent), a general contractor, to build the project in two phases. Everything went according to schedule for the first 18 months. However, when phase one of the Project was nearly complete, the Bank stopped funding approved payment applications, preventing completion and sale of the phase one units, which, in turn, caused Five Comers to default on the loan.
+The Bank reached an agreement with Five Comers, requiring Advent to finish phase one so the units could be sold at auction, and promising to pay the subcontractors if they discounted their bills and released any liens. Advent paid the subcontractors out of its own pocket in order to keep the project lien free, so the auction could proceed. However, the Bank foreclosed against Five Comers. Advent filed an unbonded stop notice. The Bank (through its assignee California Bank & Tmst), sued Five Comers and the Guarantors under various theories for the deficiency following a trustee’s sale of the deed of tmst, while Advent sued the developer and the Bank for restitution for the amounts it paid out of pocket.
+The cases were consolidated and tried by the court. Advent amended its complaint to conform to proof to add causes of action for breach of the assigned contract and promissory estoppel. The court awarded judgment in favor of Advent on these causes of action. The court denied Advent judgment for enforcement of its stop notice claim. In the Bank’s action against the Guarantors, the court found that the Bank breached the loan contract, exonerating the Guarantors. The court awarded attorneys’ fees to Advent and the Guarantors.
+The Bank appealed the judgments, challenging the order allowing Advent to amend its complaint to conform to proof, asserting that the trial court engaged in misconduct, and challenging the sufficiency of the evidence to support the judgment in favor of Advent and the Guarantors. Advent appealed the portion of the judgment denying enforcement of the stop notice. We affirm.
+I.
+BACKGROUND
+II.
+DISCUSSION
+1. The Bank’s Appeal
+A.-D.
+E. Substantial Evidence to Support the Judgment in Favor of the Guarantors.
+The Bank argues that the court erred in rendering judgment in favor of the Guarantors in the Bank’s action to collect the deficiency owed under the guarantees. The trial court’s judgment in favor of the Guarantors was grounded upon its finding that the Bank materially breached the loan agreement by refusing to honor the four payment applications that had been approved. Further, the court found that the Bank led the Guarantors to believe they would be released from the guarantees if they performed all the items listed in a global strategy e-mail from the Bank.
+There is substantial evidence to support the court’s findings insofar as the e-mail unambiguously states that the parties had reached an agreement that would “mitigate” the Guarantors’ damages if they performed certain tasks. The Guarantors did everything expected of them and performed according to the new agreement to the extent the Bank permitted. The Bank does not discuss or challenge the trial court’s factual findings, including the court’s finding that the Bank was guilty of willful misconduct. Instead, the Bank argues that the judgment was in error because the Guarantors waived all their defenses under the guarantee agreements. We disagree.
+Civil Code section 2856 provides that any guarantor or other surety, including a guarantor of a note secured by real property, may waive rights and defenses that would otherwise be available to the guarantor. (See Gramercy Investment Trust v. Lakemont Homes Nevada, Inc. (2011) 198 Cal.App.4th 903, 911 [130 Cal.Rptr.3d 496].) Waivable defenses include the guarantor’s rights of subrogation, reimbursement, indemnification, and contribution (Civ. Code, § 2856, subd. (a)(1)); any rights or defenses the guarantor might have by reason of any election of remedies by the creditor (Civ. Code, § 2856, subd. (a)(2)); or any rights or defenses the guarantor might have because the principal’s obligation is secured by real property or an estate for years (Civ. Code, § 2856, subd. (a)(3)). These statutory rights of the guarantor may be waived and such waiver provision is not invalid as opposed to public policy. (Wiener v. Van Winkle (1969) 273 Cal.App.2d 774, 787 [78 Cal.Rptr. 761], citing Engelman v. Bookasta (1968) 264 Cal.App.2d 915, 917 [71 Cal.Rptr. 120] [guarantor can validly waive the protection provided by §§ 2845 and 2849 of the Civ. Code].)
+However, a guarantor cannot be held liable where a contract is unlawful or contravenes public policy. (Civ. Code, § 1667; WRI Opportunity Loans II, LLC v. Cooper (2007) 154 Cal.App.4th 525, 545 [65 Cal.Rptr.3d 205].) The rule against enforcement of illegal transactions is founded on considerations of public policy that are independent of Civil Code sections 2809 and 2810. (WRI Opportunity Loans II, LLC v. Cooper, supra, at p. 545.) Following this reasoning, it has been held that a predefault waiver of notice by a guarantor is unenforceable as void. (Cerritos Valley Bank v. Stirling (2000) 81 Cal.App.4th 1108, 1114-1115 [97 Cal.Rptr.2d 432].)
+We deal here with the predefault waiver of the Bank’s own misconduct, which is not expressly waived in the guaranty agreement. We have found no cases on point addressing the availability of equitable defenses to Guarantors whose contractual guaranty has waived specific legal defenses. We read Civil Code section 2856 to permit a guarantor to waive certain legal and statutory defenses, as specified in the code, which would otherwise be available. Those statutory defenses have been set forth above. But we do not read Civil Code section 2856 to permit a lender to enforce predefault waivers beyond those specified, where to do so would result in the lender’s unjust enrichment, and allow the lender to profit from its own fraudulent conduct.
+We therefore hold that a guarantor’s waiver of defenses is limited to legal and statutory defenses expressly set out in the agreement. A waiver of statutory defenses is not deemed to waive all defenses, especially equitable defenses, such as unclean hands, where to enforce the guaranty would allow a lender to profit by its own fraudulent conduct. The doctrine of unclean hands bars a plaintiff from relief when the plaintiff has engaged in misconduct relating directly to the transaction concerning which suit is brought. (Camp v. Jeffer, Mangels, Butler & Marmaro (1995) 35 Cal.App.4th 620, 638-639 [41 Cal.Rptr.2d 329].) Although originally an equitable defense, it may apply to legal claims, as well. (Jacobs v. Universal Development Corp. (1997) 53 Cal.App.4th 692, 699 [62 Cal.Rptr.2d 446].)
+Faced with this question for the first time, we apply a rule of strict construction to contractual predefault waivers by the Guarantors. While broad in scope, such waivers are limited to those legal or statutory defenses particularly set forth in the guaranty agreement and do not constitute a waiver of all equitable defenses. In fact, the waiver provision of the guaranty agreement specifically states, “Except as prohibited by applicable law, Guarantor waives . . . .” This language contemplates the retention of defenses, the predefault waiver of which would be contrary to public policy.
+In all suretyship and guaranty relations, the creditor owes the surety a duty of continuous good faith and fair dealing. (Sumitomo Bank of California v. Iwasaki (1968) 70 Cal.2d 81, 85 [73 Cal.Rptr. 564, 447 P.2d 956].) This duty was not waived by the Guarantors in the agreement. The trial court found that public policy precluded an interpretation of the guaranty agreement that resulted in a waiver of all defenses. We agree.
+Public policy requires us to read Civil Code section 2856 in a manner that prevents one party from capitalizing upon its own fraud or willful misconduct. (See Civ. Code, §§ 1667, 1668.) As the trial court pointed out, it would be in violation of public policy to enforce the Guarantors’ waivers of defenses to payment of the note where the Bank willfully breached of the loan agreement, causing the default. There was no error.
+F. Attorneys’ Fees Awards.
+III.
+DISPOSITION
+The judgment is affirmed in full. Advent and the Guarantors are awarded costs on appeal.
+King, J., and Miller, J., concurred.
+Prior to trial, a default judgment was entered against Five Comers.
+See footnote, ante, page 162.
+See footnote, ante, page 162.
+The auction of the units, one of the bullet items in Whalen’s e-mail, did not take place, but that was due to the Bank’s act of preventing performance, by demanding refund of the advertising budget.
+See footnote, ante, page 162.
+In the interests of justice, we award Advent all of its costs on appeal, despite the affirmance of the judgment in its appeal. (Stuckey v. Stuckey (1964) 231 Cal.App.2d 382, 387 [41 Cal.Rptr. 792].) Advent’s success on the balance of the appeal outweighs the loss on its appeal, and the equities are in its favor.
