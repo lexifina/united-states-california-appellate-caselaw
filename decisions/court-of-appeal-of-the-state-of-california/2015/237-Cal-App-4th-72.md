@@ -1,0 +1,39 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "C074592, C076747"
+decided: "2015-05-26"
+citations: ["237 Cal. App. 4th 72"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Butz, J., and Murray, J., concurred."]
+parties: ["QUANTIFICATION SETTLEMENT AGREEMENT CASES."]
+source_url: "https://static.case.law/cal-app-4th/237/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6056096
+cites_cases: ["134 Cal.Rptr.3d 274", "152 Cal.App.4th 13", "201 Cal.App.4th 758", "214 Cal.App.3d 195", "262 Cal.Rptr. 532", "61 Cal.Rptr.3d 145", "767 F.3d 781"]
+---
+
+# Quantification Settlement Agreement Cases
+
+## Majority (ROBIE, Acting P. J. —)
+
+Opinion
+ROBIE, Acting P. J. —
+With our apologies to T.S. Eliot, it appears that this is how more than a decade of contentious litigation over the quantification settlement agreement ends, “[n]ot with a bang, but a whimper,” as the County of Imperial (the County) and the Imperial County Air Pollution Control District (the Air District) have filed written stipulations to dismiss their remaining appeals in these coordinated cases, leaving only a protective cross-appeal by several respondents that will be rendered moot by the requested dismissals and an appeal of a postjudgment costs order by several other parties that remains to be resolved
+The County and the Air District seek to dismiss their appeals pursuant to the terms of a settlement reached with one of their (now former) opponents— the Imperial Irrigation District (the Irrigation District). After nearly 12 years of legal fisticuffs — at trial and on appeal in both state and federal court — the Imperial County agencies have apparently decided that cooperation will serve better than contention to address the continuing deterioration of the Saltón Sea, which faces a sharp decrease in water inflow two years from now under the terms of the quantification settlement agreement. (See James, After 12 Years, Legal Dispute over Water Transfer Ends, Desert Sun (Feb. 3, 2015).)
+Although we commend the Imperial County agencies for finally settling this matter, we cannot help but lament the lateness of the hour in which they chose to do so. In the decade and more that has passed since the quantification settlement agreement was finalized in 2003, it is likely that untold millions of dollars have been poured into litigation that has now come to naught. In addition to this drain on the public fisc of the various public agency parties to the litigation, state and federal courts have expended countless hours adjudicating these matters — hours that could have been devoted to the expeditious resolution of other cases. Indeed, this court alone has seen eight different original and appellate proceedings arising from the quantification settlement agreement cases.
+Still, lamenting the time and money wasted will not turn back the clock or refill the public coffers, so we take what small comfort we can in the fact that this belated settlement did not come even later, when yet more time and more money would have been irretrievably lost.
+Turning to the stipulations for dismissal before us, we note that because the records have been filed in both matters, we have discretion to dismiss the appeals. (See Cal. Rules of Court, rule 8.244(c)(2).) We see no reason not to exercise that discretion as requested by the Imperial County agencies. We do note, however, that the settlement that underlies the stipulations is between the Imperial County agencies only, and while the dismissal of the various appeals by the County and the Air District will render the remaining protective cross-appeal moot (cf. Lewis v. Hankins (1989) 214 Cal.App.3d 195, 202 [262 Cal.Rptr. 532] [protective cross-appeal dismissed as moot on affirmance of judgment]), nothing in that resolution or in the terms of the settlement deprives the various respondents other than the Irrigation District of their right to recover costs as prevailing parties in these appeals.
+Accordingly, all remaining appeals by the County' and the Air District in cases Nos. C074592 and C076747 are hereby dismissed, and in accordance with the written stipulations of counsel, the County, the Air District, and the Irrigation District will bear their own costs on appeal. The cross-appeal by San Diego County Water Authority, City of Escondido, Vista Irrigation District, the Metropolitan Water District of Southern California, and Coachella Valley Water District in case No. C074592 is dismissed as moot. All respondents except for the Irrigation District shall be entitled to recover their costs on appeal in case No. C074592 and case No. C076747 from the County and the Air District.
+It is further ordered that the remittiturs issue forthwith. (See Cal. Rules of Court, rule 8.244(c)(2).)
+Butz, J., and Murray, J., concurred.
+Eliot, The Hollow Men (1925).
+In case No. C074592, the County appealed from the judgments in three cases: Imperial Irrigation Dist. v. All Persons Interested (Super. Ct. Imperial County, 2013, No. ECU01649/Super. Ct. Sac. County, 2013, No. 04CS00875) (the validation action), POWER v. Imperial Irrigation Dist. (Super. Ct. Imperial County, 2013, No. ECU01653/Super. Ct. Sac. County, 2013, No. 04CS00877) (the first CEQA action), and County of Imperial v. Metropolitan Water Dist. of Southern California (Super. Ct. Imperial County, 2013, No. ECU01656/Super. Ct. Sac. County, 2013, No. 04CS00878) (the second CEQA action). For its part, the Air District appealed only from the judgment in the validation action.
+In case No. C076747, the County and the Air District appealed from a postjudgment attorney fee order in the validation action and the County separately appealed from the same order in the second CEQA action. (Specifically, the trial court ordered the County and the Air District to pay San Diego County Water Authority $96,734.70 in attorney fees.) In addition, the County appealed from a postjudgment costs order in the validation action, the first CEQA action, and the second CEQA action, and the Air District joined the County’s appeal of that order in the validation action.
+The County and the Air District have stipulated to dismissal of all of the foregoing appeals.
+In case No. C074592, respondents San Diego County Water Authority, City of Escondido, Vista Irrigation District, the Metropolitan Water District of Southern California, and Coachella Valley Water District filed a protective cross-appeal from the judgment in the validation action.
+The only appeal that remains unresolved is the appeal by the self-styled “Barioni Parties” in case No. C076747 of the postjudgment costs order in the validation action.
+See, e.g., Quantification Settlement Agreement Cases (2011) 201 Cal.App.4th 758 [134 Cal.Rptr.3d 274]; California ex rel. Imperial County Air Pollution Control Dist. v. United States Dept. of the Interior (9th Cir. 2014) 767 F.3d 781.
+We acknowledge the comparatively small sum of $750,000 the Irrigation District has apparently paid to the County and the Air District under the terms of the parties’ settlement.
+In addition to the two appellate proceedings addressed herein — cases Nos. C074592 and C076747 — we have seen six other matters arising from the coordinated cases: County of Imperial v. Superior Court (2007) 152 Cal.App.4th 13 [61 Cal.Rptr.3d 145]; Imperial County Air Pollution Control Dist. v. State Water Resources Control Bd. (June 12, 2013, C059264) (nonpub. opn.); County of Imperial v. Superior Court (Feb. 5, 2009, C060725), petition denied; Protect Our Water and Environmental Rights v. Superior Court (Feb. 5, 2009, C060728), petition denied; Cuatro Del Mar v. Superior Court (Oct. 16, 2009, C062989), petition denied; and Quantification Settlement Agreement Cases, supra, 201 Cal.App.4th 758.
