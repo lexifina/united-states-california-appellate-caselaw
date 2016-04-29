@@ -1,0 +1,45 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "E063915"
+decided: "2016-04-29"
+citations: ["247 Cal. App. 4th 23"]
+reporter: "cal-app-4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McKinster, Acting P. J., and Slough, J., concurred."]
+parties: ["In re the Marriage of WINIFRED HALL and BRUCE FRENCHER, SR. WINIFRED HALL, Respondent, v. BRUCE FRENCHER, SR., Appellant."]
+source_url: "https://static.case.law/cal-app-4th/247/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12451425
+cites_cases: ["150 Cal.Rptr.3d 699", "211 Cal.App.4th 1284", "42 U.S.C.A. § 402", "65 Cal.App.4th 93", "76 Cal.Rptr.2d 134"]
+---
+
+# Hall v. Frencher
+
+## Majority (MILLER, J.)
+
+Opinion
+MILLER, J.
+The family court determined appellant Bruce Frencher, Sr., owed $11,083.84 in child support arrears. Frencher contends the family court erred in its calculation because the excess Social Security derivative benefits paid for his child should have been applied to the arrears owed by Frencher. We reverse the judgment.
+FACTUAL AND PROCEDURAL HISTORY
+Respondent Winifred Hall and Frencher share a daughter, Kayla. In July 2003 Frencher was ordered to pay $507 per month for child support. In November 2006 that amount was modified to $561 per month. In February 2011 the family court ordered Frencher to pay $276 per month for child support, and made the order retroactive to September 2010. In March 2011 the monthly child support payment was reduced to $82.
+On August 11, 2011, the family court ordered Frencher to pay $8.50 per month for child support. At that hearing, the court found Frencher was $16,421.84 in arrears for the period beginning January 1, 2007, and ending July 31, 2011. The family court ordered Frencher to make $150 monthly payments toward the arrears, and ordered that interest would accrue.
+At some point in the timeline, Frencher began receiving Social Security disability insurance benefits. As a result of Frencher being on disability, Kayla received derivative benefits from Social Security. (42 U.S.C.A. § 402(d).) Social Security paid $960 per month to Hall in derivative benefits for Kayla beginning in June 2014. Social Security also sent a lump-sum payment of $20,824 in derivative benefits, for the period from July 2012 to April 2014. Hall gave half of that lump-sum payment ($10,412) to Frencher.
+At a hearing on January 13, 2015, Hall and Frencher agreed that (1) in 2011, from September through December, Frencher paid $151.50 per month toward arrears (total $606); (2) in 2012, Frencher made 12 monthly payments of $151.50 toward arrears (total $1,818); (3) in 2013, Frencher paid $160 per month toward arrears (total $1,818); and (4) in 2014, Frencher paid $160 per month, through June, toward arrears (total $909). Thus, Frencher paid a total of $5,151 in arrears from September 2011 through June 2014.
+The total amount of arrears that was owed in August 2011 was $16,421.84. The family court calculated that $11,270.84 was still outstanding ($16,421.84—$5,151). The court then calculated that Social Security had paid Frencher’s $8.50 per month obligation for 22 months, which totaled $187. Therefore, the arrears would be reduced to $11,083.84. The family court found that commencing August 2014 any money Frencher owed in monthly child support was satisfied by the Social Security derivative benefit payments because Frencher’s income was such that he could not be ordered to pay more than $961 per month, so the Social Security payment would exceed any court ordered child support.
+The family court asked if there was legal authority for applying the excess Social Security payments to Frencher’s arrears. In other words, Frencher was ordered to pay $8.50 in child support, but Social Security was paying $960, so the court questioned if that extra $951.50 per month could legally be used to reduce Frencher’s arrears. Frencher did not provide the court with legal authority.
+The arrears covered the period from January 1, 2007, through July 31, 2011, and the Social Security payments started in July 2012. The family court concluded the Social Security payments could not be applied to monies that were owed prior to the start date of the Social Security payments. Thus, the court held Frencher still owed $11,083.84 in arrears. Frencher was ordered to continue his $150 monthly arrears payments. The family court said it would reconsider its ruling if Frencher provided legal authority reflecting excess derivative benefits could be applied to arrears that predate the derivative benefits.
+DISCUSSION
+Frencher contends the family court erred by ruling that he owed $11,083.84 in arrears because the excess Social Security derivative benefits should have been applied to the arrears. We agree.
+Frencher has raised a purely legal issue with undisputed facts, so we apply the de novo standard of review. (Estate of Wilson (2012) 211 Cal.App.4th 1284, 1290 [150 Cal.Rptr.3d 699].)
+Family Code section 4504, subdivision (b) provides that if a noncustodial parent is ordered to pay child support, then any Social Security derivative benefits paid “shall be credited toward the amount ordered by the court to be paid by the noncustodial parent for support of the child .... Any payments shall be credited in the order set forth in Section 695.221 of the Code of Civil Procedure.”
+Code of Civil Procedure section 695.221 provides money should be credited in the following order: (1) “against the current month’s support”; (2) “against the principal amount of the judgment remaining unsatisfied”; and then (3) “against the accrued interest that remains unsatisfied.”
+Given the foregoing law, Frencher is correct that the Social Security derivative payments should have been used to pay his current monthly support, then the excess amount should have been applied to the principle on the arrears, and then to the interest on the arrears. Accordingly, we will reverse the portion of the family court’s order reflecting Frencher owes $11,083.34 in arrears. The amount of arrears owed will need to be recalculated by the family court.
+The appellate court in the case of In re Marriage of Robinson (1998) 65 Cal.App.4th 93 [76 Cal.Rptr.2d 134] {Robinson), came to the directly opposite conclusion. In Robinson, the appellate court held Civil Code of Procedure section 695.221 does not apply to Social Security derivative benefits, and therefore the excess benefit money does not apply to the child support obligor’s arrearages. (Robinson, at pp. 97-98.)
+The version of Family Code section 4504 in effect at the time of the Robinson opinion was different than the current version of the statute. At the time of the Robinson opinion, Family Code former section 4504 provided, “If the court has ordered a noncustodial parent to pay for the support of a child, payments for the support of the child made by the federal government pursuant to the Social Security Act or Railroad Retirement Act because of the retirement or disability of the noncustodial parent and transmitted to the custodial parent or other child support obligee each month shall be credited toward the amount ordered by the court to be paid for that month by the noncustodial parent for support of the child . . . .” (Italics added.)
+The Robinson court explained, “We find Family Code section 4504 to be unambiguous in its directive that Social Security payments be credited against the amount ‘to be paid for that month.’ It does not authorize payments to be credited to amounts due in prior months, nor to accrued interest on those arrearages.” (Robinson, supra, 65 Cal.App.4th at p. 96.)
+The current version of Family Code section 4504 expressly provides, “Any payments shall be credited in the order set forth in Section 695.221 of the Code of Civil Procedure.” (Fam. Code, § 4504, subd. (b).) As set forth ante, Code of Civil Procedure section 695.221 provides money should be credited against current support, then the principal amount of arrears, and then the interest owing on arrears. Thus, we disagree with the Robinson opinion because the statutory wording has changed so as to contradict the Robinson court’s holding—Code of Civil Procedure section 695.221 is now expressly incorporated into Family Code section 4504.
+DISPOSITION
+The portion of the family court’s judgment reflecting Bruce Frencher, Sr., owes $11,083.84 in arrears is reversed. The family court is directed to calculate the amount of arrears Bruce Frencher, Sr., owes, taking Family Code section 4504, subdivision (b), and any other relevant laws, into account. In all other respects, the judgment is affirmed. Appellant is awarded his costs on appeal.
+McKinster, Acting P. J., and Slough, J., concurred.
+Hall has not made an appearance at this court. In the appellant’s opening brief and record on appeal. Hall’s first name is spelled a variety of ways: Winerfred, Winifed, and Winifred. We infer the correct spelling is Winifred.
