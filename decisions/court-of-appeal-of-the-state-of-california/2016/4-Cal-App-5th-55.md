@@ -1,0 +1,52 @@
+---
+court: "Court of Appeal of the State of California"
+docket: "D067946"
+decided: "2016-09-22"
+citations: ["4 Cal. App. 5th 55"]
+reporter: "cal-app-5th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nares, Acting P. J., and Haller, J., concurred."]
+parties: ["THE PEOPLE, Plaintiff and Respondent, v. JEFF ANTOINE BOSWELL, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-app-5th/4/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12440842
+cites_cases: ["137 P.3d 184", "164 P.3d 568", "164 P.3d 578", "192 Cal.Rptr. 748", "211 P.3d 584", "34 Cal.3d 92", "38 Cal.4th 1224", "42 Cal.4th 110", "42 Cal.4th 126", "45 Cal.Rptr.3d 353", "47 Cal.4th 92", "530 U.S. 466", "64 Cal.Rptr.3d 137", "64 Cal.Rptr.3d 148", "665 P.2d 520", "97 Cal.Rptr.3d 77"]
+---
+
+# People v. Boswell
+
+## Majority (PRAGER, J.)
+
+Opinion
+PRAGER, J.
+A jury found Jeff Antoine Boswell guilty of murdering Blanche Griffin while engaged in the commission or attempted commission of a robbery and burglary (count 1), and burglary of an inhabited dwelling (count 2). The jury also found Boswell guilty of two counts of commercial burglary (counts 3, 4) and petty theft (count 5). The trial court found true certain prior conviction allegations. The court sentenced Boswell to a total term of life without the possibility of parole, plus 20 years four months.
+In the published portion of this opinion we reject Boswell’s argument that his burglary conviction must be vacated because it is a lesser included offense of the burglary special circumstance attached to his murder conviction. In the unpublished portion of this opinion we reject his arguments that (1) consolidation of the charges denied him the due process right to a fair trial and (2) the trial court prejudicially erred in allowing the prosecution to admit certain crime scene and autopsy photographs. We affirm the judgment as modified to correct clerical errors in the abstract of judgment.
+GENERAL FACTUAL BACKGROUND
+Since Boswell does not challenge the sufficiency of the evidence supporting his convictions, we briefly summarize his offenses.
+The Murder
+Eighty-seven-year-old Griffin lived alone in a home in San Diego. Her neighbor, Ana Murillo, occasionally took Griffin to casinos because Griffin liked to gamble. Griffin managed her own money and always kept money hidden around the house, including any winnings from her gambling. Boswell, a drug user, lived with Murillo. Boswell did not work and Murillo gave him money to buy drugs.
+On July 7, 2013, Murillo took Griffin to a casino where they met Boswell. (All further date references are to 2013.) Griffin won some money during that trip. Murillo later escorted Griffin inside her apartment. Boswell was with Murillo that evening, but left in the middle of the night. A few days later, Griffin’s son-in-law found Griffin’s body on the floor of her home when he went to check on her after Griffin failed to return some telephone calls. A medical examiner opined that Griffin died after suffering a physical assault and strangulation. He classified her death as a homicide.
+The police arrested Boswell on an outstanding warrant for a parole violation, but released him on July 21. While the police had Boswell in custody they swabbed the inside of his mouth and scraped his fingernails for DNA. Male DNA recovered from Griffin’s neck shared markers with Boswell’s DNA. Boswell was also a possible contributor to DNA found under Griffin’s fingernails. A criminalist opined that a one in 1.2 quintillion possibility existed that the DNA found on Griffin’s right hand belonged to an African-American other than Boswell.
+The Theft Crimes
+On January 4, before the murder, Boswell stole a cellular telephone from a hospital emergency technician and received a citation for petty theft. On July 22 and 30, two liquor stores were burglarized. Blood left at both crime scenes belonged to Boswell.
+DISCUSSION
+I. Lesser Included Offense
+A. Additional Background
+Count 1 charged Boswell with murdering Griffin and alleged two special circumstances, including a special circumstance that Boswell committed the murder while engaged in the commission or attempted commission of the crime of burglary in the first or second degree. Count 2 alleged that Boswell committed burglary of the first degree by unlawfully entering a building occupied by Griffin with the intent to commit theft.
+The jury convicted Boswell of first degree murder and found true the burglary and robbery special-circumstance allegations. The jury also convicted Boswell of the burglary count. The trial court sentenced Boswell to a term of 25 years to life for the burglary, but stayed the sentence under Penal Code section 654.
+B. Analysis
+Boswell contends that, under the elements test, burglary is a lesser included offense of murder committed during a burglary because the offense of murder with a burglary special circumstance cannot be committed without also committing the crime of burglary. Thus, he asserts that his burglary conviction must be reversed. The People disagree, arguing that special circumstances, like enhancements, are irrelevant to the lesser included offense analysis. The People have the better argument.
+Generally, a defendant may be convicted of multiple offenses arising out of the same act or course of conduct. (§ 954; People v. Reed (2006) 38 Cal.4th 1224, 1226-1227 [45 Cal.Rptr.3d 353, 137 P.3d 184].) A defendant, however, may not be convicted of an offense that is included within another offense. {Reed, at p. 1227.) To determine whether one offense is necessarily included within another, we look to the statutory elements of the offenses. ‘“[I]f the statutory elements of the greater offense include all of the statutory elements of the lesser offense, the latter is necessarily included in the former.” (Ibid.) Where, as here, the challenge is to a charged offense, we do not look to the accusatory pleadings. The pleadings are relevant only when the question is whether a defendant may be convicted of an uncharged crime. (Id. at pp. 1228-1231.)
+As the People note, our high court has repeatedly stated that sentencing enhancements are not elements of the offense and cannot be considered in determining whether an offense is a lesser included offense. (People v. Wolcott (1983) 34 Cal.3d 92, 100-101 [192 Cal.Rptr. 748, 665 P.2d 520] (Wolcott); People v. Izaguirre (2007) 42 Cal.4th 126, 128 [64 Cal.Rptr.3d 148, 164 P.3d 578] [enhancement allegations may not be considered in defining necessarily included offenses for the multiple conviction rule, Apprendi v. New Jersey (2000) 530 U.S. 466 [147 L.Ed.2d 435, 120 S.Ct. 2348] notwithstanding]; People v. Sloan (2007) 42 Cal.4th 110, 122-123 [64 Cal.Rptr.3d 137, 164 P.3d 568] (Sloan) [same].) In People v. Anderson (2009) 47 Cal.4th 92 [97 Cal.Rptr.3d 77, 211 P.3d 584] {Anderson), our high court explained that a criminal offense is a collection of specific factual elements that the Legislature has chosen to define as a crime. (Id. at p. 101.) On the other hand, a “ ‘penalty provision prescribes an added penalty to be imposed when the offense is committed under specified circumstances.’ [Citation.] Under California law, a sentencing enhancement or penalty allegation is not a complete offense in itself. It is ‘separate from the underlying offense and does not set forth elements of the offense or a greater degree of the offense charged. [Citations.]’ [Citation.] Conceptually, a penalty provision is an appendage that attaches to an offense and, if proven, prescribes additional punishment for the crime.” (Id. at p. 115, italics added.)
+Murder and burglary are two separate crimes that contain different elements. (See § 187, subd. (a) [murder]; cf. § 459 [burglary].) The statutory elements of burglary are not necessarily included in the statutory elements of murder. Thus, to make his argument, Boswell creates a new crime, “murder with a burglary special circumstance.” While the Legislature can create new crimes, Boswell cannot.
+Boswell next attempts to distinguish sentencing enhancements discussed in Wolcott and Sloan, with special circumstances. Boswell notes that California Rules of Court, rule 4.405(3) defines an enhancement as “an additional term of imprisonment added to the base term.” In contrast, he points out that a special circumstance under subdivision (a) of section 190.2 attaches to a first degree murder charge to subject a defendant to the penalty of death, or imprisonment for life without the possibility of parole. Thus, instead of adding a more severe sentence, Boswell argues that a special circumstance removes the possibility of release. We fail to see the difference.
+The jury found Boswell guilty of first degree murder. (§ 187, subd. (a).) The jury later found true the burglary special-circumstance allegation attached to the murder charge. The burglary special circumstance increased the penalty for Boswell’s murder conviction by adding the death penalty or imprisonment for life without the possibility of parole. (§ 190.2, subd. (a)(17)(G).) The burglary special circumstance is not an element of murder; rather, it functions similar to a sentencing enhancement to increase Boswell’s penalty for the murder. The burglary special circumstance is irrelevant to the determination under the statutory elements test of whether Boswell’s burglary charge is a lesser included offense of his murder charge. Accordingly, we affirm Boswell’s burglary conviction.
+II.-IV.
+DISPOSITION
+The judgment is modified to strike the parole revocation fine under Penal Code section 1202.45, and to correct the abstract of judgment to reflect that sentence on count 2 is stayed under Penal Code section 654. The clerk of the superior court is directed to prepare an amended abstract of judgment and to forward a certified copy of the amended abstract to the Department of Corrections and Rehabilitation. (Pen. Code, §§ 1213, subd. (a), 1216.) As modified, the judgment is affirmed.
+Nares, Acting P. J., and Haller, J., concurred.
+On October 13, 2016, the opinion was modified to read as printed above. Appellant’s petition for review by the Supreme Court was denied January 11, 2017, S238151.
+Judge of the San Diego Superior Court, assigned by the Chief Justice pursuant to article VI, section 6 of the California Constitution.
+Undesignated statutory references are to the Penal Code.
+See footnote, ante, page 55.
