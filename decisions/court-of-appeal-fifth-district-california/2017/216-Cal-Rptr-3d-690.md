@@ -1,0 +1,52 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "2d Crim. B265958"
+decided: "2017-04-04"
+citations: ["216 Cal. Rptr. 3d 690", "10 Cal. App. 5th 434"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The PEOPLE, Plaintiff and Respondent,\nv.\nRobert Lee BILLIE, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-rptr-3d/216/cases/0690-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12513462
+cites_cases: ["101 Cal.Rptr.3d 14", "101 P.3d 1007", "140 P.3d 775", "160 Cal.Rptr.3d 753", "189 P.3d 911", "20 Cal.4th 701", "218 Cal.App.4th 1402", "218 P.3d 272", "22 Cal.Rptr.3d 61", "34 Cal.4th 821", "39 Cal.4th 970", "422 U.S. 806", "44 Cal.4th 1032", "47 Cal.4th 625", "47 Cal.Rptr.3d 467", "81 Cal.Rptr.3d 651", "85 Cal.Rptr.2d 203", "976 P.2d 754"]
+---
+
+# People v. Billie
+
+## Majority (PERREN, J.)
+
+PERREN, J.
+A defendant has a constitutional right to represent himself at trial. (Faretta v. California (1975) 422 U.S. 806, 819, 95 S.Ct. 2525, 45 L.Ed.2d 562 ; People v. Welch (1999) 20 Cal.4th 701, 729, 85 Cal.Rptr.2d 203, 976 P.2d 754.) The trial court has a concomitant duty to ensure that the proceedings are conducted in an orderly fashion and, upon a proper showing, to physically restrain the defendant for his own safety and that of others in the courtroom. ( People v. Combs (2004) 34 Cal.4th 821, 837-838, 22 Cal.Rptr.3d 61, 101 P.3d 1007.) Inevitably, use of physical restraints will impair the self-represented defendant's ability to move around the courtroom. It also is difficult to conceal the restraints from the jury's view. Here the trial court conscientiously sought to balance the defendant's right to self-representation with its concern for the safety of the defendant, deputies, jurors and others in the courtroom. We believe the court properly struck that balance.
+Appellant Robert Lee Billie was charged with attempted murder (Pen. Code, §§ 664, 187, subd. (a) ), with special allegations of personal infliction of great bodily injury (§ 12022.7, subd. (a)), and personal use of a deadly weapon (§ 12022, subd. (b)(1); count 1); and assault with personal use of a deadly weapon (§ 245, subd. (a)(1)), with the special allegation of personal infliction of great bodily injury (§ 12022.7, subd. (a); count 2). The charges resulted from events occurring on May 16, 2013.
+Both counts alleged that the offenses were second strikes (§§ 667, subds. (d)(2) & (e)(1), 1192.7, subd. (c)(8)), that appellant had suffered a prior conviction of a serious felony (§ 667, subd. (a)(1)), and that he had served a prior prison term (§ 667.5, subd. (b)). It also was alleged that appellant was ineligible to serve a state prison sentence in county jail because the alleged offenses were serious or violent felonies (§§ 1192.7, subd. (c), 667.5).
+Appellant represented himself at trial, assisted by advisory counsel. He elected to bifurcate trial on the current alleged offenses from the trial on an alleged prior strike conviction and to waive jury trial on the alleged prior conviction.
+The jury deadlocked on count 1 and the trial court declared a mistrial on that count. The jury found appellant guilty of count 2 and found true the special allegation. The prosecution dismissed count 1.
+The trial court found the prior conviction true as alleged. It sentenced appellant to the upper term of four years in state prison on count 2, doubled to eight years as a second strike under section 667, subdivision (e)(1). The court sentenced appellant to a consecutive three-year term for the enhancement under section 12022.7, subdivision (a), and a five-year consecutive term pursuant to section 667, subdivision (a)(1), for a total term of 16 years. Appellant was awarded 531 days of presentence custody credit.
+Appellant contends the trial court erred by requiring him to wear restraints during trial and by admitting evidence of his prior assault conviction. We affirm. FACTS
+Appellant and the victim, William Littrice, had known each other for years. They met while working for Second Chance, an organization that takes employees by van to different cities to sell candy door-to-door. A crew of 10 to 14 people, working on commission, go out for approximately two weeks at a time. Appellant and Littrice sometimes worked together on these crews. Littrice knew appellant by the name Robert Goodman.
+In January 2013, appellant, Littrice and Roderick Van Tyree (Tyree) were selling candy in San Luis Obispo. Appellant and Littrice had a dispute, during which appellant attacked and repeatedly struck Littrice with a bottle wrapped in cloth. During the fight, Littrice allegedly swung a knife at appellant, cutting him in the abdomen.
+On May 16, 2013, appellant was again working with a crew from Second Chance in the Santa Barbara area. The crew was comprised of Melody Moore, appellant and several others. Littrice and Tyree also were working in the same area, but not with Second Chance. Both crews were staying at the Motel 6 in Carpinteria.
+While Moore was speaking with Littrice at the motel, she saw appellant walking towards them. Littrice thought appellant said, "What up, Blood?" Moore heard, "What up, motherfucker?" or "What up, nigger?" Tyree saw appellant push Moore into Littrice and then strike him in the neck area. Tyree thought appellant had hit Littrice with his fist until he saw appellant pull away with a "knife or something" in his hand. Tyree saw blood flowing from Littrice's neck, and realized Littrice had been hit with a weapon.
+Moore saw the knife after it came out of Littrice's neck. The blade was silver and about five inches long. When blood started gushing from the wound, Moore ran to tell her husband. As appellant walked away, he told Moore's husband to mind his own business or he would kick his ass.
+Tyree brought Littrice to their room, put a towel on his neck and called the police and an ambulance. When Santa Barbara Deputy Sheriff Bradley Bordon arrived, he found Littrice bleeding from the neck. Paramedics took Littrice to the hospital, where it was determined the wound was not life-threatening.
+Bordon interviewed Littrice at the hospital. Littrice told him that "Robert Goodman" had stabbed him and that there had been a previous altercation between them at another motel. An arrest warrant issued, but it took police nearly one year to arrest appellant.
+DISCUSSION
+Use of Restraints During Trial
+Appellant contends the trial court violated his "fair trial" and "due process" rights when it ordered him to wear restraints during the trial. We disagree.
+"[A] criminal defendant may be subjected to physical restraints in the jury's presence upon 'a showing of a manifest need for such restraints.' [Citations.] This requirement is satisfied by evidence that the defendant has threatened jail deputies, possessed weapons in custody, threatened or assaulted other inmates, and/or engaged in violent outbursts in court. [Citations.]" (People v. Lewis and Oliver (2006) 39 Cal.4th 970, 1031-1032, 47 Cal.Rptr.3d 467, 140 P.3d 775 (Lewis ).) Although the trial court's decision to restrain a defendant must be based on more than rumor or innuendo, a formal evidentiary hearing is not required. (Ibid. ) "A
+shackling decision will be upheld absent a manifest abuse of discretion. [Citation.]" (Ibid. )
+Appellant has not demonstrated any abuse of discretion, let alone a manifest abuse. As the People point out, appellant's history of violence in response to disputes with others is well documented. While on the Navajo Reservation in Arizona in 2004, appellant stabbed an acquaintance, puncturing his lung. Appellant pled guilty to the charge and was sentenced to federal prison. While serving that sentence, he committed numerous disciplinary offenses, including attacks on fellow inmates.
+While appellant was incarcerated in the county jail awaiting trial in this case, jail personnel documented several disciplinary violations. These included possession of razor blades and assaults on fellow inmates, including his own cellmate.
+After considering this history, the trial court found "there's been a showing of manifest need" for restraints, including leg shackles and the handcuffing of one hand. This finding is supported by the evidence. (See, e.g., People v. Wallace (2008) 44 Cal.4th 1032, 1050, 81 Cal.Rptr.3d 651, 189 P.3d 911 [use of concealed leg shackles justified for defendant cited for engaging in jailhouse fights and possessing illegal razors]; Lewis , supra , 39 Cal.4th at p. 1032, 47 Cal.Rptr.3d 467, 140 P.3d 775 [no abuse of discretion in shackling defendant who attacked other inmates].)
+The trial court imposed the least intrusive means of restraint to accomplish its goal of maintaining courtroom safety. Appellant was allowed to keep one hand free for note-taking and to dress in civilian clothes throughout the trial. Because appellant's shackles required him to remain seated at counsel's table, the prosecutor volunteered to remain seated during trial as well. And because appellant was unable to approach the bench for sidebars, the parties addressed those matters when the jury was absent from the courtroom. The court also utilized "runners" to deliver exhibits to the witness stand and to counsel's table.
+In addition, the bailiffs substituted silver-colored handcuffs for the red ones provided by the county jail and covered the handcuffs and the leg shackles with matte black masking tape. Further, counsel's table was fitted with a black opaque cloth drape that effectively hid everything beneath the tabletop.
+Finally, the trial court mitigated any possible prejudice by instructing the jury that "[t]he fact that physical restraints have been placed on the defendant is not evidence. Don't speculate about the reason. You must completely disregard the circumstances in deciding the issues in this case. Don't consider it for any purpose or discuss it during your deliberations." We presume the jurors understood and followed this instruction. (Rayii v. Gatica (2013) 218 Cal.App.4th 1402, 1415, 160 Cal.Rptr.3d 753 ; People v. Stevens (2009) 47 Cal.4th 625, 641, 101 Cal.Rptr.3d 14, 218 P.3d 272.)
+[[/]]
+The judgment is affirmed.
+We concur:
+GILBERT, P.J.
+YEGAN, J.
+All further statutory references are to the Penal Code unless otherwise stated.
+See footnote *, ante.
