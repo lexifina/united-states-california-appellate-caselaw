@@ -2,7 +2,7 @@
 court: "Court of Appeal, Fifth District, California"
 docket: "A146060"
 decided: "2018-08-23"
-citations: ["238 Cal. Rptr. 3d 809", "27 Cal. App. 5th 225", "236 Cal. Rptr. 3d 880"]
+citations: ["238 Cal. Rptr. 3d 809", "27 Cal. App. 5th 225"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
