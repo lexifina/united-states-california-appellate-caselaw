@@ -1,0 +1,51 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "2d Civ. No. B283239"
+decided: "2018-09-04"
+citations: ["237 Cal. Rptr. 3d 598", "26 Cal. App. 5th 966"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRIDGEPOINT CONSTRUCTION SERVICES, INC., Plaintiff, Cross-complainant and Respondent;"]
+source_url: "https://static.case.law/cal-rptr-3d/237/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12514852
+cites_cases: ["122 Cal.Rptr.3d 641", "171 P.3d 1092", "192 Cal.App.4th 477", "36 Cal.Rptr.2d 537", "42 Cal.4th 807", "68 Cal.App.4th 856", "68 Cal.Rptr.3d 758", "80 Cal.Rptr.2d 634", "885 P.2d 950", "9 Cal.4th 275"]
+---
+
+# Bridgepoint Constr. Servs., Inc. v. Newton
+
+## Majority (GILBERT, P.J.)
+
+GILBERT, P.J.
+An attorney represents more than one client, all of whom seek damages from a pool of money controlled by another party. In addition to multiple other reasons why the attorney here should be disqualified, when more than one client is seeking funds from the same source, the conflict is self-evident. There might not be enough money to satisfy each client's claim.
+This is an appeal from an order disqualifying an attorney for a conflict of interest. We affirm.
+FACTS
+Bridgepoint Construction Services, Inc. (Bridgepoint) was hired by Vista Oceano La Mesa Venture, LLC (Vista) to perform construction services on a project in Santa Barbara. Bridgepoint has two shareholders, Norman Salter, who owns 25 percent, and Martin Newton, who owns 75 percent. Newton also has an interest in Vista. Salter and Dilip Ram are business associates.
+Bridgepoint and Salter brought an action against Vista, Newton and others, alleging defendants owed them approximately $2 million for construction services.
+Vista cross-complained against Salter, Ram and others, alleging Salter and Ram diverted assets from Bridgepoint, depriving Vista of moneys due to it. In December 2014, Robert Klein became attorney of record for Bridgepoint, Salter and Ram.
+In December 2016, Klein designated an expert, Karl Schulze, to review Bridgepoint's financial records. Schulze reviewed Bridgepoint's financial records, including records related to the Vista project, and determined Bridgepoint is owed $2 million.
+In January 2017, Newton successfully moved to disqualify Klein from representing Bridgepoint and Salter. The trial court found that Bridgepoint and Salter have conflicts of interest relating to indemnity or other claims against each other. Bridgepoint retained the law firm of Woosley and Porter to represent it.
+In February 2017, Klein filed a cross-complaint on behalf of Ram against Vista and Newton. The cross-complaint alleged that Ram advanced money to the Vista project. Ram seeks the return of the money. The money Ram seeks returned is part of the $2 million Bridgepoint and Salter seek in their complaint against Vista and Newton.
+In April 2017, Woosley and Porter filed a cross-complaint on behalf of Bridgepoint against Salter and Ram. The cross-complaint alleged causes of action for conversion, self-dealing, breach of fiduciary duty, and failure to allow the inspection of the corporate records reviewed by Schulze.
+After Klein filed Ram's cross-complaint, Bridgepoint moved to disqualify Klein from representing Ram. Newton joined in the motion. Klein acknowledged that he represents Bridgepoint and Salter in a "related case" against James Lassiter in the United States District Court in Arizona. The trial court granted the motion, finding that Klein has a conflict arising out of the simultaneous representation of Bridgepoint in the Arizona case and Ram in this case, as well as a conflict arising out of the successive representation of Bridgepoint and Ram in this case.
+DISCUSSION
+Klein contends the trial court erred in disqualifying him.
+If an attorney simultaneously represents two clients with adverse interests, disqualification is automatic. ( Blue Water Sunset, LLC v. Markowitz (2011) 192 Cal.App.4th 477, 487, 122 Cal.Rptr.3d 641.) Where an attorney represents a current client against a former client, the attorney will be subject to disqualification if there is a substantial relationship between the subject matter of the two representations. ( Flatt v. Superior Court (1994) 9 Cal.4th 275, 283, 36 Cal.Rptr.2d 537, 885 P.2d 950.) Disqualification is mandatory in the context of successive representation where the attorney obtains confidential information in the course of representing the former client that is relevant to the representation of the current client. ( Ibid. ) We review for an abuse of discretion. ( Rico v. Mitsubishi Motors Corp. (2007) 42 Cal.4th 807, 819, 68 Cal.Rptr.3d 758, 171 P.3d 1092.)
+Klein appears to believe there is no conflict of interest because he is not suing Bridgepoint or Salter; instead, Bridgepoint, Salter and Ram are all suing Vista and Newton. What Klein ignores is that Bridgepoint, Salter and Ram are all seeking the same damages from the same $2 million pool. The conflict is obvious. Every dollar that Ram obtains from the pool is a dollar that is not available to Bridgepoint or Salter.
+Klein inadvertently admitted to the conflict at oral argument on the disqualification motion when he stated: "Your Honor, what [Bridgepoint] says all these parties with conflicting claims. There really isn't. Because Bridgepoint, Ram and Salter are seeking to recover $2 million for Bridgepoint. The conflicting claims, what he's referring to I believe, is that a lot of these people are claiming that same $2 million. Both parties have a declaratory relief action that says in the event Bridgepoint recovers the money, the Court can determine who's entitled to it."
+That the trial court will ultimately decide who recovers the money does not resolve the conflict. The court's decision will be influenced by the representation each party receives.
+Here Klein simultaneously represents Bridgepoint in the Arizona action and Ram in the instant action. Thus, disqualification is automatic. If that is not enough, the trial court reasonably concluded that Klein obtained confidential information from Bridgepoint when he retained Schulze as an expert to review Bridgepoint's financial records. Finally, there is a substantial relationship between the subject matter of Klein's former representation of Bridgepoint in this case and his current representation of Ram. The court had multiple independent grounds for disqualifying Klein. The court would have abused its discretion had it not disqualified Klein.
+Klein requests that we take judicial notice that an action filed by David Schuman against Bridgepoint and Salter was settled. Klein claims this action was the reason for the initial disqualification. Thus, he argues there is no longer any conflict. But the Schuman case was not the reason for Klein's prior disqualification, and, even if it were, the conflict between Bridgepoint, Salter and Ram in their claims to the $2 million anticipated recovery remains.
+Klein argues that his disqualification deprives Ram of the counsel of his choosing and burdens Ram with the additional costs of retaining new counsel. But the same can be said of most, if not every, disqualification. Bridgepoint has the right to the undivided loyalty of its present and former counsel. In balancing the rights of the parties, the law has determined that the avoidance of conflicts of interest in representation by counsel is paramount.
+Klein claims that disqualification is not proper where the conflict of interest is only a hypothetical. But when three parties are vying for the same pool of money, the conflict is actual, not hypothetical.
+Klein argues Bridgepoint's April 2017 cross-complaint against Salter and Ram is a sham and cannot form the basis for his disqualification. Klein cites no judgment declaring the cross-complaint to be a sham. Instead, he invites us to make that determination on appeal without benefit of trial. We decline to do so. In any event, even if Bridgepoint's cross-complaint were eliminated, Ram's cross-complaint filed by Klein would still create a conflict.
+Klein's reliance on Federal Home Loan Mortgage Corp. v. La Conchita Ranch Co. (1998) 68 Cal.App.4th 856, 80 Cal.Rptr.2d 634 is misplaced. There homeowners alleged a ranch, due to irrigation practices, caused a landslide that destroyed or damaged their homes. The ranch settled with the homeowners. The settlement agreement expressly provided that the settlement did not include damages claimed by the homeowners' mortgagees for impairment of security. The mortgagees wanted the same law firm that represented the homeowners to represent them in their action against the ranch. The law firm obtained waivers from its clients acknowledging and waiving any conflict of interest. The law firm then represented the mortgagees in an action against the ranch for impairment of security. The ranch cross-complained against the homeowners, alleging that the damages sought by the mortgagees had already been paid to the homeowners in the settlement.
+The ranch moved to disqualify the law firm for a conflict of interest. The trial court denied the motion. We affirmed. The mortgagees were making no claim on the proceeds of the homeowners' settlement; the cross-complaint was an obvious sham because it was directly contradicted by the settlement agreement; and the only conflict the ranch could suggest, that dual representation might impair settlement options, was hypothetical. ( Federal Home Loan Mortgage Corp. v. La Conchita Ranch Co. , supra , 68 Cal.App.4th at p. 862, 80 Cal.Rptr.2d 634.)
+Here, unlike La Conchita Ranch , Klein did not obtain waivers from Bridgepoint; Bridgepoint's cross-complaint was not determined to be a sham; the mortgagees were not seeking to recover from the same pool of money as the homeowners; and the conflict here is real, not hypothetical.
+Finally, Klein complains about Woosley and Porter's conduct. The appeal is from an order disqualifying Klein. Woosley and Porter's conduct is irrelevant.
+The order is affirmed. Costs are awarded to respondents.
+We concur:
+YEGAN, J.
+TANGEMAN, J.
+We deny the motion for judicial notice filed on June 15, 2018.
