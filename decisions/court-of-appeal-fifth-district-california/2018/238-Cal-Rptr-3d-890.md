@@ -1,0 +1,67 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "E068135"
+decided: "2018-10-10"
+citations: ["238 Cal. Rptr. 3d 890", "28 Cal. App. 5th 85"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The PEOPLE, Plaintiff and Respondent,\nv.\nEdgar GUTIERREZ, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-rptr-3d/238/cases/0890-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12514967
+cites_cases: ["124 Cal.Rptr. 905", "124 Cal.Rptr.2d 373", "131 Cal.Rptr.3d 225", "14 Cal.Rptr.2d 418", "15 Cal.3d 481", "161 Cal.Rptr.3d 191", "198 Cal.Rptr.3d 167", "232 Cal.Rptr. 849", "261 P.3d 243", "28 Cal.4th 1083", "286 Cal.Rptr. 801", "306 P.3d 1049", "364 P.3d 1093", "39 Cal.App.4th 1257", "4 Cal.4th 284", "42 Cal.3d 1222", "42 Cal.App.4th 216", "46 Cal.Rptr.2d 388", "49 Cal.Rptr.2d 537", "5 Cal.5th 372", "50 Cal. 233", "52 Cal.4th 856", "52 P.3d 572", "54 Cal.3d 612", "541 P.2d 545", "57 Cal.4th 658", "62 Cal.4th 808", "729 P.2d 115", "818 P.2d 84", "841 P.2d 938"]
+---
+
+# People v. Gutierrez
+
+## Majority
+
+RAMIREZ P. J.
+Defendant Edgar Gutierrez walked up to a stranger and demanded the keys to his car. When the victim did not turn them over, defendant said, in Spanish, "[G]ive me the keys or it's going to be fucked up." The victim called 911, and defendant left. As a result, defendant was convicted of attempted carjacking. ( Pen. Code, §§ 215, subd. (a), 664.)
+Defendant claimed that he merely asked the victim if he had keys and could give him a ride. He denied threatening the victim; he claimed that he spoke Spanish poorly and the victim must have misunderstood him.
+Defendant now contends that the trial court erred by:
+1. Allowing the prosecution to impeach him with the facts underlying his prior felony conviction.
+2. Discouraging the jury from requesting a readback of testimony.
+We find no error. Hence, we will affirm.
+I
+THE PROSECUTION'S USE OF THE FACTS UNDERLYING DEFENDANT'S PRIOR FELONY CONVICTION TO IMPEACH HIM
+Defendant contends that the trial court erred by allowing the prosecution to impeach him with the facts underlying his 2011 conviction for felony evading.
+A. Additional Factual and Procedural Background .
+Defendant moved in limine to preclude the prosecution from introducing evidence of his prior convictions to impeach him. He argued that the priors were more prejudicial than probative. Alternatively, he argued that the trial court should "sanitize" the priors by excluding evidence of "specific underlying facts." The trial court denied the motion.
+Defense counsel then once again asked the trial court to order that each prior be referred to only as "a felony conviction." The prosecutor indicated that he intended to impeach defendant with his 2008 conviction for robbery and his 2011 conviction for felony evading. He added that, at the same time as the felony evading conviction, defendant was also convicted of "misdemeanor auto theft and misdemeanor receiving a stolen vehicle"-"evading in a stolen car."
+The trial court ruled: "[T]he People may impeach him with his [robbery] conviction [and with] his [felony evading] conviction. And they may ask him, isn't it true you took a vehicle ... without the owner's permission."
+Accordingly, on direct, defendant admitted prior convictions for robbery and for evading a police officer. On cross, the prosecutor asked:
+"Q. ... Counsel just said evading in 2011, but that was actually a felony reckless evading of a police officer; is that right?
+"A. It was.
+"Q. And in that same-or around that same period of time, you also engaged in knowingly having a stolen car, right?
+"A. Well, no. I took a car without the owner's consent.
+"Q. That's basically what I'm asking, yes?
+"A. Okay. Yes."
+The trial court instructed the jury with CALCRIM No. 316, as follows: "If you find that a witness has committed a crime or other misconduct, you may consider that fact only in evaluating the credibility of the witness's testimony. The fact that a witness may have committed a crime or other misconduct does not necessarily destroy or impair a witness's credibility. It is up to you to decide the weight of that fact and whether that fact makes the witness less believable."
+B. Discussion .
+A prior felony conviction involving moral turpitude is admissible to impeach a witness. ( Cal. Const., art. I, § 28, subd. (f)(4); Evid. Code, § 788 ;
+People v. Anderson (2018) 5 Cal.5th 372, 407, 235 Cal.Rptr.3d 1, 420 P.3d 825 ; People v. Amanacus (1875) 50 Cal. 233, 234-235.)
+It has long been the rule that " '[t]he scope of inquiry when a criminal defendant is impeached with evidence of a prior felony conviction does not extend to the facts of the underlying offense.' [Citation.]" ( People v. Shea (1995) 39 Cal.App.4th 1257, 1267, 46 Cal.Rptr.2d 388.) "Evidence of prior felony convictions offered for this purpose is restricted to the name or type of crime and the date and place of conviction. [Citations.]" ( People v. Allen (1986) 42 Cal.3d 1222, 1270, 232 Cal.Rptr. 849, 729 P.2d 115.)
+It also used to be the rule that other specific instances of misconduct, including a prior misdemeanor conviction, were not admissible to impeach. ( Evid. Code, § 787 ; People v. Lent (1975) 15 Cal.3d 481, 484, 124 Cal.Rptr. 905, 541 P.2d 545.) In 1992, however, our Supreme Court held that the adoption of the "Truth-in-Evidence" provision of the California Constitution ( Cal. Const., art. I, § 28, subd. (f)(2) ) abrogated this rule in criminal cases, so that evidence of past misconduct is admissible to impeach a witness, provided it involves moral turpitude and thus is relevant to show a willingness to lie. ( People v. Wheeler (1992) 4 Cal.4th 284, 292, 295-296, 14 Cal.Rptr.2d 418, 841 P.2d 938 ( Wheeler ).) This includes the misconduct underlying a prior misdemeanor conviction. ( Id . at p. 292, 14 Cal.Rptr.2d 418, 841 P.2d 938.) However, the prior misdemeanor conviction itself remains inadmissible, because it is hearsay. ( Id . at pp. 288, 297-300, 14 Cal.Rptr.2d 418, 841 P.2d 938.)
+The admission for impeachment purposes of either (1) a prior felony conviction or (2) other prior misconduct is subject to the trial court's discretion to exclude evidence as more prejudicial than probative under Evidence Code section 352. ( People v. Anderson , supra , 5 Cal.5th at p. 407, 235 Cal.Rptr.3d 1, 420 P.3d 825 [prior felony conviction]; People v. Clark (2011) 52 Cal.4th 856, 931, 131 Cal.Rptr.3d 225, 261 P.3d 243 [other prior misconduct].)
+The rule that the conduct underlying a felony conviction is inadmissible to impeach ultimately derives from Code of Civil Procedure former section 2051, which provided that, other than a prior felony conviction, evidence of particular wrongful acts were inadmissible to attack or support a witness's credibility. ( People v. Amanacus , supra , 50 Cal. at pp. 234-235.) In 1963, when the Evidence Code was enacted, the rule was recodified in Evidence Code section 787. Under Wheeler , however, the Truth-in-Evidence provision trumps Evidence Code section 787, subject only to the trial court's discretion to exclude evidence under Evidence Code section 352. The inescapable conclusion is that now, the conduct underlying a felony conviction is admissible when it is relevant to impeach a witness, unless the trial court finds that it is more prejudicial than probative. Consistent with this view, in People v. Clark (2011) 52 Cal.4th 856, 131 Cal.Rptr.3d 225, 261 P.3d 243, the Supreme Court stated-citing Wheeler and the Truth-in-Evidence provision-"A witness may be impeached with any prior conduct involving moral turpitude whether or not it resulted in a felony conviction , subject to the trial court's exercise of discretion under Evidence Code section 352. [Citations.]" ( Id . at p. 931, fn., 131 Cal.Rptr.3d 225, 261 P.3d 243 omitted, italics added.)
+Defendant argues that, despite Wheeler , the conduct underlying a felony conviction, when offered to impeach, is still inadmissible. He cites People v. Casares (2016) 62 Cal.4th 808, 198 Cal.Rptr.3d 167, 364 P.3d 1093, which stated: "Under California law, the right to cross-examine or impeach the credibility of a witness concerning a felony conviction does not extend to the facts underlying the offense. [Citations.]" ( Id. at p. 830, 198 Cal.Rptr.3d 167, 364 P.3d 1093.)
+The statement in Casares , however, was dictum. There, it was the defendant who sought to introduce evidence of the conduct underlying a witness's felony conviction. The witness had been convicted of murder, and this conviction was properly admitted to impeach him. Defense counsel also asked him, however, if he used a knife to commit the murder. The prosecution's objection to this was sustained. ( People v. Casares , supra , 62 Cal.4th at p. 829, 198 Cal.Rptr.3d 167, 364 P.3d 1093.) On appeal, the defendant argued that the evidence was relevant to show that the witness may have committed the charged crimes, as one of the victims had been stabbed with a knife. The Supreme Court held that this was inadmissible third-party culpability evidence. ( Ibid . ) The defendant was not trying to introduce the conduct underlying the impeaching felony as evidence of dishonesty, and the use of the knife did not tend to show dishonesty. Thus, the court had no occasion to consider whether the rule against admitting the facts underlying a felony conviction to impeach was still good law. And finally, the dictum conflicts with the court's earlier statement in Clark .
+In many instances, the conduct underlying a felony adds nothing to the probative value of the felony, while at the same time it increases the prejudicial effect. This is true when the underlying conduct does not show dishonesty. For example, in Casares , the fact that the witness had a prior conviction for murder shed some light on his willingness to do evil, and therefore on whether he might lie on the stand. The additional fact that he committed the murder with a knife had no additional bearing on his honesty. However, it would tend to repulse the jury and to taint its evaluation of his testimony.
+The same is true when the elements of the prior felony already show dishonesty. For example, the bare fact that a witness has a prior conviction for robbery is sufficient to show dishonesty. Additional details-e.g., regarding the nature of the force or fear involved or the nature of the property taken-are likely to be more prejudicial than probative.
+We therefore accept-in these situations-that when a prior felony conviction has been introduced to impeach, ordinarily the trial court should exclude evidence of the underlying conduct. Moreover, we accept-again, in these situations-that the Truth-in-Evidence provision, which expressly preserves Evidence Code section 352, does not change this outcome.
+Here, by contrast, the conduct underlying the felony added significant probative value. Defendant's prior felony conviction was for evading a police officer in violation of Vehicle Code section 2800.2. This is a crime of moral turpitude. ( People v. Dewey (1996) 42 Cal.App.4th 216, 221-222, 49 Cal.Rptr.2d 537.) Otherwise, however, felony evading does not particularly show dishonesty. The underlying fact that defendant took a car without the owner's consent substantially augmented the showing of dishonesty.
+Defendant nevertheless argues that the trial court abused its discretion under Evidence Code section 352, for two reasons.
+First, defendant argues that his 2008 robbery conviction was already evidence of dishonesty, so that the evidence of his taking of a car was cumulative. The trial court could reasonably see things differently. "[E]vidence that a defendant committed a series of crimes is more probative of his credibility than a 'single lapse.' [Citation.]" ( People v. Clark , supra , 52 Cal.4th at p. 933, 131 Cal.Rptr.3d 225, 261 P.3d 243.)
+Second, defendant argues that his taking of a car was prejudicially similar to the charged crime. " 'Although the similarity between the prior convictions and the charged offenses is a factor for the court to consider when balancing probative value against prejudice, it is not dispositive.' [Citation.]" ( People v. Edwards (2013) 57 Cal.4th 658, 722, 161 Cal.Rptr.3d 191, 306 P.3d 1049.) For example, in People v. Gutierrez (2002) 28 Cal.4th 1083, 124 Cal.Rptr.2d 373, 52 P.3d 572, the Supreme Court held that a prior conviction for assault with a deadly weapon on a peace officer was admissible to impeach the defendant, even though he was charged with attempted murder of a police officer. ( Id . at p. 1139, 124 Cal.Rptr.2d 373, 52 P.3d 572.)
+Here, the trial court instructed the jury that it could consider the prior misconduct only in evaluating defendant's believability. "Any prejudice that the challenged information may have threatened must be deemed to have been prevented by the court's limiting instruction to the jury. We presume that jurors comprehend and accept the court's directions. [Citation.]" ( People v. Mickey (1991) 54 Cal.3d 612, 689, fn. 17, 286 Cal.Rptr. 801, 818 P.2d 84.)
+We therefore conclude that the trial court did not err by allowing the prosecution to impeach defendant with evidence that he took a car without the owner's permission.
+II
+III
+DISPOSITION
+The judgment is affirmed.
+We concur:
+MILLER, J.
+CODRINGTON, J.
+See footnote *, ante .
