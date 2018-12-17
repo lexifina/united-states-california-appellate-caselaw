@@ -2,7 +2,7 @@
 court: "Court of Appeal, Fifth District, California"
 docket: "2d Civil No. B272028"
 decided: "2018-12-17"
-citations: ["242 Cal. Rptr. 3d 566", "31 Cal. App. 5th 1", "241 Cal. Rptr. 3d 383", "30 Cal. App. 5th 248"]
+citations: ["242 Cal. Rptr. 3d 566", "31 Cal. App. 5th 1"]
 reporter: "cal-rptr-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
