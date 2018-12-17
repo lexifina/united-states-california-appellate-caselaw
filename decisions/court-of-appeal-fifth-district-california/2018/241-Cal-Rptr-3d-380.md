@@ -1,0 +1,42 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "2d Crim. No. B288448"
+decided: "2018-12-17"
+citations: ["241 Cal. Rptr. 3d 380", "30 Cal. App. 5th 243"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The PEOPLE, Plaintiff and Respondent,\nv.\nBret Arthur ERICKSON, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-rptr-3d/241/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12515140
+cites_cases: ["107 Cal.Rptr.3d 895", "170 P.3d 623", "183 Cal.App.4th 1159", "37 Cal.App.4th 543", "42 Cal.4th 644", "43 Cal.Rptr.2d 768", "68 Cal.Rptr.3d 51"]
+---
+
+# People v. Erickson
+
+## Majority (GILBERT, P. J.)
+
+GILBERT, P. J.
+An appellate court's holding arises from the facts and the application of statutory and case law. Whether a holding will apply to the facts of a future case is seldom absolutely certain. As this case demonstrates, appellate court decisions turn on a majority's reasoned legal analysis of what it considers to be a reasonable application of the law under the particular circumstances of the case.
+Bret Arthur Erickson appeals from a restitution order after he pled guilty to one count of grand theft. ( Pen. Code, § 487, subd. (a).) The trial court placed him on probation and ordered him to pay restitution in the amount of $4,015.44 to compensate the victim for wire he stole. Erickson contends the trial court erred when it ordered him to pay the full value of the wire and allowed his victim to retain some of the wire recovered by police. We disagree and affirm the restitution order.
+FACTUAL AND PROCEDURAL HISTORY
+Erickson stole 520 feet of underwater copper wire from Four Sisters Ranch winery. The winery used the wire in one of its wells. After Erickson's arrest, police recovered and returned two pieces of the wire-one 264 feet long, the other 32 feet long-to the winery. Because the wire could not be spliced, it was unusable in the winery's 500-foot-plus-deep wells.
+An owner of the winery testified that it would cost $4,015.44 to replace the 520-foot length of wire. The trial court ordered Erickson to pay that amount. It permitted the winery to retain the two pieces of wire that the police returned.
+DISCUSSION
+In 1982, California voters declared the right of crime victims to receive restitution directly from those convicted of the crimes they suffered. Legislative enactments provided that a crime victim shall receive restitution from the perpetrator. (§ 1202.4; see People v. Giordano (2007) 42 Cal.4th 644, 68 Cal.Rptr.3d 51, 170 P.3d 623.) Our colleagues in People v. Chappelone (2010) 183 Cal.App.4th 1159, 1172, 107 Cal.Rptr.3d 895 ( Chappelone ) set out the relevant portions of section 1202.4, subdivision (a)(1) that the victim of a crime who suffers economic loss as a result of that crime shall receive restitution from the defendant convicted of that crime. "Subdivision (f) of section 1202.4 states that ... 'in every case in which a victim has suffered economic loss as a result of the defendant's conduct, the court shall require that the defendant make restitution to the victim ... in an amount established by court order, based on the amount of loss claimed by the victim ... or any other showing to the court.' " ( Chappelone , at p. 1172, 107 Cal.Rptr.3d 895.)
+Erickson contends the trial court erred when it ordered him to pay restitution for the full value of the wire he stole and permitted the winery to keep the portions of wire returned to it. He relies on Chappelone , supra , 183 Cal.App.4th 1159, 107 Cal.Rptr.3d 895.
+A restitution order should compensate a victim for actual losses. ( Chappelone , supra , 183 Cal.App.4th at p. 1172, 107 Cal.Rptr.3d 895.) But it should not overcompensate a victim with a windfall award. ( Ibid . ) We review the trial court's restitution order for abuse of discretion. ( Id . at p. 1173, 107 Cal.Rptr.3d 895.) The court abuses its discretion if its restitution order rests on a "demonstrable error of law." ( In re S.S. (1995) 37 Cal.App.4th 543, 550, 43 Cal.Rptr.2d 768.)
+In Chappelone , the trial court ordered the defendants to pay restitution for the value of merchandise investigators recovered and returned to the Target store from which it was stolen. ( Chappelone , supra , 183 Cal.App.4th at p. 1170, 107 Cal.Rptr.3d 895.) But "a victim is not entitled to restitution for the value of property that was returned to [them], except to the extent there is some loss of value to the property." ( Id . at p. 1180, 107 Cal.Rptr.3d 895.) Target was not allowed a windfall by receiving restitution based on the stolen merchandises' retail price, instead of the wholesale price. Under the unusual facts of Chappelone , the Court of Appeal held that "it was an abuse of discretion to award Target the value of the merchandise and the merchandise." ( Id . at p. 1181, 107 Cal.Rptr.3d 895, original italics.) Instead, the court should have either "allowed Target to retain the goods and ordered [the] defendants to pay for the diminution in value" or "ordered [the] defendants to pay Target for the value of the goods when stolen and then given the merchandise to defendants for disposal to offset the amount they owed Target." ( Id . at pp. 1181-1182, 107 Cal.Rptr.3d 895.)
+Erickson wants the victim winery to sell the wire it cannot use and give him a credit, or return the wire to him, so he can defray some of the restitution he is ordered to pay. Our standard of review is abuse of discretion. The trial court considered Chappelone and made a reasoned explanation why Chappelone does not compel the result Erickson urges.
+The trial court found there is a distinction between disallowing a victim to overprice the value of what is stolen and foisting upon the victim the burden of returning to the defendant property that is of no value to the victim, but could be of value to the defendant. The trial court may have decided this case differently. But the court did not abuse its discretion in deciding as it did. The thrust of Chappelone is that the victim is not entitled to a windfall.
+We disagree with the dissent's position that the victim was in a better position than before the theft occurred. Before the theft, the copper wire was part of a functioning system. The restitution order directs that defendant pay for the wire. The victim was in a far less favorable condition than before the theft occurred. Further hearings only serve to further victimize the victim.
+To read Chappelone as requiring the court to grant all defendants in all circumstances a partial reward for their wrongdoing perverts a basic tenant of our system of justice: a wrongdoer should not profit from his or her wrongdoing. The criminal law does not contemplate a reward for criminal behavior. True, Erickson suffered a conviction, but that does not necessarily justify allowing him to keep the fruits of his ill-gotten gains. Such a standard rule would sanction the concept that in some cases crime pays-a little bit.
+DISPOSITION
+We affirm the restitution order.
+I concur:
+PERREN, J.
+I dissent. The majority opinion recognizes that "it [is] an abuse of discretion to award [the victim] the value of the merchandise and the merchandise." ( People v. Chappelone (2010) 183 Cal.App.4th 1159, 1181, 107 Cal.Rptr.3d 895 ( Chappelone ).) Yet that is precisely what the trial court did. Erickson properly requested that since he was ordered to pay for 520 feet of new copper wire, either the used wire should be released to him or, alternatively, the value of the used wire should be deducted from the restitution award. Chappelone compels this result.
+The purpose of restitution is to make the victim whole, not to confer a windfall. ( Chappelone , supra , 183 Cal.App.4th at p. 1172, 107 Cal.Rptr.3d 895.) Erickson can, and should, be required to pay for all damages suffered by the victim. But he should not be compelled to put the victim in a better position than existed before the theft occurred. Doing so does not "reward" criminal behavior. I would vacate the trial court's restitution order and remand for a hearing to determine whether and to what extent the wire returned to the victim had value in the open market, and deduct that amount, if any, from the restitution order.
+All statutory references are to the Penal Code.
+The restitution order includes an additional $652.36 that Erickson does not contest.
