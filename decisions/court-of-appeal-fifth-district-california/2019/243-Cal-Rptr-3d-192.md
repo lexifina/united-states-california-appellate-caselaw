@@ -1,0 +1,56 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "G056696"
+decided: "2019-01-24"
+citations: ["243 Cal. Rptr. 3d 192", "31 Cal. App. 5th 731"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The PEOPLE, Plaintiff and Respondent,\nv.\nRafael SERVIN, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-rptr-3d/243/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12515266
+cites_cases: ["107 Cal.Rptr.3d 439", "146 Cal.App.4th 1163", "183 Cal.App.4th 578", "184 Cal.Rptr.3d 715", "216 Cal.Rptr. 760", "3 Cal.3d 16", "343 P.3d 895", "39 Cal.3d 464", "473 P.2d 737", "53 Cal.Rptr.3d 572", "567 U.S. 460", "60 Cal.4th 1155", "703 P.2d 100", "89 Cal.Rptr. 33"]
+---
+
+# People v. Servin
+
+## Majority (FYBEL, J.)
+
+FYBEL, J.
+INTRODUCTION
+This is an appeal from a postjudgment order denying defendant Rafael Servin a compassionate release from prison under Penal Code section 1170, subdivision (e) ( section 1170(e) ). During the pendency of the appeal, defendant died. The appellate proceedings are therefore abated. Nevertheless, we are filing this opinion to make two points: (1) the statutory requirements and the standard of appellate review explained in Martinez v. Board of Parole Hearings (2010) 183 Cal.App.4th 578, 107 Cal.Rptr.3d 439 apply in all cases under section 1170(e), whether the defendant or the People appeals; and (2) to alert the Attorney General and the criminal defense bar to the necessity of immediately advising the appellate court of the time exigency and the need for calendar preference in compassionate release cases.
+PROCEDURAL HISTORY
+Defendant was convicted of murder and participation in a criminal street gang, and gang and firearm allegations were found to be true. Defendant was sentenced to life without the possibility of parole plus 25 years to life. Defendant, who was 16 years old at the time he murdered the victim, was resentenced pursuant to Miller v. Alabama (2012) 567 U.S. 460, 132 S.Ct. 2455, 183 L.Ed.2d 407.
+On May 22, 2018, the Secretary of the California Department of Corrections and Rehabilitation (the Secretary) requested that the trial court recall defendant's sentence pursuant to section 1170(e), on the grounds defendant had less than six months to live and no longer posed a threat to the community. The Secretary's request was supported by a diagnostic study and evaluation report and medical evaluation.
+Following an evidentiary hearing, the court denied the section 1170(e) request for compassionate release. The court explained its denial as follows:
+"The question that the court is faced with is: Should the court under the circumstances of this case exercise its discretion and allow the defendant to go home and die with his family? That is really the issue here. And that's the decision. [¶] ... [¶]
+"There is no question from the record before me that the defendant has a terminal illness. There is no question before me that the defendant has less than six months to live as of the date of that letter.
+"The statement by the Department of Corrections that the defendant does not pose a threat to public safety, as I indicated yesterday, the inference from that is because of the defendant's condition. [¶] ... [¶]
+"What the court is faced with here is: Should the court through compassion allow the defendant to go home and die surrounded by his family? When all is said and done, that's truly the case, that's the issue before the court.
+"The ability, if that is even the correct word, to be able to be with your family when you die, especially when you have a terminal illness, is something that we all wish for.
+"Death is part of living. I don't want to be cliché here, but everybody is going to die, and the question is: When you do die, what are the circumstances?
+"There are lots of situations where individuals who are innocent do not get to die with their family. It was mentioned yesterday about combat. People who defend our country who die in combat do not get to die with their family around them.
+"A young person who is killed, even by an accident in an automobile collision, does not get to die with their family around them.
+"And the victim in this case obviously did not get to die with his family around him.
+"So the question for the court is: Should the court exercise its discretion and allow compassion for this defendant to go home with his family? And the court at this time will answer that question, 'no.'
+"This was a tragic case. This victim was basically assassinated. The defendant, although [he] should be complimented on his journey to rehabilitation, but has he earned the compassion in this court's mind to be able to go home and to die with his family? And the answer is no.
+"So for all of those reasons, at this time the court will deny the request to recall the sentence under 1170 subsection (e)."
+Defendant filed a timely notice of appeal. During the pendency of this appeal, defendant died. Defendant's appointed appellate counsel, while acknowledging the appeal was mooted by defendant's death, asked this court to nevertheless issue an opinion to address important questions of public policy and to give guidance to the trial courts in future matters. "[I]f a pending case poses an issue of broad public interest that is likely to recur, the court may exercise an inherent discretion to resolve that issue even though an event occurring during its pendency would normally render the matter moot." ( In re William M. (1970) 3 Cal.3d 16, 23, 89 Cal.Rptr. 33, 473 P.2d 737.) We choose to address the issues raised herein which pose an issue of broad public interest; the issues not addressed in this opinion are deemed moot.
+DISCUSSION
+Section 1170(e), provides: "(1) Notwithstanding any other law and consistent with paragraph (1) of subdivision (a), if the secretary [of the Department of Corrections and Rehabilitation] or the Board of Parole Hearings or both determine that a prisoner satisfies the criteria set forth in paragraph (2), the secretary or the board may recommend to the court that the prisoner's sentence be recalled.
+"(2) The court shall have the discretion to resentence or recall if the court finds that the facts described in subparagraphs (A) and (B) ... exist:
+"(A) The prisoner is terminally ill with an incurable condition caused by an illness or disease that would produce death within six months, as determined by a physician employed by the department.
+"(B) The conditions under which the prisoner would be released or receive treatment do not pose a threat to public safety. [¶] ... [¶]
+"The Board of Parole Hearings shall make findings pursuant to this subdivision before making a recommendation for resentence or recall to the court. This subdivision does not apply to a prisoner sentenced to death or a term of life without the possibility of parole." ( § 1170, subd. (e)(1), (2).)
+"[A]lthough section 1170(e) authorizes the trial court to exercise discretion whether to release a prisoner for compassionate reasons, the statute also establishes clear eligibility criteria [citation], suggesting that discretion is not unfettered when evidence is presented satisfying the statutory criteria." ( People v. Loper (2015) 60 Cal.4th 1155, 1161, fn. 3, 184 Cal.Rptr.3d 715, 343 P.3d 895.) The proper standard of review is whether "some evidence" supports the Secretary's recommendation for compassionate release ( Martinez v. Board of Parole Hearings, supra, 183 Cal.App.4th at pp. 582-583, 593-594, 107 Cal.Rptr.3d 439 ), and is " 'highly deferential' " to the Secretary's factfinding ( id. at p. 593, 107 Cal.Rptr.3d 439 ).
+In considering a request for release of a defendant under section 1170(e), the trial court must consider only the factors specified in that statute and must make findings regarding those factors, with deference to the Secretary's recommendation. In this case, the trial court did not make a finding regarding defendant's threat to public safety. Instead, the court made findings regarding whether defendant deserved to be released from prison, which is not a proper factor for consideration under section 1170(e). For understandable reasons, the trial court did not believe that defendant deserved to be released, especially in light of the record and the statements by the victim's family at the resentencing hearing. However, the statute has two requirements; the trial court needed to make findings on both, and not on other factors. Had defendant not died during the pendency of these proceedings, based on the record, we would have remanded this matter to the trial court to make findings on the statutory factors.
+Section 1170(e) is designed to ensure that the process of requesting a compassionate release from prison is conducted expeditiously. The statute makes no specific provisions for appeals of a trial court's order, however. The California Supreme Court has expressed its opinion that an appeal of the trial court's order is preferable to a petition for a writ of mandate. "[R]espondent argues that permitting defendant to appeal the denial of compassionate release is contrary to the Legislature's purpose of expediting cases in which prisoners who meet the criteria for compassionate release can quickly be released from custody. Respondent suggests prisoners should instead seek writ relief because that avenue would more quickly resolve the case. We disagree: 'A remedy by immediate direct appeal is presumed to be adequate , and a party seeking review by extraordinary writ bears the burden of demonstrating that appeal would not be an adequate remedy under the particular circumstances of that case.' [Citation.] While not foreclosing the possibility of writ relief in all cases, we observe that prisoners remain free to seek expedited processing of their appeal on a showing of good cause, as defendant did in this case." ( People v. Loper, supra , 60 Cal.4th at p. 1167, 184 Cal.Rptr.3d 715, 343 P.3d 895.)
+In order to ensure that such cases may be resolved fully and expeditiously, we urge any party or counsel appealing from a trial court's order under section 1170(e)
+to advise the appellate court at the earliest possible time of the nature of the issues on appeal and the date on which a medical professional determined the defendant had no more than six months to live, and to seek calendar preference. ( Cal. Rules of Court, rule 8.240.)
+DISPOSITION
+The court having received and filed a certified copy of a certificate evidencing the death of defendant Rafael Servin during the pendency of this appeal, all proceedings in the case are permanently abated. ( In re Jackson (1985) 39 Cal.3d 464, 480, 216 Cal.Rptr. 760, 703 P.2d 100 ; In re Sodersten (2007) 146 Cal.App.4th 1163, 1218, 53 Cal.Rptr.3d 572.) The cause is remanded to the trial court with directions to enter an order permanently abating all proceedings with respect to defendant Rafael Servin.
+WE CONCUR:
+O'LEARY, P.J.
+MOORE, J.
+The appellate court in Martinez was addressing the use of criteria that were not specified in section 1170(e) by the Board of Parole Hearings rather than by the trial court. The issue of the standard of review of the findings underlying the board's recommendation is the same here.
