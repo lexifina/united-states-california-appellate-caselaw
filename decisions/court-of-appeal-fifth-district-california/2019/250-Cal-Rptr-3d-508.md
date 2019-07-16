@@ -1,0 +1,42 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "B290506"
+decided: "2019-07-16"
+citations: ["250 Cal. Rptr. 3d 508", "37 Cal. App. 5th 602"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The PEOPLE, Plaintiff and Respondent,\nv.\nChristopher WILLIAMS, Defendant and Appellant."]
+source_url: "https://static.case.law/cal-rptr-3d/250/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12515787
+cites_cases: ["1 Cal.5th 984", "101 Cal.Rptr.3d 332", "125 P.3d 290", "13 Cal.4th 68", "134 Cal.Rptr.2d 571", "158 Cal.Rptr.3d 290", "209 Cal.Rptr.3d 584", "218 P.3d 972", "25 Cal.App.5th 50", "28 Cal.App.5th 1071", "30 Cal.4th 773", "302 P.3d 598", "32 Cal.App.5th 1013", "34 Cal.App.5th 1124", "34 Cal.App.5th 117", "35 Cal.App.5th 658", "36 Cal.App.5th 827", "37 Cal.4th 759", "37 Cal.Rptr.3d 354", "383 P.3d 648", "408 P.2d 948", "47 Cal.4th 668", "48 Cal.Rptr. 172", "51 Cal.Rptr.2d 851", "57 Cal.4th 64", "63 Cal.2d 740", "69 P.3d 420", "913 P.2d 1061"]
+---
+
+# People v. Williams
+
+## Majority (WILEY, J.)
+
+WILEY, J.
+We confront a direct and widening court conflict over whether defendants who made a plea deal must obtain a certificate of probable cause before asking, on appeal, for a remand for resentencing under Senate Bill No. 1393 (2017-2018 Reg. Sess.), which we call SB 1393. The Supreme Court has taken up but not yet decided this conflict. We join with the courts ruling a certificate of probable cause is necessary. We dismiss this appeal because Christopher Williams never tried to obtain a certificate of probable cause. All statutory citations are to the Penal Code.
+I
+We summarize some factual background.
+As part of a plea deal, Williams pleaded no contest to two felony counts of robbery. Williams admitted a strike offense conviction. In May 2018, the trial court sentenced Williams to 30 years and four months in prison. Five of these years were due to a prior serious felony conviction enhancement under section 667, subdivision (a)(1). Without requesting or receiving a certificate of probable cause, Williams filed a notice of appeal on May 31, 2018.
+The law changed later in 2018. At the time of sentencing, section 1385(b) prohibited the court from striking any prior conviction of a serious felony for enhancement purposes under section 667. On September 30, 2018, the Governor signed SB 1393 into law. Effective January 1, 2019, this bill amended section 1385 to grant courts discretion either to impose or to strike section 667, subdivision (a)(1) enhancements.
+II
+The parties correctly agree the changes enacted by SB 1393 apply retroactively to Williams. (See In re Estrada (1965) 63 Cal.2d 740, 744-745, 48 Cal.Rptr. 172, 408 P.2d 948 ( Estrada ).)
+Courts of Appeal have divided over whether a defendant sentenced before SB 1393 must obtain a certificate of probable cause before seeking a remand for resentencing under the new law. (Compare People v. Galindo (2019) 35 Cal.App.5th 658, 247 Cal.Rptr.3d 553, petn. for review pending, petn. filed June 26, 2019 ( Galindo ) [dismissing appeal for defendant's failure to obtain certificate of probable cause] and People v. Kelly (2019) 32 Cal.App.5th 1013, 244 Cal.Rptr.3d 394, review granted June 12, 2019, S255145 ( Kelly ) [dismissing appeal for defendant's failure to obtain certificate of probable cause] with People v. Stamps (2019) 34 Cal.App.5th 117, 245 Cal.Rptr.3d 821, review granted June 12, 2019, S255843 [remanding for resentencing given SB 1393] and People v. Alexander (2019) 36 Cal.App.5th 827, 248 Cal.Rptr.3d 564 [remanding for resentencing given SB 1393].) A similar split concerns Senate Bill No. 620 (2017-2018 Reg. Sess.) (SB 620), which granted trial courts new discretion to strike or dismiss firearm sentencing enhancements. (Compare People v. Fox (2019) 34 Cal.App.5th 1124, 246 Cal.Rptr.3d 873 ( Fox ) [dismissing appeal for defendant's failure to obtain certificate of probable cause] with People v. Hurlic (2018) 25 Cal.App.5th 50, 235 Cal.Rptr.3d 255 [remanding for resentencing given SB 620] and People v. Baldivia (2018) 28 Cal.App.5th 1071, 239 Cal.Rptr.3d 704 [remanding for resentencing given SB 620].)
+We agree with the courts in Galindo , Kelly , and similar cases and therefore dismiss the present appeal for Williams's failure to obtain a certificate of probable cause.
+There is no sign the Legislature meant SB 1393 to apply to cases with stipulated and negotiated plea deals.
+Nothing in the language or legislative history of SB 1393 suggests the Legislature meant to grant trial courts discretion to reduce stipulated sentences to which the prosecution and defense have agreed in exchange for other promises. ( Galindo, supra , 35 Cal.App.5th at p. 671, 247 Cal.Rptr.3d 553.) Williams argues to the contrary but cites neither language from SB 1393 nor other evidence of legislative intent.
+The court in Galindo aptly distinguished SB 1393 from different statutes where legislative intent was clear. For example, Proposition 47 expressly applied to people "serving a sentence for a conviction, whether by trial or plea. " ( Harris v. Superior Court (2016) 1 Cal.5th 984, 991, 209 Cal.Rptr.3d 584, 383 P.3d 648, original italics.) There is nothing like that in SB 1393. Similarly, amendments to the Sex Offender Registration Act specifically say the change in law applied to "every person" required to register as a sex offender, without regard to when the crimes were committed or when the registration duty arose. ( Pen. Code, § 290.46, subd. (m) ; see Doe v. Harris (2013) 57 Cal.4th 64, 66-67, 158 Cal.Rptr.3d 290, 302 P.3d 598.) SB 1393 lacks such language.
+We conclude the Legislature did not want SB 1393 to alter existing sentences based on a negotiated plea deal and a stipulated sentence.
+To no effect, Williams seeks to distinguish his case from Fox by observing Williams filed his notice of appeal before SB 1393 passed. Williams points out the defendant in Fox entered his guilty plea after SB 620 was passed and thus Fox knew of its existence at the time he filed his notice of appeal. But Galindo rejected this factual distinction. ( Galindo, supra , 35 Cal.App.5th at p. 669, 247 Cal.Rptr.3d 553.) In Galindo , the court entered defendant's plea and sentenced him well before SB 1393 passed the Legislature or was signed into law. The court noted this prevented Galindo from seeking a certificate of probable cause based on SB 1393, but "nothing prevented him from filing a petition for writ of habeas corpus on that basis." ( Id. at p. 669, fn. 4, 247 Cal.Rptr.3d 553.) The same holds here.
+Williams attempts to attack the Fox decision by arguing he is not challenging the validity of his negotiated guilty plea. He maintains Doe v. Harris , supra , 57 Cal.4th at page 65, 158 Cal.Rptr.3d 290, 302 P.3d 598, and Estrada, supra , 63 Cal.2d at page 751, 48 Cal.Rptr. 172, 408 P.2d 948, support his view. But the Fox decision considered both of these precedents in depth and concluded neither was pertinent to the issue at hand. ( Fox , supra , 34 Cal.App.5th at pp. 1134-1135, 246 Cal.Rptr.3d 873.) We agree.
+Williams further urges this court to disregard Fox because the court did not cite any precedential authority to support the contention that application of a retroactive sentencing law to a plea agreement constitutes a challenge to the validity of the plea. The Fox decision, however, supported its holding with cases addressing challenges to the validity of plea agreements. (See People v. Johnson (2009) 47 Cal.4th 668, 101 Cal.Rptr.3d 332, 218 P.3d 972 ; People v. Shelton (2006) 37 Cal.4th 759, 37 Cal.Rptr.3d 354, 125 P.3d 290 ; People v. Buttram (2003) 30 Cal.4th 773, 134 Cal.Rptr.2d 571, 69 P.3d 420 ; People v. Panizzon (1996) 13 Cal.4th 68, 51 Cal.Rptr.2d 851, 913 P.2d 1061.)
+Williams is necessarily challenging the validity of the plea itself. ( Galindo, supra , 35 Cal.App.5th at p. 670, 247 Cal.Rptr.3d 553.) And a certificate of probable cause is necessary when a defendant challenges the validity of the plea itself. ( People v. Panizzon , supra , 13 Cal.4th at p. 78, 51 Cal.Rptr.2d 851, 913 P.2d 1061.) Williams therefore must have a certificate of probable cause to support his appeal.
+DISPOSITION
+We dismiss Williams's appeal for want of a certificate of probable cause.
+We concur:
+BIGELOW, P. J.
+GRIMES, J.
