@@ -1,0 +1,37 @@
+---
+court: "Court of Appeal, Fifth District, California"
+docket: "B295083"
+decided: "2019-07-29"
+citations: ["250 Cal. Rptr. 3d 372", "37 Cal. App. 5th 1167"]
+reporter: "cal-rptr-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE E.W., a Person Coming Under the Juvenile Court Law."]
+source_url: "https://static.case.law/cal-rptr-3d/250/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12515771
+cites_cases: ["132 Cal.App.4th 1193", "144 Cal.App.4th 461", "34 Cal.Rptr.3d 270", "50 Cal.Rptr.3d 459"]
+---
+
+# L. A. Cnty. Dep't of Children & Family Servs. v. F.D. (In re E.W.)
+
+## Majority (GRIMES, J.)
+
+GRIMES, J.
+The mother in this dependency case, F.D., appeals from the court's orders declaring her son, E.W., a dependent of the court; removing the child from the care, custody and control of the mother; releasing the child to the home of the father; terminating jurisdiction with a custody order awarding the father sole legal and physical custody; and ordering that the mother have no visitation with the child.
+We need not recite the circumstances that led to the court's orders or the evidence that supports the orders. Mother's sole claim on appeal is that, under the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA; Fam. Code, § 3400 et seq. ), the court had no jurisdiction to make the orders. Mother is mistaken.
+Mother and father are divorced. Mother lives in South Carolina and father resides in Los Angeles. Under a Family Law Order issued in California dated January 2, 2014, the parents shared joint legal custody of E.W. The child lived with mother in South Carolina and, among other visitation arrangements, spent nine weeks during the summers with his father in Los Angeles. The circumstances precipitating the removal of the child from his mother (allegations of physical abuse) were disclosed by the child shortly before he was to return to South Carolina in August 2018, when he was 13 years old.
+At the detention hearing on August 21, 2018, mother's counsel told the court "there may be a UCCJEA issue here," because "the child resided in South Carolina between 2014 to the present." Father's counsel observed there was no UCCJEA issue, because the Orange County court issued the January 2, 2014 Family Law Order; there was no other order by any other state; and California has existing and continuing jurisdiction. The court responded by saying, "The court does not find that UCCJEA applies to this case."
+On appeal, mother argues that "[t]he court was wrong," that California was not the child's "home state" under the UCCJEA when the dependency proceeding began, and that the court should have conducted an evidentiary hearing to determine whether South Carolina or California was the child's home state.
+Mother has misconstrued the UCCJEA. It does apply, in the sense that it governs the jurisdiction of a California court to make a child custody determination, but in this case its application plainly results in jurisdiction in California. The UCCJEA specifies the circumstances under which a California court "has jurisdiction to make an initial child custody determination" (§ 3421, subd. (a), italics added), and this depends on the home state of the child. As pertinent here, a California court "has jurisdiction to make an initial child custody determination only if .... [¶] .... [t]his state is the home state of the child on the date of the commencement of the proceeding ...." (§ 3421, subd. (a)(1).) " 'Home state' means the state in which a child lived with a parent ... for at least six consecutive months immediately before the commencement of a child custody proceeding." (§ 3402, subd. (g).)
+The UCCJEA further specifies that a California court that has made a custody determination consistent with section 3421 "has exclusive, continuing jurisdiction over the determination" until either of two delineated circumstances occur: "(1) A court of this state determines that neither the child, nor the child and one parent, nor the child and a person acting as a parent have a significant connection with this state and that substantial evidence is no longer available in this state concerning the child's care, protection, training, and personal relationships. [¶] (2) A court of this state or a court of another state determines that the child, the child's parents, and any person acting as a parent do not presently reside in this state." (§ 3422, subd. (a)(1) & (2).) Neither of those circumstances has occurred in this case.
+Here, the dependency court's custody determination was not the "initial child custody determination." (§ 3421, subd. (a).) The initial child custody determination was made by the court in Orange County on January 2, 2014. Mother does not suggest, nor could she, that California was not the child's home state when the initial custody determination was made. In short, in this case the child's "home state" when the dependency proceeding began does not matter, because a California court had already made the initial child custody determination, consistent with section 3421, in January 2014, and California has exclusive, continuing jurisdiction.
+In her reply brief, mother alters course and contends California courts were divested of jurisdiction under the first of the two occurrences described in section 3422, subdivision (a), under which continuing jurisdiction terminates. Specifically, she claims that, under section 3422, subdivision (a)(1), "substantial evidence" concerning the allegations of her physical abuse of the child existed in South Carolina, not California. This contention has no merit either. Even if it were so, all the conditions specified in section 3422, subdivision (a)(1) - not just the substantial evidence prong - must be met before the court's continuing jurisdiction may be terminated. Thus:
+"California courts must retain continuing jurisdiction unless both conditions are met that cause that jurisdiction to be terminated: neither the child, nor the child and the parent have a significant connection with the state and substantial evidence is no longer available in this state." ( Grahm v. Superior Court (2005) 132 Cal.App.4th 1193, 1199, 34 Cal.Rptr.3d 270 ; id. at p. 1200, 34 Cal.Rptr.3d 270 ["the original state retains continuing exclusive jurisdiction as long as the parent who is exercising visitation rights still lives in that state and the relationship between that parent and the child has not deteriorated to the point at which the exercise of jurisdiction would be unreasonable"].) Mother does not suggest any deterioration in the relationship between father and child, and the evidence is entirely to the contrary. The conditions for termination of California's exclusive, continuing jurisdiction clearly have not occurred in this case.
+In sum, "[t]he UCCJEA takes a strict 'first in time' approach to jurisdiction." ( In re Marriage of Paillier (2006) 144 Cal.App.4th 461, 469, 50 Cal.Rptr.3d 459.) The rule, subject to exceptions that do not apply here, is that once the court of an "appropriate state" - one having jurisdiction under section 3421, subdivision (a) - has made a child custody determination, "that court obtains 'exclusive, continuing jurisdiction ....' " ( In re Marriage of Paillier , at p. 469, 50 Cal.Rptr.3d 459.) That is the case here.
+DISPOSITION
+The orders are affirmed.
+WE CONCUR:
+BIGELOW, P. J.
+STRATTON, J.
+Further statutory references are to the Family Code.
